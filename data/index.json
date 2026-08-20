@@ -1,0 +1,29 @@
+{
+  "generado": "2026-08-20T17:00:05",
+  "generado_humano": "2026.AGO.20 17:00",
+  "ciudad": "bogota",
+  "datasets": [
+    {
+      "clave": "venta_apto_chapinero",
+      "etiqueta": "Venta · Apto · Chapinero",
+      "archivo": "venta_apto_chapinero.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "chapinero"
+    },
+    {
+      "clave": "arriendo_apto_chapinero",
+      "etiqueta": "Arriendo · Apto · Chapinero",
+      "archivo": "arriendo_apto_chapinero.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "chapinero"
+    }
+  ],
+  "noticias": {
+    "archivo": "noticias.json",
+    "total": 40
+  }
+}
