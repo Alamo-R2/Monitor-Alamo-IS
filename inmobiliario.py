@@ -235,7 +235,7 @@ def extraer(page, cfg):
             return filas
     return _desde_css(page, cfg)
     def scrape_portal(portal, operacion, tipo, zona, ciudad, paginas):
-    cfg = PORTALES[portal]
+        cfg = PORTALES[portal]
     todos = []
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
