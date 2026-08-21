@@ -1,22 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-================================================================================
-  MONITOR INMOBILIARIO  —  Opción B (sin costos recurrentes, auto-mantenible)
-================================================================================
-Hace tres cosas:
-  1. BUSCAR    inmuebles según criterios (para el cliente arrendatario/comprador)
-  2. AVALUO    resumen de precios de mercado en una zona (para el propietario)
-  3. NOTICIAS  titulares recientes del sector inmobiliario
-  Y un modo:
-  4. DOCTOR    revisa qué fuentes funcionan y cuál se rompió (mantenimiento)
-
-Está pensado para tocarse lo MENOS posible. Si un portal cambia y deja de
-funcionar, NO tienes que programar: el modo DOCTOR te genera un archivo y un
-mensaje listo para pegar en Claude, que te devuelve la línea a corregir.
-
->>> Instrucciones de instalación y uso: ver la "GUIA_MANTENIMIENTO.md" <<<
-================================================================================
+MONITOR INMOBILIARIO — Opción B (sin costos recurrentes, auto-mantenible)
+Comandos: buscar | avaluo | noticias | doctor | publicar | diagnostico
+Ver GUIA_MANTENIMIENTO.md
 """
 
 import argparse
@@ -27,7 +14,6 @@ import time
 from datetime import datetime
 from pathlib import Path
 
-# --- Dependencias externas (se instalan una sola vez, ver la guía) ---
 try:
     import pandas as pd
     import requests
@@ -37,22 +23,17 @@ except ImportError:
     sys.exit(1)
 
 
-# ##############################################################################
-# #                                                                            #
-# #     ZONA EDITABLE  —  AQUÍ SÍ PUEDES CAMBIAR COSAS SIN MIEDO               #
-# #     (cambia ciudades, zonas, filtros. NO toques nada debajo del aviso.)   #
-# #                                                                            #
-# ##############################################################################
+# ############################################################################
+# #   ZONA EDITABLE — cambia ciudades/zonas/consultas sin miedo.             #
+# #   NO toques nada debajo del aviso de más abajo.                          #
+# ############################################################################
 
 CIUDAD_POR_DEFECTO = "bogota"
 
-# Portales de inmuebles usados / arriendo / venta.
-# 'url' usa {operacion} {tipo} {zona} {ciudad} {pagina}. Si un portal cambia su
-# forma de URL o deja de funcionar, el modo DOCTOR te dirá cuál y cómo arreglarlo.
 PORTALES = {
     "metrocuadrado": {
         "url": "https://www.metrocuadrado.com/{tipo}/{operacion}/{ciudad}/{zona}/?page={pagina}",
-        "css_tarjeta": "div[data-id]",              # <-- selector de contingencia
+        "css_tarjeta": "div[data-id]",
         "css_precio": "[class*='price'],[class*='precio']",
         "css_titulo": "h2,[class*='title']",
         "css_area": "[class*='area']",
@@ -60,7 +41,7 @@ PORTALES = {
         "css_ubic": "[class*='location'],[class*='ubicac']",
     },
     "fincaraiz": {
-        "url": "https://www.fincaraiz.com.co/{operacion}/{tipo}/{zona}/{ciudad}?pagina={pagina}",
+        "url": "https://www.fincaraiz.com.co/{operacion}/{tipo}/{ciudad}/{zona}?pagina={pagina}",
         "css_tarjeta": "div[class*='listingCard'],article",
         "css_precio": "[class*='price']",
         "css_titulo": "[class*='title'],h2",
@@ -68,15 +49,12 @@ PORTALES = {
         "css_hab": "[class*='bedroom'],[class*='room']",
         "css_ubic": "[class*='location']",
     },
-    # Puedes añadir ciencuadras / properati copiando un bloque igual.
 }
 
-# Agregadores de OBRA NUEVA (una sola dirección reúne muchas constructoras).
 AGREGADORES_OBRA_NUEVA = {
     "estrenarvivienda": "https://www.estrenarvivienda.com/{ciudad}",
 }
 
-# Fuentes de NOTICIAS del sector (páginas índice; se leen los titulares).
 NOTICIAS = {
     "La República":  "https://www.larepublica.co/camacol",
     "Portafolio":    "https://www.portafolio.co/noticias-economicas/sector-inmobiliario",
@@ -86,34 +64,22 @@ NOTICIAS = {
     "Camacol":       "https://camacol.co/actualidad/noticias",
 }
 
-# Ritmo (segundos entre páginas). Súbelo si un portal te bloquea; no lo bajes.
 PAUSA = 2.5
 PAGINAS_POR_DEFECTO = 5
 
-# ############################################################################
-# #  CONSULTAS QUE SE PUBLICAN SOLAS (las corre GitHub Actions y las carga    #
-# #  Alamo-IS). Añade/quita filas aquí. 'clave' es el nombre corto del        #
-# #  archivo; 'etiqueta' es lo que verás en la app.                           #
-# ############################################################################
 PUBLICAR = [
     {"clave": "venta_apto_chapinero",   "etiqueta": "Venta · Apto · Chapinero",
      "portal": "metrocuadrado", "operacion": "venta",    "tipo": "apartamento", "zona": "chapinero"},
     {"clave": "arriendo_apto_chapinero","etiqueta": "Arriendo · Apto · Chapinero",
      "portal": "metrocuadrado", "operacion": "arriendo", "tipo": "apartamento", "zona": "chapinero"},
 ]
-PUBLICAR_NOTICIAS = True   # incluir noticias del sector en la publicación
+PUBLICAR_NOTICIAS = True
 
-# ##############################################################################
-# #                                                                            #
-# #     AVISO: NO EDITES NADA DEBAJO DE ESTA LÍNEA                             #
-# #     Si algo se rompe, usa el modo DOCTOR. No hace falta tocar el código.   #
-# #                                                                            #
-# ##############################################################################
+# ############################################################################
+# #   AVISO: NO EDITES NADA DEBAJO DE ESTA LÍNEA.                            #
+# ############################################################################
 
 
-# ---------------------------------------------------------------------------
-# Utilidades
-# ---------------------------------------------------------------------------
 def _num(texto):
     if not texto:
         return None
@@ -121,52 +87,162 @@ def _num(texto):
     return int(d) if d else None
 
 
+def _dec(valor):
+    if valor is None or valor == "":
+        return None
+    try:
+        return float(valor)
+    except (TypeError, ValueError):
+        s = re.sub(r"[^\d.,]", "", str(valor)).replace(",", ".")
+        try:
+            return float(s) if s else None
+        except ValueError:
+            return None
+
+
 def _carpeta(nombre):
     p = Path(nombre)
     p.mkdir(exist_ok=True)
     return p
-
-
 def _abrir_pagina(browser, url):
     page = browser.new_context(
         locale="es-CO",
         user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                    "(KHTML, like Gecko) Chrome/125.0 Safari/537.36"),
-    ).new_page()
+                    "(KHTML, like Gecko) Chrome/125.0 Safari/537.36")).new_page()
     page.goto(url, timeout=45000, wait_until="domcontentloaded")
-    page.wait_for_timeout(2500)
+    page.wait_for_timeout(3500)
     return page
 
 
-# ---------------------------------------------------------------------------
-# ESTRATEGIAS DE EXTRACCIÓN (de más estable a menos)
-#   1) JSON-LD  (schema.org) -> nombres de campo fijos, casi nunca cambia
-#   2) __NEXT_DATA__          -> estado JSON de la página
-#   3) CSS                    -> contingencia (lo que más se rompe)
-# ---------------------------------------------------------------------------
 def _desde_jsonld(page):
     filas = []
-    for b in page.query_selector_all('script[type="application/ld+json"]'):
+    for el in page.query_selector_all('script[type="application/ld+json"]'):
         try:
-            data = json.loads(b.inner_text())
+            data = json.loads(el.inner_text())
         except Exception:
             continue
-        for item in (data if isinstance(data, list) else [data]):
-            tipo = item.get("@type", "")
-            if any(k in str(tipo) for k in ("Product", "Residence", "Apartment",
-                                            "House", "Offer", "RealEstate")):
-                offer = item.get("offers", {}) or {}
+        items = data if isinstance(data, list) else [data]
+        for it in items:
+            if not isinstance(it, dict):
+                continue
+            if it.get("@type") in ("Product", "Offer", "Residence", "Apartment", "House"):
+                offer = it.get("offers") or {}
                 filas.append({
-                    "titulo": item.get("name"),
-                    "precio": _num(offer.get("price") or item.get("price")),
-                    "area_m2": _num((item.get("floorSize") or {}).get("value")
-                                    if isinstance(item.get("floorSize"), dict) else None),
-                    "habitaciones": _num(item.get("numberOfRooms")),
-                    "ubicacion": (item.get("address", {}) or {}).get("addressLocality")
-                                 if isinstance(item.get("address"), dict) else None,
-                    "url": item.get("url"),
+                    "titulo": it.get("name"),
+                    "precio": _num(offer.get("price") or it.get("price")),
+                    "area_m2": _dec(it.get("floorSize", {}).get("value") if isinstance(it.get("floorSize"), dict) else None),
+                    "habitaciones": _num(it.get("numberOfRooms")),
+                    "ubicacion": (it.get("address") or {}).get("addressLocality") if isinstance(it.get("address"), dict) else None,
+                    "url": it.get("url"),
                     "_fuente": "json-ld",
                 })
+    return filas
+
+
+def _desde_metrocuadrado(page):
+    """Metrocuadrado embebe los resultados oficiales en self.__next_f.push([1,"...initialResults...results:[...]"])."""
+    html = page.content()
+    idx = html.find('\\"initialResults\\"')
+    if idx < 0:
+        idx = html.find('"initialResults"')
+    if idx < 0:
+        return []
+    rkey = html.find('results', idx)
+    if rkey < 0:
+        return []
+    br = html.find('[', rkey)
+    if br < 0:
+        return []
+    depth, i, in_str, esc = 0, br, False, False
+    while i < len(html):
+        c = html[i]
+        if esc:
+            esc = False
+        elif c == '\\':
+            esc = True
+        elif c == '"':
+            in_str = not in_str
+        elif not in_str:
+            if c == '[':
+                depth += 1
+            elif c == ']':
+                depth -= 1
+                if depth == 0:
+                    break
+        i += 1
+    raw = html[br:i + 1]
+    txt = raw.encode('utf-8').decode('unicode_escape')
+    try:
+        results = json.loads(txt)
+    except Exception:
+        try:
+            results = json.loads(raw.replace('\\"', '"').replace('\\\\', '\\'))
+        except Exception:
+            return []
+    filas = []
+    for r in results:
+        if not isinstance(r, dict):
+            continue
+        precio = r.get("mvalorventa") or r.get("mvalorarriendo")
+        loc = r.get("localizacion") or {}
+        data = r.get("data") or {}
+        link = r.get("link") or data.get("murldetalle")
+        filas.append({
+            "titulo": r.get("title"),
+            "precio": _num(precio),
+            "area_m2": _dec(r.get("marea") or r.get("mareac")),
+            "habitaciones": _num(r.get("mnrocuartos")),
+            "banos": _num(r.get("mnrobanos")),
+            "parqueaderos": _num(r.get("mnrogarajes")),
+            "administracion": _num(data.get("mvaloradministracion")),
+            "ubicacion": r.get("mbarrio") or (r.get("mzona") or {}).get("nombre"),
+            "url": ("https://www.metrocuadrado.com" + link) if link and link.startswith("/") else link,
+            "id_domus": r.get("midinmueble"),
+            "lat": loc.get("lat"),
+            "lon": loc.get("lon"),
+            "location_type": "exacta" if loc.get("lat") else "aproximada",
+            "_fuente": "metrocuadrado-next",
+        })
+    return filas
+  def _desde_fincaraiz(page):
+    """Fincaraíz (Next.js): inmuebles en __NEXT_DATA__ -> props.pageProps.fetchResult.searchFast.data[]."""
+    el = page.query_selector("#__NEXT_DATA__")
+    if not el:
+        return []
+    try:
+        data = json.loads(el.inner_text())
+    except Exception:
+        return []
+    try:
+        arr = data["props"]["pageProps"]["fetchResult"]["searchFast"]["data"]
+    except Exception:
+        return []
+    filas = []
+    for r in arr:
+        if not isinstance(r, dict):
+            continue
+        precio = (r.get("price") or {}).get("amount")
+        admin = (r.get("commonExpenses") or {}).get("amount")
+        loc = r.get("locations") or {}
+        barrio = ((loc.get("location_main") or {}).get("name")
+                  or (loc.get("neighbourhood") or [{}])[0].get("name"))
+        link = r.get("link")
+        filas.append({
+            "titulo": r.get("title"),
+            "precio": _num(precio),
+            "area_m2": _dec(r.get("m2") or r.get("m2Built") or r.get("m2apto")),
+            "habitaciones": _num(r.get("bedrooms")),
+            "banos": _num(r.get("bathrooms")),
+            "parqueaderos": _num(r.get("garage")),
+            "administracion": _num(admin) if admin else None,
+            "ubicacion": barrio,
+            "url": ("https://www.fincaraiz.com.co" + link) if link and link.startswith("/") else link,
+            "id_domus": str(r.get("id")) if r.get("id") else None,
+            "lat": r.get("latitude"),
+            "lon": r.get("longitude"),
+            "location_type": "exacta" if r.get("latitude") else "aproximada",
+            "_fuente": "fincaraiz-next",
+        })
     return filas
 
 
@@ -188,7 +264,7 @@ def _desde_next_data(page):
                 filas.append({
                     "titulo": obj.get("title") or obj.get("titulo") or obj.get("name"),
                     "precio": _num(obj.get("price") or obj.get("precio") or obj.get("salePrice")),
-                    "area_m2": _num(obj.get("area") or obj.get("areaConstruida")
+                    "area_m2": _dec(obj.get("area") or obj.get("areaConstruida")
                                     or obj.get("builtArea") or obj.get("m2")),
                     "habitaciones": _num(obj.get("rooms") or obj.get("bedrooms")
                                          or obj.get("habitaciones")),
@@ -218,7 +294,7 @@ def _desde_css(page, cfg):
         filas.append({
             "titulo": tx(cfg["css_titulo"]),
             "precio": _num(tx(cfg["css_precio"])),
-            "area_m2": _num(tx(cfg["css_area"])),
+            "area_m2": _dec(tx(cfg["css_area"])),
             "habitaciones": _num(tx(cfg["css_hab"])),
             "ubicacion": tx(cfg["css_ubic"]),
             "url": href,
@@ -229,16 +305,13 @@ def _desde_css(page, cfg):
 
 def extraer(page, cfg):
     """Prueba las estrategias en orden y devuelve la primera que da buenos datos."""
-    for estrategia in (_desde_jsonld, _desde_next_data):
+    for estrategia in (_desde_metrocuadrado, _desde_fincaraiz, _desde_jsonld, _desde_next_data):
         filas = estrategia(page)
         if _validar(filas)[0]:
             return filas
-    return _desde_css(page, cfg)  # contingencia
+    return _desde_css(page, cfg)
 
 
-# ---------------------------------------------------------------------------
-# VALIDACIÓN (detecta ruptura silenciosa)
-# ---------------------------------------------------------------------------
 def _validar(filas, min_filas=3, max_vacios=0.4):
     problemas = []
     if len(filas) < min_filas:
@@ -248,12 +321,7 @@ def _validar(filas, min_filas=3, max_vacios=0.4):
         if vacios > max_vacios:
             problemas.append(f"precios vacíos en {vacios:.0%} de los resultados")
     return (len(problemas) == 0), problemas
-
-
-# ---------------------------------------------------------------------------
-# SCRAPING de un portal
-# ---------------------------------------------------------------------------
-def scrape_portal(portal, operacion, tipo, zona, ciudad, paginas):
+  def scrape_portal(portal, operacion, tipo, zona, ciudad, paginas):
     cfg = PORTALES[portal]
     todos = []
     with sync_playwright() as p:
@@ -272,7 +340,6 @@ def scrape_portal(portal, operacion, tipo, zona, ciudad, paginas):
                 print(f"    aviso: {e}")
             time.sleep(PAUSA)
         browser.close()
-    # dedup por url
     vistos, unicos = set(), []
     for f in todos:
         k = f.get("url") or json.dumps(f, ensure_ascii=False)
@@ -282,52 +349,47 @@ def scrape_portal(portal, operacion, tipo, zona, ciudad, paginas):
     return unicos
 
 
-# ---------------------------------------------------------------------------
-# NOTICIAS (lectura ligera de titulares)
-# ---------------------------------------------------------------------------
-def leer_noticias(maximo=8):
-    resultados = []
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        for medio, url in NOTICIAS.items():
-            try:
-                page = _abrir_pagina(browser, url)
-                vistos = set()
-                for a in page.query_selector_all("article a, h2 a, h3 a"):
-                    txt = (a.inner_text() or "").strip()
-                    href = a.get_attribute("href") or ""
-                    if len(txt) > 30 and href and txt not in vistos:
-                        vistos.add(txt)
-                        if href.startswith("/"):
-                            href = url.split("/", 3)[0] + "//" + url.split("/")[2] + href
-                        resultados.append({"medio": medio, "titular": txt, "url": href})
-                    if len([r for r in resultados if r["medio"] == medio]) >= maximo:
-                        break
-            except Exception as e:
-                print(f"  aviso ({medio}): {e}")
-        browser.close()
-    return resultados
-
-
-# ---------------------------------------------------------------------------
-# RESUMEN DE MERCADO (avalúo)
-# ---------------------------------------------------------------------------
 def resumen_mercado(df):
+    if df.empty or "precio" not in df:
+        return {}
     precios = df["precio"].dropna()
     if precios.empty:
         return {}
-    da = df.dropna(subset=["precio", "area_m2"])
-    da = da[da["area_m2"] > 0]
-    pm2 = (da["precio"] / da["area_m2"]) if not da.empty else pd.Series(dtype=float)
-    return {
-        "muestra": len(precios),
-        "precio_minimo": int(precios.min()),
-        "precio_maximo": int(precios.max()),
+    res = {
+        "resultados": int(len(df)),
+        "precio_min": int(precios.min()),
+        "precio_max": int(precios.max()),
         "precio_promedio": int(precios.mean()),
         "precio_mediana": int(precios.median()),
-        "precio_m2_promedio": int(pm2.mean()) if not pm2.empty else "sin dato",
-        "precio_m2_mediana": int(pm2.median()) if not pm2.empty else "sin dato",
     }
+    if "area_m2" in df:
+        areas = df["area_m2"].dropna()
+        if not areas.empty and precios.sum() > 0:
+            m2 = df.dropna(subset=["precio", "area_m2"])
+            m2 = m2[m2["area_m2"] > 0]
+            if not m2.empty:
+                res["precio_m2_promedio"] = int((m2["precio"] / m2["area_m2"]).mean())
+    return res
+
+
+def leer_noticias():
+    items = []
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; MonitorInmobiliario/1.0)"}
+    for medio, url in NOTICIAS.items():
+        try:
+            r = requests.get(url, headers=headers, timeout=20)
+            titulares = re.findall(r"<h[12][^>]*>\s*(?:<a[^>]*>)?\s*([^<]{25,140})", r.text)
+            for t in titulares[:5]:
+                t = re.sub(r"\s+", " ", t).strip()
+                if t:
+                    items.append({"medio": medio, "titular": t, "url": url})
+        except Exception as e:
+            print(f"  aviso ({medio}): {e}")
+    return items
+
+
+def _carpeta_resultados():
+    return _carpeta("resultados")
 
 
 def exportar_excel(df, resumen, etiqueta):
@@ -342,9 +404,6 @@ def exportar_excel(df, resumen, etiqueta):
     return ruta
 
 
-# ---------------------------------------------------------------------------
-# EXPORT PARA "Alamo Team - IS"  (contrato interno · se importa en 5·E.Mercado)
-# ---------------------------------------------------------------------------
 def _df_a_contrato(df, portal, operacion, tipo):
     """df crudo -> lista de inmuebles en el esquema interno de Alamo-IS."""
     oper = {"venta": "Venta", "arriendo": "Arriendo"}.get(operacion, operacion)
@@ -359,20 +418,24 @@ def _df_a_contrato(df, portal, operacion, tipo):
             "tipo": tipo,
             "precio": g("precio"),
             "area": g("area_m2"),
-            "administracion": None,
+            "administracion": g("administracion"),
             "barrio": (str(g("ubicacion")).upper() if g("ubicacion") else ""),
             "direccion": "",
             "habitaciones": g("habitaciones"),
+            "banos": g("banos"),
+            "parqueaderos": g("parqueaderos"),
             "portalNombre": portal,
             "sourceLink": g("url"),
             "titulo": g("titulo"),
-            "location_type": "aproximada",
+            "id_domus": g("id_domus"),
+            "lat": g("lat"),
+            "lon": g("lon"),
+            "location_type": g("location_type") or "aproximada",
         })
     return inmuebles
 
 
 def exportar_alamo_json(df, args, etiqueta):
-    """Escribe *_alamo.json normalizado al esquema interno del artefacto HTML."""
     _carpeta("resultados")
     fecha = datetime.now().strftime("%Y%m%d_%H%M")
     ruta = Path("resultados") / f"{etiqueta}_{fecha}_alamo.json"
@@ -383,7 +446,6 @@ def exportar_alamo_json(df, args, etiqueta):
 
 
 def exportar_noticias_json(items):
-    """Escribe noticias_*_alamo.json para importar en 7·Informes."""
     _carpeta("resultados")
     fecha = datetime.now().strftime("%Y%m%d_%H%M")
     ruta = Path("resultados") / f"noticias_{fecha}_alamo.json"
@@ -396,96 +458,10 @@ def exportar_noticias_json(items):
     } for it in items]
     ruta.write_text(json.dumps({"noticias": noticias}, ensure_ascii=False, indent=2), encoding="utf-8")
     return ruta
-
-
-# ---------------------------------------------------------------------------
-# MODO DOCTOR (mantenimiento sin programar)
-# ---------------------------------------------------------------------------
-def doctor():
-    print("\n=== DIAGNÓSTICO DE FUENTES ===\n")
-    rotos = []
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        for portal, cfg in PORTALES.items():
-            url = cfg["url"].format(operacion="arriendo", tipo="apartamento",
-                                    zona="chapinero", ciudad=CIUDAD_POR_DEFECTO, pagina=1)
-            try:
-                page = _abrir_pagina(browser, url)
-                filas = extraer(page, cfg)
-                ok, probs = _validar(filas)
-                if ok:
-                    fuente = filas[0].get("_fuente", "?") if filas else "?"
-                    print(f"  ✔ {portal:16} OK  ({len(filas)} resultados vía {fuente})")
-                else:
-                    print(f"  �’ {portal:16} FALLA: {', '.join(probs)}")
-                    snap = _guardar_snapshot(page, portal)
-                    rotos.append((portal, snap, probs))
-            except Exception as e:
-                print(f"  ✗ {portal:16} ERROR de conexión: {e}")
-                rotos.append((portal, None, [str(e)]))
-        browser.close()
-
-    if not rotos:
-        print("\nTodo funciona. No hay nada que hacer.\n")
-        return
-
-    print("\n--- HAY FUENTES QUE NECESITAN REPARACIÓN ---")
-    print("No tienes que programar. Sigue la GUIA_MANTENIMIENTO.md, sección")
-    print("'Cuando una fuente se rompe'. Copia y pega en Claude este mensaje:\n")
-    for portal, snap, probs in rotos:
-        print(f"  • Portal '{portal}': {', '.join(probs)}.")
-        if snap:
-            print(f"    Sube a Claude este archivo: {snap}")
-    print("\nClaude te devolverá la línea exacta a reemplazar. Fin.\n")
-
-
-def _guardar_snapshot(page, portal):
-    carpeta = _carpeta("diagnostico")
-    ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-    ruta = carpeta / f"{portal}_{ts}.html"
-    ruta.write_text(page.content(), encoding="utf-8")
-    return ruta
-
-
-# ---------------------------------------------------------------------------
-# LÍNEA DE COMANDOS
-# ---------------------------------------------------------------------------
-def diagnosticar_portal(portal, operacion, tipo, zona, guardar_html=True):
-    """Abre una URL de búsqueda del portal y reporta qué encontró (para calibrar)."""
-    cfg = PORTALES[portal]
-    url = cfg["url"].format(operacion=operacion, tipo=tipo, zona=zona,
-                            ciudad=CIUDAD_POR_DEFECTO, pagina=1)
-    rep = {"portal": portal, "url_pedida": url}
-    try:
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            page = _abrir_pagina(browser, url)
-            html = page.content()
-            rep["url_final"] = page.url
-            rep["titulo"] = (page.title() or "")[:160]
-            rep["jsonld_bloques"] = len(page.query_selector_all('script[type="application/ld+json"]'))
-            rep["next_data"] = bool(page.query_selector("#__NEXT_DATA__"))
-            try:
-                rep["css_tarjetas"] = len(page.query_selector_all(cfg["css_tarjeta"]))
-            except Exception:
-                rep["css_tarjetas"] = "selector inválido"
-            rep["html_bytes"] = len(html)
-            rep["html_inicio"] = re.sub(r"\s+", " ", html[:1200])
-            if guardar_html:
-                Path("data").mkdir(exist_ok=True)
-                (Path("data") / f"snapshot_{portal}.html").write_text(html, encoding="utf-8")
-            browser.close()
-    except Exception as e:
-        rep["error"] = f"{type(e).__name__}: {e}"
-    return rep
-
-
-def diagnostico(carpeta="data"):
-    """Corre en la nube. Guarda el HTML real de cada portal + resumen, para calibrar."""
-    from playwright.sync_api import sync_playwright
+  def diagnostico(carpeta="data"):
+    """Guarda el HTML real de cada portal + resumen, para calibrar (corre en la nube)."""
     base = Path(carpeta) / "diagnostico"
     base.mkdir(parents=True, exist_ok=True)
-    # casos a inspeccionar: cada portal con params típicos + una fuente de noticias
     casos = []
     for portal, cfg in PORTALES.items():
         for oper in ("venta", "arriendo"):
@@ -498,34 +474,21 @@ def diagnostico(carpeta="data"):
         for nombre, portal, url in casos:
             info = {"nombre": nombre, "portal": portal, "url": url}
             try:
-                page = browser.new_context(
-                    locale="es-CO",
-                    user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                                "(KHTML, like Gecko) Chrome/125.0 Safari/537.36")).new_page()
-                resp = page.goto(url, timeout=45000, wait_until="domcontentloaded")
-                page.wait_for_timeout(3500)
-                info["status"] = resp.status if resp else None
+                page = _abrir_pagina(browser, url)
                 info["url_final"] = page.url
                 info["titulo"] = page.title()
                 info["jsonld_bloques"] = len(page.query_selector_all('script[type="application/ld+json"]'))
                 info["next_data"] = bool(page.query_selector("#__NEXT_DATA__"))
-                cfg = PORTALES[portal]
-                try:
-                    info["css_tarjetas"] = len(page.query_selector_all(cfg["css_tarjeta"]))
-                except Exception:
-                    info["css_tarjetas"] = "selector inválido"
                 html = page.content()
                 info["html_bytes"] = len(html)
                 (base / f"{nombre}.html").write_text(html, encoding="utf-8")
-                # extracto del __NEXT_DATA__ si existe (suele traer los listados)
                 nd = page.query_selector("#__NEXT_DATA__")
                 if nd:
                     (base / f"{nombre}__NEXT_DATA__.json").write_text(nd.inner_text(), encoding="utf-8")
             except Exception as e:
                 info["error"] = str(e)
             resumen["casos"].append(info)
-            print(f"  {nombre}: status={info.get('status')} jsonld={info.get('jsonld_bloques')} "
-                  f"next={info.get('next_data')} css={info.get('css_tarjetas')} -> {nombre}.html")
+            print(f"  {nombre}: next={info.get('next_data')} jsonld={info.get('jsonld_bloques')} -> {nombre}.html")
         browser.close()
     (base / "resumen.json").write_text(json.dumps(resumen, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"\nDiagnóstico escrito en {base.resolve()}")
@@ -533,11 +496,11 @@ def diagnostico(carpeta="data"):
 
 
 def publicar(carpeta="data"):
-    """Corre las consultas de PUBLICAR y escribe data/ + index.json (manifiesto).
-       Es el modo que ejecuta GitHub Actions; Alamo-IS lee esa carpeta."""
+    """Corre las consultas de PUBLICAR y escribe data/ + index.json (para Alamo-IS)."""
     base = Path(carpeta)
     base.mkdir(parents=True, exist_ok=True)
     generado = datetime.now()
+    MES = ["ENE", "FEB", "MAR", "ABR", "MAY", "JUN", "JUL", "AGO", "SEP", "OCT", "NOV", "DIC"]
     datasets = []
     for cfg in PUBLICAR:
         print(f"\n== Publicando: {cfg['etiqueta']} ==")
@@ -563,7 +526,8 @@ def publicar(carpeta="data"):
         try:
             items = leer_noticias()
         except Exception as e:
-            print(f"  aviso noticias: {e}"); items = []
+            print(f"  aviso noticias: {e}")
+            items = []
         noticias = [{"titulo": it.get("titular", ""), "fuente": it.get("medio", ""),
                      "fecha": generado.strftime("%Y-%m-%d"), "resumen": "",
                      "url": it.get("url", "")} for it in items]
@@ -574,68 +538,62 @@ def publicar(carpeta="data"):
 
     manifiesto = {
         "generado": generado.isoformat(timespec="seconds"),
-        "generado_humano": generado.strftime("%Y.") +
-            ["ENE","FEB","MAR","ABR","MAY","JUN","JUL","AGO","SEP","OCT","NOV","DIC"][generado.month-1] +
-            generado.strftime(".%d %H:%M"),
+        "generado_humano": generado.strftime("%Y.") + MES[generado.month - 1] + generado.strftime(".%d %H:%M"),
         "ciudad": CIUDAD_POR_DEFECTO,
         "datasets": datasets,
         "noticias": noticias_meta,
     }
     (base / "index.json").write_text(json.dumps(manifiesto, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"\nManifiesto escrito: {(base/'index.json').resolve()}")
+    print(f"\nManifiesto: {(base/'index.json').resolve()}")
     print(f"Última corrida: {manifiesto['generado_humano']}")
-
-    # ---- Diagnóstico automático (para calibrar los portales sin terminal local) ----
-    total_publicado = sum(d["total"] for d in datasets)
-    if total_publicado == 0:
-        print("\n0 inmuebles publicados -> generando diagnóstico por portal...")
-        vistos, diag = set(), []
-        for cfg in PUBLICAR:
-            if cfg["portal"] in vistos:
-                continue
-            vistos.add(cfg["portal"])
-            print(f"  diagnosticando {cfg['portal']}...")
-            diag.append(diagnosticar_portal(cfg["portal"], cfg["operacion"], cfg["tipo"], cfg["zona"]))
-        (base / "diagnostico.json").write_text(
-            json.dumps({"generado": generado.isoformat(timespec="seconds"), "portales": diag},
-                       ensure_ascii=False, indent=2), encoding="utf-8")
-        print(f"Diagnóstico escrito: {(base/'diagnostico.json').resolve()}")
-
     return manifiesto
 
 
-def main():
-    ap = argparse.ArgumentParser(description="Monitor inmobiliario (opción B).")
-    sub = ap.add_subparsers(dest="cmd", required=True)
+def doctor():
+    print("Revisando portales...\n")
+    for portal, cfg in PORTALES.items():
+        url = cfg["url"].format(operacion="venta", tipo="apartamento",
+                                ciudad=CIUDAD_POR_DEFECTO, zona="chapinero", pagina=1)
+        try:
+            with sync_playwright() as p:
+                browser = p.chromium.launch(headless=True)
+                page = _abrir_pagina(browser, url)
+                filas = extraer(page, cfg)
+                ok, problemas = _validar(filas)
+                browser.close()
+            estado = "OK" if ok else "REVISAR"
+            print(f"[{estado}] {portal}: {len(filas)} resultado(s). {'; '.join(problemas)}")
+        except Exception as e:
+            print(f"[ERROR] {portal}: {e}")
+    print("\nSi algo dice REVISAR o ERROR, sube el mensaje a Claude para calibrar.")
+  def main():
+    parser = argparse.ArgumentParser(description="Monitor Inmobiliario")
+    sub = parser.add_subparsers(dest="cmd")
 
-    b = sub.add_parser("buscar", help="Buscar inmuebles según criterios del cliente")
-    b.add_argument("--portal", required=True, choices=PORTALES.keys())
-    b.add_argument("--operacion", required=True, choices=["arriendo", "venta"])
-    b.add_argument("--tipo", required=True)
-    b.add_argument("--zona", required=True)
-    b.add_argument("--ciudad", default=CIUDAD_POR_DEFECTO)
-    b.add_argument("--paginas", type=int, default=PAGINAS_POR_DEFECTO)
-    b.add_argument("--precio_min", type=int)
-    b.add_argument("--precio_max", type=int)
-    b.add_argument("--habitaciones_min", type=int)
-    b.add_argument("--area_min", type=int)
+    pb = sub.add_parser("buscar", help="Buscar inmuebles según criterios")
+    pb.add_argument("--portal", default="metrocuadrado")
+    pb.add_argument("--operacion", default="venta")
+    pb.add_argument("--tipo", default="apartamento")
+    pb.add_argument("--zona", default="chapinero")
+    pb.add_argument("--ciudad", default=CIUDAD_POR_DEFECTO)
+    pb.add_argument("--paginas", type=int, default=PAGINAS_POR_DEFECTO)
 
-    a = sub.add_parser("avaluo", help="Resumen de precios de mercado en una zona")
-    a.add_argument("--portal", required=True, choices=PORTALES.keys())
-    a.add_argument("--operacion", required=True, choices=["arriendo", "venta"])
-    a.add_argument("--tipo", required=True)
-    a.add_argument("--zona", required=True)
-    a.add_argument("--ciudad", default=CIUDAD_POR_DEFECTO)
-    a.add_argument("--paginas", type=int, default=PAGINAS_POR_DEFECTO)
+    pa = sub.add_parser("avaluo", help="Resumen de precios de una zona")
+    pa.add_argument("--portal", default="metrocuadrado")
+    pa.add_argument("--operacion", default="venta")
+    pa.add_argument("--tipo", default="apartamento")
+    pa.add_argument("--zona", default="chapinero")
+    pa.add_argument("--ciudad", default=CIUDAD_POR_DEFECTO)
+    pa.add_argument("--paginas", type=int, default=PAGINAS_POR_DEFECTO)
 
     sub.add_parser("noticias", help="Titulares recientes del sector")
     sub.add_parser("doctor", help="Revisar qué fuentes funcionan (mantenimiento)")
-    pp = sub.add_parser("publicar", help="Corre las consultas de PUBLICAR y escribe data/ (para Alamo-IS)")
+    pp = sub.add_parser("publicar", help="Corre PUBLICAR y escribe data/ (para Alamo-IS)")
     pp.add_argument("--carpeta", default="data")
-    dg = sub.add_parser("diagnostico", help="Guarda el HTML real de cada portal para calibrar (nube)")
+    dg = sub.add_parser("diagnostico", help="Guarda el HTML real de cada portal para calibrar")
     dg.add_argument("--carpeta", default="data")
 
-    args = ap.parse_args()
+    args = parser.parse_args()
 
     if args.cmd == "doctor":
         doctor()
@@ -648,39 +606,32 @@ def main():
 
     elif args.cmd == "noticias":
         items = leer_noticias()
-        if not items:
-            print("Sin titulares. Corre 'doctor' para ver si las fuentes cambiaron.")
-            return
         for it in items:
             print(f"\n[{it['medio']}] {it['titular']}\n   {it['url']}")
         ruta_j = exportar_noticias_json(items)
         print(f"\nArchivo para Alamo Team (7·Informes): {ruta_j.resolve()}")
 
     elif args.cmd in ("buscar", "avaluo"):
+        etiqueta = f"{args.cmd}_{args.operacion}_{args.tipo}_{args.zona}"
         filas = scrape_portal(args.portal, args.operacion, args.tipo,
                               args.zona, args.ciudad, args.paginas)
         df = pd.DataFrame(filas)
         if df.empty:
-            print("Sin datos. Corre 'doctor' para diagnosticar.")
+            print("No se encontraron resultados. Corre 'doctor' para revisar.")
             return
-
-        if args.cmd == "buscar":
-            if args.precio_min: df = df[df["precio"] >= args.precio_min]
-            if args.precio_max: df = df[df["precio"] <= args.precio_max]
-            if args.habitaciones_min: df = df[df["habitaciones"] >= args.habitaciones_min]
-            if args.area_min: df = df[df["area_m2"] >= args.area_min]
-
         resumen = resumen_mercado(df)
-        print("\n=== RESUMEN DE MERCADO ===")
+        print("\nResumen de mercado:")
         for k, v in resumen.items():
-            print(f"  {k:20}: {v:,}" if isinstance(v, int) else f"  {k:20}: {v}")
-
-        etiqueta = f"{args.cmd}_{args.portal}_{args.operacion}_{args.tipo}_{args.zona}"
+            print(f"  {k}: {v}")
         ruta = exportar_excel(df, resumen, etiqueta)
         print(f"\nGuardado en: {ruta.resolve()}")
         ruta_j = exportar_alamo_json(df, args, etiqueta)
         print(f"Archivo para Alamo Team (5·E.Mercado): {ruta_j.resolve()}")
 
+    else:
+        parser.print_help()
+
 
 if __name__ == "__main__":
     main()
+  
