@@ -204,7 +204,7 @@ def _desde_metrocuadrado(page):
             "_fuente": "metrocuadrado-next",
         })
     return filas
-    def _desde_fincaraiz(page):
+def _desde_fincaraiz(page):
     """Fincaraíz (Next.js): inmuebles en __NEXT_DATA__ -> props.pageProps.fetchResult.searchFast.data[]."""
     el = page.query_selector("#__NEXT_DATA__")
     if not el:
