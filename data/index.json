@@ -1,11 +1,11 @@
 {
-  "generado": "2026-08-21T10:37:59",
-  "generado_humano": "2026.AGO.21 10:37",
+  "generado": "2026-08-21T21:05:29",
+  "generado_humano": "2026.AGO.21 21:05",
   "ciudad": "bogota",
   "datasets": [
     {
       "clave": "venta_apto_chapinero",
-      "etiqueta": "Venta · Apto · Chapinero",
+      "etiqueta": "Venta - Apto - Chapinero",
       "archivo": "venta_apto_chapinero.json",
       "total": 0,
       "operacion": "venta",
@@ -14,7 +14,7 @@
     },
     {
       "clave": "arriendo_apto_chapinero",
-      "etiqueta": "Arriendo · Apto · Chapinero",
+      "etiqueta": "Arriendo - Apto - Chapinero",
       "archivo": "arriendo_apto_chapinero.json",
       "total": 0,
       "operacion": "arriendo",
@@ -24,6 +24,6 @@
   ],
   "noticias": {
     "archivo": "noticias.json",
-    "total": 40
+    "total": 17
   }
 }
