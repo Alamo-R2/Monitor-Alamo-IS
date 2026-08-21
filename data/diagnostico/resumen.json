@@ -1,53 +1,37 @@
 {
-  "generado": "2026-08-21T03:48:33",
+  "generado": "2026-08-21T21:29:43",
   "casos": [
     {
       "nombre": "metrocuadrado_venta",
       "portal": "metrocuadrado",
       "url": "https://www.metrocuadrado.com/apartamento/venta/bogota/chapinero/?page=1",
-      "status": 200,
       "url_final": "https://www.metrocuadrado.com/apartamento/venta/bogota/chapinero/?page=1",
       "titulo": "Apartamentos en Venta en Chapinero, Bogotá",
-      "jsonld_bloques": 1,
-      "next_data": false,
-      "css_tarjetas": 0,
-      "html_bytes": 369685
+      "next_data": false
     },
     {
       "nombre": "metrocuadrado_arriendo",
       "portal": "metrocuadrado",
       "url": "https://www.metrocuadrado.com/apartamento/arriendo/bogota/chapinero/?page=1",
-      "status": 200,
       "url_final": "https://www.metrocuadrado.com/apartamento/arriendo/bogota/chapinero/?page=1",
       "titulo": "Apartamentos en Arriendo en Chapinero, Bogotá",
-      "jsonld_bloques": 1,
-      "next_data": false,
-      "css_tarjetas": 0,
-      "html_bytes": 389848
+      "next_data": false
     },
     {
       "nombre": "fincaraiz_venta",
       "portal": "fincaraiz",
-      "url": "https://www.fincaraiz.com.co/venta/apartamento/chapinero/bogota?pagina=1",
-      "status": 200,
+      "url": "https://www.fincaraiz.com.co/venta/apartamento/bogota/chapinero?pagina=1",
       "url_final": "https://www.fincaraiz.com.co/venta/conjunto-residencial-apartamentos-policia/bello?",
       "titulo": "Inmuebles en Venta en Conjunto residencial apartamentos policia, Bello",
-      "jsonld_bloques": 1,
-      "next_data": true,
-      "css_tarjetas": 5,
-      "html_bytes": 249582
+      "next_data": true
     },
     {
       "nombre": "fincaraiz_arriendo",
       "portal": "fincaraiz",
-      "url": "https://www.fincaraiz.com.co/arriendo/apartamento/chapinero/bogota?pagina=1",
-      "status": 200,
+      "url": "https://www.fincaraiz.com.co/arriendo/apartamento/bogota/chapinero?pagina=1",
       "url_final": "https://www.fincaraiz.com.co/arriendo/conjunto-residencial-apartamentos-policia/bello?",
       "titulo": "Inmuebles en Arriendo en Conjunto residencial apartamentos policia, Bello",
-      "jsonld_bloques": 1,
-      "next_data": true,
-      "css_tarjetas": 2,
-      "html_bytes": 181637
+      "next_data": true
     }
   ]
 }
