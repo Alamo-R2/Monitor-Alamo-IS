@@ -93,18 +93,39 @@ def _abrir_pagina(browser, url):
 
 def _desde_metrocuadrado(page):
     html = page.content()
-    m = re.search(r'\\"initialResults\\":\{.*?\\"results\\":(\[.*?\])\s*,\s*\\"totalHits\\"', html)
-    if not m:
-        m = re.search(r'"initialResults":\{.*?"results":(\[.*?\])\s*,\s*"totalHits"', html)
-    if not m:
+    anchor = html.find("initialResults")
+    if anchor < 0:
         return []
-    raw = m.group(1)
-    for intento in (lambda s: json.loads(s.encode("utf-8").decode("unicode_escape")),
-                    lambda s: json.loads(s.replace('\\"', '"').replace('\\\\', '\\')),
-                    lambda s: json.loads(s)):
+    rk = html.find("results", anchor)
+    if rk < 0:
+        return []
+    br = html.find("[", rk)
+    if br < 0:
+        return []
+    depth = 0
+    i = br
+    end = -1
+    while i < len(html):
+        ch = html[i]
+        if ch == "[":
+            depth += 1
+        elif ch == "]":
+            depth -= 1
+            if depth == 0:
+                end = i
+                break
+        i += 1
+    if end < 0:
+        return []
+    raw = html[br:end + 1]
+    results = None
+    for fn in (lambda s: json.loads(s),
+               lambda s: json.loads(s.replace('\\"', '"').replace("\\\\", "\\")),
+               lambda s: json.loads(s.encode("utf-8").decode("unicode_escape"))):
         try:
-            results = intento(raw)
-            break
+            results = fn(raw)
+            if isinstance(results, list) and results:
+                break
         except Exception:
             results = None
     if not results:
