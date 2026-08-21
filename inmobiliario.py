@@ -1,4 +1,3 @@
-python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """MONITOR INMOBILIARIO — Opción B. Comandos: buscar avaluo noticias doctor publicar diagnostico"""
