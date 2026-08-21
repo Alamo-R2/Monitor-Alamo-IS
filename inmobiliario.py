@@ -93,42 +93,22 @@ def _abrir_pagina(browser, url):
 
 def _desde_metrocuadrado(page):
     html = page.content()
-    idx = html.find('\\"initialResults\\"')
-    if idx < 0:
-        idx = html.find('"initialResults"')
-    if idx < 0:
+    m = re.search(r'\\"initialResults\\":\{.*?\\"results\\":(\[.*?\])\s*,\s*\\"totalHits\\"', html)
+    if not m:
+        m = re.search(r'"initialResults":\{.*?"results":(\[.*?\])\s*,\s*"totalHits"', html)
+    if not m:
         return []
-    rkey = html.find('results', idx)
-    if rkey < 0:
-        return []
-    br = html.find('[', rkey)
-    if br < 0:
-        return []
-    depth, i, in_str, esc = 0, br, False, False
-    while i < len(html):
-        c = html[i]
-        if esc:
-            esc = False
-        elif c == '\\':
-            esc = True
-        elif c == '"':
-            in_str = not in_str
-        elif not in_str:
-            if c == '[':
-                depth += 1
-            elif c == ']':
-                depth -= 1
-                if depth == 0:
-                    break
-        i += 1
-    raw = html[br:i + 1]
-    try:
-        results = json.loads(raw.encode('utf-8').decode('unicode_escape'))
-    except Exception:
+    raw = m.group(1)
+    for intento in (lambda s: json.loads(s.encode("utf-8").decode("unicode_escape")),
+                    lambda s: json.loads(s.replace('\\"', '"').replace('\\\\', '\\')),
+                    lambda s: json.loads(s)):
         try:
-            results = json.loads(raw.replace('\\"', '"').replace('\\\\', '\\'))
+            results = intento(raw)
+            break
         except Exception:
-            return []
+            results = None
+    if not results:
+        return []
     filas = []
     for r in results:
         if not isinstance(r, dict):
