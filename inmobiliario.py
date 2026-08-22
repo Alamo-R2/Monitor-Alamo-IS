@@ -55,6 +55,76 @@ PUBLICAR = [
 PUBLICAR_NOTICIAS = True
 
 
+# ============================================================================
+#  ZONAS POR FRECUENCIA. El workflow pasa --grupo. Cada zona:
+#  ("Nombre visible", "slug-en-url", "origen")  origen = "upl" o "barrio"
+# ============================================================================
+ZONAS_DIARIO = [
+    ("Centro Historico", "centro-historico", "upl"),
+    ("Teusaquillo", "teusaquillo", "upl"),
+    ("Puente Aranda", "puente-aranda", "upl"),
+    ("Barrios Unidos", "barrios-unidos", "upl"),
+    ("Chapinero", "chapinero", "upl"),
+    ("Britalia", "britalia", "upl"),
+    ("Toberin", "toberin", "upl"),
+    ("Usaquen", "usaquen", "upl"),
+    ("Niza", "niza", "upl"),
+    ("Fontibon", "fontibon", "upl"),
+    ("Engativa", "engativa", "upl"),
+]
+ZONAS_CADA5 = [
+    ("Restrepo", "restrepo", "upl"),
+    ("Salitre", "salitre", "upl"),
+    ("Torca", "torca", "upl"),
+    ("Suba", "suba", "upl"),
+    ("Rincon de Suba", "rincon-de-suba", "upl"),
+    ("Tibabuyes", "tibabuyes", "upl"),
+]
+ZONAS_CADA10 = [
+    ("Tabora", "tabora", "upl"),
+    ("Bosa", "bosa", "upl"),
+    ("Tintal", "tintal", "upl"),
+    ("Kennedy", "kennedy", "upl"),
+    ("Patio Bonito", "patio-bonito", "upl"),
+    ("Eden", "eden", "upl"),
+    ("Porvenir", "porvenir", "upl"),
+    ("Arborizadora", "arborizadora", "upl"),
+    ("Lucero", "lucero", "upl"),
+    ("Tunjuelito", "tunjuelito", "upl"),
+    ("Rafael Uribe", "rafael-uribe", "upl"),
+    ("Usme Entrenubes", "usme-entrenubes", "upl"),
+    ("San Cristobal", "san-cristobal", "upl"),
+    ("Sumapaz", "sumapaz", "upl"),
+    ("Cuenca del Tunjuelo", "cuenca-del-tunjuelo", "upl"),
+    ("Cerros Orientales", "cerros-orientales", "upl"),
+]
+ZONAS_MUNICIPIOS = [
+    ("Soacha", "soacha", "municipio"), ("Sibate", "sibate", "municipio"),
+    ("Mosquera", "mosquera", "municipio"), ("Madrid", "madrid", "municipio"),
+    ("Funza", "funza", "municipio"), ("Facatativa", "facatativa", "municipio"),
+    ("Bojaca", "bojaca", "municipio"), ("El Rosal", "el-rosal", "municipio"),
+    ("Subachoque", "subachoque", "municipio"), ("Zipacon", "zipacon", "municipio"),
+    ("Chia", "chia", "municipio"), ("Cajica", "cajica", "municipio"),
+    ("Cota", "cota", "municipio"), ("Tabio", "tabio", "municipio"),
+    ("Tenjo", "tenjo", "municipio"), ("Zipaquira", "zipaquira", "municipio"),
+    ("Cogua", "cogua", "municipio"), ("Nemocon", "nemocon", "municipio"),
+    ("Sopo", "sopo", "municipio"), ("Tocancipa", "tocancipa", "municipio"),
+    ("Gachancipa", "gachancipa", "municipio"), ("Suesca", "suesca", "municipio"),
+    ("Sesquile", "sesquile", "municipio"), ("Guatavita", "guatavita", "municipio"),
+    ("Guasca", "guasca", "municipio"), ("La Calera", "la-calera", "municipio"),
+]
+
+GRUPOS = {
+    "diario": ZONAS_DIARIO,
+    "cada5": ZONAS_CADA5,
+    "cada10": ZONAS_CADA10,
+    "municipios": ZONAS_MUNICIPIOS,
+}
+
+OPERACIONES = ["venta", "arriendo"]
+TIPOS = ["apartamento"]
+
+
 def _num(texto):
     if not texto:
         return None
@@ -149,6 +219,8 @@ def _desde_metrocuadrado(page):
             "ubicacion": r.get("mbarrio") or (r.get("mzona") or {}).get("nombre"),
             "url": ("https://www.metrocuadrado.com" + link) if link and link.startswith("/") else link,
             "id_domus": r.get("midinmueble"),
+            "tipo_portal": (r.get("mtipoinmueble") or {}).get("nombre"),
+            "fecha_pub": None,
             "lat": loc.get("lat"),
             "lon": loc.get("lon"),
             "location_type": "exacta" if loc.get("lat") else "aproximada",
@@ -189,6 +261,8 @@ def _desde_fincaraiz(page):
             "ubicacion": barrio,
             "url": ("https://www.fincaraiz.com.co" + link) if link and link.startswith("/") else link,
             "id_domus": str(r.get("id")) if r.get("id") else None,
+            "tipo_portal": (r.get("property_type") or {}).get("name"),
+            "fecha_pub": r.get("created_at"),
             "lat": r.get("latitude"),
             "lon": r.get("longitude"),
             "location_type": "exacta" if r.get("latitude") else "aproximada",
@@ -322,6 +396,7 @@ def _df_a_contrato(df, portal, operacion, tipo):
             "id": "MI-" + str(idx + 1),
             "operacion": [oper],
             "tipo": tipo,
+            "tipoPortal": g("tipo_portal"),
             "precio": g("precio"),
             "area": g("area_m2"),
             "administracion": g("administracion"),
@@ -334,6 +409,7 @@ def _df_a_contrato(df, portal, operacion, tipo):
             "sourceLink": g("url"),
             "titulo": g("titulo"),
             "id_domus": g("id_domus"),
+            "fechaPublicacion": g("fecha_pub"),
             "lat": g("lat"),
             "lon": g("lon"),
             "location_type": g("location_type") or "aproximada",
@@ -394,44 +470,157 @@ def diagnostico(carpeta="data"):
     return resumen
 
 
-def publicar(carpeta="data"):
+def publicar(carpeta="data", grupo="diario"):
+    """Rastrea las zonas del GRUPO. Escribe: un JSON por zona, un consolidado
+    por grupo, index.json (manifiesto), tipos.json (inventario de tipos por
+    portal) e historial.json (variacion de conteos entre corridas + tiempos)."""
     base = Path(carpeta)
     base.mkdir(parents=True, exist_ok=True)
+    zonas = GRUPOS.get(grupo, ZONAS_DIARIO)
     generado = datetime.now()
     MES = ["ENE", "FEB", "MAR", "ABR", "MAY", "JUN", "JUL", "AGO", "SEP", "OCT", "NOV", "DIC"]
+    stamp = generado.strftime("%Y.") + MES[generado.month - 1] + generado.strftime(".%d %H:%M")
+
     datasets = []
-    for cfg in PUBLICAR:
-        print("\n== Publicando: " + cfg["etiqueta"] + " ==")
-        try:
-            filas = scrape_portal(cfg["portal"], cfg["operacion"], cfg["tipo"], cfg["zona"], CIUDAD_POR_DEFECTO, PAGINAS_POR_DEFECTO)
-            df = pd.DataFrame(filas)
-            inmuebles = _df_a_contrato(df, cfg["portal"], cfg["operacion"], cfg["tipo"]) if not df.empty else []
-        except Exception as e:
-            print("  aviso: " + str(e))
-            inmuebles = []
-        archivo = cfg["clave"] + ".json"
-        (base / archivo).write_text(json.dumps({"ok": True, "total": len(inmuebles), "inmuebles": inmuebles}, ensure_ascii=False, indent=2), encoding="utf-8")
-        datasets.append({"clave": cfg["clave"], "etiqueta": cfg["etiqueta"], "archivo": archivo,
-                         "total": len(inmuebles), "operacion": cfg["operacion"], "tipo": cfg["tipo"], "zona": cfg["zona"]})
-        print("  " + str(len(inmuebles)) + " inmueble(s) -> " + archivo)
+    consolidado = []
+    tipos = {}         # tipos[portal][nombre_tipo] = conteo
+    tiempos = []       # medicion por zona
+    portal = "metrocuadrado"
+
+    for nombre, slug, origen in zonas:
+        ciudad = slug if origen == "municipio" else CIUDAD_POR_DEFECTO
+        zona = "" if origen == "municipio" else slug
+        for oper in OPERACIONES:
+            for tipo in TIPOS:
+                etiqueta = oper.capitalize() + " - " + tipo.capitalize() + " - " + nombre
+                clave = oper + "_" + tipo + "_" + slug
+                print("\n== " + etiqueta + " (" + origen + ") ==")
+                t0 = time.time()
+                try:
+                    filas = scrape_portal(portal, oper, tipo, zona, ciudad, PAGINAS_POR_DEFECTO)
+                    df = pd.DataFrame(filas)
+                    inmuebles = _df_a_contrato(df, portal, oper, tipo) if not df.empty else []
+                    # inventario de tipos (lo que realmente devolvio el portal)
+                    if not df.empty and "tipo_portal" in df:
+                        for tp in df["tipo_portal"].dropna():
+                            tipos.setdefault(portal, {})
+                            tipos[portal][tp] = tipos[portal].get(tp, 0) + 1
+                except Exception as e:
+                    print("  aviso: " + str(e))
+                    inmuebles = []
+                dt = round(time.time() - t0, 1)
+                # enriquecer cada inmueble con zona/origen/operacion
+                for it in inmuebles:
+                    it["zonaConsulta"] = nombre
+                    it["zonaSlug"] = slug
+                    it["origenZona"] = origen
+                archivo = clave + ".json"
+                (base / archivo).write_text(json.dumps(
+                    {"ok": True, "total": len(inmuebles), "zona": nombre, "origen": origen,
+                     "operacion": oper, "tipo": tipo, "generado": stamp, "inmuebles": inmuebles},
+                    ensure_ascii=False, indent=2), encoding="utf-8")
+                consolidado.extend(inmuebles)
+                datasets.append({"clave": clave, "etiqueta": etiqueta, "archivo": archivo,
+                                 "total": len(inmuebles), "operacion": oper, "tipo": tipo,
+                                 "zona": nombre, "slug": slug, "origen": origen, "segundos": dt})
+                tiempos.append({"zona": nombre, "operacion": oper, "total": len(inmuebles), "segundos": dt})
+                print("  " + str(len(inmuebles)) + " inmueble(s) en " + str(dt) + "s -> " + archivo)
+
+    # consolidado del grupo (lo que la app carga de una)
+    cons_archivo = "consolidado_" + grupo + ".json"
+    (base / cons_archivo).write_text(json.dumps(
+        {"ok": True, "grupo": grupo, "total": len(consolidado), "generado": stamp,
+         "inmuebles": consolidado}, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    # noticias (solo en el grupo diario, para no repetir)
     noticias_meta = None
-    if PUBLICAR_NOTICIAS:
+    if PUBLICAR_NOTICIAS and grupo == "diario":
         try:
             items = leer_noticias()
         except Exception as e:
-            print("  aviso noticias: " + str(e))
-            items = []
+            print("  aviso noticias: " + str(e)); items = []
         noticias = [{"titulo": it.get("titular", ""), "fuente": it.get("medio", ""),
-                     "fecha": generado.strftime("%Y-%m-%d"), "resumen": "", "url": it.get("url", "")} for it in items]
-        (base / "noticias.json").write_text(json.dumps({"noticias": noticias}, ensure_ascii=False, indent=2), encoding="utf-8")
+                     "fecha": generado.strftime("%Y-%m-%d"), "resumen": "",
+                     "url": it.get("url", "")} for it in items]
+        (base / "noticias.json").write_text(json.dumps({"noticias": noticias},
+            ensure_ascii=False, indent=2), encoding="utf-8")
         noticias_meta = {"archivo": "noticias.json", "total": len(noticias)}
+
+    # tipos.json (inventario acumulado por portal; fusiona con lo previo)
+    tipos_path = base / "tipos.json"
+    prev_tipos = {}
+    if tipos_path.exists():
+        try:
+            prev_tipos = json.loads(tipos_path.read_text(encoding="utf-8")).get("tipos", {})
+        except Exception:
+            prev_tipos = {}
+    for pt, d in tipos.items():
+        prev_tipos.setdefault(pt, {})
+        for k, v in d.items():
+            prev_tipos[pt][k] = v  # ultimo conteo observado
+    tipos_path.write_text(json.dumps({"generado": stamp, "tipos": prev_tipos},
+        ensure_ascii=False, indent=2), encoding="utf-8")
+
+    # historial.json (una entrada por corrida: totales por zona + tiempos)
+    hist_path = base / "historial.json"
+    historial = []
+    if hist_path.exists():
+        try:
+            historial = json.loads(hist_path.read_text(encoding="utf-8"))
+            if not isinstance(historial, list):
+                historial = []
+        except Exception:
+            historial = []
+    # variacion vs corrida anterior del mismo grupo
+    prev = None
+    for h in reversed(historial):
+        if h.get("grupo") == grupo:
+            prev = h; break
+    variaciones = {}
+    if prev:
+        for d in datasets:
+            antes = next((x["total"] for x in prev.get("datasets", []) if x["clave"] == d["clave"]), None)
+            if antes is not None:
+                variaciones[d["clave"]] = d["total"] - antes
+    historial.append({
+        "grupo": grupo, "generado": stamp, "iso": generado.isoformat(timespec="seconds"),
+        "total": len(consolidado), "segundos_total": round(sum(t["segundos"] for t in tiempos), 1),
+        "datasets": [{"clave": d["clave"], "total": d["total"], "segundos": d["segundos"]} for d in datasets],
+        "variaciones": variaciones,
+    })
+    if len(historial) > 500:
+        historial = historial[-500:]
+    hist_path.write_text(json.dumps(historial, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    # index.json (manifiesto: fusiona datasets de todos los grupos ya publicados)
+    idx_path = base / "index.json"
+    all_ds = {}
+    if idx_path.exists():
+        try:
+            for d in json.loads(idx_path.read_text(encoding="utf-8")).get("datasets", []):
+                all_ds[d["clave"]] = d
+        except Exception:
+            pass
+    for d in datasets:
+        all_ds[d["clave"]] = d
     manifiesto = {
         "generado": generado.isoformat(timespec="seconds"),
-        "generado_humano": generado.strftime("%Y.") + MES[generado.month - 1] + generado.strftime(".%d %H:%M"),
-        "ciudad": CIUDAD_POR_DEFECTO, "datasets": datasets, "noticias": noticias_meta,
+        "generado_humano": stamp,
+        "grupo_actual": grupo,
+        "ciudad": CIUDAD_POR_DEFECTO,
+        "datasets": list(all_ds.values()),
+        "consolidados": {"diario": "consolidado_diario.json", "cada5": "consolidado_cada5.json",
+                         "cada10": "consolidado_cada10.json", "municipios": "consolidado_municipios.json"},
+        "tipos": "tipos.json",
+        "historial": "historial.json",
+        "noticias": noticias_meta,
     }
-    (base / "index.json").write_text(json.dumps(manifiesto, ensure_ascii=False, indent=2), encoding="utf-8")
-    print("\nUltima corrida: " + manifiesto["generado_humano"])
+    idx_path.write_text(json.dumps(manifiesto, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    print("\n== RESUMEN GRUPO " + grupo.upper() + " ==")
+    print("  zonas: " + str(len(zonas)) + " | inmuebles: " + str(len(consolidado)))
+    print("  tiempo total: " + str(round(sum(t["segundos"] for t in tiempos), 1)) + "s")
+    print("  ultima corrida: " + stamp)
     return manifiesto
 
 
@@ -466,13 +655,14 @@ def main():
     sub.add_parser("doctor")
     p1 = sub.add_parser("publicar")
     p1.add_argument("--carpeta", default="data")
+    p1.add_argument("--grupo", default="diario")
     p2 = sub.add_parser("diagnostico")
     p2.add_argument("--carpeta", default="data")
     args = parser.parse_args()
     if args.cmd == "doctor":
         doctor()
     elif args.cmd == "publicar":
-        publicar(args.carpeta)
+        publicar(args.carpeta, args.grupo)
     elif args.cmd == "diagnostico":
         diagnostico(args.carpeta)
     elif args.cmd == "noticias":
@@ -499,4 +689,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
