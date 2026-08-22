@@ -1,0 +1,28 @@
+name: Publicar cada 10 dias
+on:
+  schedule:
+    - cron: "0 11 1,11,21,31 * *"   # ~cada 10 dias 11:00 UTC
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Instalar dependencias
+        run: |
+          pip install playwright pandas openpyxl requests
+          playwright install --with-deps chromium
+      - name: Correr el monitor (grupo cada10)
+        run: python inmobiliario.py publicar --carpeta data --grupo cada10
+      - name: Guardar
+        run: |
+          git config user.name  "monitor-bot"
+          git config user.email "monitor-bot@users.noreply.github.com"
+          git add data
+          git commit -m "Datos cada10 $(date -u '+%Y-%m-%d %H:%M UTC')" || echo "Sin cambios"
+          git push
