@@ -44,7 +44,7 @@ NOTICIAS = {
 }
 
 PAUSA = 2.5
-PAGINAS_POR_DEFECTO = 5
+PAGINAS_POR_DEFECTO = 10
 
 PUBLICAR = [
     {"clave": "venta_apto_chapinero", "etiqueta": "Venta - Apto - Chapinero",
