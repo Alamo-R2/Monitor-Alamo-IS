@@ -1,0 +1,42 @@
+name: Prueba zona (buscar)
+
+# Se corre a mano desde la pestaña Actions -> Run workflow.
+on:
+  workflow_dispatch:
+    inputs:
+      zona:
+        description: "Zona a probar (slug de Metrocuadrado, ej. usaquen o la-carolina)"
+        required: true
+        default: "usaquen"
+      paginas:
+        description: "Cuantas paginas leer"
+        required: true
+        default: "3"
+      operacion:
+        description: "venta o arriendo"
+        required: true
+        default: "venta"
+
+jobs:
+  prueba:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar librerias
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas requests openpyxl playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Correr la busqueda
+        run: |
+          echo "=== Probando zona='${{ github.event.inputs.zona }}' paginas='${{ github.event.inputs.paginas }}' operacion='${{ github.event.inputs.operacion }}' ==="
+          python inmobiliario.py buscar --zona "${{ github.event.inputs.zona }}" --operacion "${{ github.event.inputs.operacion }}" --paginas "${{ github.event.inputs.paginas }}"
+          echo "=== FIN. Mira arriba la linea 'resultados:' del Resumen de mercado ==="
