@@ -1,0 +1,41 @@
+name: Publicar por barrio (norte primero)
+
+# Cada corrida hace UNA tanda de ~40 barrios y avanza sola (cursor).
+# Empieza por Chapinero, Usaquen y Suba-norte; luego el resto, por dias.
+on:
+  workflow_dispatch:      # boton "Run workflow" (manual)
+  schedule:
+    - cron: "0 7 * * *"   # todos los dias 07:00 UTC (~02:00 Colombia). Ajusta si choca.
+
+permissions:
+  contents: write         # para guardar los resultados en el repo
+
+jobs:
+  barrios:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar librerias
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas requests openpyxl playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Publicar la tanda de barrios de hoy
+        run: python inmobiliario.py publicar --grupo barrios
+
+      - name: Guardar resultados en el repo
+        run: |
+          git config user.name "monitor-bot"
+          git config user.email "monitor@users.noreply.github.com"
+          git pull --rebase --autostash origin main || true
+          git add data/
+          git commit -m "barrios: tanda del $(date -u +%F)" || echo "sin cambios que guardar"
+          git push || (git pull --rebase --autostash origin main && git push)
