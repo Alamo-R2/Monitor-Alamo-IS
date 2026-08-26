@@ -6,6 +6,8 @@ import json
 import re
 import sys
 import time
+import math
+import unicodedata
 from datetime import datetime
 from pathlib import Path
 
@@ -123,6 +125,83 @@ GRUPOS = {
 
 OPERACIONES = ["venta", "arriendo"]
 TIPOS = ["apartamento"]
+
+
+# === Barrido POR BARRIO desde geo_model.json (cobertura por dias) ===
+# Empieza por estas UPL (norte) y luego sigue con el resto, en tandas por corrida.
+PRIORIDAD_UPL = ["Chapinero", "Usaquen", "Suba", "Rincon de Suba", "Niza", "Tibabuyes", "Britalia"]
+BARRIOS_POR_CORRIDA = 40          # barrios por corrida (x2 operaciones ~= 44 min)
+GEO_MODEL_PATHS = ["geo_model.json", "data/geo_model.json"]
+
+
+def _slug(texto):
+    t = unicodedata.normalize("NFD", str(texto))
+    t = "".join(c for c in t if unicodedata.category(c) != "Mn").lower()
+    return re.sub(r"[^a-z0-9]+", "-", t).strip("-")
+
+
+def _norm_upl(s):
+    t = unicodedata.normalize("NFD", str(s))
+    return "".join(c for c in t if unicodedata.category(c) != "Mn").upper().strip()
+
+
+def _cargar_geo():
+    for ruta in GEO_MODEL_PATHS:
+        fp = Path(ruta)
+        if fp.exists():
+            try:
+                return json.loads(fp.read_text(encoding="utf-8"))
+            except Exception:
+                return None
+    return None
+
+
+def _barrios_ordenados():
+    """Lista [(NombreBarrio, slug, 'barrio')] con las UPL de PRIORIDAD primero."""
+    geo = _cargar_geo()
+    if not geo:
+        return []
+    upl = geo.get("upl", {})
+    orden, usados = [], set()
+    def _add(v):
+        for b in v.get("barrios", {}).keys():
+            orden.append((b, _slug(b), "barrio"))
+    prio_norm = [_norm_upl(x) for x in PRIORIDAD_UPL]
+    for pn in prio_norm:
+        for nombre_upl, v in upl.items():
+            if _norm_upl(nombre_upl) == pn and nombre_upl not in usados:
+                usados.add(nombre_upl); _add(v)
+    for nombre_upl, v in upl.items():
+        if nombre_upl not in usados:
+            usados.add(nombre_upl); _add(v)
+    return orden
+
+
+def _cursor_barrios(base, guardar=None):
+    fp = Path(base) / "cursor_barrios.json"
+    idx = 0
+    if fp.exists():
+        try:
+            idx = int(json.loads(fp.read_text(encoding="utf-8")).get("idx", 0))
+        except Exception:
+            idx = 0
+    if guardar is not None:
+        fp.write_text(json.dumps({"idx": guardar}), encoding="utf-8")
+    return idx
+
+
+def _zonas_barrios_hoy(base):
+    """Devuelve la tanda de barrios de HOY y avanza el cursor (cobertura ciclica)."""
+    orden = _barrios_ordenados()
+    if not orden:
+        return []
+    n = BARRIOS_POR_CORRIDA
+    chunks = max(1, math.ceil(len(orden) / n))
+    idx = _cursor_barrios(base) % chunks
+    tanda = orden[idx * n:(idx + 1) * n]
+    _cursor_barrios(base, guardar=(idx + 1) % chunks)
+    print("  barrios: tanda " + str(idx + 1) + "/" + str(chunks) + " (" + str(len(tanda)) + " barrios)")
+    return tanda
 
 
 def _num(texto):
@@ -476,7 +555,12 @@ def publicar(carpeta="data", grupo="diario"):
     portal) e historial.json (variacion de conteos entre corridas + tiempos)."""
     base = Path(carpeta)
     base.mkdir(parents=True, exist_ok=True)
-    zonas = GRUPOS.get(grupo, ZONAS_DIARIO)
+    if grupo == "barrios":
+        zonas = _zonas_barrios_hoy(base)
+        if not zonas:
+            print("  (falta geo_model.json en el repo: no hay barrios que rastrear)")
+    else:
+        zonas = GRUPOS.get(grupo, ZONAS_DIARIO)
     generado = datetime.now()
     MES = ["ENE", "FEB", "MAR", "ABR", "MAY", "JUN", "JUL", "AGO", "SEP", "OCT", "NOV", "DIC"]
     stamp = generado.strftime("%Y.") + MES[generado.month - 1] + generado.strftime(".%d %H:%M")
