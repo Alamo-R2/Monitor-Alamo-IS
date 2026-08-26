@@ -46,7 +46,7 @@ NOTICIAS = {
 }
 
 PAUSA = 2.5
-PAGINAS_POR_DEFECTO = 10
+PAGINAS_POR_DEFECTO = 1   # Metrocuadrado entrega ~50 en la 1a pagina; mas paginas no agregan (probado)
 
 PUBLICAR = [
     {"clave": "venta_apto_chapinero", "etiqueta": "Venta - Apto - Chapinero",
@@ -126,6 +126,16 @@ GRUPOS = {
 OPERACIONES = ["venta", "arriendo"]
 TIPOS = ["apartamento"]
 
+# === Motor de FASES (norte -> comercial -> resto -> municipios) ===
+TIPOS_RESIDENCIAL   = ["apartamento", "casa"]
+TIPOS_COMERCIAL     = ["oficina", "bodega", "edificio", "local", "lote"]
+TIPOS_MUN_COMERCIAL = ["lote", "bodega", "edificio", "local"]
+PRIORIDAD_COMERCIAL = ["Puente Aranda", "Fontibon", "Barrios Unidos", "Teusaquillo", "Toberin"]   # F3: UPL NO-norte prioritarias
+MUN_PRIORIDAD = ["Chia","Cajica","Cota","Tabio","Tenjo","Sopo","Tocancipa","Gachancipa",
+                 "Zipaquira","Cogua","Nemocon","Sesquile","Suesca","Guatavita","Guasca",
+                 "La Calera","Subachoque","El Rosal"]   # Sabana norte primero
+BUSQUEDAS_POR_CORRIDA = 80    # unidades (barrio x tipo x operacion) por corrida ~= 16 min
+
 
 # === Barrido POR BARRIO desde geo_model.json (cobertura por dias) ===
 # Empieza por estas UPL (norte) y luego sigue con el resto, en tandas por corrida.
@@ -202,6 +212,80 @@ def _zonas_barrios_hoy(base):
     _cursor_barrios(base, guardar=(idx + 1) % chunks)
     print("  barrios: tanda " + str(idx + 1) + "/" + str(chunks) + " (" + str(len(tanda)) + " barrios)")
     return tanda
+
+
+
+def _plan_maestro(base):
+    """Lista ordenada de trabajos (nombre, slug, origen, tipo, oper, fase) por fases."""
+    geo = _cargar_geo()
+    jobs = []
+    if geo:
+        upl = geo.get("upl", {})
+        norte = []
+        for pn in [_norm_upl(x) for x in PRIORIDAD_UPL]:
+            for u, v in upl.items():
+                if _norm_upl(u) == pn and u not in [x[0] for x in norte]:
+                    norte.append((u, list(v.get("barrios", {}).keys())))
+        norte_set = set(u for u, _ in norte)
+        for u, barrios in norte:                       # F1: norte residencial
+            for b in barrios:
+                for tp in TIPOS_RESIDENCIAL:
+                    for op in OPERACIONES:
+                        jobs.append((b, _slug(b), "barrio", tp, op, "F1"))
+        for u, barrios in norte:                       # F2: norte comercial
+            for b in barrios:
+                for tp in TIPOS_COMERCIAL:
+                    for op in OPERACIONES:
+                        jobs.append((b, _slug(b), "barrio", tp, op, "F2"))
+        nonorte = []
+        for pn in [_norm_upl(x) for x in PRIORIDAD_COMERCIAL]:
+            for u, v in upl.items():
+                if u not in norte_set and _norm_upl(u) == pn and u not in [x[0] for x in nonorte]:
+                    nonorte.append((u, list(v.get("barrios", {}).keys())))
+        for u, v in upl.items():
+            if u not in norte_set and u not in [x[0] for x in nonorte]:
+                nonorte.append((u, list(v.get("barrios", {}).keys())))
+        for u, barrios in nonorte:                     # F3: no-norte comercial
+            for b in barrios:
+                for tp in TIPOS_COMERCIAL:
+                    for op in OPERACIONES:
+                        jobs.append((b, _slug(b), "barrio", tp, op, "F3"))
+    mun = {n: sl for (n, sl, o) in ZONAS_MUNICIPIOS}
+    mun_orden = []
+    for n in MUN_PRIORIDAD:
+        if n in mun and n not in [x[0] for x in mun_orden]:
+            mun_orden.append((n, mun[n]))
+    for (n, sl, o) in ZONAS_MUNICIPIOS:
+        if n not in [x[0] for x in mun_orden]:
+            mun_orden.append((n, sl))
+    for n, sl in mun_orden:                            # F4a: municipios comercial
+        for tp in TIPOS_MUN_COMERCIAL:
+            for op in OPERACIONES:
+                jobs.append((n, sl, "municipio", tp, op, "F4a"))
+    for n, sl in mun_orden:                            # F4b: municipios residencial
+        for tp in TIPOS_RESIDENCIAL:
+            for op in OPERACIONES:
+                jobs.append((n, sl, "municipio", tp, op, "F4b"))
+    return jobs
+
+
+def _plan_chunk(base):
+    """Toma el bloque de HOY del plan maestro y avanza el cursor (ciclico)."""
+    jobs = _plan_maestro(base)
+    if not jobs:
+        return []
+    n = BUSQUEDAS_POR_CORRIDA
+    chunks = max(1, math.ceil(len(jobs) / n))
+    idx = _cursor_barrios(base) % chunks
+    sub = jobs[idx * n:(idx + 1) * n]
+    _cursor_barrios(base, guardar=(idx + 1) % chunks)
+    fases = []
+    for j in sub:
+        if j[5] not in fases:
+            fases.append(j[5])
+    print("  plan: bloque " + str(idx + 1) + "/" + str(chunks)
+          + " | fase(s) " + ",".join(fases) + " | " + str(len(sub)) + " busquedas")
+    return [(j[0], j[1], j[2], [j[3]], [j[4]]) for j in sub]
 
 
 def _num(texto):
@@ -556,7 +640,7 @@ def publicar(carpeta="data", grupo="diario"):
     base = Path(carpeta)
     base.mkdir(parents=True, exist_ok=True)
     if grupo == "barrios":
-        zonas = _zonas_barrios_hoy(base)
+        zonas = _plan_chunk(base)
         if not zonas:
             print("  (falta geo_model.json en el repo: no hay barrios que rastrear)")
     else:
@@ -571,11 +655,16 @@ def publicar(carpeta="data", grupo="diario"):
     tiempos = []       # medicion por zona
     portal = "metrocuadrado"
 
-    for nombre, slug, origen in zonas:
+    for entry in zonas:
+        if len(entry) == 5:
+            nombre, slug, origen, _tset, _oset = entry
+        else:
+            nombre, slug, origen = entry
+            _tset, _oset = TIPOS, OPERACIONES
         ciudad = slug if origen == "municipio" else CIUDAD_POR_DEFECTO
         zona = "" if origen == "municipio" else slug
-        for oper in OPERACIONES:
-            for tipo in TIPOS:
+        for oper in _oset:
+            for tipo in _tset:
                 etiqueta = oper.capitalize() + " - " + tipo.capitalize() + " - " + nombre
                 clave = oper + "_" + tipo + "_" + slug
                 print("\n== " + etiqueta + " (" + origen + ") ==")
@@ -609,6 +698,26 @@ def publicar(carpeta="data", grupo="diario"):
                                  "zona": nombre, "slug": slug, "origen": origen, "segundos": dt})
                 tiempos.append({"zona": nombre, "operacion": oper, "total": len(inmuebles), "segundos": dt})
                 print("  " + str(len(inmuebles)) + " inmueble(s) en " + str(dt) + "s -> " + archivo)
+
+    if grupo == "barrios":
+        por_tipo = {}
+        for d in datasets:
+            r = por_tipo.setdefault(d["tipo"], {"n": 0, "cero": 0})
+            r["n"] += 1
+            if d["total"] == 0:
+                r["cero"] += 1
+        ceros = sum(1 for d in datasets if d["total"] == 0)
+        alertas = []
+        for tp, r in por_tipo.items():
+            if r["n"] >= 5 and r["cero"] == r["n"]:
+                alertas.append("tipo '" + tp + "' dio 0 en las " + str(r["n"]) + " busquedas del bloque (revisar slug/tipo)")
+        aud = {"generado": stamp, "busquedas": len(datasets), "con_cero": ceros,
+               "por_tipo": por_tipo, "alertas": alertas}
+        (base / "auditoria.json").write_text(json.dumps(aud, ensure_ascii=False, indent=2), encoding="utf-8")
+        print("\n#### AUDITOR ####")
+        print("  busquedas: " + str(len(datasets)) + " | con 0 resultados: " + str(ceros))
+        for a in alertas:
+            print("  ALERTA: " + a)
 
     # consolidado del grupo (lo que la app carga de una)
     cons_archivo = "consolidado_" + grupo + ".json"
