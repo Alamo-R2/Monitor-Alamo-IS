@@ -1,6 +1,6 @@
 {
-  "generado": "2026-08-26T03:25:36",
-  "generado_humano": "2026.AGO.26 03:25",
+  "generado": "2026-08-26T07:52:30",
+  "generado_humano": "2026.AGO.26 07:52",
   "grupo_actual": "barrios",
   "ciudad": "bogota",
   "datasets": [
@@ -1112,7 +1112,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 66.3
+      "segundos": 65.3
     },
     {
       "clave": "arriendo_apartamento_chico-norte-iii-sector",
@@ -1124,7 +1124,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 65.2
+      "segundos": 64.3
     },
     {
       "clave": "venta_apartamento_concepcion-norte",
@@ -1208,7 +1208,7 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 65.9
+      "segundos": 65.3
     },
     {
       "clave": "arriendo_apartamento_la-castellana",
@@ -1220,7 +1220,7 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 65.3
+      "segundos": 64.6
     },
     {
       "clave": "venta_apartamento_la-esperanza",
@@ -1520,7 +1520,7 @@
       "zona": "CHICO NORTE II SECTOR",
       "slug": "chico-norte-ii-sector",
       "origen": "barrio",
-      "segundos": 66.7
+      "segundos": 65.2
     },
     {
       "clave": "arriendo_apartamento_chico-norte-ii-sector",
@@ -1532,7 +1532,7 @@
       "zona": "CHICO NORTE II SECTOR",
       "slug": "chico-norte-ii-sector",
       "origen": "barrio",
-      "segundos": 66.0
+      "segundos": 64.7
     },
     {
       "clave": "venta_apartamento_el-bagazal",
@@ -1688,7 +1688,7 @@
       "zona": "ESCUELA DE CABALLERIA II",
       "slug": "escuela-de-caballeria-ii",
       "origen": "barrio",
-      "segundos": 66.6
+      "segundos": 65.2
     },
     {
       "clave": "arriendo_apartamento_escuela-de-caballeria-ii",
@@ -1700,7 +1700,7 @@
       "zona": "ESCUELA DE CABALLERIA II",
       "slug": "escuela-de-caballeria-ii",
       "origen": "barrio",
-      "segundos": 4.6
+      "segundos": 4.4
     },
     {
       "clave": "venta_apartamento_escuela-de-infanteria",
@@ -1712,7 +1712,7 @@
       "zona": "ESCUELA DE INFANTERIA",
       "slug": "escuela-de-infanteria",
       "origen": "barrio",
-      "segundos": 66.4
+      "segundos": 64.6
     },
     {
       "clave": "arriendo_apartamento_escuela-de-infanteria",
@@ -1724,7 +1724,7 @@
       "zona": "ESCUELA DE INFANTERIA",
       "slug": "escuela-de-infanteria",
       "origen": "barrio",
-      "segundos": 66.0
+      "segundos": 64.4
     },
     {
       "clave": "venta_apartamento_espartillal",
@@ -2013,6 +2013,774 @@
       "slug": "marly",
       "origen": "barrio",
       "segundos": 66.6
+    },
+    {
+      "clave": "venta_apartamento_palermo",
+      "etiqueta": "Venta - Apartamento - PALERMO",
+      "archivo": "venta_apartamento_palermo.json",
+      "total": 24,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "PALERMO",
+      "slug": "palermo",
+      "origen": "barrio",
+      "segundos": 65.2
+    },
+    {
+      "clave": "arriendo_apartamento_palermo",
+      "etiqueta": "Arriendo - Apartamento - PALERMO",
+      "archivo": "arriendo_apartamento_palermo.json",
+      "total": 16,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "PALERMO",
+      "slug": "palermo",
+      "origen": "barrio",
+      "segundos": 64.6
+    },
+    {
+      "clave": "venta_apartamento_paramo-i-rural",
+      "etiqueta": "Venta - Apartamento - PARAMO I RURAL",
+      "archivo": "venta_apartamento_paramo-i-rural.json",
+      "total": 8,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "PARAMO I RURAL",
+      "slug": "paramo-i-rural",
+      "origen": "barrio",
+      "segundos": 65.0
+    },
+    {
+      "clave": "arriendo_apartamento_paramo-i-rural",
+      "etiqueta": "Arriendo - Apartamento - PARAMO I RURAL",
+      "archivo": "arriendo_apartamento_paramo-i-rural.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "PARAMO I RURAL",
+      "slug": "paramo-i-rural",
+      "origen": "barrio",
+      "segundos": 64.6
+    },
+    {
+      "clave": "venta_apartamento_pardo-rubio",
+      "etiqueta": "Venta - Apartamento - PARDO RUBIO",
+      "archivo": "venta_apartamento_pardo-rubio.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "PARDO RUBIO",
+      "slug": "pardo-rubio",
+      "origen": "barrio",
+      "segundos": 65.4
+    },
+    {
+      "clave": "arriendo_apartamento_pardo-rubio",
+      "etiqueta": "Arriendo - Apartamento - PARDO RUBIO",
+      "archivo": "arriendo_apartamento_pardo-rubio.json",
+      "total": 31,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "PARDO RUBIO",
+      "slug": "pardo-rubio",
+      "origen": "barrio",
+      "segundos": 64.8
+    },
+    {
+      "clave": "venta_apartamento_pardo-rubio-i",
+      "etiqueta": "Venta - Apartamento - PARDO RUBIO I",
+      "archivo": "venta_apartamento_pardo-rubio-i.json",
+      "total": 3,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "PARDO RUBIO I",
+      "slug": "pardo-rubio-i",
+      "origen": "barrio",
+      "segundos": 64.3
+    },
+    {
+      "clave": "arriendo_apartamento_pardo-rubio-i",
+      "etiqueta": "Arriendo - Apartamento - PARDO RUBIO I",
+      "archivo": "arriendo_apartamento_pardo-rubio-i.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "PARDO RUBIO I",
+      "slug": "pardo-rubio-i",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "venta_apartamento_parque-nacional-oriental",
+      "etiqueta": "Venta - Apartamento - PARQUE NACIONAL ORIENTAL",
+      "archivo": "venta_apartamento_parque-nacional-oriental.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "PARQUE NACIONAL ORIENTAL",
+      "slug": "parque-nacional-oriental",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "arriendo_apartamento_parque-nacional-oriental",
+      "etiqueta": "Arriendo - Apartamento - PARQUE NACIONAL ORIENTAL",
+      "archivo": "arriendo_apartamento_parque-nacional-oriental.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "PARQUE NACIONAL ORIENTAL",
+      "slug": "parque-nacional-oriental",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "venta_apartamento_quesada",
+      "etiqueta": "Venta - Apartamento - QUESADA",
+      "archivo": "venta_apartamento_quesada.json",
+      "total": 21,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "QUESADA",
+      "slug": "quesada",
+      "origen": "barrio",
+      "segundos": 64.7
+    },
+    {
+      "clave": "arriendo_apartamento_quesada",
+      "etiqueta": "Arriendo - Apartamento - QUESADA",
+      "archivo": "arriendo_apartamento_quesada.json",
+      "total": 9,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "QUESADA",
+      "slug": "quesada",
+      "origen": "barrio",
+      "segundos": 64.5
+    },
+    {
+      "clave": "venta_apartamento_rincon-del-chico",
+      "etiqueta": "Venta - Apartamento - RINCON DEL CHICO",
+      "archivo": "venta_apartamento_rincon-del-chico.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "RINCON DEL CHICO",
+      "slug": "rincon-del-chico",
+      "origen": "barrio",
+      "segundos": 66.0
+    },
+    {
+      "clave": "arriendo_apartamento_rincon-del-chico",
+      "etiqueta": "Arriendo - Apartamento - RINCON DEL CHICO",
+      "archivo": "arriendo_apartamento_rincon-del-chico.json",
+      "total": 54,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "RINCON DEL CHICO",
+      "slug": "rincon-del-chico",
+      "origen": "barrio",
+      "segundos": 65.9
+    },
+    {
+      "clave": "venta_apartamento_santa-bibiana",
+      "etiqueta": "Venta - Apartamento - SANTA BIBIANA",
+      "archivo": "venta_apartamento_santa-bibiana.json",
+      "total": 53,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "SANTA BIBIANA",
+      "slug": "santa-bibiana",
+      "origen": "barrio",
+      "segundos": 66.0
+    },
+    {
+      "clave": "arriendo_apartamento_santa-bibiana",
+      "etiqueta": "Arriendo - Apartamento - SANTA BIBIANA",
+      "archivo": "arriendo_apartamento_santa-bibiana.json",
+      "total": 52,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "SANTA BIBIANA",
+      "slug": "santa-bibiana",
+      "origen": "barrio",
+      "segundos": 66.0
+    },
+    {
+      "clave": "venta_apartamento_seminario",
+      "etiqueta": "Venta - Apartamento - SEMINARIO",
+      "archivo": "venta_apartamento_seminario.json",
+      "total": 47,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "SEMINARIO",
+      "slug": "seminario",
+      "origen": "barrio",
+      "segundos": 65.0
+    },
+    {
+      "clave": "arriendo_apartamento_seminario",
+      "etiqueta": "Arriendo - Apartamento - SEMINARIO",
+      "archivo": "arriendo_apartamento_seminario.json",
+      "total": 17,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "SEMINARIO",
+      "slug": "seminario",
+      "origen": "barrio",
+      "segundos": 64.7
+    },
+    {
+      "clave": "venta_apartamento_siberia",
+      "etiqueta": "Venta - Apartamento - SIBERIA",
+      "archivo": "venta_apartamento_siberia.json",
+      "total": 65,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "SIBERIA",
+      "slug": "siberia",
+      "origen": "barrio",
+      "segundos": 66.5
+    },
+    {
+      "clave": "arriendo_apartamento_siberia",
+      "etiqueta": "Arriendo - Apartamento - SIBERIA",
+      "archivo": "arriendo_apartamento_siberia.json",
+      "total": 66,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "SIBERIA",
+      "slug": "siberia",
+      "origen": "barrio",
+      "segundos": 66.0
+    },
+    {
+      "clave": "venta_apartamento_siberia-central",
+      "etiqueta": "Venta - Apartamento - SIBERIA CENTRAL",
+      "archivo": "venta_apartamento_siberia-central.json",
+      "total": 51,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "SIBERIA CENTRAL",
+      "slug": "siberia-central",
+      "origen": "barrio",
+      "segundos": 65.7
+    },
+    {
+      "clave": "arriendo_apartamento_siberia-central",
+      "etiqueta": "Arriendo - Apartamento - SIBERIA CENTRAL",
+      "archivo": "arriendo_apartamento_siberia-central.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "SIBERIA CENTRAL",
+      "slug": "siberia-central",
+      "origen": "barrio",
+      "segundos": 65.3
+    },
+    {
+      "clave": "venta_apartamento_siberia-ii",
+      "etiqueta": "Venta - Apartamento - SIBERIA II",
+      "archivo": "venta_apartamento_siberia-ii.json",
+      "total": 6,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "SIBERIA II",
+      "slug": "siberia-ii",
+      "origen": "barrio",
+      "segundos": 64.5
+    },
+    {
+      "clave": "arriendo_apartamento_siberia-ii",
+      "etiqueta": "Arriendo - Apartamento - SIBERIA II",
+      "archivo": "arriendo_apartamento_siberia-ii.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "SIBERIA II",
+      "slug": "siberia-ii",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "venta_apartamento_sucre",
+      "etiqueta": "Venta - Apartamento - SUCRE",
+      "archivo": "venta_apartamento_sucre.json",
+      "total": 39,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "SUCRE",
+      "slug": "sucre",
+      "origen": "barrio",
+      "segundos": 65.3
+    },
+    {
+      "clave": "arriendo_apartamento_sucre",
+      "etiqueta": "Arriendo - Apartamento - SUCRE",
+      "archivo": "arriendo_apartamento_sucre.json",
+      "total": 18,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "SUCRE",
+      "slug": "sucre",
+      "origen": "barrio",
+      "segundos": 64.5
+    },
+    {
+      "clave": "venta_apartamento_estoril",
+      "etiqueta": "Venta - Apartamento - ESTORIL",
+      "archivo": "venta_apartamento_estoril.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "ESTORIL",
+      "slug": "estoril",
+      "origen": "barrio",
+      "segundos": 65.7
+    },
+    {
+      "clave": "arriendo_apartamento_estoril",
+      "etiqueta": "Arriendo - Apartamento - ESTORIL",
+      "archivo": "arriendo_apartamento_estoril.json",
+      "total": 19,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "ESTORIL",
+      "slug": "estoril",
+      "origen": "barrio",
+      "segundos": 64.7
+    },
+    {
+      "clave": "venta_apartamento_batan",
+      "etiqueta": "Venta - Apartamento - BATAN",
+      "archivo": "venta_apartamento_batan.json",
+      "total": 51,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "BATAN",
+      "slug": "batan",
+      "origen": "barrio",
+      "segundos": 65.8
+    },
+    {
+      "clave": "arriendo_apartamento_batan",
+      "etiqueta": "Arriendo - Apartamento - BATAN",
+      "archivo": "arriendo_apartamento_batan.json",
+      "total": 35,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "BATAN",
+      "slug": "batan",
+      "origen": "barrio",
+      "segundos": 65.7
+    },
+    {
+      "clave": "venta_apartamento_la-calleja",
+      "etiqueta": "Venta - Apartamento - LA CALLEJA",
+      "archivo": "venta_apartamento_la-calleja.json",
+      "total": 51,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "LA CALLEJA",
+      "slug": "la-calleja",
+      "origen": "barrio",
+      "segundos": 65.9
+    },
+    {
+      "clave": "arriendo_apartamento_la-calleja",
+      "etiqueta": "Arriendo - Apartamento - LA CALLEJA",
+      "archivo": "arriendo_apartamento_la-calleja.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "LA CALLEJA",
+      "slug": "la-calleja",
+      "origen": "barrio",
+      "segundos": 65.1
+    },
+    {
+      "clave": "venta_apartamento_las-margaritas",
+      "etiqueta": "Venta - Apartamento - LAS MARGARITAS",
+      "archivo": "venta_apartamento_las-margaritas.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "LAS MARGARITAS",
+      "slug": "las-margaritas",
+      "origen": "barrio",
+      "segundos": 66.1
+    },
+    {
+      "clave": "arriendo_apartamento_las-margaritas",
+      "etiqueta": "Arriendo - Apartamento - LAS MARGARITAS",
+      "archivo": "arriendo_apartamento_las-margaritas.json",
+      "total": 9,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "LAS MARGARITAS",
+      "slug": "las-margaritas",
+      "origen": "barrio",
+      "segundos": 64.5
+    },
+    {
+      "clave": "venta_apartamento_los-cedros",
+      "etiqueta": "Venta - Apartamento - LOS CEDROS",
+      "archivo": "venta_apartamento_los-cedros.json",
+      "total": 51,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "LOS CEDROS",
+      "slug": "los-cedros",
+      "origen": "barrio",
+      "segundos": 65.7
+    },
+    {
+      "clave": "arriendo_apartamento_los-cedros",
+      "etiqueta": "Arriendo - Apartamento - LOS CEDROS",
+      "archivo": "arriendo_apartamento_los-cedros.json",
+      "total": 31,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "LOS CEDROS",
+      "slug": "los-cedros",
+      "origen": "barrio",
+      "segundos": 65.0
+    },
+    {
+      "clave": "venta_apartamento_mazuren",
+      "etiqueta": "Venta - Apartamento - MAZUREN",
+      "archivo": "venta_apartamento_mazuren.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "MAZUREN",
+      "slug": "mazuren",
+      "origen": "barrio",
+      "segundos": 65.5
+    },
+    {
+      "clave": "arriendo_apartamento_mazuren",
+      "etiqueta": "Arriendo - Apartamento - MAZUREN",
+      "archivo": "arriendo_apartamento_mazuren.json",
+      "total": 39,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "MAZUREN",
+      "slug": "mazuren",
+      "origen": "barrio",
+      "segundos": 65.3
+    },
+    {
+      "clave": "venta_apartamento_monaco",
+      "etiqueta": "Venta - Apartamento - MONACO",
+      "archivo": "venta_apartamento_monaco.json",
+      "total": 51,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "MONACO",
+      "slug": "monaco",
+      "origen": "barrio",
+      "segundos": 65.2
+    },
+    {
+      "clave": "arriendo_apartamento_monaco",
+      "etiqueta": "Arriendo - Apartamento - MONACO",
+      "archivo": "arriendo_apartamento_monaco.json",
+      "total": 23,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "MONACO",
+      "slug": "monaco",
+      "origen": "barrio",
+      "segundos": 64.5
+    },
+    {
+      "clave": "venta_apartamento_prado-veraniego",
+      "etiqueta": "Venta - Apartamento - PRADO VERANIEGO",
+      "archivo": "venta_apartamento_prado-veraniego.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "PRADO VERANIEGO",
+      "slug": "prado-veraniego",
+      "origen": "barrio",
+      "segundos": 65.5
+    },
+    {
+      "clave": "arriendo_apartamento_prado-veraniego",
+      "etiqueta": "Arriendo - Apartamento - PRADO VERANIEGO",
+      "archivo": "arriendo_apartamento_prado-veraniego.json",
+      "total": 39,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "PRADO VERANIEGO",
+      "slug": "prado-veraniego",
+      "origen": "barrio",
+      "segundos": 65.1
+    },
+    {
+      "clave": "venta_apartamento_san-patricio",
+      "etiqueta": "Venta - Apartamento - SAN PATRICIO",
+      "archivo": "venta_apartamento_san-patricio.json",
+      "total": 53,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "SAN PATRICIO",
+      "slug": "san-patricio",
+      "origen": "barrio",
+      "segundos": 65.8
+    },
+    {
+      "clave": "arriendo_apartamento_san-patricio",
+      "etiqueta": "Arriendo - Apartamento - SAN PATRICIO",
+      "archivo": "arriendo_apartamento_san-patricio.json",
+      "total": 53,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "SAN PATRICIO",
+      "slug": "san-patricio",
+      "origen": "barrio",
+      "segundos": 65.8
+    },
+    {
+      "clave": "venta_apartamento_santa-barbara-occidental",
+      "etiqueta": "Venta - Apartamento - SANTA BARBARA OCCIDENTAL",
+      "archivo": "venta_apartamento_santa-barbara-occidental.json",
+      "total": 52,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "SANTA BARBARA OCCIDENTAL",
+      "slug": "santa-barbara-occidental",
+      "origen": "barrio",
+      "segundos": 65.4
+    },
+    {
+      "clave": "arriendo_apartamento_santa-barbara-occidental",
+      "etiqueta": "Arriendo - Apartamento - SANTA BARBARA OCCIDENTAL",
+      "archivo": "arriendo_apartamento_santa-barbara-occidental.json",
+      "total": 52,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "SANTA BARBARA OCCIDENTAL",
+      "slug": "santa-barbara-occidental",
+      "origen": "barrio",
+      "segundos": 65.7
+    },
+    {
+      "clave": "venta_apartamento_acacias-usaquen",
+      "etiqueta": "Venta - Apartamento - ACACIAS USAQUEN",
+      "archivo": "venta_apartamento_acacias-usaquen.json",
+      "total": 51,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "ACACIAS USAQUEN",
+      "slug": "acacias-usaquen",
+      "origen": "barrio",
+      "segundos": 66.2
+    },
+    {
+      "clave": "arriendo_apartamento_acacias-usaquen",
+      "etiqueta": "Arriendo - Apartamento - ACACIAS USAQUEN",
+      "archivo": "arriendo_apartamento_acacias-usaquen.json",
+      "total": 16,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "ACACIAS USAQUEN",
+      "slug": "acacias-usaquen",
+      "origen": "barrio",
+      "segundos": 64.8
+    },
+    {
+      "clave": "venta_apartamento_barrancas",
+      "etiqueta": "Venta - Apartamento - BARRANCAS",
+      "archivo": "venta_apartamento_barrancas.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "BARRANCAS",
+      "slug": "barrancas",
+      "origen": "barrio",
+      "segundos": 66.2
+    },
+    {
+      "clave": "arriendo_apartamento_barrancas",
+      "etiqueta": "Arriendo - Apartamento - BARRANCAS",
+      "archivo": "arriendo_apartamento_barrancas.json",
+      "total": 23,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "BARRANCAS",
+      "slug": "barrancas",
+      "origen": "barrio",
+      "segundos": 64.9
+    },
+    {
+      "clave": "venta_apartamento_bella-suiza",
+      "etiqueta": "Venta - Apartamento - BELLA SUIZA",
+      "archivo": "venta_apartamento_bella-suiza.json",
+      "total": 55,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "BELLA SUIZA",
+      "slug": "bella-suiza",
+      "origen": "barrio",
+      "segundos": 65.9
+    },
+    {
+      "clave": "arriendo_apartamento_bella-suiza",
+      "etiqueta": "Arriendo - Apartamento - BELLA SUIZA",
+      "archivo": "arriendo_apartamento_bella-suiza.json",
+      "total": 51,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "BELLA SUIZA",
+      "slug": "bella-suiza",
+      "origen": "barrio",
+      "segundos": 65.3
+    },
+    {
+      "clave": "venta_apartamento_bosque-de-pinos-i",
+      "etiqueta": "Venta - Apartamento - BOSQUE DE PINOS I",
+      "archivo": "venta_apartamento_bosque-de-pinos-i.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "BOSQUE DE PINOS I",
+      "slug": "bosque-de-pinos-i",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "arriendo_apartamento_bosque-de-pinos-i",
+      "etiqueta": "Arriendo - Apartamento - BOSQUE DE PINOS I",
+      "archivo": "arriendo_apartamento_bosque-de-pinos-i.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "BOSQUE DE PINOS I",
+      "slug": "bosque-de-pinos-i",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_apartamento_bosque-de-pinos-iii",
+      "etiqueta": "Venta - Apartamento - BOSQUE DE PINOS III",
+      "archivo": "venta_apartamento_bosque-de-pinos-iii.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "BOSQUE DE PINOS III",
+      "slug": "bosque-de-pinos-iii",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "arriendo_apartamento_bosque-de-pinos-iii",
+      "etiqueta": "Arriendo - Apartamento - BOSQUE DE PINOS III",
+      "archivo": "arriendo_apartamento_bosque-de-pinos-iii.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "BOSQUE DE PINOS III",
+      "slug": "bosque-de-pinos-iii",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "venta_apartamento_bosque-de-pinos-iii-rural",
+      "etiqueta": "Venta - Apartamento - BOSQUE DE PINOS III RURAL",
+      "archivo": "venta_apartamento_bosque-de-pinos-iii-rural.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "BOSQUE DE PINOS III RURAL",
+      "slug": "bosque-de-pinos-iii-rural",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "arriendo_apartamento_bosque-de-pinos-iii-rural",
+      "etiqueta": "Arriendo - Apartamento - BOSQUE DE PINOS III RURAL",
+      "archivo": "arriendo_apartamento_bosque-de-pinos-iii-rural.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "BOSQUE DE PINOS III RURAL",
+      "slug": "bosque-de-pinos-iii-rural",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_apartamento_caobos-salazar",
+      "etiqueta": "Venta - Apartamento - CAOBOS SALAZAR",
+      "archivo": "venta_apartamento_caobos-salazar.json",
+      "total": 52,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "CAOBOS SALAZAR",
+      "slug": "caobos-salazar",
+      "origen": "barrio",
+      "segundos": 66.4
+    },
+    {
+      "clave": "arriendo_apartamento_caobos-salazar",
+      "etiqueta": "Arriendo - Apartamento - CAOBOS SALAZAR",
+      "archivo": "arriendo_apartamento_caobos-salazar.json",
+      "total": 22,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "CAOBOS SALAZAR",
+      "slug": "caobos-salazar",
+      "origen": "barrio",
+      "segundos": 65.8
+    },
+    {
+      "clave": "venta_apartamento_cedritos",
+      "etiqueta": "Venta - Apartamento - CEDRITOS",
+      "archivo": "venta_apartamento_cedritos.json",
+      "total": 57,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "CEDRITOS",
+      "slug": "cedritos",
+      "origen": "barrio",
+      "segundos": 67.4
+    },
+    {
+      "clave": "arriendo_apartamento_cedritos",
+      "etiqueta": "Arriendo - Apartamento - CEDRITOS",
+      "archivo": "arriendo_apartamento_cedritos.json",
+      "total": 53,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "CEDRITOS",
+      "slug": "cedritos",
+      "origen": "barrio",
+      "segundos": 65.4
+    },
+    {
+      "clave": "venta_apartamento_cedro-narvaez",
+      "etiqueta": "Venta - Apartamento - CEDRO NARVAEZ",
+      "archivo": "venta_apartamento_cedro-narvaez.json",
+      "total": 44,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "CEDRO NARVAEZ",
+      "slug": "cedro-narvaez",
+      "origen": "barrio",
+      "segundos": 65.1
+    },
+    {
+      "clave": "arriendo_apartamento_cedro-narvaez",
+      "etiqueta": "Arriendo - Apartamento - CEDRO NARVAEZ",
+      "archivo": "arriendo_apartamento_cedro-narvaez.json",
+      "total": 7,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "CEDRO NARVAEZ",
+      "slug": "cedro-narvaez",
+      "origen": "barrio",
+      "segundos": 64.2
     }
   ],
   "consolidados": {
