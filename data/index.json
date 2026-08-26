@@ -1,7 +1,7 @@
 {
-  "generado": "2026-08-26T09:30:36",
-  "generado_humano": "2026.AGO.26 09:30",
-  "grupo_actual": "diario",
+  "generado": "2026-08-26T22:37:04",
+  "generado_humano": "2026.AGO.26 22:37",
+  "grupo_actual": "barrios",
   "ciudad": "bogota",
   "datasets": [
     {
@@ -1112,7 +1112,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 65.3
+      "segundos": 6.9
     },
     {
       "clave": "arriendo_apartamento_chico-norte-iii-sector",
@@ -1124,7 +1124,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 64.3
+      "segundos": 6.9
     },
     {
       "clave": "venta_apartamento_concepcion-norte",
@@ -1208,7 +1208,7 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 65.3
+      "segundos": 7.0
     },
     {
       "clave": "arriendo_apartamento_la-castellana",
@@ -1220,7 +1220,7 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 64.6
+      "segundos": 6.8
     },
     {
       "clave": "venta_apartamento_la-esperanza",
@@ -1520,7 +1520,7 @@
       "zona": "CHICO NORTE II SECTOR",
       "slug": "chico-norte-ii-sector",
       "origen": "barrio",
-      "segundos": 65.2
+      "segundos": 6.9
     },
     {
       "clave": "arriendo_apartamento_chico-norte-ii-sector",
@@ -1532,7 +1532,7 @@
       "zona": "CHICO NORTE II SECTOR",
       "slug": "chico-norte-ii-sector",
       "origen": "barrio",
-      "segundos": 64.7
+      "segundos": 6.9
     },
     {
       "clave": "venta_apartamento_el-bagazal",
@@ -1688,7 +1688,7 @@
       "zona": "ESCUELA DE CABALLERIA II",
       "slug": "escuela-de-caballeria-ii",
       "origen": "barrio",
-      "segundos": 65.2
+      "segundos": 6.8
     },
     {
       "clave": "arriendo_apartamento_escuela-de-caballeria-ii",
@@ -1700,7 +1700,7 @@
       "zona": "ESCUELA DE CABALLERIA II",
       "slug": "escuela-de-caballeria-ii",
       "origen": "barrio",
-      "segundos": 4.4
+      "segundos": 4.3
     },
     {
       "clave": "venta_apartamento_escuela-de-infanteria",
@@ -1712,7 +1712,7 @@
       "zona": "ESCUELA DE INFANTERIA",
       "slug": "escuela-de-infanteria",
       "origen": "barrio",
-      "segundos": 64.6
+      "segundos": 6.8
     },
     {
       "clave": "arriendo_apartamento_escuela-de-infanteria",
@@ -1724,7 +1724,7 @@
       "zona": "ESCUELA DE INFANTERIA",
       "slug": "escuela-de-infanteria",
       "origen": "barrio",
-      "segundos": 64.4
+      "segundos": 6.7
     },
     {
       "clave": "venta_apartamento_espartillal",
@@ -2024,19 +2024,19 @@
       "zona": "PALERMO",
       "slug": "palermo",
       "origen": "barrio",
-      "segundos": 65.2
+      "segundos": 7.1
     },
     {
       "clave": "arriendo_apartamento_palermo",
       "etiqueta": "Arriendo - Apartamento - PALERMO",
       "archivo": "arriendo_apartamento_palermo.json",
-      "total": 16,
+      "total": 15,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "PALERMO",
       "slug": "palermo",
       "origen": "barrio",
-      "segundos": 64.6
+      "segundos": 6.9
     },
     {
       "clave": "venta_apartamento_paramo-i-rural",
@@ -2048,7 +2048,7 @@
       "zona": "PARAMO I RURAL",
       "slug": "paramo-i-rural",
       "origen": "barrio",
-      "segundos": 65.0
+      "segundos": 6.8
     },
     {
       "clave": "arriendo_apartamento_paramo-i-rural",
@@ -2060,7 +2060,7 @@
       "zona": "PARAMO I RURAL",
       "slug": "paramo-i-rural",
       "origen": "barrio",
-      "segundos": 64.6
+      "segundos": 6.7
     },
     {
       "clave": "venta_apartamento_pardo-rubio",
@@ -2072,31 +2072,31 @@
       "zona": "PARDO RUBIO",
       "slug": "pardo-rubio",
       "origen": "barrio",
-      "segundos": 65.4
+      "segundos": 6.9
     },
     {
       "clave": "arriendo_apartamento_pardo-rubio",
       "etiqueta": "Arriendo - Apartamento - PARDO RUBIO",
       "archivo": "arriendo_apartamento_pardo-rubio.json",
-      "total": 31,
+      "total": 28,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "PARDO RUBIO",
       "slug": "pardo-rubio",
       "origen": "barrio",
-      "segundos": 64.8
+      "segundos": 6.8
     },
     {
       "clave": "venta_apartamento_pardo-rubio-i",
       "etiqueta": "Venta - Apartamento - PARDO RUBIO I",
       "archivo": "venta_apartamento_pardo-rubio-i.json",
-      "total": 3,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "PARDO RUBIO I",
       "slug": "pardo-rubio-i",
       "origen": "barrio",
-      "segundos": 64.3
+      "segundos": 4.4
     },
     {
       "clave": "arriendo_apartamento_pardo-rubio-i",
@@ -2108,7 +2108,7 @@
       "zona": "PARDO RUBIO I",
       "slug": "pardo-rubio-i",
       "origen": "barrio",
-      "segundos": 4.4
+      "segundos": 4.3
     },
     {
       "clave": "venta_apartamento_parque-nacional-oriental",
@@ -2144,7 +2144,7 @@
       "zona": "QUESADA",
       "slug": "quesada",
       "origen": "barrio",
-      "segundos": 64.7
+      "segundos": 6.9
     },
     {
       "clave": "arriendo_apartamento_quesada",
@@ -2156,7 +2156,7 @@
       "zona": "QUESADA",
       "slug": "quesada",
       "origen": "barrio",
-      "segundos": 64.5
+      "segundos": 6.8
     },
     {
       "clave": "venta_apartamento_rincon-del-chico",
@@ -2168,7 +2168,7 @@
       "zona": "RINCON DEL CHICO",
       "slug": "rincon-del-chico",
       "origen": "barrio",
-      "segundos": 66.0
+      "segundos": 6.9
     },
     {
       "clave": "arriendo_apartamento_rincon-del-chico",
@@ -2180,7 +2180,7 @@
       "zona": "RINCON DEL CHICO",
       "slug": "rincon-del-chico",
       "origen": "barrio",
-      "segundos": 65.9
+      "segundos": 7.0
     },
     {
       "clave": "venta_apartamento_santa-bibiana",
@@ -2192,19 +2192,19 @@
       "zona": "SANTA BIBIANA",
       "slug": "santa-bibiana",
       "origen": "barrio",
-      "segundos": 66.0
+      "segundos": 7.0
     },
     {
       "clave": "arriendo_apartamento_santa-bibiana",
       "etiqueta": "Arriendo - Apartamento - SANTA BIBIANA",
       "archivo": "arriendo_apartamento_santa-bibiana.json",
-      "total": 52,
+      "total": 54,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "SANTA BIBIANA",
       "slug": "santa-bibiana",
       "origen": "barrio",
-      "segundos": 66.0
+      "segundos": 7.1
     },
     {
       "clave": "venta_apartamento_seminario",
@@ -2216,7 +2216,7 @@
       "zona": "SEMINARIO",
       "slug": "seminario",
       "origen": "barrio",
-      "segundos": 65.0
+      "segundos": 7.0
     },
     {
       "clave": "arriendo_apartamento_seminario",
@@ -2228,7 +2228,7 @@
       "zona": "SEMINARIO",
       "slug": "seminario",
       "origen": "barrio",
-      "segundos": 64.7
+      "segundos": 6.9
     },
     {
       "clave": "venta_apartamento_siberia",
@@ -2240,19 +2240,19 @@
       "zona": "SIBERIA",
       "slug": "siberia",
       "origen": "barrio",
-      "segundos": 66.5
+      "segundos": 7.0
     },
     {
       "clave": "arriendo_apartamento_siberia",
       "etiqueta": "Arriendo - Apartamento - SIBERIA",
       "archivo": "arriendo_apartamento_siberia.json",
-      "total": 66,
+      "total": 65,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "SIBERIA",
       "slug": "siberia",
       "origen": "barrio",
-      "segundos": 66.0
+      "segundos": 7.0
     },
     {
       "clave": "venta_apartamento_siberia-central",
@@ -2264,7 +2264,7 @@
       "zona": "SIBERIA CENTRAL",
       "slug": "siberia-central",
       "origen": "barrio",
-      "segundos": 65.7
+      "segundos": 6.9
     },
     {
       "clave": "arriendo_apartamento_siberia-central",
@@ -2276,7 +2276,7 @@
       "zona": "SIBERIA CENTRAL",
       "slug": "siberia-central",
       "origen": "barrio",
-      "segundos": 65.3
+      "segundos": 7.0
     },
     {
       "clave": "venta_apartamento_siberia-ii",
@@ -2288,7 +2288,7 @@
       "zona": "SIBERIA II",
       "slug": "siberia-ii",
       "origen": "barrio",
-      "segundos": 64.5
+      "segundos": 6.8
     },
     {
       "clave": "arriendo_apartamento_siberia-ii",
@@ -2300,7 +2300,7 @@
       "zona": "SIBERIA II",
       "slug": "siberia-ii",
       "origen": "barrio",
-      "segundos": 4.4
+      "segundos": 4.3
     },
     {
       "clave": "venta_apartamento_sucre",
@@ -2312,7 +2312,7 @@
       "zona": "SUCRE",
       "slug": "sucre",
       "origen": "barrio",
-      "segundos": 65.3
+      "segundos": 6.9
     },
     {
       "clave": "arriendo_apartamento_sucre",
@@ -2324,7 +2324,7 @@
       "zona": "SUCRE",
       "slug": "sucre",
       "origen": "barrio",
-      "segundos": 64.5
+      "segundos": 6.8
     },
     {
       "clave": "venta_apartamento_estoril",
@@ -2336,19 +2336,19 @@
       "zona": "ESTORIL",
       "slug": "estoril",
       "origen": "barrio",
-      "segundos": 65.7
+      "segundos": 6.8
     },
     {
       "clave": "arriendo_apartamento_estoril",
       "etiqueta": "Arriendo - Apartamento - ESTORIL",
       "archivo": "arriendo_apartamento_estoril.json",
-      "total": 19,
+      "total": 18,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "ESTORIL",
       "slug": "estoril",
       "origen": "barrio",
-      "segundos": 64.7
+      "segundos": 6.8
     },
     {
       "clave": "venta_apartamento_batan",
@@ -2781,6 +2781,462 @@
       "slug": "cedro-narvaez",
       "origen": "barrio",
       "segundos": 64.2
+    },
+    {
+      "clave": "venta_casa_palermo",
+      "etiqueta": "Venta - Casa - PALERMO",
+      "archivo": "venta_casa_palermo.json",
+      "total": 45,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "PALERMO",
+      "slug": "palermo",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_casa_palermo",
+      "etiqueta": "Arriendo - Casa - PALERMO",
+      "archivo": "arriendo_casa_palermo.json",
+      "total": 6,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "PALERMO",
+      "slug": "palermo",
+      "origen": "barrio",
+      "segundos": 6.7
+    },
+    {
+      "clave": "venta_casa_paramo-i-rural",
+      "etiqueta": "Venta - Casa - PARAMO I RURAL",
+      "archivo": "venta_casa_paramo-i-rural.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "PARAMO I RURAL",
+      "slug": "paramo-i-rural",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "arriendo_casa_paramo-i-rural",
+      "etiqueta": "Arriendo - Casa - PARAMO I RURAL",
+      "archivo": "arriendo_casa_paramo-i-rural.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "PARAMO I RURAL",
+      "slug": "paramo-i-rural",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_casa_pardo-rubio",
+      "etiqueta": "Venta - Casa - PARDO RUBIO",
+      "archivo": "venta_casa_pardo-rubio.json",
+      "total": 16,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "PARDO RUBIO",
+      "slug": "pardo-rubio",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_casa_pardo-rubio",
+      "etiqueta": "Arriendo - Casa - PARDO RUBIO",
+      "archivo": "arriendo_casa_pardo-rubio.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "PARDO RUBIO",
+      "slug": "pardo-rubio",
+      "origen": "barrio",
+      "segundos": 4.7
+    },
+    {
+      "clave": "venta_casa_pardo-rubio-i",
+      "etiqueta": "Venta - Casa - PARDO RUBIO I",
+      "archivo": "venta_casa_pardo-rubio-i.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "PARDO RUBIO I",
+      "slug": "pardo-rubio-i",
+      "origen": "barrio",
+      "segundos": 4.5
+    },
+    {
+      "clave": "arriendo_casa_pardo-rubio-i",
+      "etiqueta": "Arriendo - Casa - PARDO RUBIO I",
+      "archivo": "arriendo_casa_pardo-rubio-i.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "PARDO RUBIO I",
+      "slug": "pardo-rubio-i",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_casa_parque-nacional-oriental",
+      "etiqueta": "Venta - Casa - PARQUE NACIONAL ORIENTAL",
+      "archivo": "venta_casa_parque-nacional-oriental.json",
+      "total": 4,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "PARQUE NACIONAL ORIENTAL",
+      "slug": "parque-nacional-oriental",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_casa_parque-nacional-oriental",
+      "etiqueta": "Arriendo - Casa - PARQUE NACIONAL ORIENTAL",
+      "archivo": "arriendo_casa_parque-nacional-oriental.json",
+      "total": 4,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "PARQUE NACIONAL ORIENTAL",
+      "slug": "parque-nacional-oriental",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_casa_quesada",
+      "etiqueta": "Venta - Casa - QUESADA",
+      "archivo": "venta_casa_quesada.json",
+      "total": 10,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "QUESADA",
+      "slug": "quesada",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_casa_quesada",
+      "etiqueta": "Arriendo - Casa - QUESADA",
+      "archivo": "arriendo_casa_quesada.json",
+      "total": 55,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "QUESADA",
+      "slug": "quesada",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_casa_rincon-del-chico",
+      "etiqueta": "Venta - Casa - RINCON DEL CHICO",
+      "archivo": "venta_casa_rincon-del-chico.json",
+      "total": 7,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "RINCON DEL CHICO",
+      "slug": "rincon-del-chico",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_casa_rincon-del-chico",
+      "etiqueta": "Arriendo - Casa - RINCON DEL CHICO",
+      "archivo": "arriendo_casa_rincon-del-chico.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "RINCON DEL CHICO",
+      "slug": "rincon-del-chico",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_casa_santa-bibiana",
+      "etiqueta": "Venta - Casa - SANTA BIBIANA",
+      "archivo": "venta_casa_santa-bibiana.json",
+      "total": 32,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "SANTA BIBIANA",
+      "slug": "santa-bibiana",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_casa_santa-bibiana",
+      "etiqueta": "Arriendo - Casa - SANTA BIBIANA",
+      "archivo": "arriendo_casa_santa-bibiana.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "SANTA BIBIANA",
+      "slug": "santa-bibiana",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_casa_seminario",
+      "etiqueta": "Venta - Casa - SEMINARIO",
+      "archivo": "venta_casa_seminario.json",
+      "total": 4,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "SEMINARIO",
+      "slug": "seminario",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_casa_seminario",
+      "etiqueta": "Arriendo - Casa - SEMINARIO",
+      "archivo": "arriendo_casa_seminario.json",
+      "total": 7,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "SEMINARIO",
+      "slug": "seminario",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_casa_siberia",
+      "etiqueta": "Venta - Casa - SIBERIA",
+      "archivo": "venta_casa_siberia.json",
+      "total": 65,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "SIBERIA",
+      "slug": "siberia",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "arriendo_casa_siberia",
+      "etiqueta": "Arriendo - Casa - SIBERIA",
+      "archivo": "arriendo_casa_siberia.json",
+      "total": 55,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "SIBERIA",
+      "slug": "siberia",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "venta_casa_siberia-central",
+      "etiqueta": "Venta - Casa - SIBERIA CENTRAL",
+      "archivo": "venta_casa_siberia-central.json",
+      "total": 18,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "SIBERIA CENTRAL",
+      "slug": "siberia-central",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_casa_siberia-central",
+      "etiqueta": "Arriendo - Casa - SIBERIA CENTRAL",
+      "archivo": "arriendo_casa_siberia-central.json",
+      "total": 9,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "SIBERIA CENTRAL",
+      "slug": "siberia-central",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_casa_siberia-ii",
+      "etiqueta": "Venta - Casa - SIBERIA II",
+      "archivo": "venta_casa_siberia-ii.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "SIBERIA II",
+      "slug": "siberia-ii",
+      "origen": "barrio",
+      "segundos": 4.5
+    },
+    {
+      "clave": "arriendo_casa_siberia-ii",
+      "etiqueta": "Arriendo - Casa - SIBERIA II",
+      "archivo": "arriendo_casa_siberia-ii.json",
+      "total": 5,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "SIBERIA II",
+      "slug": "siberia-ii",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_casa_sucre",
+      "etiqueta": "Venta - Casa - SUCRE",
+      "archivo": "venta_casa_sucre.json",
+      "total": 12,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "SUCRE",
+      "slug": "sucre",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "arriendo_casa_sucre",
+      "etiqueta": "Arriendo - Casa - SUCRE",
+      "archivo": "arriendo_casa_sucre.json",
+      "total": 4,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "SUCRE",
+      "slug": "sucre",
+      "origen": "barrio",
+      "segundos": 7.2
+    },
+    {
+      "clave": "venta_casa_chico-norte-iii-sector",
+      "etiqueta": "Venta - Casa - CHICO NORTE III SECTOR",
+      "archivo": "venta_casa_chico-norte-iii-sector.json",
+      "total": 31,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "CHICO NORTE III SECTOR",
+      "slug": "chico-norte-iii-sector",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_casa_chico-norte-iii-sector",
+      "etiqueta": "Arriendo - Casa - CHICO NORTE III SECTOR",
+      "archivo": "arriendo_casa_chico-norte-iii-sector.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "CHICO NORTE III SECTOR",
+      "slug": "chico-norte-iii-sector",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "venta_casa_estoril",
+      "etiqueta": "Venta - Casa - ESTORIL",
+      "archivo": "venta_casa_estoril.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "ESTORIL",
+      "slug": "estoril",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "arriendo_casa_estoril",
+      "etiqueta": "Arriendo - Casa - ESTORIL",
+      "archivo": "arriendo_casa_estoril.json",
+      "total": 12,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "ESTORIL",
+      "slug": "estoril",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_casa_la-castellana",
+      "etiqueta": "Venta - Casa - LA CASTELLANA",
+      "archivo": "venta_casa_la-castellana.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "LA CASTELLANA",
+      "slug": "la-castellana",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_casa_la-castellana",
+      "etiqueta": "Arriendo - Casa - LA CASTELLANA",
+      "archivo": "arriendo_casa_la-castellana.json",
+      "total": 44,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "LA CASTELLANA",
+      "slug": "la-castellana",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "venta_casa_chico-norte-ii-sector",
+      "etiqueta": "Venta - Casa - CHICO NORTE II SECTOR",
+      "archivo": "venta_casa_chico-norte-ii-sector.json",
+      "total": 8,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "CHICO NORTE II SECTOR",
+      "slug": "chico-norte-ii-sector",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "arriendo_casa_chico-norte-ii-sector",
+      "etiqueta": "Arriendo - Casa - CHICO NORTE II SECTOR",
+      "archivo": "arriendo_casa_chico-norte-ii-sector.json",
+      "total": 5,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "CHICO NORTE II SECTOR",
+      "slug": "chico-norte-ii-sector",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_casa_escuela-de-caballeria-ii",
+      "etiqueta": "Venta - Casa - ESCUELA DE CABALLERIA II",
+      "archivo": "venta_casa_escuela-de-caballeria-ii.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "ESCUELA DE CABALLERIA II",
+      "slug": "escuela-de-caballeria-ii",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "arriendo_casa_escuela-de-caballeria-ii",
+      "etiqueta": "Arriendo - Casa - ESCUELA DE CABALLERIA II",
+      "archivo": "arriendo_casa_escuela-de-caballeria-ii.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "ESCUELA DE CABALLERIA II",
+      "slug": "escuela-de-caballeria-ii",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_casa_escuela-de-infanteria",
+      "etiqueta": "Venta - Casa - ESCUELA DE INFANTERIA",
+      "archivo": "venta_casa_escuela-de-infanteria.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "ESCUELA DE INFANTERIA",
+      "slug": "escuela-de-infanteria",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "arriendo_casa_escuela-de-infanteria",
+      "etiqueta": "Arriendo - Casa - ESCUELA DE INFANTERIA",
+      "archivo": "arriendo_casa_escuela-de-infanteria.json",
+      "total": 20,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "ESCUELA DE INFANTERIA",
+      "slug": "escuela-de-infanteria",
+      "origen": "barrio",
+      "segundos": 6.8
     }
   ],
   "consolidados": {
@@ -2791,8 +3247,5 @@
   },
   "tipos": "tipos.json",
   "historial": "historial.json",
-  "noticias": {
-    "archivo": "noticias.json",
-    "total": 17
-  }
+  "noticias": null
 }

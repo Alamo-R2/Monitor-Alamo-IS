@@ -5,10 +5,37 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.AGO.26 07:52",
+  "generado": "2026.AGO.26 22:37",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 45.0,
+      "administracion": 250000,
+      "barrio": "MIRANDELA I",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-mirandela-i-2-habitaciones-2-banos/4058-M6332025",
+      "titulo": "Apartamento en Arriendo, MIRANDELA I, Bogotá D.C.",
+      "id_domus": "4058-M6332025",
+      "fechaPublicacion": null,
+      "lat": 4.779155254364014,
+      "lon": -74.04571533203125,
+      "location_type": "exacta",
+      "zonaConsulta": "PARAMO I RURAL",
+      "zonaSlug": "paramo-i-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -35,7 +62,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -56,33 +83,6 @@
       "fechaPublicacion": null,
       "lat": 4.7794084548950195,
       "lon": -74.04430389404297,
-      "location_type": "exacta",
-      "zonaConsulta": "PARAMO I RURAL",
-      "zonaSlug": "paramo-i-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 45.0,
-      "administracion": 250000,
-      "barrio": "MIRANDELA I",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-mirandela-i-2-habitaciones-2-banos/4058-M6332025",
-      "titulo": "Apartamento en Arriendo, MIRANDELA I, Bogotá D.C.",
-      "id_domus": "4058-M6332025",
-      "fechaPublicacion": null,
-      "lat": 4.779155254364014,
-      "lon": -74.04571533203125,
       "location_type": "exacta",
       "zonaConsulta": "PARAMO I RURAL",
       "zonaSlug": "paramo-i-rural",
