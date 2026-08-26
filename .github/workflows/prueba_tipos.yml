@@ -1,0 +1,61 @@
+name: Prueba de tipos (6 en fila)
+
+# Corre 6 tipos seguidos en una zona y deja un resumen con cuantos resultados dio cada uno.
+on:
+  workflow_dispatch:
+    inputs:
+      zona:
+        description: "Zona conocida para la prueba (ej. chapinero, usaquen)"
+        required: true
+        default: "chapinero"
+      operacion:
+        description: "venta o arriendo"
+        required: true
+        default: "venta"
+      paginas:
+        description: "Paginas por busqueda"
+        required: true
+        default: "1"
+
+jobs:
+  tipos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar librerias
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas requests openpyxl playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Probar los 6 tipos
+        run: |
+          ZONA="${{ github.event.inputs.zona }}"
+          OP="${{ github.event.inputs.operacion }}"
+          PAG="${{ github.event.inputs.paginas }}"
+          echo "| Tipo | Resultados |" > resumen.md
+          echo "| --- | --- |" >> resumen.md
+          for TIPO in apartamento casa oficina bodega edificio local lote; do
+            echo "=================================================="
+            echo ">>> Probando tipo: $TIPO  (zona=$ZONA op=$OP pag=$PAG)"
+            echo "=================================================="
+            # corre y captura la salida
+            SALIDA=$(python inmobiliario.py buscar --zona "$ZONA" --operacion "$OP" --tipo "$TIPO" --paginas "$PAG" 2>&1 || true)
+            echo "$SALIDA"
+            # extrae el numero que sigue a 'resultados' (tolerante a mayusculas y ':')
+            N=$(echo "$SALIDA" | grep -ioE "resultados[^0-9]*[0-9]+" | grep -oE "[0-9]+" | tail -1)
+            if [ -z "$N" ]; then N="?"; fi
+            echo "| $TIPO | $N |" >> resumen.md
+          done
+          echo ""
+          echo "############# RESUMEN #############"
+          cat resumen.md
+          # tambien lo publica en la pagina de la corrida
+          cat resumen.md >> "$GITHUB_STEP_SUMMARY"
