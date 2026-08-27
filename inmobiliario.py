@@ -29,7 +29,7 @@ PORTALES = {
         "css_hab": "[class*='bed']", "css_ubic": "[class*='location']",
     },
     "fincaraiz": {
-        "url": "https://www.fincaraiz.com.co/{operacion}/{tipo}/{ciudad}/{zona}?pagina={pagina}",
+        "url": "https://www.fincaraiz.com.co/{operacion}/{tipo}/{zona}/{ciudad}?pagina={pagina}",
         "css_tarjeta": "article", "css_precio": "[class*='price']",
         "css_titulo": "h2", "css_area": "[class*='area']",
         "css_hab": "[class*='room']", "css_ubic": "[class*='location']",
@@ -135,6 +135,7 @@ MUN_PRIORIDAD = ["Chia","Cajica","Cota","Tabio","Tenjo","Sopo","Tocancipa","Gach
                  "Zipaquira","Cogua","Nemocon","Sesquile","Suesca","Guatavita","Guasca",
                  "La Calera","Subachoque","El Rosal"]   # Sabana norte primero
 BUSQUEDAS_POR_CORRIDA = 80    # unidades (barrio x tipo x operacion) por corrida ~= 16 min
+TIPO_FR = {"apartamento":"apartamentos","casa":"casas","oficina":"oficinas","bodega":"bodegas","local":"locales","lote":"lotes"}
 
 
 # === Barrido POR BARRIO desde geo_model.json (cobertura por dias) ===
@@ -412,6 +413,15 @@ def _desde_fincaraiz(page):
         admin = (r.get("commonExpenses") or {}).get("amount")
         loc = r.get("locations") or {}
         barrio = (loc.get("location_main") or {}).get("name")
+        ciudad_it = ""
+        for _c in (loc.get("city"), loc.get("location_secondary"), loc.get("location_city")):
+            if isinstance(_c, dict):
+                _c = _c.get("name")
+            if _c:
+                ciudad_it = _c
+                break
+        if not ciudad_it:
+            ciudad_it = r.get("title") or ""
         link = r.get("link")
         filas.append({
             "titulo": r.get("title"),
@@ -422,6 +432,7 @@ def _desde_fincaraiz(page):
             "parqueaderos": _num(r.get("garage")),
             "administracion": _num(admin) if admin else None,
             "ubicacion": barrio,
+            "ciudad_item": ciudad_it,
             "url": ("https://www.fincaraiz.com.co" + link) if link and link.startswith("/") else link,
             "id_domus": str(r.get("id")) if r.get("id") else None,
             "tipo_portal": (r.get("property_type") or {}).get("name"),
@@ -475,11 +486,12 @@ def extraer(page, cfg):
 
 def scrape_portal(portal, operacion, tipo, zona, ciudad, paginas):
     cfg = PORTALES[portal]
+    tipo_url = TIPO_FR.get(tipo, tipo) if portal == "fincaraiz" else tipo
     todos = []
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         for n in range(1, paginas + 1):
-            url = cfg["url"].format(operacion=operacion, tipo=tipo, zona=zona, ciudad=ciudad, pagina=n)
+            url = cfg["url"].format(operacion=operacion, tipo=tipo_url, zona=zona, ciudad=ciudad, pagina=n)
             print("  [" + portal + " " + str(n) + "/" + str(paginas) + "] leyendo...")
             try:
                 page = _abrir_pagina(browser, url)
@@ -497,6 +509,15 @@ def scrape_portal(portal, operacion, tipo, zona, ciudad, paginas):
         if k not in vistos:
             vistos.add(k)
             unicos.append(f)
+    if portal == "fincaraiz":
+        ck = _slug(ciudad)
+        def _ok(f):
+            base = _slug((f.get("ciudad_item") or "") + " " + (f.get("titulo") or ""))
+            return ck in base
+        antes = len(unicos)
+        unicos = [f for f in unicos if _ok(f)]
+        if antes != len(unicos):
+            print("    fincaraiz: descartados por ciudad != " + ciudad + ": " + str(antes - len(unicos)))
     return unicos
 
 
