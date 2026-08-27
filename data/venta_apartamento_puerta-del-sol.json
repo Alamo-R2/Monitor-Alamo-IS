@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "PUERTA DEL SOL",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "generado": "2026.AGO.27 04:23",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 168000000,
+      "area": 35.34,
+      "administracion": 0,
+      "barrio": "OTROS",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-2-habitaciones-1-banos/23109-M6939082",
+      "titulo": "Apartamento en Venta, SUBA PUERTA DEL SOL, Bogotá D.C.",
+      "id_domus": "23109-M6939082",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "PUERTA DEL SOL",
+      "zonaSlug": "puerta-del-sol",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 193000000,
+      "area": 48.52,
+      "administracion": 70000,
+      "barrio": "PUERTA DEL SOL",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-puerta-del-sol-2-habitaciones-1-banos-1-garajes/4058-M6404386",
+      "titulo": "Apartamento en Venta, SUBA PINAR, Bogotá D.C.",
+      "id_domus": "4058-M6404386",
+      "fechaPublicacion": null,
+      "lat": 4.744999408721924,
+      "lon": -74.09810638427734,
+      "location_type": "exacta",
+      "zonaConsulta": "PUERTA DEL SOL",
+      "zonaSlug": "puerta-del-sol",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 260000000,
+      "area": 169.0,
+      "administracion": 208000,
+      "barrio": "PUERTA DEL SOL",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-puerta-del-sol-2-habitaciones-1-banos/3325-M5399273",
+      "titulo": "Apartamento en Venta, Urbanizacion Las Flores, Bogotá D.C.",
+      "id_domus": "3325-M5399273",
+      "fechaPublicacion": null,
+      "lat": 4.74403,
+      "lon": -74.09977,
+      "location_type": "exacta",
+      "zonaConsulta": "PUERTA DEL SOL",
+      "zonaSlug": "puerta-del-sol",
+      "origenZona": "barrio"
+    }
+  ]
+}

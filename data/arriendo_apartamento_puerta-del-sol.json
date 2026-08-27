@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "PUERTA DEL SOL",
+  "origen": "barrio",
+  "operacion": "arriendo",
+  "tipo": "apartamento",
+  "generado": "2026.AGO.27 04:23",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1000000,
+      "area": 39.0,
+      "administracion": null,
+      "barrio": "CARMEN DEL SOL",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-carmen-del-sol-3-habitaciones-2-banos/164-M5487143",
+      "titulo": "Apartamento en Arriendo, Carmen Del Sol, Bogotá D.C.",
+      "id_domus": "164-M5487143",
+      "fechaPublicacion": null,
+      "lat": 4.56359,
+      "lon": -74.11269,
+      "location_type": "exacta",
+      "zonaConsulta": "PUERTA DEL SOL",
+      "zonaSlug": "puerta-del-sol",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 903000,
+      "area": 50.0,
+      "administracion": 197700.0,
+      "barrio": "CARMEN DEL SOL",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-carmen-del-sol-3-habitaciones-2-banos-1-garajes/183-M6417178",
+      "titulo": "Apartamento en Arriendo, Carmen Del Sol, Bogotá D.C.",
+      "id_domus": "183-M6417178",
+      "fechaPublicacion": null,
+      "lat": 4.56599,
+      "lon": -74.11271,
+      "location_type": "exacta",
+      "zonaConsulta": "PUERTA DEL SOL",
+      "zonaSlug": "puerta-del-sol",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 920000,
+      "area": 45.0,
+      "administracion": 130000.0,
+      "barrio": "CARMEN DEL SOL",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-carmen-del-sol-3-habitaciones-1-banos/183-M6879271",
+      "titulo": "Apartamento en Arriendo, Carmen Del Sol, Bogotá D.C.",
+      "id_domus": "183-M6879271",
+      "fechaPublicacion": null,
+      "lat": 4.56499,
+      "lon": -74.11256,
+      "location_type": "exacta",
+      "zonaConsulta": "PUERTA DEL SOL",
+      "zonaSlug": "puerta-del-sol",
+      "origenZona": "barrio"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "generado": "2026-08-27T00:58:30",
-  "generado_humano": "2026.AGO.27 00:58",
+  "generado": "2026-08-27T04:23:13",
+  "generado_humano": "2026.AGO.27 04:23",
   "grupo_actual": "barrios",
   "ciudad": "bogota",
   "datasets": [
@@ -1008,27 +1008,27 @@
     },
     {
       "clave": "venta_apartamento_rincon-de-suba",
-      "etiqueta": "Venta - Apartamento - Rincon de Suba",
+      "etiqueta": "Venta - Apartamento - RINCON DE SUBA",
       "archivo": "venta_apartamento_rincon-de-suba.json",
       "total": 6,
       "operacion": "venta",
       "tipo": "apartamento",
-      "zona": "Rincon de Suba",
+      "zona": "RINCON DE SUBA",
       "slug": "rincon-de-suba",
-      "origen": "upl",
-      "segundos": 64.5
+      "origen": "barrio",
+      "segundos": 6.8
     },
     {
       "clave": "arriendo_apartamento_rincon-de-suba",
-      "etiqueta": "Arriendo - Apartamento - Rincon de Suba",
+      "etiqueta": "Arriendo - Apartamento - RINCON DE SUBA",
       "archivo": "arriendo_apartamento_rincon-de-suba.json",
       "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
-      "zona": "Rincon de Suba",
+      "zona": "RINCON DE SUBA",
       "slug": "rincon-de-suba",
-      "origen": "upl",
-      "segundos": 4.6
+      "origen": "barrio",
+      "segundos": 4.3
     },
     {
       "clave": "venta_apartamento_tibabuyes",
@@ -5240,7 +5240,7 @@
       "zona": "EL POA",
       "slug": "el-poa",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 6.8
     },
     {
       "clave": "arriendo_apartamento_el-poa",
@@ -5264,7 +5264,7 @@
       "zona": "EL POA",
       "slug": "el-poa",
       "origen": "barrio",
-      "segundos": 4.4
+      "segundos": 4.8
     },
     {
       "clave": "arriendo_casa_el-poa",
@@ -5276,19 +5276,19 @@
       "zona": "EL POA",
       "slug": "el-poa",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 6.8
     },
     {
       "clave": "venta_apartamento_las-flores",
       "etiqueta": "Venta - Apartamento - LAS FLORES",
       "archivo": "venta_apartamento_las-flores.json",
-      "total": 38,
+      "total": 39,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "LAS FLORES",
       "slug": "las-flores",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 7.1
     },
     {
       "clave": "arriendo_apartamento_las-flores",
@@ -5300,7 +5300,7 @@
       "zona": "LAS FLORES",
       "slug": "las-flores",
       "origen": "barrio",
-      "segundos": 4.4
+      "segundos": 4.5
     },
     {
       "clave": "venta_casa_las-flores",
@@ -5312,7 +5312,7 @@
       "zona": "LAS FLORES",
       "slug": "las-flores",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 6.8
     },
     {
       "clave": "arriendo_casa_las-flores",
@@ -5324,7 +5324,7 @@
       "zona": "LAS FLORES",
       "slug": "las-flores",
       "origen": "barrio",
-      "segundos": 7.4
+      "segundos": 6.9
     },
     {
       "clave": "venta_apartamento_las-mercedes-i",
@@ -5480,7 +5480,7 @@
       "zona": "LOMBARDIA",
       "slug": "lombardia",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 6.8
     },
     {
       "clave": "arriendo_apartamento_lombardia",
@@ -5516,7 +5516,7 @@
       "zona": "LOMBARDIA",
       "slug": "lombardia",
       "origen": "barrio",
-      "segundos": 4.4
+      "segundos": 4.3
     },
     {
       "clave": "venta_apartamento_pinos-de-lombardia",
@@ -5636,7 +5636,7 @@
       "zona": "SABANA DE TIBABUYES",
       "slug": "sabana-de-tibabuyes",
       "origen": "barrio",
-      "segundos": 4.3
+      "segundos": 4.5
     },
     {
       "clave": "venta_casa_sabana-de-tibabuyes",
@@ -6405,6 +6405,750 @@
       "slug": "almirante-colon",
       "origen": "barrio",
       "segundos": 4.4
+    },
+    {
+      "clave": "venta_apartamento_aures",
+      "etiqueta": "Venta - Apartamento - AURES",
+      "archivo": "venta_apartamento_aures.json",
+      "total": 4,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "AURES",
+      "slug": "aures",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "arriendo_apartamento_aures",
+      "etiqueta": "Arriendo - Apartamento - AURES",
+      "archivo": "arriendo_apartamento_aures.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "AURES",
+      "slug": "aures",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_casa_aures",
+      "etiqueta": "Venta - Casa - AURES",
+      "archivo": "venta_casa_aures.json",
+      "total": 12,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "AURES",
+      "slug": "aures",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_casa_aures",
+      "etiqueta": "Arriendo - Casa - AURES",
+      "archivo": "arriendo_casa_aures.json",
+      "total": 55,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "AURES",
+      "slug": "aures",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "venta_apartamento_aures-ii",
+      "etiqueta": "Venta - Apartamento - AURES II",
+      "archivo": "venta_apartamento_aures-ii.json",
+      "total": 4,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "AURES II",
+      "slug": "aures-ii",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_apartamento_aures-ii",
+      "etiqueta": "Arriendo - Apartamento - AURES II",
+      "archivo": "arriendo_apartamento_aures-ii.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "AURES II",
+      "slug": "aures-ii",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_casa_aures-ii",
+      "etiqueta": "Venta - Casa - AURES II",
+      "archivo": "venta_casa_aures-ii.json",
+      "total": 7,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "AURES II",
+      "slug": "aures-ii",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_casa_aures-ii",
+      "etiqueta": "Arriendo - Casa - AURES II",
+      "archivo": "arriendo_casa_aures-ii.json",
+      "total": 5,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "AURES II",
+      "slug": "aures-ii",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_apartamento_ciudad-hunza",
+      "etiqueta": "Venta - Apartamento - CIUDAD HUNZA",
+      "archivo": "venta_apartamento_ciudad-hunza.json",
+      "total": 4,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "CIUDAD HUNZA",
+      "slug": "ciudad-hunza",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_apartamento_ciudad-hunza",
+      "etiqueta": "Arriendo - Apartamento - CIUDAD HUNZA",
+      "archivo": "arriendo_apartamento_ciudad-hunza.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "CIUDAD HUNZA",
+      "slug": "ciudad-hunza",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_casa_ciudad-hunza",
+      "etiqueta": "Venta - Casa - CIUDAD HUNZA",
+      "archivo": "venta_casa_ciudad-hunza.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "CIUDAD HUNZA",
+      "slug": "ciudad-hunza",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "arriendo_casa_ciudad-hunza",
+      "etiqueta": "Arriendo - Casa - CIUDAD HUNZA",
+      "archivo": "arriendo_casa_ciudad-hunza.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "CIUDAD HUNZA",
+      "slug": "ciudad-hunza",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "venta_apartamento_costa-azul",
+      "etiqueta": "Venta - Apartamento - COSTA AZUL",
+      "archivo": "venta_apartamento_costa-azul.json",
+      "total": 3,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "COSTA AZUL",
+      "slug": "costa-azul",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_apartamento_costa-azul",
+      "etiqueta": "Arriendo - Apartamento - COSTA AZUL",
+      "archivo": "arriendo_apartamento_costa-azul.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "COSTA AZUL",
+      "slug": "costa-azul",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_casa_costa-azul",
+      "etiqueta": "Venta - Casa - COSTA AZUL",
+      "archivo": "venta_casa_costa-azul.json",
+      "total": 9,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "COSTA AZUL",
+      "slug": "costa-azul",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "arriendo_casa_costa-azul",
+      "etiqueta": "Arriendo - Casa - COSTA AZUL",
+      "archivo": "arriendo_casa_costa-azul.json",
+      "total": 55,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "COSTA AZUL",
+      "slug": "costa-azul",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "venta_apartamento_el-rincon",
+      "etiqueta": "Venta - Apartamento - EL RINCON",
+      "archivo": "venta_apartamento_el-rincon.json",
+      "total": 51,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "EL RINCON",
+      "slug": "el-rincon",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "arriendo_apartamento_el-rincon",
+      "etiqueta": "Arriendo - Apartamento - EL RINCON",
+      "archivo": "arriendo_apartamento_el-rincon.json",
+      "total": 54,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "EL RINCON",
+      "slug": "el-rincon",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_casa_el-rincon",
+      "etiqueta": "Venta - Casa - EL RINCON",
+      "archivo": "venta_casa_el-rincon.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "EL RINCON",
+      "slug": "el-rincon",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "arriendo_casa_el-rincon",
+      "etiqueta": "Arriendo - Casa - EL RINCON",
+      "archivo": "arriendo_casa_el-rincon.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "EL RINCON",
+      "slug": "el-rincon",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_apartamento_el-rincon-norte",
+      "etiqueta": "Venta - Apartamento - EL RINCON NORTE",
+      "archivo": "venta_apartamento_el-rincon-norte.json",
+      "total": 18,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "EL RINCON NORTE",
+      "slug": "el-rincon-norte",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_apartamento_el-rincon-norte",
+      "etiqueta": "Arriendo - Apartamento - EL RINCON NORTE",
+      "archivo": "arriendo_apartamento_el-rincon-norte.json",
+      "total": 4,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "EL RINCON NORTE",
+      "slug": "el-rincon-norte",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_casa_el-rincon-norte",
+      "etiqueta": "Venta - Casa - EL RINCON NORTE",
+      "archivo": "venta_casa_el-rincon-norte.json",
+      "total": 9,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "EL RINCON NORTE",
+      "slug": "el-rincon-norte",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_casa_el-rincon-norte",
+      "etiqueta": "Arriendo - Casa - EL RINCON NORTE",
+      "archivo": "arriendo_casa_el-rincon-norte.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "EL RINCON NORTE",
+      "slug": "el-rincon-norte",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_apartamento_la-carolina-de-suba",
+      "etiqueta": "Venta - Apartamento - LA CAROLINA DE SUBA",
+      "archivo": "venta_apartamento_la-carolina-de-suba.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "LA CAROLINA DE SUBA",
+      "slug": "la-carolina-de-suba",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "arriendo_apartamento_la-carolina-de-suba",
+      "etiqueta": "Arriendo - Apartamento - LA CAROLINA DE SUBA",
+      "archivo": "arriendo_apartamento_la-carolina-de-suba.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "LA CAROLINA DE SUBA",
+      "slug": "la-carolina-de-suba",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "venta_casa_la-carolina-de-suba",
+      "etiqueta": "Venta - Casa - LA CAROLINA DE SUBA",
+      "archivo": "venta_casa_la-carolina-de-suba.json",
+      "total": 12,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "LA CAROLINA DE SUBA",
+      "slug": "la-carolina-de-suba",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_casa_la-carolina-de-suba",
+      "etiqueta": "Arriendo - Casa - LA CAROLINA DE SUBA",
+      "archivo": "arriendo_casa_la-carolina-de-suba.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "LA CAROLINA DE SUBA",
+      "slug": "la-carolina-de-suba",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_apartamento_la-chucua",
+      "etiqueta": "Venta - Apartamento - LA CHUCUA",
+      "archivo": "venta_apartamento_la-chucua.json",
+      "total": 9,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "LA CHUCUA",
+      "slug": "la-chucua",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_apartamento_la-chucua",
+      "etiqueta": "Arriendo - Apartamento - LA CHUCUA",
+      "archivo": "arriendo_apartamento_la-chucua.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "LA CHUCUA",
+      "slug": "la-chucua",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_casa_la-chucua",
+      "etiqueta": "Venta - Casa - LA CHUCUA",
+      "archivo": "venta_casa_la-chucua.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "LA CHUCUA",
+      "slug": "la-chucua",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "arriendo_casa_la-chucua",
+      "etiqueta": "Arriendo - Casa - LA CHUCUA",
+      "archivo": "arriendo_casa_la-chucua.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "LA CHUCUA",
+      "slug": "la-chucua",
+      "origen": "barrio",
+      "segundos": 4.6
+    },
+    {
+      "clave": "venta_apartamento_lago-de-suba",
+      "etiqueta": "Venta - Apartamento - LAGO DE SUBA",
+      "archivo": "venta_apartamento_lago-de-suba.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "LAGO DE SUBA",
+      "slug": "lago-de-suba",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "arriendo_apartamento_lago-de-suba",
+      "etiqueta": "Arriendo - Apartamento - LAGO DE SUBA",
+      "archivo": "arriendo_apartamento_lago-de-suba.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "LAGO DE SUBA",
+      "slug": "lago-de-suba",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_casa_lago-de-suba",
+      "etiqueta": "Venta - Casa - LAGO DE SUBA",
+      "archivo": "venta_casa_lago-de-suba.json",
+      "total": 3,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "LAGO DE SUBA",
+      "slug": "lago-de-suba",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_casa_lago-de-suba",
+      "etiqueta": "Arriendo - Casa - LAGO DE SUBA",
+      "archivo": "arriendo_casa_lago-de-suba.json",
+      "total": 14,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "LAGO DE SUBA",
+      "slug": "lago-de-suba",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_apartamento_lech-walesa",
+      "etiqueta": "Venta - Apartamento - LECH WALESA",
+      "archivo": "venta_apartamento_lech-walesa.json",
+      "total": 65,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "LECH WALESA",
+      "slug": "lech-walesa",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "arriendo_apartamento_lech-walesa",
+      "etiqueta": "Arriendo - Apartamento - LECH WALESA",
+      "archivo": "arriendo_apartamento_lech-walesa.json",
+      "total": 65,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "LECH WALESA",
+      "slug": "lech-walesa",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "venta_casa_lech-walesa",
+      "etiqueta": "Venta - Casa - LECH WALESA",
+      "archivo": "venta_casa_lech-walesa.json",
+      "total": 65,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "LECH WALESA",
+      "slug": "lech-walesa",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "arriendo_casa_lech-walesa",
+      "etiqueta": "Arriendo - Casa - LECH WALESA",
+      "archivo": "arriendo_casa_lech-walesa.json",
+      "total": 55,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "LECH WALESA",
+      "slug": "lech-walesa",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_apartamento_los-naranjos",
+      "etiqueta": "Venta - Apartamento - LOS NARANJOS",
+      "archivo": "venta_apartamento_los-naranjos.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "LOS NARANJOS",
+      "slug": "los-naranjos",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "arriendo_apartamento_los-naranjos",
+      "etiqueta": "Arriendo - Apartamento - LOS NARANJOS",
+      "archivo": "arriendo_apartamento_los-naranjos.json",
+      "total": 15,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "LOS NARANJOS",
+      "slug": "los-naranjos",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_casa_los-naranjos",
+      "etiqueta": "Venta - Casa - LOS NARANJOS",
+      "archivo": "venta_casa_los-naranjos.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "LOS NARANJOS",
+      "slug": "los-naranjos",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "arriendo_casa_los-naranjos",
+      "etiqueta": "Arriendo - Casa - LOS NARANJOS",
+      "archivo": "arriendo_casa_los-naranjos.json",
+      "total": 8,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "LOS NARANJOS",
+      "slug": "los-naranjos",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_apartamento_nueva-tibabuyes",
+      "etiqueta": "Venta - Apartamento - NUEVA TIBABUYES",
+      "archivo": "venta_apartamento_nueva-tibabuyes.json",
+      "total": 4,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "NUEVA TIBABUYES",
+      "slug": "nueva-tibabuyes",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_apartamento_nueva-tibabuyes",
+      "etiqueta": "Arriendo - Apartamento - NUEVA TIBABUYES",
+      "archivo": "arriendo_apartamento_nueva-tibabuyes.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "NUEVA TIBABUYES",
+      "slug": "nueva-tibabuyes",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_casa_nueva-tibabuyes",
+      "etiqueta": "Venta - Casa - NUEVA TIBABUYES",
+      "archivo": "venta_casa_nueva-tibabuyes.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "NUEVA TIBABUYES",
+      "slug": "nueva-tibabuyes",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "arriendo_casa_nueva-tibabuyes",
+      "etiqueta": "Arriendo - Casa - NUEVA TIBABUYES",
+      "archivo": "arriendo_casa_nueva-tibabuyes.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "NUEVA TIBABUYES",
+      "slug": "nueva-tibabuyes",
+      "origen": "barrio",
+      "segundos": 7.2
+    },
+    {
+      "clave": "venta_apartamento_potrerillo",
+      "etiqueta": "Venta - Apartamento - POTRERILLO",
+      "archivo": "venta_apartamento_potrerillo.json",
+      "total": 65,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "POTRERILLO",
+      "slug": "potrerillo",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "arriendo_apartamento_potrerillo",
+      "etiqueta": "Arriendo - Apartamento - POTRERILLO",
+      "archivo": "arriendo_apartamento_potrerillo.json",
+      "total": 65,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "POTRERILLO",
+      "slug": "potrerillo",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "venta_casa_potrerillo",
+      "etiqueta": "Venta - Casa - POTRERILLO",
+      "archivo": "venta_casa_potrerillo.json",
+      "total": 65,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "POTRERILLO",
+      "slug": "potrerillo",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "arriendo_casa_potrerillo",
+      "etiqueta": "Arriendo - Casa - POTRERILLO",
+      "archivo": "arriendo_casa_potrerillo.json",
+      "total": 55,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "POTRERILLO",
+      "slug": "potrerillo",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "venta_apartamento_puerta-del-sol",
+      "etiqueta": "Venta - Apartamento - PUERTA DEL SOL",
+      "archivo": "venta_apartamento_puerta-del-sol.json",
+      "total": 3,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "PUERTA DEL SOL",
+      "slug": "puerta-del-sol",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_apartamento_puerta-del-sol",
+      "etiqueta": "Arriendo - Apartamento - PUERTA DEL SOL",
+      "archivo": "arriendo_apartamento_puerta-del-sol.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "PUERTA DEL SOL",
+      "slug": "puerta-del-sol",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_casa_puerta-del-sol",
+      "etiqueta": "Venta - Casa - PUERTA DEL SOL",
+      "archivo": "venta_casa_puerta-del-sol.json",
+      "total": 6,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "PUERTA DEL SOL",
+      "slug": "puerta-del-sol",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_casa_puerta-del-sol",
+      "etiqueta": "Arriendo - Casa - PUERTA DEL SOL",
+      "archivo": "arriendo_casa_puerta-del-sol.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "PUERTA DEL SOL",
+      "slug": "puerta-del-sol",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_apartamento_rincon-altamar",
+      "etiqueta": "Venta - Apartamento - RINCON ALTAMAR",
+      "archivo": "venta_apartamento_rincon-altamar.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "RINCON ALTAMAR",
+      "slug": "rincon-altamar",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "arriendo_apartamento_rincon-altamar",
+      "etiqueta": "Arriendo - Apartamento - RINCON ALTAMAR",
+      "archivo": "arriendo_apartamento_rincon-altamar.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "apartamento",
+      "zona": "RINCON ALTAMAR",
+      "slug": "rincon-altamar",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_casa_rincon-altamar",
+      "etiqueta": "Venta - Casa - RINCON ALTAMAR",
+      "archivo": "venta_casa_rincon-altamar.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "RINCON ALTAMAR",
+      "slug": "rincon-altamar",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "arriendo_casa_rincon-altamar",
+      "etiqueta": "Arriendo - Casa - RINCON ALTAMAR",
+      "archivo": "arriendo_casa_rincon-altamar.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "RINCON ALTAMAR",
+      "slug": "rincon-altamar",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_casa_rincon-de-suba",
+      "etiqueta": "Venta - Casa - RINCON DE SUBA",
+      "archivo": "venta_casa_rincon-de-suba.json",
+      "total": 14,
+      "operacion": "venta",
+      "tipo": "casa",
+      "zona": "RINCON DE SUBA",
+      "slug": "rincon-de-suba",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_casa_rincon-de-suba",
+      "etiqueta": "Arriendo - Casa - RINCON DE SUBA",
+      "archivo": "arriendo_casa_rincon-de-suba.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "casa",
+      "zona": "RINCON DE SUBA",
+      "slug": "rincon-de-suba",
+      "origen": "barrio",
+      "segundos": 4.2
     }
   ],
   "consolidados": {

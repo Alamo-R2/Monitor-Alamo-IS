@@ -5,10 +5,37 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "casa",
-  "generado": "2026.AGO.27 00:33",
+  "generado": "2026.AGO.27 04:23",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "casa",
+      "tipoPortal": "Casa",
+      "precio": 340000000,
+      "area": 80.0,
+      "administracion": 0.0,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": 5,
+      "banos": 4,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-tibabuyes-5-habitaciones-4-banos/3888-M5027723",
+      "titulo": "Casa en Venta, SUBA LOMBARDIA, Bogotá D.C.",
+      "id_domus": "3888-M5027723",
+      "fechaPublicacion": null,
+      "lat": 4.750783443450928,
+      "lon": -74.10142517089844,
+      "location_type": "exacta",
+      "zonaConsulta": "LOMBARDIA",
+      "zonaSlug": "lombardia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -35,7 +62,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -56,33 +83,6 @@
       "fechaPublicacion": null,
       "lat": 4.7481,
       "lon": -74.09975,
-      "location_type": "exacta",
-      "zonaConsulta": "LOMBARDIA",
-      "zonaSlug": "lombardia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "casa",
-      "tipoPortal": "Casa",
-      "precio": 340000000,
-      "area": 80.0,
-      "administracion": 0.0,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": 5,
-      "banos": 4,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-tibabuyes-5-habitaciones-4-banos/3888-M5027723",
-      "titulo": "Casa en Venta, SUBA LOMBARDIA, Bogotá D.C.",
-      "id_domus": "3888-M5027723",
-      "fechaPublicacion": null,
-      "lat": 4.750783443450928,
-      "lon": -74.10142517089844,
       "location_type": "exacta",
       "zonaConsulta": "LOMBARDIA",
       "zonaSlug": "lombardia",

@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "AURES II",
+  "origen": "barrio",
+  "operacion": "arriendo",
+  "tipo": "apartamento",
+  "generado": "2026.AGO.27 04:23",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 78.0,
+      "administracion": null,
+      "barrio": "AURES",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-aures-3-habitaciones-2-banos/13957-M6973578",
+      "titulo": "Apartamento en Arriendo, Aures, Bogotá D.C.",
+      "id_domus": "13957-M6973578",
+      "fechaPublicacion": null,
+      "lat": 4.73174,
+      "lon": -74.0965,
+      "location_type": "exacta",
+      "zonaConsulta": "AURES II",
+      "zonaSlug": "aures-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1102000,
+      "area": 46.0,
+      "administracion": 198000.0,
+      "barrio": "AURES",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-aures-2-habitaciones-1-banos-1-garajes/4058-M6557206",
+      "titulo": "Apartamento en Arriendo, Aures, Bogotá D.C.",
+      "id_domus": "4058-M6557206",
+      "fechaPublicacion": null,
+      "lat": 4.73402,
+      "lon": -74.09142,
+      "location_type": "exacta",
+      "zonaConsulta": "AURES II",
+      "zonaSlug": "aures-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 47.0,
+      "administracion": 200000.0,
+      "barrio": "AURES",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-aures-2-habitaciones-1-banos/4058-M6869826",
+      "titulo": "Apartamento en Arriendo, SUBA AURES, Bogotá D.C.",
+      "id_domus": "4058-M6869826",
+      "fechaPublicacion": null,
+      "lat": 4.73402,
+      "lon": -74.09142,
+      "location_type": "exacta",
+      "zonaConsulta": "AURES II",
+      "zonaSlug": "aures-ii",
+      "origenZona": "barrio"
+    }
+  ]
+}
