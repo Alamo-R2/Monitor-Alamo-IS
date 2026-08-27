@@ -1,0 +1,55 @@
+name: Prueba Fincaraiz (zonas)
+
+# Verifica si Fincaraiz FILTRA por zona o si devuelve una pagina generica.
+# Mismo tipo en zonas muy distintas: si todas dan el mismo numero, NO filtra.
+on:
+  workflow_dispatch:
+    inputs:
+      tipo:
+        description: "tipo a probar (usa singular: apartamento, lote...)"
+        required: true
+        default: "apartamento"
+      operacion:
+        description: "venta o arriendo"
+        required: true
+        default: "venta"
+
+jobs:
+  fr_zonas:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar librerias
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas requests openpyxl playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Probar Fincaraiz en zonas distintas
+        run: |
+          TIPO="${{ github.event.inputs.tipo }}"
+          OP="${{ github.event.inputs.operacion }}"
+          echo "| Zona | Resultados |" > frz.md
+          echo "| --- | --- |" >> frz.md
+          for ZONA in chapinero usaquen bosa kennedy engativa suba la-carolina bogota ""; do
+            echo "=================================================="
+            echo ">>> Fincaraiz  tipo=$TIPO  zona='$ZONA'  op=$OP"
+            echo "=================================================="
+            SALIDA=$(python inmobiliario.py buscar --portal fincaraiz --zona "$ZONA" --operacion "$OP" --tipo "$TIPO" --paginas 1 2>&1 || true)
+            echo "$SALIDA"
+            N=$(echo "$SALIDA" | grep -ioE "resultados[^0-9]*[0-9]+" | grep -oE "[0-9]+" | tail -1)
+            if [ -z "$N" ]; then N="?"; fi
+            ETIQ="$ZONA"; if [ -z "$ZONA" ]; then ETIQ="(vacia)"; fi
+            echo "| $ETIQ | $N |" >> frz.md
+          done
+          echo ""
+          echo "############# RESUMEN ZONAS FINCARAIZ #############"
+          cat frz.md
+          cat frz.md >> "$GITHUB_STEP_SUMMARY"
