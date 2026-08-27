@@ -1,95 +1,14 @@
 {
   "ok": true,
   "total": 5,
-  "zona": "Tibabuyes",
-  "origen": "upl",
+  "zona": "TIBABUYES",
+  "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.AGO.25 10:29",
+  "generado": "2026.AGO.27 00:58",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1900000,
-      "area": 55.0,
-      "administracion": 359900,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-tibabuyes-3-habitaciones-2-banos-1-garajes/20828-M6905288",
-      "titulo": "Apartamento en Arriendo, SUBA IMPERIAL, Bogotá D.C.",
-      "id_domus": "20828-M6905288",
-      "fechaPublicacion": null,
-      "lat": 4.750339508056641,
-      "lon": -74.09894561767578,
-      "location_type": "exacta",
-      "zonaConsulta": "Tibabuyes",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "upl"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1500000,
-      "area": 56.0,
-      "administracion": 176300,
-      "barrio": "UB SABANA DE TIBABUYES",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-ub-sabana-de-tibabuyes-3-habitaciones-1-banos/23442-M6978615",
-      "titulo": "Apartamento en Arriendo, SABANA DE TIBABUYES, Bogotá D.C.",
-      "id_domus": "23442-M6978615",
-      "fechaPublicacion": null,
-      "lat": 4.746013164520264,
-      "lon": -74.10826110839844,
-      "location_type": "exacta",
-      "zonaConsulta": "Tibabuyes",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "upl"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1600000,
-      "area": 66.0,
-      "administracion": 327000,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-tibabuyes-3-habitaciones-2-banos-1-garajes/20828-M6984113",
-      "titulo": "Apartamento en Arriendo, suba c c plaza imperial, Bogotá D.C.",
-      "id_domus": "20828-M6984113",
-      "fechaPublicacion": null,
-      "lat": 4.7532958984375,
-      "lon": -74.09806823730469,
-      "location_type": "exacta",
-      "zonaConsulta": "Tibabuyes",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "upl"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -111,9 +30,90 @@
       "lat": 4.7370452880859375,
       "lon": -74.10718536376953,
       "location_type": "exacta",
-      "zonaConsulta": "Tibabuyes",
+      "zonaConsulta": "TIBABUYES",
       "zonaSlug": "tibabuyes",
-      "origenZona": "upl"
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 66.0,
+      "administracion": 327000,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-tibabuyes-3-habitaciones-2-banos-1-garajes/20828-M6984113",
+      "titulo": "Apartamento en Arriendo, suba c c plaza imperial, Bogotá D.C.",
+      "id_domus": "20828-M6984113",
+      "fechaPublicacion": null,
+      "lat": 4.7532958984375,
+      "lon": -74.09806823730469,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1500000,
+      "area": 56.0,
+      "administracion": 176300,
+      "barrio": "UB SABANA DE TIBABUYES",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-ub-sabana-de-tibabuyes-3-habitaciones-1-banos/23442-M6978615",
+      "titulo": "Apartamento en Arriendo, SABANA DE TIBABUYES, Bogotá D.C.",
+      "id_domus": "23442-M6978615",
+      "fechaPublicacion": null,
+      "lat": 4.746013164520264,
+      "lon": -74.10826110839844,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1900000,
+      "area": 55.0,
+      "administracion": 359900,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-tibabuyes-3-habitaciones-2-banos-1-garajes/20828-M6905288",
+      "titulo": "Apartamento en Arriendo, SUBA IMPERIAL, Bogotá D.C.",
+      "id_domus": "20828-M6905288",
+      "fechaPublicacion": null,
+      "lat": 4.750339508056641,
+      "lon": -74.09894561767578,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
     },
     {
       "id": "MI-5",
@@ -138,9 +138,9 @@
       "lat": 4.75649356842041,
       "lon": -74.0993881225586,
       "location_type": "exacta",
-      "zonaConsulta": "Tibabuyes",
+      "zonaConsulta": "TIBABUYES",
       "zonaSlug": "tibabuyes",
-      "origenZona": "upl"
+      "origenZona": "barrio"
     }
   ]
 }
