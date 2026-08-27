@@ -511,8 +511,12 @@ def scrape_portal(portal, operacion, tipo, zona, ciudad, paginas):
             unicos.append(f)
     if portal == "fincaraiz":
         ck = _slug(ciudad)
+        def _txt(v):
+            if isinstance(v, list):
+                return " ".join(str(x) for x in v)
+            return str(v) if v is not None else ""
         def _ok(f):
-            base = _slug((f.get("ciudad_item") or "") + " " + (f.get("titulo") or ""))
+            base = _slug(_txt(f.get("ciudad_item")) + " " + _txt(f.get("titulo")))
             return ck in base
         antes = len(unicos)
         unicos = [f for f in unicos if _ok(f)]
