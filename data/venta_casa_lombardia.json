@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "LOMBARDIA",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "casa",
+  "generado": "2026.AGO.27 00:33",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "casa",
+      "tipoPortal": "Casa",
+      "precio": 630000000,
+      "area": 200.0,
+      "administracion": null,
+      "barrio": "LOMBARDIA",
+      "direccion": "",
+      "habitaciones": 5,
+      "banos": 3,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-lombardia-5-habitaciones-3-banos-1-garajes/3222-M6048942",
+      "titulo": "Casa en Venta, Lombardia, Bogotá D.C.",
+      "id_domus": "3222-M6048942",
+      "fechaPublicacion": null,
+      "lat": 4.74778,
+      "lon": -74.10147,
+      "location_type": "exacta",
+      "zonaConsulta": "LOMBARDIA",
+      "zonaSlug": "lombardia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "casa",
+      "tipoPortal": "Casa",
+      "precio": 350000000,
+      "area": 69.0,
+      "administracion": null,
+      "barrio": "LOMBARDIA",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-lombardia-4-habitaciones-3-banos/164-M6077410",
+      "titulo": "Casa en Venta, Lombardia, Bogotá D.C.",
+      "id_domus": "164-M6077410",
+      "fechaPublicacion": null,
+      "lat": 4.7481,
+      "lon": -74.09975,
+      "location_type": "exacta",
+      "zonaConsulta": "LOMBARDIA",
+      "zonaSlug": "lombardia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "casa",
+      "tipoPortal": "Casa",
+      "precio": 340000000,
+      "area": 80.0,
+      "administracion": 0.0,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": 5,
+      "banos": 4,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-tibabuyes-5-habitaciones-4-banos/3888-M5027723",
+      "titulo": "Casa en Venta, SUBA LOMBARDIA, Bogotá D.C.",
+      "id_domus": "3888-M5027723",
+      "fechaPublicacion": null,
+      "lat": 4.750783443450928,
+      "lon": -74.10142517089844,
+      "location_type": "exacta",
+      "zonaConsulta": "LOMBARDIA",
+      "zonaSlug": "lombardia",
+      "origenZona": "barrio"
+    }
+  ]
+}
