@@ -31,6 +31,9 @@ jobs:
       - name: Publicar la tanda de barrios de hoy
         run: python inmobiliario.py publicar --grupo barrios
 
+      - name: Actualizar noticias del sector
+        run: python inmobiliario.py noticias || echo "noticias: sin cambios"
+
       - name: Guardar resultados en el repo
         run: |
           git config user.name "monitor-bot"
