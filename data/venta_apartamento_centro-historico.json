@@ -5,7 +5,7 @@
   "origen": "upl",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.AGO.27 19:19",
+  "generado": "2026.AGO.28 20:29",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -122,6 +122,33 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 425000000,
+      "area": 64.0,
+      "administracion": 250000.0,
+      "barrio": "SAN VICTORINO",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-san-victorino-2-habitaciones-2-banos-1-garajes/44-M4947631",
+      "titulo": "Apartamento en Venta, CENTRO HISTORICO, Bogotá D.C.",
+      "id_domus": "44-M4947631",
+      "fechaPublicacion": null,
+      "lat": 4.608402729034424,
+      "lon": -74.08184814453125,
+      "location_type": "exacta",
+      "zonaConsulta": "Centro Historico",
+      "zonaSlug": "centro-historico",
+      "origenZona": "upl"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 210000000,
       "area": 21.0,
       "administracion": 180000.0,
@@ -143,7 +170,7 @@
       "origenZona": "upl"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -170,61 +197,7 @@
       "origenZona": "upl"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 425000000,
-      "area": 64.0,
-      "administracion": 250000.0,
-      "barrio": "SAN VICTORINO",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-san-victorino-2-habitaciones-2-banos-1-garajes/44-M4947631",
-      "titulo": "Apartamento en Venta, CENTRO HISTORICO, Bogotá D.C.",
-      "id_domus": "44-M4947631",
-      "fechaPublicacion": null,
-      "lat": 4.608402729034424,
-      "lon": -74.08184814453125,
-      "location_type": "exacta",
-      "zonaConsulta": "Centro Historico",
-      "zonaSlug": "centro-historico",
-      "origenZona": "upl"
-    },
-    {
       "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 415000000,
-      "area": 40.0,
-      "administracion": null,
-      "barrio": "LAS NIEVES",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-nieves-1-habitaciones-1-banos-1-garajes/MC6798905",
-      "titulo": "Apartamento en Venta, CENTRO HISTORICO   Centro y Zona Colonial, Bogotá D.C.",
-      "id_domus": "MC6798905",
-      "fechaPublicacion": null,
-      "lat": 4.6047306,
-      "lon": -74.070305,
-      "location_type": "exacta",
-      "zonaConsulta": "Centro Historico",
-      "zonaSlug": "centro-historico",
-      "origenZona": "upl"
-    },
-    {
-      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -245,6 +218,33 @@
       "fechaPublicacion": null,
       "lat": 4.5891256,
       "lon": -74.07917,
+      "location_type": "exacta",
+      "zonaConsulta": "Centro Historico",
+      "zonaSlug": "centro-historico",
+      "origenZona": "upl"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 415000000,
+      "area": 40.0,
+      "administracion": null,
+      "barrio": "LAS NIEVES",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-nieves-1-habitaciones-1-banos-1-garajes/MC6798905",
+      "titulo": "Apartamento en Venta, CENTRO HISTORICO   Centro y Zona Colonial, Bogotá D.C.",
+      "id_domus": "MC6798905",
+      "fechaPublicacion": null,
+      "lat": 4.6047306,
+      "lon": -74.070305,
       "location_type": "exacta",
       "zonaConsulta": "Centro Historico",
       "zonaSlug": "centro-historico",
