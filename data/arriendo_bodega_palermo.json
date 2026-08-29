@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "PALERMO",
+  "origen": "barrio",
+  "operacion": "arriendo",
+  "tipo": "bodega",
+  "generado": "2026.AGO.29 21:26",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 13000000,
+      "area": 270.0,
+      "administracion": 0.0,
+      "barrio": "PALERMO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-bodega-bogota-palermo/11052-M5765222",
+      "titulo": "Bodega en Arriendo, GALERIAS, Bogotá D.C.",
+      "id_domus": "11052-M5765222",
+      "fechaPublicacion": null,
+      "lat": 4.636881351470947,
+      "lon": -74.07524108886719,
+      "location_type": "exacta",
+      "zonaConsulta": "PALERMO",
+      "zonaSlug": "palermo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 12000000,
+      "area": 300.0,
+      "administracion": null,
+      "barrio": "PALERMO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 3.0,
+      "parqueaderos": 0.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-bodega-bogota-palermo-3-banos/34-M6332086",
+      "titulo": "Bodega en Arriendo, Palermo, Bogotá D.C.",
+      "id_domus": "34-M6332086",
+      "fechaPublicacion": null,
+      "lat": 4.63137,
+      "lon": -74.06714,
+      "location_type": "exacta",
+      "zonaConsulta": "PALERMO",
+      "zonaSlug": "palermo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 1350000,
+      "area": 32.0,
+      "administracion": null,
+      "barrio": "PALERMO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1.0,
+      "parqueaderos": 0.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-bodega-bogota-palermo-1-banos/343-M5304186",
+      "titulo": "Bodega en Arriendo, Palermo, Bogotá D.C.",
+      "id_domus": "343-M5304186",
+      "fechaPublicacion": null,
+      "lat": 4.63557,
+      "lon": -74.06861,
+      "location_type": "exacta",
+      "zonaConsulta": "PALERMO",
+      "zonaSlug": "palermo",
+      "origenZona": "barrio"
+    }
+  ]
+}
