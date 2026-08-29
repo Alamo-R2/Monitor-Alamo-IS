@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "GRANADA",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "local",
+  "generado": "2026.AGO.29 14:51",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 850000000,
+      "area": 140.0,
+      "administracion": null,
+      "barrio": "GRANADA NORTE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-granada-norte-1-banos-2-garajes/17565-M6729846",
+      "titulo": "Local Comercial en Venta, Granada Norte, Bogotá D.C.",
+      "id_domus": "17565-M6729846",
+      "fechaPublicacion": null,
+      "lat": 4.7505414,
+      "lon": -74.0510866,
+      "location_type": "exacta",
+      "zonaConsulta": "GRANADA",
+      "zonaSlug": "granada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 319000000,
+      "area": 50.0,
+      "administracion": 1.0,
+      "barrio": "SAN CIPRIANO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-san-cipriano/11295-M5996053",
+      "titulo": "Local Comercial en Venta, GRANADA NORTE, Bogotá D.C.",
+      "id_domus": "11295-M5996053",
+      "fechaPublicacion": null,
+      "lat": 4.746572494506836,
+      "lon": -74.04837036132812,
+      "location_type": "exacta",
+      "zonaConsulta": "GRANADA",
+      "zonaSlug": "granada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 319000000,
+      "area": 50.0,
+      "administracion": null,
+      "barrio": "GRANADA NORTE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2.0,
+      "parqueaderos": 0.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-granada-norte-2-banos/495-M6028303",
+      "titulo": "Local Comercial en Venta, Granada Norte, Bogotá D.C.",
+      "id_domus": "495-M6028303",
+      "fechaPublicacion": null,
+      "lat": 4.75059,
+      "lon": -74.04771,
+      "location_type": "exacta",
+      "zonaConsulta": "GRANADA",
+      "zonaSlug": "granada",
+      "origenZona": "barrio"
+    }
+  ]
+}
