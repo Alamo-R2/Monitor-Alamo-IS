@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "SAN FELIPE",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "local",
+  "generado": "2026.AGO.29 09:37",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 460000000,
+      "area": 80.0,
+      "administracion": null,
+      "barrio": "SAN FELIPE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1.0,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-san-felipe-1-banos-1-garajes/734-M5111305",
+      "titulo": "Local Comercial en Venta, San Felipe, Bogotá D.C.",
+      "id_domus": "734-M5111305",
+      "fechaPublicacion": null,
+      "lat": 4.66394,
+      "lon": -74.06301,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FELIPE",
+      "zonaSlug": "san-felipe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 450000000,
+      "area": 60.0,
+      "administracion": 700000.0,
+      "barrio": "SAN FELIPE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1.0,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-san-felipe-1-banos/72-M5762607",
+      "titulo": "Local Comercial en Venta, San Felipe, Bogotá D.C.",
+      "id_domus": "72-M5762607",
+      "fechaPublicacion": null,
+      "lat": 4.66081,
+      "lon": -74.06397,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FELIPE",
+      "zonaSlug": "san-felipe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 3100000000,
+      "area": 360.0,
+      "administracion": null,
+      "barrio": "SAN FELIPE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": 3,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-san-felipe-3-garajes/847-M6699561",
+      "titulo": "Local Comercial en Venta, San Felipe, Bogotá D.C.",
+      "id_domus": "847-M6699561",
+      "fechaPublicacion": null,
+      "lat": 4.664103,
+      "lon": -74.063306,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FELIPE",
+      "zonaSlug": "san-felipe",
+      "origenZona": "barrio"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "BOSQUE CALDERON",
+  "origen": "barrio",
+  "operacion": "arriendo",
+  "tipo": "bodega",
+  "generado": "2026.AGO.29 09:37",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 18700000,
+      "area": 875.0,
+      "administracion": 0.0,
+      "barrio": "CIUDAD JARDIN NORTE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-bodega-bogota-ciudad-jardin-norte/412-M6986355",
+      "titulo": "Bodega en Arriendo, BOSQUE DE SUBA, Bogotá D.C.",
+      "id_domus": "412-M6986355",
+      "fechaPublicacion": null,
+      "lat": 4.720792770385742,
+      "lon": -74.07476806640625,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSQUE CALDERON",
+      "zonaSlug": "bosque-calderon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 4000000,
+      "area": 100.0,
+      "administracion": 0.0,
+      "barrio": "EL BOSQUE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-bodega-bogota-el-bosque/19374-M6595580",
+      "titulo": "Bodega en Arriendo, MEISSEN, Bogotá D.C.",
+      "id_domus": "19374-M6595580",
+      "fechaPublicacion": null,
+      "lat": 4.558932304382324,
+      "lon": -74.1379623413086,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSQUE CALDERON",
+      "zonaSlug": "bosque-calderon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 3950000,
+      "area": 100.0,
+      "administracion": null,
+      "barrio": "BOSQUE POPULAR",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": 1.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-bodega-bogota-bosque-popular-1-garajes/MC6903939",
+      "titulo": "Bodega en Arriendo, BOSQUE POPULAR   Normandía, Bogotá D.C.",
+      "id_domus": "MC6903939",
+      "fechaPublicacion": null,
+      "lat": 4.669086,
+      "lon": -74.09585,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSQUE CALDERON",
+      "zonaSlug": "bosque-calderon",
+      "origenZona": "barrio"
+    }
+  ]
+}
