@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 8,
   "zona": "ALTOS DE SUBA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.AGO.27 00:58",
+  "generado": "2026.AGO.29 02:30",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -95,6 +95,60 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1700000,
+      "area": 45.0,
+      "administracion": null,
+      "barrio": "EL SALITRE",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-el-salitre-3-habitaciones-1-banos/MC6994172",
+      "titulo": "Apartamento en Arriendo, EL PINAR DE SUBA   Altos de Suba y Cerros de San Jorge, Bogotá D.C.",
+      "id_domus": "MC6994172",
+      "fechaPublicacion": null,
+      "lat": 4.7543488,
+      "lon": -74.08964,
+      "location_type": "exacta",
+      "zonaConsulta": "ALTOS DE SUBA",
+      "zonaSlug": "altos-de-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1150000,
+      "area": 37.0,
+      "administracion": null,
+      "barrio": "EL CONDOR",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-el-condor-2-habitaciones-1-banos/MC6994910",
+      "titulo": "Apartamento en Arriendo, ALCAZAR SUBA   Altos de Suba y Cerros de San Jorge, Bogotá D.C.",
+      "id_domus": "MC6994910",
+      "fechaPublicacion": null,
+      "lat": 4.7246633,
+      "lon": -74.08762,
+      "location_type": "exacta",
+      "zonaConsulta": "ALTOS DE SUBA",
+      "zonaSlug": "altos-de-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2400000,
       "area": 54.0,
       "administracion": 362000.0,
@@ -116,7 +170,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -137,6 +191,33 @@
       "fechaPublicacion": null,
       "lat": 4.738374,
       "lon": -74.10199,
+      "location_type": "exacta",
+      "zonaConsulta": "ALTOS DE SUBA",
+      "zonaSlug": "altos-de-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1300000,
+      "area": 58.0,
+      "administracion": null,
+      "barrio": "A S D ",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-a.s.d.-3-habitaciones-1-banos/MC6996904",
+      "titulo": "Apartamento en Arriendo, SUBA TUNA BAJA   Altos de Suba y Cerros de San Jorge, Bogotá D.C.",
+      "id_domus": "MC6996904",
+      "fechaPublicacion": null,
+      "lat": 4.7591205,
+      "lon": -74.09922,
       "location_type": "exacta",
       "zonaConsulta": "ALTOS DE SUBA",
       "zonaSlug": "altos-de-suba",
