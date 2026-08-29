@@ -5,10 +5,37 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "casa",
-  "generado": "2026.AGO.26 23:09",
+  "generado": "2026.AGO.29 02:40",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "casa",
+      "tipoPortal": "Casa",
+      "precio": 20000000,
+      "area": 265.0,
+      "administracion": 0.0,
+      "barrio": "PRADO PINZON",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-prado-pinzon-3-habitaciones-2-banos/22145-M6539010",
+      "titulo": "Casa en Arriendo, PRADO VERANIEGO, Bogotá D.C.",
+      "id_domus": "22145-M6539010",
+      "fechaPublicacion": null,
+      "lat": 4.726870536804199,
+      "lon": -74.05517578125,
+      "location_type": "exacta",
+      "zonaConsulta": "PRADO VERANIEGO",
+      "zonaSlug": "prado-veraniego",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -35,7 +62,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -56,33 +83,6 @@
       "fechaPublicacion": null,
       "lat": 4.71292,
       "lon": -74.06423,
-      "location_type": "exacta",
-      "zonaConsulta": "PRADO VERANIEGO",
-      "zonaSlug": "prado-veraniego",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "casa",
-      "tipoPortal": "Casa",
-      "precio": 20000000,
-      "area": 265.0,
-      "administracion": 0.0,
-      "barrio": "PRADO PINZON",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-prado-pinzon-3-habitaciones-2-banos/22145-M6539010",
-      "titulo": "Casa en Arriendo, PRADO VERANIEGO, Bogotá D.C.",
-      "id_domus": "22145-M6539010",
-      "fechaPublicacion": null,
-      "lat": 4.726870536804199,
-      "lon": -74.05517578125,
       "location_type": "exacta",
       "zonaConsulta": "PRADO VERANIEGO",
       "zonaSlug": "prado-veraniego",

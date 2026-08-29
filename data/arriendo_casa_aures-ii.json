@@ -5,37 +5,10 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "casa",
-  "generado": "2026.AGO.27 04:23",
+  "generado": "2026.AGO.29 02:40",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "casa",
-      "tipoPortal": "Casa",
-      "precio": 50000000,
-      "area": 900.0,
-      "administracion": null,
-      "barrio": "CHICO NORTE II",
-      "direccion": "",
-      "habitaciones": 5,
-      "banos": 5,
-      "parqueaderos": 4,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-chico-norte-ii-5-habitaciones-5-banos-4-garajes/72-M6843261",
-      "titulo": "Casa en Arriendo, Chico Norte Ii, Bogotá D.C.",
-      "id_domus": "72-M6843261",
-      "fechaPublicacion": null,
-      "lat": 4.6896,
-      "lon": -74.05695,
-      "location_type": "exacta",
-      "zonaConsulta": "AURES II",
-      "zonaSlug": "aures-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -56,6 +29,33 @@
       "fechaPublicacion": null,
       "lat": 4.6812357902526855,
       "lon": -74.04716491699219,
+      "location_type": "exacta",
+      "zonaConsulta": "AURES II",
+      "zonaSlug": "aures-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "casa",
+      "tipoPortal": "Casa",
+      "precio": 50000000,
+      "area": 900.0,
+      "administracion": null,
+      "barrio": "CHICO NORTE II",
+      "direccion": "",
+      "habitaciones": 5,
+      "banos": 5,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-chico-norte-ii-5-habitaciones-5-banos-4-garajes/72-M6843261",
+      "titulo": "Casa en Arriendo, Chico Norte Ii, Bogotá D.C.",
+      "id_domus": "72-M6843261",
+      "fechaPublicacion": null,
+      "lat": 4.6896,
+      "lon": -74.05695,
       "location_type": "exacta",
       "zonaConsulta": "AURES II",
       "zonaSlug": "aures-ii",

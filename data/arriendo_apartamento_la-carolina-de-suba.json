@@ -1,10 +1,92 @@
 {
   "ok": true,
-  "total": 0,
+  "total": 3,
   "zona": "LA CAROLINA DE SUBA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.AGO.27 04:23",
-  "inmuebles": []
+  "generado": "2026.AGO.29 02:40",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1640000,
+      "area": 42.0,
+      "administracion": 260000,
+      "barrio": "SUBA MIRANDELA",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-suba-mirandela-2-habitaciones-1-banos/359-M6976133",
+      "titulo": "Apartamento en Arriendo, Suba Mirandela, Bogotá D.C.",
+      "id_domus": "359-M6976133",
+      "fechaPublicacion": null,
+      "lat": 4.7673811,
+      "lon": -74.0551578,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CAROLINA DE SUBA",
+      "zonaSlug": "la-carolina-de-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1328300,
+      "area": 42.0,
+      "administracion": 171700,
+      "barrio": "SUBA MIRANDELA",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-suba-mirandela-1-habitaciones-2-banos/359-M6976106",
+      "titulo": "Apartamento en Arriendo, Suba Mirandela, Bogotá D.C.",
+      "id_domus": "359-M6976106",
+      "fechaPublicacion": null,
+      "lat": 4.775736,
+      "lon": -74.0447898,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CAROLINA DE SUBA",
+      "zonaSlug": "la-carolina-de-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1443000,
+      "area": 39.0,
+      "administracion": 157000,
+      "barrio": "SUBA MIRANDELA",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-suba-mirandela-2-habitaciones-2-banos/359-M6863419",
+      "titulo": "Apartamento en Arriendo, Suba Mirandela, Bogotá D.C.",
+      "id_domus": "359-M6863419",
+      "fechaPublicacion": null,
+      "lat": 4.775743,
+      "lon": -74.0442436,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CAROLINA DE SUBA",
+      "zonaSlug": "la-carolina-de-suba",
+      "origenZona": "barrio"
+    }
+  ]
 }

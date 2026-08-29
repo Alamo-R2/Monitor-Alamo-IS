@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "casa",
-  "generado": "2026.AGO.29 02:19",
+  "generado": "2026.AGO.29 02:40",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -41,33 +41,6 @@
       ],
       "tipo": "casa",
       "tipoPortal": "Casa",
-      "precio": 16000000,
-      "area": 460.0,
-      "administracion": 1600000,
-      "barrio": "SUBA NARANJOS",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 5,
-      "parqueaderos": 3,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-suba-naranjos-4-habitaciones-5-banos-3-garajes/11204-M6856757",
-      "titulo": "Casa en Arriendo, ALTOS DE SOTILEZA, Bogotá D.C.",
-      "id_domus": "11204-M6856757",
-      "fechaPublicacion": null,
-      "lat": 4.720320224761963,
-      "lon": -74.08070373535156,
-      "location_type": "exacta",
-      "zonaConsulta": "VEREDA SUBA NARANJOS",
-      "zonaSlug": "vereda-suba-naranjos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "casa",
-      "tipoPortal": "Casa",
       "precio": 11195000,
       "area": 535.0,
       "administracion": 1805000,
@@ -89,7 +62,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -110,6 +83,33 @@
       "fechaPublicacion": null,
       "lat": 4.7242255210876465,
       "lon": -74.080322265625,
+      "location_type": "exacta",
+      "zonaConsulta": "VEREDA SUBA NARANJOS",
+      "zonaSlug": "vereda-suba-naranjos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "casa",
+      "tipoPortal": "Casa",
+      "precio": 16000000,
+      "area": 460.0,
+      "administracion": 1600000,
+      "barrio": "SUBA NARANJOS",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 3,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-suba-naranjos-4-habitaciones-5-banos-3-garajes/11204-M6856757",
+      "titulo": "Casa en Arriendo, ALTOS DE SOTILEZA, Bogotá D.C.",
+      "id_domus": "11204-M6856757",
+      "fechaPublicacion": null,
+      "lat": 4.720320224761963,
+      "lon": -74.08070373535156,
       "location_type": "exacta",
       "zonaConsulta": "VEREDA SUBA NARANJOS",
       "zonaSlug": "vereda-suba-naranjos",

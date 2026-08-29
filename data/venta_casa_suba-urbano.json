@@ -5,37 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "casa",
-  "generado": "2026.AGO.29 02:19",
+  "generado": "2026.AGO.29 02:40",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "casa",
-      "tipoPortal": "Casa",
-      "precio": 449000000,
-      "area": 165.1,
-      "administracion": 0.0,
-      "barrio": "SUBA URBANO",
-      "direccion": "",
-      "habitaciones": 5,
-      "banos": 2,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-suba-urbano-5-habitaciones-2-banos/22266-M6872118",
-      "titulo": "Casa en Venta, SUBA, Bogotá D.C.",
-      "id_domus": "22266-M6872118",
-      "fechaPublicacion": null,
-      "lat": 4.738798141479492,
-      "lon": -74.08360290527344,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA URBANO",
-      "zonaSlug": "suba-urbano",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -62,34 +35,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
       "tipo": "casa",
       "tipoPortal": "Casa",
-      "precio": 2150000000,
-      "area": 1500.0,
-      "administracion": 1800000.0,
-      "barrio": "CASABLANCA SUBA URBANO",
+      "precio": 449000000,
+      "area": 165.1,
+      "administracion": 0.0,
+      "barrio": "SUBA URBANO",
       "direccion": "",
-      "habitaciones": 4,
-      "banos": 4,
-      "parqueaderos": 3,
+      "habitaciones": 5,
+      "banos": 2,
+      "parqueaderos": 0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-casablanca-suba-urbano-4-habitaciones-4-banos-3-garajes/847-M4686877",
-      "titulo": "Casa en Venta, Casablanca Suba Urbano, Bogotá D.C.",
-      "id_domus": "847-M4686877",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-suba-urbano-5-habitaciones-2-banos/22266-M6872118",
+      "titulo": "Casa en Venta, SUBA, Bogotá D.C.",
+      "id_domus": "22266-M6872118",
       "fechaPublicacion": null,
-      "lat": 4.812944,
-      "lon": -74.055986,
+      "lat": 4.738798141479492,
+      "lon": -74.08360290527344,
       "location_type": "exacta",
       "zonaConsulta": "SUBA URBANO",
       "zonaSlug": "suba-urbano",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -116,7 +89,61 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "casa",
+      "tipoPortal": "Casa",
+      "precio": 2990000000,
+      "area": 332.0,
+      "administracion": 1780000.0,
+      "barrio": "CASABLANCA SUBA URBANO",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-casablanca-suba-urbano-4-habitaciones-5-banos-4-garajes/495-M5678983",
+      "titulo": "Casa en Venta, Casablanca Suba Urbano, Bogotá D.C.",
+      "id_domus": "495-M5678983",
+      "fechaPublicacion": null,
+      "lat": 4.81047,
+      "lon": -74.04047,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA URBANO",
+      "zonaSlug": "suba-urbano",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "casa",
+      "tipoPortal": "Casa",
+      "precio": 2150000000,
+      "area": 1500.0,
+      "administracion": 1800000.0,
+      "barrio": "CASABLANCA SUBA URBANO",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 4,
+      "parqueaderos": 3,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-casablanca-suba-urbano-4-habitaciones-4-banos-3-garajes/847-M4686877",
+      "titulo": "Casa en Venta, Casablanca Suba Urbano, Bogotá D.C.",
+      "id_domus": "847-M4686877",
+      "fechaPublicacion": null,
+      "lat": 4.812944,
+      "lon": -74.055986,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA URBANO",
+      "zonaSlug": "suba-urbano",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -143,7 +170,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -164,33 +191,6 @@
       "fechaPublicacion": null,
       "lat": 4.736565589904785,
       "lon": -74.0811996459961,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA URBANO",
-      "zonaSlug": "suba-urbano",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "casa",
-      "tipoPortal": "Casa",
-      "precio": 2990000000,
-      "area": 332.0,
-      "administracion": 1780000.0,
-      "barrio": "CASABLANCA SUBA URBANO",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 5,
-      "parqueaderos": 4,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-casablanca-suba-urbano-4-habitaciones-5-banos-4-garajes/495-M5678983",
-      "titulo": "Casa en Venta, Casablanca Suba Urbano, Bogotá D.C.",
-      "id_domus": "495-M5678983",
-      "fechaPublicacion": null,
-      "lat": 4.81047,
-      "lon": -74.04047,
       "location_type": "exacta",
       "zonaConsulta": "SUBA URBANO",
       "zonaSlug": "suba-urbano",
