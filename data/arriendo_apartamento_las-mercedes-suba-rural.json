@@ -1,14 +1,41 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 8,
   "zona": "LAS MERCEDES SUBA RURAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.AGO.27 00:33",
+  "generado": "2026.AGO.29 03:14",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1245000,
+      "area": 31.0,
+      "administracion": 205000.0,
+      "barrio": "PORTAL DE LAS MERCEDES",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-portal-de-las-mercedes-2-habitaciones-1-banos/342-M6877140",
+      "titulo": "Apartamento en Arriendo, Portal De Las Mercedes, Bogotá D.C.",
+      "id_domus": "342-M6877140",
+      "fechaPublicacion": null,
+      "lat": 4.75673,
+      "lon": -74.0938,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS MERCEDES SUBA RURAL",
+      "zonaSlug": "las-mercedes-suba-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -35,7 +62,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -62,7 +89,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1298300,
+      "area": 34.56,
+      "administracion": 201700.0,
+      "barrio": "LAS MERCEDES",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-las-mercedes-2-habitaciones-1-banos/342-M6993363",
+      "titulo": "Apartamento en Arriendo, Las Mercedes, Bogotá D.C.",
+      "id_domus": "342-M6993363",
+      "fechaPublicacion": null,
+      "lat": 4.75319,
+      "lon": -74.09337,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS MERCEDES SUBA RURAL",
+      "zonaSlug": "las-mercedes-suba-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -89,34 +143,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1295000,
-      "area": 31.0,
-      "administracion": 205000.0,
-      "barrio": "PORTAL DE LAS MERCEDES",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-portal-de-las-mercedes-2-habitaciones-1-banos/342-M6877140",
-      "titulo": "Apartamento en Arriendo, Portal De Las Mercedes, Bogotá D.C.",
-      "id_domus": "342-M6877140",
-      "fechaPublicacion": null,
-      "lat": 4.75673,
-      "lon": -74.0938,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS MERCEDES SUBA RURAL",
-      "zonaSlug": "las-mercedes-suba-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -143,7 +170,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -170,7 +197,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],

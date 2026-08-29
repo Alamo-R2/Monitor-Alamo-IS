@@ -5,37 +5,10 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "casa",
-  "generado": "2026.AGO.26 23:09",
+  "generado": "2026.AGO.29 03:14",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "casa",
-      "tipoPortal": "Casa",
-      "precio": 2400000,
-      "area": 65.3,
-      "administracion": null,
-      "barrio": "CANTALEJO",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-cantalejo-3-habitaciones-1-banos/20837-M6963158",
-      "titulo": "Casa en Arriendo, Mazuren, Bogotá D.C.",
-      "id_domus": "20837-M6963158",
-      "fechaPublicacion": null,
-      "lat": 4.745876749,
-      "lon": -74.055260435,
-      "location_type": "exacta",
-      "zonaConsulta": "MAZUREN",
-      "zonaSlug": "mazuren",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -56,6 +29,33 @@
       "fechaPublicacion": null,
       "lat": 4.7375212528,
       "lon": -74.0568573616,
+      "location_type": "exacta",
+      "zonaConsulta": "MAZUREN",
+      "zonaSlug": "mazuren",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "casa",
+      "tipoPortal": "Casa",
+      "precio": 2400000,
+      "area": 65.3,
+      "administracion": null,
+      "barrio": "CANTALEJO",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-cantalejo-3-habitaciones-1-banos/20837-M6963158",
+      "titulo": "Casa en Arriendo, Mazuren, Bogotá D.C.",
+      "id_domus": "20837-M6963158",
+      "fechaPublicacion": null,
+      "lat": 4.745876749,
+      "lon": -74.055260435,
       "location_type": "exacta",
       "zonaConsulta": "MAZUREN",
       "zonaSlug": "mazuren",

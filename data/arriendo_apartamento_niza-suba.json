@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.AGO.29 02:30",
+  "generado": "2026.AGO.29 03:14",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -41,6 +41,33 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 8800000,
+      "area": 192.0,
+      "administracion": null,
+      "barrio": "SUBA NARANJOS",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 3,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-suba-naranjos-2-habitaciones-3-banos-3-garajes/5175-M5326444",
+      "titulo": "Apartamento en Arriendo, Niza Suba, Bogotá D.C.",
+      "id_domus": "5175-M5326444",
+      "fechaPublicacion": null,
+      "lat": 4.71762,
+      "lon": -74.08135,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA SUBA",
+      "zonaSlug": "niza-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 16000000,
       "area": 221.0,
       "administracion": 0.0,
@@ -62,7 +89,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -83,33 +110,6 @@
       "fechaPublicacion": null,
       "lat": 4.7237043380737305,
       "lon": -74.07608795166016,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUBA",
-      "zonaSlug": "niza-suba",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 8800000,
-      "area": 192.0,
-      "administracion": null,
-      "barrio": "SUBA NARANJOS",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 3,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-suba-naranjos-2-habitaciones-3-banos-3-garajes/5175-M5326444",
-      "titulo": "Apartamento en Arriendo, Niza Suba, Bogotá D.C.",
-      "id_domus": "5175-M5326444",
-      "fechaPublicacion": null,
-      "lat": 4.71762,
-      "lon": -74.08135,
       "location_type": "exacta",
       "zonaConsulta": "NIZA SUBA",
       "zonaSlug": "niza-suba",
