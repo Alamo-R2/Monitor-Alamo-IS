@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "LOS ROSALES",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "bodega",
+  "generado": "2026.AGO.29 18:05",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 1650000000,
+      "area": 170.0,
+      "administracion": 1900000,
+      "barrio": "ROSALES",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-rosales-2-banos-2-garajes/22393-M6949324",
+      "titulo": "Bodega en Venta, Rosales, Bogotá D.C.",
+      "id_domus": "22393-M6949324",
+      "fechaPublicacion": null,
+      "lat": 4.6526840255,
+      "lon": -74.0519761997,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ROSALES",
+      "zonaSlug": "los-rosales",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 38000000000,
+      "area": 13000.0,
+      "administracion": 0,
+      "barrio": "SAN JOSE FONTIBON",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-san-jose-fontibon/11052-M6373671",
+      "titulo": "Bodega en Venta, ROSALES SAN JOSE, Bogotá D.C.",
+      "id_domus": "11052-M6373671",
+      "fechaPublicacion": null,
+      "lat": 4.685801029205322,
+      "lon": -74.13046264648438,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ROSALES",
+      "zonaSlug": "los-rosales",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 850000000,
+      "area": 190.0,
+      "administracion": 0,
+      "barrio": "EL PESEBRE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-el-pesebre/412-M6990584",
+      "titulo": "Bodega en Venta, ROSALES SAN JOSE, Bogotá D.C.",
+      "id_domus": "412-M6990584",
+      "fechaPublicacion": null,
+      "lat": 4.5762834548950195,
+      "lon": -74.11737060546875,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ROSALES",
+      "zonaSlug": "los-rosales",
+      "origenZona": "barrio"
+    }
+  ]
+}
