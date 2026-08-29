@@ -5,10 +5,37 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "casa",
-  "generado": "2026.AGO.27 04:23",
+  "generado": "2026.AGO.29 02:52",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "casa",
+      "tipoPortal": "Casa",
+      "precio": 7500000,
+      "area": 140.0,
+      "administracion": 400000.0,
+      "barrio": "TORCA",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-torca-3-habitaciones-3-banos-2-garajes/20610-M6821862",
+      "titulo": "Casa en Arriendo, FLORESTA DE LA SABANA, Bogotá D.C.",
+      "id_domus": "20610-M6821862",
+      "fechaPublicacion": null,
+      "lat": 4.811644554138184,
+      "lon": -74.03050231933594,
+      "location_type": "exacta",
+      "zonaConsulta": "SABANA DE TIBABUYES",
+      "zonaSlug": "sabana-de-tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -35,7 +62,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -62,7 +89,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -83,33 +110,6 @@
       "fechaPublicacion": null,
       "lat": 4.809106281,
       "lon": -74.021370137,
-      "location_type": "exacta",
-      "zonaConsulta": "SABANA DE TIBABUYES",
-      "zonaSlug": "sabana-de-tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "casa",
-      "tipoPortal": "Casa",
-      "precio": 7500000,
-      "area": 140.0,
-      "administracion": 400000.0,
-      "barrio": "TORCA",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-torca-3-habitaciones-3-banos-2-garajes/20610-M6821862",
-      "titulo": "Casa en Arriendo, FLORESTA DE LA SABANA, Bogotá D.C.",
-      "id_domus": "20610-M6821862",
-      "fechaPublicacion": null,
-      "lat": 4.811644554138184,
-      "lon": -74.03050231933594,
       "location_type": "exacta",
       "zonaConsulta": "SABANA DE TIBABUYES",
       "zonaSlug": "sabana-de-tibabuyes",
