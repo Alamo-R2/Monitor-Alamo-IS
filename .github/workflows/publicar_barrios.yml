@@ -5,7 +5,8 @@ name: Publicar por barrio (norte primero)
 on:
   workflow_dispatch:      # boton "Run workflow" (manual)
   schedule:
-    - cron: "0 */3 * * *"   # cada 3 horas = 8 corridas/dia (empuje del norte). Baja a diario en septiembre.
+    - cron: "0 * 28-31 8 *"   # RECUPERACION: cada hora, solo 28-31 de AGOSTO (se apaga solo el 1 sep)
+    - cron: "0 7 * * *"        # DIARIO 07:00 UTC (rige de septiembre en adelante; el de recuperacion ya no aplica)
 
 permissions:
   contents: write         # para guardar los resultados en el repo
