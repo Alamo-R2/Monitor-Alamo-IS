@@ -1,41 +1,14 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 6,
   "zona": "CASA BLANCA SUBA I",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "casa",
-  "generado": "2026.AGO.27 00:33",
+  "generado": "2026.AGO.29 03:02",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "casa",
-      "tipoPortal": "Casa",
-      "precio": 8000000,
-      "area": 254.0,
-      "administracion": 1400000,
-      "barrio": "CASA BLANCA SUBA",
-      "direccion": "",
-      "habitaciones": 5,
-      "banos": 5,
-      "parqueaderos": 4,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-casa-blanca-suba-5-habitaciones-5-banos-4-garajes/21051-M6634408",
-      "titulo": "Casa en Arriendo, TORRELADERA ALTOS DE SUBA, Bogotá D.C.",
-      "id_domus": "21051-M6634408",
-      "fechaPublicacion": null,
-      "lat": 4.737631320953369,
-      "lon": -74.0765151977539,
-      "location_type": "exacta",
-      "zonaConsulta": "CASA BLANCA SUBA I",
-      "zonaSlug": "casa-blanca-suba-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -62,34 +35,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "casa",
-      "tipoPortal": "Casa",
-      "precio": 7500000,
-      "area": 280.0,
-      "administracion": 1100000,
-      "barrio": "CASA BLANCA SUBA",
-      "direccion": "",
-      "habitaciones": 5,
-      "banos": 5,
-      "parqueaderos": 4,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-casa-blanca-suba-5-habitaciones-5-banos-4-garajes/21051-M6344020",
-      "titulo": "Casa en Arriendo, TORRELADERA ALTOS DE SUBA, Bogotá D.C.",
-      "id_domus": "21051-M6344020",
-      "fechaPublicacion": null,
-      "lat": 4.737631320953369,
-      "lon": -74.0765151977539,
-      "location_type": "exacta",
-      "zonaConsulta": "CASA BLANCA SUBA I",
-      "zonaSlug": "casa-blanca-suba-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -116,7 +62,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -137,6 +83,60 @@
       "fechaPublicacion": null,
       "lat": 4.739017486572266,
       "lon": -74.07841491699219,
+      "location_type": "exacta",
+      "zonaConsulta": "CASA BLANCA SUBA I",
+      "zonaSlug": "casa-blanca-suba-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "casa",
+      "tipoPortal": "Casa",
+      "precio": 11500000,
+      "area": 600.0,
+      "administracion": 1900000,
+      "barrio": "CASA BLANCA SUBA",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 5,
+      "parqueaderos": 2,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-casa-blanca-suba-3-habitaciones-5-banos-2-garajes/2456-M6734098",
+      "titulo": "Casa en Arriendo, COLINA GRATAMIRA, Bogotá D.C.",
+      "id_domus": "2456-M6734098",
+      "fechaPublicacion": null,
+      "lat": 4.758545398712158,
+      "lon": -74.06780242919922,
+      "location_type": "exacta",
+      "zonaConsulta": "CASA BLANCA SUBA I",
+      "zonaSlug": "casa-blanca-suba-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "casa",
+      "tipoPortal": "Casa",
+      "precio": 11500000,
+      "area": 600.0,
+      "administracion": 1950000,
+      "barrio": "CASA BLANCA SUBA",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 5,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-casa-blanca-suba-3-habitaciones-5-banos-4-garajes/2456-M3603502",
+      "titulo": "Casa en Arriendo, ALTOS DE  LA COLINA, Bogotá D.C.",
+      "id_domus": "2456-M3603502",
+      "fechaPublicacion": null,
+      "lat": 4.758218288421631,
+      "lon": -74.06896209716797,
       "location_type": "exacta",
       "zonaConsulta": "CASA BLANCA SUBA I",
       "zonaSlug": "casa-blanca-suba-i",
@@ -164,60 +164,6 @@
       "fechaPublicacion": null,
       "lat": 4.739071369171143,
       "lon": -74.07373809814453,
-      "location_type": "exacta",
-      "zonaConsulta": "CASA BLANCA SUBA I",
-      "zonaSlug": "casa-blanca-suba-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "casa",
-      "tipoPortal": "Casa",
-      "precio": 11500000,
-      "area": 600.0,
-      "administracion": 1900000,
-      "barrio": "CASA BLANCA SUBA",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 2,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-casa-blanca-suba-3-habitaciones-5-banos-2-garajes/2456-M6734098",
-      "titulo": "Casa en Arriendo, COLINA GRATAMIRA, Bogotá D.C.",
-      "id_domus": "2456-M6734098",
-      "fechaPublicacion": null,
-      "lat": 4.758545398712158,
-      "lon": -74.06780242919922,
-      "location_type": "exacta",
-      "zonaConsulta": "CASA BLANCA SUBA I",
-      "zonaSlug": "casa-blanca-suba-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "casa",
-      "tipoPortal": "Casa",
-      "precio": 11500000,
-      "area": 600.0,
-      "administracion": 1950000,
-      "barrio": "CASA BLANCA SUBA",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 4,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-casa-blanca-suba-3-habitaciones-5-banos-4-garajes/2456-M3603502",
-      "titulo": "Casa en Arriendo, ALTOS DE  LA COLINA, Bogotá D.C.",
-      "id_domus": "2456-M3603502",
-      "fechaPublicacion": null,
-      "lat": 4.758218288421631,
-      "lon": -74.06896209716797,
       "location_type": "exacta",
       "zonaConsulta": "CASA BLANCA SUBA I",
       "zonaSlug": "casa-blanca-suba-i",
