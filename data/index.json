@@ -1,6 +1,6 @@
 {
-  "generado": "2026-08-29T21:26:56",
-  "generado_humano": "2026.AGO.29 21:26",
+  "generado": "2026-08-29T23:46:56",
+  "generado_humano": "2026.AGO.29 23:46",
   "grupo_actual": "barrios",
   "ciudad": "bogota",
   "datasets": [
@@ -10640,7 +10640,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 7.0
     },
     {
       "clave": "arriendo_oficina_chico-norte-iii-sector",
@@ -10652,7 +10652,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 6.8
     },
     {
       "clave": "venta_bodega_chico-norte-iii-sector",
@@ -10664,7 +10664,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 4.4
+      "segundos": 4.6
     },
     {
       "clave": "arriendo_bodega_chico-norte-iii-sector",
@@ -10688,7 +10688,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 7.2
+      "segundos": 7.0
     },
     {
       "clave": "arriendo_edificio_chico-norte-iii-sector",
@@ -10700,7 +10700,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 7.1
+      "segundos": 7.0
     },
     {
       "clave": "venta_local_chico-norte-iii-sector",
@@ -10712,7 +10712,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 7.1
     },
     {
       "clave": "arriendo_local_chico-norte-iii-sector",
@@ -10724,7 +10724,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 7.1
+      "segundos": 6.9
     },
     {
       "clave": "venta_lote_chico-norte-iii-sector",
@@ -10736,7 +10736,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 4.5
+      "segundos": 4.4
     },
     {
       "clave": "arriendo_lote_chico-norte-iii-sector",
@@ -10748,7 +10748,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 4.4
+      "segundos": 4.3
     },
     {
       "clave": "venta_oficina_concepcion-norte",
@@ -11120,7 +11120,7 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 7.2
     },
     {
       "clave": "arriendo_oficina_la-castellana",
@@ -11132,7 +11132,7 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 6.9
     },
     {
       "clave": "venta_bodega_la-castellana",
@@ -11144,7 +11144,7 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 6.9
     },
     {
       "clave": "arriendo_bodega_la-castellana",
@@ -11168,7 +11168,7 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 7.1
     },
     {
       "clave": "arriendo_edificio_la-castellana",
@@ -11180,13 +11180,13 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 7.2
     },
     {
       "clave": "venta_local_la-castellana",
       "etiqueta": "Venta - Local - LA CASTELLANA",
       "archivo": "venta_local_la-castellana.json",
-      "total": 35,
+      "total": 36,
       "operacion": "venta",
       "tipo": "local",
       "zona": "LA CASTELLANA",
@@ -11204,7 +11204,7 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 6.9
     },
     {
       "clave": "venta_lote_la-castellana",
@@ -11216,7 +11216,7 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 4.5
+      "segundos": 4.4
     },
     {
       "clave": "arriendo_lote_la-castellana",
@@ -16149,6 +16149,726 @@
       "slug": "santa-bibiana",
       "origen": "barrio",
       "segundos": 4.4
+    },
+    {
+      "clave": "venta_oficina_seminario",
+      "etiqueta": "Venta - Oficina - SEMINARIO",
+      "archivo": "venta_oficina_seminario.json",
+      "total": 57,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "SEMINARIO",
+      "slug": "seminario",
+      "origen": "barrio",
+      "segundos": 8.1
+    },
+    {
+      "clave": "arriendo_oficina_seminario",
+      "etiqueta": "Arriendo - Oficina - SEMINARIO",
+      "archivo": "arriendo_oficina_seminario.json",
+      "total": 65,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "SEMINARIO",
+      "slug": "seminario",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "venta_bodega_seminario",
+      "etiqueta": "Venta - Bodega - SEMINARIO",
+      "archivo": "venta_bodega_seminario.json",
+      "total": 52,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "SEMINARIO",
+      "slug": "seminario",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_bodega_seminario",
+      "etiqueta": "Arriendo - Bodega - SEMINARIO",
+      "archivo": "arriendo_bodega_seminario.json",
+      "total": 61,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "SEMINARIO",
+      "slug": "seminario",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_edificio_seminario",
+      "etiqueta": "Venta - Edificio - SEMINARIO",
+      "archivo": "venta_edificio_seminario.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "SEMINARIO",
+      "slug": "seminario",
+      "origen": "barrio",
+      "segundos": 7.4
+    },
+    {
+      "clave": "arriendo_edificio_seminario",
+      "etiqueta": "Arriendo - Edificio - SEMINARIO",
+      "archivo": "arriendo_edificio_seminario.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "SEMINARIO",
+      "slug": "seminario",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_local_seminario",
+      "etiqueta": "Venta - Local - SEMINARIO",
+      "archivo": "venta_local_seminario.json",
+      "total": 52,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "SEMINARIO",
+      "slug": "seminario",
+      "origen": "barrio",
+      "segundos": 7.2
+    },
+    {
+      "clave": "arriendo_local_seminario",
+      "etiqueta": "Arriendo - Local - SEMINARIO",
+      "archivo": "arriendo_local_seminario.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "SEMINARIO",
+      "slug": "seminario",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "venta_lote_seminario",
+      "etiqueta": "Venta - Lote - SEMINARIO",
+      "archivo": "venta_lote_seminario.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "SEMINARIO",
+      "slug": "seminario",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "arriendo_lote_seminario",
+      "etiqueta": "Arriendo - Lote - SEMINARIO",
+      "archivo": "arriendo_lote_seminario.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "SEMINARIO",
+      "slug": "seminario",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_oficina_siberia",
+      "etiqueta": "Venta - Oficina - SIBERIA",
+      "archivo": "venta_oficina_siberia.json",
+      "total": 57,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "SIBERIA",
+      "slug": "siberia",
+      "origen": "barrio",
+      "segundos": 7.2
+    },
+    {
+      "clave": "arriendo_oficina_siberia",
+      "etiqueta": "Arriendo - Oficina - SIBERIA",
+      "archivo": "arriendo_oficina_siberia.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "SIBERIA",
+      "slug": "siberia",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "venta_bodega_siberia",
+      "etiqueta": "Venta - Bodega - SIBERIA",
+      "archivo": "venta_bodega_siberia.json",
+      "total": 26,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "SIBERIA",
+      "slug": "siberia",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_bodega_siberia",
+      "etiqueta": "Arriendo - Bodega - SIBERIA",
+      "archivo": "arriendo_bodega_siberia.json",
+      "total": 34,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "SIBERIA",
+      "slug": "siberia",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "venta_edificio_siberia",
+      "etiqueta": "Venta - Edificio - SIBERIA",
+      "archivo": "venta_edificio_siberia.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "SIBERIA",
+      "slug": "siberia",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "arriendo_edificio_siberia",
+      "etiqueta": "Arriendo - Edificio - SIBERIA",
+      "archivo": "arriendo_edificio_siberia.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "SIBERIA",
+      "slug": "siberia",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_local_siberia",
+      "etiqueta": "Venta - Local - SIBERIA",
+      "archivo": "venta_local_siberia.json",
+      "total": 52,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "SIBERIA",
+      "slug": "siberia",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "arriendo_local_siberia",
+      "etiqueta": "Arriendo - Local - SIBERIA",
+      "archivo": "arriendo_local_siberia.json",
+      "total": 63,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "SIBERIA",
+      "slug": "siberia",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "venta_lote_siberia",
+      "etiqueta": "Venta - Lote - SIBERIA",
+      "archivo": "venta_lote_siberia.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "SIBERIA",
+      "slug": "siberia",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "arriendo_lote_siberia",
+      "etiqueta": "Arriendo - Lote - SIBERIA",
+      "archivo": "arriendo_lote_siberia.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "SIBERIA",
+      "slug": "siberia",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_oficina_siberia-central",
+      "etiqueta": "Venta - Oficina - SIBERIA CENTRAL",
+      "archivo": "venta_oficina_siberia-central.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "SIBERIA CENTRAL",
+      "slug": "siberia-central",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "arriendo_oficina_siberia-central",
+      "etiqueta": "Arriendo - Oficina - SIBERIA CENTRAL",
+      "archivo": "arriendo_oficina_siberia-central.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "SIBERIA CENTRAL",
+      "slug": "siberia-central",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "venta_bodega_siberia-central",
+      "etiqueta": "Venta - Bodega - SIBERIA CENTRAL",
+      "archivo": "venta_bodega_siberia-central.json",
+      "total": 26,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "SIBERIA CENTRAL",
+      "slug": "siberia-central",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_bodega_siberia-central",
+      "etiqueta": "Arriendo - Bodega - SIBERIA CENTRAL",
+      "archivo": "arriendo_bodega_siberia-central.json",
+      "total": 34,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "SIBERIA CENTRAL",
+      "slug": "siberia-central",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_edificio_siberia-central",
+      "etiqueta": "Venta - Edificio - SIBERIA CENTRAL",
+      "archivo": "venta_edificio_siberia-central.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "SIBERIA CENTRAL",
+      "slug": "siberia-central",
+      "origen": "barrio",
+      "segundos": 7.2
+    },
+    {
+      "clave": "arriendo_edificio_siberia-central",
+      "etiqueta": "Arriendo - Edificio - SIBERIA CENTRAL",
+      "archivo": "arriendo_edificio_siberia-central.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "SIBERIA CENTRAL",
+      "slug": "siberia-central",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "venta_local_siberia-central",
+      "etiqueta": "Venta - Local - SIBERIA CENTRAL",
+      "archivo": "venta_local_siberia-central.json",
+      "total": 47,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "SIBERIA CENTRAL",
+      "slug": "siberia-central",
+      "origen": "barrio",
+      "segundos": 7.4
+    },
+    {
+      "clave": "arriendo_local_siberia-central",
+      "etiqueta": "Arriendo - Local - SIBERIA CENTRAL",
+      "archivo": "arriendo_local_siberia-central.json",
+      "total": 52,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "SIBERIA CENTRAL",
+      "slug": "siberia-central",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "venta_lote_siberia-central",
+      "etiqueta": "Venta - Lote - SIBERIA CENTRAL",
+      "archivo": "venta_lote_siberia-central.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "SIBERIA CENTRAL",
+      "slug": "siberia-central",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "arriendo_lote_siberia-central",
+      "etiqueta": "Arriendo - Lote - SIBERIA CENTRAL",
+      "archivo": "arriendo_lote_siberia-central.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "SIBERIA CENTRAL",
+      "slug": "siberia-central",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "venta_oficina_siberia-ii",
+      "etiqueta": "Venta - Oficina - SIBERIA II",
+      "archivo": "venta_oficina_siberia-ii.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "SIBERIA II",
+      "slug": "siberia-ii",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "arriendo_oficina_siberia-ii",
+      "etiqueta": "Arriendo - Oficina - SIBERIA II",
+      "archivo": "arriendo_oficina_siberia-ii.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "SIBERIA II",
+      "slug": "siberia-ii",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_bodega_siberia-ii",
+      "etiqueta": "Venta - Bodega - SIBERIA II",
+      "archivo": "venta_bodega_siberia-ii.json",
+      "total": 26,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "SIBERIA II",
+      "slug": "siberia-ii",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_bodega_siberia-ii",
+      "etiqueta": "Arriendo - Bodega - SIBERIA II",
+      "archivo": "arriendo_bodega_siberia-ii.json",
+      "total": 34,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "SIBERIA II",
+      "slug": "siberia-ii",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_edificio_siberia-ii",
+      "etiqueta": "Venta - Edificio - SIBERIA II",
+      "archivo": "venta_edificio_siberia-ii.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "SIBERIA II",
+      "slug": "siberia-ii",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "arriendo_edificio_siberia-ii",
+      "etiqueta": "Arriendo - Edificio - SIBERIA II",
+      "archivo": "arriendo_edificio_siberia-ii.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "SIBERIA II",
+      "slug": "siberia-ii",
+      "origen": "barrio",
+      "segundos": 7.2
+    },
+    {
+      "clave": "venta_local_siberia-ii",
+      "etiqueta": "Venta - Local - SIBERIA II",
+      "archivo": "venta_local_siberia-ii.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "SIBERIA II",
+      "slug": "siberia-ii",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "arriendo_local_siberia-ii",
+      "etiqueta": "Arriendo - Local - SIBERIA II",
+      "archivo": "arriendo_local_siberia-ii.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "SIBERIA II",
+      "slug": "siberia-ii",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_lote_siberia-ii",
+      "etiqueta": "Venta - Lote - SIBERIA II",
+      "archivo": "venta_lote_siberia-ii.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "SIBERIA II",
+      "slug": "siberia-ii",
+      "origen": "barrio",
+      "segundos": 4.5
+    },
+    {
+      "clave": "arriendo_lote_siberia-ii",
+      "etiqueta": "Arriendo - Lote - SIBERIA II",
+      "archivo": "arriendo_lote_siberia-ii.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "SIBERIA II",
+      "slug": "siberia-ii",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "venta_oficina_sucre",
+      "etiqueta": "Venta - Oficina - SUCRE",
+      "archivo": "venta_oficina_sucre.json",
+      "total": 9,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "SUCRE",
+      "slug": "sucre",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_oficina_sucre",
+      "etiqueta": "Arriendo - Oficina - SUCRE",
+      "archivo": "arriendo_oficina_sucre.json",
+      "total": 25,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "SUCRE",
+      "slug": "sucre",
+      "origen": "barrio",
+      "segundos": 7.3
+    },
+    {
+      "clave": "venta_bodega_sucre",
+      "etiqueta": "Venta - Bodega - SUCRE",
+      "archivo": "venta_bodega_sucre.json",
+      "total": 52,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "SUCRE",
+      "slug": "sucre",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "arriendo_bodega_sucre",
+      "etiqueta": "Arriendo - Bodega - SUCRE",
+      "archivo": "arriendo_bodega_sucre.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "SUCRE",
+      "slug": "sucre",
+      "origen": "barrio",
+      "segundos": 4.5
+    },
+    {
+      "clave": "venta_edificio_sucre",
+      "etiqueta": "Venta - Edificio - SUCRE",
+      "archivo": "venta_edificio_sucre.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "SUCRE",
+      "slug": "sucre",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_edificio_sucre",
+      "etiqueta": "Arriendo - Edificio - SUCRE",
+      "archivo": "arriendo_edificio_sucre.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "SUCRE",
+      "slug": "sucre",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "venta_local_sucre",
+      "etiqueta": "Venta - Local - SUCRE",
+      "archivo": "venta_local_sucre.json",
+      "total": 15,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "SUCRE",
+      "slug": "sucre",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_local_sucre",
+      "etiqueta": "Arriendo - Local - SUCRE",
+      "archivo": "arriendo_local_sucre.json",
+      "total": 4,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "SUCRE",
+      "slug": "sucre",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "venta_lote_sucre",
+      "etiqueta": "Venta - Lote - SUCRE",
+      "archivo": "venta_lote_sucre.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "SUCRE",
+      "slug": "sucre",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_lote_sucre",
+      "etiqueta": "Arriendo - Lote - SUCRE",
+      "archivo": "arriendo_lote_sucre.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "SUCRE",
+      "slug": "sucre",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_oficina_estoril",
+      "etiqueta": "Venta - Oficina - ESTORIL",
+      "archivo": "venta_oficina_estoril.json",
+      "total": 47,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "ESTORIL",
+      "slug": "estoril",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_oficina_estoril",
+      "etiqueta": "Arriendo - Oficina - ESTORIL",
+      "archivo": "arriendo_oficina_estoril.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "ESTORIL",
+      "slug": "estoril",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "venta_bodega_estoril",
+      "etiqueta": "Venta - Bodega - ESTORIL",
+      "archivo": "venta_bodega_estoril.json",
+      "total": 52,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "ESTORIL",
+      "slug": "estoril",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_bodega_estoril",
+      "etiqueta": "Arriendo - Bodega - ESTORIL",
+      "archivo": "arriendo_bodega_estoril.json",
+      "total": 61,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "ESTORIL",
+      "slug": "estoril",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "venta_edificio_estoril",
+      "etiqueta": "Venta - Edificio - ESTORIL",
+      "archivo": "venta_edificio_estoril.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "ESTORIL",
+      "slug": "estoril",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "arriendo_edificio_estoril",
+      "etiqueta": "Arriendo - Edificio - ESTORIL",
+      "archivo": "arriendo_edificio_estoril.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "ESTORIL",
+      "slug": "estoril",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "venta_local_estoril",
+      "etiqueta": "Venta - Local - ESTORIL",
+      "archivo": "venta_local_estoril.json",
+      "total": 9,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "ESTORIL",
+      "slug": "estoril",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_local_estoril",
+      "etiqueta": "Arriendo - Local - ESTORIL",
+      "archivo": "arriendo_local_estoril.json",
+      "total": 21,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "ESTORIL",
+      "slug": "estoril",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "venta_lote_estoril",
+      "etiqueta": "Venta - Lote - ESTORIL",
+      "archivo": "venta_lote_estoril.json",
+      "total": 3,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "ESTORIL",
+      "slug": "estoril",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_lote_estoril",
+      "etiqueta": "Arriendo - Lote - ESTORIL",
+      "archivo": "arriendo_lote_estoril.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "ESTORIL",
+      "slug": "estoril",
+      "origen": "barrio",
+      "segundos": 7.2
     }
   ],
   "consolidados": {

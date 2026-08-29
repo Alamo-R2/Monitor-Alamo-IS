@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "edificio",
-  "generado": "2026.AGO.29 03:28",
+  "generado": "2026.AGO.29 23:46",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -338,33 +338,6 @@
       ],
       "tipo": "edificio",
       "tipoPortal": "Casa",
-      "precio": 2200000000,
-      "area": 305.0,
-      "administracion": null,
-      "barrio": "LA CASTELLANA",
-      "direccion": "",
-      "habitaciones": 5.0,
-      "banos": 5.0,
-      "parqueaderos": 1,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-medellin-la-castellana-5-habitaciones-5-banos-1-garajes/22723-M6639687",
-      "titulo": "Casa en Venta, La Castellana, Medellín",
-      "id_domus": "22723-M6639687",
-      "fechaPublicacion": null,
-      "lat": 6.2405,
-      "lon": -75.60771,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CASTELLANA",
-      "zonaSlug": "la-castellana",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
       "precio": 520000000,
       "area": 250.0,
       "administracion": null,
@@ -380,6 +353,33 @@
       "fechaPublicacion": null,
       "lat": 8.766607,
       "lon": -75.861138,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CASTELLANA",
+      "zonaSlug": "la-castellana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 2200000000,
+      "area": 305.0,
+      "administracion": null,
+      "barrio": "LA CASTELLANA",
+      "direccion": "",
+      "habitaciones": 5.0,
+      "banos": 5.0,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-medellin-la-castellana-5-habitaciones-5-banos-1-garajes/22723-M6639687",
+      "titulo": "Casa en Venta, La Castellana, Medellín",
+      "id_domus": "22723-M6639687",
+      "fechaPublicacion": null,
+      "lat": 6.2405,
+      "lon": -75.60771,
       "location_type": "exacta",
       "zonaConsulta": "LA CASTELLANA",
       "zonaSlug": "la-castellana",
@@ -608,6 +608,33 @@
       ],
       "tipo": "edificio",
       "tipoPortal": "Apartamento",
+      "precio": 650000000,
+      "area": 82.0,
+      "administracion": 410000.0,
+      "barrio": "LA CASTELLANA",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2.0,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-barranquilla-la-castellana-3-habitaciones-2-banos-1-garajes/671-M6302832",
+      "titulo": "Apartamento en Venta, La Castellana, Barranquilla",
+      "id_domus": "671-M6302832",
+      "fechaPublicacion": null,
+      "lat": 11.01457,
+      "lon": -74.83624,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CASTELLANA",
+      "zonaSlug": "la-castellana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-24",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
       "precio": 720000000,
       "area": 100.0,
       "administracion": 668000.0,
@@ -629,7 +656,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-24",
+      "id": "MI-25",
       "operacion": [
         "Venta"
       ],
@@ -656,61 +683,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-25",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 1100000000,
-      "area": 125.0,
-      "administracion": 450000.0,
-      "barrio": "LA CASTELLANA",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 3.0,
-      "parqueaderos": 1,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-medellin-la-castellana-3-habitaciones-3-banos-1-garajes/10159-M6976990",
-      "titulo": "Apartamento en Venta, La Castellana, Medellín",
-      "id_domus": "10159-M6976990",
-      "fechaPublicacion": null,
-      "lat": 6.238996,
-      "lon": -75.6036535,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CASTELLANA",
-      "zonaSlug": "la-castellana",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-26",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 650000000,
-      "area": 82.0,
-      "administracion": 410000.0,
-      "barrio": "LA CASTELLANA",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": 1,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-barranquilla-la-castellana-3-habitaciones-2-banos-1-garajes/671-M6302832",
-      "titulo": "Apartamento en Venta, La Castellana, Barranquilla",
-      "id_domus": "671-M6302832",
-      "fechaPublicacion": null,
-      "lat": 11.01457,
-      "lon": -74.83624,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CASTELLANA",
-      "zonaSlug": "la-castellana",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-27",
       "operacion": [
         "Venta"
       ],
@@ -737,7 +710,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-28",
+      "id": "MI-27",
       "operacion": [
         "Venta"
       ],
@@ -764,7 +737,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-29",
+      "id": "MI-28",
       "operacion": [
         "Venta"
       ],
@@ -791,7 +764,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-30",
+      "id": "MI-29",
       "operacion": [
         "Venta"
       ],
@@ -818,7 +791,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-31",
+      "id": "MI-30",
       "operacion": [
         "Venta"
       ],
@@ -839,6 +812,33 @@
       "fechaPublicacion": null,
       "lat": 11.0170011,
       "lon": -74.8373763,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CASTELLANA",
+      "zonaSlug": "la-castellana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-31",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 1100000000,
+      "area": 125.0,
+      "administracion": 450000.0,
+      "barrio": "LA CASTELLANA",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 3.0,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-medellin-la-castellana-3-habitaciones-3-banos-1-garajes/10159-M6976990",
+      "titulo": "Apartamento en Venta, La Castellana, Medellín",
+      "id_domus": "10159-M6976990",
+      "fechaPublicacion": null,
+      "lat": 6.238996,
+      "lon": -75.6036535,
       "location_type": "exacta",
       "zonaConsulta": "LA CASTELLANA",
       "zonaSlug": "la-castellana",
@@ -904,22 +904,22 @@
         "Venta"
       ],
       "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 450000000,
-      "area": 208.89,
+      "tipoPortal": "Apartamento",
+      "precio": 800000000,
+      "area": 105.0,
       "administracion": null,
       "barrio": "LA CASTELLANA",
       "direccion": "",
-      "habitaciones": 3.0,
+      "habitaciones": 2.0,
       "banos": 2.0,
-      "parqueaderos": 3,
+      "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-cucuta-la-castellana-3-habitaciones-2-banos-3-garajes/16636-M6088748",
-      "titulo": "Casa en Venta, La Castellana, Cúcuta",
-      "id_domus": "16636-M6088748",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-medellin-la-castellana-2-habitaciones-2-banos-1-garajes/11166-M6342625",
+      "titulo": "Apartamento en Venta, La Castellana, Medellín",
+      "id_domus": "11166-M6342625",
       "fechaPublicacion": null,
-      "lat": 7.90136,
-      "lon": -72.49805,
+      "lat": 6.24276,
+      "lon": -75.6082,
       "location_type": "exacta",
       "zonaConsulta": "LA CASTELLANA",
       "zonaSlug": "la-castellana",
@@ -986,21 +986,21 @@
       ],
       "tipo": "edificio",
       "tipoPortal": "Casa",
-      "precio": 350000000,
-      "area": 240.0,
+      "precio": 450000000,
+      "area": 208.89,
       "administracion": null,
       "barrio": "LA CASTELLANA",
       "direccion": "",
       "habitaciones": 3.0,
-      "banos": 4.0,
-      "parqueaderos": 1,
+      "banos": 2.0,
+      "parqueaderos": 3,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-cucuta-la-castellana-3-habitaciones-4-banos-1-garajes/16636-M6087791",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-cucuta-la-castellana-3-habitaciones-2-banos-3-garajes/16636-M6088748",
       "titulo": "Casa en Venta, La Castellana, Cúcuta",
-      "id_domus": "16636-M6087791",
+      "id_domus": "16636-M6088748",
       "fechaPublicacion": null,
-      "lat": 7.90114,
-      "lon": -72.49904,
+      "lat": 7.90136,
+      "lon": -72.49805,
       "location_type": "exacta",
       "zonaConsulta": "LA CASTELLANA",
       "zonaSlug": "la-castellana",
@@ -1008,33 +1008,6 @@
     },
     {
       "id": "MI-38",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 860000000,
-      "area": 260.0,
-      "administracion": null,
-      "barrio": "LA CASTELLANA",
-      "direccion": "",
-      "habitaciones": 4.0,
-      "banos": 3.0,
-      "parqueaderos": 1,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-medellin-la-castellana-4-habitaciones-3-banos-1-garajes/21824-M6336764",
-      "titulo": "Casa en Venta, La Castellana, Medellín",
-      "id_domus": "21824-M6336764",
-      "fechaPublicacion": null,
-      "lat": 6.2399859,
-      "lon": -75.6062564,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CASTELLANA",
-      "zonaSlug": "la-castellana",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-39",
       "operacion": [
         "Venta"
       ],
@@ -1061,7 +1034,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-40",
+      "id": "MI-39",
       "operacion": [
         "Venta"
       ],
@@ -1088,7 +1061,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-41",
+      "id": "MI-40",
       "operacion": [
         "Venta"
       ],
@@ -1115,7 +1088,61 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-41",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 350000000,
+      "area": 240.0,
+      "administracion": null,
+      "barrio": "LA CASTELLANA",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 4.0,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-cucuta-la-castellana-3-habitaciones-4-banos-1-garajes/16636-M6087791",
+      "titulo": "Casa en Venta, La Castellana, Cúcuta",
+      "id_domus": "16636-M6087791",
+      "fechaPublicacion": null,
+      "lat": 7.90114,
+      "lon": -72.49904,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CASTELLANA",
+      "zonaSlug": "la-castellana",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-42",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 860000000,
+      "area": 260.0,
+      "administracion": null,
+      "barrio": "LA CASTELLANA",
+      "direccion": "",
+      "habitaciones": 4.0,
+      "banos": 3.0,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-medellin-la-castellana-4-habitaciones-3-banos-1-garajes/21824-M6336764",
+      "titulo": "Casa en Venta, La Castellana, Medellín",
+      "id_domus": "21824-M6336764",
+      "fechaPublicacion": null,
+      "lat": 6.2399859,
+      "lon": -75.6062564,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CASTELLANA",
+      "zonaSlug": "la-castellana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-43",
       "operacion": [
         "Venta"
       ],
@@ -1142,7 +1169,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-43",
+      "id": "MI-44",
       "operacion": [
         "Venta"
       ],
@@ -1169,7 +1196,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-44",
+      "id": "MI-45",
       "operacion": [
         "Venta"
       ],
@@ -1196,7 +1223,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-45",
+      "id": "MI-46",
       "operacion": [
         "Venta"
       ],
@@ -1223,7 +1250,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-46",
+      "id": "MI-47",
       "operacion": [
         "Venta"
       ],
@@ -1250,7 +1277,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-47",
+      "id": "MI-48",
       "operacion": [
         "Venta"
       ],
@@ -1277,7 +1304,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-48",
+      "id": "MI-49",
       "operacion": [
         "Venta"
       ],
@@ -1304,7 +1331,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-49",
+      "id": "MI-50",
       "operacion": [
         "Venta"
       ],
@@ -1325,33 +1352,6 @@
       "fechaPublicacion": null,
       "lat": 7.8803349,
       "lon": -76.6163376,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CASTELLANA",
-      "zonaSlug": "la-castellana",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-50",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 680000000,
-      "area": 89.74,
-      "administracion": 600000.0,
-      "barrio": "LA CASTELLANA",
-      "direccion": "",
-      "habitaciones": 2.0,
-      "banos": 2.0,
-      "parqueaderos": 1,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-armenia-la-castellana-2-habitaciones-2-banos-1-garajes/18184-M6124068",
-      "titulo": "Apartamento en Venta, La Castellana, Armenia",
-      "id_domus": "18184-M6124068",
-      "fechaPublicacion": null,
-      "lat": 4.5524140195,
-      "lon": -75.6562037729,
       "location_type": "exacta",
       "zonaConsulta": "LA CASTELLANA",
       "zonaSlug": "la-castellana",
