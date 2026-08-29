@@ -32,7 +32,8 @@ jobs:
         run: python inmobiliario.py publicar --grupo barrios
 
       - name: Actualizar noticias del sector
-        run: python inmobiliario.py noticias || echo "noticias: sin cambios"
+        continue-on-error: true
+        run: python inmobiliario.py noticias || true
 
       - name: Guardar resultados en el repo
         run: |
