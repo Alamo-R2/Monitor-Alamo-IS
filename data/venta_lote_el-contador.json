@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "EL CONTADOR",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "lote",
+  "generado": "2026.AGO.30 14:10",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 3800000000,
+      "area": 890.0,
+      "administracion": null,
+      "barrio": "CONTADOR",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-contador/920-M6909942",
+      "titulo": "Lote en Venta, Contador, Bogotá D.C.",
+      "id_domus": "920-M6909942",
+      "fechaPublicacion": null,
+      "lat": 4.720246,
+      "lon": -74.0439659,
+      "location_type": "exacta",
+      "zonaConsulta": "EL CONTADOR",
+      "zonaSlug": "el-contador",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 1400000000,
+      "area": 330.0,
+      "administracion": 0.0,
+      "barrio": "EL CONTADOR",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-el-contador/11052-M6041396",
+      "titulo": "Lote en Venta, CONTADOR, Bogotá D.C.",
+      "id_domus": "11052-M6041396",
+      "fechaPublicacion": null,
+      "lat": 4.719231605529785,
+      "lon": -74.04385375976562,
+      "location_type": "exacta",
+      "zonaConsulta": "EL CONTADOR",
+      "zonaSlug": "el-contador",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 3200000000,
+      "area": 480.0,
+      "administracion": null,
+      "barrio": "CONTADOR",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-contador/15613-M6958029",
+      "titulo": "Lote en Venta, Contador, Bogotá D.C.",
+      "id_domus": "15613-M6958029",
+      "fechaPublicacion": null,
+      "lat": 4.7201278,
+      "lon": -74.0465358,
+      "location_type": "exacta",
+      "zonaConsulta": "EL CONTADOR",
+      "zonaSlug": "el-contador",
+      "origenZona": "barrio"
+    }
+  ]
+}

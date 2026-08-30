@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "ESTRELLA DEL NORTE",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "local",
+  "generado": "2026.AGO.30 14:10",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 180000000,
+      "area": 20.0,
+      "administracion": 380000.0,
+      "barrio": "RINCON DEL NORTE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 0,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-rincon-del-norte/22169-M6780762",
+      "titulo": "Local Comercial en Venta, La Uribe, Bogotá D.C.",
+      "id_domus": "22169-M6780762",
+      "fechaPublicacion": null,
+      "lat": 4.75817352,
+      "lon": -74.04497359,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTRELLA DEL NORTE",
+      "zonaSlug": "estrella-del-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 420000000,
+      "area": 115.0,
+      "administracion": null,
+      "barrio": "RINCON DEL NORTE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-rincon-del-norte-1-banos/603-M5351289",
+      "titulo": "Local Comercial en Venta, Verbenal, Bogotá D.C.",
+      "id_domus": "603-M5351289",
+      "fechaPublicacion": null,
+      "lat": 4.76287,
+      "lon": -74.04303,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTRELLA DEL NORTE",
+      "zonaSlug": "estrella-del-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 850000000,
+      "area": 49.32,
+      "administracion": null,
+      "barrio": "RINCON DEL NORTE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-rincon-del-norte-1-banos/MC6322831",
+      "titulo": "Local Comercial en Venta, Centro Comercial 184, Bogotá D.C.",
+      "id_domus": "MC6322831",
+      "fechaPublicacion": null,
+      "lat": 4.76114,
+      "lon": -74.044235,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTRELLA DEL NORTE",
+      "zonaSlug": "estrella-del-norte",
+      "origenZona": "barrio"
+    }
+  ]
+}

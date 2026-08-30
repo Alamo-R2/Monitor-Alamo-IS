@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "CEDRO SALAZAR",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "bodega",
+  "generado": "2026.AGO.30 14:10",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 1120000000,
+      "area": 300.0,
+      "administracion": 0.0,
+      "barrio": "EL CEDRO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-el-cedro/11052-M5681194",
+      "titulo": "Bodega en Venta, RIVIERA ENGATIVA, Bogotá D.C.",
+      "id_domus": "11052-M5681194",
+      "fechaPublicacion": null,
+      "lat": 4.703174114227295,
+      "lon": -74.11341857910156,
+      "location_type": "exacta",
+      "zonaConsulta": "CEDRO SALAZAR",
+      "zonaSlug": "cedro-salazar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 1800000000,
+      "area": 300.0,
+      "administracion": null,
+      "barrio": "EL CEDRO ENGATIVA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-el-cedro-engativa-1-banos-2-garajes/734-M6032911",
+      "titulo": "Bodega en Venta, El Cedro Engativa, Bogotá D.C.",
+      "id_domus": "734-M6032911",
+      "fechaPublicacion": null,
+      "lat": 4.70689,
+      "lon": -74.10124,
+      "location_type": "exacta",
+      "zonaConsulta": "CEDRO SALAZAR",
+      "zonaSlug": "cedro-salazar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 8500000000,
+      "area": 2000.0,
+      "administracion": 111111.0,
+      "barrio": "EL CEDRO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-el-cedro/15698-M6150571",
+      "titulo": "Bodega en Venta, LOS ALAMOS NORTE, Bogotá D.C.",
+      "id_domus": "15698-M6150571",
+      "fechaPublicacion": null,
+      "lat": 4.7044148445129395,
+      "lon": -74.11445617675781,
+      "location_type": "exacta",
+      "zonaConsulta": "CEDRO SALAZAR",
+      "zonaSlug": "cedro-salazar",
+      "origenZona": "barrio"
+    }
+  ]
+}
