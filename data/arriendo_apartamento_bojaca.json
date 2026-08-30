@@ -1,41 +1,14 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 5,
   "zona": "Bojaca",
   "origen": "municipio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.AGO.24 12:20",
+  "generado": "2026.AGO.30 15:32",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1108000,
-      "area": 41.72,
-      "administracion": 192000.0,
-      "barrio": "BOJACA",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-bojaca-2-habitaciones-1-banos/12937-M6929314",
-      "titulo": "Apartamento en Arriendo, Bojaca, Chía",
-      "id_domus": "12937-M6929314",
-      "fechaPublicacion": null,
-      "lat": 4.86267,
-      "lon": -74.04948,
-      "location_type": "exacta",
-      "zonaConsulta": "Bojaca",
-      "zonaSlug": "bojaca",
-      "origenZona": "municipio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -62,61 +35,7 @@
       "origenZona": "municipio"
     },
     {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 750000,
-      "area": 28.0,
-      "administracion": 0.0,
-      "barrio": "VEREDA BOJACA",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-vereda-bojaca-1-habitaciones-1-banos-1-garajes/MC4501628",
-      "titulo": "Apartamento en Arriendo, Vereda Bojaca, Chía",
-      "id_domus": "MC4501628",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "Bojaca",
-      "zonaSlug": "bojaca",
-      "origenZona": "municipio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1500000,
-      "area": 70.0,
-      "administracion": 10000.0,
-      "barrio": "VEREDA BOJACA AVENIDA EL PARAISO",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-vereda-bojaca-avenida-el-paraiso-2-habitaciones-2-banos/790-M6798783",
-      "titulo": "Apartamento en Arriendo, Vereda Bojaca Avenida El Paraiso, Chía",
-      "id_domus": "790-M6798783",
-      "fechaPublicacion": null,
-      "lat": 4.8754701,
-      "lon": -74.041842,
-      "location_type": "exacta",
-      "zonaConsulta": "Bojaca",
-      "zonaSlug": "bojaca",
-      "origenZona": "municipio"
-    },
-    {
-      "id": "MI-5",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -143,7 +62,34 @@
       "origenZona": "municipio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000,
+      "area": 89.0,
+      "administracion": 100000.0,
+      "barrio": "UB NUEVO MILENIO",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-ub-nuevo-milenio-2-habitaciones-2-banos-1-garajes/23249-M6860701",
+      "titulo": "Apartamento en Arriendo, Bojaca, Chía",
+      "id_domus": "23249-M6860701",
+      "fechaPublicacion": null,
+      "lat": 4.876836776733398,
+      "lon": -74.04545593261719,
+      "location_type": "exacta",
+      "zonaConsulta": "Bojaca",
+      "zonaSlug": "bojaca",
+      "origenZona": "municipio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -170,34 +116,7 @@
       "origenZona": "municipio"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1500000,
-      "area": 170.0,
-      "administracion": 10000.0,
-      "barrio": "MERCEDES DE CALAHORRA",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-mercedes-de-calahorra-2-habitaciones-2-banos/12573-M6273137",
-      "titulo": "Apartamento en Arriendo, VEREDA BOJACA, Chía",
-      "id_domus": "12573-M6273137",
-      "fechaPublicacion": null,
-      "lat": 4.875470161437988,
-      "lon": -74.04183959960938,
-      "location_type": "exacta",
-      "zonaConsulta": "Bojaca",
-      "zonaSlug": "bojaca",
-      "origenZona": "municipio"
-    },
-    {
-      "id": "MI-8",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
