@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "LISBOA",
+  "origen": "barrio",
+  "operacion": "arriendo",
+  "tipo": "oficina",
+  "generado": "2026.AGO.30 18:19",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 7370400,
+      "area": 92.0,
+      "administracion": 1799721,
+      "barrio": "LISBOA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-lisboa-1-banos/412-M6867680",
+      "titulo": "Oficina en Arriendo, BELLA SUIZA, Bogotá D.C.",
+      "id_domus": "412-M6867680",
+      "fechaPublicacion": null,
+      "lat": 4.713901996612549,
+      "lon": -74.03235626220703,
+      "location_type": "exacta",
+      "zonaConsulta": "LISBOA",
+      "zonaSlug": "lisboa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 39200000,
+      "area": 980.0,
+      "administracion": 4200000,
+      "barrio": "LISBOA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-lisboa-2-banos-4-garajes/20859-M6095082",
+      "titulo": "Oficina en Arriendo, Lisboa, Bogotá D.C.",
+      "id_domus": "20859-M6095082",
+      "fechaPublicacion": null,
+      "lat": 4.71281,
+      "lon": -74.0289,
+      "location_type": "exacta",
+      "zonaConsulta": "LISBOA",
+      "zonaSlug": "lisboa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 1550000,
+      "area": 9.76,
+      "administracion": 0,
+      "barrio": "NUEVO CONTRY",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-nuevo-contry-1-banos/13436-M5615868",
+      "titulo": "Oficina en Arriendo, LISBOA NUEVO COUNTRY, Bogotá D.C.",
+      "id_domus": "13436-M5615868",
+      "fechaPublicacion": null,
+      "lat": 4.716699600219727,
+      "lon": -74.04193115234375,
+      "location_type": "exacta",
+      "zonaConsulta": "LISBOA",
+      "zonaSlug": "lisboa",
+      "origenZona": "barrio"
+    }
+  ]
+}
