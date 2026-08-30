@@ -1,11 +1,11 @@
 {
   "ok": true,
   "total": 6,
-  "zona": "RINCON DE SUBA",
-  "origen": "barrio",
+  "zona": "Rincon de Suba",
+  "origen": "upl",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.AGO.27 04:23",
+  "generado": "2026.AGO.30 14:40",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -30,66 +30,12 @@
       "lat": 4.758731365203857,
       "lon": -74.10173797607422,
       "location_type": "exacta",
-      "zonaConsulta": "RINCON DE SUBA",
+      "zonaConsulta": "Rincon de Suba",
       "zonaSlug": "rincon-de-suba",
-      "origenZona": "barrio"
+      "origenZona": "upl"
     },
     {
       "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 309000000,
-      "area": 56.0,
-      "administracion": 190000.0,
-      "barrio": "LA CHUCUA",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-chucua-2-habitaciones-1-banos-1-garajes/836-M6688736",
-      "titulo": "Apartamento en Venta, SUBA RINCON, Bogotá D.C.",
-      "id_domus": "836-M6688736",
-      "fechaPublicacion": null,
-      "lat": 4.73814582824707,
-      "lon": -74.09168243408203,
-      "location_type": "exacta",
-      "zonaConsulta": "RINCON DE SUBA",
-      "zonaSlug": "rincon-de-suba",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 250000000,
-      "area": 49.0,
-      "administracion": 135000000.0,
-      "barrio": "CLUB LOS LAGARTOS",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-club-los-lagartos-3-habitaciones-2-banos/20447-M6832689",
-      "titulo": "Apartamento en Venta, SUBA RINCON, Bogotá D.C.",
-      "id_domus": "20447-M6832689",
-      "fechaPublicacion": null,
-      "lat": 4.716294765472412,
-      "lon": -74.09410858154297,
-      "location_type": "exacta",
-      "zonaConsulta": "RINCON DE SUBA",
-      "zonaSlug": "rincon-de-suba",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -111,39 +57,66 @@
       "lat": 4.72466,
       "lon": -74.08768,
       "location_type": "exacta",
-      "zonaConsulta": "RINCON DE SUBA",
+      "zonaConsulta": "Rincon de Suba",
       "zonaSlug": "rincon-de-suba",
-      "origenZona": "barrio"
+      "origenZona": "upl"
     },
     {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 164000000,
-      "area": 46.0,
-      "administracion": null,
-      "barrio": "VEREDA SUBA RINCON",
+      "precio": 309000000,
+      "area": 56.0,
+      "administracion": 190000.0,
+      "barrio": "LA CHUCUA",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 2,
       "banos": 1,
-      "parqueaderos": 0,
+      "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-vereda-suba-rincon-3-habitaciones-1-banos/3325-M4538834",
-      "titulo": "Apartamento en Venta, Vereda Suba Rincon, Bogotá D.C.",
-      "id_domus": "3325-M4538834",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-chucua-2-habitaciones-1-banos-1-garajes/836-M6688736",
+      "titulo": "Apartamento en Venta, SUBA RINCON, Bogotá D.C.",
+      "id_domus": "836-M6688736",
       "fechaPublicacion": null,
-      "lat": 4.72212,
-      "lon": -74.0852,
+      "lat": 4.73814582824707,
+      "lon": -74.09168243408203,
       "location_type": "exacta",
-      "zonaConsulta": "RINCON DE SUBA",
+      "zonaConsulta": "Rincon de Suba",
       "zonaSlug": "rincon-de-suba",
-      "origenZona": "barrio"
+      "origenZona": "upl"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 49.0,
+      "administracion": 135000000.0,
+      "barrio": "CLUB LOS LAGARTOS",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-club-los-lagartos-3-habitaciones-2-banos/20447-M6832689",
+      "titulo": "Apartamento en Venta, SUBA RINCON, Bogotá D.C.",
+      "id_domus": "20447-M6832689",
+      "fechaPublicacion": null,
+      "lat": 4.716294765472412,
+      "lon": -74.09410858154297,
+      "location_type": "exacta",
+      "zonaConsulta": "Rincon de Suba",
+      "zonaSlug": "rincon-de-suba",
+      "origenZona": "upl"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -165,9 +138,36 @@
       "lat": 4.719555854797363,
       "lon": -74.09384155273438,
       "location_type": "exacta",
-      "zonaConsulta": "RINCON DE SUBA",
+      "zonaConsulta": "Rincon de Suba",
       "zonaSlug": "rincon-de-suba",
-      "origenZona": "barrio"
+      "origenZona": "upl"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 164000000,
+      "area": 46.0,
+      "administracion": null,
+      "barrio": "VEREDA SUBA RINCON",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-vereda-suba-rincon-3-habitaciones-1-banos/3325-M4538834",
+      "titulo": "Apartamento en Venta, Vereda Suba Rincon, Bogotá D.C.",
+      "id_domus": "3325-M4538834",
+      "fechaPublicacion": null,
+      "lat": 4.72212,
+      "lon": -74.0852,
+      "location_type": "exacta",
+      "zonaConsulta": "Rincon de Suba",
+      "zonaSlug": "rincon-de-suba",
+      "origenZona": "upl"
     }
   ]
 }

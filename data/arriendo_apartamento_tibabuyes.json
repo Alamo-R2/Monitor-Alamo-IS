@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
-  "zona": "TIBABUYES",
-  "origen": "barrio",
+  "total": 5,
+  "zona": "Tibabuyes",
+  "origen": "upl",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.AGO.29 02:52",
+  "generado": "2026.AGO.30 14:40",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -30,9 +30,9 @@
       "lat": 4.7532958984375,
       "lon": -74.09806823730469,
       "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
+      "zonaConsulta": "Tibabuyes",
       "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
+      "origenZona": "upl"
     },
     {
       "id": "MI-2",
@@ -57,9 +57,9 @@
       "lat": 4.746013164520264,
       "lon": -74.10826110839844,
       "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
+      "zonaConsulta": "Tibabuyes",
       "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
+      "origenZona": "upl"
     },
     {
       "id": "MI-3",
@@ -84,9 +84,9 @@
       "lat": 4.7576919,
       "lon": -74.1151322,
       "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
+      "zonaConsulta": "Tibabuyes",
       "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
+      "origenZona": "upl"
     },
     {
       "id": "MI-4",
@@ -111,9 +111,36 @@
       "lat": 4.75649356842041,
       "lon": -74.0993881225586,
       "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
+      "zonaConsulta": "Tibabuyes",
       "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
+      "origenZona": "upl"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1180000,
+      "area": 45.0,
+      "administracion": 220000,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-tibabuyes-2-habitaciones-1-banos/17172-M7000786",
+      "titulo": "Apartamento en Arriendo, ALMENDROS DE SUBA, Bogotá D.C.",
+      "id_domus": "17172-M7000786",
+      "fechaPublicacion": null,
+      "lat": 4.7532958984375,
+      "lon": -74.09806823730469,
+      "location_type": "exacta",
+      "zonaConsulta": "Tibabuyes",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "upl"
     }
   ]
 }
