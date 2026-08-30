@@ -5,10 +5,37 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "local",
-  "generado": "2026.AGO.29 21:26",
+  "generado": "2026.AGO.30 02:48",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 6800000000,
+      "area": 888.25,
+      "administracion": null,
+      "barrio": "RINCON DEL CHICO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 4.0,
+      "parqueaderos": 4.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-rincon-del-chico-4-banos-4-garajes/2671-M5799618",
+      "titulo": "Local Comercial en Venta, Chico, Bogotá D.C.",
+      "id_domus": "2671-M5799618",
+      "fechaPublicacion": null,
+      "lat": 4.68533,
+      "lon": -74.04665,
+      "location_type": "exacta",
+      "zonaConsulta": "RINCON DEL CHICO",
+      "zonaSlug": "rincon-del-chico",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -35,7 +62,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -62,7 +89,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -89,7 +116,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -116,7 +143,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -137,33 +164,6 @@
       "fechaPublicacion": null,
       "lat": 4.686338424682617,
       "lon": -74.04658508300781,
-      "location_type": "exacta",
-      "zonaConsulta": "RINCON DEL CHICO",
-      "zonaSlug": "rincon-del-chico",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "local",
-      "tipoPortal": "Local Comercial",
-      "precio": 6800000000,
-      "area": 888.25,
-      "administracion": null,
-      "barrio": "RINCON DEL CHICO",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 4.0,
-      "parqueaderos": 4.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-rincon-del-chico-4-banos-4-garajes/2671-M5799618",
-      "titulo": "Local Comercial en Venta, Chico, Bogotá D.C.",
-      "id_domus": "2671-M5799618",
-      "fechaPublicacion": null,
-      "lat": 4.68533,
-      "lon": -74.04665,
       "location_type": "exacta",
       "zonaConsulta": "RINCON DEL CHICO",
       "zonaSlug": "rincon-del-chico",

@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "edificio",
-  "generado": "2026.AGO.29 14:51",
+  "generado": "2026.AGO.30 02:48",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -19,7 +19,7 @@
       "administracion": 0.0,
       "barrio": "EL TESORO",
       "direccion": "",
-      "habitaciones": 4,
+      "habitaciones": 4.0,
       "banos": 4,
       "parqueaderos": 4,
       "portalNombre": "metrocuadrado",
@@ -46,7 +46,7 @@
       "administracion": 0.0,
       "barrio": "NA",
       "direccion": "",
-      "habitaciones": 4,
+      "habitaciones": 4.0,
       "banos": 5,
       "parqueaderos": 4,
       "portalNombre": "metrocuadrado",
@@ -73,7 +73,7 @@
       "administracion": 3221000.0,
       "barrio": "SANTA ANA II",
       "direccion": "",
-      "habitaciones": 4,
+      "habitaciones": 4.0,
       "banos": 5,
       "parqueaderos": 4,
       "portalNombre": "metrocuadrado",
@@ -100,7 +100,7 @@
       "administracion": 752000.0,
       "barrio": "CN CLUB BOSQUES MADERO",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 2.0,
       "banos": 3,
       "parqueaderos": 2,
       "portalNombre": "metrocuadrado",
@@ -122,39 +122,12 @@
       ],
       "tipo": "edificio",
       "tipoPortal": "Apartamento",
-      "precio": 10500000,
-      "area": 230.0,
-      "administracion": 1400000.0,
-      "barrio": "LISBOA",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 5,
-      "parqueaderos": 2,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-lisboa-4-habitaciones-5-banos-2-garajes/2162-M6450175",
-      "titulo": "Apartamento en Arriendo, LA ALAMEDA, Bogotá D.C.",
-      "id_domus": "2162-M6450175",
-      "fechaPublicacion": null,
-      "lat": 4.71524715423584,
-      "lon": -74.03131866455078,
-      "location_type": "exacta",
-      "zonaConsulta": "ESCUELA DE CABALLERIA II",
-      "zonaSlug": "escuela-de-caballeria-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
       "precio": 5000000,
       "area": 142.0,
       "administracion": 0.0,
       "barrio": "ALTO DE MISAEL",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 3,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -170,7 +143,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -181,7 +154,7 @@
       "administracion": 100000.0,
       "barrio": "NA",
       "direccion": "",
-      "habitaciones": 4,
+      "habitaciones": 4.0,
       "banos": 5,
       "parqueaderos": 4,
       "portalNombre": "metrocuadrado",
@@ -197,7 +170,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -208,7 +181,7 @@
       "administracion": null,
       "barrio": "LOS NARANJOS",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 2,
       "parqueaderos": 2,
       "portalNombre": "metrocuadrado",
@@ -224,7 +197,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -235,7 +208,7 @@
       "administracion": 795800.0,
       "barrio": "SAMPER",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 2.0,
       "banos": 2,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -251,7 +224,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -262,7 +235,7 @@
       "administracion": 896000.0,
       "barrio": "NORTE",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 2.0,
       "banos": 3,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -278,7 +251,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -289,7 +262,7 @@
       "administracion": 1900000.0,
       "barrio": "CASA BLANCA SUBA",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 5,
       "parqueaderos": 2,
       "portalNombre": "metrocuadrado",
@@ -305,7 +278,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -316,7 +289,7 @@
       "administracion": 2000000.0,
       "barrio": "OTROS",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 4,
       "parqueaderos": 2,
       "portalNombre": "metrocuadrado",
@@ -332,34 +305,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 18500000,
-      "area": 392.0,
-      "administracion": 2600000.0,
-      "barrio": "MONTE ARROYO",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 5,
-      "parqueaderos": 4,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-monte-arroyo-4-habitaciones-5-banos-4-garajes/374-M6546500",
-      "titulo": "Apartamento en Arriendo, monte arroyo  monte loma 1, Bogotá D.C.",
-      "id_domus": "374-M6546500",
-      "fechaPublicacion": null,
-      "lat": 4.716601848602295,
-      "lon": -74.02401733398438,
-      "location_type": "exacta",
-      "zonaConsulta": "ESCUELA DE CABALLERIA II",
-      "zonaSlug": "escuela-de-caballeria-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -370,7 +316,7 @@
       "administracion": 0.0,
       "barrio": "LA ESPERANZA NORTE",
       "direccion": "",
-      "habitaciones": 1,
+      "habitaciones": 1.0,
       "banos": 1,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -386,7 +332,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -397,7 +343,7 @@
       "administracion": 0.0,
       "barrio": "",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 2,
       "parqueaderos": 2,
       "portalNombre": "metrocuadrado",
@@ -413,7 +359,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +370,7 @@
       "administracion": 750000.0,
       "barrio": "SANTA ANA ORIENTAL",
       "direccion": "",
-      "habitaciones": 4,
+      "habitaciones": 4.0,
       "banos": 5,
       "parqueaderos": 3,
       "portalNombre": "metrocuadrado",
@@ -440,7 +386,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -451,7 +397,7 @@
       "administracion": 0.0,
       "barrio": "OTROS",
       "direccion": "",
-      "habitaciones": 4,
+      "habitaciones": 4.0,
       "banos": 4,
       "parqueaderos": 3,
       "portalNombre": "metrocuadrado",
@@ -467,7 +413,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -478,7 +424,7 @@
       "administracion": 1400000.0,
       "barrio": "",
       "direccion": "",
-      "habitaciones": 5,
+      "habitaciones": 5.0,
       "banos": 5,
       "parqueaderos": 4,
       "portalNombre": "metrocuadrado",
@@ -494,7 +440,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -505,7 +451,7 @@
       "administracion": 1240000.0,
       "barrio": "BELLAVISTA",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 2.0,
       "banos": 4,
       "parqueaderos": 2,
       "portalNombre": "metrocuadrado",
@@ -521,34 +467,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 821200,
-      "area": 42.58,
-      "administracion": 128800.0,
-      "barrio": "OTROS",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-tocancipa-2-habitaciones-2-banos/368-M6316835",
-      "titulo": "Apartamento en Arriendo, El Verganzo, Tocancipá",
-      "id_domus": "368-M6316835",
-      "fechaPublicacion": null,
-      "lat": 4.953711986541748,
-      "lon": -73.94773864746094,
-      "location_type": "exacta",
-      "zonaConsulta": "ESCUELA DE CABALLERIA II",
-      "zonaSlug": "escuela-de-caballeria-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -559,7 +478,7 @@
       "administracion": 450000.0,
       "barrio": "CHUNTAME",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 2,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -575,7 +494,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-22",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -586,7 +505,7 @@
       "administracion": 1250000.0,
       "barrio": "CHICO NORTE",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 2.0,
       "banos": 3,
       "parqueaderos": 2,
       "portalNombre": "metrocuadrado",
@@ -602,7 +521,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-23",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -613,7 +532,7 @@
       "administracion": 460000.0,
       "barrio": "VEREDA LA BALSA",
       "direccion": "",
-      "habitaciones": 5,
+      "habitaciones": 5.0,
       "banos": 5,
       "parqueaderos": 4,
       "portalNombre": "metrocuadrado",
@@ -629,7 +548,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-24",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -640,7 +559,7 @@
       "administracion": 750000.0,
       "barrio": "UB CORDOBA NIZA",
       "direccion": "",
-      "habitaciones": 4,
+      "habitaciones": 4.0,
       "banos": 3,
       "parqueaderos": 2,
       "portalNombre": "metrocuadrado",
@@ -656,7 +575,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-25",
+      "id": "MI-22",
       "operacion": [
         "Arriendo"
       ],
@@ -667,7 +586,7 @@
       "administracion": 0.0,
       "barrio": "SANTA MARIA DE LOS ANGELES",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 5,
       "parqueaderos": 3,
       "portalNombre": "metrocuadrado",
@@ -683,7 +602,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-26",
+      "id": "MI-23",
       "operacion": [
         "Arriendo"
       ],
@@ -694,7 +613,7 @@
       "administracion": 600000.0,
       "barrio": "SANTA ANA ORIENTAL",
       "direccion": "",
-      "habitaciones": 5,
+      "habitaciones": 5.0,
       "banos": 5,
       "parqueaderos": 4,
       "portalNombre": "metrocuadrado",
@@ -710,7 +629,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-27",
+      "id": "MI-24",
       "operacion": [
         "Arriendo"
       ],
@@ -721,7 +640,7 @@
       "administracion": 595000.0,
       "barrio": "MARAYA",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 3,
       "parqueaderos": 2,
       "portalNombre": "metrocuadrado",
@@ -737,7 +656,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-28",
+      "id": "MI-25",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 5600000,
+      "area": 140.0,
+      "administracion": 10000.0,
+      "barrio": "URIBE ANGEL",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2,
+      "parqueaderos": 2,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-envigado-uribe-angel-3-habitaciones-2-banos-2-garajes/16981-M7000949",
+      "titulo": "Apartamento en Arriendo, Envigado",
+      "id_domus": "16981-M7000949",
+      "fechaPublicacion": null,
+      "lat": 6.171926498413086,
+      "lon": -75.57429504394531,
+      "location_type": "exacta",
+      "zonaConsulta": "ESCUELA DE CABALLERIA II",
+      "zonaSlug": "escuela-de-caballeria-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-26",
       "operacion": [
         "Arriendo"
       ],
@@ -748,7 +694,7 @@
       "administracion": 0.0,
       "barrio": "LAGOS DE LA DOCTORA",
       "direccion": "",
-      "habitaciones": 1,
+      "habitaciones": 1.0,
       "banos": 2,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -764,7 +710,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-29",
+      "id": "MI-27",
       "operacion": [
         "Arriendo"
       ],
@@ -775,7 +721,7 @@
       "administracion": 660000.0,
       "barrio": "CIUDAD JARDIN",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 3,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -791,7 +737,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-30",
+      "id": "MI-28",
       "operacion": [
         "Arriendo"
       ],
@@ -802,7 +748,7 @@
       "administracion": 100000.0,
       "barrio": "LA CASTELLANA",
       "direccion": "",
-      "habitaciones": 5,
+      "habitaciones": 5.0,
       "banos": 3,
       "parqueaderos": 3,
       "portalNombre": "metrocuadrado",
@@ -818,7 +764,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-31",
+      "id": "MI-29",
       "operacion": [
         "Arriendo"
       ],
@@ -829,7 +775,7 @@
       "administracion": 0.0,
       "barrio": "POZOS COLORADO",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 2,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -845,7 +791,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-32",
+      "id": "MI-30",
       "operacion": [
         "Arriendo"
       ],
@@ -856,7 +802,7 @@
       "administracion": 400000.0,
       "barrio": "LOS CEDROS ORIENTAL",
       "direccion": "",
-      "habitaciones": 1,
+      "habitaciones": 1.0,
       "banos": 2,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -872,7 +818,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-33",
+      "id": "MI-31",
       "operacion": [
         "Arriendo"
       ],
@@ -883,7 +829,7 @@
       "administracion": 551000.0,
       "barrio": "OCCIDENTAL",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 2,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -899,34 +845,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-34",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 7000000,
-      "area": 158.0,
-      "administracion": 1000000.0,
-      "barrio": "VDA CANELON",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 3,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cajica-vda-canelon-3-habitaciones-5-banos-3-garajes/20610-M6496963",
-      "titulo": "Casa en Arriendo, Canelón, Cajicá",
-      "id_domus": "20610-M6496963",
-      "fechaPublicacion": null,
-      "lat": 4.908897399902344,
-      "lon": -74.03115844726562,
-      "location_type": "exacta",
-      "zonaConsulta": "ESCUELA DE CABALLERIA II",
-      "zonaSlug": "escuela-de-caballeria-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-35",
+      "id": "MI-32",
       "operacion": [
         "Arriendo"
       ],
@@ -937,7 +856,7 @@
       "administracion": 250000.0,
       "barrio": "CHAPINERO CENTRAL",
       "direccion": "",
-      "habitaciones": 1,
+      "habitaciones": 1.0,
       "banos": 1,
       "parqueaderos": 0,
       "portalNombre": "metrocuadrado",
@@ -953,7 +872,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-36",
+      "id": "MI-33",
       "operacion": [
         "Arriendo"
       ],
@@ -964,7 +883,7 @@
       "administracion": 0.0,
       "barrio": "GRATAMIRA",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 3,
       "parqueaderos": 3,
       "portalNombre": "metrocuadrado",
@@ -980,7 +899,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-37",
+      "id": "MI-34",
       "operacion": [
         "Arriendo"
       ],
@@ -991,7 +910,7 @@
       "administracion": null,
       "barrio": "SEC CENTRO",
       "direccion": "",
-      "habitaciones": 5,
+      "habitaciones": 5.0,
       "banos": 5,
       "parqueaderos": 4,
       "portalNombre": "metrocuadrado",
@@ -1007,7 +926,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-38",
+      "id": "MI-35",
       "operacion": [
         "Arriendo"
       ],
@@ -1018,7 +937,7 @@
       "administracion": 860000.0,
       "barrio": "CEDRITOS",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 3,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -1034,7 +953,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-39",
+      "id": "MI-36",
       "operacion": [
         "Arriendo"
       ],
@@ -1045,7 +964,7 @@
       "administracion": 10000.0,
       "barrio": "LAS ANTILLAS",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 2,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -1061,7 +980,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-40",
+      "id": "MI-37",
       "operacion": [
         "Arriendo"
       ],
@@ -1072,7 +991,7 @@
       "administracion": 0.0,
       "barrio": "SANTA BIBIANA",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 4,
       "parqueaderos": 3,
       "portalNombre": "metrocuadrado",
@@ -1088,7 +1007,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-41",
+      "id": "MI-38",
       "operacion": [
         "Arriendo"
       ],
@@ -1099,7 +1018,7 @@
       "administracion": 0.0,
       "barrio": "SANTA TERESA",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 2.0,
       "banos": 2,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -1115,7 +1034,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-42",
+      "id": "MI-39",
       "operacion": [
         "Arriendo"
       ],
@@ -1126,7 +1045,7 @@
       "administracion": null,
       "barrio": "SERRAMONTE",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 2.0,
       "banos": 2,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -1142,7 +1061,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-43",
+      "id": "MI-40",
       "operacion": [
         "Arriendo"
       ],
@@ -1153,7 +1072,7 @@
       "administracion": 0.0,
       "barrio": "CHICO NORTE ET III",
       "direccion": "",
-      "habitaciones": 1,
+      "habitaciones": 1.0,
       "banos": 2,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -1169,7 +1088,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-44",
+      "id": "MI-41",
       "operacion": [
         "Arriendo"
       ],
@@ -1180,7 +1099,7 @@
       "administracion": 353000.0,
       "barrio": "MAZUREN",
       "direccion": "",
-      "habitaciones": 1,
+      "habitaciones": 1.0,
       "banos": 2,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -1196,7 +1115,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-45",
+      "id": "MI-42",
       "operacion": [
         "Arriendo"
       ],
@@ -1207,7 +1126,7 @@
       "administracion": 4500000.0,
       "barrio": "CERROS DE SANTA BARBARA",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 5,
       "parqueaderos": 4,
       "portalNombre": "metrocuadrado",
@@ -1223,7 +1142,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-46",
+      "id": "MI-43",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 4500000,
+      "area": 110.0,
+      "administracion": 0.0,
+      "barrio": "SANTA BARBARA CENTRAL",
+      "direccion": "",
+      "habitaciones": 2.0,
+      "banos": 3,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-santa-barbara-central-2-habitaciones-3-banos-1-garajes/21379-M7001503",
+      "titulo": "Apartamento en Arriendo, SANTA BARBARA CENTRAL, Bogotá D.C.",
+      "id_domus": "21379-M7001503",
+      "fechaPublicacion": null,
+      "lat": 4.694955825805664,
+      "lon": -74.03582000732422,
+      "location_type": "exacta",
+      "zonaConsulta": "ESCUELA DE CABALLERIA II",
+      "zonaSlug": "escuela-de-caballeria-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-44",
       "operacion": [
         "Arriendo"
       ],
@@ -1234,7 +1180,7 @@
       "administracion": null,
       "barrio": "ASTORGA",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 4,
       "parqueaderos": 2,
       "portalNombre": "metrocuadrado",
@@ -1250,7 +1196,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-47",
+      "id": "MI-45",
       "operacion": [
         "Arriendo"
       ],
@@ -1261,7 +1207,7 @@
       "administracion": 0.0,
       "barrio": "LA CASTELLANA",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 2,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -1277,7 +1223,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-48",
+      "id": "MI-46",
       "operacion": [
         "Arriendo"
       ],
@@ -1288,7 +1234,7 @@
       "administracion": null,
       "barrio": "LOS BALSOS NO  2",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 2,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
@@ -1304,7 +1250,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-49",
+      "id": "MI-47",
       "operacion": [
         "Arriendo"
       ],
@@ -1315,7 +1261,7 @@
       "administracion": 1100000.0,
       "barrio": "COTA CUNDINAMARCA",
       "direccion": "",
-      "habitaciones": 4,
+      "habitaciones": 4.0,
       "banos": 5,
       "parqueaderos": 3,
       "portalNombre": "metrocuadrado",
@@ -1331,7 +1277,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-50",
+      "id": "MI-48",
       "operacion": [
         "Arriendo"
       ],
@@ -1342,7 +1288,7 @@
       "administracion": 2200000.0,
       "barrio": "NA",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 3.0,
       "banos": 5,
       "parqueaderos": 3,
       "portalNombre": "metrocuadrado",
@@ -1352,6 +1298,60 @@
       "fechaPublicacion": null,
       "lat": 4.66559993,
       "lon": -74.047840715,
+      "location_type": "exacta",
+      "zonaConsulta": "ESCUELA DE CABALLERIA II",
+      "zonaSlug": "escuela-de-caballeria-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-49",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Oficina",
+      "precio": 104860000,
+      "area": 1906.0,
+      "administracion": 31460000.0,
+      "barrio": "SAMPER",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 5,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-samper-5-banos-4-garajes/537-M6887246",
+      "titulo": "Oficina en Arriendo, san diego santa fe, Bogotá D.C.",
+      "id_domus": "537-M6887246",
+      "fechaPublicacion": null,
+      "lat": 4.619908332824707,
+      "lon": -74.06769561767578,
+      "location_type": "exacta",
+      "zonaConsulta": "ESCUELA DE CABALLERIA II",
+      "zonaSlug": "escuela-de-caballeria-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-50",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 23500000,
+      "area": 723.33,
+      "administracion": 1600000.0,
+      "barrio": "SOPO",
+      "direccion": "",
+      "habitaciones": 5.0,
+      "banos": 5,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-sopo-incluye-yerbabuena-sopo-5-habitaciones-5-banos-4-garajes/2671-M6807886",
+      "titulo": "Casa en Arriendo, Sopo, Sopo (Incluye Yerbabuena)",
+      "id_domus": "2671-M6807886",
+      "fechaPublicacion": null,
+      "lat": 4.846909,
+      "lon": -73.997169,
       "location_type": "exacta",
       "zonaConsulta": "ESCUELA DE CABALLERIA II",
       "zonaSlug": "escuela-de-caballeria-ii",

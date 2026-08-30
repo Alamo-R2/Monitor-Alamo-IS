@@ -5,37 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "oficina",
-  "generado": "2026.AGO.29 14:51",
+  "generado": "2026.AGO.30 02:48",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "oficina",
-      "tipoPortal": "Oficina",
-      "precio": 1100000000,
-      "area": 117.0,
-      "administracion": 2500000,
-      "barrio": "ESCUELA DE INFANTERIA",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 2,
-      "parqueaderos": 2,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-escuela-de-infanteria-2-banos-2-garajes/10457-M6946385",
-      "titulo": "Oficina en Venta, PARK CHICO, Bogotá D.C.",
-      "id_domus": "10457-M6946385",
-      "fechaPublicacion": null,
-      "lat": 4.68526029586792,
-      "lon": -74.04214477539062,
-      "location_type": "exacta",
-      "zonaConsulta": "ESCUELA DE CABALLERIA II",
-      "zonaSlug": "escuela-de-caballeria-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -62,7 +35,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -83,6 +56,33 @@
       "fechaPublicacion": null,
       "lat": 4.684507,
       "lon": -74.045223,
+      "location_type": "exacta",
+      "zonaConsulta": "ESCUELA DE CABALLERIA II",
+      "zonaSlug": "escuela-de-caballeria-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 1100000000,
+      "area": 117.0,
+      "administracion": 2500000,
+      "barrio": "ESCUELA DE INFANTERIA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2,
+      "parqueaderos": 2,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-escuela-de-infanteria-2-banos-2-garajes/10457-M6946385",
+      "titulo": "Oficina en Venta, PARK CHICO, Bogotá D.C.",
+      "id_domus": "10457-M6946385",
+      "fechaPublicacion": null,
+      "lat": 4.68526029586792,
+      "lon": -74.04214477539062,
       "location_type": "exacta",
       "zonaConsulta": "ESCUELA DE CABALLERIA II",
       "zonaSlug": "escuela-de-caballeria-ii",
