@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "VILLA ELISA",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "oficina",
+  "generado": "2026.AGO.31 14:58",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 1550000000,
+      "area": 369.0,
+      "administracion": 0.0,
+      "barrio": "VILLA LUZ",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 5,
+      "parqueaderos": 3,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-villa-luz-5-banos-3-garajes/5255-M5857888",
+      "titulo": "Oficina en Venta, VILLA LUZ, Bogotá D.C.",
+      "id_domus": "5255-M5857888",
+      "fechaPublicacion": null,
+      "lat": 4.68513822555542,
+      "lon": -74.1097183227539,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ELISA",
+      "zonaSlug": "villa-elisa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 2900000000,
+      "area": 690.0,
+      "administracion": null,
+      "barrio": "VILLA LUZ",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 5,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-villa-luz-5-banos/34-M3219033",
+      "titulo": "Oficina en Venta, Villa Luz, Bogotá D.C.",
+      "id_domus": "34-M3219033",
+      "fechaPublicacion": null,
+      "lat": 4.68381,
+      "lon": -74.11107,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ELISA",
+      "zonaSlug": "villa-elisa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 1300000,
+      "area": 369.0,
+      "administracion": null,
+      "barrio": "VILLA LUZ",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 5,
+      "parqueaderos": 2,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-villa-luz-5-banos-2-garajes/MC6833324",
+      "titulo": "Oficina en Venta, VILLA LUZ MONJES   Engativá, Bogotá D.C.",
+      "id_domus": "MC6833324",
+      "fechaPublicacion": null,
+      "lat": 4.685105,
+      "lon": -74.1097,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ELISA",
+      "zonaSlug": "villa-elisa",
+      "origenZona": "barrio"
+    }
+  ]
+}

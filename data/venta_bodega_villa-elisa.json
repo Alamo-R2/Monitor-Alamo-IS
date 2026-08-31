@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "VILLA ELISA",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "bodega",
+  "generado": "2026.AGO.31 14:58",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 1350000000,
+      "area": 420.0,
+      "administracion": 150000.0,
+      "barrio": "VILLA ELISA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 4.0,
+      "parqueaderos": 3.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-villa-elisa-4-banos-3-garajes/10858-M6371738",
+      "titulo": "Bodega en Venta, Villa Elisa, Bogotá D.C.",
+      "id_domus": "10858-M6371738",
+      "fechaPublicacion": null,
+      "lat": 4.737031986,
+      "lon": -74.086816487,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ELISA",
+      "zonaSlug": "villa-elisa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 2900000000,
+      "area": 1180.0,
+      "administracion": null,
+      "barrio": "VILLA ELISA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 3.0,
+      "parqueaderos": 1.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-villa-elisa-3-banos-1-garajes/20610-M5966214",
+      "titulo": "Bodega en Venta, Suba, Bogotá D.C.",
+      "id_domus": "20610-M5966214",
+      "fechaPublicacion": null,
+      "lat": 4.734125577,
+      "lon": -74.088742272,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ELISA",
+      "zonaSlug": "villa-elisa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 2500000000,
+      "area": 1280.0,
+      "administracion": 0.0,
+      "barrio": "VILLA ELISA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-villa-elisa/2748-M4153257",
+      "titulo": "Bodega en Venta, VILLA ELISA, Bogotá D.C.",
+      "id_domus": "2748-M4153257",
+      "fechaPublicacion": null,
+      "lat": 4.7344794273376465,
+      "lon": -74.08841705322266,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ELISA",
+      "zonaSlug": "villa-elisa",
+      "origenZona": "barrio"
+    }
+  ]
+}
