@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "SUBA URBANO",
+  "origen": "barrio",
+  "operacion": "arriendo",
+  "tipo": "oficina",
+  "generado": "2026.AGO.31 14:41",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 120000000,
+      "area": 17.25,
+      "administracion": 350000.0,
+      "barrio": "SUBA URBANO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-suba-urbano-1-banos/5545-M4227404",
+      "titulo": "Oficina en Arriendo, Suba, Bogotá D.C.",
+      "id_domus": "5545-M4227404",
+      "fechaPublicacion": null,
+      "lat": 4.7418165,
+      "lon": -74.0839343,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA URBANO",
+      "zonaSlug": "suba-urbano",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 15000000,
+      "area": 264.0,
+      "administracion": 0.0,
+      "barrio": "SUBA URBANO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 4,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-suba-urbano-4-banos/482-M3121049",
+      "titulo": "Oficina en Arriendo, SUBA, Bogotá D.C.",
+      "id_domus": "482-M3121049",
+      "fechaPublicacion": null,
+      "lat": 4.740379810333252,
+      "lon": -74.08377075195312,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA URBANO",
+      "zonaSlug": "suba-urbano",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 1200000,
+      "area": 50.0,
+      "administracion": null,
+      "barrio": "SUBA URBANO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-suba-urbano-1-banos/393-M5487581",
+      "titulo": "Oficina en Arriendo, Suba Centro, Bogotá D.C.",
+      "id_domus": "393-M5487581",
+      "fechaPublicacion": null,
+      "lat": 4.73795,
+      "lon": -74.08418,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA URBANO",
+      "zonaSlug": "suba-urbano",
+      "origenZona": "barrio"
+    }
+  ]
+}
