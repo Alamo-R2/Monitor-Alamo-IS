@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "lote",
-  "generado": "2026.AGO.31 06:29",
+  "generado": "2026.SEP.01 00:16",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -41,6 +41,33 @@
       ],
       "tipo": "lote",
       "tipoPortal": "Lote",
+      "precio": 85000000,
+      "area": 3360.0,
+      "administracion": 0,
+      "barrio": "LA ISABELA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-lote-bogota-la-isabela/412-M5458536",
+      "titulo": "Lote en Arriendo, ENGATIVA, Bogotá D.C.",
+      "id_domus": "412-M5458536",
+      "fechaPublicacion": null,
+      "lat": 4.694049835205078,
+      "lon": -74.11691284179688,
+      "location_type": "exacta",
+      "zonaConsulta": "EL POA",
+      "zonaSlug": "el-poa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
       "precio": 58800000,
       "area": 3360.0,
       "administracion": 0,
@@ -62,7 +89,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -83,33 +110,6 @@
       "fechaPublicacion": null,
       "lat": 4.694045066833496,
       "lon": -74.11685943603516,
-      "location_type": "exacta",
-      "zonaConsulta": "EL POA",
-      "zonaSlug": "el-poa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "lote",
-      "tipoPortal": "Lote",
-      "precio": 85000000,
-      "area": 3360.0,
-      "administracion": 0,
-      "barrio": "LA ISABELA",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": null,
-      "parqueaderos": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-lote-bogota-la-isabela/412-M5458536",
-      "titulo": "Lote en Arriendo, ENGATIVA, Bogotá D.C.",
-      "id_domus": "412-M5458536",
-      "fechaPublicacion": null,
-      "lat": 4.694049835205078,
-      "lon": -74.11691284179688,
       "location_type": "exacta",
       "zonaConsulta": "EL POA",
       "zonaSlug": "el-poa",
