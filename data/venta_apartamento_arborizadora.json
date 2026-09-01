@@ -5,64 +5,10 @@
   "origen": "upl",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.AGO.31 17:58",
+  "generado": "2026.SEP.01 15:27",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 180000000,
-      "area": 45.0,
-      "administracion": 0.0,
-      "barrio": "LAS MARGARITAS",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-margaritas-3-habitaciones-1-banos/19258-M6459543",
-      "titulo": "Apartamento en Venta, ARBORIZADORA BAJA, Bogotá D.C.",
-      "id_domus": "19258-M6459543",
-      "fechaPublicacion": null,
-      "lat": 4.631496906280518,
-      "lon": -74.194091796875,
-      "location_type": "exacta",
-      "zonaConsulta": "Arborizadora",
-      "zonaSlug": "arborizadora",
-      "origenZona": "upl"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 250000000,
-      "area": 43.0,
-      "administracion": null,
-      "barrio": "ARBORIZADORA",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 1,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-arborizadora-3-habitaciones-1-banos-1-garajes/21641-M6387967",
-      "titulo": "Apartamento en Venta, Arborizadora, Bogotá D.C.",
-      "id_domus": "21641-M6387967",
-      "fechaPublicacion": null,
-      "lat": 4.584379,
-      "lon": -74.159014,
-      "location_type": "exacta",
-      "zonaConsulta": "Arborizadora",
-      "zonaSlug": "arborizadora",
-      "origenZona": "upl"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -89,7 +35,7 @@
       "origenZona": "upl"
     },
     {
-      "id": "MI-4",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -116,7 +62,34 @@
       "origenZona": "upl"
     },
     {
-      "id": "MI-5",
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 180000000,
+      "area": 45.0,
+      "administracion": 0.0,
+      "barrio": "LAS MARGARITAS",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-margaritas-3-habitaciones-1-banos/19258-M6459543",
+      "titulo": "Apartamento en Venta, ARBORIZADORA BAJA, Bogotá D.C.",
+      "id_domus": "19258-M6459543",
+      "fechaPublicacion": null,
+      "lat": 4.631496906280518,
+      "lon": -74.194091796875,
+      "location_type": "exacta",
+      "zonaConsulta": "Arborizadora",
+      "zonaSlug": "arborizadora",
+      "origenZona": "upl"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -137,6 +110,33 @@
       "fechaPublicacion": null,
       "lat": 4.591322422027588,
       "lon": -74.17784881591797,
+      "location_type": "exacta",
+      "zonaConsulta": "Arborizadora",
+      "zonaSlug": "arborizadora",
+      "origenZona": "upl"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 43.0,
+      "administracion": null,
+      "barrio": "ARBORIZADORA",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-arborizadora-3-habitaciones-1-banos-1-garajes/21641-M6387967",
+      "titulo": "Apartamento en Venta, Arborizadora, Bogotá D.C.",
+      "id_domus": "21641-M6387967",
+      "fechaPublicacion": null,
+      "lat": 4.584379,
+      "lon": -74.159014,
       "location_type": "exacta",
       "zonaConsulta": "Arborizadora",
       "zonaSlug": "arborizadora",
