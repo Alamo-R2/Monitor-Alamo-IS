@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "edificio",
-  "generado": "2026.AGO.31 14:41",
+  "generado": "2026.SEP.02 12:02",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -95,61 +95,7 @@
       ],
       "tipo": "edificio",
       "tipoPortal": "Apartamento",
-      "precio": 294000000,
-      "area": 70.0,
-      "administracion": null,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": 0.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos/384-M6033500",
-      "titulo": "Apartamento en Venta, Tibabuyes, Bogotá D.C.",
-      "id_domus": "384-M6033500",
-      "fechaPublicacion": null,
-      "lat": 4.749796,
-      "lon": -74.100466,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 349000000,
-      "area": 83.0,
-      "administracion": 196000.0,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": 0.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-tibabuyes-3-habitaciones-2-banos/12937-M6378070",
-      "titulo": "Casa en Venta, Tibabuyes, Bogotá D.C.",
-      "id_domus": "12937-M6378070",
-      "fechaPublicacion": null,
-      "lat": 4.75345,
-      "lon": -74.10034,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 228000000,
+      "precio": 220000000,
       "area": 48.55,
       "administracion": 300000.0,
       "barrio": "TIBABUYES",
@@ -170,7 +116,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -197,7 +143,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Lote",
+      "precio": 4000000000,
+      "area": 1315.0,
+      "administracion": null,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-tibabuyes/20859-M6422171",
+      "titulo": "Lote en Venta, Tibabuyes, Bogotá D.C.",
+      "id_domus": "20859-M6422171",
+      "fechaPublicacion": null,
+      "lat": 4.74126,
+      "lon": -74.09629,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -224,7 +197,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -251,7 +224,88 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 294000000,
+      "area": 70.0,
+      "administracion": null,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2.0,
+      "parqueaderos": 0.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos/384-M6033500",
+      "titulo": "Apartamento en Venta, Tibabuyes, Bogotá D.C.",
+      "id_domus": "384-M6033500",
+      "fechaPublicacion": null,
+      "lat": 4.749796,
+      "lon": -74.100466,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 349000000,
+      "area": 83.0,
+      "administracion": 196000.0,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2.0,
+      "parqueaderos": 0.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-tibabuyes-3-habitaciones-2-banos/12937-M6378070",
+      "titulo": "Casa en Venta, Tibabuyes, Bogotá D.C.",
+      "id_domus": "12937-M6378070",
+      "fechaPublicacion": null,
+      "lat": 4.75345,
+      "lon": -74.10034,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 180000000,
+      "area": 52.41,
+      "administracion": null,
+      "barrio": "NUEVA TIBABUYES",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 1.0,
+      "parqueaderos": 0.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-nueva-tibabuyes-3-habitaciones-1-banos/20859-M6314349",
+      "titulo": "Apartamento en Venta, Nueva Tibabuyes, Bogotá D.C.",
+      "id_domus": "20859-M6314349",
+      "fechaPublicacion": null,
+      "lat": 4.73357,
+      "lon": -74.10848,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -278,7 +332,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -305,34 +359,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Local Comercial",
-      "precio": 225000000,
-      "area": 21.37,
-      "administracion": null,
-      "barrio": "NUEVA TIBABUYES",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 1.0,
-      "parqueaderos": 0.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-nueva-tibabuyes-1-banos/20610-M5957675",
-      "titulo": "Local Comercial en Venta, Nueva Tibabuyes, Bogotá D.C.",
-      "id_domus": "20610-M5957675",
-      "fechaPublicacion": null,
-      "lat": 4.73331,
-      "lon": -74.10638,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -359,7 +386,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -386,7 +413,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Local Comercial",
+      "precio": 225000000,
+      "area": 21.37,
+      "administracion": null,
+      "barrio": "NUEVA TIBABUYES",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1.0,
+      "parqueaderos": 0.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-nueva-tibabuyes-1-banos/20610-M5957675",
+      "titulo": "Local Comercial en Venta, Nueva Tibabuyes, Bogotá D.C.",
+      "id_domus": "20610-M5957675",
+      "fechaPublicacion": null,
+      "lat": 4.73331,
+      "lon": -74.10638,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -413,7 +467,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -440,7 +494,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -461,60 +515,6 @@
       "fechaPublicacion": null,
       "lat": 4.74701,
       "lon": -74.12098,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 227000000,
-      "area": 46.0,
-      "administracion": 143616.0,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": 0.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos/20706-M6664023",
-      "titulo": "Apartamento en Venta, Tibabuyes, Bogotá D.C.",
-      "id_domus": "20706-M6664023",
-      "fechaPublicacion": null,
-      "lat": 4.751238166,
-      "lon": -74.103686034,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 227000000,
-      "area": 46.0,
-      "administracion": 143000.0,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": 0.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos/16305-M6931568",
-      "titulo": "Apartamento en Venta, Tibabuyes, Bogotá D.C.",
-      "id_domus": "16305-M6931568",
-      "fechaPublicacion": null,
-      "lat": 4.750237,
-      "lon": -74.102476,
       "location_type": "exacta",
       "zonaConsulta": "TIBABUYES",
       "zonaSlug": "tibabuyes",
@@ -554,6 +554,33 @@
       ],
       "tipo": "edificio",
       "tipoPortal": "Apartamento",
+      "precio": 227000000,
+      "area": 46.0,
+      "administracion": 143000.0,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2.0,
+      "parqueaderos": 0.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos/16305-M6931568",
+      "titulo": "Apartamento en Venta, Tibabuyes, Bogotá D.C.",
+      "id_domus": "16305-M6931568",
+      "fechaPublicacion": null,
+      "lat": 4.750237,
+      "lon": -74.102476,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-22",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
       "precio": 219000000,
       "area": 44.0,
       "administracion": 110519.0,
@@ -575,7 +602,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-22",
+      "id": "MI-23",
       "operacion": [
         "Venta"
       ],
@@ -602,7 +629,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-23",
+      "id": "MI-24",
       "operacion": [
         "Venta"
       ],
@@ -629,33 +656,6 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-24",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 232000000,
-      "area": 46.0,
-      "administracion": 143000.0,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": 0.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos/14271-M6815505",
-      "titulo": "Apartamento en Venta, SUBA TIBABUYES, Bogotá D.C.",
-      "id_domus": "14271-M6815505",
-      "fechaPublicacion": null,
-      "lat": 4.750868797302246,
-      "lon": -74.10400390625,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-25",
       "operacion": [
         "Venta"
@@ -671,12 +671,12 @@
       "banos": 2.0,
       "parqueaderos": 0.0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos/11104-M6577568",
-      "titulo": "Apartamento en Venta, SUBA TIBABUYES, Bogotá D.C.",
-      "id_domus": "11104-M6577568",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos/20706-M6664023",
+      "titulo": "Apartamento en Venta, Tibabuyes, Bogotá D.C.",
+      "id_domus": "20706-M6664023",
       "fechaPublicacion": null,
-      "lat": 4.7510857582092285,
-      "lon": -74.10359954833984,
+      "lat": 4.751238166,
+      "lon": -74.103686034,
       "location_type": "exacta",
       "zonaConsulta": "TIBABUYES",
       "zonaSlug": "tibabuyes",
@@ -684,33 +684,6 @@
     },
     {
       "id": "MI-26",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 345000000,
-      "area": 73.0,
-      "administracion": 290000.0,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos-1-garajes/3036-M6967318",
-      "titulo": "Apartamento en Venta, SABANA DE TIBABUYES, Bogotá D.C.",
-      "id_domus": "3036-M6967318",
-      "fechaPublicacion": null,
-      "lat": 4.751638889312744,
-      "lon": -74.09774780273438,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-27",
       "operacion": [
         "Venta"
       ],
@@ -731,6 +704,33 @@
       "fechaPublicacion": null,
       "lat": 4.752511978149414,
       "lon": -74.09854125976562,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-27",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Edificio de Apartamentos",
+      "precio": 900000000,
+      "area": 324.0,
+      "administracion": 0.0,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-edificio-de-apartamentos-bogota-tibabuyes/252-M6322664",
+      "titulo": "Edificio de Apartamentos en Venta, SUBA TIBABUYES, Bogotá D.C.",
+      "id_domus": "252-M6322664",
+      "fechaPublicacion": null,
+      "lat": 4.757172107696533,
+      "lon": -74.0989761352539,
       "location_type": "exacta",
       "zonaConsulta": "TIBABUYES",
       "zonaSlug": "tibabuyes",
@@ -769,60 +769,6 @@
         "Venta"
       ],
       "tipo": "edificio",
-      "tipoPortal": "Edificio de Apartamentos",
-      "precio": 900000000,
-      "area": 324.0,
-      "administracion": 0.0,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": null,
-      "parqueaderos": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-edificio-de-apartamentos-bogota-tibabuyes/252-M6322664",
-      "titulo": "Edificio de Apartamentos en Venta, SUBA TIBABUYES, Bogotá D.C.",
-      "id_domus": "252-M6322664",
-      "fechaPublicacion": null,
-      "lat": 4.757172107696533,
-      "lon": -74.0989761352539,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-30",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 300000000,
-      "area": 90.0,
-      "administracion": 55000.0,
-      "barrio": "NUEVA TIBABUYES",
-      "direccion": "",
-      "habitaciones": 4.0,
-      "banos": 3.0,
-      "parqueaderos": 0.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-nueva-tibabuyes-4-habitaciones-3-banos/10309-M3000506",
-      "titulo": "Casa en Venta, SUBA TIBABUYES, Bogotá D.C.",
-      "id_domus": "10309-M3000506",
-      "fechaPublicacion": null,
-      "lat": 4.732784748077393,
-      "lon": -74.10665130615234,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-31",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
       "tipoPortal": "Apartamento",
       "precio": 215000000,
       "area": 52.0,
@@ -845,7 +791,88 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-30",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 232000000,
+      "area": 46.0,
+      "administracion": 143000.0,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2.0,
+      "parqueaderos": 0.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos/14271-M6815505",
+      "titulo": "Apartamento en Venta, SUBA TIBABUYES, Bogotá D.C.",
+      "id_domus": "14271-M6815505",
+      "fechaPublicacion": null,
+      "lat": 4.750868797302246,
+      "lon": -74.10400390625,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-31",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 227000000,
+      "area": 46.0,
+      "administracion": 143616.0,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2.0,
+      "parqueaderos": 0.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos/11104-M6577568",
+      "titulo": "Apartamento en Venta, SUBA TIBABUYES, Bogotá D.C.",
+      "id_domus": "11104-M6577568",
+      "fechaPublicacion": null,
+      "lat": 4.7510857582092285,
+      "lon": -74.10359954833984,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-32",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 345000000,
+      "area": 73.0,
+      "administracion": 290000.0,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos-1-garajes/3036-M6967318",
+      "titulo": "Apartamento en Venta, SABANA DE TIBABUYES, Bogotá D.C.",
+      "id_domus": "3036-M6967318",
+      "fechaPublicacion": null,
+      "lat": 4.751638889312744,
+      "lon": -74.09774780273438,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-33",
       "operacion": [
         "Venta"
       ],
@@ -872,7 +899,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-33",
+      "id": "MI-34",
       "operacion": [
         "Venta"
       ],
@@ -899,7 +926,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-34",
+      "id": "MI-35",
       "operacion": [
         "Venta"
       ],
@@ -926,34 +953,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-35",
+      "id": "MI-36",
       "operacion": [
         "Venta"
       ],
       "tipo": "edificio",
-      "tipoPortal": "Lote",
-      "precio": 600000000,
-      "area": 145.8,
-      "administracion": 0.0,
-      "barrio": "TIBABUYES I SECTOR",
+      "tipoPortal": "Casa",
+      "precio": 300000000,
+      "area": 90.0,
+      "administracion": 55000.0,
+      "barrio": "NUEVA TIBABUYES",
       "direccion": "",
-      "habitaciones": null,
-      "banos": null,
-      "parqueaderos": null,
+      "habitaciones": 4.0,
+      "banos": 3.0,
+      "parqueaderos": 0.0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-tibabuyes-i-sector/17-M5787446",
-      "titulo": "Lote en Venta, TIBABUYES UNIVERSAL, Bogotá D.C.",
-      "id_domus": "17-M5787446",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-nueva-tibabuyes-4-habitaciones-3-banos/10309-M3000506",
+      "titulo": "Casa en Venta, SUBA TIBABUYES, Bogotá D.C.",
+      "id_domus": "10309-M3000506",
       "fechaPublicacion": null,
-      "lat": 4.74155855178833,
-      "lon": -74.09626007080078,
+      "lat": 4.732784748077393,
+      "lon": -74.10665130615234,
       "location_type": "exacta",
       "zonaConsulta": "TIBABUYES",
       "zonaSlug": "tibabuyes",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-36",
+      "id": "MI-37",
       "operacion": [
         "Venta"
       ],
@@ -980,7 +1007,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-37",
+      "id": "MI-38",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Lote",
+      "precio": 600000000,
+      "area": 145.8,
+      "administracion": 0.0,
+      "barrio": "TIBABUYES I SECTOR",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-tibabuyes-i-sector/17-M5787446",
+      "titulo": "Lote en Venta, TIBABUYES UNIVERSAL, Bogotá D.C.",
+      "id_domus": "17-M5787446",
+      "fechaPublicacion": null,
+      "lat": 4.74155855178833,
+      "lon": -74.09626007080078,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-39",
       "operacion": [
         "Venta"
       ],
@@ -1007,7 +1061,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-38",
+      "id": "MI-40",
       "operacion": [
         "Venta"
       ],
@@ -1034,7 +1088,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-39",
+      "id": "MI-41",
       "operacion": [
         "Venta"
       ],
@@ -1055,60 +1109,6 @@
       "fechaPublicacion": null,
       "lat": 4.745272,
       "lon": -74.107155,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-40",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 444000000,
-      "area": 78.0,
-      "administracion": 470000.0,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos-1-garajes/17531-M6918940",
-      "titulo": "Apartamento en Venta, SUBA, Bogotá D.C.",
-      "id_domus": "17531-M6918940",
-      "fechaPublicacion": null,
-      "lat": 4.749815464019775,
-      "lon": -74.09784698486328,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-41",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 285000000,
-      "area": 63.0,
-      "administracion": 172000.0,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": 0.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos/16305-M6931833",
-      "titulo": "Apartamento en Venta, Las Mercedes, Bogotá D.C.",
-      "id_domus": "16305-M6931833",
-      "fechaPublicacion": null,
-      "lat": 4.74909262,
-      "lon": -74.10062611,
       "location_type": "exacta",
       "zonaConsulta": "TIBABUYES",
       "zonaSlug": "tibabuyes",
@@ -1148,33 +1148,6 @@
       ],
       "tipo": "edificio",
       "tipoPortal": "Apartamento",
-      "precio": 290000000,
-      "area": 70.0,
-      "administracion": 295000.0,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos-1-garajes/17172-M6924786",
-      "titulo": "Apartamento en Venta, ALMENDROS, Bogotá D.C.",
-      "id_domus": "17172-M6924786",
-      "fechaPublicacion": null,
-      "lat": 4.751638889312744,
-      "lon": -74.09774780273438,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-44",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
       "precio": 250000000,
       "area": 48.0,
       "administracion": null,
@@ -1196,61 +1169,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-45",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 215000000,
-      "area": 53.0,
-      "administracion": null,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 1.0,
-      "parqueaderos": 1.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-1-banos-1-garajes/12095-M6754855",
-      "titulo": "Apartamento en Venta, Pinar De La Fontana, Bogotá D.C.",
-      "id_domus": "12095-M6754855",
-      "fechaPublicacion": null,
-      "lat": 4.750237,
-      "lon": -74.102476,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-46",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 385000000,
-      "area": 76.0,
-      "administracion": 248000.0,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-tibabuyes-3-habitaciones-2-banos-1-garajes/3353-M6534970",
-      "titulo": "Casa en Venta, BOSQUE DE SUBA, Bogotá D.C.",
-      "id_domus": "3353-M6534970",
-      "fechaPublicacion": null,
-      "lat": 4.752394199371338,
-      "lon": -74.0970230102539,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-47",
+      "id": "MI-44",
       "operacion": [
         "Venta"
       ],
@@ -1277,7 +1196,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-48",
+      "id": "MI-45",
       "operacion": [
         "Venta"
       ],
@@ -1304,34 +1223,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-49",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 223000000,
-      "area": 47.0,
-      "administracion": 147000.0,
-      "barrio": "TIBABUYES",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 1.0,
-      "parqueaderos": 0.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-1-banos/16305-M6931513",
-      "titulo": "Apartamento en Venta, Tuna Baja, Bogotá D.C.",
-      "id_domus": "16305-M6931513",
-      "fechaPublicacion": null,
-      "lat": 4.75599868,
-      "lon": -74.09823626,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABUYES",
-      "zonaSlug": "tibabuyes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-50",
+      "id": "MI-46",
       "operacion": [
         "Venta"
       ],
@@ -1352,6 +1244,114 @@
       "fechaPublicacion": null,
       "lat": 4.756351,
       "lon": -74.098175,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-47",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 439999000,
+      "area": 78.0,
+      "administracion": 470000.0,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos-1-garajes/17531-M6918940",
+      "titulo": "Apartamento en Venta, SUBA, Bogotá D.C.",
+      "id_domus": "17531-M6918940",
+      "fechaPublicacion": null,
+      "lat": 4.749815464019775,
+      "lon": -74.09784698486328,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-48",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 285000000,
+      "area": 63.0,
+      "administracion": 172000.0,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2.0,
+      "parqueaderos": 0.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos/16305-M6931833",
+      "titulo": "Apartamento en Venta, Las Mercedes, Bogotá D.C.",
+      "id_domus": "16305-M6931833",
+      "fechaPublicacion": null,
+      "lat": 4.74909262,
+      "lon": -74.10062611,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-49",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 245000000,
+      "area": 46.0,
+      "administracion": 245000.0,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-tibabuyes-3-habitaciones-2-banos-1-garajes/512-M6138386",
+      "titulo": "Apartamento en Venta, LOS ALMENDROS DE SUBA, Bogotá D.C.",
+      "id_domus": "512-M6138386",
+      "fechaPublicacion": null,
+      "lat": 4.75280237197876,
+      "lon": -74.09423065185547,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABUYES",
+      "zonaSlug": "tibabuyes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-50",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 340000000,
+      "area": 80.0,
+      "administracion": 0.0,
+      "barrio": "TIBABUYES",
+      "direccion": "",
+      "habitaciones": 5.0,
+      "banos": 4.0,
+      "parqueaderos": 0.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-tibabuyes-5-habitaciones-4-banos/3888-M5027723",
+      "titulo": "Casa en Venta, SUBA LOMBARDIA, Bogotá D.C.",
+      "id_domus": "3888-M5027723",
+      "fechaPublicacion": null,
+      "lat": 4.750783443450928,
+      "lon": -74.10142517089844,
       "location_type": "exacta",
       "zonaConsulta": "TIBABUYES",
       "zonaSlug": "tibabuyes",

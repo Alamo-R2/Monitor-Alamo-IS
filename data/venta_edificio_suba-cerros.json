@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "edificio",
-  "generado": "2026.AGO.31 14:41",
+  "generado": "2026.SEP.02 12:02",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -70,6 +70,33 @@
       "tipoPortal": "Casa",
       "precio": 1600000000,
       "area": 211.6,
+      "administracion": 2500000.0,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 5,
+      "parqueaderos": 3,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-3-habitaciones-5-banos-3-garajes/2671-M6163929",
+      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2671-M6163929",
+      "fechaPublicacion": null,
+      "lat": 4.731802,
+      "lon": -74.076486,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 1600000000,
+      "area": 211.6,
       "administracion": null,
       "barrio": "CERROS DE SUBA",
       "direccion": "",
@@ -89,7 +116,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -116,7 +143,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -143,7 +170,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -170,54 +197,27 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 1290000000,
-      "area": 282.0,
-      "administracion": 890000.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 3,
-      "parqueaderos": 3,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-3-habitaciones-3-banos-3-garajes/2412-M5323594",
-      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2412-M5323594",
-      "fechaPublicacion": null,
-      "lat": 4.7345613,
-      "lon": -74.0753579,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-8",
       "operacion": [
         "Venta"
       ],
       "tipo": "edificio",
       "tipoPortal": "Apartamento",
-      "precio": 1400000000,
-      "area": 310.0,
-      "administracion": 1600000.0,
+      "precio": 2500000000,
+      "area": 453.93,
+      "administracion": 1900000.0,
       "barrio": "CERROS DE SUBA",
       "direccion": "",
-      "habitaciones": 4.0,
+      "habitaciones": 3.0,
       "banos": 5,
-      "parqueaderos": 3,
+      "parqueaderos": 4,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-4-habitaciones-5-banos-3-garajes/20234-M6211322",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-3-habitaciones-5-banos-4-garajes/18758-M6013979",
       "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "20234-M6211322",
+      "id_domus": "18758-M6013979",
       "fechaPublicacion": null,
-      "lat": 4.7376311,
-      "lon": -74.0765166,
+      "lat": 4.72225,
+      "lon": -74.07523,
       "location_type": "exacta",
       "zonaConsulta": "SUBA CERROS",
       "zonaSlug": "suba-cerros",
@@ -225,168 +225,6 @@
     },
     {
       "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 1650000000,
-      "area": 222.18,
-      "administracion": 1800000.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 4.0,
-      "banos": 4,
-      "parqueaderos": 4,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-4-habitaciones-4-banos-4-garajes/2671-M5793062",
-      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2671-M5793062",
-      "fechaPublicacion": null,
-      "lat": 4.745122,
-      "lon": -74.071841,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 2800000000,
-      "area": 392.93,
-      "administracion": 1750000.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 4.0,
-      "banos": 5,
-      "parqueaderos": 4,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-4-habitaciones-5-banos-4-garajes/2671-M5792970",
-      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2671-M5792970",
-      "fechaPublicacion": null,
-      "lat": 4.737631,
-      "lon": -74.076517,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 1330000000,
-      "area": 198.62,
-      "administracion": 1101000.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 3,
-      "parqueaderos": 2,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-3-habitaciones-3-banos-2-garajes/2671-M5793888",
-      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2671-M5793888",
-      "fechaPublicacion": null,
-      "lat": 4.73167,
-      "lon": -74.07421,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 2000000000,
-      "area": 182.72,
-      "administracion": 1743600.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 3,
-      "parqueaderos": 3,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-3-habitaciones-3-banos-3-garajes/2671-M6883927",
-      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2671-M6883927",
-      "fechaPublicacion": null,
-      "lat": 4.723251,
-      "lon": -74.078718,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 2700000000,
-      "area": 288.0,
-      "administracion": 1450000.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 4.0,
-      "banos": 5,
-      "parqueaderos": 4,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-4-habitaciones-5-banos-4-garajes/359-M6207547",
-      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "359-M6207547",
-      "fechaPublicacion": null,
-      "lat": 4.7376311,
-      "lon": -74.0765166,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 1650000000,
-      "area": 310.94,
-      "administracion": 792000.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 5,
-      "parqueaderos": 3,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-3-habitaciones-5-banos-3-garajes/2671-M5793549",
-      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2671-M5793549",
-      "fechaPublicacion": null,
-      "lat": 4.73944,
-      "lon": -74.07565,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -413,27 +251,189 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000000,
+      "area": 310.0,
+      "administracion": 1600000.0,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 4.0,
+      "banos": 5,
+      "parqueaderos": 3,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-4-habitaciones-5-banos-3-garajes/20234-M6211322",
+      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "20234-M6211322",
+      "fechaPublicacion": null,
+      "lat": 4.7376311,
+      "lon": -74.0765166,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 1650000000,
+      "area": 222.18,
+      "administracion": 1800000.0,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 4.0,
+      "banos": 4,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-4-habitaciones-4-banos-4-garajes/2671-M5793062",
+      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2671-M5793062",
+      "fechaPublicacion": null,
+      "lat": 4.745122,
+      "lon": -74.071841,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
       "tipo": "edificio",
       "tipoPortal": "Casa",
-      "precio": 5000000000,
-      "area": 736.77,
-      "administracion": 3733200.0,
+      "precio": 1290000000,
+      "area": 282.0,
+      "administracion": 890000.0,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 3,
+      "parqueaderos": 3,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-3-habitaciones-3-banos-3-garajes/2412-M5323594",
+      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2412-M5323594",
+      "fechaPublicacion": null,
+      "lat": 4.7345613,
+      "lon": -74.0753579,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 2800000000,
+      "area": 392.93,
+      "administracion": 1750000.0,
       "barrio": "CERROS DE SUBA",
       "direccion": "",
       "habitaciones": 4.0,
       "banos": 5,
       "parqueaderos": 4,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-4-habitaciones-5-banos-4-garajes/2671-M5792961",
-      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2671-M5792961",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-4-habitaciones-5-banos-4-garajes/2671-M5792970",
+      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2671-M5792970",
       "fechaPublicacion": null,
-      "lat": 4.724028,
-      "lon": -74.080113,
+      "lat": 4.737631,
+      "lon": -74.076517,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 1330000000,
+      "area": 198.62,
+      "administracion": 1101000.0,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 3,
+      "parqueaderos": 2,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-3-habitaciones-3-banos-2-garajes/2671-M5793888",
+      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2671-M5793888",
+      "fechaPublicacion": null,
+      "lat": 4.73167,
+      "lon": -74.07421,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 2700000000,
+      "area": 288.0,
+      "administracion": 1450000.0,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 4.0,
+      "banos": 5,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-4-habitaciones-5-banos-4-garajes/359-M6207547",
+      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "359-M6207547",
+      "fechaPublicacion": null,
+      "lat": 4.7376311,
+      "lon": -74.0765166,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 1650000000,
+      "area": 310.94,
+      "administracion": 792000.0,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 5,
+      "parqueaderos": 3,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-3-habitaciones-5-banos-3-garajes/2671-M5793549",
+      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2671-M5793549",
+      "fechaPublicacion": null,
+      "lat": 4.73944,
+      "lon": -74.07565,
       "location_type": "exacta",
       "zonaConsulta": "SUBA CERROS",
       "zonaSlug": "suba-cerros",
@@ -441,33 +441,6 @@
     },
     {
       "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 1290000000,
-      "area": 166.7,
-      "administracion": 750000.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 4.0,
-      "banos": 4,
-      "parqueaderos": 2,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-4-habitaciones-4-banos-2-garajes/304-M3480148",
-      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "304-M3480148",
-      "fechaPublicacion": null,
-      "lat": 4.7155,
-      "lon": -74.07979,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -494,142 +467,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
       "tipo": "edificio",
       "tipoPortal": "Casa",
       "precio": 5000000000,
-      "area": 363.33,
-      "administracion": 399000.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 5.0,
-      "banos": 5,
-      "parqueaderos": 4,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-5-habitaciones-5-banos-4-garajes/2671-M6758957",
-      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2671-M6758957",
-      "fechaPublicacion": null,
-      "lat": 4.73275,
-      "lon": -74.07881,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 1260000000,
-      "area": 265.0,
-      "administracion": 1216000.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 4.0,
-      "banos": 4,
-      "parqueaderos": 2,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-4-habitaciones-4-banos-2-garajes/2671-M5793376",
-      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2671-M5793376",
-      "fechaPublicacion": null,
-      "lat": 4.719063,
-      "lon": -74.076118,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 2825895123,
-      "area": 238.0,
-      "administracion": null,
+      "area": 736.77,
+      "administracion": 3733200.0,
       "barrio": "CERROS DE SUBA",
       "direccion": "",
       "habitaciones": 4.0,
       "banos": 5,
-      "parqueaderos": 2,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-4-habitaciones-5-banos-2-garajes/2671-M6136586",
-      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2671-M6136586",
-      "fechaPublicacion": null,
-      "lat": 4.721707,
-      "lon": -74.076375,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-22",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 2300000000,
-      "area": 321.51,
-      "administracion": 2041000.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 4,
-      "parqueaderos": 2,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-3-habitaciones-4-banos-2-garajes/2671-M6466604",
-      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2671-M6466604",
-      "fechaPublicacion": null,
-      "lat": 4.729268,
-      "lon": -74.073453,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-23",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 2400000000,
-      "area": 275.0,
-      "administracion": 1870700.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 5,
       "parqueaderos": 4,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-3-habitaciones-5-banos-4-garajes/2266-M5618933",
-      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2266-M5618933",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-4-habitaciones-5-banos-4-garajes/2671-M5792961",
+      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2671-M5792961",
       "fechaPublicacion": null,
-      "lat": 4.7245935,
-      "lon": -74.0777563,
+      "lat": 4.724028,
+      "lon": -74.080113,
       "location_type": "exacta",
       "zonaConsulta": "SUBA CERROS",
       "zonaSlug": "suba-cerros",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-24",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -637,53 +502,26 @@
       "tipoPortal": "Apartamento",
       "precio": 2950000000,
       "area": 487.0,
-      "administracion": 2200000.0,
+      "administracion": 1900000.0,
       "barrio": "CERROS DE SUBA",
       "direccion": "",
       "habitaciones": 4.0,
-      "banos": 5,
-      "parqueaderos": 4,
+      "banos": 4,
+      "parqueaderos": 0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-4-habitaciones-5-banos-4-garajes/2412-M4976436",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-4-habitaciones-4-banos/2214-M5094089",
       "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2412-M4976436",
+      "id_domus": "2214-M5094089",
       "fechaPublicacion": null,
-      "lat": 4.7176824,
-      "lon": -74.0779653,
+      "lat": 4.717857,
+      "lon": -74.080414,
       "location_type": "exacta",
       "zonaConsulta": "SUBA CERROS",
       "zonaSlug": "suba-cerros",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-25",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 1099000000,
-      "area": 302.37,
-      "administracion": 1106000.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 4.0,
-      "banos": 5,
-      "parqueaderos": 2,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-4-habitaciones-5-banos-2-garajes/2671-M5793004",
-      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2671-M5793004",
-      "fechaPublicacion": null,
-      "lat": 4.735158,
-      "lon": -74.076949,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-26",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -710,7 +548,223 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 5000000000,
+      "area": 363.33,
+      "administracion": 399000.0,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 5.0,
+      "banos": 5,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-5-habitaciones-5-banos-4-garajes/2671-M6758957",
+      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2671-M6758957",
+      "fechaPublicacion": null,
+      "lat": 4.73275,
+      "lon": -74.07881,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-22",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 1260000000,
+      "area": 265.0,
+      "administracion": 1216000.0,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 4.0,
+      "banos": 4,
+      "parqueaderos": 2,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-4-habitaciones-4-banos-2-garajes/2671-M5793376",
+      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2671-M5793376",
+      "fechaPublicacion": null,
+      "lat": 4.719063,
+      "lon": -74.076118,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-23",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 2825895123,
+      "area": 238.0,
+      "administracion": null,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 4.0,
+      "banos": 5,
+      "parqueaderos": 2,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-4-habitaciones-5-banos-2-garajes/2671-M6136586",
+      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2671-M6136586",
+      "fechaPublicacion": null,
+      "lat": 4.721707,
+      "lon": -74.076375,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-24",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000000,
+      "area": 182.72,
+      "administracion": 1743600.0,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 3,
+      "parqueaderos": 3,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-3-habitaciones-3-banos-3-garajes/2671-M6883927",
+      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2671-M6883927",
+      "fechaPublicacion": null,
+      "lat": 4.723251,
+      "lon": -74.078718,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-25",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 2300000000,
+      "area": 321.51,
+      "administracion": 2041000.0,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 4,
+      "parqueaderos": 2,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-3-habitaciones-4-banos-2-garajes/2671-M6466604",
+      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2671-M6466604",
+      "fechaPublicacion": null,
+      "lat": 4.729268,
+      "lon": -74.073453,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-26",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 2400000000,
+      "area": 275.0,
+      "administracion": 1870700.0,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 5,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-3-habitaciones-5-banos-4-garajes/2266-M5618933",
+      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2266-M5618933",
+      "fechaPublicacion": null,
+      "lat": 4.7245935,
+      "lon": -74.0777563,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-27",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 1099000000,
+      "area": 302.37,
+      "administracion": 1106000.0,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 4.0,
+      "banos": 5,
+      "parqueaderos": 2,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-4-habitaciones-5-banos-2-garajes/2671-M5793004",
+      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2671-M5793004",
+      "fechaPublicacion": null,
+      "lat": 4.735158,
+      "lon": -74.076949,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-28",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 2950000000,
+      "area": 487.0,
+      "administracion": 2200000.0,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 4.0,
+      "banos": 5,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-4-habitaciones-5-banos-4-garajes/2412-M4976436",
+      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2412-M4976436",
+      "fechaPublicacion": null,
+      "lat": 4.7176824,
+      "lon": -74.0779653,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-29",
       "operacion": [
         "Venta"
       ],
@@ -737,7 +791,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-28",
+      "id": "MI-30",
       "operacion": [
         "Venta"
       ],
@@ -764,34 +818,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-29",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 1600000000,
-      "area": 211.6,
-      "administracion": 2500000.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 5,
-      "parqueaderos": 3,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-3-habitaciones-5-banos-3-garajes/2671-M6163929",
-      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2671-M6163929",
-      "fechaPublicacion": null,
-      "lat": 4.731802,
-      "lon": -74.076486,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-30",
+      "id": "MI-31",
       "operacion": [
         "Venta"
       ],
@@ -812,33 +839,6 @@
       "fechaPublicacion": null,
       "lat": 4.73098,
       "lon": -74.0830622,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-31",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 2500000000,
-      "area": 453.93,
-      "administracion": 1900000.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 5,
-      "parqueaderos": 4,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-3-habitaciones-5-banos-4-garajes/18758-M6013979",
-      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "18758-M6013979",
-      "fechaPublicacion": null,
-      "lat": 4.72225,
-      "lon": -74.07523,
       "location_type": "exacta",
       "zonaConsulta": "SUBA CERROS",
       "zonaSlug": "suba-cerros",
@@ -932,33 +932,6 @@
       ],
       "tipo": "edificio",
       "tipoPortal": "Apartamento",
-      "precio": 2950000000,
-      "area": 487.0,
-      "administracion": 1900000.0,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": 4.0,
-      "banos": 4,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cerros-de-suba-4-habitaciones-4-banos/2214-M5094089",
-      "titulo": "Apartamento en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2214-M5094089",
-      "fechaPublicacion": null,
-      "lat": 4.717857,
-      "lon": -74.080414,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-36",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
       "precio": 1450000000,
       "area": 224.42,
       "administracion": 1535000.0,
@@ -980,7 +953,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-37",
+      "id": "MI-36",
       "operacion": [
         "Venta"
       ],
@@ -1007,7 +980,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-38",
+      "id": "MI-37",
       "operacion": [
         "Venta"
       ],
@@ -1034,7 +1007,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-39",
+      "id": "MI-38",
       "operacion": [
         "Venta"
       ],
@@ -1061,7 +1034,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-40",
+      "id": "MI-39",
       "operacion": [
         "Venta"
       ],
@@ -1088,7 +1061,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-41",
+      "id": "MI-40",
       "operacion": [
         "Venta"
       ],
@@ -1115,7 +1088,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-42",
+      "id": "MI-41",
       "operacion": [
         "Venta"
       ],
@@ -1142,7 +1115,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-43",
+      "id": "MI-42",
       "operacion": [
         "Venta"
       ],
@@ -1169,7 +1142,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-44",
+      "id": "MI-43",
       "operacion": [
         "Venta"
       ],
@@ -1196,7 +1169,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-45",
+      "id": "MI-44",
       "operacion": [
         "Venta"
       ],
@@ -1223,7 +1196,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-46",
+      "id": "MI-45",
       "operacion": [
         "Venta"
       ],
@@ -1250,7 +1223,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-47",
+      "id": "MI-46",
       "operacion": [
         "Venta"
       ],
@@ -1277,7 +1250,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-48",
+      "id": "MI-47",
       "operacion": [
         "Venta"
       ],
@@ -1304,7 +1277,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-49",
+      "id": "MI-48",
       "operacion": [
         "Venta"
       ],
@@ -1331,7 +1304,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-50",
+      "id": "MI-49",
       "operacion": [
         "Venta"
       ],
@@ -1352,6 +1325,33 @@
       "fechaPublicacion": null,
       "lat": 4.7327943,
       "lon": -74.0761799,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-50",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 1650000000,
+      "area": 198.08,
+      "administracion": 1674000.0,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 4,
+      "parqueaderos": 3,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-cerros-de-suba-3-habitaciones-4-banos-3-garajes/2671-M5792475",
+      "titulo": "Casa en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2671-M5792475",
+      "fechaPublicacion": null,
+      "lat": 4.74289,
+      "lon": -74.07466,
       "location_type": "exacta",
       "zonaConsulta": "SUBA CERROS",
       "zonaSlug": "suba-cerros",

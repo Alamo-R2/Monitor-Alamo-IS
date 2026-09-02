@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "SAN CAYETANO",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "lote",
+  "generado": "2026.SEP.02 12:02",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 863415000,
+      "area": 191.87,
+      "administracion": 0.0,
+      "barrio": "SAN FERNANDO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-san-fernando/3553-M5752343",
+      "titulo": "Lote en Venta, SAN FERNANDO, Bogotá D.C.",
+      "id_domus": "3553-M5752343",
+      "fechaPublicacion": null,
+      "lat": 4.674388885498047,
+      "lon": -74.07733154296875,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN CAYETANO",
+      "zonaSlug": "san-cayetano",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 1500000000,
+      "area": 380.0,
+      "administracion": 100000.0,
+      "barrio": "SAN FERNANDO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-san-fernando/2699-M5864075",
+      "titulo": "Lote en Venta, SAN FERNANDO, Bogotá D.C.",
+      "id_domus": "2699-M5864075",
+      "fechaPublicacion": null,
+      "lat": 4.669369220733643,
+      "lon": -74.08001708984375,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN CAYETANO",
+      "zonaSlug": "san-cayetano",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 540000000,
+      "area": 50.0,
+      "administracion": null,
+      "barrio": "SAN FERNANDO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-san-fernando/3222-M6049005",
+      "titulo": "Lote en Venta, San Fernando, Bogotá D.C.",
+      "id_domus": "3222-M6049005",
+      "fechaPublicacion": null,
+      "lat": 4.6698,
+      "lon": -74.07828,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN CAYETANO",
+      "zonaSlug": "san-cayetano",
+      "origenZona": "barrio"
+    }
+  ]
+}

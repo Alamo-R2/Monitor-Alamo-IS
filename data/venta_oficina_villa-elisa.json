@@ -5,37 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "oficina",
-  "generado": "2026.AGO.31 14:58",
+  "generado": "2026.SEP.02 12:02",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "oficina",
-      "tipoPortal": "Oficina",
-      "precio": 1550000000,
-      "area": 369.0,
-      "administracion": 0.0,
-      "barrio": "VILLA LUZ",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 5,
-      "parqueaderos": 3,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-villa-luz-5-banos-3-garajes/5255-M5857888",
-      "titulo": "Oficina en Venta, VILLA LUZ, Bogotá D.C.",
-      "id_domus": "5255-M5857888",
-      "fechaPublicacion": null,
-      "lat": 4.68513822555542,
-      "lon": -74.1097183227539,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA ELISA",
-      "zonaSlug": "villa-elisa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -56,6 +29,33 @@
       "fechaPublicacion": null,
       "lat": 4.68381,
       "lon": -74.11107,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ELISA",
+      "zonaSlug": "villa-elisa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 1550000000,
+      "area": 369.0,
+      "administracion": 0.0,
+      "barrio": "VILLA LUZ",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 5,
+      "parqueaderos": 3,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-villa-luz-5-banos-3-garajes/5255-M5857888",
+      "titulo": "Oficina en Venta, VILLA LUZ, Bogotá D.C.",
+      "id_domus": "5255-M5857888",
+      "fechaPublicacion": null,
+      "lat": 4.68513822555542,
+      "lon": -74.1097183227539,
       "location_type": "exacta",
       "zonaConsulta": "VILLA ELISA",
       "zonaSlug": "villa-elisa",
