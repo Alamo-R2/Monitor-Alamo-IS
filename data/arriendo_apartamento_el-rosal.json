@@ -5,10 +5,37 @@
   "origen": "municipio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.AGO.30 15:32",
+  "generado": "2026.SEP.02 22:08",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1500000,
+      "area": 90.0,
+      "administracion": 334000,
+      "barrio": "EL ROSAL",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-cucuta-el-rosal-2-habitaciones-3-banos-1-garajes/16478-M6105901",
+      "titulo": "Apartamento en Arriendo, El rosal, Cúcuta",
+      "id_domus": "16478-M6105901",
+      "fechaPublicacion": null,
+      "lat": 7.873325824737549,
+      "lon": -72.49993896484375,
+      "location_type": "exacta",
+      "zonaConsulta": "El Rosal",
+      "zonaSlug": "el-rosal",
+      "origenZona": "municipio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -35,7 +62,7 @@
       "origenZona": "municipio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -56,33 +83,6 @@
       "fechaPublicacion": null,
       "lat": 7.87321662902832,
       "lon": -72.49986267089844,
-      "location_type": "exacta",
-      "zonaConsulta": "El Rosal",
-      "zonaSlug": "el-rosal",
-      "origenZona": "municipio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1500000,
-      "area": 90.0,
-      "administracion": 334000,
-      "barrio": "EL ROSAL",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 1,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-cucuta-el-rosal-2-habitaciones-3-banos-1-garajes/16478-M6105901",
-      "titulo": "Apartamento en Arriendo, El rosal, Cúcuta",
-      "id_domus": "16478-M6105901",
-      "fechaPublicacion": null,
-      "lat": 7.873325824737549,
-      "lon": -72.49993896484375,
       "location_type": "exacta",
       "zonaConsulta": "El Rosal",
       "zonaSlug": "el-rosal",
