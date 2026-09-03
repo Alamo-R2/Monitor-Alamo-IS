@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "edificio",
-  "generado": "2026.AGO.29 23:46",
+  "generado": "2026.SEP.03 12:01",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -68,6 +68,33 @@
       ],
       "tipo": "edificio",
       "tipoPortal": "Apartamento",
+      "precio": 1050000000,
+      "area": 238.0,
+      "administracion": 1138000.0,
+      "barrio": "CHICO NORTE III SECTOR",
+      "direccion": "",
+      "habitaciones": 4.0,
+      "banos": 3.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-iii-sector-4-habitaciones-3-banos-2-garajes/847-M6003510",
+      "titulo": "Apartamento en Venta, Chico Norte Iii Sector, Bogotá D.C.",
+      "id_domus": "847-M6003510",
+      "fechaPublicacion": null,
+      "lat": 4.683335,
+      "lon": -74.05382,
+      "location_type": "exacta",
+      "zonaConsulta": "CHICO NORTE III SECTOR",
+      "zonaSlug": "chico-norte-iii-sector",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
       "precio": 1300000000,
       "area": 213.0,
       "administracion": 1833000.0,
@@ -89,7 +116,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -116,61 +143,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 1050000000,
-      "area": 238.0,
-      "administracion": 1138000.0,
-      "barrio": "CHICO NORTE III SECTOR",
-      "direccion": "",
-      "habitaciones": 4.0,
-      "banos": 3.0,
-      "parqueaderos": 2.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-iii-sector-4-habitaciones-3-banos-2-garajes/847-M6003510",
-      "titulo": "Apartamento en Venta, Chico Norte Iii Sector, Bogotá D.C.",
-      "id_domus": "847-M6003510",
-      "fechaPublicacion": null,
-      "lat": 4.683335,
-      "lon": -74.05382,
-      "location_type": "exacta",
-      "zonaConsulta": "CHICO NORTE III SECTOR",
-      "zonaSlug": "chico-norte-iii-sector",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000000,
-      "area": 168.0,
-      "administracion": 850000.0,
-      "barrio": "CHICO NORTE III SECTOR",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": 2.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-iii-sector-3-habitaciones-2-banos-2-garajes/847-M6362123",
-      "titulo": "Apartamento en Venta, Chico Norte Iii Sector, Bogotá D.C.",
-      "id_domus": "847-M6362123",
-      "fechaPublicacion": null,
-      "lat": 4.681448,
-      "lon": -74.051347,
-      "location_type": "exacta",
-      "zonaConsulta": "CHICO NORTE III SECTOR",
-      "zonaSlug": "chico-norte-iii-sector",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -197,7 +170,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -224,7 +197,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -251,7 +224,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -278,7 +251,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -305,7 +278,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -332,7 +305,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -359,7 +332,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -386,7 +359,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -413,7 +386,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -440,7 +413,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -467,7 +440,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -494,7 +467,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -521,7 +494,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -548,7 +521,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -575,7 +548,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-22",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -602,7 +575,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-23",
+      "id": "MI-22",
       "operacion": [
         "Venta"
       ],
@@ -623,6 +596,33 @@
       "fechaPublicacion": null,
       "lat": 4.683091163635254,
       "lon": -74.0489501953125,
+      "location_type": "exacta",
+      "zonaConsulta": "CHICO NORTE III SECTOR",
+      "zonaSlug": "chico-norte-iii-sector",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-23",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Oficina",
+      "precio": 4892215000,
+      "area": 514.97,
+      "administracion": 6694610.0,
+      "barrio": "CHICO NORTE ET  III",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2.0,
+      "parqueaderos": 4.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-chico-norte-et.-iii-2-banos-4-garajes/848-M4626735",
+      "titulo": "Oficina en Venta, CHICO NORTE III SECTOR, Bogotá D.C.",
+      "id_domus": "848-M4626735",
+      "fechaPublicacion": null,
+      "lat": 4.685507297515869,
+      "lon": -74.05536651611328,
       "location_type": "exacta",
       "zonaConsulta": "CHICO NORTE III SECTOR",
       "zonaSlug": "chico-norte-iii-sector",
@@ -688,22 +688,22 @@
         "Venta"
       ],
       "tipo": "edificio",
-      "tipoPortal": "Oficina",
-      "precio": 4892215000,
-      "area": 514.97,
-      "administracion": 6694610.0,
-      "barrio": "CHICO NORTE ET  III",
+      "tipoPortal": "Apartamento",
+      "precio": 1547100000,
+      "area": 184.0,
+      "administracion": 1713927.0,
+      "barrio": "CHICO NORTE ET III",
       "direccion": "",
-      "habitaciones": null,
-      "banos": 2.0,
-      "parqueaderos": 4.0,
+      "habitaciones": 4.0,
+      "banos": 4.0,
+      "parqueaderos": 3.0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-chico-norte-et.-iii-2-banos-4-garajes/848-M4626735",
-      "titulo": "Oficina en Venta, CHICO NORTE III SECTOR, Bogotá D.C.",
-      "id_domus": "848-M4626735",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-et-iii-4-habitaciones-4-banos-3-garajes/11104-M6477538",
+      "titulo": "Apartamento en Venta, CHICO NORTE III SECTOR, Bogotá D.C.",
+      "id_domus": "11104-M6477538",
       "fechaPublicacion": null,
-      "lat": 4.685507297515869,
-      "lon": -74.05536651611328,
+      "lat": 4.681876182556152,
+      "lon": -74.05757904052734,
       "location_type": "exacta",
       "zonaConsulta": "CHICO NORTE III SECTOR",
       "zonaSlug": "chico-norte-iii-sector",
@@ -743,33 +743,6 @@
       ],
       "tipo": "edificio",
       "tipoPortal": "Apartamento",
-      "precio": 550000000,
-      "area": 50.0,
-      "administracion": 600000.0,
-      "barrio": "CHICO NORTE ET  III",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1.0,
-      "parqueaderos": 1.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-et.-iii-1-habitaciones-1-banos-1-garajes/2993-M4289308",
-      "titulo": "Apartamento en Venta, CHICO NORTE III SECTOR, Bogotá D.C.",
-      "id_domus": "2993-M4289308",
-      "fechaPublicacion": null,
-      "lat": 4.6845831871032715,
-      "lon": -74.0550537109375,
-      "location_type": "exacta",
-      "zonaConsulta": "CHICO NORTE III SECTOR",
-      "zonaSlug": "chico-norte-iii-sector",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-29",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
       "precio": 1547000000,
       "area": 183.0,
       "administracion": 1700000.0,
@@ -791,34 +764,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-30",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 1547100000,
-      "area": 184.0,
-      "administracion": 1713927.0,
-      "barrio": "CHICO NORTE ET III",
-      "direccion": "",
-      "habitaciones": 4.0,
-      "banos": 4.0,
-      "parqueaderos": 3.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-et-iii-4-habitaciones-4-banos-3-garajes/11104-M6477538",
-      "titulo": "Apartamento en Venta, CHICO NORTE III SECTOR, Bogotá D.C.",
-      "id_domus": "11104-M6477538",
-      "fechaPublicacion": null,
-      "lat": 4.681876182556152,
-      "lon": -74.05757904052734,
-      "location_type": "exacta",
-      "zonaConsulta": "CHICO NORTE III SECTOR",
-      "zonaSlug": "chico-norte-iii-sector",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-31",
+      "id": "MI-29",
       "operacion": [
         "Venta"
       ],
@@ -845,7 +791,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-32",
+      "id": "MI-30",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 550000000,
+      "area": 50.0,
+      "administracion": 600000.0,
+      "barrio": "CHICO NORTE ET  III",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1.0,
+      "parqueaderos": 1.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-chico-norte-et.-iii-1-habitaciones-1-banos-1-garajes/2993-M4289308",
+      "titulo": "Apartamento en Venta, CHICO NORTE III SECTOR, Bogotá D.C.",
+      "id_domus": "2993-M4289308",
+      "fechaPublicacion": null,
+      "lat": 4.6845831871032715,
+      "lon": -74.0550537109375,
+      "location_type": "exacta",
+      "zonaConsulta": "CHICO NORTE III SECTOR",
+      "zonaSlug": "chico-norte-iii-sector",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-31",
       "operacion": [
         "Venta"
       ],
@@ -872,7 +845,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-33",
+      "id": "MI-32",
       "operacion": [
         "Venta"
       ],
@@ -899,7 +872,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-34",
+      "id": "MI-33",
       "operacion": [
         "Venta"
       ],
@@ -926,7 +899,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-35",
+      "id": "MI-34",
       "operacion": [
         "Venta"
       ],
@@ -953,7 +926,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-36",
+      "id": "MI-35",
       "operacion": [
         "Venta"
       ],
@@ -980,7 +953,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-37",
+      "id": "MI-36",
       "operacion": [
         "Venta"
       ],
@@ -1007,7 +980,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-38",
+      "id": "MI-37",
       "operacion": [
         "Venta"
       ],
@@ -1034,7 +1007,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-39",
+      "id": "MI-38",
       "operacion": [
         "Venta"
       ],
@@ -1061,7 +1034,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-40",
+      "id": "MI-39",
       "operacion": [
         "Venta"
       ],
@@ -1088,7 +1061,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-41",
+      "id": "MI-40",
       "operacion": [
         "Venta"
       ],
@@ -1115,7 +1088,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-42",
+      "id": "MI-41",
       "operacion": [
         "Venta"
       ],
@@ -1142,7 +1115,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-43",
+      "id": "MI-42",
       "operacion": [
         "Venta"
       ],
@@ -1169,7 +1142,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-44",
+      "id": "MI-43",
       "operacion": [
         "Venta"
       ],
@@ -1196,7 +1169,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-45",
+      "id": "MI-44",
       "operacion": [
         "Venta"
       ],
@@ -1223,7 +1196,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-46",
+      "id": "MI-45",
       "operacion": [
         "Venta"
       ],
@@ -1250,7 +1223,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-47",
+      "id": "MI-46",
       "operacion": [
         "Venta"
       ],
@@ -1277,7 +1250,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-48",
+      "id": "MI-47",
       "operacion": [
         "Venta"
       ],
@@ -1304,7 +1277,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-49",
+      "id": "MI-48",
       "operacion": [
         "Venta"
       ],
@@ -1331,27 +1304,54 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-49",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 450000000,
+      "area": 300.0,
+      "administracion": 650000.0,
+      "barrio": "UB LOS PRADOS",
+      "direccion": "",
+      "habitaciones": 5.0,
+      "banos": 4.0,
+      "parqueaderos": 3.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-girardot-ub-los-prados-5-habitaciones-4-banos-3-garajes/10843-M7012288",
+      "titulo": "Casa en Venta, VILLA MARIA CONDOMINIO VIA  A TOCAIMA CUNDINAMARCA, Girardot",
+      "id_domus": "10843-M7012288",
+      "fechaPublicacion": null,
+      "lat": 4.3468852043151855,
+      "lon": -74.80160522460938,
+      "location_type": "exacta",
+      "zonaConsulta": "CHICO NORTE III SECTOR",
+      "zonaSlug": "chico-norte-iii-sector",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-50",
       "operacion": [
         "Venta"
       ],
       "tipo": "edificio",
       "tipoPortal": "Apartamento",
-      "precio": 5450000000,
-      "area": 420.0,
-      "administracion": 3194770.0,
-      "barrio": "LOS BALSOS NO  1",
+      "precio": 2980000000,
+      "area": 275.0,
+      "administracion": 1995000.0,
+      "barrio": "CJR BOSQUE VERDE",
       "direccion": "",
       "habitaciones": 4.0,
       "banos": 5.0,
       "parqueaderos": 4.0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-medellin-los-balsos-no.-1-4-habitaciones-5-banos-4-garajes/17556-M6976522",
-      "titulo": "Apartamento en Venta, Poblado El Tesoro, Medellín",
-      "id_domus": "17556-M6976522",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cjr-bosque-verde-4-habitaciones-5-banos-4-garajes/18378-M5718575",
+      "titulo": "Apartamento en Venta, COLINAS DE SUBA, Bogotá D.C.",
+      "id_domus": "18378-M5718575",
       "fechaPublicacion": null,
-      "lat": 6.19009442,
-      "lon": -75.55580636,
+      "lat": 4.723640441894531,
+      "lon": -74.07886505126953,
       "location_type": "exacta",
       "zonaConsulta": "CHICO NORTE III SECTOR",
       "zonaSlug": "chico-norte-iii-sector",

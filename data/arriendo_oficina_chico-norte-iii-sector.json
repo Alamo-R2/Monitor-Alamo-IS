@@ -5,10 +5,37 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "oficina",
-  "generado": "2026.AGO.29 23:46",
+  "generado": "2026.SEP.03 12:01",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 15800000,
+      "area": 96.0,
+      "administracion": 1600000,
+      "barrio": "CHICO NORTE ET III",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2,
+      "parqueaderos": 2,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-chico-norte-et-iii-2-banos-2-garajes/5545-M6519832",
+      "titulo": "Oficina en Arriendo, CHICO NORTE III SECTOR CHICO, Bogotá D.C.",
+      "id_domus": "5545-M6519832",
+      "fechaPublicacion": null,
+      "lat": 4.683231353759766,
+      "lon": -74.05230712890625,
+      "location_type": "exacta",
+      "zonaConsulta": "CHICO NORTE III SECTOR",
+      "zonaSlug": "chico-norte-iii-sector",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -35,7 +62,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -56,33 +83,6 @@
       "fechaPublicacion": null,
       "lat": 4.681838512420654,
       "lon": -74.04562377929688,
-      "location_type": "exacta",
-      "zonaConsulta": "CHICO NORTE III SECTOR",
-      "zonaSlug": "chico-norte-iii-sector",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "oficina",
-      "tipoPortal": "Oficina",
-      "precio": 15800000,
-      "area": 96.0,
-      "administracion": 1600000,
-      "barrio": "CHICO NORTE ET III",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 2,
-      "parqueaderos": 2,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-chico-norte-et-iii-2-banos-2-garajes/5545-M6519832",
-      "titulo": "Oficina en Arriendo, CHICO NORTE III SECTOR CHICO, Bogotá D.C.",
-      "id_domus": "5545-M6519832",
-      "fechaPublicacion": null,
-      "lat": 4.683231353759766,
-      "lon": -74.05230712890625,
       "location_type": "exacta",
       "zonaConsulta": "CHICO NORTE III SECTOR",
       "zonaSlug": "chico-norte-iii-sector",

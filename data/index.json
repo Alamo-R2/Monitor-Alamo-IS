@@ -1,7 +1,7 @@
 {
-  "generado": "2026-09-02T22:08:55",
-  "generado_humano": "2026.SEP.02 22:08",
-  "grupo_actual": "municipios",
+  "generado": "2026-09-03T12:01:58",
+  "generado_humano": "2026.SEP.03 12:01",
+  "grupo_actual": "barrios",
   "ciudad": "bogota",
   "datasets": [
     {
@@ -10652,7 +10652,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 6.8
+      "segundos": 6.7
     },
     {
       "clave": "venta_bodega_chico-norte-iii-sector",
@@ -10664,19 +10664,19 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 4.6
+      "segundos": 4.3
     },
     {
       "clave": "arriendo_bodega_chico-norte-iii-sector",
       "etiqueta": "Arriendo - Bodega - CHICO NORTE III SECTOR",
       "archivo": "arriendo_bodega_chico-norte-iii-sector.json",
-      "total": 50,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 4.5
     },
     {
       "clave": "venta_edificio_chico-norte-iii-sector",
@@ -10706,13 +10706,13 @@
       "clave": "venta_local_chico-norte-iii-sector",
       "etiqueta": "Venta - Local - CHICO NORTE III SECTOR",
       "archivo": "venta_local_chico-norte-iii-sector.json",
-      "total": 4,
+      "total": 5,
       "operacion": "venta",
       "tipo": "local",
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 7.1
+      "segundos": 6.8
     },
     {
       "clave": "arriendo_local_chico-norte-iii-sector",
@@ -10724,7 +10724,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 6.8
     },
     {
       "clave": "venta_lote_chico-norte-iii-sector",
@@ -10736,7 +10736,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 4.4
+      "segundos": 4.3
     },
     {
       "clave": "arriendo_lote_chico-norte-iii-sector",
@@ -10748,7 +10748,7 @@
       "zona": "CHICO NORTE III SECTOR",
       "slug": "chico-norte-iii-sector",
       "origen": "barrio",
-      "segundos": 4.3
+      "segundos": 4.4
     },
     {
       "clave": "venta_oficina_concepcion-norte",
@@ -11120,7 +11120,7 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 7.2
+      "segundos": 7.0
     },
     {
       "clave": "arriendo_oficina_la-castellana",
@@ -11132,7 +11132,7 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 6.8
     },
     {
       "clave": "venta_bodega_la-castellana",
@@ -11180,7 +11180,7 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 7.2
+      "segundos": 6.9
     },
     {
       "clave": "venta_local_la-castellana",
@@ -11204,7 +11204,7 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 7.0
     },
     {
       "clave": "venta_lote_la-castellana",
@@ -11216,7 +11216,7 @@
       "zona": "LA CASTELLANA",
       "slug": "la-castellana",
       "origen": "barrio",
-      "segundos": 4.4
+      "segundos": 4.3
     },
     {
       "clave": "arriendo_lote_la-castellana",
@@ -16754,13 +16754,13 @@
       "clave": "venta_oficina_estoril",
       "etiqueta": "Venta - Oficina - ESTORIL",
       "archivo": "venta_oficina_estoril.json",
-      "total": 47,
+      "total": 48,
       "operacion": "venta",
       "tipo": "oficina",
       "zona": "ESTORIL",
       "slug": "estoril",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 7.2
     },
     {
       "clave": "arriendo_oficina_estoril",
@@ -16772,31 +16772,31 @@
       "zona": "ESTORIL",
       "slug": "estoril",
       "origen": "barrio",
-      "segundos": 7.1
+      "segundos": 7.0
     },
     {
       "clave": "venta_bodega_estoril",
       "etiqueta": "Venta - Bodega - ESTORIL",
       "archivo": "venta_bodega_estoril.json",
-      "total": 52,
+      "total": 54,
       "operacion": "venta",
       "tipo": "bodega",
       "zona": "ESTORIL",
       "slug": "estoril",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 7.0
     },
     {
       "clave": "arriendo_bodega_estoril",
       "etiqueta": "Arriendo - Bodega - ESTORIL",
       "archivo": "arriendo_bodega_estoril.json",
-      "total": 61,
+      "total": 52,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "ESTORIL",
       "slug": "estoril",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 7.4
     },
     {
       "clave": "venta_edificio_estoril",
@@ -16808,7 +16808,7 @@
       "zona": "ESTORIL",
       "slug": "estoril",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 6.8
     },
     {
       "clave": "arriendo_edificio_estoril",
@@ -16820,7 +16820,7 @@
       "zona": "ESTORIL",
       "slug": "estoril",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 6.8
     },
     {
       "clave": "venta_local_estoril",
@@ -16844,7 +16844,7 @@
       "zona": "ESTORIL",
       "slug": "estoril",
       "origen": "barrio",
-      "segundos": 7.1
+      "segundos": 6.8
     },
     {
       "clave": "venta_lote_estoril",
@@ -16856,7 +16856,7 @@
       "zona": "ESTORIL",
       "slug": "estoril",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 6.8
     },
     {
       "clave": "arriendo_lote_estoril",
@@ -16868,7 +16868,7 @@
       "zona": "ESTORIL",
       "slug": "estoril",
       "origen": "barrio",
-      "segundos": 7.2
+      "segundos": 6.9
     },
     {
       "clave": "venta_oficina_batan",
@@ -28773,6 +28773,606 @@
       "slug": "villa-alcazar",
       "origen": "barrio",
       "segundos": 4.5
+    },
+    {
+      "clave": "venta_oficina_villa-maria",
+      "etiqueta": "Venta - Oficina - VILLA MARIA",
+      "archivo": "venta_oficina_villa-maria.json",
+      "total": 3,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "VILLA MARIA",
+      "slug": "villa-maria",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "arriendo_oficina_villa-maria",
+      "etiqueta": "Arriendo - Oficina - VILLA MARIA",
+      "archivo": "arriendo_oficina_villa-maria.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "VILLA MARIA",
+      "slug": "villa-maria",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_bodega_villa-maria",
+      "etiqueta": "Venta - Bodega - VILLA MARIA",
+      "archivo": "venta_bodega_villa-maria.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "VILLA MARIA",
+      "slug": "villa-maria",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "arriendo_bodega_villa-maria",
+      "etiqueta": "Arriendo - Bodega - VILLA MARIA",
+      "archivo": "arriendo_bodega_villa-maria.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "VILLA MARIA",
+      "slug": "villa-maria",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_edificio_villa-maria",
+      "etiqueta": "Venta - Edificio - VILLA MARIA",
+      "archivo": "venta_edificio_villa-maria.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "VILLA MARIA",
+      "slug": "villa-maria",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_edificio_villa-maria",
+      "etiqueta": "Arriendo - Edificio - VILLA MARIA",
+      "archivo": "arriendo_edificio_villa-maria.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "VILLA MARIA",
+      "slug": "villa-maria",
+      "origen": "barrio",
+      "segundos": 7.4
+    },
+    {
+      "clave": "venta_local_villa-maria",
+      "etiqueta": "Venta - Local - VILLA MARIA",
+      "archivo": "venta_local_villa-maria.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "VILLA MARIA",
+      "slug": "villa-maria",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "arriendo_local_villa-maria",
+      "etiqueta": "Arriendo - Local - VILLA MARIA",
+      "archivo": "arriendo_local_villa-maria.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "VILLA MARIA",
+      "slug": "villa-maria",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_lote_villa-maria",
+      "etiqueta": "Venta - Lote - VILLA MARIA",
+      "archivo": "venta_lote_villa-maria.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "VILLA MARIA",
+      "slug": "villa-maria",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "arriendo_lote_villa-maria",
+      "etiqueta": "Arriendo - Lote - VILLA MARIA",
+      "archivo": "arriendo_lote_villa-maria.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "VILLA MARIA",
+      "slug": "villa-maria",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_oficina_villa-maria-i",
+      "etiqueta": "Venta - Oficina - VILLA MARIA I",
+      "archivo": "venta_oficina_villa-maria-i.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "VILLA MARIA I",
+      "slug": "villa-maria-i",
+      "origen": "barrio",
+      "segundos": 4.2
+    },
+    {
+      "clave": "arriendo_oficina_villa-maria-i",
+      "etiqueta": "Arriendo - Oficina - VILLA MARIA I",
+      "archivo": "arriendo_oficina_villa-maria-i.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "VILLA MARIA I",
+      "slug": "villa-maria-i",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_bodega_villa-maria-i",
+      "etiqueta": "Venta - Bodega - VILLA MARIA I",
+      "archivo": "venta_bodega_villa-maria-i.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "VILLA MARIA I",
+      "slug": "villa-maria-i",
+      "origen": "barrio",
+      "segundos": 4.5
+    },
+    {
+      "clave": "arriendo_bodega_villa-maria-i",
+      "etiqueta": "Arriendo - Bodega - VILLA MARIA I",
+      "archivo": "arriendo_bodega_villa-maria-i.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "VILLA MARIA I",
+      "slug": "villa-maria-i",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_edificio_villa-maria-i",
+      "etiqueta": "Venta - Edificio - VILLA MARIA I",
+      "archivo": "venta_edificio_villa-maria-i.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "VILLA MARIA I",
+      "slug": "villa-maria-i",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_edificio_villa-maria-i",
+      "etiqueta": "Arriendo - Edificio - VILLA MARIA I",
+      "archivo": "arriendo_edificio_villa-maria-i.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "VILLA MARIA I",
+      "slug": "villa-maria-i",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_local_villa-maria-i",
+      "etiqueta": "Venta - Local - VILLA MARIA I",
+      "archivo": "venta_local_villa-maria-i.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "VILLA MARIA I",
+      "slug": "villa-maria-i",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "arriendo_local_villa-maria-i",
+      "etiqueta": "Arriendo - Local - VILLA MARIA I",
+      "archivo": "arriendo_local_villa-maria-i.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "VILLA MARIA I",
+      "slug": "villa-maria-i",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_lote_villa-maria-i",
+      "etiqueta": "Venta - Lote - VILLA MARIA I",
+      "archivo": "venta_lote_villa-maria-i.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "VILLA MARIA I",
+      "slug": "villa-maria-i",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "arriendo_lote_villa-maria-i",
+      "etiqueta": "Arriendo - Lote - VILLA MARIA I",
+      "archivo": "arriendo_lote_villa-maria-i.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "VILLA MARIA I",
+      "slug": "villa-maria-i",
+      "origen": "barrio",
+      "segundos": 4.2
+    },
+    {
+      "clave": "venta_oficina_andes-norte",
+      "etiqueta": "Venta - Oficina - ANDES NORTE",
+      "archivo": "venta_oficina_andes-norte.json",
+      "total": 6,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "ANDES NORTE",
+      "slug": "andes-norte",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "arriendo_oficina_andes-norte",
+      "etiqueta": "Arriendo - Oficina - ANDES NORTE",
+      "archivo": "arriendo_oficina_andes-norte.json",
+      "total": 10,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "ANDES NORTE",
+      "slug": "andes-norte",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_bodega_andes-norte",
+      "etiqueta": "Venta - Bodega - ANDES NORTE",
+      "archivo": "venta_bodega_andes-norte.json",
+      "total": 14,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "ANDES NORTE",
+      "slug": "andes-norte",
+      "origen": "barrio",
+      "segundos": 7.2
+    },
+    {
+      "clave": "arriendo_bodega_andes-norte",
+      "etiqueta": "Arriendo - Bodega - ANDES NORTE",
+      "archivo": "arriendo_bodega_andes-norte.json",
+      "total": 5,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "ANDES NORTE",
+      "slug": "andes-norte",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_edificio_andes-norte",
+      "etiqueta": "Venta - Edificio - ANDES NORTE",
+      "archivo": "venta_edificio_andes-norte.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "ANDES NORTE",
+      "slug": "andes-norte",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "arriendo_edificio_andes-norte",
+      "etiqueta": "Arriendo - Edificio - ANDES NORTE",
+      "archivo": "arriendo_edificio_andes-norte.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "ANDES NORTE",
+      "slug": "andes-norte",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_local_andes-norte",
+      "etiqueta": "Venta - Local - ANDES NORTE",
+      "archivo": "venta_local_andes-norte.json",
+      "total": 3,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "ANDES NORTE",
+      "slug": "andes-norte",
+      "origen": "barrio",
+      "segundos": 6.7
+    },
+    {
+      "clave": "arriendo_local_andes-norte",
+      "etiqueta": "Arriendo - Local - ANDES NORTE",
+      "archivo": "arriendo_local_andes-norte.json",
+      "total": 11,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "ANDES NORTE",
+      "slug": "andes-norte",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_lote_andes-norte",
+      "etiqueta": "Venta - Lote - ANDES NORTE",
+      "archivo": "venta_lote_andes-norte.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "ANDES NORTE",
+      "slug": "andes-norte",
+      "origen": "barrio",
+      "segundos": 4.7
+    },
+    {
+      "clave": "arriendo_lote_andes-norte",
+      "etiqueta": "Arriendo - Lote - ANDES NORTE",
+      "archivo": "arriendo_lote_andes-norte.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "ANDES NORTE",
+      "slug": "andes-norte",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "venta_oficina_julio-florez",
+      "etiqueta": "Venta - Oficina - JULIO FLOREZ",
+      "archivo": "venta_oficina_julio-florez.json",
+      "total": 4,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "JULIO FLOREZ",
+      "slug": "julio-florez",
+      "origen": "barrio",
+      "segundos": 7.1
+    },
+    {
+      "clave": "arriendo_oficina_julio-florez",
+      "etiqueta": "Arriendo - Oficina - JULIO FLOREZ",
+      "archivo": "arriendo_oficina_julio-florez.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "JULIO FLOREZ",
+      "slug": "julio-florez",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_bodega_julio-florez",
+      "etiqueta": "Venta - Bodega - JULIO FLOREZ",
+      "archivo": "venta_bodega_julio-florez.json",
+      "total": 3,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "JULIO FLOREZ",
+      "slug": "julio-florez",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_bodega_julio-florez",
+      "etiqueta": "Arriendo - Bodega - JULIO FLOREZ",
+      "archivo": "arriendo_bodega_julio-florez.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "JULIO FLOREZ",
+      "slug": "julio-florez",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_edificio_julio-florez",
+      "etiqueta": "Venta - Edificio - JULIO FLOREZ",
+      "archivo": "venta_edificio_julio-florez.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "JULIO FLOREZ",
+      "slug": "julio-florez",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_edificio_julio-florez",
+      "etiqueta": "Arriendo - Edificio - JULIO FLOREZ",
+      "archivo": "arriendo_edificio_julio-florez.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "JULIO FLOREZ",
+      "slug": "julio-florez",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_local_julio-florez",
+      "etiqueta": "Venta - Local - JULIO FLOREZ",
+      "archivo": "venta_local_julio-florez.json",
+      "total": 6,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "JULIO FLOREZ",
+      "slug": "julio-florez",
+      "origen": "barrio",
+      "segundos": 6.7
+    },
+    {
+      "clave": "arriendo_local_julio-florez",
+      "etiqueta": "Arriendo - Local - JULIO FLOREZ",
+      "archivo": "arriendo_local_julio-florez.json",
+      "total": 6,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "JULIO FLOREZ",
+      "slug": "julio-florez",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_lote_julio-florez",
+      "etiqueta": "Venta - Lote - JULIO FLOREZ",
+      "archivo": "venta_lote_julio-florez.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "JULIO FLOREZ",
+      "slug": "julio-florez",
+      "origen": "barrio",
+      "segundos": 4.3
+    },
+    {
+      "clave": "arriendo_lote_julio-florez",
+      "etiqueta": "Arriendo - Lote - JULIO FLOREZ",
+      "archivo": "arriendo_lote_julio-florez.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "JULIO FLOREZ",
+      "slug": "julio-florez",
+      "origen": "barrio",
+      "segundos": 4.2
+    },
+    {
+      "clave": "venta_oficina_los-andes",
+      "etiqueta": "Venta - Oficina - LOS ANDES",
+      "archivo": "venta_oficina_los-andes.json",
+      "total": 16,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "LOS ANDES",
+      "slug": "los-andes",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_oficina_los-andes",
+      "etiqueta": "Arriendo - Oficina - LOS ANDES",
+      "archivo": "arriendo_oficina_los-andes.json",
+      "total": 36,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "LOS ANDES",
+      "slug": "los-andes",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "venta_bodega_los-andes",
+      "etiqueta": "Venta - Bodega - LOS ANDES",
+      "archivo": "venta_bodega_los-andes.json",
+      "total": 14,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "LOS ANDES",
+      "slug": "los-andes",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "arriendo_bodega_los-andes",
+      "etiqueta": "Arriendo - Bodega - LOS ANDES",
+      "archivo": "arriendo_bodega_los-andes.json",
+      "total": 20,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "LOS ANDES",
+      "slug": "los-andes",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_edificio_los-andes",
+      "etiqueta": "Venta - Edificio - LOS ANDES",
+      "archivo": "venta_edificio_los-andes.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "LOS ANDES",
+      "slug": "los-andes",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "arriendo_edificio_los-andes",
+      "etiqueta": "Arriendo - Edificio - LOS ANDES",
+      "archivo": "arriendo_edificio_los-andes.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "LOS ANDES",
+      "slug": "los-andes",
+      "origen": "barrio",
+      "segundos": 6.9
+    },
+    {
+      "clave": "venta_local_los-andes",
+      "etiqueta": "Venta - Local - LOS ANDES",
+      "archivo": "venta_local_los-andes.json",
+      "total": 9,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "LOS ANDES",
+      "slug": "los-andes",
+      "origen": "barrio",
+      "segundos": 7.0
+    },
+    {
+      "clave": "arriendo_local_los-andes",
+      "etiqueta": "Arriendo - Local - LOS ANDES",
+      "archivo": "arriendo_local_los-andes.json",
+      "total": 30,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "LOS ANDES",
+      "slug": "los-andes",
+      "origen": "barrio",
+      "segundos": 6.8
+    },
+    {
+      "clave": "venta_lote_los-andes",
+      "etiqueta": "Venta - Lote - LOS ANDES",
+      "archivo": "venta_lote_los-andes.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "LOS ANDES",
+      "slug": "los-andes",
+      "origen": "barrio",
+      "segundos": 4.4
+    },
+    {
+      "clave": "arriendo_lote_los-andes",
+      "etiqueta": "Arriendo - Lote - LOS ANDES",
+      "archivo": "arriendo_lote_los-andes.json",
+      "total": 11,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "LOS ANDES",
+      "slug": "los-andes",
+      "origen": "barrio",
+      "segundos": 6.8
     }
   ],
   "consolidados": {

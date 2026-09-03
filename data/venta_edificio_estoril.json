@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "edificio",
-  "generado": "2026.AGO.29 23:46",
+  "generado": "2026.SEP.03 12:01",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,21 +14,21 @@
       ],
       "tipo": "edificio",
       "tipoPortal": "Casa",
-      "precio": 1400000000,
-      "area": 280.0,
+      "precio": 1900000000,
+      "area": 314.0,
       "administracion": null,
       "barrio": "ESTORIL",
       "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 4.0,
-      "parqueaderos": 2.0,
+      "habitaciones": 4.0,
+      "banos": 3.0,
+      "parqueaderos": 1.0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-estoril-3-habitaciones-4-banos-2-garajes/73-M6578389",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-estoril-4-habitaciones-3-banos-1-garajes/12375-M7009226",
       "titulo": "Casa en Venta, Estoril, Bogotá D.C.",
-      "id_domus": "73-M6578389",
+      "id_domus": "12375-M7009226",
       "fechaPublicacion": null,
-      "lat": 4.6888,
-      "lon": -74.05844,
+      "lat": 4.69197,
+      "lon": -74.05889,
       "location_type": "exacta",
       "zonaConsulta": "ESTORIL",
       "zonaSlug": "estoril",
@@ -121,33 +121,6 @@
         "Venta"
       ],
       "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 1500000000,
-      "area": 302.0,
-      "administracion": null,
-      "barrio": "ESTORIL",
-      "direccion": "",
-      "habitaciones": 4.0,
-      "banos": 3.0,
-      "parqueaderos": 2.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-estoril-4-habitaciones-3-banos-2-garajes/34-M6455861",
-      "titulo": "Casa en Venta, Estoril, Bogotá D.C.",
-      "id_domus": "34-M6455861",
-      "fechaPublicacion": null,
-      "lat": 4.69458,
-      "lon": -74.05844,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTORIL",
-      "zonaSlug": "estoril",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
       "tipoPortal": "Consultorio",
       "precio": 880000000,
       "area": 64.0,
@@ -170,7 +143,88 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 1400000000,
+      "area": 280.0,
+      "administracion": null,
+      "barrio": "ESTORIL",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 4.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-estoril-3-habitaciones-4-banos-2-garajes/73-M6578389",
+      "titulo": "Casa en Venta, Estoril, Bogotá D.C.",
+      "id_domus": "73-M6578389",
+      "fechaPublicacion": null,
+      "lat": 4.6888,
+      "lon": -74.05844,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTORIL",
+      "zonaSlug": "estoril",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 1500000000,
+      "area": 302.0,
+      "administracion": null,
+      "barrio": "ESTORIL",
+      "direccion": "",
+      "habitaciones": 4.0,
+      "banos": 3.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-estoril-4-habitaciones-3-banos-2-garajes/34-M6455861",
+      "titulo": "Casa en Venta, Estoril, Bogotá D.C.",
+      "id_domus": "34-M6455861",
+      "fechaPublicacion": null,
+      "lat": 4.69458,
+      "lon": -74.05844,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTORIL",
+      "zonaSlug": "estoril",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Oficina",
+      "precio": 1317000000,
+      "area": 112.0,
+      "administracion": 1200000.0,
+      "barrio": "ESTORIL",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-estoril-2-banos-2-garajes/20610-M7016216",
+      "titulo": "Oficina en Venta, Estoril, Bogotá D.C.",
+      "id_domus": "20610-M7016216",
+      "fechaPublicacion": null,
+      "lat": 4.69576,
+      "lon": -74.05629,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTORIL",
+      "zonaSlug": "estoril",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -197,7 +251,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -224,7 +278,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -251,7 +305,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -278,7 +332,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -305,7 +359,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -332,7 +386,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -359,7 +413,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -381,60 +435,6 @@
       "lat": 0.0,
       "lon": 0.0,
       "location_type": "aproximada",
-      "zonaConsulta": "ESTORIL",
-      "zonaSlug": "estoril",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Consultorio",
-      "precio": 525000000,
-      "area": 38.95,
-      "administracion": 1113000.0,
-      "barrio": "ESTORIL",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 5.0,
-      "parqueaderos": 2.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-consultorio-bogota-estoril-5-banos-2-garajes/3252-M6988300",
-      "titulo": "Consultorio en Venta, ESTORIL, Bogotá D.C.",
-      "id_domus": "3252-M6988300",
-      "fechaPublicacion": null,
-      "lat": 4.69506311416626,
-      "lon": -74.05632019042969,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTORIL",
-      "zonaSlug": "estoril",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Oficina",
-      "precio": 785377688,
-      "area": 53.0,
-      "administracion": 1152480.0,
-      "barrio": "ESTORIL",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 2.0,
-      "parqueaderos": 2.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-estoril-2-banos-2-garajes/412-M6855940",
-      "titulo": "Oficina en Venta, ESTORIL, Bogotá D.C.",
-      "id_domus": "412-M6855940",
-      "fechaPublicacion": null,
-      "lat": 4.693115234375,
-      "lon": -74.05695343017578,
-      "location_type": "exacta",
       "zonaConsulta": "ESTORIL",
       "zonaSlug": "estoril",
       "origenZona": "barrio"
@@ -472,6 +472,60 @@
         "Venta"
       ],
       "tipo": "edificio",
+      "tipoPortal": "Consultorio",
+      "precio": 525000000,
+      "area": 38.95,
+      "administracion": 1113000.0,
+      "barrio": "ESTORIL",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 5.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-consultorio-bogota-estoril-5-banos-2-garajes/3252-M6988300",
+      "titulo": "Consultorio en Venta, ESTORIL, Bogotá D.C.",
+      "id_domus": "3252-M6988300",
+      "fechaPublicacion": null,
+      "lat": 4.69506311416626,
+      "lon": -74.05632019042969,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTORIL",
+      "zonaSlug": "estoril",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Oficina",
+      "precio": 785377688,
+      "area": 53.0,
+      "administracion": 1152480.0,
+      "barrio": "ESTORIL",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-estoril-2-banos-2-garajes/412-M6855940",
+      "titulo": "Oficina en Venta, ESTORIL, Bogotá D.C.",
+      "id_domus": "412-M6855940",
+      "fechaPublicacion": null,
+      "lat": 4.693115234375,
+      "lon": -74.05695343017578,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTORIL",
+      "zonaSlug": "estoril",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
       "tipoPortal": "Oficina",
       "precio": 380000000,
       "area": 27.0,
@@ -494,142 +548,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Oficina",
-      "precio": 615920976,
-      "area": 44.0,
-      "administracion": 958720.0,
-      "barrio": "ESTORIL",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-estoril-2-banos-1-garajes/412-M6856028",
-      "titulo": "Oficina en Venta, ESTORIL, Bogotá D.C.",
-      "id_domus": "412-M6856028",
-      "fechaPublicacion": null,
-      "lat": 4.6935858726501465,
-      "lon": -74.0565185546875,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTORIL",
-      "zonaSlug": "estoril",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Oficina",
-      "precio": 785377688,
-      "area": 53.0,
-      "administracion": 1152480.0,
-      "barrio": "ESTORIL",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-estoril-2-banos-1-garajes/412-M6855803",
-      "titulo": "Oficina en Venta, ESTORIL, Bogotá D.C.",
-      "id_domus": "412-M6855803",
-      "fechaPublicacion": null,
-      "lat": 4.693457126617432,
-      "lon": -74.0565185546875,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTORIL",
-      "zonaSlug": "estoril",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Oficina",
-      "precio": 880000000,
-      "area": 58.0,
-      "administracion": 0.0,
-      "barrio": "ESTORIL",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 2.0,
-      "parqueaderos": 2.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-estoril-2-banos-2-garajes/2996-M5398420",
-      "titulo": "Oficina en Venta, ESTORIL, Bogotá D.C.",
-      "id_domus": "2996-M5398420",
-      "fechaPublicacion": null,
-      "lat": 4.694045543670654,
-      "lon": -74.05645751953125,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTORIL",
-      "zonaSlug": "estoril",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-22",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Consultorio",
-      "precio": 700000000,
-      "area": 46.0,
-      "administracion": 0.0,
-      "barrio": "ESTORIL",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 2.0,
-      "parqueaderos": 2.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-consultorio-bogota-estoril-2-banos-2-garajes/2996-M5398435",
-      "titulo": "Consultorio en Venta, ESTORIL, Bogotá D.C.",
-      "id_domus": "2996-M5398435",
-      "fechaPublicacion": null,
-      "lat": 4.6949076652526855,
-      "lon": -74.05632019042969,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTORIL",
-      "zonaSlug": "estoril",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-23",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Oficina",
-      "precio": 575000000,
-      "area": 32.0,
-      "administracion": 0.0,
-      "barrio": "ESTORIL",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 1.0,
-      "parqueaderos": 2.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-estoril-1-banos-2-garajes/2996-M5398294",
-      "titulo": "Oficina en Venta, ESTORIL, Bogotá D.C.",
-      "id_domus": "2996-M5398294",
-      "fechaPublicacion": null,
-      "lat": 4.693543910980225,
-      "lon": -74.0565414428711,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTORIL",
-      "zonaSlug": "estoril",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-24",
       "operacion": [
         "Venta"
       ],
@@ -656,7 +575,142 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-22",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Oficina",
+      "precio": 785377688,
+      "area": 53.0,
+      "administracion": 1152480.0,
+      "barrio": "ESTORIL",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-estoril-2-banos-1-garajes/412-M6855803",
+      "titulo": "Oficina en Venta, ESTORIL, Bogotá D.C.",
+      "id_domus": "412-M6855803",
+      "fechaPublicacion": null,
+      "lat": 4.693457126617432,
+      "lon": -74.0565185546875,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTORIL",
+      "zonaSlug": "estoril",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-23",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Oficina",
+      "precio": 615920976,
+      "area": 44.0,
+      "administracion": 958720.0,
+      "barrio": "ESTORIL",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-estoril-2-banos-1-garajes/412-M6856028",
+      "titulo": "Oficina en Venta, ESTORIL, Bogotá D.C.",
+      "id_domus": "412-M6856028",
+      "fechaPublicacion": null,
+      "lat": 4.6935858726501465,
+      "lon": -74.0565185546875,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTORIL",
+      "zonaSlug": "estoril",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-24",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Oficina",
+      "precio": 880000000,
+      "area": 58.0,
+      "administracion": 0.0,
+      "barrio": "ESTORIL",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-estoril-2-banos-2-garajes/2996-M5398420",
+      "titulo": "Oficina en Venta, ESTORIL, Bogotá D.C.",
+      "id_domus": "2996-M5398420",
+      "fechaPublicacion": null,
+      "lat": 4.694045543670654,
+      "lon": -74.05645751953125,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTORIL",
+      "zonaSlug": "estoril",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-25",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Consultorio",
+      "precio": 700000000,
+      "area": 46.0,
+      "administracion": 0.0,
+      "barrio": "ESTORIL",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-consultorio-bogota-estoril-2-banos-2-garajes/2996-M5398435",
+      "titulo": "Consultorio en Venta, ESTORIL, Bogotá D.C.",
+      "id_domus": "2996-M5398435",
+      "fechaPublicacion": null,
+      "lat": 4.6949076652526855,
+      "lon": -74.05632019042969,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTORIL",
+      "zonaSlug": "estoril",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-26",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Oficina",
+      "precio": 575000000,
+      "area": 32.0,
+      "administracion": 0.0,
+      "barrio": "ESTORIL",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-estoril-1-banos-2-garajes/2996-M5398294",
+      "titulo": "Oficina en Venta, ESTORIL, Bogotá D.C.",
+      "id_domus": "2996-M5398294",
+      "fechaPublicacion": null,
+      "lat": 4.693543910980225,
+      "lon": -74.0565414428711,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTORIL",
+      "zonaSlug": "estoril",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-27",
       "operacion": [
         "Venta"
       ],
@@ -683,7 +737,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-26",
+      "id": "MI-28",
       "operacion": [
         "Venta"
       ],
@@ -710,7 +764,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-27",
+      "id": "MI-29",
       "operacion": [
         "Venta"
       ],
@@ -737,7 +791,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-28",
+      "id": "MI-30",
       "operacion": [
         "Venta"
       ],
@@ -764,34 +818,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-29",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Consultorio",
-      "precio": 575000000,
-      "area": 40.0,
-      "administracion": 669000.0,
-      "barrio": "ESTORIL",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 2.0,
-      "parqueaderos": 2.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-consultorio-bogota-estoril-2-banos-2-garajes/2996-M5398325",
-      "titulo": "Consultorio en Venta, ESTORIL, Bogotá D.C.",
-      "id_domus": "2996-M5398325",
-      "fechaPublicacion": null,
-      "lat": 4.6949076652526855,
-      "lon": -74.05632019042969,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTORIL",
-      "zonaSlug": "estoril",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-30",
+      "id": "MI-31",
       "operacion": [
         "Venta"
       ],
@@ -818,7 +845,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-31",
+      "id": "MI-32",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Consultorio",
+      "precio": 575000000,
+      "area": 40.0,
+      "administracion": 669000.0,
+      "barrio": "ESTORIL",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-consultorio-bogota-estoril-2-banos-2-garajes/2996-M5398325",
+      "titulo": "Consultorio en Venta, ESTORIL, Bogotá D.C.",
+      "id_domus": "2996-M5398325",
+      "fechaPublicacion": null,
+      "lat": 4.6949076652526855,
+      "lon": -74.05632019042969,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTORIL",
+      "zonaSlug": "estoril",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-33",
       "operacion": [
         "Venta"
       ],
@@ -845,7 +899,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-32",
+      "id": "MI-34",
       "operacion": [
         "Venta"
       ],
@@ -872,7 +926,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-33",
+      "id": "MI-35",
       "operacion": [
         "Venta"
       ],
@@ -899,7 +953,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-34",
+      "id": "MI-36",
       "operacion": [
         "Venta"
       ],
@@ -926,7 +980,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-35",
+      "id": "MI-37",
       "operacion": [
         "Venta"
       ],
@@ -953,34 +1007,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-36",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 1700000000,
-      "area": 300.0,
-      "administracion": 0.0,
-      "barrio": "ESTORIL",
-      "direccion": "",
-      "habitaciones": 5.0,
-      "banos": 5.0,
-      "parqueaderos": 2.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-estoril-5-habitaciones-5-banos-2-garajes/2996-M6903677",
-      "titulo": "Casa en Venta, PASADENA, Bogotá D.C.",
-      "id_domus": "2996-M6903677",
-      "fechaPublicacion": null,
-      "lat": 4.692558288574219,
-      "lon": -74.06085205078125,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTORIL",
-      "zonaSlug": "estoril",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-37",
+      "id": "MI-38",
       "operacion": [
         "Venta"
       ],
@@ -1007,7 +1034,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-38",
+      "id": "MI-39",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 1700000000,
+      "area": 300.0,
+      "administracion": 0.0,
+      "barrio": "ESTORIL",
+      "direccion": "",
+      "habitaciones": 5.0,
+      "banos": 5.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-estoril-5-habitaciones-5-banos-2-garajes/2996-M6903677",
+      "titulo": "Casa en Venta, PASADENA, Bogotá D.C.",
+      "id_domus": "2996-M6903677",
+      "fechaPublicacion": null,
+      "lat": 4.692558288574219,
+      "lon": -74.06085205078125,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTORIL",
+      "zonaSlug": "estoril",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-40",
       "operacion": [
         "Venta"
       ],
@@ -1034,7 +1088,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-39",
+      "id": "MI-41",
       "operacion": [
         "Venta"
       ],
@@ -1061,34 +1115,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-40",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 1136531494,
-      "area": 256.0,
-      "administracion": 0.0,
-      "barrio": "ESTORIL",
-      "direccion": "",
-      "habitaciones": 5.0,
-      "banos": 5.0,
-      "parqueaderos": 1.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-estoril-5-habitaciones-5-banos-1-garajes/11295-M6802871",
-      "titulo": "Casa en Venta, PASADENA, Bogotá D.C.",
-      "id_domus": "11295-M6802871",
-      "fechaPublicacion": null,
-      "lat": 4.692558288574219,
-      "lon": -74.06085205078125,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTORIL",
-      "zonaSlug": "estoril",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-41",
+      "id": "MI-42",
       "operacion": [
         "Venta"
       ],
@@ -1115,24 +1142,24 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-42",
+      "id": "MI-43",
       "operacion": [
         "Venta"
       ],
       "tipo": "edificio",
-      "tipoPortal": "Oficina",
-      "precio": 700000000,
-      "area": 53.0,
+      "tipoPortal": "Casa",
+      "precio": 1136531494,
+      "area": 256.0,
       "administracion": 0.0,
       "barrio": "ESTORIL",
       "direccion": "",
-      "habitaciones": null,
-      "banos": 2.0,
-      "parqueaderos": 2.0,
+      "habitaciones": 5.0,
+      "banos": 5.0,
+      "parqueaderos": 1.0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-estoril-2-banos-2-garajes/10457-M6518991",
-      "titulo": "Oficina en Venta, PASADENA, Bogotá D.C.",
-      "id_domus": "10457-M6518991",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-estoril-5-habitaciones-5-banos-1-garajes/11295-M6802871",
+      "titulo": "Casa en Venta, PASADENA, Bogotá D.C.",
+      "id_domus": "11295-M6802871",
       "fechaPublicacion": null,
       "lat": 4.692558288574219,
       "lon": -74.06085205078125,
@@ -1142,7 +1169,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-43",
+      "id": "MI-44",
       "operacion": [
         "Venta"
       ],
@@ -1169,7 +1196,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-44",
+      "id": "MI-45",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Oficina",
+      "precio": 700000000,
+      "area": 53.0,
+      "administracion": 0.0,
+      "barrio": "ESTORIL",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-estoril-2-banos-2-garajes/10457-M6518991",
+      "titulo": "Oficina en Venta, PASADENA, Bogotá D.C.",
+      "id_domus": "10457-M6518991",
+      "fechaPublicacion": null,
+      "lat": 4.692558288574219,
+      "lon": -74.06085205078125,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTORIL",
+      "zonaSlug": "estoril",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-46",
       "operacion": [
         "Venta"
       ],
@@ -1196,7 +1250,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-45",
+      "id": "MI-47",
       "operacion": [
         "Venta"
       ],
@@ -1223,7 +1277,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-46",
+      "id": "MI-48",
       "operacion": [
         "Venta"
       ],
@@ -1250,7 +1304,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-47",
+      "id": "MI-49",
       "operacion": [
         "Venta"
       ],
@@ -1277,7 +1331,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-48",
+      "id": "MI-50",
       "operacion": [
         "Venta"
       ],
@@ -1298,60 +1352,6 @@
       "fechaPublicacion": null,
       "lat": 4.687824726104736,
       "lon": -74.05842590332031,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTORIL",
-      "zonaSlug": "estoril",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-49",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Oficina",
-      "precio": 880000000,
-      "area": 65.0,
-      "administracion": 0.0,
-      "barrio": "ESTORIL",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 2.0,
-      "parqueaderos": 2.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-estoril-2-banos-2-garajes/10457-M6405978",
-      "titulo": "Oficina en Venta, PASADENA ALTA, Bogotá D.C.",
-      "id_domus": "10457-M6405978",
-      "fechaPublicacion": null,
-      "lat": 4.692558288574219,
-      "lon": -74.06085205078125,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTORIL",
-      "zonaSlug": "estoril",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-50",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 4150000000,
-      "area": 483.0,
-      "administracion": null,
-      "barrio": "ESTORIL",
-      "direccion": "",
-      "habitaciones": 5.0,
-      "banos": 5.0,
-      "parqueaderos": 4.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-estoril-5-habitaciones-5-banos-4-garajes/957-M5586597",
-      "titulo": "Casa en Venta, Pasadena, Bogotá D.C.",
-      "id_domus": "957-M5586597",
-      "fechaPublicacion": null,
-      "lat": 4.6886668192,
-      "lon": -74.0599054936,
       "location_type": "exacta",
       "zonaConsulta": "ESTORIL",
       "zonaSlug": "estoril",
