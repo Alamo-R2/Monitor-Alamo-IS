@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "PASADENA",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "lote",
+  "generado": "2026.SEP.04 12:04",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 12000000000,
+      "area": 1248.0,
+      "administracion": 0.0,
+      "barrio": "ESTORIL",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-estoril/5161-M5772813",
+      "titulo": "Lote en Venta, PASADENA, Bogotá D.C.",
+      "id_domus": "5161-M5772813",
+      "fechaPublicacion": null,
+      "lat": 4.6931257247924805,
+      "lon": -74.05667877197266,
+      "location_type": "exacta",
+      "zonaConsulta": "PASADENA",
+      "zonaSlug": "pasadena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 2000000000,
+      "area": 510.0,
+      "administracion": null,
+      "barrio": "PASADENA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-pasadena/175-M5270152",
+      "titulo": "Lote en Venta, Pasadena, Bogotá D.C.",
+      "id_domus": "175-M5270152",
+      "fechaPublicacion": null,
+      "lat": 4.69508,
+      "lon": -74.05892,
+      "location_type": "exacta",
+      "zonaConsulta": "PASADENA",
+      "zonaSlug": "pasadena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 17000000000,
+      "area": 1588.0,
+      "administracion": 10000.0,
+      "barrio": "ESTORIL",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-estoril/5161-M6532987",
+      "titulo": "Lote en Venta, PASADENA, Bogotá D.C.",
+      "id_domus": "5161-M6532987",
+      "fechaPublicacion": null,
+      "lat": 4.693756580352783,
+      "lon": -74.0565414428711,
+      "location_type": "exacta",
+      "zonaConsulta": "PASADENA",
+      "zonaSlug": "pasadena",
+      "origenZona": "barrio"
+    }
+  ]
+}

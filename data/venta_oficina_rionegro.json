@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "RIONEGRO",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "oficina",
+  "generado": "2026.SEP.04 12:04",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 900000000,
+      "area": 106.0,
+      "administracion": 1691000,
+      "barrio": "RIONEGRO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-rionegro-1-banos-1-garajes/2671-M5843209",
+      "titulo": "Oficina en Venta, Nogal, Bogotá D.C.",
+      "id_domus": "2671-M5843209",
+      "fechaPublicacion": null,
+      "lat": 4.68104,
+      "lon": -74.06603,
+      "location_type": "exacta",
+      "zonaConsulta": "RIONEGRO",
+      "zonaSlug": "rionegro",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 1100000000,
+      "area": 244.0,
+      "administracion": 0,
+      "barrio": "LOS ANDES",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 4,
+      "parqueaderos": 2,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-los-andes-4-banos-2-garajes/13674-M5849706",
+      "titulo": "Oficina en Venta, RIONEGRO LOS ANDES, Bogotá D.C.",
+      "id_domus": "13674-M5849706",
+      "fechaPublicacion": null,
+      "lat": 4.6888628005981445,
+      "lon": -74.0682144165039,
+      "location_type": "exacta",
+      "zonaConsulta": "RIONEGRO",
+      "zonaSlug": "rionegro",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 2760000000,
+      "area": 367.0,
+      "administracion": 0,
+      "barrio": "RIONEGRO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 3,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-rionegro-3-banos-4-garajes/10457-M6371673",
+      "titulo": "Oficina en Venta, PARQUE DEL CHICO, Bogotá D.C.",
+      "id_domus": "10457-M6371673",
+      "fechaPublicacion": null,
+      "lat": 4.683744430541992,
+      "lon": -74.06553649902344,
+      "location_type": "exacta",
+      "zonaConsulta": "RIONEGRO",
+      "zonaSlug": "rionegro",
+      "origenZona": "barrio"
+    }
+  ]
+}
