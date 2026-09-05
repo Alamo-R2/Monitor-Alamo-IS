@@ -19835,5 +19835,88 @@
       "venta_apartamento_engativa": 0,
       "arriendo_apartamento_engativa": 3
     }
+  },
+  {
+    "grupo": "cada5",
+    "generado": "2026.SEP.05 13:15",
+    "iso": "2026-09-05T13:15:01",
+    "total": 438,
+    "segundos_total": 79.4,
+    "datasets": [
+      {
+        "clave": "venta_apartamento_restrepo",
+        "total": 50,
+        "segundos": 7.2
+      },
+      {
+        "clave": "arriendo_apartamento_restrepo",
+        "total": 19,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_apartamento_salitre",
+        "total": 52,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_apartamento_salitre",
+        "total": 56,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_apartamento_torca",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_apartamento_torca",
+        "total": 51,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_apartamento_suba",
+        "total": 55,
+        "segundos": 6.9
+      },
+      {
+        "clave": "arriendo_apartamento_suba",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_apartamento_rincon-de-suba",
+        "total": 6,
+        "segundos": 6.9
+      },
+      {
+        "clave": "arriendo_apartamento_rincon-de-suba",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_apartamento_tibabuyes",
+        "total": 49,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_apartamento_tibabuyes",
+        "total": 0,
+        "segundos": 4.7
+      }
+    ],
+    "variaciones": {
+      "venta_apartamento_restrepo": 0,
+      "arriendo_apartamento_restrepo": -1,
+      "venta_apartamento_salitre": -1,
+      "arriendo_apartamento_salitre": 2,
+      "venta_apartamento_torca": -1,
+      "arriendo_apartamento_torca": 1,
+      "venta_apartamento_suba": 0,
+      "arriendo_apartamento_suba": -2,
+      "venta_apartamento_rincon-de-suba": 0,
+      "arriendo_apartamento_rincon-de-suba": 0,
+      "venta_apartamento_tibabuyes": -1,
+      "arriendo_apartamento_tibabuyes": -5
+    }
   }
 ]
