@@ -1,68 +1,14 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 5,
   "zona": "BATAN",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "local",
-  "generado": "2026.AGO.30 02:48",
+  "generado": "2026.SEP.05 11:13",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "local",
-      "tipoPortal": "Local Comercial",
-      "precio": 290000000,
-      "area": 19.0,
-      "administracion": null,
-      "barrio": "SUBA BATAN",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 0.0,
-      "parqueaderos": 0.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-suba-batan/20264-M7000959",
-      "titulo": "Local Comercial en Venta, Suba Batan, Bogotá D.C.",
-      "id_domus": "20264-M7000959",
-      "fechaPublicacion": null,
-      "lat": 4.706587,
-      "lon": -74.0734885,
-      "location_type": "exacta",
-      "zonaConsulta": "BATAN",
-      "zonaSlug": "batan",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "local",
-      "tipoPortal": "Local Comercial",
-      "precio": 2600000000,
-      "area": 465.0,
-      "administracion": 0.0,
-      "barrio": "EL BATAN",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": null,
-      "parqueaderos": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-el-batan/10457-M6140843",
-      "titulo": "Local Comercial en Venta, SANTA BARBARA CENTRAL, Bogotá D.C.",
-      "id_domus": "10457-M6140843",
-      "fechaPublicacion": null,
-      "lat": 4.706932544708252,
-      "lon": -74.05476379394531,
-      "location_type": "exacta",
-      "zonaConsulta": "BATAN",
-      "zonaSlug": "batan",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -89,7 +35,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -116,34 +62,61 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
       "tipo": "local",
       "tipoPortal": "Local Comercial",
-      "precio": 4500000000,
-      "area": 500.0,
+      "precio": 290000000,
+      "area": 19.0,
       "administracion": null,
-      "barrio": "BATAN",
+      "barrio": "SUBA BATAN",
       "direccion": "",
       "habitaciones": null,
-      "banos": 2.0,
-      "parqueaderos": 2.0,
+      "banos": 0.0,
+      "parqueaderos": 0.0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-batan-2-banos-2-garajes/10323-M6434705",
-      "titulo": "Local Comercial en Venta, Batan, Bogotá D.C.",
-      "id_domus": "10323-M6434705",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-suba-batan/20264-M7000959",
+      "titulo": "Local Comercial en Venta, Suba Batan, Bogotá D.C.",
+      "id_domus": "20264-M7000959",
       "fechaPublicacion": null,
-      "lat": 4.70288,
-      "lon": -74.05505,
+      "lat": 4.706587,
+      "lon": -74.0734885,
       "location_type": "exacta",
       "zonaConsulta": "BATAN",
       "zonaSlug": "batan",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 2600000000,
+      "area": 465.0,
+      "administracion": 0.0,
+      "barrio": "EL BATAN",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-el-batan/10457-M6140843",
+      "titulo": "Local Comercial en Venta, SANTA BARBARA CENTRAL, Bogotá D.C.",
+      "id_domus": "10457-M6140843",
+      "fechaPublicacion": null,
+      "lat": 4.706932544708252,
+      "lon": -74.05476379394531,
+      "location_type": "exacta",
+      "zonaConsulta": "BATAN",
+      "zonaSlug": "batan",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
