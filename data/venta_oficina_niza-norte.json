@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "NIZA NORTE",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "oficina",
+  "generado": "2026.SEP.06 11:36",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 6500000000,
+      "area": 670.0,
+      "administracion": 6365000.0,
+      "barrio": "NIZA NORTE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 5.0,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-niza-norte-5-banos-4-garajes/3142-M1969067",
+      "titulo": "Oficina en Venta y Arriendo, ATABANZA, Bogotá D.C.",
+      "id_domus": "3142-M1969067",
+      "fechaPublicacion": null,
+      "lat": 4.711296081542969,
+      "lon": -74.07426452636719,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA NORTE",
+      "zonaSlug": "niza-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 3400000000,
+      "area": 390.0,
+      "administracion": null,
+      "barrio": "NIZA NORTE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-niza-norte/164-M6919145",
+      "titulo": "Oficina en Venta, Niza Norte, Bogotá D.C.",
+      "id_domus": "164-M6919145",
+      "fechaPublicacion": null,
+      "lat": 4.71424,
+      "lon": -74.07452,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA NORTE",
+      "zonaSlug": "niza-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 1490000000,
+      "area": 125.0,
+      "administracion": null,
+      "barrio": "NIZA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 3.0,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-niza-3-banos/399-M5306241",
+      "titulo": "Oficina en Venta, Niza Norte, Bogotá D.C.",
+      "id_domus": "399-M5306241",
+      "fechaPublicacion": null,
+      "lat": 4.71034,
+      "lon": -74.0742,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA NORTE",
+      "zonaSlug": "niza-norte",
+      "origenZona": "barrio"
+    }
+  ]
+}

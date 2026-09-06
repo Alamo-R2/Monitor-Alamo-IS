@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "oficina",
-  "generado": "2026.AGO.30 08:46",
+  "generado": "2026.SEP.06 11:36",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -41,87 +41,6 @@
       ],
       "tipo": "oficina",
       "tipoPortal": "Oficina",
-      "precio": 10000000,
-      "area": 200.0,
-      "administracion": 1790000,
-      "barrio": "MONACO",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 1,
-      "parqueaderos": 4,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-monaco-1-banos-4-garajes/3252-M4557126",
-      "titulo": "Oficina en Arriendo, MONACO, Bogotá D.C.",
-      "id_domus": "3252-M4557126",
-      "fechaPublicacion": null,
-      "lat": 4.697495460510254,
-      "lon": -74.05571746826172,
-      "location_type": "exacta",
-      "zonaConsulta": "MONACO",
-      "zonaSlug": "monaco",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "oficina",
-      "tipoPortal": "Oficina",
-      "precio": 11500000,
-      "area": 195.0,
-      "administracion": 0,
-      "barrio": "MONACO",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 1,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-monaco-1-banos/2996-M6747049",
-      "titulo": "Oficina en Arriendo, PEPE SIERRA, Bogotá D.C.",
-      "id_domus": "2996-M6747049",
-      "fechaPublicacion": null,
-      "lat": 4.699824333190918,
-      "lon": -74.0573959350586,
-      "location_type": "exacta",
-      "zonaConsulta": "MONACO",
-      "zonaSlug": "monaco",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "oficina",
-      "tipoPortal": "Oficina",
-      "precio": 3100000,
-      "area": 90.0,
-      "administracion": 0,
-      "barrio": "MONACO",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 1,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-monaco-1-banos/23263-M6922549",
-      "titulo": "Oficina en Arriendo, USAQUEN, Bogotá D.C.",
-      "id_domus": "23263-M6922549",
-      "fechaPublicacion": null,
-      "lat": 4.699621677398682,
-      "lon": -74.0573501586914,
-      "location_type": "exacta",
-      "zonaConsulta": "MONACO",
-      "zonaSlug": "monaco",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "oficina",
-      "tipoPortal": "Oficina",
       "precio": 8890000,
       "area": 320.0,
       "administracion": 0,
@@ -143,7 +62,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 10000000,
+      "area": 200.0,
+      "administracion": 1790000,
+      "barrio": "MONACO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-monaco-1-banos-4-garajes/3252-M4557126",
+      "titulo": "Oficina en Arriendo, MONACO, Bogotá D.C.",
+      "id_domus": "3252-M4557126",
+      "fechaPublicacion": null,
+      "lat": 4.697495460510254,
+      "lon": -74.05571746826172,
+      "location_type": "exacta",
+      "zonaConsulta": "MONACO",
+      "zonaSlug": "monaco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -170,7 +116,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 3100000,
+      "area": 90.0,
+      "administracion": 0,
+      "barrio": "MONACO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-monaco-1-banos/23263-M6922549",
+      "titulo": "Oficina en Arriendo, USAQUEN, Bogotá D.C.",
+      "id_domus": "23263-M6922549",
+      "fechaPublicacion": null,
+      "lat": 4.699621677398682,
+      "lon": -74.0573501586914,
+      "location_type": "exacta",
+      "zonaConsulta": "MONACO",
+      "zonaSlug": "monaco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -197,24 +170,24 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "oficina",
       "tipoPortal": "Oficina",
-      "precio": 4000000,
-      "area": 58.0,
-      "administracion": 111111,
+      "precio": 11500000,
+      "area": 195.0,
+      "administracion": 0,
       "barrio": "MONACO",
       "direccion": "",
       "habitaciones": null,
       "banos": 1,
-      "parqueaderos": 1,
+      "parqueaderos": 0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-monaco-1-banos-1-garajes/15698-M6331586",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-monaco-1-banos/2996-M6747049",
       "titulo": "Oficina en Arriendo, PEPE SIERRA, Bogotá D.C.",
-      "id_domus": "15698-M6331586",
+      "id_domus": "2996-M6747049",
       "fechaPublicacion": null,
       "lat": 4.699824333190918,
       "lon": -74.0573959350586,
@@ -224,7 +197,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -245,6 +218,33 @@
       "fechaPublicacion": null,
       "lat": 4.69865,
       "lon": -74.05631,
+      "location_type": "exacta",
+      "zonaConsulta": "MONACO",
+      "zonaSlug": "monaco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 4000000,
+      "area": 58.0,
+      "administracion": 111111,
+      "barrio": "MONACO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-monaco-1-banos-1-garajes/15698-M6331586",
+      "titulo": "Oficina en Arriendo, PEPE SIERRA, Bogotá D.C.",
+      "id_domus": "15698-M6331586",
+      "fechaPublicacion": null,
+      "lat": 4.699824333190918,
+      "lon": -74.0573959350586,
       "location_type": "exacta",
       "zonaConsulta": "MONACO",
       "zonaSlug": "monaco",

@@ -1,41 +1,14 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 8,
   "zona": "LA CALLEJA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "oficina",
-  "generado": "2026.AGO.30 02:48",
+  "generado": "2026.SEP.06 11:36",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "oficina",
-      "tipoPortal": "Oficina",
-      "precio": 13755000000,
-      "area": 1195.88,
-      "administracion": null,
-      "barrio": "LA CALLEJA",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 2,
-      "parqueaderos": 4,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-la-calleja-2-banos-4-garajes/2671-M5843260",
-      "titulo": "Oficina en Venta, Santa Barbara, Bogotá D.C.",
-      "id_domus": "2671-M5843260",
-      "fechaPublicacion": null,
-      "lat": 4.706586,
-      "lon": -74.048771,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CALLEJA",
-      "zonaSlug": "la-calleja",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -62,7 +35,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -89,7 +62,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -116,34 +89,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "oficina",
-      "tipoPortal": "Oficina",
-      "precio": 1300000000,
-      "area": 160.0,
-      "administracion": 1411100.0,
-      "barrio": "SABANALARGA",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 2,
-      "parqueaderos": 3,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-sabanalarga-2-banos-3-garajes/5175-M5326724",
-      "titulo": "Oficina en Venta, La Calleja Usaquen, Bogotá D.C.",
-      "id_domus": "5175-M5326724",
-      "fechaPublicacion": null,
-      "lat": 4.70469,
-      "lon": -74.04539,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CALLEJA",
-      "zonaSlug": "la-calleja",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -170,7 +116,88 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 13755000000,
+      "area": 1195.88,
+      "administracion": null,
+      "barrio": "LA CALLEJA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-la-calleja-2-banos-4-garajes/2671-M5843260",
+      "titulo": "Oficina en Venta, Santa Barbara, Bogotá D.C.",
+      "id_domus": "2671-M5843260",
+      "fechaPublicacion": null,
+      "lat": 4.706586,
+      "lon": -74.048771,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CALLEJA",
+      "zonaSlug": "la-calleja",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 1300000000,
+      "area": 160.0,
+      "administracion": 1411100.0,
+      "barrio": "SABANALARGA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2,
+      "parqueaderos": 3,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-sabanalarga-2-banos-3-garajes/5175-M5326724",
+      "titulo": "Oficina en Venta, La Calleja Usaquen, Bogotá D.C.",
+      "id_domus": "5175-M5326724",
+      "fechaPublicacion": null,
+      "lat": 4.70469,
+      "lon": -74.04539,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CALLEJA",
+      "zonaSlug": "la-calleja",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 550000000,
+      "area": 58.0,
+      "administracion": 280000.0,
+      "barrio": "LA CALLEJA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-la-calleja-1-banos/23796-M7009987",
+      "titulo": "Oficina en Venta, SANTA BARBARA OCCIDENTAL, Bogotá D.C.",
+      "id_domus": "23796-M7009987",
+      "fechaPublicacion": null,
+      "lat": 4.707052230834961,
+      "lon": -74.05091857910156,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CALLEJA",
+      "zonaSlug": "la-calleja",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],

@@ -5,37 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "lote",
-  "generado": "2026.AGO.30 02:48",
+  "generado": "2026.SEP.06 11:36",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "lote",
-      "tipoPortal": "Lote",
-      "precio": 10600000000,
-      "area": 1774.0,
-      "administracion": null,
-      "barrio": "SABANALARGA",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": null,
-      "parqueaderos": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-sabanalarga/699-M3156799",
-      "titulo": "Lote en Venta, La Calleja, Bogotá D.C.",
-      "id_domus": "699-M3156799",
-      "fechaPublicacion": null,
-      "lat": 4.7053120362,
-      "lon": -74.0450133548,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CALLEJA",
-      "zonaSlug": "la-calleja",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -56,6 +29,33 @@
       "fechaPublicacion": null,
       "lat": 4.708493709564209,
       "lon": -74.0512924194336,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CALLEJA",
+      "zonaSlug": "la-calleja",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 10600000000,
+      "area": 1774.0,
+      "administracion": null,
+      "barrio": "SABANALARGA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-sabanalarga/699-M3156799",
+      "titulo": "Lote en Venta, La Calleja, Bogotá D.C.",
+      "id_domus": "699-M3156799",
+      "fechaPublicacion": null,
+      "lat": 4.7053120362,
+      "lon": -74.0450133548,
       "location_type": "exacta",
       "zonaConsulta": "LA CALLEJA",
       "zonaSlug": "la-calleja",
