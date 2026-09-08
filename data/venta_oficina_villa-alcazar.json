@@ -5,37 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "oficina",
-  "generado": "2026.SEP.02 12:02",
+  "generado": "2026.SEP.08 12:04",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "oficina",
-      "tipoPortal": "Oficina",
-      "precio": 2900000000,
-      "area": 690.0,
-      "administracion": null,
-      "barrio": "VILLA LUZ",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 5,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-villa-luz-5-banos/34-M3219033",
-      "titulo": "Oficina en Venta, Villa Luz, Bogotá D.C.",
-      "id_domus": "34-M3219033",
-      "fechaPublicacion": null,
-      "lat": 4.68381,
-      "lon": -74.11107,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA ALCAZAR",
-      "zonaSlug": "villa-alcazar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -56,6 +29,33 @@
       "fechaPublicacion": null,
       "lat": 4.68513822555542,
       "lon": -74.1097183227539,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ALCAZAR",
+      "zonaSlug": "villa-alcazar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 2900000000,
+      "area": 690.0,
+      "administracion": null,
+      "barrio": "VILLA LUZ",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 5,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-villa-luz-5-banos/34-M3219033",
+      "titulo": "Oficina en Venta, Villa Luz, Bogotá D.C.",
+      "id_domus": "34-M3219033",
+      "fechaPublicacion": null,
+      "lat": 4.68381,
+      "lon": -74.11107,
       "location_type": "exacta",
       "zonaConsulta": "VILLA ALCAZAR",
       "zonaSlug": "villa-alcazar",

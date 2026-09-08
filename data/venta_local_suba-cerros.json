@@ -5,37 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "local",
-  "generado": "2026.SEP.02 12:02",
+  "generado": "2026.SEP.08 12:04",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "local",
-      "tipoPortal": "Local Comercial",
-      "precio": 20000000000,
-      "area": 2341.72,
-      "administracion": null,
-      "barrio": "CERROS DE SUBA",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 3,
-      "parqueaderos": 4,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-cerros-de-suba-3-banos-4-garajes/2671-M5828660",
-      "titulo": "Local Comercial en Venta, Cerros De Suba, Bogotá D.C.",
-      "id_domus": "2671-M5828660",
-      "fechaPublicacion": null,
-      "lat": 4.726267,
-      "lon": -74.070864,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA CERROS",
-      "zonaSlug": "suba-cerros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -56,6 +29,33 @@
       "fechaPublicacion": null,
       "lat": 4.76325,
       "lon": -74.04541,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 20000000000,
+      "area": 2341.72,
+      "administracion": null,
+      "barrio": "CERROS DE SUBA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 3,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-cerros-de-suba-3-banos-4-garajes/2671-M5828660",
+      "titulo": "Local Comercial en Venta, Cerros De Suba, Bogotá D.C.",
+      "id_domus": "2671-M5828660",
+      "fechaPublicacion": null,
+      "lat": 4.726267,
+      "lon": -74.070864,
       "location_type": "exacta",
       "zonaConsulta": "SUBA CERROS",
       "zonaSlug": "suba-cerros",
