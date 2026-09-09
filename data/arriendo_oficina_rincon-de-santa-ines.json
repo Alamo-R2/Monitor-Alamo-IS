@@ -1,14 +1,68 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 6,
   "zona": "RINCON DE SANTA INES",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "oficina",
-  "generado": "2026.AGO.31 14:41",
+  "generado": "2026.SEP.09 12:15",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 6000000,
+      "area": 116.0,
+      "administracion": 1848500.0,
+      "barrio": "SANTA INES",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2,
+      "parqueaderos": 3,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-santa-ines-2-banos-3-garajes/4137-M7013854",
+      "titulo": "Oficina en Arriendo, CHICO NORTE, Bogotá D.C.",
+      "id_domus": "4137-M7013854",
+      "fechaPublicacion": null,
+      "lat": 4.598451137542725,
+      "lon": -74.07935333251953,
+      "location_type": "exacta",
+      "zonaConsulta": "RINCON DE SANTA INES",
+      "zonaSlug": "rincon-de-santa-ines",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 8078000,
+      "area": 115.0,
+      "administracion": 1774400.0,
+      "barrio": "SANTA INES",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2,
+      "parqueaderos": 2,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-santa-ines-2-banos-2-garajes/4137-M7009476",
+      "titulo": "Oficina en Arriendo, CHICO NORTE, Bogotá D.C.",
+      "id_domus": "4137-M7009476",
+      "fechaPublicacion": null,
+      "lat": 4.598451137542725,
+      "lon": -74.07935333251953,
+      "location_type": "exacta",
+      "zonaConsulta": "RINCON DE SANTA INES",
+      "zonaSlug": "rincon-de-santa-ines",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -35,7 +89,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -62,7 +116,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -80,6 +134,33 @@
       "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-santa-ines-2-banos-3-garajes/3142-M6455191",
       "titulo": "Oficina en Arriendo, SANTA INES, Bogotá D.C.",
       "id_domus": "3142-M6455191",
+      "fechaPublicacion": null,
+      "lat": 4.598451137542725,
+      "lon": -74.07935333251953,
+      "location_type": "exacta",
+      "zonaConsulta": "RINCON DE SANTA INES",
+      "zonaSlug": "rincon-de-santa-ines",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 8078000,
+      "area": 115.0,
+      "administracion": 1774774.0,
+      "barrio": "SANTA INES",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2,
+      "parqueaderos": 2,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-santa-ines-2-banos-2-garajes/4137-M7013345",
+      "titulo": "Oficina en Arriendo, CHICO NORTE, Bogotá D.C.",
+      "id_domus": "4137-M7013345",
       "fechaPublicacion": null,
       "lat": 4.598451137542725,
       "lon": -74.07935333251953,
