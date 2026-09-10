@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "SABANA DE TIBABUYES NORTE",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "oficina",
-  "generado": "2026.AGO.31 14:41",
+  "generado": "2026.SEP.10 12:09",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -95,6 +95,33 @@
       ],
       "tipo": "oficina",
       "tipoPortal": "Oficina",
+      "precio": 280000000,
+      "area": 32.0,
+      "administracion": 254600,
+      "barrio": "ANDES NORTE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-andes-norte-1-banos-1-garajes/205-M7009161",
+      "titulo": "Oficina en Venta, Andes Norte, Bogotá D.C.",
+      "id_domus": "205-M7009161",
+      "fechaPublicacion": null,
+      "lat": 4.68944,
+      "lon": -74.06593,
+      "location_type": "exacta",
+      "zonaConsulta": "SABANA DE TIBABUYES NORTE",
+      "zonaSlug": "sabana-de-tibabuyes-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
       "precio": 271000000,
       "area": 26.0,
       "administracion": 226100,
@@ -116,7 +143,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
