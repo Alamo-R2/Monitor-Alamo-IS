@@ -1,41 +1,14 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 7,
   "zona": "Rincon de Suba",
   "origen": "upl",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.05 13:15",
+  "generado": "2026.SEP.10 14:03",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 250000000,
-      "area": 49.0,
-      "administracion": 135000000.0,
-      "barrio": "CLUB LOS LAGARTOS",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-club-los-lagartos-3-habitaciones-2-banos/20447-M6832689",
-      "titulo": "Apartamento en Venta, SUBA RINCON, Bogotá D.C.",
-      "id_domus": "20447-M6832689",
-      "fechaPublicacion": null,
-      "lat": 4.716294765472412,
-      "lon": -74.09410858154297,
-      "location_type": "exacta",
-      "zonaConsulta": "Rincon de Suba",
-      "zonaSlug": "rincon-de-suba",
-      "origenZona": "upl"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -62,7 +35,7 @@
       "origenZona": "upl"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -89,7 +62,7 @@
       "origenZona": "upl"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -116,7 +89,61 @@
       "origenZona": "upl"
     },
     {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 237000000,
+      "area": 41.0,
+      "administracion": 182240.0,
+      "barrio": "RINCON DE SANTA INES",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-rincon-de-santa-ines-2-habitaciones-1-banos-1-garajes/874-M7033582",
+      "titulo": "Apartamento en Venta, RINCON DE SANTA INES SUBA, Bogotá D.C.",
+      "id_domus": "874-M7033582",
+      "fechaPublicacion": null,
+      "lat": 4.758731365203857,
+      "lon": -74.10173797607422,
+      "location_type": "exacta",
+      "zonaConsulta": "Rincon de Suba",
+      "zonaSlug": "rincon-de-suba",
+      "origenZona": "upl"
+    },
+    {
       "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 49.0,
+      "administracion": 135000000.0,
+      "barrio": "CLUB LOS LAGARTOS",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-club-los-lagartos-3-habitaciones-2-banos/20447-M6832689",
+      "titulo": "Apartamento en Venta, SUBA RINCON, Bogotá D.C.",
+      "id_domus": "20447-M6832689",
+      "fechaPublicacion": null,
+      "lat": 4.716294765472412,
+      "lon": -74.09410858154297,
+      "location_type": "exacta",
+      "zonaConsulta": "Rincon de Suba",
+      "zonaSlug": "rincon-de-suba",
+      "origenZona": "upl"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -143,7 +170,7 @@
       "origenZona": "upl"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
