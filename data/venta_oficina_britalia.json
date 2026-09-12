@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "BRITALIA",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "oficina",
+  "generado": "2026.SEP.12 11:33",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 330000000,
+      "area": 30.0,
+      "administracion": 288000,
+      "barrio": "BRITALIA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-britalia-1-banos-1-garajes/2996-M6018281",
+      "titulo": "Oficina en Venta, BRITALIA NORTE, Bogotá D.C.",
+      "id_domus": "2996-M6018281",
+      "fechaPublicacion": null,
+      "lat": 4.747006893157959,
+      "lon": -74.05738067626953,
+      "location_type": "exacta",
+      "zonaConsulta": "BRITALIA",
+      "zonaSlug": "britalia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 320000000,
+      "area": 30.0,
+      "administracion": 288000,
+      "barrio": "SAN CIPRIANO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-san-cipriano-1-banos-1-garajes/2996-M5754790",
+      "titulo": "Oficina en Venta, BRITALIA NORTE, Bogotá D.C.",
+      "id_domus": "2996-M5754790",
+      "fechaPublicacion": null,
+      "lat": 4.745406150817871,
+      "lon": -74.0496597290039,
+      "location_type": "exacta",
+      "zonaConsulta": "BRITALIA",
+      "zonaSlug": "britalia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 360000000,
+      "area": 42.0,
+      "administracion": 340000,
+      "barrio": "BRITALIA NORTE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-britalia-norte-1-banos/17565-M6605894",
+      "titulo": "Oficina en Venta, Britalia Norte, Bogotá D.C.",
+      "id_domus": "17565-M6605894",
+      "fechaPublicacion": null,
+      "lat": 4.7455767,
+      "lon": -74.0503558,
+      "location_type": "exacta",
+      "zonaConsulta": "BRITALIA",
+      "zonaSlug": "britalia",
+      "origenZona": "barrio"
+    }
+  ]
+}
