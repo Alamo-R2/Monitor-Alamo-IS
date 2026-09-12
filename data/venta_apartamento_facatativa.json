@@ -5,10 +5,37 @@
   "origen": "municipio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.06 14:28",
+  "generado": "2026.SEP.12 14:27",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 280000000,
+      "area": 60.0,
+      "administracion": 100000.0,
+      "barrio": "FACA",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-facatativa-faca-2-habitaciones-2-banos-1-garajes/3507-M2569873",
+      "titulo": "Apartamento en Venta, faca, Facatativa",
+      "id_domus": "3507-M2569873",
+      "fechaPublicacion": null,
+      "lat": 0.0,
+      "lon": 0.0,
+      "location_type": "aproximada",
+      "zonaConsulta": "Facatativa",
+      "zonaSlug": "facatativa",
+      "origenZona": "municipio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -35,7 +62,7 @@
       "origenZona": "municipio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -57,33 +84,6 @@
       "lat": 4.80919,
       "lon": -74.35185,
       "location_type": "exacta",
-      "zonaConsulta": "Facatativa",
-      "zonaSlug": "facatativa",
-      "origenZona": "municipio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 280000000,
-      "area": 60.0,
-      "administracion": 100000.0,
-      "barrio": "FACA",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-facatativa-faca-2-habitaciones-2-banos-1-garajes/3507-M2569873",
-      "titulo": "Apartamento en Venta, faca, Facatativa",
-      "id_domus": "3507-M2569873",
-      "fechaPublicacion": null,
-      "lat": 0.0,
-      "lon": 0.0,
-      "location_type": "aproximada",
       "zonaConsulta": "Facatativa",
       "zonaSlug": "facatativa",
       "origenZona": "municipio"
