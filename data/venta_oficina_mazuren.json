@@ -5,37 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "oficina",
-  "generado": "2026.AGO.30 08:46",
+  "generado": "2026.SEP.14 13:48",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "oficina",
-      "tipoPortal": "Oficina",
-      "precio": 786500000,
-      "area": 82.0,
-      "administracion": 176000,
-      "barrio": "MAZUREN",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 0,
-      "parqueaderos": 1,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-mazuren-1-garajes/4630-M6795795",
-      "titulo": "Oficina en Venta, Mazuren, Bogotá D.C.",
-      "id_domus": "4630-M6795795",
-      "fechaPublicacion": null,
-      "lat": 4.7389860258,
-      "lon": -74.0573143959,
-      "location_type": "exacta",
-      "zonaConsulta": "MAZUREN",
-      "zonaSlug": "mazuren",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -56,6 +29,33 @@
       "fechaPublicacion": null,
       "lat": 4.73857,
       "lon": -74.05602,
+      "location_type": "exacta",
+      "zonaConsulta": "MAZUREN",
+      "zonaSlug": "mazuren",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "oficina",
+      "tipoPortal": "Oficina",
+      "precio": 786500000,
+      "area": 82.0,
+      "administracion": 176000,
+      "barrio": "MAZUREN",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 0,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-oficina-bogota-mazuren-1-garajes/4630-M6795795",
+      "titulo": "Oficina en Venta, Mazuren, Bogotá D.C.",
+      "id_domus": "4630-M6795795",
+      "fechaPublicacion": null,
+      "lat": 4.7389860258,
+      "lon": -74.0573143959,
       "location_type": "exacta",
       "zonaConsulta": "MAZUREN",
       "zonaSlug": "mazuren",

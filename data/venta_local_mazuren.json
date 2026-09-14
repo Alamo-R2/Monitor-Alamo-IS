@@ -1,10 +1,92 @@
 {
   "ok": true,
-  "total": 0,
+  "total": 3,
   "zona": "MAZUREN",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "local",
-  "generado": "2026.AGO.30 08:46",
-  "inmuebles": []
+  "generado": "2026.SEP.14 13:48",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 380000000,
+      "area": 34.0,
+      "administracion": 810000.0,
+      "barrio": "MAZUREN",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1.0,
+      "parqueaderos": 0.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-mazuren-1-banos/17565-M6145659",
+      "titulo": "Local Comercial en Venta, Mazuren, Bogotá D.C.",
+      "id_domus": "17565-M6145659",
+      "fechaPublicacion": null,
+      "lat": 4.738779,
+      "lon": -74.054944,
+      "location_type": "exacta",
+      "zonaConsulta": "MAZUREN",
+      "zonaSlug": "mazuren",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 380000000,
+      "area": 67.0,
+      "administracion": 550000.0,
+      "barrio": "MAZUREN",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-mazuren/971-1755923",
+      "titulo": "Local Comercial en Venta, MAZUREN, Bogotá D.C.",
+      "id_domus": "971-1755923",
+      "fechaPublicacion": null,
+      "lat": 4.7389960289001465,
+      "lon": -74.05511474609375,
+      "location_type": "exacta",
+      "zonaConsulta": "MAZUREN",
+      "zonaSlug": "mazuren",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 1000000000,
+      "area": 54.0,
+      "administracion": null,
+      "barrio": "MAZUREN",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1.0,
+      "parqueaderos": 4.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-mazuren-1-banos-4-garajes/MC7029372",
+      "titulo": "Local Comercial en Venta, CANTABRIA MAZUREN   Colina y Alrededores, Bogotá D.C.",
+      "id_domus": "MC7029372",
+      "fechaPublicacion": null,
+      "lat": 4.7386208,
+      "lon": -74.05495,
+      "location_type": "exacta",
+      "zonaConsulta": "MAZUREN",
+      "zonaSlug": "mazuren",
+      "origenZona": "barrio"
+    }
+  ]
 }
