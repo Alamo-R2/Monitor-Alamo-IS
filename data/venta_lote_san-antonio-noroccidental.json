@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "SAN ANTONIO NOROCCIDENTAL",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "lote",
+  "generado": "2026.SEP.15 12:34",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 90000000000,
+      "area": 22290.0,
+      "administracion": null,
+      "barrio": "SAN ANTONIO NORTE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-san-antonio-norte/21638-M6290897",
+      "titulo": "Lote en Venta, San Antonio Norte, Bogotá D.C.",
+      "id_domus": "21638-M6290897",
+      "fechaPublicacion": null,
+      "lat": 4.76119,
+      "lon": -74.02683,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
+      "zonaSlug": "san-antonio-noroccidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 89160000000,
+      "area": 22290.0,
+      "administracion": 0.0,
+      "barrio": "NA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-na/16305-M6804356",
+      "titulo": "Lote en Venta, San Antonio, Bogotá D.C.",
+      "id_domus": "16305-M6804356",
+      "fechaPublicacion": null,
+      "lat": 0.0,
+      "lon": 0.0,
+      "location_type": "aproximada",
+      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
+      "zonaSlug": "san-antonio-noroccidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 8500000000,
+      "area": 2022.0,
+      "administracion": 0.0,
+      "barrio": "NA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-na/16305-M6804248",
+      "titulo": "Lote en Venta, San Antonio, Bogotá D.C.",
+      "id_domus": "16305-M6804248",
+      "fechaPublicacion": null,
+      "lat": 0.0,
+      "lon": 0.0,
+      "location_type": "aproximada",
+      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
+      "zonaSlug": "san-antonio-noroccidental",
+      "origenZona": "barrio"
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "edificio",
-  "generado": "2026.SEP.06 11:36",
+  "generado": "2026.SEP.15 12:34",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -95,60 +95,6 @@
       ],
       "tipo": "edificio",
       "tipoPortal": "Apartaestudio",
-      "precio": 2300000,
-      "area": 37.0,
-      "administracion": null,
-      "barrio": "NIZA SUBA",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1.0,
-      "parqueaderos": 0.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartaestudio-bogota-niza-suba-1-habitaciones-1-banos/14059-M6978934",
-      "titulo": "Apartaestudio en Arriendo, Niza Suba, Bogotá D.C.",
-      "id_domus": "14059-M6978934",
-      "fechaPublicacion": null,
-      "lat": 4.71028,
-      "lon": -74.07178,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUBA",
-      "zonaSlug": "niza-suba",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 7000000,
-      "area": 247.0,
-      "administracion": 1400000.0,
-      "barrio": "NIZA SUBA",
-      "direccion": "",
-      "habitaciones": 4.0,
-      "banos": 5.0,
-      "parqueaderos": 2.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-niza-suba-4-habitaciones-5-banos-2-garajes/16406-M5967477",
-      "titulo": "Apartamento en Arriendo, NIZA SUBA, Bogotá D.C.",
-      "id_domus": "16406-M5967477",
-      "fechaPublicacion": null,
-      "lat": 4.719263076782227,
-      "lon": -74.07594299316406,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUBA",
-      "zonaSlug": "niza-suba",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Apartaestudio",
       "precio": 2368000,
       "area": 45.0,
       "administracion": 532000.0,
@@ -170,7 +116,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Local Comercial",
+      "precio": 5700000,
+      "area": 74.0,
+      "administracion": null,
+      "barrio": "NIZA SUBA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": 0.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-local-comercial-bogota-niza-suba/734-M7036288",
+      "titulo": "Local Comercial en Arriendo, Niza Suba, Bogotá D.C.",
+      "id_domus": "734-M7036288",
+      "fechaPublicacion": null,
+      "lat": 4.71222,
+      "lon": -74.07121,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA SUBA",
+      "zonaSlug": "niza-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -197,7 +170,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -218,6 +191,33 @@
       "fechaPublicacion": null,
       "lat": 4.71158,
       "lon": -74.07382,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA SUBA",
+      "zonaSlug": "niza-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Apartamento",
+      "precio": 7000000,
+      "area": 247.0,
+      "administracion": 1400000.0,
+      "barrio": "NIZA SUBA",
+      "direccion": "",
+      "habitaciones": 4.0,
+      "banos": 5.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-niza-suba-4-habitaciones-5-banos-2-garajes/16406-M5967477",
+      "titulo": "Apartamento en Arriendo, NIZA SUBA, Bogotá D.C.",
+      "id_domus": "16406-M5967477",
+      "fechaPublicacion": null,
+      "lat": 4.719263076782227,
+      "lon": -74.07594299316406,
       "location_type": "exacta",
       "zonaConsulta": "NIZA SUBA",
       "zonaSlug": "niza-suba",
@@ -256,33 +256,6 @@
         "Arriendo"
       ],
       "tipo": "edificio",
-      "tipoPortal": "Apartamento",
-      "precio": 4200000,
-      "area": 100.0,
-      "administracion": null,
-      "barrio": "NIZA SUBA",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 3.0,
-      "parqueaderos": 2.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-niza-suba-3-habitaciones-3-banos-2-garajes/14059-M6941890",
-      "titulo": "Apartamento en Arriendo, Niza Suba, Bogotá D.C.",
-      "id_domus": "14059-M6941890",
-      "fechaPublicacion": null,
-      "lat": 4.70485,
-      "lon": -74.06744,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUBA",
-      "zonaSlug": "niza-suba",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "edificio",
       "tipoPortal": "Bodega",
       "precio": 19000000,
       "area": 395.0,
@@ -305,7 +278,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -332,7 +305,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -359,61 +332,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 5500000,
-      "area": 364.5,
-      "administracion": 0.0,
-      "barrio": "NIZA",
-      "direccion": "",
-      "habitaciones": 5.0,
-      "banos": 3.0,
-      "parqueaderos": 2.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-niza-5-habitaciones-3-banos-2-garajes/3695-M6879289",
-      "titulo": "Casa en Arriendo, SUBA NIZA, Bogotá D.C.",
-      "id_domus": "3695-M6879289",
-      "fechaPublicacion": null,
-      "lat": 4.706843852996826,
-      "lon": -74.07537841796875,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUBA",
-      "zonaSlug": "niza-suba",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 8500000,
-      "area": 265.0,
-      "administracion": 640000.0,
-      "barrio": "NIZA SUBA",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 3.0,
-      "parqueaderos": 4.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-niza-suba-3-habitaciones-3-banos-4-garajes/2162-M5474387",
-      "titulo": "Casa en Arriendo, ALTOS DE NIZA, Bogotá D.C.",
-      "id_domus": "2162-M5474387",
-      "fechaPublicacion": null,
-      "lat": 4.7149577140808105,
-      "lon": -74.07962036132812,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUBA",
-      "zonaSlug": "niza-suba",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -440,7 +359,61 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-14",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 8500000,
+      "area": 265.0,
+      "administracion": 640000.0,
+      "barrio": "NIZA SUBA",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 3.0,
+      "parqueaderos": 4.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-niza-suba-3-habitaciones-3-banos-4-garajes/2162-M5474387",
+      "titulo": "Casa en Arriendo, ALTOS DE NIZA, Bogotá D.C.",
+      "id_domus": "2162-M5474387",
+      "fechaPublicacion": null,
+      "lat": 4.7149577140808105,
+      "lon": -74.07962036132812,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA SUBA",
+      "zonaSlug": "niza-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 5500000,
+      "area": 364.5,
+      "administracion": 0.0,
+      "barrio": "NIZA",
+      "direccion": "",
+      "habitaciones": 5.0,
+      "banos": 3.0,
+      "parqueaderos": 2.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-niza-5-habitaciones-3-banos-2-garajes/3695-M6879289",
+      "titulo": "Casa en Arriendo, SUBA NIZA, Bogotá D.C.",
+      "id_domus": "3695-M6879289",
+      "fechaPublicacion": null,
+      "lat": 4.706843852996826,
+      "lon": -74.07537841796875,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA SUBA",
+      "zonaSlug": "niza-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -467,7 +440,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -494,7 +467,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -521,7 +494,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -548,7 +521,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -575,34 +548,34 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-22",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "edificio",
-      "tipoPortal": "Casa",
-      "precio": 25000000,
-      "area": 659.0,
-      "administracion": 1600000.0,
+      "tipoPortal": "Apartamento",
+      "precio": 4100000,
+      "area": 98.0,
+      "administracion": 680000.0,
       "barrio": "NIZA SUBA",
       "direccion": "",
-      "habitaciones": 5.0,
-      "banos": 5.0,
-      "parqueaderos": 4.0,
+      "habitaciones": 3.0,
+      "banos": 2.0,
+      "parqueaderos": 2.0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-niza-suba-5-habitaciones-5-banos-4-garajes/464-M5718072",
-      "titulo": "Casa en Arriendo, Cerros De Suba (Localidad De Suba), Bogotá D.C.",
-      "id_domus": "464-M5718072",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-niza-suba-3-habitaciones-2-banos-2-garajes/15920-M5942812",
+      "titulo": "Apartamento en Arriendo, CERROS SUBA, Bogotá D.C.",
+      "id_domus": "15920-M5942812",
       "fechaPublicacion": null,
-      "lat": 4.72671,
-      "lon": -74.07702,
+      "lat": 4.7284746170043945,
+      "lon": -74.0758285522461,
       "location_type": "exacta",
       "zonaConsulta": "NIZA SUBA",
       "zonaSlug": "niza-suba",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-23",
+      "id": "MI-22",
       "operacion": [
         "Arriendo"
       ],
@@ -629,7 +602,61 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-23",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Oficina",
+      "precio": 42000000,
+      "area": 700.0,
+      "administracion": 0.0,
+      "barrio": "NIZA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1.0,
+      "parqueaderos": 4.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-niza-1-banos-4-garajes/23263-M6846777",
+      "titulo": "Oficina en Arriendo, SUBA, Bogotá D.C.",
+      "id_domus": "23263-M6846777",
+      "fechaPublicacion": null,
+      "lat": 4.705353260040283,
+      "lon": -74.07571411132812,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA SUBA",
+      "zonaSlug": "niza-suba",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-24",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Casa",
+      "precio": 25000000,
+      "area": 659.0,
+      "administracion": 1600000.0,
+      "barrio": "NIZA SUBA",
+      "direccion": "",
+      "habitaciones": 5.0,
+      "banos": 5.0,
+      "parqueaderos": 4.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-niza-suba-5-habitaciones-5-banos-4-garajes/464-M5718072",
+      "titulo": "Casa en Arriendo, Cerros De Suba (Localidad De Suba), Bogotá D.C.",
+      "id_domus": "464-M5718072",
+      "fechaPublicacion": null,
+      "lat": 4.72671,
+      "lon": -74.07702,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA SUBA",
+      "zonaSlug": "niza-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-25",
       "operacion": [
         "Arriendo"
       ],
@@ -656,7 +683,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-25",
+      "id": "MI-26",
       "operacion": [
         "Arriendo"
       ],
@@ -683,7 +710,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-26",
+      "id": "MI-27",
       "operacion": [
         "Arriendo"
       ],
@@ -704,33 +731,6 @@
       "fechaPublicacion": null,
       "lat": 4.719263076782227,
       "lon": -74.07594299316406,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUBA",
-      "zonaSlug": "niza-suba",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-27",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Oficina",
-      "precio": 42000000,
-      "area": 700.0,
-      "administracion": 0.0,
-      "barrio": "NIZA",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 1.0,
-      "parqueaderos": 4.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-niza-1-banos-4-garajes/23263-M6846777",
-      "titulo": "Oficina en Arriendo, SUBA, Bogotá D.C.",
-      "id_domus": "23263-M6846777",
-      "fechaPublicacion": null,
-      "lat": 4.705353260040283,
-      "lon": -74.07571411132812,
       "location_type": "exacta",
       "zonaConsulta": "NIZA SUBA",
       "zonaSlug": "niza-suba",
@@ -851,21 +851,21 @@
       ],
       "tipo": "edificio",
       "tipoPortal": "Apartamento",
-      "precio": 6500000,
-      "area": 200.0,
-      "administracion": 1200000.0,
+      "precio": 15000000,
+      "area": 440.0,
+      "administracion": null,
       "barrio": "NIZA SUBA",
       "direccion": "",
       "habitaciones": 4.0,
-      "banos": 4.0,
-      "parqueaderos": 2.0,
+      "banos": 5.0,
+      "parqueaderos": 4.0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-niza-suba-4-habitaciones-4-banos-2-garajes/16433-M6983899",
-      "titulo": "Apartamento en Arriendo, BALCONES DE LINDARAJA, Bogotá D.C.",
-      "id_domus": "16433-M6983899",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-niza-suba-4-habitaciones-5-banos-4-garajes/815-M6211398",
+      "titulo": "Apartamento en Arriendo, Bosque De Gratamira, Bogotá D.C.",
+      "id_domus": "815-M6211398",
       "fechaPublicacion": null,
-      "lat": 4.713555335998535,
-      "lon": -74.08168029785156,
+      "lat": 4.72129309,
+      "lon": -74.07633228,
       "location_type": "exacta",
       "zonaConsulta": "NIZA SUBA",
       "zonaSlug": "niza-suba",
@@ -905,21 +905,21 @@
       ],
       "tipo": "edificio",
       "tipoPortal": "Apartamento",
-      "precio": 15000000,
-      "area": 440.0,
-      "administracion": null,
+      "precio": 6500000,
+      "area": 200.0,
+      "administracion": 1200000.0,
       "barrio": "NIZA SUBA",
       "direccion": "",
       "habitaciones": 4.0,
-      "banos": 5.0,
-      "parqueaderos": 4.0,
+      "banos": 4.0,
+      "parqueaderos": 2.0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-niza-suba-4-habitaciones-5-banos-4-garajes/815-M6211398",
-      "titulo": "Apartamento en Arriendo, Bosque De Gratamira, Bogotá D.C.",
-      "id_domus": "815-M6211398",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-niza-suba-4-habitaciones-4-banos-2-garajes/16433-M6983899",
+      "titulo": "Apartamento en Arriendo, BALCONES DE LINDARAJA, Bogotá D.C.",
+      "id_domus": "16433-M6983899",
       "fechaPublicacion": null,
-      "lat": 4.72129309,
-      "lon": -74.07633228,
+      "lat": 4.713555335998535,
+      "lon": -74.08168029785156,
       "location_type": "exacta",
       "zonaConsulta": "NIZA SUBA",
       "zonaSlug": "niza-suba",
@@ -941,9 +941,9 @@
       "banos": null,
       "parqueaderos": 4.0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-edificio-de-oficinas-bogota-niza-norte-4-garajes/4137-M6340311",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-edificio-de-oficinas-bogota-niza-norte-4-garajes/4137-M6340359",
       "titulo": "Edificio de Oficinas en Arriendo, NIZA SUBA, Bogotá D.C.",
-      "id_domus": "4137-M6340311",
+      "id_domus": "4137-M6340359",
       "fechaPublicacion": null,
       "lat": 4.713662147521973,
       "lon": -74.07294464111328,
@@ -968,9 +968,9 @@
       "banos": null,
       "parqueaderos": 4.0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-edificio-de-oficinas-bogota-niza-norte-4-garajes/4137-M6340359",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-edificio-de-oficinas-bogota-niza-norte-4-garajes/4137-M6340311",
       "titulo": "Edificio de Oficinas en Arriendo, NIZA SUBA, Bogotá D.C.",
-      "id_domus": "4137-M6340359",
+      "id_domus": "4137-M6340311",
       "fechaPublicacion": null,
       "lat": 4.713662147521973,
       "lon": -74.07294464111328,
@@ -1014,20 +1014,20 @@
       "tipo": "edificio",
       "tipoPortal": "Oficina",
       "precio": 6000000,
-      "area": 60.0,
-      "administracion": 904000.0,
-      "barrio": "POTOSI",
+      "area": 243.0,
+      "administracion": 0.0,
+      "barrio": "ESTORIL",
       "direccion": "",
       "habitaciones": null,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
+      "banos": 1.0,
+      "parqueaderos": 0.0,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-potosi-2-banos-1-garajes/23263-M6948556",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-estoril-1-banos/23263-M6867423",
       "titulo": "Oficina en Arriendo, SUBA, Bogotá D.C.",
-      "id_domus": "23263-M6948556",
+      "id_domus": "23263-M6867423",
       "fechaPublicacion": null,
-      "lat": 4.701049327850342,
-      "lon": -74.07756042480469,
+      "lat": 4.692594051361084,
+      "lon": -74.06086730957031,
       "location_type": "exacta",
       "zonaConsulta": "NIZA SUBA",
       "zonaSlug": "niza-suba",
@@ -1035,33 +1035,6 @@
     },
     {
       "id": "MI-39",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Oficina",
-      "precio": 30000000,
-      "area": 578.0,
-      "administracion": 0.0,
-      "barrio": "POTOSI",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 3.0,
-      "parqueaderos": 4.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-potosi-3-banos-4-garajes/412-M4760498",
-      "titulo": "Oficina en Arriendo, SUBA, Bogotá D.C.",
-      "id_domus": "412-M4760498",
-      "fechaPublicacion": null,
-      "lat": 4.699452877044678,
-      "lon": -74.08158874511719,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUBA",
-      "zonaSlug": "niza-suba",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-40",
       "operacion": [
         "Arriendo"
       ],
@@ -1088,34 +1061,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-41",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Oficina",
-      "precio": 6000000,
-      "area": 243.0,
-      "administracion": 0.0,
-      "barrio": "ESTORIL",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 1.0,
-      "parqueaderos": 0.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-estoril-1-banos/23263-M6867423",
-      "titulo": "Oficina en Arriendo, SUBA, Bogotá D.C.",
-      "id_domus": "23263-M6867423",
-      "fechaPublicacion": null,
-      "lat": 4.692594051361084,
-      "lon": -74.06086730957031,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUBA",
-      "zonaSlug": "niza-suba",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-42",
+      "id": "MI-40",
       "operacion": [
         "Arriendo"
       ],
@@ -1142,7 +1088,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-43",
+      "id": "MI-41",
       "operacion": [
         "Arriendo"
       ],
@@ -1169,7 +1115,88 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-42",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Oficina",
+      "precio": 30000000,
+      "area": 578.0,
+      "administracion": 0.0,
+      "barrio": "POTOSI",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 3.0,
+      "parqueaderos": 4.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-potosi-3-banos-4-garajes/412-M4760498",
+      "titulo": "Oficina en Arriendo, SUBA, Bogotá D.C.",
+      "id_domus": "412-M4760498",
+      "fechaPublicacion": null,
+      "lat": 4.699452877044678,
+      "lon": -74.08158874511719,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA SUBA",
+      "zonaSlug": "niza-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-43",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Oficina",
+      "precio": 6000000,
+      "area": 60.0,
+      "administracion": 904000.0,
+      "barrio": "POTOSI",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-potosi-2-banos-1-garajes/23263-M6948556",
+      "titulo": "Oficina en Arriendo, SUBA, Bogotá D.C.",
+      "id_domus": "23263-M6948556",
+      "fechaPublicacion": null,
+      "lat": 4.701049327850342,
+      "lon": -74.07756042480469,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA SUBA",
+      "zonaSlug": "niza-suba",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-44",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "edificio",
+      "tipoPortal": "Oficina",
+      "precio": 48440000,
+      "area": 1211.0,
+      "administracion": 10899000.0,
+      "barrio": "NIZA NORTE",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 5.0,
+      "parqueaderos": 4.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-niza-norte-5-banos-4-garajes/3142-M1969147",
+      "titulo": "Oficina en Arriendo, suba, Bogotá D.C.",
+      "id_domus": "3142-M1969147",
+      "fechaPublicacion": null,
+      "lat": 4.7136030197143555,
+      "lon": -74.07284545898438,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA SUBA",
+      "zonaSlug": "niza-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-45",
       "operacion": [
         "Arriendo"
       ],
@@ -1196,7 +1223,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-45",
+      "id": "MI-46",
       "operacion": [
         "Arriendo"
       ],
@@ -1217,33 +1244,6 @@
       "fechaPublicacion": null,
       "lat": 4.694474697113037,
       "lon": -74.0682601928711,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUBA",
-      "zonaSlug": "niza-suba",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-46",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "edificio",
-      "tipoPortal": "Oficina",
-      "precio": 48440000,
-      "area": 1211.0,
-      "administracion": 10899000.0,
-      "barrio": "NIZA NORTE",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 5.0,
-      "parqueaderos": 4.0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-oficina-bogota-niza-norte-5-banos-4-garajes/3142-M1969147",
-      "titulo": "Oficina en Arriendo, suba, Bogotá D.C.",
-      "id_domus": "3142-M1969147",
-      "fechaPublicacion": null,
-      "lat": 4.7136030197143555,
-      "lon": -74.07284545898438,
       "location_type": "exacta",
       "zonaConsulta": "NIZA SUBA",
       "zonaSlug": "niza-suba",
