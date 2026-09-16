@@ -1,10 +1,92 @@
 {
   "ok": true,
-  "total": 0,
+  "total": 3,
   "zona": "SANTA HELENA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "local",
-  "generado": "2026.SEP.08 12:04",
-  "inmuebles": []
+  "generado": "2026.SEP.16 12:31",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 4000000,
+      "area": 75.0,
+      "administracion": null,
+      "barrio": "SANTA HELENA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-local-comercial-bogota-santa-helena-1-banos/17146-M6781728",
+      "titulo": "Local Comercial en Arriendo, Santa Helena, Bogotá D.C.",
+      "id_domus": "17146-M6781728",
+      "fechaPublicacion": null,
+      "lat": 4.73175,
+      "lon": -74.04939,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA HELENA",
+      "zonaSlug": "santa-helena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 1785000,
+      "area": 25.0,
+      "administracion": null,
+      "barrio": "SANTA HELENA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-local-comercial-bogota-santa-helena-1-banos/21641-M7051672",
+      "titulo": "Local Comercial en Arriendo, Santa Helena, Bogotá D.C.",
+      "id_domus": "21641-M7051672",
+      "fechaPublicacion": null,
+      "lat": 4.7317557,
+      "lon": -74.0525681,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA HELENA",
+      "zonaSlug": "santa-helena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 8000000,
+      "area": 225.0,
+      "administracion": null,
+      "barrio": "SANTA HELENA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 4,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-local-comercial-bogota-santa-helena-4-banos/17146-M6830173",
+      "titulo": "Local Comercial en Arriendo, Santa Helena, Bogotá D.C.",
+      "id_domus": "17146-M6830173",
+      "fechaPublicacion": null,
+      "lat": 4.73175,
+      "lon": -74.04939,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA HELENA",
+      "zonaSlug": "santa-helena",
+      "origenZona": "barrio"
+    }
+  ]
 }
