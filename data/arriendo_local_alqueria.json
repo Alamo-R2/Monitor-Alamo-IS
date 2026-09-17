@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "ALQUERIA",
+  "origen": "barrio",
+  "operacion": "arriendo",
+  "tipo": "local",
+  "generado": "2026.SEP.17 12:31",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 6900000,
+      "area": 300.0,
+      "administracion": 0,
+      "barrio": "VENECIA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-local-comercial-bogota-venecia/10457-M7013373",
+      "titulo": "Local Comercial en Arriendo, VENECIA LA ALQUERIA, Bogotá D.C.",
+      "id_domus": "10457-M7013373",
+      "fechaPublicacion": null,
+      "lat": 4.592711925506592,
+      "lon": -74.137939453125,
+      "location_type": "exacta",
+      "zonaConsulta": "ALQUERIA",
+      "zonaSlug": "alqueria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 3700000,
+      "area": 110.0,
+      "administracion": 10000,
+      "barrio": "LA ALQUERIA",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-local-comercial-bogota-la-alqueria/10662-M6774726",
+      "titulo": "Local Comercial en Arriendo, LA ALQUERIA TALAVERA, Bogotá D.C.",
+      "id_domus": "10662-M6774726",
+      "fechaPublicacion": null,
+      "lat": 4.5997843742370605,
+      "lon": -74.13390350341797,
+      "location_type": "exacta",
+      "zonaConsulta": "ALQUERIA",
+      "zonaSlug": "alqueria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 6500000,
+      "area": 50.53,
+      "administracion": 1692000,
+      "barrio": "VILLA DEL RIO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 5.0,
+      "parqueaderos": 4.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-local-comercial-bogota-villa-del-rio-5-banos-4-garajes/MC5393482",
+      "titulo": "Local Comercial en Arriendo, VILLA DEL RIO   Timiza La Alquería, Bogotá D.C.",
+      "id_domus": "MC5393482",
+      "fechaPublicacion": null,
+      "lat": 4.599283,
+      "lon": -74.15312,
+      "location_type": "exacta",
+      "zonaConsulta": "ALQUERIA",
+      "zonaSlug": "alqueria",
+      "origenZona": "barrio"
+    }
+  ]
+}

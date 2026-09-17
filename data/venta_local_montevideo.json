@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "MONTEVIDEO",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "local",
+  "generado": "2026.SEP.17 12:31",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 770000000,
+      "area": 95.0,
+      "administracion": 800000.0,
+      "barrio": "CJR ATIKA 2",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-cjr-atika-2/3142-M5411485",
+      "titulo": "Local Comercial en Venta, MONTEVIDEO, Bogotá D.C.",
+      "id_domus": "3142-M5411485",
+      "fechaPublicacion": null,
+      "lat": 4.647408962249756,
+      "lon": -74.1072769165039,
+      "location_type": "exacta",
+      "zonaConsulta": "MONTEVIDEO",
+      "zonaSlug": "montevideo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 1900000000,
+      "area": 233.0,
+      "administracion": null,
+      "barrio": "MONTEVIDEO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2.0,
+      "parqueaderos": 3.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-montevideo-2-banos-3-garajes/183-M4977224",
+      "titulo": "Local Comercial en Venta, Montevideo, Bogotá D.C.",
+      "id_domus": "183-M4977224",
+      "fechaPublicacion": null,
+      "lat": 4.64436,
+      "lon": -74.11235,
+      "location_type": "exacta",
+      "zonaConsulta": "MONTEVIDEO",
+      "zonaSlug": "montevideo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 1900000000,
+      "area": 350.0,
+      "administracion": null,
+      "barrio": "GRANJAS DE TECHO",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 3.0,
+      "parqueaderos": 1.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-granjas-de-techo-3-banos-1-garajes/399-M5306138",
+      "titulo": "Local Comercial en Venta, Montevideo Fontibon, Bogotá D.C.",
+      "id_domus": "399-M5306138",
+      "fechaPublicacion": null,
+      "lat": 4.64441,
+      "lon": -74.11231,
+      "location_type": "exacta",
+      "zonaConsulta": "MONTEVIDEO",
+      "zonaSlug": "montevideo",
+      "origenZona": "barrio"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "AUTOPISTA MUZU ORIENTAL",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "bodega",
+  "generado": "2026.SEP.17 12:31",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 3000000000,
+      "area": 450.0,
+      "administracion": null,
+      "barrio": "MUZU",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 5.0,
+      "parqueaderos": 4.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-muzu-5-banos-4-garajes/20610-M6782327",
+      "titulo": "Bodega en Venta, Muzu, Bogotá D.C.",
+      "id_domus": "20610-M6782327",
+      "fechaPublicacion": null,
+      "lat": 4.594274051,
+      "lon": -74.1331350803,
+      "location_type": "exacta",
+      "zonaConsulta": "AUTOPISTA MUZU ORIENTAL",
+      "zonaSlug": "autopista-muzu-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 600000000,
+      "area": 160.0,
+      "administracion": 150000.0,
+      "barrio": "NUEVO MUZU",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-nuevo-muzu/21606-M6668256",
+      "titulo": "Bodega en Venta, TUNJUELITO, Bogotá D.C.",
+      "id_domus": "21606-M6668256",
+      "fechaPublicacion": null,
+      "lat": 4.586777687072754,
+      "lon": -74.1444091796875,
+      "location_type": "exacta",
+      "zonaConsulta": "AUTOPISTA MUZU ORIENTAL",
+      "zonaSlug": "autopista-muzu-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 750000000,
+      "area": 168.0,
+      "administracion": null,
+      "barrio": "MUZU",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1.0,
+      "parqueaderos": 1.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-muzu-1-banos-1-garajes/3222-M6048870",
+      "titulo": "Bodega en Venta, Muzu, Bogotá D.C.",
+      "id_domus": "3222-M6048870",
+      "fechaPublicacion": null,
+      "lat": 4.57828,
+      "lon": -74.14563,
+      "location_type": "exacta",
+      "zonaConsulta": "AUTOPISTA MUZU ORIENTAL",
+      "zonaSlug": "autopista-muzu-oriental",
+      "origenZona": "barrio"
+    }
+  ]
+}
