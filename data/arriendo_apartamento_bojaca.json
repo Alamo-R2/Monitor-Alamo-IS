@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 8,
   "zona": "Bojaca",
   "origen": "municipio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.12 14:27",
+  "generado": "2026.SEP.18 15:16",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -68,21 +68,21 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 51.86,
-      "administracion": 250000.0,
-      "barrio": "BOJACA",
+      "precio": 1800000,
+      "area": 65.0,
+      "administracion": 400000.0,
+      "barrio": "CR PALO GRANDE",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-bojaca-3-habitaciones-2-banos-1-garajes/4058-M6765172",
-      "titulo": "Apartamento en Arriendo, chia 3 esquinas, Chía",
-      "id_domus": "4058-M6765172",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-cr-palo-grande-3-habitaciones-2-banos-1-garajes/20201-M7057407",
+      "titulo": "Apartamento en Arriendo, Bojacá, Chía",
+      "id_domus": "20201-M7057407",
       "fechaPublicacion": null,
-      "lat": 4.880186080932617,
-      "lon": -74.04277038574219,
+      "lat": 4.87942361831665,
+      "lon": -74.04402923583984,
       "location_type": "exacta",
       "zonaConsulta": "Bojaca",
       "zonaSlug": "bojaca",
@@ -90,6 +90,33 @@
     },
     {
       "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1500000,
+      "area": 51.0,
+      "administracion": 0.0,
+      "barrio": "CN HACIENDA LA LUNA",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-cn-hacienda-la-luna-3-habitaciones-2-banos/23126-M7030361",
+      "titulo": "Apartamento en Arriendo, Bojacá, Chía",
+      "id_domus": "23126-M7030361",
+      "fechaPublicacion": null,
+      "lat": 4.880846977233887,
+      "lon": -74.0431900024414,
+      "location_type": "exacta",
+      "zonaConsulta": "Bojaca",
+      "zonaSlug": "bojaca",
+      "origenZona": "municipio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -116,7 +143,34 @@
       "origenZona": "municipio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 51.86,
+      "administracion": 250000.0,
+      "barrio": "BOJACA",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-bojaca-3-habitaciones-2-banos-1-garajes/4058-M6765172",
+      "titulo": "Apartamento en Arriendo, chia 3 esquinas, Chía",
+      "id_domus": "4058-M6765172",
+      "fechaPublicacion": null,
+      "lat": 4.880186080932617,
+      "lon": -74.04277038574219,
+      "location_type": "exacta",
+      "zonaConsulta": "Bojaca",
+      "zonaSlug": "bojaca",
+      "origenZona": "municipio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -143,7 +197,7 @@
       "origenZona": "municipio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -154,11 +208,11 @@
       "administracion": 500000.0,
       "barrio": "DELICIAS NORTE SECTOR BOJACA",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1,
       "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-delicias-norte-sector-bojaca-3-habitaciones-2-banos-1-garajes/20444-M7027409",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-delicias-norte-sector-bojaca-2-habitaciones-2-banos-1-garajes/20444-M7027409",
       "titulo": "Apartamento en Arriendo, Delicias Norte, Chía",
       "id_domus": "20444-M7027409",
       "fechaPublicacion": null,

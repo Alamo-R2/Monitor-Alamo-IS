@@ -5,64 +5,10 @@
   "origen": "municipio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.12 14:27",
+  "generado": "2026.SEP.18 15:16",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1500000,
-      "area": 45.0,
-      "administracion": 0,
-      "barrio": "TABIO",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 4,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-tabio-tabio-1-habitaciones-1-banos-4-garajes/10123-M3646264",
-      "titulo": "Apartamento en Arriendo, Tabio, Tabio",
-      "id_domus": "10123-M3646264",
-      "fechaPublicacion": null,
-      "lat": 0.0,
-      "lon": 0.0,
-      "location_type": "aproximada",
-      "zonaConsulta": "Tabio",
-      "zonaSlug": "tabio",
-      "origenZona": "municipio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 800000,
-      "area": 55.0,
-      "administracion": 200000,
-      "barrio": "CONJUNTO SE LLAMA RESERVAS DE SAN JOSÉ TORRE 09",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 0,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-tabio-conjunto-se-llama-reservas-de-san-jose-torre-09-2-habitaciones-1-banos/4058-M6001227",
-      "titulo": "Apartamento en Arriendo, conjunto se llama reservas de San José Torre 09, Tabio",
-      "id_domus": "4058-M6001227",
-      "fechaPublicacion": null,
-      "lat": 4.907269477844238,
-      "lon": -74.1054458618164,
-      "location_type": "exacta",
-      "zonaConsulta": "Tabio",
-      "zonaSlug": "tabio",
-      "origenZona": "municipio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -89,7 +35,34 @@
       "origenZona": "municipio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1500000,
+      "area": 45.0,
+      "administracion": 0,
+      "barrio": "TABIO",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 4,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-tabio-tabio-1-habitaciones-1-banos-4-garajes/10123-M3646264",
+      "titulo": "Apartamento en Arriendo, Tabio, Tabio",
+      "id_domus": "10123-M3646264",
+      "fechaPublicacion": null,
+      "lat": 0.0,
+      "lon": 0.0,
+      "location_type": "aproximada",
+      "zonaConsulta": "Tabio",
+      "zonaSlug": "tabio",
+      "origenZona": "municipio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -110,6 +83,33 @@
       "fechaPublicacion": null,
       "lat": 4.872476100921631,
       "lon": -74.14576721191406,
+      "location_type": "exacta",
+      "zonaConsulta": "Tabio",
+      "zonaSlug": "tabio",
+      "origenZona": "municipio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 800000,
+      "area": 55.0,
+      "administracion": 200000,
+      "barrio": "CONJUNTO SE LLAMA RESERVAS DE SAN JOSÉ TORRE 09",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-tabio-conjunto-se-llama-reservas-de-san-jose-torre-09-2-habitaciones-1-banos/4058-M6001227",
+      "titulo": "Apartamento en Arriendo, conjunto se llama reservas de San José Torre 09, Tabio",
+      "id_domus": "4058-M6001227",
+      "fechaPublicacion": null,
+      "lat": 4.907269477844238,
+      "lon": -74.1054458618164,
       "location_type": "exacta",
       "zonaConsulta": "Tabio",
       "zonaSlug": "tabio",
