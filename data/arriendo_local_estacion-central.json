@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "ESTACION CENTRAL",
+  "origen": "barrio",
+  "operacion": "arriendo",
+  "tipo": "local",
+  "generado": "2026.SEP.19 11:52",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 63000000,
+      "area": 900.0,
+      "administracion": 0.0,
+      "barrio": "ESTACION CENTRAL",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-local-comercial-bogota-estacion-central/12479-M6046820",
+      "titulo": "Local Comercial en Arriendo, PALOQUEMAO, Bogotá D.C.",
+      "id_domus": "12479-M6046820",
+      "fechaPublicacion": null,
+      "lat": 4.61929178237915,
+      "lon": -74.08940887451172,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTACION CENTRAL",
+      "zonaSlug": "estacion-central",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 18700000,
+      "area": 170.0,
+      "administracion": 7140000.0,
+      "barrio": "ESTACION CENTRAL",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-local-comercial-bogota-estacion-central/10457-M6676972",
+      "titulo": "Local Comercial en Arriendo, LAS AGUAS, Bogotá D.C.",
+      "id_domus": "10457-M6676972",
+      "fechaPublicacion": null,
+      "lat": 4.620297431945801,
+      "lon": -74.09017944335938,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTACION CENTRAL",
+      "zonaSlug": "estacion-central",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 6500000,
+      "area": 116.0,
+      "administracion": null,
+      "barrio": "ESTACION CENTRAL",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2.0,
+      "parqueaderos": 0.0,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-local-comercial-bogota-estacion-central-2-banos/MC6863575",
+      "titulo": "Local Comercial en Arriendo, RICAURTE   Puente Aranda, Bogotá D.C.",
+      "id_domus": "MC6863575",
+      "fechaPublicacion": null,
+      "lat": 4.614859,
+      "lon": -74.09239,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTACION CENTRAL",
+      "zonaSlug": "estacion-central",
+      "origenZona": "barrio"
+    }
+  ]
+}
