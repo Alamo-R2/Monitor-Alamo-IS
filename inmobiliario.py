@@ -188,8 +188,8 @@ def _barrios_ordenados():
     return orden
 
 
-def _cursor_barrios(base, guardar=None):
-    fp = Path(base) / "cursor_barrios.json"
+def _cursor_barrios(base, guardar=None, name="cursor_barrios.json"):
+    fp = Path(base) / name
     idx = 0
     if fp.exists():
         try:
@@ -201,16 +201,17 @@ def _cursor_barrios(base, guardar=None):
     return idx
 
 
-def _zonas_barrios_hoy(base):
-    """Devuelve la tanda de barrios de HOY y avanza el cursor (cobertura ciclica)."""
+def _zonas_barrios_hoy(base, suffix="", n=None):
+    """Devuelve la tanda de barrios de HOY y avanza el cursor (cobertura ciclica). Cursor propio por 'suffix' (portal)."""
     orden = _barrios_ordenados()
     if not orden:
         return []
-    n = BARRIOS_POR_CORRIDA
+    n = n or BARRIOS_POR_CORRIDA
+    cname = "cursor_barrios" + suffix + ".json"
     chunks = max(1, math.ceil(len(orden) / n))
-    idx = _cursor_barrios(base) % chunks
+    idx = _cursor_barrios(base, name=cname) % chunks
     tanda = orden[idx * n:(idx + 1) * n]
-    _cursor_barrios(base, guardar=(idx + 1) % chunks)
+    _cursor_barrios(base, guardar=(idx + 1) % chunks, name=cname)
     print("  barrios: tanda " + str(idx + 1) + "/" + str(chunks) + " (" + str(len(tanda)) + " barrios)")
     return tanda
 
@@ -658,7 +659,7 @@ def diagnostico(carpeta="data"):
     return resumen
 
 
-def publicar(carpeta="data", grupo="diario"):
+def publicar(carpeta="data", grupo="diario", portal="metrocuadrado", tipos=None, cursor_suffix="", barrios_n=None):
     """Rastrea las zonas del GRUPO. Escribe: un JSON por zona, un consolidado
     por grupo, index.json (manifiesto), tipos.json (inventario de tipos por
     portal) e historial.json (variacion de conteos entre corridas + tiempos)."""
@@ -666,6 +667,10 @@ def publicar(carpeta="data", grupo="diario"):
     base.mkdir(parents=True, exist_ok=True)
     if grupo == "barrios":
         zonas = _plan_chunk(base)
+        if not zonas:
+            print("  (falta geo_model.json en el repo: no hay barrios que rastrear)")
+    elif grupo == "barrios_res":
+        zonas = _zonas_barrios_hoy(base, cursor_suffix, barrios_n)
         if not zonas:
             print("  (falta geo_model.json en el repo: no hay barrios que rastrear)")
     else:
@@ -678,20 +683,21 @@ def publicar(carpeta="data", grupo="diario"):
     consolidado = []
     tipos = {}         # tipos[portal][nombre_tipo] = conteo
     tiempos = []       # medicion por zona
-    portal = "metrocuadrado"
+    portal = portal or "metrocuadrado"   # viene por parametro (default metrocuadrado)
+    pfx = "" if portal == "metrocuadrado" else portal + "_"   # prefijo de clave/archivo para no chocar con metro
 
     for entry in zonas:
         if len(entry) == 5:
             nombre, slug, origen, _tset, _oset = entry
         else:
             nombre, slug, origen = entry
-            _tset, _oset = TIPOS, OPERACIONES
+            _tset, _oset = (tipos or TIPOS), OPERACIONES
         ciudad = slug if origen == "municipio" else CIUDAD_POR_DEFECTO
         zona = "" if origen == "municipio" else slug
         for oper in _oset:
             for tipo in _tset:
                 etiqueta = oper.capitalize() + " - " + tipo.capitalize() + " - " + nombre
-                clave = oper + "_" + tipo + "_" + slug
+                clave = pfx + oper + "_" + tipo + "_" + slug
                 print("\n== " + etiqueta + " (" + origen + ") ==")
                 t0 = time.time()
                 try:
@@ -745,7 +751,7 @@ def publicar(carpeta="data", grupo="diario"):
             print("  ALERTA: " + a)
 
     # consolidado del grupo (lo que la app carga de una)
-    cons_archivo = "consolidado_" + grupo + ".json"
+    cons_archivo = "consolidado_" + pfx + grupo + ".json"
     (base / cons_archivo).write_text(json.dumps(
         {"ok": True, "grupo": grupo, "total": len(consolidado), "generado": stamp,
          "inmuebles": consolidado}, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -874,13 +880,18 @@ def main():
     p1 = sub.add_parser("publicar")
     p1.add_argument("--carpeta", default="data")
     p1.add_argument("--grupo", default="diario")
+    p1.add_argument("--portal", default="metrocuadrado")
+    p1.add_argument("--tipos", default="")
+    p1.add_argument("--cursor-suffix", default="", dest="cursor_suffix")
+    p1.add_argument("--barrios", type=int, default=0)
     p2 = sub.add_parser("diagnostico")
     p2.add_argument("--carpeta", default="data")
     args = parser.parse_args()
     if args.cmd == "doctor":
         doctor()
     elif args.cmd == "publicar":
-        publicar(args.carpeta, args.grupo)
+        _tipos = [t.strip() for t in args.tipos.split(",") if t.strip()] or None
+        publicar(args.carpeta, args.grupo, args.portal, _tipos, args.cursor_suffix, (args.barrios or None))
     elif args.cmd == "diagnostico":
         diagnostico(args.carpeta)
     elif args.cmd == "noticias":
