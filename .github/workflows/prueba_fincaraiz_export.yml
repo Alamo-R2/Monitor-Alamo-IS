@@ -1,0 +1,87 @@
+name: Prueba Fincaraiz — Exportar (aislado)
+
+# Corre FincaRaiz con el comando 'buscar' para unas pocas zonas y deja el
+# resultado combinado en la rama 'prueba-fincaraiz' (carpeta pruebas/).
+# NO toca main/data/ ni publicar.yml ni metrocuadrado. 100% aislado y reversible.
+
+on:
+  workflow_dispatch:
+    inputs:
+      zonas:
+        description: "Zonas (slug, separadas por coma)"
+        default: "chapinero,teusaquillo,usaquen,engativa"
+      tipo:
+        description: "Tipo de inmueble"
+        default: "apartamento"
+      paginas:
+        description: "Paginas por consulta"
+        default: "2"
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: |
+          pip install playwright pandas openpyxl requests
+          playwright install --with-deps chromium
+
+      - name: Correr FincaRaiz (aislado, no toca data/)
+        run: |
+          set +e
+          IFS=',' read -ra ZS <<< "${{ github.event.inputs.zonas }}"
+          for z in "${ZS[@]}"; do
+            z="$(echo "$z" | xargs)"   # trim
+            for op in venta arriendo; do
+              echo "=== $op / ${{ github.event.inputs.tipo }} / $z ==="
+              python inmobiliario.py buscar \
+                --portal fincaraiz \
+                --operacion "$op" \
+                --tipo "${{ github.event.inputs.tipo }}" \
+                --zona "$z" \
+                --ciudad bogota \
+                --paginas "${{ github.event.inputs.paginas }}" \
+                || echo "aviso: sin datos en $op/$z"
+            done
+          done
+          echo "Archivos generados:"
+          ls -la resultados/ 2>/dev/null || echo "(sin resultados)"
+
+      - name: Combinar en un solo JSON + resumen
+        run: |
+          mkdir -p pruebas
+          if ls resultados/buscar_*_alamo.json >/dev/null 2>&1; then
+            jq -s '{
+              ok: true,
+              total: (map(.inmuebles) | add | length),
+              inmuebles: (map(.inmuebles) | add)
+            }' resultados/buscar_*_alamo.json > pruebas/fincaraiz_export.json
+          else
+            echo "{\"ok\":false,\"total\":0,\"inmuebles\":[]}" > pruebas/fincaraiz_export.json
+          fi
+          echo "===== RESUMEN ====="
+          jq '{total, con_area: ([.inmuebles[]|select(.area!=null and .area>0)]|length), con_geo: ([.inmuebles[]|select(.lat!=null)]|length), portales: ([.inmuebles[].portalNombre]|group_by(.)|map({(.[0]):length})|add)}' pruebas/fincaraiz_export.json
+
+      - name: Publicar en rama de prueba (aislado de main/data)
+        run: |
+          git config user.name  "monitor-bot"
+          git config user.email "monitor-bot@users.noreply.github.com"
+          git checkout -B prueba-fincaraiz
+          git add -f pruebas/fincaraiz_export.json
+          git commit -m "Export FincaRaiz aislado $(date -u '+%Y-%m-%d %H:%M UTC')" || echo "sin cambios"
+          git push -f origin prueba-fincaraiz
+
+      - name: Subir tambien como artifact (respaldo)
+        uses: actions/upload-artifact@v4
+        with:
+          name: fincaraiz_export
+          path: pruebas/fincaraiz_export.json
