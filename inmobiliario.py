@@ -467,19 +467,21 @@ def _desde_ciencuadras(page):
             txt = (a.inner_text() or "").replace("\n", " ")
         except Exception:
             txt = ""
-        if "m2" not in txt and "Precio" not in txt:
+        if "m2" not in txt and "$" not in txt:
             continue
         vistos.add(pid)
         def rx(pat):
             m = re.search(pat, txt, re.I)
             return m.group(1) if m else None
-        precio = rx(r"Precio\s*\$?\s*([\d.,]+)")
-        area = rx(r"([\d.,]+)\s*m2")
+        precio = rx(r"\$\s*([\d][\d.,]*)")
+        area = rx(r"([\d][\d.,]*)\s*m2")
         hab = rx(r"Habit\w*\.?\s*(\d+)")
         ban = rx(r"Ba[\u00f1n]os?\s*(\d+)")
         gar = rx(r"Garaj\w*\s*(\d+)")
-        tipo_p = rx(r"^\s*(\w+)\s+en\s+(?:venta|arriendo)")
-        barrio = rx(r"Bogot[\u00e1a]\s+(.+?)\s+[\d.,]+\s*m2")
+        tipo_p = rx(r"([A-Za-z\u00c0-\u017f]+)\s+en\s+(?:venta|arriendo)")
+        barrio = rx(r"Bogot[\u00e1a]\s*,[^,]*,\s*(.+?)\s+[\d][\d.,]*\s*m2")
+        if not barrio:
+            barrio = rx(r"Bogot[\u00e1a]\s*,[^,]*,\s*([^,]+)")
         if not barrio:  # respaldo: barrio desde el slug de la URL
             mb = re.search(r"-en-(?:venta|arriendo)-en-(.+?)-bogota-\d+", href, re.I)
             if mb:
