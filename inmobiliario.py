@@ -35,7 +35,7 @@ PORTALES = {
         "css_hab": "[class*='room']", "css_ubic": "[class*='location']",
     },
     "ciencuadras": {
-        "url": "https://www.ciencuadras.com/{operacion}/{ciudad}/{zona}/{tipo}",
+        "url": "https://www.ciencuadras.com/{operacion}/{ciudad}/{ciudad}/{zona}/{tipo}",
         "css_tarjeta": "a[href*='/inmueble/']", "css_precio": "",
         "css_titulo": "", "css_area": "", "css_hab": "", "css_ubic": "",
     },
