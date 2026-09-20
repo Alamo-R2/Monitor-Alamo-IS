@@ -34,6 +34,11 @@ PORTALES = {
         "css_titulo": "h2", "css_area": "[class*='area']",
         "css_hab": "[class*='room']", "css_ubic": "[class*='location']",
     },
+    "ciencuadras": {
+        "url": "https://www.ciencuadras.com/{operacion}/{ciudad}/{zona}/{tipo}",
+        "css_tarjeta": "a[href*='/inmueble/']", "css_precio": "",
+        "css_titulo": "", "css_area": "", "css_hab": "", "css_ubic": "",
+    },
 }
 
 NOTICIAS = {
@@ -446,6 +451,62 @@ def _desde_fincaraiz(page):
     return filas
 
 
+def _desde_ciencuadras(page):
+    """Ciencuadras es SSR: cada aviso es un <a href='/inmueble/...-{id}'> con el texto
+    completo (tipo, barrio, area, hab, banos, garajes, precio). Se parsea por regex sobre
+    el texto del ancla + el id del href. No expone lat/lon por aviso."""
+    filas = []
+    vistos = set()
+    for a in page.query_selector_all("a[href*='/inmueble/']"):
+        href = a.get_attribute("href") or ""
+        mid = re.search(r"-(\d+)/?$", href)
+        pid = mid.group(1) if mid else None
+        if not pid or pid in vistos:
+            continue
+        try:
+            txt = (a.inner_text() or "").replace("\n", " ")
+        except Exception:
+            txt = ""
+        if "m2" not in txt and "Precio" not in txt:
+            continue
+        vistos.add(pid)
+        def rx(pat):
+            m = re.search(pat, txt, re.I)
+            return m.group(1) if m else None
+        precio = rx(r"Precio\s*\$?\s*([\d.,]+)")
+        area = rx(r"([\d.,]+)\s*m2")
+        hab = rx(r"Habit\w*\.?\s*(\d+)")
+        ban = rx(r"Ba[\u00f1n]os?\s*(\d+)")
+        gar = rx(r"Garaj\w*\s*(\d+)")
+        tipo_p = rx(r"^\s*(\w+)\s+en\s+(?:venta|arriendo)")
+        barrio = rx(r"Bogot[\u00e1a]\s+(.+?)\s+[\d.,]+\s*m2")
+        if not barrio:  # respaldo: barrio desde el slug de la URL
+            mb = re.search(r"-en-(?:venta|arriendo)-en-(.+?)-bogota-\d+", href, re.I)
+            if mb:
+                barrio = mb.group(1).replace("-", " ").title()
+        link = ("https://www.ciencuadras.com" + href) if href.startswith("/") else href
+        filas.append({
+            "titulo": (tipo_p + " en " + (barrio or "")) if tipo_p else None,
+            "precio": _num(precio),
+            "area_m2": _dec(area),
+            "habitaciones": _num(hab),
+            "banos": _num(ban),
+            "parqueaderos": _num(gar),
+            "administracion": None,
+            "ubicacion": barrio,
+            "ciudad_item": "",
+            "url": link,
+            "id_domus": pid,
+            "tipo_portal": tipo_p,
+            "fecha_pub": None,
+            "lat": None,
+            "lon": None,
+            "location_type": "aproximada",
+            "_fuente": "ciencuadras-dom",
+        })
+    return filas
+
+
 def _desde_css(page, cfg):
     filas = []
     for t in page.query_selector_all(cfg["css_tarjeta"]):
@@ -478,7 +539,7 @@ def _validar(filas, min_filas=3, max_vacios=0.4):
 
 
 def extraer(page, cfg):
-    for estrategia in (_desde_metrocuadrado, _desde_fincaraiz):
+    for estrategia in (_desde_metrocuadrado, _desde_fincaraiz, _desde_ciencuadras):
         filas = estrategia(page)
         if _validar(filas)[0]:
             return filas
