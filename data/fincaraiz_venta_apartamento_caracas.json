@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "CARACAS",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 19:53",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 318000000,
+      "area": 54.0,
+      "administracion": 60000.0,
+      "barrio": "CIUDAD BERNA",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-berna-bogota/193365324",
+      "titulo": "Apartamento en Venta en Ciudad berna, Bogotá",
+      "id_domus": "193365324",
+      "fechaPublicacion": "2026-02-05",
+      "lat": 4.584707,
+      "lon": -74.093933,
+      "location_type": "exacta",
+      "zonaConsulta": "CARACAS",
+      "zonaSlug": "caracas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 390000000,
+      "area": 107.0,
+      "administracion": null,
+      "barrio": "CIUDAD BERNA",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-berna-bogota/192865787",
+      "titulo": "Apartamento en Venta en Ciudad berna, Bogotá",
+      "id_domus": "192865787",
+      "fechaPublicacion": "2025-09-12",
+      "lat": 4.582672288913,
+      "lon": -74.09258564659,
+      "location_type": "exacta",
+      "zonaConsulta": "CARACAS",
+      "zonaSlug": "caracas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 470000000,
+      "area": 127.0,
+      "administracion": null,
+      "barrio": "CARACAS",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-caracas-bogota/191605023",
+      "titulo": "Apartamento en  Venta en Caracas, Bogotá",
+      "id_domus": "191605023",
+      "fechaPublicacion": "2024-10-23",
+      "lat": 4.5847066615492,
+      "lon": -74.093326891402,
+      "location_type": "exacta",
+      "zonaConsulta": "CARACAS",
+      "zonaSlug": "caracas",
+      "origenZona": "barrio"
+    }
+  ]
+}

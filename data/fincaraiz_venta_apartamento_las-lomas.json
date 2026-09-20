@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "LAS LOMAS",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 19:53",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 230000000,
+      "area": 52.0,
+      "administracion": 119000,
+      "barrio": "SAN ANTONIO NORTE",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-antonio-norte-bogota/192872119",
+      "titulo": "Apartamento en Venta en San antonio norte, Bogotá",
+      "id_domus": "192872119",
+      "fechaPublicacion": "2025-09-15",
+      "lat": 4.561660156847,
+      "lon": -74.103444653611,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS LOMAS",
+      "zonaSlug": "las-lomas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 150000000,
+      "area": 30.0,
+      "administracion": 90000,
+      "barrio": "LAS LOMAS",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-lomas-bogota/194156929",
+      "titulo": "Apartamento en Venta en Las lomas, Bogotá",
+      "id_domus": "194156929",
+      "fechaPublicacion": "2026-08-24",
+      "lat": 4.5651129,
+      "lon": -74.1103707,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS LOMAS",
+      "zonaSlug": "las-lomas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 265000000,
+      "area": 45.0,
+      "administracion": 110000,
+      "barrio": "20 DE JULIO",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-20-de-julio-bogota/194199808",
+      "titulo": "Apartamento en Venta en 20 de julio, Bogotá",
+      "id_domus": "194199808",
+      "fechaPublicacion": "2026-09-02",
+      "lat": 4.563785,
+      "lon": -74.0999291,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS LOMAS",
+      "zonaSlug": "las-lomas",
+      "origenZona": "barrio"
+    }
+  ]
+}

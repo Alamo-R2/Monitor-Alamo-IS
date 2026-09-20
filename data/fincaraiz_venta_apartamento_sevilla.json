@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "SEVILLA",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 19:53",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 480000000,
+      "area": 80.0,
+      "administracion": 280000.0,
+      "barrio": "CIUDAD BERNA",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-berna-bogota/193593366",
+      "titulo": "Apartamento en Venta en Ciudad berna, Bogotá",
+      "id_domus": "193593366",
+      "fechaPublicacion": "2026-04-05",
+      "lat": 4.5873262062417,
+      "lon": -74.092205549932,
+      "location_type": "exacta",
+      "zonaConsulta": "SEVILLA",
+      "zonaSlug": "sevilla",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 280000000,
+      "area": 52.0,
+      "administracion": null,
+      "barrio": "CIUDAD BERNA",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-berna-bogota/191928661",
+      "titulo": "Apartamento en  Venta en Ciudad berna, Bogotá",
+      "id_domus": "191928661",
+      "fechaPublicacion": "2025-01-27",
+      "lat": 4.5879640782427,
+      "lon": -74.091217108673,
+      "location_type": "exacta",
+      "zonaConsulta": "SEVILLA",
+      "zonaSlug": "sevilla",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 280000000,
+      "area": 55.0,
+      "administracion": null,
+      "barrio": "SEVILLA",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-sevilla-bogota/192457580",
+      "titulo": "Apartamento en Venta en Sevilla, Bogotá",
+      "id_domus": "192457580",
+      "fechaPublicacion": "2025-05-27",
+      "lat": 4.5882028,
+      "lon": -74.0914993,
+      "location_type": "exacta",
+      "zonaConsulta": "SEVILLA",
+      "zonaSlug": "sevilla",
+      "origenZona": "barrio"
+    }
+  ]
+}

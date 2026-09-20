@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.20 05:31",
+  "generado": "2026.SEP.20 19:53",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -41,33 +41,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 500000000,
-      "area": 50.0,
-      "administracion": 268300.0,
-      "barrio": "EL VERGEL",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-vergel-bogota/192840941",
-      "titulo": "Apartamento en Venta en El vergel, Bogotá",
-      "id_domus": "192840941",
-      "fechaPublicacion": "2025-09-06",
-      "lat": 4.6504613,
-      "lon": -74.1316314,
-      "location_type": "exacta",
-      "zonaConsulta": "EL VERGEL",
-      "zonaSlug": "el-vergel",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 388000000,
       "area": 60.0,
       "administracion": 297200.0,
@@ -89,7 +62,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -116,7 +89,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -143,7 +116,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -164,6 +137,33 @@
       "fechaPublicacion": "2026-05-08",
       "lat": 4.655769860677,
       "lon": -74.134652406971,
+      "location_type": "exacta",
+      "zonaConsulta": "EL VERGEL",
+      "zonaSlug": "el-vergel",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 500000000,
+      "area": 50.0,
+      "administracion": 268300.0,
+      "barrio": "EL VERGEL",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-vergel-bogota/192840941",
+      "titulo": "Apartamento en Venta en El vergel, Bogotá",
+      "id_domus": "192840941",
+      "fechaPublicacion": "2025-09-06",
+      "lat": 4.6504613,
+      "lon": -74.1316314,
       "location_type": "exacta",
       "zonaConsulta": "EL VERGEL",
       "zonaSlug": "el-vergel",

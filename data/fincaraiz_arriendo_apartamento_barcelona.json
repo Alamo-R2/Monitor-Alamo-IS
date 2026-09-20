@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "BARCELONA",
+  "origen": "barrio",
+  "operacion": "arriendo",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 19:53",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1500000,
+      "area": 85.0,
+      "administracion": null,
+      "barrio": "GALAN",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-galan-bogota/194077419",
+      "titulo": "Apartamento en Arriendo en Galan, Bogotá",
+      "id_domus": "194077419",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.6167996,
+      "lon": -74.114411,
+      "location_type": "exacta",
+      "zonaConsulta": "BARCELONA",
+      "zonaSlug": "barcelona",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000,
+      "area": 40.0,
+      "administracion": null,
+      "barrio": "PRIMAVERA OCCIDENTAL - PUENTE ARANDA",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-primavera-occidental-puente-aranda-bogota/194244501",
+      "titulo": "Apartamento en Arriendo en Primavera Occidental - Puente Aranda, Bogotá",
+      "id_domus": "194244501",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.6156503,
+      "lon": -74.1142278,
+      "location_type": "exacta",
+      "zonaConsulta": "BARCELONA",
+      "zonaSlug": "barcelona",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1700000,
+      "area": 43.0,
+      "administracion": 135000.0,
+      "barrio": "COLON",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-colon-bogota/194254782",
+      "titulo": "Apartamento en Arriendo en Colon, Bogotá",
+      "id_domus": "194254782",
+      "fechaPublicacion": "2026-09-14",
+      "lat": 4.6202876,
+      "lon": -74.1149935,
+      "location_type": "exacta",
+      "zonaConsulta": "BARCELONA",
+      "zonaSlug": "barcelona",
+      "origenZona": "barrio"
+    }
+  ]
+}

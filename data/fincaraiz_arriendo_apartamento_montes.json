@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "MONTES",
+  "origen": "barrio",
+  "operacion": "arriendo",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 19:53",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 110.0,
+      "administracion": null,
+      "barrio": "EL JAZMIN",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-jazmin-bogota/194112592",
+      "titulo": "Apartamento en Arriendo en El jazmin, Bogotá",
+      "id_domus": "194112592",
+      "fechaPublicacion": "2026-08-13",
+      "lat": 4.6078302,
+      "lon": -74.1186969,
+      "location_type": "exacta",
+      "zonaConsulta": "MONTES",
+      "zonaSlug": "montes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000,
+      "area": 40.0,
+      "administracion": null,
+      "barrio": "PRIMAVERA OCCIDENTAL - PUENTE ARANDA",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-primavera-occidental-puente-aranda-bogota/194244501",
+      "titulo": "Apartamento en Arriendo en Primavera Occidental - Puente Aranda, Bogotá",
+      "id_domus": "194244501",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.6156503,
+      "lon": -74.1142278,
+      "location_type": "exacta",
+      "zonaConsulta": "MONTES",
+      "zonaSlug": "montes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000,
+      "area": 65.0,
+      "administracion": null,
+      "barrio": "SANTA SOFIA",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-sofia-bogota/194116053",
+      "titulo": "Apartamento en Arriendo en Santa sofia, Bogotá",
+      "id_domus": "194116053",
+      "fechaPublicacion": "2026-08-13",
+      "lat": 4.611745,
+      "lon": -74.1124148,
+      "location_type": "exacta",
+      "zonaConsulta": "MONTES",
+      "zonaSlug": "montes",
+      "origenZona": "barrio"
+    }
+  ]
+}
