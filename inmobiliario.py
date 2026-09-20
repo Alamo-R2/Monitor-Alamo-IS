@@ -586,6 +586,12 @@ def scrape_portal(portal, operacion, tipo, zona, ciudad, paginas):
         unicos = [f for f in unicos if _ok(f)]
         if antes != len(unicos):
             print("    fincaraiz: descartados por ciudad != " + ciudad + ": " + str(antes - len(unicos)))
+    if portal == "ciencuadras":
+        zbarrio = zona.replace("-", " ").upper()  # avisos sin barrio propio (nivel ciudad) -> barrio consultado
+        for f in unicos:
+            u = (f.get("ubicacion") or "").strip()
+            if not u or u.lower() in ("bogota", "bogot\u00e1"):
+                f["ubicacion"] = zbarrio
     return unicos
 
 
