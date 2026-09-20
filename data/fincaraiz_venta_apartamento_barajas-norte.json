@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "BARAJAS NORTE",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 05:31",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1000000000,
+      "area": 161.0,
+      "administracion": 1100000,
+      "barrio": "ARRAYANES",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-arrayanes-bogota/193913887",
+      "titulo": "Apartamento en Venta en Arrayanes, Bogotá",
+      "id_domus": "193913887",
+      "fechaPublicacion": "2026-06-24",
+      "lat": 4.78755186363,
+      "lon": -74.071318944217,
+      "location_type": "exacta",
+      "zonaConsulta": "BARAJAS NORTE",
+      "zonaSlug": "barajas-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 13500000,
+      "area": 460.0,
+      "administracion": 3000000,
+      "barrio": "CONEJERA",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 5,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-conejera-bogota/194271367",
+      "titulo": "Apartamento en Venta en Conejera, Bogotá",
+      "id_domus": "194271367",
+      "fechaPublicacion": "2026-09-17",
+      "lat": 4.7691349148373,
+      "lon": -74.072849750519,
+      "location_type": "exacta",
+      "zonaConsulta": "BARAJAS NORTE",
+      "zonaSlug": "barajas-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000000,
+      "area": 148.0,
+      "administracion": 800000,
+      "barrio": "ARRAYANES",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-arrayanes-bogota/193971741",
+      "titulo": "Apartamento en Venta en Arrayanes, Bogotá",
+      "id_domus": "193971741",
+      "fechaPublicacion": "2026-07-09",
+      "lat": 4.78755186363,
+      "lon": -74.071318944217,
+      "location_type": "exacta",
+      "zonaConsulta": "BARAJAS NORTE",
+      "zonaSlug": "barajas-norte",
+      "origenZona": "barrio"
+    }
+  ]
+}

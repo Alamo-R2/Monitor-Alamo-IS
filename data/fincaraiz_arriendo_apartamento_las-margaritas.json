@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "LAS MARGARITAS",
+  "origen": "barrio",
+  "operacion": "arriendo",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 05:31",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3300000,
+      "area": 56.0,
+      "administracion": null,
+      "barrio": "CEDRITOS",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cedritos-bogota/194139736",
+      "titulo": "Apartamento en Arriendo en Cedritos, Bogotá",
+      "id_domus": "194139736",
+      "fechaPublicacion": "2026-08-20",
+      "lat": 4.7294631,
+      "lon": -74.0460313,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS MARGARITAS",
+      "zonaSlug": "las-margaritas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2800000,
+      "area": 57.0,
+      "administracion": 350000.0,
+      "barrio": "CEDRITOS",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cedritos-bogota/194162894",
+      "titulo": "Apartamento en Arriendo en Cedritos, Bogotá",
+      "id_domus": "194162894",
+      "fechaPublicacion": "2026-08-25",
+      "lat": 4.729639447634,
+      "lon": -74.04618007785,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS MARGARITAS",
+      "zonaSlug": "las-margaritas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2900000,
+      "area": 65.0,
+      "administracion": null,
+      "barrio": "LAS MARGARITAS",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-las-margaritas-bogota/193610104",
+      "titulo": "Apartamento en Arriendo en Las margaritas, Bogotá",
+      "id_domus": "193610104",
+      "fechaPublicacion": "2026-04-09",
+      "lat": 4.7312533,
+      "lon": -74.047985,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS MARGARITAS",
+      "zonaSlug": "las-margaritas",
+      "origenZona": "barrio"
+    }
+  ]
+}

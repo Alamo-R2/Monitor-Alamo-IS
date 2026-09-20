@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "LA CONCORDIA",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 05:31",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 425000000,
+      "area": 43.0,
+      "administracion": null,
+      "barrio": "EGIPTO",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-egipto-bogota/194079937",
+      "titulo": "Apartamento en Venta en Egipto, Bogotá",
+      "id_domus": "194079937",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.596657,
+      "lon": -74.069169,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CONCORDIA",
+      "zonaSlug": "la-concordia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 315000000,
+      "area": 30.0,
+      "administracion": 329000.0,
+      "barrio": "LA CANDELARIA",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/193285366",
+      "titulo": "Apartamento en Venta en La Candelaria, Bogotá",
+      "id_domus": "193285366",
+      "fechaPublicacion": "2026-01-17",
+      "lat": 4.5978022,
+      "lon": -74.0688283,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CONCORDIA",
+      "zonaSlug": "la-concordia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 370000000,
+      "area": 28.0,
+      "administracion": 402000.0,
+      "barrio": "LA CANDELARIA",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/193562504",
+      "titulo": "Apartamento en Venta en La Candelaria, Bogotá",
+      "id_domus": "193562504",
+      "fechaPublicacion": "2026-03-25",
+      "lat": 4.5978022,
+      "lon": -74.0688283,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CONCORDIA",
+      "zonaSlug": "la-concordia",
+      "origenZona": "barrio"
+    }
+  ]
+}

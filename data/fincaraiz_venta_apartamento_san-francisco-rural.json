@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "SAN FRANCISCO RURAL",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 05:31",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 7600000000,
+      "area": 1421.0,
+      "administracion": null,
+      "barrio": "LA CANDELARIA",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 8.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/11026778",
+      "titulo": "Apartamento en venta en La Candelaria, Bogotá",
+      "id_domus": "11026778",
+      "fechaPublicacion": "2024-07-03",
+      "lat": 4.592321,
+      "lon": -74.069548,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FRANCISCO RURAL",
+      "zonaSlug": "san-francisco-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1300000000,
+      "area": 176.0,
+      "administracion": 900000.0,
+      "barrio": "SAN FRANCISCO RURAL",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 4,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-francisco-rural-bogota/6906048",
+      "titulo": "Apartamento en venta en San francisco rural, Bogotá",
+      "id_domus": "6906048",
+      "fechaPublicacion": "2021-12-10",
+      "lat": 4.72369003295898,
+      "lon": -74.0301895141602,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FRANCISCO RURAL",
+      "zonaSlug": "san-francisco-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1420000000,
+      "area": 168.0,
+      "administracion": 1525000.0,
+      "barrio": "ZONA NORTE",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 5,
+      "parqueaderos": 3.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-zona-norte-bogota/194166681",
+      "titulo": "Apartamento en Venta en Zona norte, Bogotá",
+      "id_domus": "194166681",
+      "fechaPublicacion": "2026-08-26",
+      "lat": 4.5886761940445,
+      "lon": -74.063781332245,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FRANCISCO RURAL",
+      "zonaSlug": "san-francisco-rural",
+      "origenZona": "barrio"
+    }
+  ]
+}
