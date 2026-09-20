@@ -1,7 +1,7 @@
 {
-  "generado": "2026-09-20T13:17:57",
-  "generado_humano": "2026.SEP.20 13:17",
-  "grupo_actual": "diario",
+  "generado": "2026-09-20T13:57:16",
+  "generado_humano": "2026.SEP.20 13:57",
+  "grupo_actual": "cada5",
   "ciudad": "bogota",
   "datasets": [
     {
@@ -914,49 +914,49 @@
       "clave": "venta_apartamento_restrepo",
       "etiqueta": "Venta - Apartamento - Restrepo",
       "archivo": "venta_apartamento_restrepo.json",
-      "total": 51,
+      "total": 50,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Restrepo",
       "slug": "restrepo",
       "origen": "upl",
-      "segundos": 9.1
+      "segundos": 10.1
     },
     {
       "clave": "arriendo_apartamento_restrepo",
       "etiqueta": "Arriendo - Apartamento - Restrepo",
       "archivo": "arriendo_apartamento_restrepo.json",
-      "total": 19,
+      "total": 18,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Restrepo",
       "slug": "restrepo",
       "origen": "upl",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "venta_apartamento_salitre",
       "etiqueta": "Venta - Apartamento - Salitre",
       "archivo": "venta_apartamento_salitre.json",
-      "total": 55,
+      "total": 53,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Salitre",
       "slug": "salitre",
       "origen": "upl",
-      "segundos": 9.0
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_apartamento_salitre",
       "etiqueta": "Arriendo - Apartamento - Salitre",
       "archivo": "arriendo_apartamento_salitre.json",
-      "total": 59,
+      "total": 58,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Salitre",
       "slug": "salitre",
       "origen": "upl",
-      "segundos": 8.9
+      "segundos": 9.0
     },
     {
       "clave": "venta_apartamento_torca",
@@ -974,20 +974,32 @@
       "clave": "arriendo_apartamento_torca",
       "etiqueta": "Arriendo - Apartamento - Torca",
       "archivo": "arriendo_apartamento_torca.json",
-      "total": 52,
+      "total": 50,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Torca",
       "slug": "torca",
       "origen": "upl",
-      "segundos": 9.0
+      "segundos": 8.9
     },
     {
       "clave": "venta_apartamento_suba",
       "etiqueta": "Venta - Apartamento - Suba",
       "archivo": "venta_apartamento_suba.json",
-      "total": 53,
+      "total": 50,
       "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "Suba",
+      "slug": "suba",
+      "origen": "upl",
+      "segundos": 8.9
+    },
+    {
+      "clave": "arriendo_apartamento_suba",
+      "etiqueta": "Arriendo - Apartamento - Suba",
+      "archivo": "arriendo_apartamento_suba.json",
+      "total": 50,
+      "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Suba",
       "slug": "suba",
@@ -995,22 +1007,10 @@
       "segundos": 9.0
     },
     {
-      "clave": "arriendo_apartamento_suba",
-      "etiqueta": "Arriendo - Apartamento - Suba",
-      "archivo": "arriendo_apartamento_suba.json",
-      "total": 0,
-      "operacion": "arriendo",
-      "tipo": "apartamento",
-      "zona": "Suba",
-      "slug": "suba",
-      "origen": "upl",
-      "segundos": 48.0
-    },
-    {
       "clave": "venta_apartamento_rincon-de-suba",
       "etiqueta": "Venta - Apartamento - Rincon de Suba",
       "archivo": "venta_apartamento_rincon-de-suba.json",
-      "total": 6,
+      "total": 7,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Rincon de Suba",
@@ -1022,13 +1022,13 @@
       "clave": "arriendo_apartamento_rincon-de-suba",
       "etiqueta": "Arriendo - Apartamento - Rincon de Suba",
       "archivo": "arriendo_apartamento_rincon-de-suba.json",
-      "total": 0,
+      "total": 8,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Rincon de Suba",
       "slug": "rincon-de-suba",
       "origen": "upl",
-      "segundos": 6.3
+      "segundos": 8.8
     },
     {
       "clave": "venta_apartamento_tibabuyes",
@@ -1040,19 +1040,19 @@
       "zona": "Tibabuyes",
       "slug": "tibabuyes",
       "origen": "upl",
-      "segundos": 9.1
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_apartamento_tibabuyes",
       "etiqueta": "Arriendo - Apartamento - Tibabuyes",
       "archivo": "arriendo_apartamento_tibabuyes.json",
-      "total": 4,
+      "total": 5,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Tibabuyes",
       "slug": "tibabuyes",
       "origen": "upl",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "venta_apartamento_chapinero-norte",
@@ -43831,8 +43831,5 @@
   },
   "tipos": "tipos.json",
   "historial": "historial.json",
-  "noticias": {
-    "archivo": "noticias.json",
-    "total": 17
-  }
+  "noticias": null
 }
