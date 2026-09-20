@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "CENTRO INDUSTRIAL",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 17:04",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 720000000,
+      "area": 68.0,
+      "administracion": 404000,
+      "barrio": "CIUDAD SALITRE ORIENTAL",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 2,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-oriental-bogota/194243089",
+      "titulo": "Apartamento en Venta en Ciudad Salitre Oriental, Bogotá",
+      "id_domus": "194243089",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.6396202677482,
+      "lon": -74.113505215406,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTRO INDUSTRIAL",
+      "zonaSlug": "centro-industrial",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 800000000,
+      "area": 78.0,
+      "administracion": 426000,
+      "barrio": "CIUDAD SALITRE ORIENTAL",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-oriental-bogota/194245299",
+      "titulo": "Apartamento en Venta en Ciudad Salitre Oriental, Bogotá",
+      "id_domus": "194245299",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.6396202677482,
+      "lon": -74.113505215406,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTRO INDUSTRIAL",
+      "zonaSlug": "centro-industrial",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 401700000,
+      "area": 80.0,
+      "administracion": 250000,
+      "barrio": "LA PRADERA",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-pradera-bogota/194060002",
+      "titulo": "Apartamento en Venta en La pradera, Bogotá",
+      "id_domus": "194060002",
+      "fechaPublicacion": "2026-07-31",
+      "lat": 4.6392048,
+      "lon": -74.1126514,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTRO INDUSTRIAL",
+      "zonaSlug": "centro-industrial",
+      "origenZona": "barrio"
+    }
+  ]
+}

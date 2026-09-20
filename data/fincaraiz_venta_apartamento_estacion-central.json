@@ -5,37 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.20 05:31",
+  "generado": "2026.SEP.20 17:04",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 269000000,
-      "area": 22.0,
-      "administracion": 134000.0,
-      "barrio": "PALOQUEMAO",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-paloquemao-bogota/193929364",
-      "titulo": "Apartamento en Venta en Paloquemao, Bogotá",
-      "id_domus": "193929364",
-      "fechaPublicacion": "2026-06-29",
-      "lat": 4.6151264,
-      "lon": -74.0913047,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTACION CENTRAL",
-      "zonaSlug": "estacion-central",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -56,6 +29,33 @@
       "fechaPublicacion": "2022-07-08",
       "lat": 4.61554479598999,
       "lon": -74.0910491943359,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTACION CENTRAL",
+      "zonaSlug": "estacion-central",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 269000000,
+      "area": 22.0,
+      "administracion": 134000.0,
+      "barrio": "PALOQUEMAO",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-paloquemao-bogota/193929364",
+      "titulo": "Apartamento en Venta en Paloquemao, Bogotá",
+      "id_domus": "193929364",
+      "fechaPublicacion": "2026-06-29",
+      "lat": 4.6151264,
+      "lon": -74.0913047,
       "location_type": "exacta",
       "zonaConsulta": "ESTACION CENTRAL",
       "zonaSlug": "estacion-central",

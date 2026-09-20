@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "EDUARDO FREY",
+  "origen": "barrio",
+  "operacion": "arriendo",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 17:04",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1450000,
+      "area": 70.0,
+      "administracion": null,
+      "barrio": "SAN JORGE CENTRAL",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-jorge-central-bogota/194223259",
+      "titulo": "Apartamento en Arriendo en San jorge central, Bogotá",
+      "id_domus": "194223259",
+      "fechaPublicacion": "2026-09-08",
+      "lat": 4.5934607,
+      "lon": -74.1167709,
+      "location_type": "exacta",
+      "zonaConsulta": "EDUARDO FREY",
+      "zonaSlug": "eduardo-frey",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1300000,
+      "area": 26.0,
+      "administracion": null,
+      "barrio": "SANTANDER SUR",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santander-sur-bogota/194161346",
+      "titulo": "Apartamento en Arriendo en Santander sur, Bogotá",
+      "id_domus": "194161346",
+      "fechaPublicacion": "2026-08-25",
+      "lat": 4.594449,
+      "lon": -74.113528,
+      "location_type": "exacta",
+      "zonaConsulta": "EDUARDO FREY",
+      "zonaSlug": "eduardo-frey",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1261000,
+      "area": 49.0,
+      "administracion": 189000.0,
+      "barrio": "LIBERTADOR",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2.0,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-libertador-bogota/194020487",
+      "titulo": "Apartamento en Arriendo en Libertador, Bogotá",
+      "id_domus": "194020487",
+      "fechaPublicacion": "2026-07-22",
+      "lat": 4.5877554,
+      "lon": -74.1157278,
+      "location_type": "exacta",
+      "zonaConsulta": "EDUARDO FREY",
+      "zonaSlug": "eduardo-frey",
+      "origenZona": "barrio"
+    }
+  ]
+}

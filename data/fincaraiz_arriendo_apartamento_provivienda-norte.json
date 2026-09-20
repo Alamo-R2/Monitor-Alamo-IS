@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "PROVIVIENDA NORTE",
+  "origen": "barrio",
+  "operacion": "arriendo",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 17:04",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1350000,
+      "area": 42.0,
+      "administracion": null,
+      "barrio": "AMÉRICAS CENTRAL",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-americas-central-bogota/193074432",
+      "titulo": "Apartamento en Arriendo en Américas Central, Bogotá",
+      "id_domus": "193074432",
+      "fechaPublicacion": "2025-11-07",
+      "lat": 4.6184474,
+      "lon": -74.1252809,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA NORTE",
+      "zonaSlug": "provivienda-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 40.0,
+      "administracion": null,
+      "barrio": "AMÉRICAS CENTRAL",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-americas-central-bogota/193502944",
+      "titulo": "Apartamento en Arriendo en Américas Central, Bogotá",
+      "id_domus": "193502944",
+      "fechaPublicacion": "2026-03-12",
+      "lat": 4.617744,
+      "lon": -74.126033,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA NORTE",
+      "zonaSlug": "provivienda-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1850000,
+      "area": 47.0,
+      "administracion": null,
+      "barrio": "VILLA DEL ROSARIO",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villa-del-rosario-bogota/193856174",
+      "titulo": "Apartamento en Arriendo en Villa del Rosario, Bogotá",
+      "id_domus": "193856174",
+      "fechaPublicacion": "2026-06-09",
+      "lat": 4.611527,
+      "lon": -74.128135,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA NORTE",
+      "zonaSlug": "provivienda-norte",
+      "origenZona": "barrio"
+    }
+  ]
+}
