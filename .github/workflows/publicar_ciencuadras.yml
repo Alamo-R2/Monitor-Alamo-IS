@@ -1,0 +1,70 @@
+name: Publicar Ciencuadras (bootstrap barrios_res)
+
+# Barre Ciencuadras (apartamento) sobre TODOS los barrios, cursor propio
+# (cursor_barrios_ciencuadras.json) y clave con prefijo "ciencuadras_" para no
+# chocar con metro ni fincaraiz. Archivos por-zona pequenos + index.json fusionado.
+# Ciencuadras NO expone lat/lon: aporta $/m2 por barrio (tab 5), no geo para 5a.
+#
+# Cron escalonado en horarios libres de metro (07,09,12) y fincaraiz (01,05,10,14,18,22).
+# Al llenar la linea base (~4 dias), baja la frecuencia o desactiva el workflow.
+
+on:
+  workflow_dispatch:
+    inputs:
+      barrios:
+        description: "Barrios por corrida (80 = ~160 consultas)"
+        default: "80"
+      tipos:
+        description: "Tipos (coma). Bootstrap: apartamento"
+        default: "apartamento"
+  schedule:
+    - cron: "0 2,6,11,15,19,23 * * *"   # 6x/dia, sin pisar metro ni fincaraiz
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar-ciencuadras
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Instalar dependencias
+        run: |
+          pip install playwright pandas openpyxl requests
+          playwright install --with-deps chromium
+      - name: Correr Ciencuadras (residencial, todos los barrios, cursor propio)
+        run: |
+          python inmobiliario.py publicar \
+            --carpeta data \
+            --grupo barrios_res \
+            --portal ciencuadras \
+            --tipos "${{ github.event.inputs.tipos || 'apartamento' }}" \
+            --cursor-suffix _ciencuadras \
+            --barrios "${{ github.event.inputs.barrios || '80' }}"
+      - name: Guardar (robusto ante corridas simultaneas)
+        run: |
+          git config user.name  "monitor-bot"
+          git config user.email "monitor-bot@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Ciencuadras barrios_res $(date -u '+%Y-%m-%d %H:%M UTC')"
+          ok=0
+          for i in $(seq 1 6); do
+            if git pull --rebase --autostash origin main; then
+              if git push origin HEAD:main; then ok=1; break; fi
+            else
+              git rebase --abort 2>/dev/null || true
+              git reset --hard origin/main 2>/dev/null || true
+              echo "Conflicto con otra corrida; cedo esta vez. El cursor NO avanzo en remoto, se recupera en la siguiente."
+              exit 0
+            fi
+            echo "Reintento push $i..."; sleep $((RANDOM % 8 + 3))
+          done
+          [ "$ok" = "1" ] || { echo "No se pudo hacer push tras reintentos"; exit 1; }
