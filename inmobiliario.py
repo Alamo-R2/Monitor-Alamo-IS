@@ -659,7 +659,7 @@ def diagnostico(carpeta="data"):
     return resumen
 
 
-def publicar(carpeta="data", grupo="diario", portal="metrocuadrado", tipos=None, cursor_suffix="", barrios_n=None):
+def publicar(carpeta="data", grupo="diario", portal="metrocuadrado", tipos_filtro=None, cursor_suffix="", barrios_n=None):
     """Rastrea las zonas del GRUPO. Escribe: un JSON por zona, un consolidado
     por grupo, index.json (manifiesto), tipos.json (inventario de tipos por
     portal) e historial.json (variacion de conteos entre corridas + tiempos)."""
@@ -685,13 +685,22 @@ def publicar(carpeta="data", grupo="diario", portal="metrocuadrado", tipos=None,
     tiempos = []       # medicion por zona
     portal = portal or "metrocuadrado"   # viene por parametro (default metrocuadrado)
     pfx = "" if portal == "metrocuadrado" else portal + "_"   # prefijo de clave/archivo para no chocar con metro
+    if pfx:  # limpia artefactos mal nombrados de versiones previas (portal repetido en la clave)
+        _badpat = re.compile(r"^" + re.escape(portal) + r"_(venta|arriendo)_" + re.escape(portal) + r"_")
+        import glob as _glob
+        for _f in _glob.glob(str(base / (portal + "_*.json"))):
+            if _badpat.match(Path(_f).name):
+                try:
+                    Path(_f).unlink()
+                except Exception:
+                    pass
 
     for entry in zonas:
         if len(entry) == 5:
             nombre, slug, origen, _tset, _oset = entry
         else:
             nombre, slug, origen = entry
-            _tset, _oset = (tipos or TIPOS), OPERACIONES
+            _tset, _oset = (tipos_filtro or TIPOS), OPERACIONES
         ciudad = slug if origen == "municipio" else CIUDAD_POR_DEFECTO
         zona = "" if origen == "municipio" else slug
         for oper in _oset:
@@ -827,6 +836,9 @@ def publicar(carpeta="data", grupo="diario", portal="metrocuadrado", tipos=None,
             pass
     for d in datasets:
         all_ds[d["clave"]] = d
+    if pfx:  # quita del manifiesto las claves stale del mismo patron buggy (portal repetido)
+        _badpat = re.compile(r"^" + re.escape(portal) + r"_(venta|arriendo)_" + re.escape(portal) + r"_")
+        all_ds = {k: v for k, v in all_ds.items() if not _badpat.match(k)}
     manifiesto = {
         "generado": generado.isoformat(timespec="seconds"),
         "generado_humano": stamp,
