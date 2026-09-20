@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "LA GAITANA",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 04:32",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 850000000,
+      "area": 274.0,
+      "administracion": null,
+      "barrio": "SUBA",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/192157369",
+      "titulo": "Apartamento en  Venta en Suba, Bogotá",
+      "id_domus": "192157369",
+      "fechaPublicacion": "2025-03-17",
+      "lat": 4.7396919,
+      "lon": -74.1040812,
+      "location_type": "exacta",
+      "zonaConsulta": "LA GAITANA",
+      "zonaSlug": "la-gaitana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 305000000,
+      "area": 64.0,
+      "administracion": null,
+      "barrio": "SUBA",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/194089306",
+      "titulo": "Apartamento en Venta en Suba, Bogotá",
+      "id_domus": "194089306",
+      "fechaPublicacion": "2026-08-07",
+      "lat": 4.7439592,
+      "lon": -74.1050912,
+      "location_type": "exacta",
+      "zonaConsulta": "LA GAITANA",
+      "zonaSlug": "la-gaitana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 60.49,
+      "administracion": 154000.0,
+      "barrio": "SUBA",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/193789590",
+      "titulo": "Apartamento en Venta en Suba, Bogotá",
+      "id_domus": "193789590",
+      "fechaPublicacion": "2026-05-24",
+      "lat": 4.7462233,
+      "lon": -74.1084872,
+      "location_type": "exacta",
+      "zonaConsulta": "LA GAITANA",
+      "zonaSlug": "la-gaitana",
+      "origenZona": "barrio"
+    }
+  ]
+}

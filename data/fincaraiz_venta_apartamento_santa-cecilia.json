@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "SANTA CECILIA",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 04:32",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 380000000,
+      "area": 98.0,
+      "administracion": null,
+      "barrio": "SANTA CECILIA",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-cecilia-bogota/194201519",
+      "titulo": "Apartamento en Venta en Santa cecilia, Bogotá",
+      "id_domus": "194201519",
+      "fechaPublicacion": "2026-09-02",
+      "lat": 4.6774984,
+      "lon": -74.1121311,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CECILIA",
+      "zonaSlug": "santa-cecilia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 330000000,
+      "area": 62.0,
+      "administracion": 236000.0,
+      "barrio": "NORMANDIA OCCIDENTAL",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-occidental-bogota/194149437",
+      "titulo": "Apartamento en Venta en Normandia occidental, Bogotá",
+      "id_domus": "194149437",
+      "fechaPublicacion": "2026-08-22",
+      "lat": 4.6792011,
+      "lon": -74.1116593,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CECILIA",
+      "zonaSlug": "santa-cecilia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 290000000,
+      "area": 32.0,
+      "administracion": 180000.0,
+      "barrio": "LOS MONJES",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-monjes-bogota/193720453",
+      "titulo": "Apartamento en Venta en Los monjes, Bogotá",
+      "id_domus": "193720453",
+      "fechaPublicacion": "2026-05-07",
+      "lat": 4.679425665959,
+      "lon": -74.112854764849,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CECILIA",
+      "zonaSlug": "santa-cecilia",
+      "origenZona": "barrio"
+    }
+  ]
+}

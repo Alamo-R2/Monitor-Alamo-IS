@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "VILLA MARIA",
+  "origen": "barrio",
+  "operacion": "arriendo",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 04:32",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1100000,
+      "area": 30.0,
+      "administracion": null,
+      "barrio": "VILLA MARIA I",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villa-maria-i-bogota/194154996",
+      "titulo": "Apartamento en Arriendo en Villa maria i, Bogotá",
+      "id_domus": "194154996",
+      "fechaPublicacion": "2026-08-24",
+      "lat": 4.740328,
+      "lon": -74.102003,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA MARIA",
+      "zonaSlug": "villa-maria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1385000,
+      "area": 60.0,
+      "administracion": 315000.0,
+      "barrio": "BOGOTÁ",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/194238995",
+      "titulo": "Apartamento en Arriendo en Bogotá",
+      "id_domus": "194238995",
+      "fechaPublicacion": "2026-09-10",
+      "lat": 4.7375227,
+      "lon": -74.101536,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA MARIA",
+      "zonaSlug": "villa-maria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 850000,
+      "area": 37.0,
+      "administracion": null,
+      "barrio": "VILLA MARIA I",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villa-maria-i-bogota/194220357",
+      "titulo": "Apartamento en Arriendo en Villa maria i, Bogotá",
+      "id_domus": "194220357",
+      "fechaPublicacion": "2026-09-07",
+      "lat": 4.7411487,
+      "lon": -74.099994,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA MARIA",
+      "zonaSlug": "villa-maria",
+      "origenZona": "barrio"
+    }
+  ]
+}

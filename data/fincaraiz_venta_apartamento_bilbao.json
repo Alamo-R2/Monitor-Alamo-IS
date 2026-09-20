@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "BILBAO",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 04:32",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 450000000,
+      "area": 40.0,
+      "administracion": 30000,
+      "barrio": "FONTANAR DEL RÍO",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontanar-del-rio-bogota/192138838",
+      "titulo": "Apartamento en  Venta en Fontanar del río, Bogotá",
+      "id_domus": "192138838",
+      "fechaPublicacion": "2025-03-13",
+      "lat": 4.7527593,
+      "lon": -74.1170551,
+      "location_type": "exacta",
+      "zonaConsulta": "BILBAO",
+      "zonaSlug": "bilbao",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 180000000,
+      "area": 50.0,
+      "administracion": 120000,
+      "barrio": "BILBAO",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bilbao-bogota/194248951",
+      "titulo": "Apartamento en Venta en Bilbao, Bogotá",
+      "id_domus": "194248951",
+      "fechaPublicacion": "2026-09-12",
+      "lat": 4.7495821,
+      "lon": -74.118316,
+      "location_type": "exacta",
+      "zonaConsulta": "BILBAO",
+      "zonaSlug": "bilbao",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 185000000,
+      "area": 53.0,
+      "administracion": 125000,
+      "barrio": "BILBAO",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bilbao-bogota/191531409",
+      "titulo": "Apartamento en Venta en Bilbao, Bogotá",
+      "id_domus": "191531409",
+      "fechaPublicacion": "2024-10-05",
+      "lat": 4.75078450574,
+      "lon": -74.117335175856,
+      "location_type": "exacta",
+      "zonaConsulta": "BILBAO",
+      "zonaSlug": "bilbao",
+      "origenZona": "barrio"
+    }
+  ]
+}

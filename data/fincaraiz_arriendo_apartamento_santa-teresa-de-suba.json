@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "SANTA TERESA DE SUBA",
+  "origen": "barrio",
+  "operacion": "arriendo",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 04:32",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 5000000,
+      "area": 51.0,
+      "administracion": null,
+      "barrio": "EL CHICO",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-chico-bogota/194219281",
+      "titulo": "Apartamento en Arriendo en El chico, Bogotá",
+      "id_domus": "194219281",
+      "fechaPublicacion": "2026-09-07",
+      "lat": 4.7171787,
+      "lon": -74.0992645,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA TERESA DE SUBA",
+      "zonaSlug": "santa-teresa-de-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3300000,
+      "area": 69.0,
+      "administracion": null,
+      "barrio": "ZONA CHAPINERO",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-zona-chapinero-bogota/194240348",
+      "titulo": "Apartamento en Arriendo en Zona chapinero, Bogotá",
+      "id_domus": "194240348",
+      "fechaPublicacion": "2026-09-10",
+      "lat": 4.7155303,
+      "lon": -74.0961865,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA TERESA DE SUBA",
+      "zonaSlug": "santa-teresa-de-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1070000,
+      "area": 54.0,
+      "administracion": 130000.0,
+      "barrio": "CLUB LOS LAGARTOS",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-club-los-lagartos-bogota/192004988",
+      "titulo": "Apartamento en  Arriendo en Club los lagartos, Bogotá",
+      "id_domus": "192004988",
+      "fechaPublicacion": "2025-02-11",
+      "lat": 4.7163129,
+      "lon": -74.0933898,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA TERESA DE SUBA",
+      "zonaSlug": "santa-teresa-de-suba",
+      "origenZona": "barrio"
+    }
+  ]
+}
