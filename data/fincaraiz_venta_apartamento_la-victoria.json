@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "LA VICTORIA",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 23:39",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 180000000,
+      "area": 45.0,
+      "administracion": 135000.0,
+      "barrio": "LA VICTORIA",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-victoria-bogota/194055141",
+      "titulo": "Apartamento en Venta en La victoria, Bogotá",
+      "id_domus": "194055141",
+      "fechaPublicacion": "2026-07-30",
+      "lat": 4.5546249036619,
+      "lon": -74.09390087554,
+      "location_type": "exacta",
+      "zonaConsulta": "LA VICTORIA",
+      "zonaSlug": "la-victoria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 312000000,
+      "area": 74.0,
+      "administracion": null,
+      "barrio": "LA VICTORIA",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-victoria-bogota/193641130",
+      "titulo": "Apartamento en Venta en La victoria, Bogotá",
+      "id_domus": "193641130",
+      "fechaPublicacion": "2026-04-16",
+      "lat": 4.5536271,
+      "lon": -74.0938855,
+      "location_type": "exacta",
+      "zonaConsulta": "LA VICTORIA",
+      "zonaSlug": "la-victoria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 210000000,
+      "area": 51.0,
+      "administracion": 110000.0,
+      "barrio": "LA VICTORIA",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-victoria-bogota/191927894",
+      "titulo": "Apartamento en  Venta en La victoria, Bogotá",
+      "id_domus": "191927894",
+      "fechaPublicacion": "2025-01-27",
+      "lat": 4.5557953,
+      "lon": -74.0907213,
+      "location_type": "exacta",
+      "zonaConsulta": "LA VICTORIA",
+      "zonaSlug": "la-victoria",
+      "origenZona": "barrio"
+    }
+  ]
+}

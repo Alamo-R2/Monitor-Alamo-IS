@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "total": 3,
+  "zona": "LA GLORIA ORIENTAL",
+  "origen": "barrio",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "generado": "2026.SEP.20 23:39",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 230000000,
+      "area": 49.0,
+      "administracion": 170000.0,
+      "barrio": "20 DE JULIO",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-20-de-julio-bogota/193822566",
+      "titulo": "Apartamento en Venta en 20 de julio, Bogotá",
+      "id_domus": "193822566",
+      "fechaPublicacion": "2026-05-31",
+      "lat": 4.5456704,
+      "lon": -74.093183,
+      "location_type": "exacta",
+      "zonaConsulta": "LA GLORIA ORIENTAL",
+      "zonaSlug": "la-gloria-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 145000000,
+      "area": 38.0,
+      "administracion": 75000.0,
+      "barrio": "SAN CRISTOBAL",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": null,
+      "parqueaderos": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-cristobal/194025628",
+      "titulo": "Apartamento en Venta en San cristobal",
+      "id_domus": "194025628",
+      "fechaPublicacion": "2026-07-23",
+      "lat": 4.546265,
+      "lon": -74.087517,
+      "location_type": "exacta",
+      "zonaConsulta": "LA GLORIA ORIENTAL",
+      "zonaSlug": "la-gloria-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 210000000,
+      "area": 49.0,
+      "administracion": null,
+      "barrio": "MOLINOS NORTE",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-molinos-norte-bogota/193993835",
+      "titulo": "Apartamento en Venta en Molinos norte, Bogotá",
+      "id_domus": "193993835",
+      "fechaPublicacion": "2026-07-15",
+      "lat": 4.5456704,
+      "lon": -74.093183,
+      "location_type": "exacta",
+      "zonaConsulta": "LA GLORIA ORIENTAL",
+      "zonaSlug": "la-gloria-oriental",
+      "origenZona": "barrio"
+    }
+  ]
+}
