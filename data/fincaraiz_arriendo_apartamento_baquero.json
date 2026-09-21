@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "BAQUERO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 05:35",
+  "generado": "2026.SEP.21 16:03",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -125,6 +125,35 @@
     },
     {
       "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2550000,
+      "area": 120.0,
+      "administracion": null,
+      "barrio": "SAN LUIS",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-luis/194286728",
+      "titulo": "Apartamento en Arriendo en San luis",
+      "id_domus": "194286728",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.6507161345528,
+      "lon": -74.071202859004,
+      "location_type": "exacta",
+      "zonaConsulta": "BAQUERO",
+      "zonaSlug": "baquero",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],

@@ -5,10 +5,39 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 05:35",
+  "generado": "2026.SEP.21 16:03",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 900000000,
+      "area": 130.0,
+      "administracion": 650000.0,
+      "barrio": "CIUDADELA CAFAM ET. IV",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudadela-cafam-et-iv-bogota/193542333",
+      "titulo": "Apartamento en Venta en Ciudadela cafam et. iv, Bogotá",
+      "id_domus": "193542333",
+      "fechaPublicacion": "2026-03-19",
+      "lat": 4.6875339,
+      "lon": -74.0761839,
+      "location_type": "exacta",
+      "zonaConsulta": "JULIO FLOREZ",
+      "zonaSlug": "julio-florez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -37,65 +66,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 620000000,
-      "area": 115.0,
-      "administracion": null,
-      "barrio": "LA FLORESTA",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-floresta-bogota/194191836",
-      "titulo": "Apartamento en Venta en La Floresta, Bogotá",
-      "id_domus": "194191836",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.6911682,
-      "lon": -74.0740041,
-      "location_type": "exacta",
-      "zonaConsulta": "JULIO FLOREZ",
-      "zonaSlug": "julio-florez",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 575000000,
-      "area": 55.0,
-      "administracion": 338000.0,
-      "barrio": "ILARCO",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ilarco-bogota/194181926",
-      "titulo": "Apartamento en Venta en Ilarco, Bogotá",
-      "id_domus": "194181926",
-      "fechaPublicacion": "2026-08-29",
-      "lat": 4.6973034,
-      "lon": -74.0690199,
-      "location_type": "exacta",
-      "zonaConsulta": "JULIO FLOREZ",
-      "zonaSlug": "julio-florez",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -124,7 +95,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -153,7 +124,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -182,7 +153,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -205,6 +176,35 @@
       "fechaPublicacion": "2026-07-31",
       "lat": 4.6973284,
       "lon": -74.068952,
+      "location_type": "exacta",
+      "zonaConsulta": "JULIO FLOREZ",
+      "zonaSlug": "julio-florez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 620000000,
+      "area": 115.0,
+      "administracion": null,
+      "barrio": "LA FLORESTA",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-floresta-bogota/194191836",
+      "titulo": "Apartamento en Venta en La Floresta, Bogotá",
+      "id_domus": "194191836",
+      "fechaPublicacion": "2026-09-01",
+      "lat": 4.6911682,
+      "lon": -74.0740041,
       "location_type": "exacta",
       "zonaConsulta": "JULIO FLOREZ",
       "zonaSlug": "julio-florez",
@@ -246,35 +246,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 900000000,
-      "area": 130.0,
-      "administracion": 650000.0,
-      "barrio": "CIUDADELA CAFAM ET. IV",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudadela-cafam-et-iv-bogota/193542333",
-      "titulo": "Apartamento en Venta en Ciudadela cafam et. iv, Bogotá",
-      "id_domus": "193542333",
-      "fechaPublicacion": "2026-03-19",
-      "lat": 4.6875339,
-      "lon": -74.0761839,
-      "location_type": "exacta",
-      "zonaConsulta": "JULIO FLOREZ",
-      "zonaSlug": "julio-florez",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 320000000,
       "area": 36.0,
       "administracion": 250000.0,
@@ -298,7 +269,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -321,6 +292,35 @@
       "fechaPublicacion": "2024-11-12",
       "lat": 4.696307,
       "lon": -74.0691708,
+      "location_type": "exacta",
+      "zonaConsulta": "JULIO FLOREZ",
+      "zonaSlug": "julio-florez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 575000000,
+      "area": 55.0,
+      "administracion": 338000.0,
+      "barrio": "ILARCO",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 5.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ilarco-bogota/194181926",
+      "titulo": "Apartamento en Venta en Ilarco, Bogotá",
+      "id_domus": "194181926",
+      "fechaPublicacion": "2026-08-29",
+      "lat": 4.6973034,
+      "lon": -74.0690199,
       "location_type": "exacta",
       "zonaConsulta": "JULIO FLOREZ",
       "zonaSlug": "julio-florez",
@@ -547,8 +547,8 @@
       "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-morato-bogota/194267776",
-      "titulo": "Apartamento en Venta en Morato, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194267776",
+      "titulo": "Apartamento en Venta en Bogotá",
       "id_domus": "194267776",
       "fechaPublicacion": "2026-09-16",
       "lat": 4.6900051,
