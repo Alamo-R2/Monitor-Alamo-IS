@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 18,
+  "total": 19,
   "zona": "PARQUE POPULAR SALITRE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 16:03",
+  "generado": "2026.SEP.21 21:17",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,7 +14,7 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2050000,
+      "precio": 1950000,
       "area": 30.0,
       "administracion": null,
       "barrio": "JOSE JOAQUIN VARGAS",
@@ -275,6 +275,35 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2110000,
+      "area": 30.0,
+      "administracion": 190000.0,
+      "barrio": "BARRIOS UNIDOS",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194288022",
+      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
+      "id_domus": "194288022",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.6687928,
+      "lon": -74.0848985,
+      "location_type": "exacta",
+      "zonaConsulta": "PARQUE POPULAR SALITRE",
+      "zonaSlug": "parque-popular-salitre",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2340000,
       "area": 30.0,
       "administracion": 163000.0,
@@ -298,7 +327,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -327,7 +356,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -356,7 +385,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -385,7 +414,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -414,7 +443,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -443,7 +472,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -472,7 +501,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -501,7 +530,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],

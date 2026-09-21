@@ -1,14 +1,43 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "PABLO VI NORTE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 16:03",
+  "generado": "2026.SEP.21 21:17",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000,
+      "area": 38.0,
+      "administracion": null,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nicolas-de-federman-bogota/194288780",
+      "titulo": "Apartamento en Arriendo en Nicolas de federman, Bogotá",
+      "id_domus": "194288780",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.651595,
+      "lon": -74.083894,
+      "location_type": "exacta",
+      "zonaConsulta": "PABLO VI NORTE",
+      "zonaSlug": "pablo-vi-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -37,7 +66,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -66,7 +95,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -95,7 +124,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
