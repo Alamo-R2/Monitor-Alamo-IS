@@ -5,37 +5,10 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.20 04:32",
+  "generado": "2026.SEP.21 05:35",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2600000,
-      "area": 44.0,
-      "administracion": null,
-      "barrio": "BARRIOS UNIDOS",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194098402",
-      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
-      "id_domus": "194098402",
-      "fechaPublicacion": "2026-08-11",
-      "lat": 4.6877258023525,
-      "lon": -74.070081977098,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS ANDES",
-      "zonaSlug": "los-andes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -49,6 +22,8 @@
       "habitaciones": 3,
       "banos": 3,
       "parqueaderos": 3.0,
+      "estrato": 6,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-bogota/193639048",
       "titulo": "Apartamento en Arriendo en Santa Barbara, Bogotá",
@@ -62,7 +37,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -76,6 +51,8 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-andes-bogota/194201597",
       "titulo": "Apartamento en Arriendo en Los andes, Bogotá",
@@ -89,7 +66,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -103,6 +80,8 @@
       "habitaciones": 4,
       "banos": 1,
       "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194215093",
       "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
@@ -116,7 +95,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -130,6 +109,8 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/192832838",
       "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
@@ -143,169 +124,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2900000,
-      "area": 26.0,
-      "administracion": null,
-      "barrio": "BARRIOS UNIDOS",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194240877",
-      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
-      "id_domus": "194240877",
-      "fechaPublicacion": "2026-09-11",
-      "lat": 4.6877365,
-      "lon": -74.0700927,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS ANDES",
-      "zonaSlug": "los-andes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2800000,
-      "area": 107.0,
-      "administracion": 70000.0,
-      "barrio": "LOS ANDES",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-andes-bogota/11032102",
-      "titulo": "Apartamento en Arriendo en Los andes, Bogotá",
-      "id_domus": "11032102",
-      "fechaPublicacion": "2024-07-05",
-      "lat": 4.686060005187,
-      "lon": -74.067970008621,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS ANDES",
-      "zonaSlug": "los-andes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3850000,
-      "area": 89.0,
-      "administracion": 750000.0,
-      "barrio": "LA FLORESTA",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-floresta-bogota/193912547",
-      "titulo": "Apartamento en Arriendo en La Floresta, Bogotá",
-      "id_domus": "193912547",
-      "fechaPublicacion": "2026-06-24",
-      "lat": 4.687570885144,
-      "lon": -74.072555161115,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS ANDES",
-      "zonaSlug": "los-andes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4200000,
-      "area": 180.0,
-      "administracion": null,
-      "barrio": "LOS ANDES",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 4,
-      "parqueaderos": 1.0,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-andes-bogota/194079936",
-      "titulo": "Apartamento en Arriendo en Los andes, Bogotá",
-      "id_domus": "194079936",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.688269,
-      "lon": -74.067742,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS ANDES",
-      "zonaSlug": "los-andes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2300000,
-      "area": 36.0,
-      "administracion": null,
-      "barrio": "RIONEGRO",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-rionegro-bogota/194232591",
-      "titulo": "Apartamento en Arriendo en Rionegro, Bogotá",
-      "id_domus": "194232591",
-      "fechaPublicacion": "2026-09-09",
-      "lat": 4.6870669,
-      "lon": -74.0654719,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS ANDES",
-      "zonaSlug": "los-andes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4200000,
-      "area": 110.0,
-      "administracion": 753000.0,
-      "barrio": "ANDES NORTE",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-andes-norte-bogota/194232445",
-      "titulo": "Apartamento en Arriendo en Andes norte, Bogotá",
-      "id_domus": "194232445",
-      "fechaPublicacion": "2026-09-09",
-      "lat": 4.690267343396,
-      "lon": -74.069268533061,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS ANDES",
-      "zonaSlug": "los-andes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -319,6 +138,8 @@
       "habitaciones": 3,
       "banos": 3,
       "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194080072",
       "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
@@ -332,7 +153,36 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000,
+      "area": 44.0,
+      "administracion": null,
+      "barrio": "BARRIOS UNIDOS",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194098402",
+      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
+      "id_domus": "194098402",
+      "fechaPublicacion": "2026-08-11",
+      "lat": 4.6877258023525,
+      "lon": -74.070081977098,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ANDES",
+      "zonaSlug": "los-andes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -346,6 +196,8 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-andes-norte-bogota/194201282",
       "titulo": "Apartamento en Arriendo en Andes norte, Bogotá",
@@ -359,7 +211,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -373,6 +225,8 @@
       "habitaciones": 3,
       "banos": 3,
       "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-andes-bogota/193956616",
       "titulo": "Apartamento en Arriendo en Los andes, Bogotá",
@@ -386,7 +240,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -400,6 +254,8 @@
       "habitaciones": 3,
       "banos": 3,
       "parqueaderos": null,
+      "estrato": 5,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/194095454",
       "titulo": "Apartamento en Arriendo en Bogotá",
@@ -413,7 +269,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -427,6 +283,8 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194128473",
       "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
@@ -440,7 +298,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -454,6 +312,8 @@
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-rionegro-bogota/193830626",
       "titulo": "Apartamento en Arriendo en Rionegro, Bogotá",
@@ -467,7 +327,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -481,6 +341,8 @@
       "habitaciones": 3,
       "banos": 3,
       "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-andes-bogota/194192811",
       "titulo": "Apartamento en Arriendo en Los andes, Bogotá",
@@ -488,6 +350,180 @@
       "fechaPublicacion": "2026-09-01",
       "lat": 4.6887514,
       "lon": -74.071091,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ANDES",
+      "zonaSlug": "los-andes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2900000,
+      "area": 26.0,
+      "administracion": null,
+      "barrio": "BARRIOS UNIDOS",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194240877",
+      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
+      "id_domus": "194240877",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.6877365,
+      "lon": -74.0700927,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ANDES",
+      "zonaSlug": "los-andes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2800000,
+      "area": 107.0,
+      "administracion": 70000.0,
+      "barrio": "LOS ANDES",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-andes-bogota/11032102",
+      "titulo": "Apartamento en Arriendo en Los andes, Bogotá",
+      "id_domus": "11032102",
+      "fechaPublicacion": "2024-07-05",
+      "lat": 4.686060005187,
+      "lon": -74.067970008621,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ANDES",
+      "zonaSlug": "los-andes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3850000,
+      "area": 89.0,
+      "administracion": 750000.0,
+      "barrio": "LA FLORESTA",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-floresta-bogota/193912547",
+      "titulo": "Apartamento en Arriendo en La Floresta, Bogotá",
+      "id_domus": "193912547",
+      "fechaPublicacion": "2026-06-24",
+      "lat": 4.687570885144,
+      "lon": -74.072555161115,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ANDES",
+      "zonaSlug": "los-andes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4200000,
+      "area": 180.0,
+      "administracion": null,
+      "barrio": "LOS ANDES",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 4,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-andes-bogota/194079936",
+      "titulo": "Apartamento en Arriendo en Los andes, Bogotá",
+      "id_domus": "194079936",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.688269,
+      "lon": -74.067742,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ANDES",
+      "zonaSlug": "los-andes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2300000,
+      "area": 36.0,
+      "administracion": null,
+      "barrio": "RIONEGRO",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-rionegro-bogota/194232591",
+      "titulo": "Apartamento en Arriendo en Rionegro, Bogotá",
+      "id_domus": "194232591",
+      "fechaPublicacion": "2026-09-09",
+      "lat": 4.6870669,
+      "lon": -74.0654719,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ANDES",
+      "zonaSlug": "los-andes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4200000,
+      "area": 110.0,
+      "administracion": 753000.0,
+      "barrio": "ANDES NORTE",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-andes-norte-bogota/194232445",
+      "titulo": "Apartamento en Arriendo en Andes norte, Bogotá",
+      "id_domus": "194232445",
+      "fechaPublicacion": "2026-09-09",
+      "lat": 4.690267343396,
+      "lon": -74.069268533061,
       "location_type": "exacta",
       "zonaConsulta": "LOS ANDES",
       "zonaSlug": "los-andes",
@@ -508,6 +544,8 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-rionegro-bogota/194062822",
       "titulo": "Apartamento en Arriendo en Rionegro, Bogotá",
