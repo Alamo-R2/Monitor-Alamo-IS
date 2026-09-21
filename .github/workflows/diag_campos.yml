@@ -1,0 +1,35 @@
+name: Diag Campos (metro + fincaraiz)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Instalar dependencias
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium
+      - name: Diagnostico de campos
+        run: python diag_campos.py
+      - name: Publicar en rama de prueba
+        run: |
+          git config user.name  "monitor-bot"
+          git config user.email "monitor-bot@users.noreply.github.com"
+          git checkout -B prueba-ciencuadras
+          git add -f pruebas/diag_campos.json
+          git commit -m "Diag campos $(date -u '+%Y-%m-%d %H:%M UTC')" || echo "sin cambios"
+          git push -f origin prueba-ciencuadras
+      - name: Subir artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: diag_campos
+          path: pruebas/diag_campos.json
