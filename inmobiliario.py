@@ -315,6 +315,20 @@ def _dec(valor):
             return None
 
 
+def _estrato_ok(v):
+    try:
+        n = int(float(v)); return n if 1 <= n <= 6 else None
+    except Exception:
+        return None
+
+
+def _anio_ok(v):
+    try:
+        n = int(float(v)); return n if 1900 <= n <= 2035 else None
+    except Exception:
+        return None
+
+
 def _carpeta(nombre):
     p = Path(nombre)
     p.mkdir(exist_ok=True)
@@ -386,6 +400,8 @@ def _desde_metrocuadrado(page):
             "banos": _num(r.get("mnrobanos")),
             "parqueaderos": _num(r.get("mnrogarajes")),
             "administracion": _num(data.get("mvaloradministracion")),
+            "estrato": _estrato_ok(r.get("estrato")),
+            "antiguedad": None,
             "ubicacion": r.get("mbarrio") or (r.get("mzona") or {}).get("nombre"),
             "url": ("https://www.metrocuadrado.com" + link) if link and link.startswith("/") else link,
             "id_domus": r.get("midinmueble"),
@@ -437,6 +453,8 @@ def _desde_fincaraiz(page):
             "banos": _num(r.get("bathrooms")),
             "parqueaderos": _num(r.get("garage")),
             "administracion": _num(admin) if admin else None,
+            "estrato": _estrato_ok(r.get("stratum")),
+            "antiguedad": _anio_ok(r.get("construction_year")),
             "ubicacion": barrio,
             "ciudad_item": ciudad_it,
             "url": ("https://www.fincaraiz.com.co" + link) if link and link.startswith("/") else link,
@@ -663,6 +681,8 @@ def _df_a_contrato(df, portal, operacion, tipo):
             "habitaciones": g("habitaciones"),
             "banos": g("banos"),
             "parqueaderos": g("parqueaderos"),
+            "estrato": g("estrato"),
+            "antiguedad": g("antiguedad"),
             "portalNombre": portal,
             "sourceLink": g("url"),
             "titulo": g("titulo"),
