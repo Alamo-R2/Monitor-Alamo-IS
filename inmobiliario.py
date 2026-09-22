@@ -172,6 +172,67 @@ def _cargar_geo():
     return None
 
 
+# === v2 · Enriquecimiento geográfico y saneo $/m² (para que las 3 fuentes se alineen en la app) ===
+# Bandas de $/m² plausibles (idénticas a las de 5a en la app). Fuera de banda = error de
+# digitación del aviso -> se descarta en el monitor para no contaminar el pool/5c.
+PPM2_BANDAS = {"venta": (300000, 50000000), "arriendo": (500, 700000)}
+
+def _nk(s):
+    """Normaliza un nombre (barrio/UPL): sin tildes, MAYÚSCULAS, no-alfanumérico -> espacio."""
+    t = unicodedata.normalize("NFD", str(s if s is not None else ""))
+    t = "".join(c for c in t if unicodedata.category(c) != "Mn").upper()
+    t = re.sub(r"[^A-Z0-9]+", " ", t).strip()
+    return re.sub(r"\s+", " ", t)
+
+_GEO_IDX = None
+def _geo_idx():
+    """Devuelve (barrio_norm -> (UPL, localidad), uplname_norm -> (UPL, localidad)) desde geo_model."""
+    global _GEO_IDX
+    if _GEO_IDX is not None:
+        return _GEO_IDX
+    geo = _cargar_geo() or {}
+    barrio2, uplname2 = {}, {}
+    for uplname, v in (geo.get("upl") or {}).items():
+        if not isinstance(v, dict):
+            continue
+        loc = v.get("localidad") or ""
+        uplname2.setdefault(_nk(uplname), (uplname, loc))
+        for b in (v.get("barrios") or {}).keys():
+            barrio2.setdefault(_nk(b), (uplname, loc))  # primer match gana (barrios homónimos entre UPL)
+    _GEO_IDX = (barrio2, uplname2)
+    return _GEO_IDX
+
+def _upl_loc_de(nombre):
+    """UPL y localidad para un nombre que puede ser un barrio específico o un nombre de UPL/localidad."""
+    b2, u2 = _geo_idx()
+    k = _nk(nombre)
+    if not k:
+        return ("", "")
+    if k in b2:
+        return b2[k]
+    if k in u2:
+        return u2[k]
+    return ("", "")
+
+def _es_barrio_especifico(s):
+    b2, _u = _geo_idx()
+    return _nk(s) in b2
+
+def _ppm2_ok(precio, area, operacion):
+    """True si el $/m² cae en banda plausible (o si no hay datos para juzgar)."""
+    try:
+        p = float(precio); a = float(area)
+    except (TypeError, ValueError):
+        return True
+    if not (p > 0 and a > 0):
+        return True
+    ppm = p / a
+    banda = PPM2_BANDAS.get(str(operacion).lower())
+    if not banda:
+        return True
+    return banda[0] <= ppm <= banda[1]
+
+
 def _barrios_ordenados():
     """Lista [(NombreBarrio, slug, 'barrio')] con las UPL de PRIORIDAD primero."""
     geo = _cargar_geo()
@@ -664,19 +725,34 @@ def exportar_excel(df, resumen, etiqueta):
 def _df_a_contrato(df, portal, operacion, tipo):
     oper = {"venta": "Venta", "arriendo": "Arriendo"}.get(operacion, operacion)
     inmuebles = []
+    descartados_ppm2 = 0
     for idx, r in df.reset_index(drop=True).iterrows():
         def g(k):
             v = r.get(k)
             return None if (v is None or (isinstance(v, float) and pd.isna(v))) else v
+        precio = g("precio"); area = g("area_m2")
+        # Saneo $/m²: descarta atípicos (errores de digitación) para no contaminar el pool/5c
+        if not _ppm2_ok(precio, area, operacion):
+            descartados_ppm2 += 1
+            continue
+        barrio = (str(g("ubicacion")).upper() if g("ubicacion") else "")
+        upl, _loc = _upl_loc_de(barrio)
+        try:
+            ppm2 = round(float(precio) / float(area)) if (precio and area and float(area) > 0) else None
+        except (TypeError, ValueError):
+            ppm2 = None
         inmuebles.append({
             "id": "MI-" + str(idx + 1),
             "operacion": [oper],
             "tipo": tipo,
             "tipoPortal": g("tipo_portal"),
-            "precio": g("precio"),
-            "area": g("area_m2"),
+            "precio": precio,
+            "area": area,
+            "precioM2": ppm2,
             "administracion": g("administracion"),
-            "barrio": (str(g("ubicacion")).upper() if g("ubicacion") else ""),
+            "barrio": barrio,
+            "upl": upl,
+            "ciudad": "Bogotá",
             "direccion": "",
             "habitaciones": g("habitaciones"),
             "banos": g("banos"),
@@ -692,6 +768,8 @@ def _df_a_contrato(df, portal, operacion, tipo):
             "lon": g("lon"),
             "location_type": g("location_type") or "aproximada",
         })
+    if descartados_ppm2:
+        print("    saneo $/m2: " + str(descartados_ppm2) + " aviso(s) fuera de banda descartados")
     return inmuebles
 
 
@@ -816,6 +894,18 @@ def publicar(carpeta="data", grupo="diario", portal="metrocuadrado", tipos_filtr
                     it["zonaConsulta"] = nombre
                     it["zonaSlug"] = slug
                     it["origenZona"] = origen
+                    if origen == "municipio":
+                        it["ciudad"] = nombre            # municipios: sin UPL/barrio del modelo de Bogotá
+                    else:
+                        it["ciudad"] = "Bogotá"
+                        _upl, _loc = _upl_loc_de(nombre)  # barrio consultado = UPL determinista
+                        if _upl:
+                            it["upl"] = _upl
+                        # Si la fuente trae el barrio grueso (localidad/UPL) o vacío, usar el barrio
+                        # consultado (específico) para que 5c agrupe bien las 3 fuentes.
+                        _b = (it.get("barrio") or "").strip()
+                        if (not _b) or (not _es_barrio_especifico(_b)):
+                            it["barrio"] = str(nombre).upper()
                 archivo = clave + ".json"
                 (base / archivo).write_text(json.dumps(
                     {"ok": True, "total": len(inmuebles), "zona": nombre, "origen": origen,
