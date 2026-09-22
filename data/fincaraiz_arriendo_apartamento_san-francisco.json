@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 8,
   "zona": "SAN FRANCISCO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.20 19:53",
+  "generado": "2026.SEP.22 00:20",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -22,6 +22,8 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-primavera-occidental-puente-aranda-bogota/194191529",
       "titulo": "Apartamento en Arriendo en Primavera Occidental - Puente Aranda, Bogotá",
@@ -49,6 +51,8 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-primavera-occidental-puente-aranda-bogota/194254783",
       "titulo": "Apartamento en Arriendo en Primavera Occidental - Puente Aranda, Bogotá",
@@ -68,6 +72,35 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 12000000,
+      "area": 300.0,
+      "administracion": null,
+      "barrio": "CHICO NORTE",
+      "direccion": "",
+      "habitaciones": 5,
+      "banos": 5,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/194287550",
+      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
+      "id_domus": "194287550",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.6264,
+      "lon": -74.10815,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FRANCISCO",
+      "zonaSlug": "san-francisco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 5000000,
       "area": 106.0,
       "administracion": 418000.0,
@@ -76,6 +109,8 @@
       "habitaciones": 2,
       "banos": 3,
       "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-pasadena-bogota/194238432",
       "titulo": "Apartamento en Arriendo en Pasadena, Bogotá",
@@ -89,7 +124,36 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1550000,
+      "area": 52.0,
+      "administracion": null,
+      "barrio": "TIMIZA",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-timiza-bogota/194288478",
+      "titulo": "Apartamento en Arriendo en Timiza, Bogotá",
+      "id_domus": "194288478",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.6222155,
+      "lon": -74.1089981,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FRANCISCO",
+      "zonaSlug": "san-francisco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -103,6 +167,8 @@
       "habitaciones": 4,
       "banos": 1,
       "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-rafael-bogota/193999688",
       "titulo": "Apartamento en Arriendo en San rafael, Bogotá",
@@ -116,7 +182,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -130,6 +196,8 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-puente-aranda-bogota/193681808",
       "titulo": "Apartamento en Arriendo en Puente aranda, Bogotá",
@@ -143,7 +211,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -157,6 +225,8 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-primavera-occidental-puente-aranda-bogota/194124522",
       "titulo": "Apartamento en Arriendo en Primavera Occidental - Puente Aranda, Bogotá",
