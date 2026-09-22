@@ -1074,6 +1074,11 @@ _RE_TEL_CO = re.compile(r'(?:\+?57[\s.\-]?)?(3\d{2})[\s.\-]?(\d{3})[\s.\-]?(\d{4
 _RE_EMAIL  = re.compile(r'[A-Za-z0-9._%+\-]+@[A-Za-z0-9.\-]+\.[A-Za-z]{2,}')
 _RE_WA     = re.compile(r'(?:wa\.me/|api\.whatsapp\.com/send\?phone=)(?:57)?(3\d{9})', re.I)
 _RE_JSONLD = re.compile(r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>', re.I | re.S)
+_RE_PLACEHOLDER = re.compile(r'placeholder\s*=\s*"[^"]*"|value\s*=\s*"[^"]*"', re.I)
+_RE_EJEMPLO = re.compile(r'(?:ej\.?|ejemplo)\s*:?\s*\+?57?\s*3\d[\d\s.\-]{7,}', re.I)
+_RE_AGENCIA = re.compile(r'((?:[A-Z\u00c1\u00c9\u00cd\u00d3\u00da\u00d1][A-Za-z\u00c0-\u017f&.\s]{1,48}?)?(?i:inmobiliari[ao]s?|inmuebles|inversiones|bienes\s+ra[i\u00ed]ces|propiedad\s+ra[i\u00ed]z|constructora|realty)[A-Z\u00c1\u00c9\u00cd\u00d3\u00da\u00d1&.\s]{0,20})')
+_RE_NEXTDATA = re.compile(r'<script[^>]+id=["\']__NEXT_DATA__["\'][^>]*>(.*?)</script>', re.I | re.S)
+_PORTAL_MAILDOM = ('fincaraiz', 'metrocuadrado', 'ciencuadras')
 
 def _tel_norm(s):
     if not s: return None
@@ -1106,35 +1111,86 @@ def _jsonld_contacto(html, out):
                 if isinstance(v, (dict, list)):
                     pila.append(v)
 
+def _nextdata_contacto(html, out):
+    """Muchos portales (Next.js) embeben datos en <script id=__NEXT_DATA__>. Se toma
+    telefono/email/agencia SOLO si traen valor válido; se descartan correos del propio portal."""
+    m = _RE_NEXTDATA.search(html or "")
+    if not m:
+        return
+    try:
+        data = json.loads(m.group(1))
+    except Exception:
+        return
+    pila = [data]
+    while pila:
+        o = pila.pop()
+        if isinstance(o, list):
+            pila.extend(o); continue
+        if not isinstance(o, dict):
+            continue
+        for k, v in o.items():
+            kl = str(k).lower()
+            if isinstance(v, (str, int)):
+                sv = str(v)
+                if not out["telefono"] and any(t in kl for t in ("phone", "mobile", "celular", "whatsapp", "telefono")):
+                    tn = _tel_norm(sv)
+                    if tn: out["telefono"] = tn
+                elif not out["email"] and ("email" in kl or "correo" in kl):
+                    if "@" in sv and not any(d in sv.lower() for d in _PORTAL_MAILDOM):
+                        out["email"] = sv.strip()
+                elif not out["inmobiliaria"] and any(t in kl for t in ("inmobiliaria", "companyname", "realtor", "publishername", "agencyname")):
+                    if 2 < len(sv) < 60: out["inmobiliaria"] = sv.strip()
+            elif isinstance(v, (dict, list)):
+                pila.append(v)
+
+
 def extraer_contacto(html):
-    """Portal-agnóstico: prioriza datos estructurados (tel:/mailto:/wa.me/JSON-LD) y solo
-    como último recurso usa el regex de celular. Devuelve dict con lo que encuentre."""
+    """Portal-agnóstico y CONSERVADOR: teléfono/email solo desde señales confiables
+    (tel:/mailto:/wa.me/JSON-LD) o de la descripción del anunciante; nunca de números
+    sueltos ni de placeholders/ejemplos de formularios. La inmobiliaria (agencia) se
+    captura del texto visible. Calibrado contra Metrocuadrado (tel. tras formulario)."""
     out = {"nombre": None, "telefono": None, "email": None, "inmobiliaria": None}
     h = html or ""
-    # 1) anclas tel: y mailto:
+    # 1) anclas confiables tel: / mailto: / WhatsApp
     m = re.search(r'href=["\']tel:([^"\']+)', h, re.I)
     if m: out["telefono"] = _tel_norm(m.group(1))
     m = re.search(r'href=["\']mailto:([^"\'?]+)', h, re.I)
     if m: out["email"] = m.group(1).strip()
-    # 2) WhatsApp
     if not out["telefono"]:
         m = _RE_WA.search(h)
         if m: out["telefono"] = "+57" + m.group(1)
-    # 3) JSON-LD (@type agente/organización)
+    # 2) JSON-LD (@type agente/organización)
     _jsonld_contacto(h, out)
+    _nextdata_contacto(h, out)
+    # texto sin etiquetas, sin placeholders/valores de inputs ni "Ej.: ..." (evita el número de ejemplo)
+    sin_scripts = re.sub(r"<(script|style)\b[^>]*>.*?</\1>", " ", h, flags=re.I | re.S)
+    limpio = _RE_PLACEHOLDER.sub(" ", sin_scripts)
+    limpio = _RE_EJEMPLO.sub(" ", limpio)
+    texto = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", limpio))
+    # 3) inmobiliaria / agencia desde texto visible
+    if not out["inmobiliaria"]:
+        ma = _RE_AGENCIA.search(texto)
+        if ma:
+            ag = re.sub(r"\s+", " ", ma.group(1)).strip()
+            ag = re.sub(r"\s+(?:Llamar|Contactar|WhatsApp|Correo|Ver|Compartir|Mapa|Galer[i\u00ed]a|Favorito|Reportar|Tel[e\u00e9]fono|Email).*$", "", ag, flags=re.I).strip()
+            ag = re.sub(r"\s+[A-Z\u00c1\u00c9\u00cd\u00d3\u00da\u00d1]$", "", ag).strip()
+            out["inmobiliaria"] = ag[:60]
     # 4) email por regex si aún falta
     if not out["email"]:
-        m = _RE_EMAIL.search(h)
-        if m: out["email"] = m.group(0)
-    # 5) teléfono por regex SOLO como último recurso (evita capturar números sueltos:
-    #    se busca cerca de palabras de contacto)
+        me = _RE_EMAIL.search(texto)
+        if me and not any(d in me.group(0).lower() for d in _PORTAL_MAILDOM):
+            out["email"] = me.group(0)
+    # 5) teléfono de respaldo SOLO si el anunciante lo escribió en la descripción
+    #    (frases de contacto reales); NUNCA desde el botón "Contactar" ni números sueltos.
     if not out["telefono"]:
-        for kw in ("tel", "celular", "whatsapp", "contacto", "anunciante", "asesor", "llama"):
-            i = h.lower().find(kw)
+        low = texto.lower()
+        for kw in ("informes", "whatsapp", "celular", "comun\u00edcate", "comunicate",
+                   "ll\u00e1manos", "llamanos", "contacto directo", "cel:"):
+            i = low.find(kw)
             if i >= 0:
-                m = _RE_TEL_CO.search(h[i:i + 200])
-                if m:
-                    out["telefono"] = "+57" + m.group(1) + m.group(2) + m.group(3); break
+                mm = _RE_TEL_CO.search(texto[i:i + 120])
+                if mm:
+                    out["telefono"] = "+57" + mm.group(1) + mm.group(2) + mm.group(3); break
     return out
 
 def _ck(url):
