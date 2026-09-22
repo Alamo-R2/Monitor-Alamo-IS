@@ -7,6 +7,8 @@ import re
 import sys
 import time
 import math
+import random
+import hashlib
 import unicodedata
 from datetime import datetime
 from pathlib import Path
@@ -1055,6 +1057,215 @@ def doctor():
             print("[ERROR] " + portal + ": " + str(e))
 
 
+# === v3 · Enriquecimiento de CONTACTOS (portal-agnóstico, bajo demanda, anti-bloqueo) ===
+# Estrategia: cola alimentada por las fichas del avalúo -> se visita cada ficha como
+# navegador real, con pausas largas aleatorias, intervalo por dominio, revalidación
+# espaciada y backoff ante 403/429/captcha. Se acumula en data/contactos.json con hash e
+# historial para VERIFICAR si el contacto cambia entre revisiones (nuevo/estable/cambiado).
+CONTACTO_MAX_POR_CORRIDA = 12          # fichas por corrida (bajo, para no disparar flags)
+CONTACTO_PAUSA = (8, 20)               # seg, pausa aleatoria entre fichas
+CONTACTO_REVALIDAR_DIAS = 30           # no re-visitar una ficha vista hace < N días
+CONTACTO_MIN_INTERVALO_DOM = 6         # seg mínimo entre golpes al mismo dominio
+CONTACTO_BLOQUEO_MARKERS = ("captcha", "unusual traffic", "access denied",
+                            "request blocked", "are you a human", "cf-challenge",
+                            "verify you are human", "px-captcha")
+
+_RE_TEL_CO = re.compile(r'(?:\+?57[\s.\-]?)?(3\d{2})[\s.\-]?(\d{3})[\s.\-]?(\d{4})')
+_RE_EMAIL  = re.compile(r'[A-Za-z0-9._%+\-]+@[A-Za-z0-9.\-]+\.[A-Za-z]{2,}')
+_RE_WA     = re.compile(r'(?:wa\.me/|api\.whatsapp\.com/send\?phone=)(?:57)?(3\d{9})', re.I)
+_RE_JSONLD = re.compile(r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>', re.I | re.S)
+
+def _tel_norm(s):
+    if not s: return None
+    m = _RE_TEL_CO.search(str(s))
+    return ("+57" + m.group(1) + m.group(2) + m.group(3)) if m else None
+
+def _jsonld_contacto(html, out):
+    """Extrae telephone/email/nombre-agencia de bloques JSON-LD según @type."""
+    for blob in _RE_JSONLD.findall(html or ""):
+        try:
+            data = json.loads(blob.strip())
+        except Exception:
+            continue
+        pila = [data]
+        while pila:
+            o = pila.pop()
+            if isinstance(o, list):
+                pila.extend(o); continue
+            if not isinstance(o, dict):
+                continue
+            tipo = str(o.get("@type") or "").lower()
+            if not out["telefono"] and o.get("telephone"):
+                out["telefono"] = _tel_norm(o.get("telephone")) or out["telefono"]
+            if not out["email"] and isinstance(o.get("email"), str):
+                out["email"] = o.get("email").strip() or out["email"]
+            if o.get("name") and any(t in tipo for t in ("realestateagent", "organization", "person", "localbusiness")):
+                if not out["inmobiliaria"]:
+                    out["inmobiliaria"] = str(o.get("name")).strip()
+            for v in o.values():
+                if isinstance(v, (dict, list)):
+                    pila.append(v)
+
+def extraer_contacto(html):
+    """Portal-agnóstico: prioriza datos estructurados (tel:/mailto:/wa.me/JSON-LD) y solo
+    como último recurso usa el regex de celular. Devuelve dict con lo que encuentre."""
+    out = {"nombre": None, "telefono": None, "email": None, "inmobiliaria": None}
+    h = html or ""
+    # 1) anclas tel: y mailto:
+    m = re.search(r'href=["\']tel:([^"\']+)', h, re.I)
+    if m: out["telefono"] = _tel_norm(m.group(1))
+    m = re.search(r'href=["\']mailto:([^"\'?]+)', h, re.I)
+    if m: out["email"] = m.group(1).strip()
+    # 2) WhatsApp
+    if not out["telefono"]:
+        m = _RE_WA.search(h)
+        if m: out["telefono"] = "+57" + m.group(1)
+    # 3) JSON-LD (@type agente/organización)
+    _jsonld_contacto(h, out)
+    # 4) email por regex si aún falta
+    if not out["email"]:
+        m = _RE_EMAIL.search(h)
+        if m: out["email"] = m.group(0)
+    # 5) teléfono por regex SOLO como último recurso (evita capturar números sueltos:
+    #    se busca cerca de palabras de contacto)
+    if not out["telefono"]:
+        for kw in ("tel", "celular", "whatsapp", "contacto", "anunciante", "asesor", "llama"):
+            i = h.lower().find(kw)
+            if i >= 0:
+                m = _RE_TEL_CO.search(h[i:i + 200])
+                if m:
+                    out["telefono"] = "+57" + m.group(1) + m.group(2) + m.group(3); break
+    return out
+
+def _ck(url):
+    return (str(url or "").split("?")[0].split("#")[0]).strip().lower()
+
+def _dom(url):
+    m = re.search(r'https?://([^/]+)', str(url or ""))
+    return (m.group(1).lower() if m else "")
+
+def _hash_contacto(c):
+    base = "|".join([(c.get("nombre") or ""), (c.get("telefono") or ""),
+                     (c.get("email") or ""), (c.get("inmobiliaria") or "")])
+    return hashlib.sha1(base.encode("utf-8")).hexdigest()[:12]
+
+def _cargar_json(fp, default):
+    try:
+        return json.loads(Path(fp).read_text(encoding="utf-8"))
+    except Exception:
+        return default
+
+def enriquecer_contactos(base="data", maxn=None):
+    """Procesa la cola (data/contactos_cola.json) + revalidación espaciada y acumula en
+    data/contactos.json con hash e historial. Devuelve un resumen."""
+    maxn = maxn or CONTACTO_MAX_POR_CORRIDA
+    base = Path(base)
+    store = _cargar_json(base / "contactos.json", {})           # {clave: {...}}
+    cola  = _cargar_json(base / "contactos_cola.json", [])       # [enlace, ...] o [{"sourceLink":..}]
+    cola_urls = []
+    for x in cola:
+        u = x.get("sourceLink") if isinstance(x, dict) else x
+        if u: cola_urls.append(u)
+    hoy = datetime.now()
+    def _vencido(k):
+        v = store.get(k) or {}
+        ls = v.get("last_seen")
+        if not ls: return True
+        try:
+            return (hoy - datetime.strptime(ls[:10], "%Y-%m-%d")).days >= CONTACTO_REVALIDAR_DIAS
+        except Exception:
+            return True
+    # worklist: primero la cola (no vista o vencida), luego revalidación de las más antiguas
+    work, vistos = [], set()
+    for u in cola_urls:
+        k = _ck(u)
+        if k in vistos: continue
+        vistos.add(k)
+        if _vencido(k): work.append(u)
+        if len(work) >= maxn: break
+    if len(work) < maxn:
+        antiguos = sorted([kk for kk in store.keys() if _vencido(kk)],
+                          key=lambda kk: (store[kk].get("last_seen") or ""))
+        for kk in antiguos:
+            u = store[kk].get("sourceLink") or kk
+            if _ck(u) in vistos: continue
+            vistos.add(_ck(u)); work.append(u)
+            if len(work) >= maxn: break
+
+    nuevos = estables = cambiados = fallidos = 0
+    if work:
+        try:
+            from playwright.sync_api import sync_playwright  # import local (solo si hay trabajo)
+        except Exception:
+            print("  (sin playwright: no se puede enriquecer contactos)"); return {"error": "sin_playwright"}
+        ultimo_dom, bloqueados = {}, set()
+        random.shuffle(work)
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            for u in work:
+                dom = _dom(u)
+                if dom in bloqueados:
+                    continue
+                # intervalo mínimo por dominio
+                dt = time.time() - ultimo_dom.get(dom, 0)
+                if dt < CONTACTO_MIN_INTERVALO_DOM:
+                    time.sleep(CONTACTO_MIN_INTERVALO_DOM - dt)
+                try:
+                    page = _abrir_pagina(browser, u)
+                    html = page.content()
+                except Exception as e:
+                    print("    aviso ficha: " + str(e)); fallidos += 1
+                    ultimo_dom[dom] = time.time()
+                    time.sleep(random.uniform(*CONTACTO_PAUSA)); continue
+                ultimo_dom[dom] = time.time()
+                low = (html or "").lower()
+                if any(mk in low for mk in CONTACTO_BLOQUEO_MARKERS):
+                    print("    BLOQUEO detectado en " + dom + " -> se detiene ese dominio esta corrida")
+                    bloqueados.add(dom); fallidos += 1
+                    time.sleep(random.uniform(*CONTACTO_PAUSA)); continue
+                c = extraer_contacto(html)
+                if not (c.get("telefono") or c.get("email") or c.get("inmobiliaria")):
+                    fallidos += 1
+                    time.sleep(random.uniform(*CONTACTO_PAUSA)); continue
+                k = _ck(u); hsh = _hash_contacto(c); fstamp = hoy.strftime("%Y-%m-%d")
+                prev = store.get(k)
+                if not prev:
+                    store[k] = {"sourceLink": u, "nombre": c["nombre"], "telefono": c["telefono"],
+                                "email": c["email"], "inmobiliaria": c["inmobiliaria"], "fuente": dom,
+                                "first_seen": fstamp, "last_seen": fstamp, "revisiones": 1,
+                                "hash": hsh, "historial": []}
+                    nuevos += 1
+                elif prev.get("hash") == hsh:
+                    prev["last_seen"] = fstamp; prev["revisiones"] = prev.get("revisiones", 1) + 1
+                    estables += 1
+                else:
+                    prev.setdefault("historial", []).append(
+                        {"fecha": prev.get("last_seen"), "hash": prev.get("hash"),
+                         "telefono": prev.get("telefono"), "email": prev.get("email"),
+                         "inmobiliaria": prev.get("inmobiliaria")})
+                    prev.update({"nombre": c["nombre"], "telefono": c["telefono"], "email": c["email"],
+                                 "inmobiliaria": c["inmobiliaria"], "last_seen": fstamp,
+                                 "hash": hsh, "cambio_ultimo": fstamp})
+                    prev["revisiones"] = prev.get("revisiones", 1) + 1
+                    cambiados += 1
+                time.sleep(random.uniform(*CONTACTO_PAUSA))
+            browser.close()
+
+    # persistir: quitar de la cola lo procesado
+    procesados = {_ck(u) for u in work}
+    nueva_cola = [u for u in cola_urls if _ck(u) not in procesados]
+    (base / "contactos.json").write_text(json.dumps(store, ensure_ascii=False, indent=2), encoding="utf-8")
+    (base / "contactos_cola.json").write_text(json.dumps(nueva_cola, ensure_ascii=False, indent=2), encoding="utf-8")
+    resumen = {"generado": hoy.strftime("%Y-%m-%d %H:%M"), "procesados": len(work),
+               "nuevos": nuevos, "estables": estables, "cambiados": cambiados, "fallidos": fallidos,
+               "total_universo": len(store), "cola_restante": len(nueva_cola)}
+    (base / "contactos_reporte.json").write_text(json.dumps(resumen, ensure_ascii=False, indent=2), encoding="utf-8")
+    print("  contactos: nuevos=%d estables=%d cambiados=%d fallidos=%d | universo=%d cola=%d" %
+          (nuevos, estables, cambiados, fallidos, len(store), len(nueva_cola)))
+    return resumen
+
+
+
 def main():
     parser = argparse.ArgumentParser(description="Monitor Inmobiliario")
     sub = parser.add_subparsers(dest="cmd")
@@ -1077,6 +1288,9 @@ def main():
     p1.add_argument("--barrios", type=int, default=0)
     p2 = sub.add_parser("diagnostico")
     p2.add_argument("--carpeta", default="data")
+    pc = sub.add_parser("contactos")
+    pc.add_argument("--carpeta", default="data")
+    pc.add_argument("--max", type=int, default=CONTACTO_MAX_POR_CORRIDA)
     args = parser.parse_args()
     if args.cmd == "doctor":
         doctor()
@@ -1085,6 +1299,8 @@ def main():
         publicar(args.carpeta, args.grupo, args.portal, _tipos, args.cursor_suffix, (args.barrios or None))
     elif args.cmd == "diagnostico":
         diagnostico(args.carpeta)
+    elif args.cmd == "contactos":
+        enriquecer_contactos(args.carpeta, args.max)
     elif args.cmd == "noticias":
         items = leer_noticias()
         for it in items:
