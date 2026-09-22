@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "LAS MARGARITAS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 05:32",
+  "generado": "2026.SEP.22 14:14",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2680000,
+      "area": 54.0,
+      "precioM2": 49630,
+      "administracion": null,
+      "barrio": "CEDRITOS",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cedritos-bogota/194279676",
+      "titulo": "Apartamento en Arriendo en Cedritos, Bogotá",
+      "id_domus": "194279676",
+      "fechaPublicacion": "2026-09-18",
+      "lat": 4.7290245,
+      "lon": -74.0476517,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS MARGARITAS",
+      "zonaSlug": "las-margaritas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2800000,
       "area": 57.0,
       "precioM2": 49123,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
