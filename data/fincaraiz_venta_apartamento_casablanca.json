@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 00:20",
+  "generado": "2026.SEP.22 05:32",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -16,8 +16,11 @@
       "tipoPortal": "Apartamento",
       "precio": 218000000,
       "area": 42.0,
+      "precioM2": 5190476,
       "administracion": null,
       "barrio": "USAQUEN",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
@@ -45,8 +48,11 @@
       "tipoPortal": "Apartamento",
       "precio": 268000000,
       "area": 45.0,
+      "precioM2": 5955556,
       "administracion": 194859.0,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -72,10 +78,45 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 320000000,
+      "area": 42.0,
+      "precioM2": 7619048,
+      "administracion": 145000.0,
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lagos-de-torca-bogota/194195751",
+      "titulo": "Apartamento en Venta en Lagos de Torca, Bogotá",
+      "id_domus": "194195751",
+      "fechaPublicacion": "2026-09-01",
+      "lat": 4.7757226,
+      "lon": -74.0447945,
+      "location_type": "exacta",
+      "zonaConsulta": "CASABLANCA",
+      "zonaSlug": "casablanca",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 250000000,
       "area": 45.0,
+      "precioM2": 5555556,
       "administracion": 160000.0,
       "barrio": "GUAYMARAL",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -95,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -103,8 +144,11 @@
       "tipoPortal": "Apartamento",
       "precio": 262635750,
       "area": 45.0,
+      "precioM2": 5836350,
       "administracion": null,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -124,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -132,8 +176,11 @@
       "tipoPortal": "Apartamento",
       "precio": 801000000,
       "area": 83.0,
+      "precioM2": 9650602,
       "administracion": null,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -153,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -161,8 +208,11 @@
       "tipoPortal": "Apartamento",
       "precio": 262635750,
       "area": 45.0,
+      "precioM2": 5836350,
       "administracion": null,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -182,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -190,8 +240,11 @@
       "tipoPortal": "Apartamento",
       "precio": 920000000,
       "area": 100.0,
+      "precioM2": 9200000,
       "administracion": null,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
@@ -211,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -219,8 +272,11 @@
       "tipoPortal": "Apartamento",
       "precio": 262635750,
       "area": 42.0,
+      "precioM2": 6253232,
       "administracion": null,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -240,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -248,8 +304,11 @@
       "tipoPortal": "Apartamento",
       "precio": 656000000,
       "area": 73.0,
+      "precioM2": 8986301,
       "administracion": null,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -269,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -277,8 +336,11 @@
       "tipoPortal": "Apartamento",
       "precio": 251400000,
       "area": 44.0,
+      "precioM2": 5713636,
       "administracion": null,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -298,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -306,8 +368,11 @@
       "tipoPortal": "Apartamento",
       "precio": 230700000,
       "area": 44.0,
+      "precioM2": 5243182,
       "administracion": null,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -327,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -335,8 +400,11 @@
       "tipoPortal": "Apartamento",
       "precio": 265000000,
       "area": 42.0,
+      "precioM2": 6309524,
       "administracion": 150000.0,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -356,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -364,8 +432,11 @@
       "tipoPortal": "Apartamento",
       "precio": 1220000000,
       "area": 129.0,
+      "precioM2": 9457364,
       "administracion": null,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
@@ -385,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -393,8 +464,11 @@
       "tipoPortal": "Apartamento",
       "precio": 500000000,
       "area": 90.0,
+      "precioM2": 5555556,
       "administracion": 370800.0,
       "barrio": "MIRANDELA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -414,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -422,8 +496,11 @@
       "tipoPortal": "Apartamento",
       "precio": 280000000,
       "area": 42.0,
+      "precioM2": 6666667,
       "administracion": 177000.0,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -443,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -451,8 +528,11 @@
       "tipoPortal": "Apartamento",
       "precio": 262635750,
       "area": 45.0,
+      "precioM2": 5836350,
       "administracion": null,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -472,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -480,8 +560,11 @@
       "tipoPortal": "Apartamento",
       "precio": 262635750,
       "area": 44.0,
+      "precioM2": 5968994,
       "administracion": null,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -501,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -509,8 +592,11 @@
       "tipoPortal": "Apartamento",
       "precio": 252000000,
       "area": 44.0,
+      "precioM2": 5727273,
       "administracion": null,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -530,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -538,8 +624,11 @@
       "tipoPortal": "Apartamento",
       "precio": 250000000,
       "area": 42.0,
+      "precioM2": 5952381,
       "administracion": 149000.0,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -559,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -567,8 +656,11 @@
       "tipoPortal": "Apartamento",
       "precio": 265000000,
       "area": 42.0,
+      "precioM2": 6309524,
       "administracion": 150000.0,
-      "barrio": "LAGOS DE TORCA",
+      "barrio": "CASABLANCA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -582,35 +674,6 @@
       "fechaPublicacion": "2026-08-22",
       "lat": 4.7774312,
       "lon": -74.0460095,
-      "location_type": "exacta",
-      "zonaConsulta": "CASABLANCA",
-      "zonaSlug": "casablanca",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 680000000,
-      "area": 90.0,
-      "administracion": 350690.0,
-      "barrio": "LAGOS DE TORCA",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lagos-de-torca-bogota/194092370",
-      "titulo": "Apartamento en Venta en Lagos de Torca, Bogotá",
-      "id_domus": "194092370",
-      "fechaPublicacion": "2026-08-08",
-      "lat": 4.7772789,
-      "lon": -74.0472353,
       "location_type": "exacta",
       "zonaConsulta": "CASABLANCA",
       "zonaSlug": "casablanca",

@@ -1,10 +1,75 @@
 {
   "ok": true,
-  "total": 0,
+  "total": 2,
   "zona": "ALQUERIA LA FRAGUA NORTE",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.20 17:04",
-  "inmuebles": []
+  "generado": "2026.SEP.22 05:32",
+  "inmuebles": [
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 260000000,
+      "area": 56.0,
+      "precioM2": 4642857,
+      "administracion": 197000.0,
+      "barrio": "ALQUERIA LA FRAGUA NORTE",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/10939686",
+      "titulo": "Apartamento en Venta en Bogotá",
+      "id_domus": "10939686",
+      "fechaPublicacion": "2024-05-30",
+      "lat": 4.6094844,
+      "lon": -74.130759,
+      "location_type": "exacta",
+      "zonaConsulta": "ALQUERIA LA FRAGUA NORTE",
+      "zonaSlug": "alqueria-la-fragua-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 160000000,
+      "area": 31.0,
+      "precioM2": 5161290,
+      "administracion": null,
+      "barrio": "ALQUERIA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alqueria-bogota/194289873",
+      "titulo": "Apartamento en Venta en Alqueria, Bogotá",
+      "id_domus": "194289873",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.601492511389,
+      "lon": -74.133005446816,
+      "location_type": "exacta",
+      "zonaConsulta": "ALQUERIA LA FRAGUA NORTE",
+      "zonaSlug": "alqueria-la-fragua-norte",
+      "origenZona": "barrio"
+    }
+  ]
 }
