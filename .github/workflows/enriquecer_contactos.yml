@@ -1,0 +1,68 @@
+name: Enriquecer contactos (bajo demanda, anti-bloqueo)
+
+# Procesa la COLA de fichas del avaluo (data/contactos_cola.json) y acumula el universo
+# de contactos en data/contactos.json con hash e historial (nuevo/estable/cambiado).
+# DISENADO PARA NO DISPARAR FLAGS:
+#  - volumen bajo (--max 12 fichas por corrida)
+#  - baja frecuencia (2x/dia); sube --max o la frecuencia solo si no hay bloqueos
+#  - el propio script pone pausas largas aleatorias, intervalo por dominio y backoff 403/429/captcha
+#  - revalidacion espaciada (no re-visita una ficha vista hace < 30 dias)
+# Si un dominio empieza a bloquear, baja --max o la frecuencia (o desactiva el workflow).
+
+on:
+  workflow_dispatch:
+    inputs:
+      max:
+        description: "Fichas por corrida (bajo para no disparar flags)"
+        default: "12"
+  schedule:
+    - cron: "30 6,19 * * *"   # 2x/dia, fuera de las ventanas de scraping de listados
+
+permissions:
+  contents: write
+
+concurrency:
+  group: enriquecer-contactos
+  cancel-in-progress: false
+
+jobs:
+  contactos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: |
+          pip install playwright pandas openpyxl requests
+          playwright install --with-deps chromium
+
+      - name: Enriquecer contactos (cola + revalidacion espaciada)
+        run: |
+          python inmobiliario.py contactos \
+            --carpeta data \
+            --max "${{ github.event.inputs.max || '12' }}"
+
+      - name: Guardar (robusto ante corridas simultaneas)
+        run: |
+          git config user.name  "monitor-bot"
+          git config user.email "monitor-bot@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Contactos $(date -u '+%Y-%m-%d %H:%M UTC')"
+          ok=0
+          for i in $(seq 1 6); do
+            if git pull --rebase --autostash origin main; then
+              if git push origin HEAD:main; then ok=1; break; fi
+            else
+              git rebase --abort 2>/dev/null || true
+              git reset --hard origin/main 2>/dev/null || true
+              echo "Conflicto con otra corrida; cedo esta vez. Se recupera en la siguiente."
+              exit 0
+            fi
+            echo "Reintento push $i..."; sleep $((RANDOM % 8 + 3))
+          done
+          [ "$ok" = "1" ] || { echo "No se pudo hacer push tras reintentos"; exit 1; }
