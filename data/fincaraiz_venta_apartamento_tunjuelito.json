@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 05:35",
+  "generado": "2026.SEP.23 14:29",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,23 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 260000000,
-      "area": 55.0,
-      "administracion": 160000.0,
-      "barrio": "MADELENA",
+      "precio": 298000000,
+      "area": 60.0,
+      "precioM2": 4966667,
+      "administracion": 190000.0,
+      "barrio": "TUNJUELITO",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 1.0,
-      "parqueaderos": null,
+      "habitaciones": 2,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-madelena-bogota/194270464",
-      "titulo": "Apartamento en Venta en Madelena, Bogotá",
-      "id_domus": "194270464",
-      "fechaPublicacion": "2026-09-17",
-      "lat": 4.5954177,
-      "lon": -74.1542355,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tunal-bogota/194162660",
+      "titulo": "Apartamento en Venta en El Tunal, Bogotá",
+      "id_domus": "194162660",
+      "fechaPublicacion": "2026-08-25",
+      "lat": 4.5764961,
+      "lon": -74.140029,
       "location_type": "exacta",
       "zonaConsulta": "TUNJUELITO",
       "zonaSlug": "tunjuelito",
@@ -45,8 +48,11 @@
       "tipoPortal": "Apartamento",
       "precio": 390000000,
       "area": 63.0,
+      "precioM2": 6190476,
       "administracion": null,
       "barrio": "EL CARMEN",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2.0,
@@ -72,10 +78,45 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 320000000,
+      "area": 58.0,
+      "precioM2": 5517241,
+      "administracion": 371550.0,
+      "barrio": "TUNJUELITO",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tunal-bogota/193875315",
+      "titulo": "Apartamento en Venta en El Tunal, Bogotá",
+      "id_domus": "193875315",
+      "fechaPublicacion": "2026-06-13",
+      "lat": 4.5788331,
+      "lon": -74.1276997,
+      "location_type": "exacta",
+      "zonaConsulta": "TUNJUELITO",
+      "zonaSlug": "tunjuelito",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 273500000,
       "area": 51.0,
+      "precioM2": 5362745,
       "administracion": 105000.0,
       "barrio": "MADELENA",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2.0,
@@ -95,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -103,8 +144,11 @@
       "tipoPortal": "Apartamento",
       "precio": 620000000,
       "area": 70.0,
+      "precioM2": 8857143,
       "administracion": 403000.0,
-      "barrio": "LA FELICIDAD",
+      "barrio": "TUNJUELITO",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2.0,
@@ -124,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -132,8 +176,11 @@
       "tipoPortal": "Apartamento",
       "precio": 220000000,
       "area": 47.0,
+      "precioM2": 4680851,
       "administracion": 136000.0,
       "barrio": "FATIMA",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2.0,
@@ -153,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -161,8 +208,11 @@
       "tipoPortal": "Apartamento",
       "precio": 260000000,
       "area": 60.0,
+      "precioM2": 4333333,
       "administracion": 30000.0,
       "barrio": "VENECIA",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2.0,
@@ -182,7 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 260000000,
+      "area": 55.0,
+      "precioM2": 4727273,
+      "administracion": 160000.0,
+      "barrio": "MADELENA",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-madelena-bogota/194270464",
+      "titulo": "Apartamento en Venta en Madelena, Bogotá",
+      "id_domus": "194270464",
+      "fechaPublicacion": "2026-09-17",
+      "lat": 4.5954177,
+      "lon": -74.1542355,
+      "location_type": "exacta",
+      "zonaConsulta": "TUNJUELITO",
+      "zonaSlug": "tunjuelito",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -190,8 +272,11 @@
       "tipoPortal": "Apartamento",
       "precio": 220000000,
       "area": 42.0,
+      "precioM2": 5238095,
       "administracion": 140000.0,
       "barrio": "MADELENA",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1.0,
@@ -211,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -219,8 +304,11 @@
       "tipoPortal": "Apartamento",
       "precio": 266000000,
       "area": 57.0,
+      "precioM2": 4666667,
       "administracion": 218000.0,
-      "barrio": "EL TUNAL",
+      "barrio": "TUNJUELITO",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 1.0,
@@ -240,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -248,8 +336,11 @@
       "tipoPortal": "Apartamento",
       "precio": 175000000,
       "area": 65.0,
+      "precioM2": 2692308,
       "administracion": 190000.0,
-      "barrio": "APULO",
+      "barrio": "TUNJUELITO",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2.0,
@@ -269,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -277,8 +368,11 @@
       "tipoPortal": "Apartamento",
       "precio": 250000000,
       "area": 56.0,
+      "precioM2": 4464286,
       "administracion": 147000.0,
-      "barrio": "BOGOTÁ, D.C.",
+      "barrio": "TUNJUELITO",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2.0,
@@ -298,36 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 298000000,
-      "area": 60.0,
-      "administracion": 190000.0,
-      "barrio": "EL TUNAL",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tunal-bogota/194162660",
-      "titulo": "Apartamento en Venta en El Tunal, Bogotá",
-      "id_domus": "194162660",
-      "fechaPublicacion": "2026-08-25",
-      "lat": 4.5764961,
-      "lon": -74.140029,
-      "location_type": "exacta",
-      "zonaConsulta": "TUNJUELITO",
-      "zonaSlug": "tunjuelito",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -335,8 +400,11 @@
       "tipoPortal": "Apartamento",
       "precio": 620000000,
       "area": 77.0,
+      "precioM2": 8051948,
       "administracion": 586000.0,
       "barrio": "VILLA MAYOR ORIENTAL",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 4,
       "banos": 2.0,
@@ -356,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -364,8 +432,11 @@
       "tipoPortal": "Apartamento",
       "precio": 220000000,
       "area": 36.0,
+      "precioM2": 6111111,
       "administracion": 145000.0,
       "barrio": "ISLA DEL SOL",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1.0,
@@ -385,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -393,8 +464,11 @@
       "tipoPortal": "Apartamento",
       "precio": 220000000,
       "area": 59.0,
+      "precioM2": 3728814,
       "administracion": 199500.0,
-      "barrio": "EL TUNAL",
+      "barrio": "TUNJUELITO",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": null,
@@ -414,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -422,8 +496,11 @@
       "tipoPortal": "Apartamento",
       "precio": 600000000,
       "area": 76.0,
+      "precioM2": 7894737,
       "administracion": 390000.0,
       "barrio": "TUNJUELITO",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2.0,
@@ -443,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -451,8 +528,11 @@
       "tipoPortal": "Apartamento",
       "precio": 247000000,
       "area": 50.0,
+      "precioM2": 4940000,
       "administracion": 120000.0,
       "barrio": "MADELENA",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2.0,
@@ -472,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -480,8 +560,11 @@
       "tipoPortal": "Apartamento",
       "precio": 230000000,
       "area": 48.0,
+      "precioM2": 4791667,
       "administracion": 50000.0,
       "barrio": "NUEVO MUZU",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 1.0,
@@ -501,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -509,8 +592,11 @@
       "tipoPortal": "Apartamento",
       "precio": 225000000,
       "area": 50.0,
+      "precioM2": 4500000,
       "administracion": null,
       "barrio": "MADELENA",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2.0,
@@ -530,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -538,8 +624,11 @@
       "tipoPortal": "Apartamento",
       "precio": 270000000,
       "area": 49.0,
+      "precioM2": 5510204,
       "administracion": 163200.0,
-      "barrio": "EL TUNAL",
+      "barrio": "TUNJUELITO",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2.0,
@@ -559,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -567,8 +656,11 @@
       "tipoPortal": "Apartamento",
       "precio": 219000000,
       "area": 28.0,
+      "precioM2": 7821429,
       "administracion": null,
       "barrio": "EL CARMEN",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2.0,
@@ -582,35 +674,6 @@
       "fechaPublicacion": "2025-12-12",
       "lat": 4.582486252572,
       "lon": -74.13426558214,
-      "location_type": "exacta",
-      "zonaConsulta": "TUNJUELITO",
-      "zonaSlug": "tunjuelito",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 238000000,
-      "area": 40.0,
-      "administracion": 174700.0,
-      "barrio": "MADELENA",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-madelena-bogota/193616262",
-      "titulo": "Apartamento en Venta en Madelena, Bogotá",
-      "id_domus": "193616262",
-      "fechaPublicacion": "2026-04-10",
-      "lat": 4.5876835,
-      "lon": -74.1568515,
       "location_type": "exacta",
       "zonaConsulta": "TUNJUELITO",
       "zonaSlug": "tunjuelito",
