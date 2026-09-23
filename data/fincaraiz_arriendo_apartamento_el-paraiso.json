@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 4,
   "zona": "EL PARAISO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 20:33",
+  "generado": "2026.SEP.23 20:45",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,38 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2300000,
-      "area": 41.0,
-      "precioM2": 56098,
-      "administracion": null,
-      "barrio": "EL PARAISO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194151099",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194151099",
-      "fechaPublicacion": "2026-08-23",
-      "lat": 4.6307532,
-      "lon": -74.0623199,
-      "location_type": "exacta",
-      "zonaConsulta": "EL PARAISO",
-      "zonaSlug": "el-paraiso",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1800000,
       "area": 44.0,
       "precioM2": 40909,
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -136,39 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1500000,
-      "area": 37.0,
-      "precioM2": 40541,
-      "administracion": null,
-      "barrio": "CATALUÑA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cataluña-bogota/194230086",
-      "titulo": "Apartamento en Arriendo en Cataluña, Bogotá",
-      "id_domus": "194230086",
-      "fechaPublicacion": "2026-09-09",
-      "lat": 4.6297964,
-      "lon": -74.0628166,
-      "location_type": "exacta",
-      "zonaConsulta": "EL PARAISO",
-      "zonaSlug": "el-paraiso",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],

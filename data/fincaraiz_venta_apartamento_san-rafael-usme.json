@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 20:33",
+  "generado": "2026.SEP.23 20:45",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 135000000,
+      "area": 42.0,
+      "precioM2": 3214286,
+      "administracion": null,
+      "barrio": "LOS LIBERTADORES",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-libertadores-bogota/192865567",
+      "titulo": "Apartamento en Venta en Los libertadores, Bogotá",
+      "id_domus": "192865567",
+      "fechaPublicacion": "2025-09-12",
+      "lat": 4.5286825195983,
+      "lon": -74.084007740021,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN RAFAEL USME",
+      "zonaSlug": "san-rafael-usme",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-03-16",
       "lat": 4.528792241834,
       "lon": -74.084161330985,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN RAFAEL USME",
-      "zonaSlug": "san-rafael-usme",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 135000000,
-      "area": 42.0,
-      "precioM2": 3214286,
-      "administracion": null,
-      "barrio": "LOS LIBERTADORES",
-      "upl": "Cerros Orientales",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-libertadores-bogota/192865567",
-      "titulo": "Apartamento en Venta en Los libertadores, Bogotá",
-      "id_domus": "192865567",
-      "fechaPublicacion": "2025-09-12",
-      "lat": 4.5286825195983,
-      "lon": -74.084007740021,
       "location_type": "exacta",
       "zonaConsulta": "SAN RAFAEL USME",
       "zonaSlug": "san-rafael-usme",
