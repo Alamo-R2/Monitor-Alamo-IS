@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "ARBOLEDA SUR",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 05:35",
+  "generado": "2026.SEP.23 05:20",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -16,8 +16,11 @@
       "tipoPortal": "Apartamento",
       "precio": 1500000,
       "area": 42.0,
+      "precioM2": 35714,
       "administracion": null,
       "barrio": "MARCO FIDEL SUAREZ",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -43,10 +46,45 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1136700,
+      "area": 42.0,
+      "precioM2": 27064,
+      "administracion": 163300.0,
+      "barrio": "ARBOLEDA SUR",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-providencia-bogota/194289834",
+      "titulo": "Apartamento en Arriendo en La providencia, Bogotá",
+      "id_domus": "194289834",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.5633665,
+      "lon": -74.112941,
+      "location_type": "exacta",
+      "zonaConsulta": "ARBOLEDA SUR",
+      "zonaSlug": "arboleda-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1000000,
       "area": 39.0,
+      "precioM2": 25641,
       "administracion": null,
       "barrio": "CARMEN DEL SOL",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -66,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -74,8 +112,11 @@
       "tipoPortal": "Apartamento",
       "precio": 1200000,
       "area": 48.0,
+      "precioM2": 25000,
       "administracion": null,
       "barrio": "QUIROGA",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -95,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -103,8 +144,11 @@
       "tipoPortal": "Apartamento",
       "precio": 1200000,
       "area": 50.0,
+      "precioM2": 24000,
       "administracion": null,
       "barrio": "VILLA GLADYS",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -124,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -132,8 +176,11 @@
       "tipoPortal": "Apartamento",
       "precio": 1250000,
       "area": 40.0,
+      "precioM2": 31250,
       "administracion": null,
-      "barrio": "20 DE JULIO",
+      "barrio": "ARBOLEDA SUR",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
