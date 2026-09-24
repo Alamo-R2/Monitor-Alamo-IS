@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 07:14",
+  "generado": "2026.SEP.24 15:43",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 648000000,
-      "area": 59.0,
-      "precioM2": 10983051,
-      "administracion": null,
-      "barrio": "BELLA FLOR",
-      "upl": "Cuenca del Tunjuelo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-la-felicidad-bogota-3887292",
-      "titulo": "Apartamento en La Felicidad",
-      "id_domus": "3887292",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "BELLA FLOR",
-      "zonaSlug": "bella-flor",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -95,6 +63,38 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-chico-norte-bogota-3878648",
       "titulo": "Apartamento en Chicó Norte",
       "id_domus": "3878648",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "BELLA FLOR",
+      "zonaSlug": "bella-flor",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 540000000,
+      "area": 69.35,
+      "precioM2": 7786590,
+      "administracion": null,
+      "barrio": "NIZA SUBA",
+      "upl": "Cuenca del Tunjuelo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-niza-suba-bogota-3876722",
+      "titulo": "Apartamento en Niza Suba",
+      "id_domus": "3876722",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -142,23 +142,23 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 480000000,
-      "area": 93.0,
-      "precioM2": 5161290,
+      "precio": 265000000,
+      "area": 52.0,
+      "precioM2": 5096154,
       "administracion": null,
-      "barrio": "MAZURÉN",
+      "barrio": "BELLA FLOR",
       "upl": "Cuenca del Tunjuelo",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 0,
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-mazuren-bogota-3818523",
-      "titulo": "Apartamento en Mazurén",
-      "id_domus": "3818523",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-ciudad-techo-bogota-3800889",
+      "titulo": "Apartamento en Ciudad Techo",
+      "id_domus": "3800889",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -169,134 +169,6 @@
     },
     {
       "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 245000000,
-      "area": 37.0,
-      "precioM2": 6621622,
-      "administracion": null,
-      "barrio": "VILLA DEL RIO",
-      "upl": "Cuenca del Tunjuelo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-villa-del-rio-bogota-3729637",
-      "titulo": "Apartamento en Villa Del Rio",
-      "id_domus": "3729637",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "BELLA FLOR",
-      "zonaSlug": "bella-flor",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 165000000,
-      "area": 46.79,
-      "precioM2": 3526395,
-      "administracion": null,
-      "barrio": "LA PAZ BOSA",
-      "upl": "Cuenca del Tunjuelo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-la-paz-bosa-bogota-3781823",
-      "titulo": "Apartamento en La Paz Bosa",
-      "id_domus": "3781823",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "BELLA FLOR",
-      "zonaSlug": "bella-flor",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1700000000,
-      "area": 234.0,
-      "precioM2": 7264957,
-      "administracion": null,
-      "barrio": "BELLA FLOR",
-      "upl": "Cuenca del Tunjuelo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 2,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-los-andes-norte-bogota-3792336",
-      "titulo": "Apartamento en Los Andes Norte",
-      "id_domus": "3792336",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "BELLA FLOR",
-      "zonaSlug": "bella-flor",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 440000000,
-      "area": 74.0,
-      "precioM2": 5945946,
-      "administracion": null,
-      "barrio": "EL VERVENAL",
-      "upl": "Cuenca del Tunjuelo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-el-vervenal-bogota-3728287",
-      "titulo": "Apartamento en El Vervenal",
-      "id_domus": "3728287",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "BELLA FLOR",
-      "zonaSlug": "bella-flor",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -328,39 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 400000000,
-      "area": 46.0,
-      "precioM2": 8695652,
-      "administracion": null,
-      "barrio": "BELLA SUIZA",
-      "upl": "Cuenca del Tunjuelo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-bella-suiza-bogota-3875749",
-      "titulo": "Apartamento en Bella Suiza",
-      "id_domus": "3875749",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "BELLA FLOR",
-      "zonaSlug": "bella-flor",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +264,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 600000000,
+      "area": 83.0,
+      "precioM2": 7228916,
+      "administracion": null,
+      "barrio": "EL TINTAL",
+      "upl": "Cuenca del Tunjuelo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-el-tintal-bogota-3887403",
+      "titulo": "Apartamento en El Tintal",
+      "id_domus": "3887403",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "BELLA FLOR",
+      "zonaSlug": "bella-flor",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +360,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 648000000,
+      "area": 59.0,
+      "precioM2": 10983051,
+      "administracion": null,
+      "barrio": "BELLA FLOR",
+      "upl": "Cuenca del Tunjuelo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-la-felicidad-bogota-3887292",
+      "titulo": "Apartamento en La Felicidad",
+      "id_domus": "3887292",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "BELLA FLOR",
+      "zonaSlug": "bella-flor",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -639,6 +543,102 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-el-contador-bogota-3469636",
       "titulo": "Apartamento en El Contador",
       "id_domus": "3469636",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "BELLA FLOR",
+      "zonaSlug": "bella-flor",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 225000000,
+      "area": 38.0,
+      "precioM2": 5921053,
+      "administracion": null,
+      "barrio": "CENTENARIO",
+      "upl": "Cuenca del Tunjuelo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-centenario-bogota-3844922",
+      "titulo": "Apartamento en Centenario",
+      "id_domus": "3844922",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "BELLA FLOR",
+      "zonaSlug": "bella-flor",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 550000000,
+      "area": 56.0,
+      "precioM2": 9821429,
+      "administracion": null,
+      "barrio": "SAN JOSE DE USAQUEN",
+      "upl": "Cuenca del Tunjuelo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-san-jose-de-usaquen-bogota-3808295",
+      "titulo": "Apartamento en San Jose De Usaquen",
+      "id_domus": "3808295",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "BELLA FLOR",
+      "zonaSlug": "bella-flor",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 667000000,
+      "area": 64.0,
+      "precioM2": 10421875,
+      "administracion": null,
+      "barrio": "BELLA FLOR",
+      "upl": "Cuenca del Tunjuelo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 2,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-nueva-granada-bogota-3653698",
+      "titulo": "Apartamento en Nueva Granada",
+      "id_domus": "3653698",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
