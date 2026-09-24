@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "MANDALAY",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 05:32",
+  "generado": "2026.SEP.24 14:29",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -47,6 +47,38 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 1800000,
+      "area": 50.0,
+      "precioM2": 36000,
+      "administracion": null,
+      "barrio": "MANDALAY",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-mandalay-bogota/194295109",
+      "titulo": "Apartamento en Arriendo en Mandalay, Bogotá",
+      "id_domus": "194295109",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.630430948283,
+      "lon": -74.144152791306,
+      "location_type": "exacta",
+      "zonaConsulta": "MANDALAY",
+      "zonaSlug": "mandalay",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
       "area": 49.0,
       "precioM2": 36735,
       "administracion": null,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],

@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 16,
+  "total": 17,
   "zona": "PIO XII",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 14:14",
+  "generado": "2026.SEP.24 14:29",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1350000,
+      "area": 45.0,
+      "precioM2": 30000,
+      "administracion": null,
+      "barrio": "NUEVO TECHO",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nuevo-techo-bogota/194104006",
+      "titulo": "Apartamento en Arriendo en Nuevo Techo, Bogotá",
+      "id_domus": "194104006",
+      "fechaPublicacion": "2026-08-11",
+      "lat": 4.6368146,
+      "lon": -74.1526923,
+      "location_type": "exacta",
+      "zonaConsulta": "PIO XII",
+      "zonaSlug": "pio-xii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,15 +104,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1696600,
+      "precio": 1500000,
       "area": 56.0,
-      "precioM2": 30296,
+      "precioM2": 26786,
       "administracion": 203400.0,
       "barrio": "TECHO",
       "upl": "Kennedy",
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-09-04",
       "lat": 4.637307629286,
       "lon": -74.149774114671,
-      "location_type": "exacta",
-      "zonaConsulta": "PIO XII",
-      "zonaSlug": "pio-xii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 45.0,
-      "precioM2": 26667,
-      "administracion": null,
-      "barrio": "CASTILLA",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/194191001",
-      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
-      "id_domus": "194191001",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.6372913,
-      "lon": -74.1498929,
       "location_type": "exacta",
       "zonaConsulta": "PIO XII",
       "zonaSlug": "pio-xii",
@@ -174,38 +174,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1600000,
-      "area": 42.0,
-      "precioM2": 38095,
-      "administracion": null,
-      "barrio": "PIO XII",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-bogota/194280233",
-      "titulo": "Apartamento en Arriendo en Kennedy, Bogotá",
-      "id_domus": "194280233",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.6368403,
-      "lon": -74.1531728,
-      "location_type": "exacta",
-      "zonaConsulta": "PIO XII",
-      "zonaSlug": "pio-xii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1174000,
       "area": 50.0,
       "precioM2": 23480,
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -392,39 +360,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1350000,
-      "area": 45.0,
-      "precioM2": 30000,
+      "precio": 1500000,
+      "area": 47.0,
+      "precioM2": 31915,
       "administracion": null,
-      "barrio": "NUEVO TECHO",
+      "barrio": "PIO XII",
       "upl": "Kennedy",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
+      "habitaciones": 3,
+      "banos": 2,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nuevo-techo-bogota/194104006",
-      "titulo": "Apartamento en Arriendo en Nuevo Techo, Bogotá",
-      "id_domus": "194104006",
-      "fechaPublicacion": "2026-08-11",
-      "lat": 4.6368146,
-      "lon": -74.1526923,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-central-bogota/194295192",
+      "titulo": "Apartamento en Arriendo en Kennedy Central, Bogotá",
+      "id_domus": "194295192",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.6363908,
+      "lon": -74.1531148,
       "location_type": "exacta",
       "zonaConsulta": "PIO XII",
       "zonaSlug": "pio-xii",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -450,6 +418,38 @@
       "fechaPublicacion": "2026-09-18",
       "lat": 4.6385247,
       "lon": -74.1477802,
+      "location_type": "exacta",
+      "zonaConsulta": "PIO XII",
+      "zonaSlug": "pio-xii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1850000,
+      "area": 62.0,
+      "precioM2": 29839,
+      "administracion": null,
+      "barrio": "CASTILLA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/194305700",
+      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
+      "id_domus": "194305700",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.6357754,
+      "lon": -74.1473629,
       "location_type": "exacta",
       "zonaConsulta": "PIO XII",
       "zonaSlug": "pio-xii",
@@ -514,6 +514,38 @@
       "fechaPublicacion": "2026-08-31",
       "lat": 4.6372913,
       "lon": -74.1498929,
+      "location_type": "exacta",
+      "zonaConsulta": "PIO XII",
+      "zonaSlug": "pio-xii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 42.0,
+      "precioM2": 38095,
+      "administracion": null,
+      "barrio": "PIO XII",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-bogota/194280233",
+      "titulo": "Apartamento en Arriendo en Kennedy, Bogotá",
+      "id_domus": "194280233",
+      "fechaPublicacion": "2026-09-18",
+      "lat": 4.6368403,
+      "lon": -74.1531728,
       "location_type": "exacta",
       "zonaConsulta": "PIO XII",
       "zonaSlug": "pio-xii",

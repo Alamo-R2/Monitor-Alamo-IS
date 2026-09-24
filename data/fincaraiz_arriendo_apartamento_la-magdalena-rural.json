@@ -1,14 +1,110 @@
 {
   "ok": true,
-  "total": 18,
+  "total": 13,
   "zona": "LA MAGDALENA RURAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 05:35",
+  "generado": "2026.SEP.24 14:29",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4894000,
+      "area": 115.0,
+      "precioM2": 42557,
+      "administracion": null,
+      "barrio": "LA MAGDALENA RURAL",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-suba-bogota/194132816",
+      "titulo": "Apartamento en Arriendo en Suba, Bogotá",
+      "id_domus": "194132816",
+      "fechaPublicacion": "2026-08-19",
+      "lat": 4.7330934,
+      "lon": -74.0744074,
+      "location_type": "exacta",
+      "zonaConsulta": "LA MAGDALENA RURAL",
+      "zonaSlug": "la-magdalena-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3000000,
+      "area": 60.0,
+      "precioM2": 50000,
+      "administracion": null,
+      "barrio": "LA MAGDALENA RURAL",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-alameda-bogota/194310121",
+      "titulo": "Apartamento en Arriendo en Alameda, Bogotá",
+      "id_domus": "194310121",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.751187,
+      "lon": -74.0352461,
+      "location_type": "exacta",
+      "zonaConsulta": "LA MAGDALENA RURAL",
+      "zonaSlug": "la-magdalena-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3400000,
+      "area": 80.0,
+      "precioM2": 42500,
+      "administracion": null,
+      "barrio": "USAQUEN",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-usaquen-bogota/194286054",
+      "titulo": "Apartamento en Arriendo en Usaquen, Bogotá",
+      "id_domus": "194286054",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.7511496,
+      "lon": -74.0352475,
+      "location_type": "exacta",
+      "zonaConsulta": "LA MAGDALENA RURAL",
+      "zonaSlug": "la-magdalena-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -104,39 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1700000,
-      "area": 48.0,
-      "precioM2": 35417,
-      "administracion": null,
-      "barrio": "BARRANCAS NORTE",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrancas-norte-bogota/194007300",
-      "titulo": "Apartamento en Arriendo en Barrancas Norte, Bogotá",
-      "id_domus": "194007300",
-      "fechaPublicacion": "2026-07-18",
-      "lat": 4.7361128,
-      "lon": -74.0252509,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MAGDALENA RURAL",
-      "zonaSlug": "la-magdalena-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -354,230 +418,6 @@
       "fechaPublicacion": "2026-09-23",
       "lat": 4.675413,
       "lon": -74.085126,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MAGDALENA RURAL",
-      "zonaSlug": "la-magdalena-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2400000,
-      "area": 55.0,
-      "precioM2": 43636,
-      "administracion": null,
-      "barrio": "JOSE JOAQUIN VARGAS",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-jose-joaquin-vargas-bogota/194307824",
-      "titulo": "Apartamento en Arriendo en Jose joaquin vargas, Bogotá",
-      "id_domus": "194307824",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.675413,
-      "lon": -74.085126,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MAGDALENA RURAL",
-      "zonaSlug": "la-magdalena-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4100000,
-      "area": 90.0,
-      "precioM2": 45556,
-      "administracion": 661000.0,
-      "barrio": "LA MAGDALENA RURAL",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cantalejo-bogota/194130281",
-      "titulo": "Apartamento en Arriendo en Cantalejo, Bogotá",
-      "id_domus": "194130281",
-      "fechaPublicacion": "2026-08-18",
-      "lat": 4.7400277,
-      "lon": -74.055532,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MAGDALENA RURAL",
-      "zonaSlug": "la-magdalena-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4800000,
-      "area": 102.0,
-      "precioM2": 47059,
-      "administracion": null,
-      "barrio": "SANTA BARBARA",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-bogota/194307795",
-      "titulo": "Apartamento en Arriendo en Santa Barbara, Bogotá",
-      "id_domus": "194307795",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.7032112,
-      "lon": -74.0503674,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MAGDALENA RURAL",
-      "zonaSlug": "la-magdalena-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3500000,
-      "area": 96.0,
-      "precioM2": 36458,
-      "administracion": 789434.0,
-      "barrio": "CEDRITOS",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cedritos-bogota/194003832",
-      "titulo": "Apartamento en Arriendo en Cedritos, Bogotá",
-      "id_domus": "194003832",
-      "fechaPublicacion": "2026-07-17",
-      "lat": 4.7240709,
-      "lon": -74.0336819,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MAGDALENA RURAL",
-      "zonaSlug": "la-magdalena-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 6500000,
-      "area": 117.0,
-      "precioM2": 55556,
-      "administracion": null,
-      "barrio": "LOS ROSALES",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-rosales-bogota/194307675",
-      "titulo": "Apartamento en Arriendo en Los rosales, Bogotá",
-      "id_domus": "194307675",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.6614037,
-      "lon": -74.0487393,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MAGDALENA RURAL",
-      "zonaSlug": "la-magdalena-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3800000,
-      "area": 83.0,
-      "precioM2": 45783,
-      "administracion": null,
-      "barrio": "LA MAGDALENA RURAL",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-atabanza-bogota/194307764",
-      "titulo": "Apartamento en Arriendo en Atabanza, Bogotá",
-      "id_domus": "194307764",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.708233,
-      "lon": -74.0573678,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MAGDALENA RURAL",
-      "zonaSlug": "la-magdalena-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 13000000,
-      "area": 306.0,
-      "precioM2": 42484,
-      "administracion": 50000.0,
-      "barrio": "LOS ROSALES",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 3.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-rosales-bogota/194164888",
-      "titulo": "Apartamento en Arriendo en Los rosales, Bogotá",
-      "id_domus": "194164888",
-      "fechaPublicacion": "2026-08-25",
-      "lat": 4.6497234230228,
-      "lon": -74.050659837061,
       "location_type": "exacta",
       "zonaConsulta": "LA MAGDALENA RURAL",
       "zonaSlug": "la-magdalena-rural",

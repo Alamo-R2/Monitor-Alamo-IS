@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 14:14",
+  "generado": "2026.SEP.24 14:29",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -15,25 +15,25 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 1500000,
-      "area": 60.0,
-      "precioM2": 25000,
+      "area": 65.0,
+      "precioM2": 23077,
       "administracion": null,
       "barrio": "CIUDAD KENNEDY NORTE",
       "upl": "Kennedy",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
+      "habitaciones": 3,
+      "banos": 2,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-central-bogota/193585230",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-central-bogota/194307913",
       "titulo": "Apartamento en Arriendo en Kennedy Central, Bogotá",
-      "id_domus": "193585230",
-      "fechaPublicacion": "2026-03-31",
-      "lat": 4.631295138046,
-      "lon": -74.139265555761,
+      "id_domus": "194307913",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.624598,
+      "lon": -74.1470949,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD KENNEDY NORTE",
       "zonaSlug": "ciudad-kennedy-norte",
@@ -110,6 +110,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1550000,
+      "area": 90.0,
+      "precioM2": 17222,
+      "administracion": null,
+      "barrio": "CIUDAD KENNEDY NORTE",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nuevo-kennedy-bogota/194307735",
+      "titulo": "Apartamento en Arriendo en Nuevo kennedy, Bogotá",
+      "id_domus": "194307735",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.617475,
+      "lon": -74.163261,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD KENNEDY NORTE",
+      "zonaSlug": "ciudad-kennedy-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1500000,
+      "area": 60.0,
+      "precioM2": 25000,
+      "administracion": null,
+      "barrio": "CIUDAD KENNEDY NORTE",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-central-bogota/193585230",
+      "titulo": "Apartamento en Arriendo en Kennedy Central, Bogotá",
+      "id_domus": "193585230",
+      "fechaPublicacion": "2026-03-31",
+      "lat": 4.631295138046,
+      "lon": -74.139265555761,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD KENNEDY NORTE",
+      "zonaSlug": "ciudad-kennedy-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1300000,
       "area": 57.0,
       "precioM2": 22807,
@@ -136,7 +200,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 50.0,
+      "precioM2": 36000,
+      "administracion": null,
+      "barrio": "MANDALAY",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-mandalay-bogota/194295109",
+      "titulo": "Apartamento en Arriendo en Mandalay, Bogotá",
+      "id_domus": "194295109",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.630430948283,
+      "lon": -74.144152791306,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD KENNEDY NORTE",
+      "zonaSlug": "ciudad-kennedy-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +296,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1500000,
+      "area": 47.0,
+      "precioM2": 31915,
+      "administracion": null,
+      "barrio": "CIUDAD KENNEDY NORTE",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-central-bogota/194295192",
+      "titulo": "Apartamento en Arriendo en Kennedy Central, Bogotá",
+      "id_domus": "194295192",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.6363908,
+      "lon": -74.1531148,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD KENNEDY NORTE",
+      "zonaSlug": "ciudad-kennedy-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -264,16 +392,16 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1103000,
-      "area": 44.0,
-      "precioM2": 25068,
-      "administracion": 197000.0,
+      "precio": 1400000,
+      "area": 50.0,
+      "precioM2": 28000,
+      "administracion": null,
       "barrio": "CIUDAD KENNEDY NORTE",
       "upl": "Kennedy",
       "ciudad": "Bogotá",
@@ -284,19 +412,19 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/193830266",
-      "titulo": "Apartamento en Arriendo en Bogotá",
-      "id_domus": "193830266",
-      "fechaPublicacion": "2026-06-02",
-      "lat": 4.6181438,
-      "lon": -74.1455642,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nuevo-kennedy-bogota/194307199",
+      "titulo": "Apartamento en Arriendo en Nuevo kennedy, Bogotá",
+      "id_domus": "194307199",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.617475,
+      "lon": -74.163261,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD KENNEDY NORTE",
       "zonaSlug": "ciudad-kennedy-norte",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -328,15 +456,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1750000,
+      "precio": 1650000,
       "area": 48.0,
-      "precioM2": 36458,
+      "precioM2": 34375,
       "administracion": null,
       "barrio": "HIPOTECHO OCCIDENTAL",
       "upl": "Kennedy",
@@ -360,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -544,134 +672,6 @@
       "titulo": "Apartamento en Arriendo en Kennedy, Bogotá",
       "id_domus": "193949570",
       "fechaPublicacion": "2026-07-03",
-      "lat": 4.6173682,
-      "lon": -74.1481445,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD KENNEDY NORTE",
-      "zonaSlug": "ciudad-kennedy-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 60.0,
-      "precioM2": 20000,
-      "administracion": null,
-      "barrio": "CIUDAD KENNEDY NORTE",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-bogota/194163651",
-      "titulo": "Apartamento en Arriendo en Kennedy, Bogotá",
-      "id_domus": "194163651",
-      "fechaPublicacion": "2026-08-25",
-      "lat": 4.6161462,
-      "lon": -74.1585627,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD KENNEDY NORTE",
-      "zonaSlug": "ciudad-kennedy-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 35.0,
-      "precioM2": 34286,
-      "administracion": null,
-      "barrio": "CIUDAD KENNEDY NORTE",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-bogota/193949577",
-      "titulo": "Apartamento en Arriendo en Kennedy, Bogotá",
-      "id_domus": "193949577",
-      "fechaPublicacion": "2026-07-03",
-      "lat": 4.6173682,
-      "lon": -74.1481445,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD KENNEDY NORTE",
-      "zonaSlug": "ciudad-kennedy-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1214504,
-      "area": 38.0,
-      "precioM2": 31961,
-      "administracion": 185496.0,
-      "barrio": "CIUDAD KENNEDY NORTE",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-bogota/194054546",
-      "titulo": "Apartamento en Arriendo en Kennedy, Bogotá",
-      "id_domus": "194054546",
-      "fechaPublicacion": "2026-07-30",
-      "lat": 4.6182045,
-      "lon": -74.1456163,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD KENNEDY NORTE",
-      "zonaSlug": "ciudad-kennedy-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 38.0,
-      "precioM2": 31579,
-      "administracion": null,
-      "barrio": "CIUDAD KENNEDY NORTE",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-bogota/193937986",
-      "titulo": "Apartamento en Arriendo en Kennedy, Bogotá",
-      "id_domus": "193937986",
-      "fechaPublicacion": "2026-07-01",
       "lat": 4.6173682,
       "lon": -74.1481445,
       "location_type": "exacta",

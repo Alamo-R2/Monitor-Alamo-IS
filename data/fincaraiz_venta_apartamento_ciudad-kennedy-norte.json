@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 14:14",
+  "generado": "2026.SEP.24 14:29",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 360000000,
+      "area": 75.0,
+      "precioM2": 4800000,
+      "administracion": 347000.0,
+      "barrio": "MANDALAY",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-mandalay-bogota/194244379",
+      "titulo": "Apartamento en Venta en Mandalay, Bogotá",
+      "id_domus": "194244379",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.6287805551527,
+      "lon": -74.139599204063,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD KENNEDY NORTE",
+      "zonaSlug": "ciudad-kennedy-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 228000000,
       "area": 44.0,
       "precioM2": 5181818,
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -162,38 +194,6 @@
       "fechaPublicacion": "2026-04-22",
       "lat": 4.6227785763693,
       "lon": -74.155235395419,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD KENNEDY NORTE",
-      "zonaSlug": "ciudad-kennedy-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 68.0,
-      "precioM2": 4852941,
-      "administracion": 150000.0,
-      "barrio": "CIUDAD KENNEDY NORTE",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-central-bogota/193279322",
-      "titulo": "Apartamento en Venta en Kennedy Central, Bogotá",
-      "id_domus": "193279322",
-      "fechaPublicacion": "2026-01-15",
-      "lat": 4.6186952,
-      "lon": -74.1397102,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD KENNEDY NORTE",
       "zonaSlug": "ciudad-kennedy-norte",
@@ -238,10 +238,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 310000000,
+      "precio": 280000000,
       "area": 65.0,
-      "precioM2": 4769231,
-      "administracion": 80000.0,
+      "precioM2": 4307692,
+      "administracion": 82000.0,
       "barrio": "CIUDAD KENNEDY NORTE",
       "upl": "Kennedy",
       "ciudad": "Bogotá",
@@ -494,38 +494,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 760000000,
-      "area": 220.0,
-      "precioM2": 3454545,
-      "administracion": null,
-      "barrio": "MANDALAY",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 5,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-mandalay-bogota/194000288",
-      "titulo": "Apartamento en Venta en Mandalay, Bogotá",
-      "id_domus": "194000288",
-      "fechaPublicacion": "2026-07-16",
-      "lat": 4.6274385,
-      "lon": -74.143094,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD KENNEDY NORTE",
-      "zonaSlug": "ciudad-kennedy-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 243500000,
       "area": 47.0,
       "precioM2": 5180851,
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -672,6 +640,38 @@
       "titulo": "Apartamento en Venta en Provivienda oriental, Bogotá",
       "id_domus": "193888739",
       "fechaPublicacion": "2026-06-18",
+      "lat": 4.630387,
+      "lon": -74.1376756,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD KENNEDY NORTE",
+      "zonaSlug": "ciudad-kennedy-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 260000000,
+      "area": 38.0,
+      "precioM2": 6842105,
+      "administracion": 148700.0,
+      "barrio": "CIUDAD KENNEDY NORTE",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-bogota/193893160",
+      "titulo": "Apartamento en Venta en Kennedy, Bogotá",
+      "id_domus": "193893160",
+      "fechaPublicacion": "2026-06-19",
       "lat": 4.630387,
       "lon": -74.1376756,
       "location_type": "exacta",
