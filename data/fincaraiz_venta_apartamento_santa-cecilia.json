@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "SANTA CECILIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 16:03",
+  "generado": "2026.SEP.24 05:35",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,10 +14,45 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 360000000,
+      "area": 57.0,
+      "precioM2": 6315789,
+      "administracion": 250000.0,
+      "barrio": "SANTA CECILIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-monjes-bogota/194297594",
+      "titulo": "Apartamento en Venta en Los monjes, Bogotá",
+      "id_domus": "194297594",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.6814042910615,
+      "lon": -74.110397033878,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CECILIA",
+      "zonaSlug": "santa-cecilia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 380000000,
       "area": 98.0,
+      "precioM2": 3877551,
       "administracion": null,
       "barrio": "SANTA CECILIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -37,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -45,8 +80,11 @@
       "tipoPortal": "Apartamento",
       "precio": 330000000,
       "area": 62.0,
+      "precioM2": 5322581,
       "administracion": 236000.0,
       "barrio": "NORMANDIA OCCIDENTAL",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 1,
@@ -66,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -74,8 +112,11 @@
       "tipoPortal": "Apartamento",
       "precio": 290000000,
       "area": 32.0,
+      "precioM2": 9062500,
       "administracion": 180000.0,
-      "barrio": "LOS MONJES",
+      "barrio": "SANTA CECILIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
