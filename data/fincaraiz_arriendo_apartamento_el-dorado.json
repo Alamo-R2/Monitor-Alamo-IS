@@ -1,78 +1,14 @@
 {
   "ok": true,
-  "total": 13,
+  "total": 14,
   "zona": "EL DORADO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 20:33",
+  "generado": "2026.SEP.24 00:04",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2100000,
-      "area": 55.0,
-      "precioM2": 38182,
-      "administracion": null,
-      "barrio": "GRAN GRANADA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gran-granada-bogota/194279162",
-      "titulo": "Apartamento en Arriendo en Gran granada, Bogotá",
-      "id_domus": "194279162",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.7225479,
-      "lon": -74.1332293,
-      "location_type": "exacta",
-      "zonaConsulta": "EL DORADO",
-      "zonaSlug": "el-dorado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2700000,
-      "area": 67.0,
-      "precioM2": 40299,
-      "administracion": null,
-      "barrio": "EL DORADO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-dorado-bogota/194226114",
-      "titulo": "Apartamento en Arriendo en El dorado, Bogotá",
-      "id_domus": "194226114",
-      "fechaPublicacion": "2026-09-08",
-      "lat": 4.722851447166,
-      "lon": -74.12585291738,
-      "location_type": "exacta",
-      "zonaConsulta": "EL DORADO",
-      "zonaSlug": "el-dorado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +40,103 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2149000,
+      "area": 81.0,
+      "precioM2": 26531,
+      "administracion": 350000.0,
+      "barrio": "GRAN GRANADA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gran-granada-bogota/194146168",
+      "titulo": "Apartamento en Arriendo en Gran granada, Bogotá",
+      "id_domus": "194146168",
+      "fechaPublicacion": "2026-08-21",
+      "lat": 4.7236683,
+      "lon": -74.1356751,
+      "location_type": "exacta",
+      "zonaConsulta": "EL DORADO",
+      "zonaSlug": "el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2100000,
+      "area": 55.0,
+      "precioM2": 38182,
+      "administracion": null,
+      "barrio": "GRAN GRANADA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gran-granada-bogota/194279162",
+      "titulo": "Apartamento en Arriendo en Gran granada, Bogotá",
+      "id_domus": "194279162",
+      "fechaPublicacion": "2026-09-18",
+      "lat": 4.7225479,
+      "lon": -74.1332293,
+      "location_type": "exacta",
+      "zonaConsulta": "EL DORADO",
+      "zonaSlug": "el-dorado",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2700000,
+      "area": 67.0,
+      "precioM2": 40299,
+      "administracion": null,
+      "barrio": "EL DORADO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-dorado-bogota/194226114",
+      "titulo": "Apartamento en Arriendo en El dorado, Bogotá",
+      "id_domus": "194226114",
+      "fechaPublicacion": "2026-09-08",
+      "lat": 4.722851447166,
+      "lon": -74.12585291738,
+      "location_type": "exacta",
+      "zonaConsulta": "EL DORADO",
+      "zonaSlug": "el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
