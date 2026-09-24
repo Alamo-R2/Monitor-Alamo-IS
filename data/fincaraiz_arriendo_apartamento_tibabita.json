@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 14:29",
+  "generado": "2026.SEP.24 20:51",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -558,6 +558,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 55.0,
+      "precioM2": 36364,
+      "administracion": null,
+      "barrio": "TIBABITA",
+      "upl": "Toberín",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lijaca-bogota/194311170",
+      "titulo": "Apartamento en Arriendo en Lijacá, Bogotá",
+      "id_domus": "194311170",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.7662565,
+      "lon": -74.0304028,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABITA",
+      "zonaSlug": "tibabita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1500000,
       "area": 47.0,
       "precioM2": 31915,
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-09-22",
       "lat": 4.7603872,
       "lon": -74.029362,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABITA",
-      "zonaSlug": "tibabita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 917000,
-      "area": 40.0,
-      "precioM2": 22925,
-      "administracion": 63000.0,
-      "barrio": "TIBABITA",
-      "upl": "Toberín",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lijaca-bogota/194004805",
-      "titulo": "Apartamento en Arriendo en Lijacá, Bogotá",
-      "id_domus": "194004805",
-      "fechaPublicacion": "2026-07-17",
-      "lat": 4.7641691,
-      "lon": -74.0283728,
       "location_type": "exacta",
       "zonaConsulta": "TIBABITA",
       "zonaSlug": "tibabita",

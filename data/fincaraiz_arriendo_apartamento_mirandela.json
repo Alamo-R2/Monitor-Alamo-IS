@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 14:29",
+  "generado": "2026.SEP.24 20:51",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2700000,
-      "area": 56.0,
-      "precioM2": 48214,
-      "administracion": null,
+      "precio": 4500000,
+      "area": 115.0,
+      "precioM2": 39130,
+      "administracion": 655000.0,
       "barrio": "MIRANDELA",
       "upl": "Britalia",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 4,
       "banos": 2.0,
-      "parqueaderos": 1.0,
+      "parqueaderos": 2.0,
       "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lagos-de-torca-bogota/193502634",
-      "titulo": "Apartamento en Arriendo en Lagos de Torca, Bogotá",
-      "id_domus": "193502634",
-      "fechaPublicacion": "2026-03-12",
-      "lat": 4.7690285,
-      "lon": -74.0564807,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-zona-noroccidente-bogota/194274806",
+      "titulo": "Apartamento en Arriendo en Zona Noroccidente, Bogotá",
+      "id_domus": "194274806",
+      "fechaPublicacion": "2026-09-17",
+      "lat": 4.760207,
+      "lon": -74.0471788,
       "location_type": "exacta",
       "zonaConsulta": "MIRANDELA",
       "zonaSlug": "mirandela",
@@ -41,38 +41,6 @@
     },
     {
       "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2600000,
-      "area": 56.0,
-      "precioM2": 46429,
-      "administracion": null,
-      "barrio": "SAN JOSE DE BAVARIA",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-jose-de-bavaria-bogota/194259676",
-      "titulo": "Apartamento en Arriendo en San jose de bavaria, Bogotá",
-      "id_domus": "194259676",
-      "fechaPublicacion": "2026-09-15",
-      "lat": 4.769445860185,
-      "lon": -74.056311451856,
-      "location_type": "exacta",
-      "zonaConsulta": "MIRANDELA",
-      "zonaSlug": "mirandela",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-05-19",
       "lat": 4.76890534039,
       "lon": -74.056241098535,
+      "location_type": "exacta",
+      "zonaConsulta": "MIRANDELA",
+      "zonaSlug": "mirandela",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000,
+      "area": 56.0,
+      "precioM2": 46429,
+      "administracion": null,
+      "barrio": "SAN JOSE DE BAVARIA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-jose-de-bavaria-bogota/194259676",
+      "titulo": "Apartamento en Arriendo en San jose de bavaria, Bogotá",
+      "id_domus": "194259676",
+      "fechaPublicacion": "2026-09-15",
+      "lat": 4.769445860185,
+      "lon": -74.056311451856,
       "location_type": "exacta",
       "zonaConsulta": "MIRANDELA",
       "zonaSlug": "mirandela",
@@ -398,6 +398,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2700000,
+      "area": 56.0,
+      "precioM2": 48214,
+      "administracion": null,
+      "barrio": "MIRANDELA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lagos-de-torca-bogota/193502634",
+      "titulo": "Apartamento en Arriendo en Lagos de Torca, Bogotá",
+      "id_domus": "193502634",
+      "fechaPublicacion": "2026-03-12",
+      "lat": 4.7690285,
+      "lon": -74.0564807,
+      "location_type": "exacta",
+      "zonaConsulta": "MIRANDELA",
+      "zonaSlug": "mirandela",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2000000,
       "area": 38.0,
       "precioM2": 52632,
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-08-28",
       "lat": 4.7692999118471,
       "lon": -74.056641320676,
-      "location_type": "exacta",
-      "zonaConsulta": "MIRANDELA",
-      "zonaSlug": "mirandela",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1900000,
-      "area": 34.0,
-      "precioM2": 55882,
-      "administracion": null,
-      "barrio": "SAN JOSE DE BAVARIA",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-jose-de-bavaria-bogota/194225900",
-      "titulo": "Apartamento en Arriendo en San jose de bavaria, Bogotá",
-      "id_domus": "194225900",
-      "fechaPublicacion": "2026-09-08",
-      "lat": 4.769445860185,
-      "lon": -74.056311451856,
       "location_type": "exacta",
       "zonaConsulta": "MIRANDELA",
       "zonaSlug": "mirandela",
