@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 23:53",
+  "generado": "2026.SEP.25 05:32",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1850000000,
-      "area": 220.0,
-      "precioM2": 8409091,
-      "administracion": null,
-      "barrio": "BOSQUE MEDINA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 3,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosque-medina-bogota/193851941",
-      "titulo": "Apartamento en Venta en Bosque Medina, Bogotá",
-      "id_domus": "193851941",
-      "fechaPublicacion": "2026-06-08",
-      "lat": 4.7110953,
-      "lon": -74.0263401,
-      "location_type": "exacta",
-      "zonaConsulta": "SEGUNDO CONTADOR",
-      "zonaSlug": "segundo-contador",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-09-09",
       "lat": 4.710794,
       "lon": -74.0250499,
+      "location_type": "exacta",
+      "zonaConsulta": "SEGUNDO CONTADOR",
+      "zonaSlug": "segundo-contador",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000000,
+      "area": 170.0,
+      "precioM2": 8235294,
+      "administracion": null,
+      "barrio": "SEGUNDO CONTADOR",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 5,
+      "parqueaderos": 3,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alameda-bogota/194206027",
+      "titulo": "Apartamento en Venta en Alameda, Bogotá",
+      "id_domus": "194206027",
+      "fechaPublicacion": "2026-09-03",
+      "lat": 4.713729,
+      "lon": -74.0298301,
       "location_type": "exacta",
       "zonaConsulta": "SEGUNDO CONTADOR",
       "zonaSlug": "segundo-contador",
@@ -142,24 +142,24 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1950000000,
+      "precio": 1850000000,
       "area": 220.0,
-      "precioM2": 8863636,
-      "administracion": 2000000.0,
+      "precioM2": 8409091,
+      "administracion": null,
       "barrio": "BOSQUE MEDINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 4,
+      "banos": 4,
+      "parqueaderos": 3,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosque-medina-bogota/194164440",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosque-medina-bogota/193851941",
       "titulo": "Apartamento en Venta en Bosque Medina, Bogotá",
-      "id_domus": "194164440",
-      "fechaPublicacion": "2026-08-25",
+      "id_domus": "193851941",
+      "fechaPublicacion": "2026-06-08",
       "lat": 4.7110953,
       "lon": -74.0263401,
       "location_type": "exacta",
@@ -206,38 +206,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2800000000,
-      "area": 317.0,
-      "precioM2": 8832808,
-      "administracion": 2323000.0,
-      "barrio": "SEGUNDO CONTADOR",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 3,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosques-del-marques-bogota/193055989",
-      "titulo": "Apartamento en Venta en Bosques del Marques, Bogotá",
-      "id_domus": "193055989",
-      "fechaPublicacion": "2025-11-02",
-      "lat": 4.7153386,
-      "lon": -74.0247449,
-      "location_type": "exacta",
-      "zonaConsulta": "SEGUNDO CONTADOR",
-      "zonaSlug": "segundo-contador",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 3700000000,
       "area": 351.0,
       "precioM2": 10541311,
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,39 +264,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1400000000,
-      "area": 170.0,
-      "precioM2": 8235294,
-      "administracion": null,
-      "barrio": "SEGUNDO CONTADOR",
+      "precio": 1945000000,
+      "area": 204.0,
+      "precioM2": 9534314,
+      "administracion": 1800000.0,
+      "barrio": "BOSQUE MEDINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 3,
+      "banos": 4,
+      "parqueaderos": 2,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alameda-bogota/194206027",
-      "titulo": "Apartamento en Venta en Alameda, Bogotá",
-      "id_domus": "194206027",
-      "fechaPublicacion": "2026-09-03",
-      "lat": 4.713729,
-      "lon": -74.0298301,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosque-medina-bogota/194192245",
+      "titulo": "Apartamento en Venta en Bosque Medina, Bogotá",
+      "id_domus": "194192245",
+      "fechaPublicacion": "2026-09-01",
+      "lat": 4.711128768842,
+      "lon": -74.025004121487,
       "location_type": "exacta",
       "zonaConsulta": "SEGUNDO CONTADOR",
       "zonaSlug": "segundo-contador",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,39 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1611000000,
-      "area": 211.0,
-      "precioM2": 7635071,
-      "administracion": 2161000.0,
-      "barrio": "BOSQUE MEDINA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosque-medina-bogota/194059203",
-      "titulo": "Apartamento en Venta en Bosque Medina, Bogotá",
-      "id_domus": "194059203",
-      "fechaPublicacion": "2026-07-31",
-      "lat": 4.711470666673,
-      "lon": -74.02746404243,
-      "location_type": "exacta",
-      "zonaConsulta": "SEGUNDO CONTADOR",
-      "zonaSlug": "segundo-contador",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +610,70 @@
       "fechaPublicacion": "2026-08-15",
       "lat": 4.7153779,
       "lon": -74.0276712,
+      "location_type": "exacta",
+      "zonaConsulta": "SEGUNDO CONTADOR",
+      "zonaSlug": "segundo-contador",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4000000000,
+      "area": 345.0,
+      "precioM2": 11594203,
+      "administracion": 3400000.0,
+      "barrio": "SEGUNDO CONTADOR",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosques-del-marques-bogota/192509246",
+      "titulo": "Apartamento en Venta en Bosques del Marques, Bogotá",
+      "id_domus": "192509246",
+      "fechaPublicacion": "2025-06-10",
+      "lat": 4.7153386,
+      "lon": -74.0247449,
+      "location_type": "exacta",
+      "zonaConsulta": "SEGUNDO CONTADOR",
+      "zonaSlug": "segundo-contador",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 850000000,
+      "area": 121.0,
+      "precioM2": 7024793,
+      "administracion": 690000.0,
+      "barrio": "SEGUNDO CONTADOR",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lisboa-usaquen-bogota/194203080",
+      "titulo": "Apartamento en Venta en Lisboa Usaquén, Bogotá",
+      "id_domus": "194203080",
+      "fechaPublicacion": "2026-09-03",
+      "lat": 4.7140118515339,
+      "lon": -74.029533862007,
       "location_type": "exacta",
       "zonaConsulta": "SEGUNDO CONTADOR",
       "zonaSlug": "segundo-contador",
