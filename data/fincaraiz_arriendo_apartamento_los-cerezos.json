@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 5,
   "zona": "LOS CEREZOS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.25 05:32",
+  "generado": "2026.SEP.25 20:48",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,38 +78,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1600000,
-      "area": 45.0,
-      "precioM2": 35556,
-      "administracion": null,
-      "barrio": "LAS FERIAS",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-las-ferias-bogota/194202562",
-      "titulo": "Apartamento en Arriendo en Las ferias, Bogotá",
-      "id_domus": "194202562",
-      "fechaPublicacion": "2026-09-02",
-      "lat": 4.702900923672,
-      "lon": -74.100281772725,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS CEREZOS",
-      "zonaSlug": "los-cerezos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1500000,
       "area": 90.0,
       "precioM2": 16667,
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],

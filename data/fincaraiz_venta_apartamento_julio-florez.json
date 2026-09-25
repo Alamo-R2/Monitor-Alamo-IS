@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 16:03",
+  "generado": "2026.SEP.25 20:48",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,23 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 900000000,
-      "area": 130.0,
-      "administracion": 650000.0,
-      "barrio": "CIUDADELA CAFAM ET. IV",
+      "precio": 420000000,
+      "area": 48.0,
+      "precioM2": 8750000,
+      "administracion": 350000.0,
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 2.0,
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
       "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudadela-cafam-et-iv-bogota/193542333",
-      "titulo": "Apartamento en Venta en Ciudadela cafam et. iv, Bogotá",
-      "id_domus": "193542333",
-      "fechaPublicacion": "2026-03-19",
-      "lat": 4.6875339,
-      "lon": -74.0761839,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194285354",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194285354",
+      "fechaPublicacion": "2026-09-20",
+      "lat": 4.6878800817504,
+      "lon": -74.076343332438,
       "location_type": "exacta",
       "zonaConsulta": "JULIO FLOREZ",
       "zonaSlug": "julio-florez",
@@ -43,39 +46,13 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 399000000,
-      "area": 53.0,
-      "administracion": 417000.0,
-      "barrio": "BOGOTÁ",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194075551",
-      "titulo": "Apartamento en Venta en Bogotá",
-      "id_domus": "194075551",
-      "fechaPublicacion": "2026-08-04",
-      "lat": 4.6901979,
-      "lon": -74.0788274,
-      "location_type": "exacta",
-      "zonaConsulta": "JULIO FLOREZ",
-      "zonaSlug": "julio-florez",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 330000000,
       "area": 31.0,
+      "precioM2": 10645161,
       "administracion": null,
-      "barrio": "ILARCO",
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -95,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -103,8 +80,11 @@
       "tipoPortal": "Apartamento",
       "precio": 405000000,
       "area": 37.0,
+      "precioM2": 10945946,
       "administracion": null,
-      "barrio": "ENGATIVÁ",
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -124,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -132,8 +112,11 @@
       "tipoPortal": "Apartamento",
       "precio": 420000000,
       "area": 26.0,
+      "precioM2": 16153846,
       "administracion": 260000.0,
       "barrio": "CHICO NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -153,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -161,8 +144,11 @@
       "tipoPortal": "Apartamento",
       "precio": 510000000,
       "area": 61.0,
+      "precioM2": 8360656,
       "administracion": 428800.0,
       "barrio": "PUENTE LARGO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -182,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -190,8 +176,11 @@
       "tipoPortal": "Apartamento",
       "precio": 620000000,
       "area": 115.0,
+      "precioM2": 5391304,
       "administracion": null,
-      "barrio": "LA FLORESTA",
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -211,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -219,8 +208,11 @@
       "tipoPortal": "Apartamento",
       "precio": 619000000,
       "area": 105.0,
+      "precioM2": 5895238,
       "administracion": 760000.0,
-      "barrio": "ILARCO",
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -240,16 +232,19 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 320000000,
+      "precio": 350000000,
       "area": 36.0,
+      "precioM2": 9722222,
       "administracion": 250000.0,
-      "barrio": "LA FLORESTA",
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -269,6 +264,38 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 270000000,
+      "area": 27.0,
+      "precioM2": 10000000,
+      "administracion": 214000.0,
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-morato-bogota/193608184",
+      "titulo": "Apartamento en Venta en Morato, Bogotá",
+      "id_domus": "193608184",
+      "fechaPublicacion": "2026-04-08",
+      "lat": 4.696307,
+      "lon": -74.0691708,
+      "location_type": "exacta",
+      "zonaConsulta": "JULIO FLOREZ",
+      "zonaSlug": "julio-florez",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-10",
       "operacion": [
         "Venta"
@@ -277,8 +304,11 @@
       "tipoPortal": "Apartamento",
       "precio": 320000000,
       "area": 30.0,
+      "precioM2": 10666667,
       "administracion": null,
-      "barrio": "LA FLORESTA",
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -306,8 +336,11 @@
       "tipoPortal": "Apartamento",
       "precio": 575000000,
       "area": 55.0,
+      "precioM2": 10454545,
       "administracion": 338000.0,
-      "barrio": "ILARCO",
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
@@ -333,39 +366,13 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 430000000,
-      "area": 48.0,
-      "administracion": 350000.0,
-      "barrio": "ENGATIVÁ",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194285354",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194285354",
-      "fechaPublicacion": "2026-09-20",
-      "lat": 4.6875129564526,
-      "lon": -74.076504261377,
-      "location_type": "exacta",
-      "zonaConsulta": "JULIO FLOREZ",
-      "zonaSlug": "julio-florez",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 3250000000,
       "area": 300.0,
+      "precioM2": 10833333,
       "administracion": 2100000.0,
-      "barrio": "SANTA BARBARA ALTA",
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 5,
@@ -385,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -393,8 +400,11 @@
       "tipoPortal": "Apartamento",
       "precio": 290000000,
       "area": 32.0,
+      "precioM2": 9062500,
       "administracion": 330000.0,
-      "barrio": "LA FLORESTA",
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -414,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -422,8 +432,11 @@
       "tipoPortal": "Apartamento",
       "precio": 320000000,
       "area": 58.0,
+      "precioM2": 5517241,
       "administracion": 522000.0,
-      "barrio": "BARRIOS UNIDOS",
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -443,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -451,8 +464,11 @@
       "tipoPortal": "Apartamento",
       "precio": 260000000,
       "area": 31.0,
+      "precioM2": 8387097,
       "administracion": null,
       "barrio": "ANDES NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -472,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -480,8 +496,11 @@
       "tipoPortal": "Apartamento",
       "precio": 397000000,
       "area": 55.0,
+      "precioM2": 7218182,
       "administracion": 450300.0,
       "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -501,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -509,8 +528,11 @@
       "tipoPortal": "Apartamento",
       "precio": 938000000,
       "area": 105.0,
+      "precioM2": 8933333,
       "administracion": 1013000.0,
-      "barrio": "ILARCO",
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
@@ -530,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -538,8 +560,11 @@
       "tipoPortal": "Apartamento",
       "precio": 405000000,
       "area": 53.0,
+      "precioM2": 7641509,
       "administracion": 417000.0,
-      "barrio": "MORATO",
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -547,8 +572,8 @@
       "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194267776",
-      "titulo": "Apartamento en Venta en Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-morato-bogota/194267776",
+      "titulo": "Apartamento en Venta en Morato, Bogotá",
       "id_domus": "194267776",
       "fechaPublicacion": "2026-09-16",
       "lat": 4.6900051,
@@ -559,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -567,8 +592,11 @@
       "tipoPortal": "Apartamento",
       "precio": 405000000,
       "area": 56.0,
+      "precioM2": 7232143,
       "administracion": 390000.0,
-      "barrio": "ENGATIVÁ",
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -588,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -596,8 +624,11 @@
       "tipoPortal": "Apartamento",
       "precio": 350000000,
       "area": 42.0,
+      "precioM2": 8333333,
       "administracion": 309000.0,
-      "barrio": "LA ALBORADA",
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -611,6 +642,38 @@
       "fechaPublicacion": "2026-08-05",
       "lat": 4.688161767408,
       "lon": -74.078326436727,
+      "location_type": "exacta",
+      "zonaConsulta": "JULIO FLOREZ",
+      "zonaSlug": "julio-florez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1980000000,
+      "area": 280.0,
+      "precioM2": 7071429,
+      "administracion": 1062000.0,
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-floresta-bogota/191411927",
+      "titulo": "Apartamento en Venta en La Floresta, Bogotá",
+      "id_domus": "191411927",
+      "fechaPublicacion": "2024-09-17",
+      "lat": 4.6884015,
+      "lon": -74.0748961,
       "location_type": "exacta",
       "zonaConsulta": "JULIO FLOREZ",
       "zonaSlug": "julio-florez",
