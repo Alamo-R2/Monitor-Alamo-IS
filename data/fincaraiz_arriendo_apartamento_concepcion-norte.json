@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 16,
+  "total": 15,
   "zona": "CONCEPCION NORTE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 05:35",
+  "generado": "2026.SEP.25 00:06",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -16,8 +16,11 @@
       "tipoPortal": "Apartamento",
       "precio": 3500000,
       "area": 44.0,
+      "precioM2": 79545,
       "administracion": null,
-      "barrio": "CHAPINERO",
+      "barrio": "CONCEPCION NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -45,8 +48,11 @@
       "tipoPortal": "Apartamento",
       "precio": 5100000,
       "area": 75.0,
+      "precioM2": 68000,
       "administracion": null,
       "barrio": "QUINTA CAMACHO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -74,8 +80,11 @@
       "tipoPortal": "Apartamento",
       "precio": 1458600,
       "area": 40.0,
+      "precioM2": 36465,
       "administracion": 341400.0,
-      "barrio": "CHAPINERO",
+      "barrio": "CONCEPCION NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -103,8 +112,11 @@
       "tipoPortal": "Apartamento",
       "precio": 1200000,
       "area": 25.0,
+      "precioM2": 48000,
       "administracion": null,
-      "barrio": "CHAPINERO",
+      "barrio": "CONCEPCION NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -132,8 +144,11 @@
       "tipoPortal": "Apartamento",
       "precio": 4342400,
       "area": 72.0,
+      "precioM2": 60311,
       "administracion": 857600.0,
       "barrio": "QUINTA CAMACHO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -159,39 +174,13 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2000000,
-      "area": 46.0,
-      "administracion": null,
-      "barrio": "CHAPINERO",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194278620",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194278620",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.6566477825541,
-      "lon": -74.064189514297,
-      "location_type": "exacta",
-      "zonaConsulta": "CONCEPCION NORTE",
-      "zonaSlug": "concepcion-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 3800000,
       "area": 44.0,
+      "precioM2": 86364,
       "administracion": null,
-      "barrio": "CHAPINERO",
+      "barrio": "CONCEPCION NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -211,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -219,8 +208,11 @@
       "tipoPortal": "Apartamento",
       "precio": 2231000,
       "area": 62.0,
+      "precioM2": 35984,
       "administracion": 403500.0,
       "barrio": "SAN MIGUEL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -240,16 +232,19 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1700000,
+      "precio": 1650000,
       "area": 45.0,
+      "precioM2": 36667,
       "administracion": null,
-      "barrio": "BARRIOS UNIDOS",
+      "barrio": "CONCEPCION NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -269,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -277,8 +272,11 @@
       "tipoPortal": "Apartamento",
       "precio": 4200000,
       "area": 59.0,
+      "precioM2": 71186,
       "administracion": null,
       "barrio": "QUINTA CAMACHO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -298,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -306,8 +304,11 @@
       "tipoPortal": "Apartamento",
       "precio": 3200000,
       "area": 53.0,
+      "precioM2": 60377,
       "administracion": 596700.0,
-      "barrio": "CHAPINERO",
+      "barrio": "CONCEPCION NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -327,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -335,8 +336,11 @@
       "tipoPortal": "Apartamento",
       "precio": 2500000,
       "area": 62.0,
+      "precioM2": 40323,
       "administracion": 389700.0,
-      "barrio": "CHAPINERO",
+      "barrio": "CONCEPCION NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -356,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -364,8 +368,11 @@
       "tipoPortal": "Apartamento",
       "precio": 2500000,
       "area": 110.0,
+      "precioM2": 22727,
       "administracion": null,
-      "barrio": "CHAPINERO",
+      "barrio": "CONCEPCION NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 4,
       "banos": 2,
@@ -385,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -393,8 +400,11 @@
       "tipoPortal": "Apartamento",
       "precio": 3800000,
       "area": 44.0,
+      "precioM2": 86364,
       "administracion": null,
-      "barrio": "CHAPINERO",
+      "barrio": "CONCEPCION NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -414,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -422,8 +432,11 @@
       "tipoPortal": "Apartamento",
       "precio": 3080000,
       "area": 38.0,
+      "precioM2": 81053,
       "administracion": 479000.0,
-      "barrio": "CHAPINERO",
+      "barrio": "CONCEPCION NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -443,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -451,8 +464,11 @@
       "tipoPortal": "Apartamento",
       "precio": 3421700,
       "area": 44.0,
+      "precioM2": 77766,
       "administracion": 478300.0,
       "barrio": "QUINTA CAMACHO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,

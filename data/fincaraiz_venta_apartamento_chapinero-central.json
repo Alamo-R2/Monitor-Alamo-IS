@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 21:17",
+  "generado": "2026.SEP.25 00:06",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,23 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 590000000,
-      "area": 143.0,
-      "administracion": 890000.0,
-      "barrio": "CHAPINERO",
+      "precio": 780000000,
+      "area": 127.0,
+      "precioM2": 6141732,
+      "administracion": 804000.0,
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 4,
+      "habitaciones": 3,
       "banos": 3,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/193700619",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194220832",
       "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "193700619",
-      "fechaPublicacion": "2026-05-02",
-      "lat": 4.6466339,
-      "lon": -74.0612918,
+      "id_domus": "194220832",
+      "fechaPublicacion": "2026-09-07",
+      "lat": 4.639932,
+      "lon": -74.0630307,
       "location_type": "exacta",
       "zonaConsulta": "CHAPINERO CENTRAL",
       "zonaSlug": "chapinero-central",
@@ -45,8 +48,11 @@
       "tipoPortal": "Apartamento",
       "precio": 370000000,
       "area": 54.0,
+      "precioM2": 6851852,
       "administracion": 470000.0,
-      "barrio": "CHAPINERO",
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -74,8 +80,11 @@
       "tipoPortal": "Apartamento",
       "precio": 660000000,
       "area": 127.0,
+      "precioM2": 5196850,
       "administracion": null,
       "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 4,
       "banos": 3,
@@ -101,10 +110,45 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 547000000,
+      "area": 40.0,
+      "precioM2": 13675000,
+      "administracion": 450.0,
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194233141",
+      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
+      "id_domus": "194233141",
+      "fechaPublicacion": "2026-09-09",
+      "lat": 4.6418532,
+      "lon": -74.0615773,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO CENTRAL",
+      "zonaSlug": "chapinero-central",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 265000000,
       "area": 35.0,
+      "precioM2": 7571429,
       "administracion": 175700.0,
-      "barrio": "CHAPINERO",
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -124,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -132,8 +176,11 @@
       "tipoPortal": "Apartamento",
       "precio": 420000000,
       "area": 53.0,
+      "precioM2": 7924528,
       "administracion": 598400.0,
       "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -153,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -161,8 +208,11 @@
       "tipoPortal": "Apartamento",
       "precio": 320000000,
       "area": 32.0,
+      "precioM2": 10000000,
       "administracion": 330000.0,
-      "barrio": "CHAPINERO",
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
@@ -182,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -190,8 +240,11 @@
       "tipoPortal": "Apartamento",
       "precio": 430000000,
       "area": 49.0,
+      "precioM2": 8775510,
       "administracion": 480000.0,
       "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
@@ -211,7 +264,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 550000000,
+      "area": 66.0,
+      "precioM2": 8333333,
+      "administracion": 633000.0,
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194086226",
+      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
+      "id_domus": "194086226",
+      "fechaPublicacion": "2026-08-06",
+      "lat": 4.6456504,
+      "lon": -74.063434,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO CENTRAL",
+      "zonaSlug": "chapinero-central",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -219,8 +304,11 @@
       "tipoPortal": "Apartamento",
       "precio": 350000000,
       "area": 66.0,
+      "precioM2": 5303030,
       "administracion": 483000.0,
       "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -240,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -248,8 +336,11 @@
       "tipoPortal": "Apartamento",
       "precio": 480000000,
       "area": 37.0,
+      "precioM2": 12972973,
       "administracion": 380000.0,
-      "barrio": "CHAPINERO ALTO",
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -269,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -277,8 +368,11 @@
       "tipoPortal": "Apartamento",
       "precio": 550000000,
       "area": 81.0,
+      "precioM2": 6790123,
       "administracion": 100000.0,
-      "barrio": "CHAPINERO",
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -298,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -306,8 +400,11 @@
       "tipoPortal": "Apartamento",
       "precio": 290000000,
       "area": 32.0,
+      "precioM2": 9062500,
       "administracion": 291800.0,
       "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -327,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -335,8 +432,11 @@
       "tipoPortal": "Apartamento",
       "precio": 650000000,
       "area": 80.0,
+      "precioM2": 8125000,
       "administracion": 969000.0,
-      "barrio": "CHAPINERO",
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -356,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -364,8 +464,11 @@
       "tipoPortal": "Apartamento",
       "precio": 330000000,
       "area": 30.0,
+      "precioM2": 11000000,
       "administracion": 354000.0,
-      "barrio": "CHAPINERO",
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -385,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -393,8 +496,11 @@
       "tipoPortal": "Apartamento",
       "precio": 340000000,
       "area": 57.0,
+      "precioM2": 5964912,
       "administracion": 296000.0,
-      "barrio": "CHAPINERO",
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -414,36 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 950000000,
-      "area": 144.0,
-      "administracion": 999000.0,
-      "barrio": "CHAPINERO CENTRAL",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-central-bogota/194236041",
-      "titulo": "Apartamento en Venta en Chapinero central, Bogotá",
-      "id_domus": "194236041",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.648663934622,
-      "lon": -74.059926734334,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO CENTRAL",
-      "zonaSlug": "chapinero-central",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -451,8 +528,11 @@
       "tipoPortal": "Apartamento",
       "precio": 570000000,
       "area": 110.0,
+      "precioM2": 5181818,
       "administracion": 400000.0,
-      "barrio": "CHAPINERO",
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -472,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -480,8 +560,11 @@
       "tipoPortal": "Apartamento",
       "precio": 440000000,
       "area": 106.0,
+      "precioM2": 4150943,
       "administracion": 376500.0,
-      "barrio": "CHAPINERO",
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -501,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -509,8 +592,11 @@
       "tipoPortal": "Apartamento",
       "precio": 530000000,
       "area": 60.0,
+      "precioM2": 8833333,
       "administracion": 634500.0,
-      "barrio": "CHAPINERO ALTO",
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -530,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -538,8 +624,11 @@
       "tipoPortal": "Apartamento",
       "precio": 350000000,
       "area": 66.0,
+      "precioM2": 5303030,
       "administracion": 483000.0,
-      "barrio": "CHAPINERO",
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -559,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -567,8 +656,11 @@
       "tipoPortal": "Apartamento",
       "precio": 350000000,
       "area": 66.0,
+      "precioM2": 5303030,
       "administracion": 483000.0,
-      "barrio": "CHAPINERO",
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -582,35 +674,6 @@
       "fechaPublicacion": "2026-08-12",
       "lat": 4.6452367,
       "lon": -74.0623703,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO CENTRAL",
-      "zonaSlug": "chapinero-central",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 405000000,
-      "area": 53.0,
-      "administracion": 560000.0,
-      "barrio": "CHAPINERO",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194164658",
-      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "194164658",
-      "fechaPublicacion": "2026-08-25",
-      "lat": 4.6388321,
-      "lon": -74.0638771,
       "location_type": "exacta",
       "zonaConsulta": "CHAPINERO CENTRAL",
       "zonaSlug": "chapinero-central",

@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 20:33",
+  "generado": "2026.SEP.25 00:06",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 18000000,
+      "area": 371.0,
+      "precioM2": 48518,
+      "administracion": 3500000,
+      "barrio": "PARAMO I RURAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 4,
+      "parqueaderos": null,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-seminario-bogota/192090829",
+      "titulo": "Apartamento en  Arriendo en El seminario, Bogotá",
+      "id_domus": "192090829",
+      "fechaPublicacion": "2025-03-03",
+      "lat": 4.671147,
+      "lon": -74.039722,
+      "location_type": "exacta",
+      "zonaConsulta": "PARAMO I RURAL",
+      "zonaSlug": "paramo-i-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-07-31",
       "lat": 4.670456341091,
       "lon": -74.039845358567,
-      "location_type": "exacta",
-      "zonaConsulta": "PARAMO I RURAL",
-      "zonaSlug": "paramo-i-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 18000000,
-      "area": 371.0,
-      "precioM2": 48518,
-      "administracion": 3500000,
-      "barrio": "PARAMO I RURAL",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 4,
-      "parqueaderos": null,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-seminario-bogota/192090829",
-      "titulo": "Apartamento en  Arriendo en El seminario, Bogotá",
-      "id_domus": "192090829",
-      "fechaPublicacion": "2025-03-03",
-      "lat": 4.671147,
-      "lon": -74.039722,
       "location_type": "exacta",
       "zonaConsulta": "PARAMO I RURAL",
       "zonaSlug": "paramo-i-rural",
