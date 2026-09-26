@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 16,
+  "total": 17,
   "zona": "LA FRAGUA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 05:39",
+  "generado": "2026.SEP.26 13:55",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -398,6 +398,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 335000000,
+      "area": 61.0,
+      "precioM2": 5491803,
+      "administracion": null,
+      "barrio": "LA FRAGUA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-fragua-bogota/10792110",
+      "titulo": "Apartamento en venta en La fragua, Bogotá",
+      "id_domus": "10792110",
+      "fechaPublicacion": "2024-04-18",
+      "lat": 4.6094876,
+      "lon": -74.1329393,
+      "location_type": "exacta",
+      "zonaConsulta": "LA FRAGUA",
+      "zonaSlug": "la-fragua",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 310000000,
       "area": 43.0,
       "precioM2": 7209302,
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],

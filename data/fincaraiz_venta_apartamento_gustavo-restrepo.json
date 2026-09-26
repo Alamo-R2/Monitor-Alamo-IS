@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 13,
+  "total": 12,
   "zona": "GUSTAVO RESTREPO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.23 14:29",
+  "generado": "2026.SEP.26 13:55",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 350000000,
-      "area": 63.0,
-      "precioM2": 5555556,
-      "administracion": 262000.0,
-      "barrio": "GUSTAVO RESTREPO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gustavo-restrepo-bogota/194205983",
-      "titulo": "Apartamento en Venta en Gustavo restrepo, Bogotá",
-      "id_domus": "194205983",
-      "fechaPublicacion": "2026-09-03",
-      "lat": 4.5749277,
-      "lon": -74.1096608,
-      "location_type": "exacta",
-      "zonaConsulta": "GUSTAVO RESTREPO",
-      "zonaSlug": "gustavo-restrepo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-09-19",
       "lat": 4.5729505094021,
       "lon": -74.10840511322,
+      "location_type": "exacta",
+      "zonaConsulta": "GUSTAVO RESTREPO",
+      "zonaSlug": "gustavo-restrepo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 63.0,
+      "precioM2": 5555556,
+      "administracion": 262000.0,
+      "barrio": "GUSTAVO RESTREPO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gustavo-restrepo-bogota/194205983",
+      "titulo": "Apartamento en Venta en Gustavo restrepo, Bogotá",
+      "id_domus": "194205983",
+      "fechaPublicacion": "2026-09-03",
+      "lat": 4.5749277,
+      "lon": -74.1096608,
       "location_type": "exacta",
       "zonaConsulta": "GUSTAVO RESTREPO",
       "zonaSlug": "gustavo-restrepo",
@@ -110,6 +110,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 255000000,
+      "area": 25.0,
+      "precioM2": 10200000,
+      "administracion": 143000.0,
+      "barrio": "GUSTAVO RESTREPO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-veracruz-bogota/193192173",
+      "titulo": "Apartamento en Venta en La veracruz, Bogotá",
+      "id_domus": "193192173",
+      "fechaPublicacion": "2025-12-11",
+      "lat": 4.576229,
+      "lon": -74.1029491,
+      "location_type": "exacta",
+      "zonaConsulta": "GUSTAVO RESTREPO",
+      "zonaSlug": "gustavo-restrepo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 310000000,
+      "area": 65.0,
+      "precioM2": 4769231,
+      "administracion": 158000.0,
+      "barrio": "GUSTAVO RESTREPO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gustavo-restrepo-bogota/194151648",
+      "titulo": "Apartamento en Venta en Gustavo restrepo, Bogotá",
+      "id_domus": "194151648",
+      "fechaPublicacion": "2026-08-24",
+      "lat": 4.5696055,
+      "lon": -74.1058729,
+      "location_type": "exacta",
+      "zonaConsulta": "GUSTAVO RESTREPO",
+      "zonaSlug": "gustavo-restrepo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 285000000,
       "area": 70.0,
       "precioM2": 4071429,
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -322,102 +386,6 @@
       "fechaPublicacion": "2023-07-10",
       "lat": 4.575491,
       "lon": -74.1016429,
-      "location_type": "exacta",
-      "zonaConsulta": "GUSTAVO RESTREPO",
-      "zonaSlug": "gustavo-restrepo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 255000000,
-      "area": 25.0,
-      "precioM2": 10200000,
-      "administracion": 143000.0,
-      "barrio": "GUSTAVO RESTREPO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-veracruz-bogota/193192173",
-      "titulo": "Apartamento en Venta en La veracruz, Bogotá",
-      "id_domus": "193192173",
-      "fechaPublicacion": "2025-12-11",
-      "lat": 4.576229,
-      "lon": -74.1029491,
-      "location_type": "exacta",
-      "zonaConsulta": "GUSTAVO RESTREPO",
-      "zonaSlug": "gustavo-restrepo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 200000000,
-      "area": 38.0,
-      "precioM2": 5263158,
-      "administracion": null,
-      "barrio": "OLAYA",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-olaya-bogota/193120908",
-      "titulo": "Apartamento en Venta en Olaya, Bogotá",
-      "id_domus": "193120908",
-      "fechaPublicacion": "2025-11-20",
-      "lat": 4.579634645292,
-      "lon": -74.107475175572,
-      "location_type": "exacta",
-      "zonaConsulta": "GUSTAVO RESTREPO",
-      "zonaSlug": "gustavo-restrepo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 65.0,
-      "precioM2": 4769231,
-      "administracion": 158000.0,
-      "barrio": "GUSTAVO RESTREPO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gustavo-restrepo-bogota/194151648",
-      "titulo": "Apartamento en Venta en Gustavo restrepo, Bogotá",
-      "id_domus": "194151648",
-      "fechaPublicacion": "2026-08-24",
-      "lat": 4.5696055,
-      "lon": -74.1058729,
       "location_type": "exacta",
       "zonaConsulta": "GUSTAVO RESTREPO",
       "zonaSlug": "gustavo-restrepo",

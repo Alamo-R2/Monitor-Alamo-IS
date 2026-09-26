@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.23 14:29",
+  "generado": "2026.SEP.26 13:55",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 590000000,
-      "area": 84.0,
-      "precioM2": 7023810,
-      "administracion": 1282203.0,
-      "barrio": "SANTA BARBARA CENTRAL",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-barbara-central-bogota/193452749",
-      "titulo": "Apartamento en Venta en Santa barbara central, Bogotá",
-      "id_domus": "193452749",
-      "fechaPublicacion": "2026-03-02",
-      "lat": 4.5708011,
-      "lon": -74.1125186,
-      "location_type": "exacta",
-      "zonaConsulta": "GRANJAS DE SANTA SOFIA",
-      "zonaSlug": "granjas-de-santa-sofia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-03-19",
       "lat": 4.570011340347,
       "lon": -74.112633231148,
+      "location_type": "exacta",
+      "zonaConsulta": "GRANJAS DE SANTA SOFIA",
+      "zonaSlug": "granjas-de-santa-sofia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 590000000,
+      "area": 84.0,
+      "precioM2": 7023810,
+      "administracion": 1282203.0,
+      "barrio": "SANTA BARBARA CENTRAL",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-barbara-central-bogota/193452749",
+      "titulo": "Apartamento en Venta en Santa barbara central, Bogotá",
+      "id_domus": "193452749",
+      "fechaPublicacion": "2026-03-02",
+      "lat": 4.5708011,
+      "lon": -74.1125186,
       "location_type": "exacta",
       "zonaConsulta": "GRANJAS DE SANTA SOFIA",
       "zonaSlug": "granjas-de-santa-sofia",
