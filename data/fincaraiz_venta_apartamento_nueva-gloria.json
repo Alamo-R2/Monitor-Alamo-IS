@@ -1,14 +1,78 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 7,
   "zona": "NUEVA GLORIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.23 20:45",
+  "generado": "2026.SEP.26 17:27",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 169200000,
+      "area": 47.0,
+      "precioM2": 3600000,
+      "administracion": null,
+      "barrio": "NUEVA GLORIA",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-gloria-bogota/194209320",
+      "titulo": "Apartamento en Venta en La gloria, Bogotá",
+      "id_domus": "194209320",
+      "fechaPublicacion": "2026-09-04",
+      "lat": 4.54154493033,
+      "lon": -74.092398897788,
+      "location_type": "exacta",
+      "zonaConsulta": "NUEVA GLORIA",
+      "zonaSlug": "nueva-gloria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 199200000,
+      "area": 47.0,
+      "precioM2": 4238298,
+      "administracion": null,
+      "barrio": "NUEVA GLORIA",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-gloria-bogota/194311210",
+      "titulo": "Apartamento en Venta en La gloria, Bogotá",
+      "id_domus": "194311210",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.54154493033,
+      "lon": -74.092398897788,
+      "location_type": "exacta",
+      "zonaConsulta": "NUEVA GLORIA",
+      "zonaSlug": "nueva-gloria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -104,39 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 169200000,
-      "area": 47.0,
-      "precioM2": 3600000,
-      "administracion": null,
-      "barrio": "NUEVA GLORIA",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-sierra-bogota/194209320",
-      "titulo": "Apartamento en Venta en La sierra, Bogotá",
-      "id_domus": "194209320",
-      "fechaPublicacion": "2026-09-04",
-      "lat": 4.54154493033,
-      "lon": -74.092398897788,
-      "location_type": "exacta",
-      "zonaConsulta": "NUEVA GLORIA",
-      "zonaSlug": "nueva-gloria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
