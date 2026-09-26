@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.23 20:45",
+  "generado": "2026.SEP.26 20:16",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 140000000,
-      "area": 45.0,
-      "precioM2": 3111111,
-      "administracion": 95000,
-      "barrio": "TIBAQUE",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-mateo-bogota/194088858",
-      "titulo": "Apartamento en Venta en San Mateo, Bogotá",
-      "id_domus": "194088858",
-      "fechaPublicacion": "2026-08-07",
-      "lat": 4.5545412,
-      "lon": -74.0828318,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBAQUE",
-      "zonaSlug": "tibaque",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2025-09-12",
       "lat": 4.5126928099355,
       "lon": -74.08906102246,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBAQUE",
+      "zonaSlug": "tibaque",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 140000000,
+      "area": 45.0,
+      "precioM2": 3111111,
+      "administracion": 95000,
+      "barrio": "TIBAQUE",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-mateo-bogota/194088858",
+      "titulo": "Apartamento en Venta en San Mateo, Bogotá",
+      "id_domus": "194088858",
+      "fechaPublicacion": "2026-08-07",
+      "lat": 4.5545412,
+      "lon": -74.0828318,
       "location_type": "exacta",
       "zonaConsulta": "TIBAQUE",
       "zonaSlug": "tibaque",
