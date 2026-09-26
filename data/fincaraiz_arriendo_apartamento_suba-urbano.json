@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.25 20:48",
+  "generado": "2026.SEP.26 00:13",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2500000,
+      "area": 60.0,
+      "precioM2": 41667,
+      "administracion": 330000.0,
+      "barrio": "SUBA URBANO",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-suba-urbano-bogota/194263972",
+      "titulo": "Apartamento en Arriendo en Suba urbano, Bogotá",
+      "id_domus": "194263972",
+      "fechaPublicacion": "2026-09-16",
+      "lat": 4.6987307,
+      "lon": -74.0854459,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA URBANO",
+      "zonaSlug": "suba-urbano",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3500000,
+      "area": 70.0,
+      "precioM2": 50000,
+      "administracion": null,
+      "barrio": "SUBA URBANO",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-suba-urbano-bogota/193418648",
+      "titulo": "Apartamento en Arriendo en Suba urbano, Bogotá",
+      "id_domus": "193418648",
+      "fechaPublicacion": "2026-02-20",
+      "lat": 4.7311304,
+      "lon": -74.0533736,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA URBANO",
+      "zonaSlug": "suba-urbano",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 4500000,
       "area": 113.0,
       "precioM2": 39823,
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -258,70 +322,6 @@
       "fechaPublicacion": "2026-04-06",
       "lat": 4.7397202,
       "lon": -74.0837677,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA URBANO",
-      "zonaSlug": "suba-urbano",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2500000,
-      "area": 60.0,
-      "precioM2": 41667,
-      "administracion": 330000.0,
-      "barrio": "SUBA URBANO",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-suba-urbano-bogota/194263972",
-      "titulo": "Apartamento en Arriendo en Suba urbano, Bogotá",
-      "id_domus": "194263972",
-      "fechaPublicacion": "2026-09-16",
-      "lat": 4.6987307,
-      "lon": -74.0854459,
-      "location_type": "exacta",
-      "zonaConsulta": "SUBA URBANO",
-      "zonaSlug": "suba-urbano",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3500000,
-      "area": 70.0,
-      "precioM2": 50000,
-      "administracion": null,
-      "barrio": "SUBA URBANO",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-suba-urbano-bogota/193418648",
-      "titulo": "Apartamento en Arriendo en Suba urbano, Bogotá",
-      "id_domus": "193418648",
-      "fechaPublicacion": "2026-02-20",
-      "lat": 4.7311304,
-      "lon": -74.0533736,
       "location_type": "exacta",
       "zonaConsulta": "SUBA URBANO",
       "zonaSlug": "suba-urbano",

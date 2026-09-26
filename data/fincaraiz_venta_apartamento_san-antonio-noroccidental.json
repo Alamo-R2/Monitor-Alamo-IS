@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 14:29",
+  "generado": "2026.SEP.26 00:13",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 560000000,
-      "area": 79.0,
-      "precioM2": 7088608,
-      "administracion": 550000.0,
-      "barrio": "SAN ANTONIO NOROCCIDENTAL",
+      "precio": 280000000,
+      "area": 52.0,
+      "precioM2": 5384615,
+      "administracion": 141000.0,
+      "barrio": "SAN JOSE DE USAQUEN",
       "upl": "Britalia",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alameda-bogota/194274727",
-      "titulo": "Apartamento en Venta en Alameda, Bogotá",
-      "id_domus": "194274727",
-      "fechaPublicacion": "2026-09-17",
-      "lat": 4.7532422,
-      "lon": -74.0406813,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-jose-de-usaquen-bogota/194306265",
+      "titulo": "Apartamento en Venta en San jose de usaquen, Bogotá",
+      "id_domus": "194306265",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.7584364,
+      "lon": -74.0360294,
       "location_type": "exacta",
       "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
       "zonaSlug": "san-antonio-noroccidental",
@@ -41,6 +41,70 @@
     },
     {
       "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 280000000,
+      "area": 52.0,
+      "precioM2": 5384615,
+      "administracion": 141000.0,
+      "barrio": "SAN JOSE DE USAQUEN",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-jose-de-usaquen-bogota/194306377",
+      "titulo": "Apartamento en Venta en San jose de usaquen, Bogotá",
+      "id_domus": "194306377",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.7584364,
+      "lon": -74.0360294,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
+      "zonaSlug": "san-antonio-noroccidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 280000000,
+      "area": 48.0,
+      "precioM2": 5833333,
+      "administracion": 250000.0,
+      "barrio": "SAN ANTONIO NOROCCIDENTAL",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alameda-bogota/194306476",
+      "titulo": "Apartamento en Venta en Alameda, Bogotá",
+      "id_domus": "194306476",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.7582944,
+      "lon": -74.0405538,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
+      "zonaSlug": "san-antonio-noroccidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +264,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 450000000,
+      "area": 72.0,
+      "precioM2": 6250000,
+      "administracion": 412000000.0,
+      "barrio": "SAN ANTONIO NORTE",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-antonio-norte-bogota/194303838",
+      "titulo": "Apartamento en Venta en San antonio norte, Bogotá",
+      "id_domus": "194303838",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.7553947250027,
+      "lon": -74.041620018803,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
+      "zonaSlug": "san-antonio-noroccidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +360,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 560000000,
+      "area": 79.0,
+      "precioM2": 7088608,
+      "administracion": 550000.0,
+      "barrio": "SAN ANTONIO NOROCCIDENTAL",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alameda-bogota/194274727",
+      "titulo": "Apartamento en Venta en Alameda, Bogotá",
+      "id_domus": "194274727",
+      "fechaPublicacion": "2026-09-17",
+      "lat": 4.7532422,
+      "lon": -74.0406813,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
+      "zonaSlug": "san-antonio-noroccidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +488,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 311000000,
+      "area": 67.0,
+      "precioM2": 4641791,
+      "administracion": 151000.0,
+      "barrio": "SAN ANTONIO NOROCCIDENTAL",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lagos-de-torca-bogota/194194469",
+      "titulo": "Apartamento en Venta en Lagos de Torca, Bogotá",
+      "id_domus": "194194469",
+      "fechaPublicacion": "2026-09-01",
+      "lat": 4.759784,
+      "lon": -74.039771,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
+      "zonaSlug": "san-antonio-noroccidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +552,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 430000000,
+      "area": 66.0,
+      "precioM2": 6515152,
+      "administracion": 235000.0,
+      "barrio": "SAN ANTONIO NOROCCIDENTAL",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-antonio-nor-occidental-bogota/194189958",
+      "titulo": "Apartamento en Venta en San antonio nor - occidental, Bogotá",
+      "id_domus": "194189958",
+      "fechaPublicacion": "2026-08-31",
+      "lat": 4.7556453,
+      "lon": -74.041713,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
+      "zonaSlug": "san-antonio-noroccidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -424,39 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 233000000,
-      "area": 36.0,
-      "precioM2": 6472222,
-      "administracion": null,
-      "barrio": "SAN ANTONIO NOROCCIDENTAL",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lagos-de-torca-bogota/192020024",
-      "titulo": "Apartamento en  Venta en Lagos de Torca, Bogotá",
-      "id_domus": "192020024",
-      "fechaPublicacion": "2025-02-13",
-      "lat": 4.7591668,
-      "lon": -74.0396899,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
-      "zonaSlug": "san-antonio-noroccidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -514,166 +674,6 @@
       "fechaPublicacion": "2026-09-17",
       "lat": 4.7587568325934,
       "lon": -74.036750452917,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
-      "zonaSlug": "san-antonio-noroccidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 311000000,
-      "area": 67.0,
-      "precioM2": 4641791,
-      "administracion": 260000.0,
-      "barrio": "SAN ANTONIO NORTE",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-antonio-norte-bogota/194064564",
-      "titulo": "Apartamento en Venta en San antonio norte, Bogotá",
-      "id_domus": "194064564",
-      "fechaPublicacion": "2026-08-02",
-      "lat": 4.759784,
-      "lon": -74.039771,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
-      "zonaSlug": "san-antonio-noroccidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 300000000,
-      "area": 43.0,
-      "precioM2": 6976744,
-      "administracion": 190000.0,
-      "barrio": "SAN ANTONIO NOROCCIDENTAL",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alameda-bogota/194197091",
-      "titulo": "Apartamento en Venta en Alameda, Bogotá",
-      "id_domus": "194197091",
-      "fechaPublicacion": "2026-09-02",
-      "lat": 4.755327479038,
-      "lon": -74.037274159778,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
-      "zonaSlug": "san-antonio-noroccidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 255000000,
-      "area": 48.0,
-      "precioM2": 5312500,
-      "administracion": 464000.0,
-      "barrio": "SAN ANTONIO NOROCCIDENTAL",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-antonio-noroccidental-bogota/194239248",
-      "titulo": "Apartamento en Venta en San antonio noroccidental, Bogotá",
-      "id_domus": "194239248",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.7584431,
-      "lon": -74.0392789,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
-      "zonaSlug": "san-antonio-noroccidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 390000000,
-      "area": 62.0,
-      "precioM2": 6290323,
-      "administracion": 330000.0,
-      "barrio": "SAN ANTONIO NOROCCIDENTAL",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alameda-bogota/193866926",
-      "titulo": "Apartamento en Venta en Alameda, Bogotá",
-      "id_domus": "193866926",
-      "fechaPublicacion": "2026-06-11",
-      "lat": 4.7563141,
-      "lon": -74.0389033,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
-      "zonaSlug": "san-antonio-noroccidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 575000000,
-      "area": 87.0,
-      "precioM2": 6609195,
-      "administracion": 390000.0,
-      "barrio": "SAN ANTONIO NOROCCIDENTAL",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alameda-bogota/194212109",
-      "titulo": "Apartamento en Venta en Alameda, Bogotá",
-      "id_domus": "194212109",
-      "fechaPublicacion": "2026-09-04",
-      "lat": 4.7535023,
-      "lon": -74.0406068,
       "location_type": "exacta",
       "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
       "zonaSlug": "san-antonio-noroccidental",

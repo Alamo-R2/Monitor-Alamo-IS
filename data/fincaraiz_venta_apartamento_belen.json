@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.20 05:31",
+  "generado": "2026.SEP.26 00:13",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,14 +14,51 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 490000000,
-      "area": 51.0,
-      "administracion": 755000.0,
+      "precio": 325000000,
+      "area": 41.0,
+      "precioM2": 7926829,
+      "administracion": 287200.0,
       "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
       "parqueaderos": 1.0,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/193903790",
+      "titulo": "Apartamento en Venta en La Candelaria, Bogotá",
+      "id_domus": "193903790",
+      "fechaPublicacion": "2026-06-22",
+      "lat": 4.5921946148513,
+      "lon": -74.074472973077,
+      "location_type": "exacta",
+      "zonaConsulta": "BELEN",
+      "zonaSlug": "belen",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 460000000,
+      "area": 51.0,
+      "precioM2": 9019608,
+      "administracion": 755000.0,
+      "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/194179931",
       "titulo": "Apartamento en Venta en La candelaria, Bogotá",
@@ -35,61 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 265000000,
-      "area": 30.0,
-      "administracion": 200000.0,
-      "barrio": "LA CANDELARIA",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/194176448",
-      "titulo": "Apartamento en Venta en La Candelaria, Bogotá",
-      "id_domus": "194176448",
-      "fechaPublicacion": "2026-08-28",
-      "lat": 4.5922451,
-      "lon": -74.0747588,
-      "location_type": "exacta",
-      "zonaConsulta": "BELEN",
-      "zonaSlug": "belen",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 192775000,
-      "area": 25.0,
-      "administracion": 146000.0,
-      "barrio": "BELEN",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-belen-bogota/191677608",
-      "titulo": "Apartamento en  Venta en Belen, Bogotá",
-      "id_domus": "191677608",
-      "fechaPublicacion": "2024-11-13",
-      "lat": 4.5921609,
-      "lon": -74.0747102,
-      "location_type": "exacta",
-      "zonaConsulta": "BELEN",
-      "zonaSlug": "belen",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -97,12 +80,17 @@
       "tipoPortal": "Apartamento",
       "precio": 206235000,
       "area": 26.0,
+      "precioM2": 7932115,
       "administracion": null,
       "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/192643379",
       "titulo": "Apartamento en Venta en La Candelaria, Bogotá",
@@ -116,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -124,12 +112,17 @@
       "tipoPortal": "Apartamento",
       "precio": 560000000,
       "area": 47.0,
+      "precioM2": 11914894,
       "administracion": 605000.0,
       "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
       "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/194118361",
       "titulo": "Apartamento en Venta en La Candelaria, Bogotá",
@@ -143,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -151,12 +144,17 @@
       "tipoPortal": "Apartamento",
       "precio": 4250000000,
       "area": 300.0,
+      "precioM2": 14166667,
       "administracion": 1700000.0,
       "barrio": "LOS ROSALES",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
       "parqueaderos": 4.0,
+      "estrato": 6,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-rosales-bogota/194192875",
       "titulo": "Apartamento en Venta en Los rosales, Bogotá",
@@ -170,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -178,12 +176,17 @@
       "tipoPortal": "Apartamento",
       "precio": 770000000,
       "area": 65.0,
+      "precioM2": 11846154,
       "administracion": null,
       "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
       "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/193508344",
       "titulo": "Apartamento en Venta en La candelaria, Bogotá",
@@ -197,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -205,12 +208,17 @@
       "tipoPortal": "Apartamento",
       "precio": 460000000,
       "area": 46.0,
+      "precioM2": 10000000,
       "administracion": 460000.0,
       "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
       "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/193807038",
       "titulo": "Apartamento en Venta en La candelaria, Bogotá",
@@ -224,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,12 +240,17 @@
       "tipoPortal": "Apartamento",
       "precio": 320000000,
       "area": 45.0,
+      "precioM2": 7111111,
       "administracion": null,
       "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
       "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/192131257",
       "titulo": "Apartamento en  Venta en La candelaria, Bogotá",
@@ -251,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -259,12 +272,17 @@
       "tipoPortal": "Apartamento",
       "precio": 260000000,
       "area": 30.0,
+      "precioM2": 8666667,
       "administracion": 210000.0,
       "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/193735141",
       "titulo": "Apartamento en Venta en La Candelaria, Bogotá",
@@ -278,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -286,12 +304,17 @@
       "tipoPortal": "Apartamento",
       "precio": 690000001,
       "area": 62.0,
+      "precioM2": 11129032,
       "administracion": 763000.0,
       "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
       "parqueaderos": 1.0,
+      "estrato": 2,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/191688498",
       "titulo": "Apartamento en Venta en La candelaria, Bogotá",
@@ -305,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -313,12 +336,17 @@
       "tipoPortal": "Apartamento",
       "precio": 430000000,
       "area": 48.0,
+      "precioM2": 8958333,
       "administracion": 733000.0,
       "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
       "parqueaderos": 1.0,
+      "estrato": 2,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/191401596",
       "titulo": "Apartamento en Venta en La candelaria, Bogotá",
@@ -332,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -340,12 +368,17 @@
       "tipoPortal": "Apartamento",
       "precio": 155000000,
       "area": 25.0,
+      "precioM2": 6200000,
       "administracion": 160000000.0,
       "barrio": "BELEN",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-belen-bogota/194095293",
       "titulo": "Apartamento en Venta en Belen, Bogotá",
@@ -359,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -367,12 +400,17 @@
       "tipoPortal": "Apartamento",
       "precio": 489000000,
       "area": 50.0,
+      "precioM2": 9780000,
       "administracion": null,
       "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/194241385",
       "titulo": "Apartamento en Venta en La candelaria, Bogotá",
@@ -386,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -394,12 +432,17 @@
       "tipoPortal": "Apartamento",
       "precio": 325000000,
       "area": 43.0,
+      "precioM2": 7558140,
       "administracion": 190000.0,
       "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
       "parqueaderos": null,
+      "estrato": 1,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/193191993",
       "titulo": "Apartamento en Venta en La candelaria, Bogotá",
@@ -413,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -421,12 +464,17 @@
       "tipoPortal": "Apartamento",
       "precio": 355000000,
       "area": 47.0,
+      "precioM2": 7553191,
       "administracion": 333000.0,
       "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/193004350",
       "titulo": "Apartamento en Venta en La Candelaria, Bogotá",
@@ -440,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -448,12 +496,17 @@
       "tipoPortal": "Apartamento",
       "precio": 455000000,
       "area": 43.0,
+      "precioM2": 10581395,
       "administracion": 580000.0,
       "barrio": "EGIPTO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
       "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-egipto-bogota/193193131",
       "titulo": "Apartamento en Venta en Egipto, Bogotá",
@@ -467,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -475,12 +528,17 @@
       "tipoPortal": "Apartamento",
       "precio": 230000000,
       "area": 24.0,
+      "precioM2": 9583333,
       "administracion": null,
       "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/193398771",
       "titulo": "Apartamento en Venta en La candelaria, Bogotá",
@@ -494,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -502,12 +560,17 @@
       "tipoPortal": "Apartamento",
       "precio": 670000000,
       "area": 42.0,
+      "precioM2": 15952381,
       "administracion": 717000.0,
       "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
       "parqueaderos": 1.0,
+      "estrato": 2,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/193826589",
       "titulo": "Apartamento en Venta en La Candelaria, Bogotá",
@@ -521,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -529,12 +592,17 @@
       "tipoPortal": "Apartamento",
       "precio": 7500000000,
       "area": 830.0,
+      "precioM2": 9036145,
       "administracion": 5364000.0,
       "barrio": "EL CHICO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 4,
       "parqueaderos": 4.0,
+      "estrato": 6,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-chico-bogota/193710454",
       "titulo": "Apartamento en Venta en El chico, Bogotá",
@@ -548,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -556,12 +624,17 @@
       "tipoPortal": "Apartamento",
       "precio": 210000000,
       "area": 52.0,
+      "precioM2": 4038462,
       "administracion": null,
       "barrio": "BELEN",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-belen-bogota/192974026",
       "titulo": "Apartamento en Venta en Belen, Bogotá",
@@ -569,6 +642,38 @@
       "fechaPublicacion": "2025-10-11",
       "lat": 4.679899893086,
       "lon": -74.14581718582,
+      "location_type": "exacta",
+      "zonaConsulta": "BELEN",
+      "zonaSlug": "belen",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 192775000,
+      "area": 25.0,
+      "precioM2": 7711000,
+      "administracion": 146000.0,
+      "barrio": "BELEN",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-belen-bogota/191677608",
+      "titulo": "Apartamento en  Venta en Belen, Bogotá",
+      "id_domus": "191677608",
+      "fechaPublicacion": "2024-11-13",
+      "lat": 4.5921609,
+      "lon": -74.0747102,
       "location_type": "exacta",
       "zonaConsulta": "BELEN",
       "zonaSlug": "belen",
