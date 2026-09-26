@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 14:29",
+  "generado": "2026.SEP.26 05:39",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,70 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 605000000,
-      "area": 71.0,
-      "precioM2": 8521127,
-      "administracion": 521100.0,
-      "barrio": "LUSITANIA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-alsacia-bogota/194136447",
-      "titulo": "Apartamento en Venta en Ciudad alsacia, Bogotá",
-      "id_domus": "194136447",
-      "fechaPublicacion": "2026-08-19",
-      "lat": 4.6403956,
-      "lon": -74.1242573,
-      "location_type": "exacta",
-      "zonaConsulta": "LUSITANIA",
-      "zonaSlug": "lusitania",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 320000000,
-      "area": 38.0,
-      "precioM2": 8421053,
-      "administracion": 232200.0,
-      "barrio": "LUSITANIA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194243587",
-      "titulo": "Apartamento en Venta en Américas Central, Bogotá",
-      "id_domus": "194243587",
-      "fechaPublicacion": "2026-09-11",
-      "lat": 4.62946,
-      "lon": -74.1218993,
-      "location_type": "exacta",
-      "zonaConsulta": "LUSITANIA",
-      "zonaSlug": "lusitania",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 570000000,
       "area": 74.0,
       "precioM2": 7702703,
@@ -136,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +136,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 605000000,
+      "area": 71.0,
+      "precioM2": 8521127,
+      "administracion": 521100.0,
+      "barrio": "LUSITANIA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-alsacia-bogota/194136447",
+      "titulo": "Apartamento en Venta en Ciudad alsacia, Bogotá",
+      "id_domus": "194136447",
+      "fechaPublicacion": "2026-08-19",
+      "lat": 4.6403956,
+      "lon": -74.1242573,
+      "location_type": "exacta",
+      "zonaConsulta": "LUSITANIA",
+      "zonaSlug": "lusitania",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -258,6 +226,38 @@
       "fechaPublicacion": "2025-12-06",
       "lat": 4.6295364986966,
       "lon": -74.121862952981,
+      "location_type": "exacta",
+      "zonaConsulta": "LUSITANIA",
+      "zonaSlug": "lusitania",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 320000000,
+      "area": 38.0,
+      "precioM2": 8421053,
+      "administracion": 232200.0,
+      "barrio": "SALAZAR GOMEZ",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salazar-gomez-bogota/194243587",
+      "titulo": "Apartamento en Venta en Salazar gomez, Bogotá",
+      "id_domus": "194243587",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.62946,
+      "lon": -74.1218993,
       "location_type": "exacta",
       "zonaConsulta": "LUSITANIA",
       "zonaSlug": "lusitania",

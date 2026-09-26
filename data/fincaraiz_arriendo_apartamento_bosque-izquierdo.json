@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 16,
+  "total": 15,
   "zona": "BOSQUE IZQUIERDO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 23:53",
+  "generado": "2026.SEP.26 05:39",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,26 +46,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2300000,
+      "precio": 2100000,
       "area": 50.0,
-      "precioM2": 46000,
+      "precioM2": 42000,
       "administracion": null,
-      "barrio": "LA MACARENA",
+      "barrio": "BOSQUE IZQUIERDO",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 2,
+      "banos": 2,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-macarena-bogota/194134621",
-      "titulo": "Apartamento en Arriendo en La macarena, Bogotá",
-      "id_domus": "194134621",
-      "fechaPublicacion": "2026-08-19",
-      "lat": 4.6123566,
-      "lon": -74.0666728,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/194254910",
+      "titulo": "Apartamento en Arriendo en Centro Internacional, Bogotá",
+      "id_domus": "194254910",
+      "fechaPublicacion": "2026-09-14",
+      "lat": 4.6098368,
+      "lon": -74.0671547,
       "location_type": "exacta",
       "zonaConsulta": "BOSQUE IZQUIERDO",
       "zonaSlug": "bosque-izquierdo",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1900000,
+      "area": 40.0,
+      "precioM2": 47500,
+      "administracion": null,
+      "barrio": "BOSQUE IZQUIERDO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/194254864",
+      "titulo": "Apartamento en Arriendo en Centro Internacional, Bogotá",
+      "id_domus": "194254864",
+      "fechaPublicacion": "2026-09-14",
+      "lat": 4.6098368,
+      "lon": -74.0671547,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSQUE IZQUIERDO",
+      "zonaSlug": "bosque-izquierdo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -162,38 +194,6 @@
       "fechaPublicacion": "2026-05-14",
       "lat": 4.6048455,
       "lon": -74.0689331,
-      "location_type": "exacta",
-      "zonaConsulta": "BOSQUE IZQUIERDO",
-      "zonaSlug": "bosque-izquierdo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1900000,
-      "area": 40.0,
-      "precioM2": 47500,
-      "administracion": null,
-      "barrio": "BOSQUE IZQUIERDO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/194254864",
-      "titulo": "Apartamento en Arriendo en Centro Internacional, Bogotá",
-      "id_domus": "194254864",
-      "fechaPublicacion": "2026-09-14",
-      "lat": 4.6098368,
-      "lon": -74.0671547,
       "location_type": "exacta",
       "zonaConsulta": "BOSQUE IZQUIERDO",
       "zonaSlug": "bosque-izquierdo",
@@ -398,38 +398,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2100000,
-      "area": 50.0,
-      "precioM2": 42000,
-      "administracion": null,
-      "barrio": "BOSQUE IZQUIERDO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/194254910",
-      "titulo": "Apartamento en Arriendo en Centro Internacional, Bogotá",
-      "id_domus": "194254910",
-      "fechaPublicacion": "2026-09-14",
-      "lat": 4.6098368,
-      "lon": -74.0671547,
-      "location_type": "exacta",
-      "zonaConsulta": "BOSQUE IZQUIERDO",
-      "zonaSlug": "bosque-izquierdo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 2000000,
       "area": 55.0,
       "precioM2": 36364,
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
