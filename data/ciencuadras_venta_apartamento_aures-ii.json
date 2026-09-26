@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 14:53",
+  "generado": "2026.SEP.26 18:21",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,23 +14,23 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 789000000,
-      "area": 74.68,
-      "precioM2": 10565078,
+      "precio": 540000000,
+      "area": 76.78,
+      "precioM2": 7033082,
       "administracion": null,
-      "barrio": "AURES II",
+      "barrio": "RINCON DEL CHICÓ",
       "upl": "Rincón de Suba",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 2,
       "banos": 2,
-      "parqueaderos": 2,
+      "parqueaderos": 1,
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-la-felicidad-bogota-3862955",
-      "titulo": "Apartamento en La Felicidad",
-      "id_domus": "3862955",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-rincon-del-chico-bogota-3669299",
+      "titulo": "Apartamento en Rincon Del Chicó",
+      "id_domus": "3669299",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -110,38 +110,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 370000000,
-      "area": 54.0,
-      "precioM2": 6851852,
-      "administracion": null,
-      "barrio": "RESTREPO",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-restrepo-bogota-3891820",
-      "titulo": "Apartamento en Restrepo",
-      "id_domus": "3891820",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "AURES II",
-      "zonaSlug": "aures-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 330000000,
       "area": 65.0,
       "precioM2": 5076923,
@@ -159,6 +127,38 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-salitre-et-i-bogota-3891844",
       "titulo": "Apartamento en Salitre Et. I",
       "id_domus": "3891844",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "AURES II",
+      "zonaSlug": "aures-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 370000000,
+      "area": 54.0,
+      "precioM2": 6851852,
+      "administracion": null,
+      "barrio": "RESTREPO",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-restrepo-bogota-3891820",
+      "titulo": "Apartamento en Restrepo",
+      "id_domus": "3891820",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -270,38 +270,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 350000000,
-      "area": 40.0,
-      "precioM2": 8750000,
-      "administracion": null,
-      "barrio": "AURES II",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-bogota-bogota-3889347",
-      "titulo": "Apartamento en Bogota",
-      "id_domus": "3889347",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "AURES II",
-      "zonaSlug": "aures-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 410000000,
       "area": 70.0,
       "precioM2": 5857143,
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -639,6 +607,38 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-la-igualdad-bogota-3814368",
       "titulo": "Apartamento en La Igualdad",
       "id_domus": "3814368",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "AURES II",
+      "zonaSlug": "aures-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 220000000,
+      "area": 39.0,
+      "precioM2": 5641026,
+      "administracion": null,
+      "barrio": "AURES II",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-almagrario-bogota-3842650",
+      "titulo": "Apartamento en Almagrario",
+      "id_domus": "3842650",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
