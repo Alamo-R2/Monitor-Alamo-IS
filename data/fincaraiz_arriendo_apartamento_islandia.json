@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 05:32",
+  "generado": "2026.SEP.27 14:52",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 800000,
+      "area": 57.0,
+      "precioM2": 14035,
+      "administracion": null,
+      "barrio": "SIERRA MORENA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-sierra-morena-bogota/194316414",
+      "titulo": "Apartamento en Arriendo en Sierra morena, Bogotá",
+      "id_domus": "194316414",
+      "fechaPublicacion": "2026-09-25",
+      "lat": 4.615003,
+      "lon": -74.197176,
+      "location_type": "exacta",
+      "zonaConsulta": "ISLANDIA",
+      "zonaSlug": "islandia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,71 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1029600,
-      "area": 46.0,
-      "precioM2": 22383,
-      "administracion": 170400.0,
-      "barrio": "ISLANDIA",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-islandia-bogota/194134661",
-      "titulo": "Apartamento en Arriendo en Bosa Islandia, Bogotá",
-      "id_domus": "194134661",
-      "fechaPublicacion": "2026-08-19",
-      "lat": 4.6141856,
-      "lon": -74.195859,
-      "location_type": "exacta",
-      "zonaConsulta": "ISLANDIA",
-      "zonaSlug": "islandia",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1300000,
-      "area": 50.0,
-      "precioM2": 26000,
-      "administracion": null,
-      "barrio": "ISLANDIA",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-islandia-bogota/194231036",
-      "titulo": "Apartamento en Arriendo en Bosa Islandia, Bogotá",
-      "id_domus": "194231036",
-      "fechaPublicacion": "2026-09-09",
-      "lat": 4.6142114,
-      "lon": -74.195135,
-      "location_type": "exacta",
-      "zonaConsulta": "ISLANDIA",
-      "zonaSlug": "islandia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -136,39 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1100000,
-      "area": 52.0,
-      "precioM2": 21154,
-      "administracion": null,
-      "barrio": "ISLANDIA",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-islandia-bogota/194086498",
-      "titulo": "Apartamento en Arriendo en Bosa Islandia, Bogotá",
-      "id_domus": "194086498",
-      "fechaPublicacion": "2026-08-06",
-      "lat": 4.6166478,
-      "lon": -74.1952751,
-      "location_type": "exacta",
-      "zonaConsulta": "ISLANDIA",
-      "zonaSlug": "islandia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -258,6 +194,70 @@
       "fechaPublicacion": "2026-07-01",
       "lat": 4.6155832,
       "lon": -74.1934204,
+      "location_type": "exacta",
+      "zonaConsulta": "ISLANDIA",
+      "zonaSlug": "islandia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1029600,
+      "area": 46.0,
+      "precioM2": 22383,
+      "administracion": 170400.0,
+      "barrio": "ISLANDIA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-islandia-bogota/194134661",
+      "titulo": "Apartamento en Arriendo en Bosa Islandia, Bogotá",
+      "id_domus": "194134661",
+      "fechaPublicacion": "2026-08-19",
+      "lat": 4.6141856,
+      "lon": -74.195859,
+      "location_type": "exacta",
+      "zonaConsulta": "ISLANDIA",
+      "zonaSlug": "islandia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1300000,
+      "area": 50.0,
+      "precioM2": 26000,
+      "administracion": null,
+      "barrio": "ISLANDIA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-islandia-bogota/194231036",
+      "titulo": "Apartamento en Arriendo en Bosa Islandia, Bogotá",
+      "id_domus": "194231036",
+      "fechaPublicacion": "2026-09-09",
+      "lat": 4.6142114,
+      "lon": -74.195135,
       "location_type": "exacta",
       "zonaConsulta": "ISLANDIA",
       "zonaSlug": "islandia",

@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 20:16",
+  "generado": "2026.SEP.27 14:52",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 48.0,
+      "precioM2": 25000,
+      "administracion": null,
+      "barrio": "PARQUE EL TUNAL",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-tunal-bogota/194164060",
+      "titulo": "Apartamento en Arriendo en El Tunal, Bogotá",
+      "id_domus": "194164060",
+      "fechaPublicacion": "2026-08-25",
+      "lat": 4.5743742,
+      "lon": -74.1284406,
+      "location_type": "exacta",
+      "zonaConsulta": "PARQUE EL TUNAL",
+      "zonaSlug": "parque-el-tunal",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-04-08",
       "lat": 4.570482195975,
       "lon": -74.129560462342,
-      "location_type": "exacta",
-      "zonaConsulta": "PARQUE EL TUNAL",
-      "zonaSlug": "parque-el-tunal",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 48.0,
-      "precioM2": 25000,
-      "administracion": null,
-      "barrio": "PARQUE EL TUNAL",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-tunal-bogota/194164060",
-      "titulo": "Apartamento en Arriendo en El Tunal, Bogotá",
-      "id_domus": "194164060",
-      "fechaPublicacion": "2026-08-25",
-      "lat": 4.5743742,
-      "lon": -74.1284406,
       "location_type": "exacta",
       "zonaConsulta": "PARQUE EL TUNAL",
       "zonaSlug": "parque-el-tunal",
