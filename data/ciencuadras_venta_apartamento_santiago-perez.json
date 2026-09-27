@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 01:48",
+  "generado": "2026.SEP.27 07:37",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Lote",
-      "precio": 900000000,
-      "area": null,
-      "precioM2": null,
-      "administracion": null,
-      "barrio": "SANTIAGO PEREZ",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 0,
-      "banos": 0,
-      "parqueaderos": 0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-santiago-perez-bogota-3775766",
-      "titulo": "Lote en Santiago Perez",
-      "id_domus": "3775766",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "SANTIAGO PEREZ",
-      "zonaSlug": "santiago-perez",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -95,6 +63,38 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/casa-en-venta-en-santiago-perez-bogota-3751884",
       "titulo": "Casa en Santiago Perez",
       "id_domus": "3751884",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "SANTIAGO PEREZ",
+      "zonaSlug": "santiago-perez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Lote",
+      "precio": 900000000,
+      "area": null,
+      "precioM2": null,
+      "administracion": null,
+      "barrio": "SANTIAGO PEREZ",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 0,
+      "banos": 0,
+      "parqueaderos": 0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/lote-en-venta-en-santiago-perez-bogota-3775766",
+      "titulo": "Lote en Santiago Perez",
+      "id_domus": "3775766",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
