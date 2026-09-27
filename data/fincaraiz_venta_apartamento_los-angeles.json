@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "LOS ANGELES",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 00:04",
+  "generado": "2026.SEP.26 23:58",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 266000000,
+      "area": 48.0,
+      "precioM2": 5541667,
+      "administracion": 130000.0,
+      "barrio": "VILLA DEL MAR",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-del-mar-bogota/194321653",
+      "titulo": "Apartamento en Venta en Villa del mar, Bogotá",
+      "id_domus": "194321653",
+      "fechaPublicacion": "2026-09-26",
+      "lat": 4.7019482,
+      "lon": -74.1193235,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ANGELES",
+      "zonaSlug": "los-angeles",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],

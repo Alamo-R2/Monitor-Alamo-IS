@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 20:16",
+  "generado": "2026.SEP.26 23:58",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -142,6 +142,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1000000,
+      "area": 42.0,
+      "precioM2": 23810,
+      "administracion": null,
+      "barrio": "LA ESTRADA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-estrada-bogota/192399308",
+      "titulo": "Apartamento en Arriendo en La Estrada, Bogotá",
+      "id_domus": "192399308",
+      "fechaPublicacion": "2025-05-16",
+      "lat": 4.6734559,
+      "lon": -74.0917948,
+      "location_type": "exacta",
+      "zonaConsulta": "BELLAVISTA OCCIDENTAL",
+      "zonaSlug": "bellavista-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 65.0,
+      "precioM2": 30769,
+      "administracion": null,
+      "barrio": "PRADO VERANIEGO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-prado-veraniego-bogota/194252552",
+      "titulo": "Apartamento en Arriendo en Prado veraniego, Bogotá",
+      "id_domus": "194252552",
+      "fechaPublicacion": "2026-09-14",
+      "lat": 4.6737954,
+      "lon": -74.0886153,
+      "location_type": "exacta",
+      "zonaConsulta": "BELLAVISTA OCCIDENTAL",
+      "zonaSlug": "bellavista-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1800000,
       "area": 58.0,
       "precioM2": 31034,
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -258,70 +322,6 @@
       "fechaPublicacion": "2025-05-16",
       "lat": 4.6770936,
       "lon": -74.092561,
-      "location_type": "exacta",
-      "zonaConsulta": "BELLAVISTA OCCIDENTAL",
-      "zonaSlug": "bellavista-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1000000,
-      "area": 42.0,
-      "precioM2": 23810,
-      "administracion": null,
-      "barrio": "LA ESTRADA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-estrada-bogota/192399308",
-      "titulo": "Apartamento en Arriendo en La Estrada, Bogotá",
-      "id_domus": "192399308",
-      "fechaPublicacion": "2025-05-16",
-      "lat": 4.6734559,
-      "lon": -74.0917948,
-      "location_type": "exacta",
-      "zonaConsulta": "BELLAVISTA OCCIDENTAL",
-      "zonaSlug": "bellavista-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2000000,
-      "area": 65.0,
-      "precioM2": 30769,
-      "administracion": null,
-      "barrio": "PRADO VERANIEGO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-prado-veraniego-bogota/194252552",
-      "titulo": "Apartamento en Arriendo en Prado veraniego, Bogotá",
-      "id_domus": "194252552",
-      "fechaPublicacion": "2026-09-14",
-      "lat": 4.6737954,
-      "lon": -74.0886153,
       "location_type": "exacta",
       "zonaConsulta": "BELLAVISTA OCCIDENTAL",
       "zonaSlug": "bellavista-occidental",

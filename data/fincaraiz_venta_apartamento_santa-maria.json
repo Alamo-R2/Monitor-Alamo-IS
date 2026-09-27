@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 7,
   "zona": "SANTA MARIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 16:03",
+  "generado": "2026.SEP.26 23:58",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,10 +14,45 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 270000000,
+      "area": 59.0,
+      "precioM2": 4576271,
+      "administracion": 166000.0,
+      "barrio": "SANTA ANA SUR",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-ana-sur-bogota/191307674",
+      "titulo": "Apartamento en  Venta en Santa ana sur, Bogotá",
+      "id_domus": "191307674",
+      "fechaPublicacion": "2024-09-03",
+      "lat": 4.5752386,
+      "lon": -74.0821734,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA MARIA",
+      "zonaSlug": "santa-maria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 154000000,
       "area": 35.0,
+      "precioM2": 4400000,
       "administracion": null,
-      "barrio": "VILLA JAVIER",
+      "barrio": "SANTA MARIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2.0,
       "banos": 1.0,
@@ -37,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -45,8 +80,11 @@
       "tipoPortal": "Apartamento",
       "precio": 590000000,
       "area": 95.0,
+      "precioM2": 6210526,
       "administracion": 754200.0,
-      "barrio": "LA CALERA",
+      "barrio": "SANTA MARIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3.0,
       "banos": 2.0,
@@ -66,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -74,8 +112,11 @@
       "tipoPortal": "Apartamento",
       "precio": 160000000,
       "area": 29.0,
+      "precioM2": 5517241,
       "administracion": 70000.0,
       "barrio": "SANTA ANA SUR",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2.0,
       "banos": 1.0,
@@ -95,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -103,8 +144,11 @@
       "tipoPortal": "Apartamento",
       "precio": 1062882789,
       "area": 150.0,
+      "precioM2": 7085885,
       "administracion": null,
       "barrio": "EL CHICO",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3.0,
       "banos": 3.0,
@@ -124,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -132,8 +176,11 @@
       "tipoPortal": "Apartamento",
       "precio": 266750000,
       "area": 60.0,
+      "precioM2": 4445833,
       "administracion": 209305.0,
       "barrio": "BUENOS AIRES",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3.0,
       "banos": 1.0,
@@ -153,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -161,8 +208,11 @@
       "tipoPortal": "Apartamento",
       "precio": 159721000,
       "area": 68.0,
+      "precioM2": 2348838,
       "administracion": null,
       "barrio": "SAN CRISTOBAL SUR",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": null,
       "banos": null,

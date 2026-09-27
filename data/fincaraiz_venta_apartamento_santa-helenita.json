@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 21,
+  "total": 19,
   "zona": "SANTA HELENITA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 16:03",
+  "generado": "2026.SEP.26 23:58",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,39 +14,13 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 54.0,
-      "administracion": 270000.0,
-      "barrio": "TABORA",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tabora-bogota/194267113",
-      "titulo": "Apartamento en Venta en Tabora, Bogotá",
-      "id_domus": "194267113",
-      "fechaPublicacion": "2026-09-16",
-      "lat": 4.692118,
-      "lon": -74.0998123,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA HELENITA",
-      "zonaSlug": "santa-helenita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 530000000,
       "area": 81.0,
+      "precioM2": 6543210,
       "administracion": 395000.0,
-      "barrio": "LA CLARITA",
+      "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 4,
       "banos": 3,
@@ -66,36 +40,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 430000000,
-      "area": 73.0,
-      "administracion": null,
-      "barrio": "SANTA HELENITA",
+      "precio": 310000000,
+      "area": 54.0,
+      "precioM2": 5740741,
+      "administracion": 270000.0,
+      "barrio": "TABORA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1.0,
+      "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-helenita-bogota/193584160",
-      "titulo": "Apartamento en Venta en Santa helenita, Bogotá",
-      "id_domus": "193584160",
-      "fechaPublicacion": "2026-03-31",
-      "lat": 4.6904117,
-      "lon": -74.1027069,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tabora-bogota/194267113",
+      "titulo": "Apartamento en Venta en Tabora, Bogotá",
+      "id_domus": "194267113",
+      "fechaPublicacion": "2026-09-16",
+      "lat": 4.692118,
+      "lon": -74.0998123,
       "location_type": "exacta",
       "zonaConsulta": "SANTA HELENITA",
       "zonaSlug": "santa-helenita",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -103,8 +80,11 @@
       "tipoPortal": "Apartamento",
       "precio": 330000000,
       "area": 47.0,
+      "precioM2": 7021277,
       "administracion": null,
       "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -124,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -132,8 +112,11 @@
       "tipoPortal": "Apartamento",
       "precio": 380000000,
       "area": 60.0,
+      "precioM2": 6333333,
       "administracion": null,
       "barrio": "FLORIDA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -153,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -161,8 +144,11 @@
       "tipoPortal": "Apartamento",
       "precio": 380000000,
       "area": 60.0,
+      "precioM2": 6333333,
       "administracion": null,
-      "barrio": "ENGATIVÁ",
+      "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -182,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -190,8 +176,11 @@
       "tipoPortal": "Apartamento",
       "precio": 460000000,
       "area": 58.0,
+      "precioM2": 7931034,
       "administracion": 430000.0,
-      "barrio": "LA CLARITA",
+      "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -211,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -219,8 +208,11 @@
       "tipoPortal": "Apartamento",
       "precio": 520000000,
       "area": 57.0,
+      "precioM2": 9122807,
       "administracion": 428000.0,
-      "barrio": "CHAPINERO ALTO",
+      "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
@@ -240,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -248,8 +240,11 @@
       "tipoPortal": "Apartamento",
       "precio": 295000000,
       "area": 49.0,
+      "precioM2": 6020408,
       "administracion": 284000.0,
       "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 1,
@@ -269,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -277,8 +272,11 @@
       "tipoPortal": "Apartamento",
       "precio": 380000000,
       "area": 60.0,
+      "precioM2": 6333333,
       "administracion": null,
-      "barrio": "LA CLARITA",
+      "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -298,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -306,8 +304,11 @@
       "tipoPortal": "Apartamento",
       "precio": 230000000,
       "area": 53.0,
+      "precioM2": 4339623,
       "administracion": 289000.0,
       "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 1,
@@ -327,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -335,8 +336,11 @@
       "tipoPortal": "Apartamento",
       "precio": 355000000,
       "area": 60.0,
+      "precioM2": 5916667,
       "administracion": 70000.0,
-      "barrio": "ENGATIVÁ",
+      "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -356,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -364,8 +368,11 @@
       "tipoPortal": "Apartamento",
       "precio": 290000000,
       "area": 64.0,
+      "precioM2": 4531250,
       "administracion": 336900.0,
-      "barrio": "ZARZAMORA",
+      "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -385,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -393,8 +400,11 @@
       "tipoPortal": "Apartamento",
       "precio": 295000000,
       "area": 61.0,
+      "precioM2": 4836066,
       "administracion": 200300.0,
       "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 1,
@@ -414,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -422,8 +432,11 @@
       "tipoPortal": "Apartamento",
       "precio": 379500000,
       "area": 60.0,
+      "precioM2": 6325000,
       "administracion": null,
-      "barrio": "ZARZAMORA",
+      "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -443,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -451,8 +464,11 @@
       "tipoPortal": "Apartamento",
       "precio": 380000000,
       "area": 60.0,
+      "precioM2": 6333333,
       "administracion": null,
-      "barrio": "ZARZAMORA",
+      "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -472,36 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 380000000,
-      "area": 60.0,
-      "administracion": null,
-      "barrio": "FLORIDA",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-florida/194233215",
-      "titulo": "Apartamento en Venta en Florida",
-      "id_domus": "194233215",
-      "fechaPublicacion": "2026-09-09",
-      "lat": 4.694541,
-      "lon": -74.107202,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA HELENITA",
-      "zonaSlug": "santa-helenita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -509,8 +496,11 @@
       "tipoPortal": "Apartamento",
       "precio": 350000000,
       "area": 75.0,
+      "precioM2": 4666667,
       "administracion": null,
-      "barrio": "SAN MARCOS",
+      "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -530,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -538,8 +528,11 @@
       "tipoPortal": "Apartamento",
       "precio": 290000000,
       "area": 61.0,
+      "precioM2": 4754098,
       "administracion": 312000.0,
       "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -559,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -567,8 +560,11 @@
       "tipoPortal": "Apartamento",
       "precio": 563000000,
       "area": 63.0,
+      "precioM2": 8936508,
       "administracion": 378000.0,
-      "barrio": "HAYUELOS",
+      "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -588,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -596,8 +592,11 @@
       "tipoPortal": "Apartamento",
       "precio": 380000000,
       "area": 0.0,
+      "precioM2": null,
       "administracion": 50000.0,
-      "barrio": "ENGATIVÁ",
+      "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,

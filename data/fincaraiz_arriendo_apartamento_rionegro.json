@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 11,
   "zona": "RIONEGRO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.25 20:48",
+  "generado": "2026.SEP.26 23:58",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -238,6 +238,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 20.0,
+      "precioM2": 100000,
+      "administracion": null,
+      "barrio": "RIONEGRO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/192628810",
+      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
+      "id_domus": "192628810",
+      "fechaPublicacion": "2025-07-11",
+      "lat": 4.680816,
+      "lon": -74.063537,
+      "location_type": "exacta",
+      "zonaConsulta": "RIONEGRO",
+      "zonaSlug": "rionegro",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 5000000,
       "area": 114.0,
       "precioM2": 43860,
@@ -264,7 +296,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 20.0,
+      "precioM2": 100000,
+      "administracion": 290000.0,
+      "barrio": "LA CASTELLANA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-castellana-bogota/194318810",
+      "titulo": "Apartamento en Arriendo en La castellana, Bogotá",
+      "id_domus": "194318810",
+      "fechaPublicacion": "2026-09-25",
+      "lat": 4.6807748,
+      "lon": -74.063444,
+      "location_type": "exacta",
+      "zonaConsulta": "RIONEGRO",
+      "zonaSlug": "rionegro",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],

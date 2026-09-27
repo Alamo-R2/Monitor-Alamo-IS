@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 16,
+  "total": 15,
   "zona": "LA SOLEDAD NORTE",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 16:03",
+  "generado": "2026.SEP.26 23:58",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -16,8 +16,11 @@
       "tipoPortal": "Apartamento",
       "precio": 390000000,
       "area": 80.0,
+      "precioM2": 4875000,
       "administracion": 100000.0,
       "barrio": "LA SOLEDAD NORTE",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -43,39 +46,13 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 208000000,
-      "area": 60.0,
-      "administracion": null,
-      "barrio": "LA GRANJA",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-granja-bogota/192712564",
-      "titulo": "Apartamento en Venta en La granja, Bogotá",
-      "id_domus": "192712564",
-      "fechaPublicacion": "2025-08-02",
-      "lat": 4.6989203,
-      "lon": -74.0997401,
-      "location_type": "exacta",
-      "zonaConsulta": "LA SOLEDAD NORTE",
-      "zonaSlug": "la-soledad-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 250000000,
       "area": 32.0,
+      "precioM2": 7812500,
       "administracion": 158000.0,
-      "barrio": "ENGATIVÁ",
+      "barrio": "LA SOLEDAD NORTE",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -95,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -103,8 +80,11 @@
       "tipoPortal": "Apartamento",
       "precio": 212000000,
       "area": 50.0,
+      "precioM2": 4240000,
       "administracion": null,
       "barrio": "BOSA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -124,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -132,8 +112,11 @@
       "tipoPortal": "Apartamento",
       "precio": 400000000,
       "area": 82.0,
+      "precioM2": 4878049,
       "administracion": 100000.0,
       "barrio": "LA SOLEDAD NORTE",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -153,36 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 240000000,
-      "area": 41.0,
-      "administracion": 120000.0,
-      "barrio": "LA ALMERIA",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-almeria-bogota/193616928",
-      "titulo": "Apartamento en Venta en La almeria, Bogotá",
-      "id_domus": "193616928",
-      "fechaPublicacion": "2026-04-10",
-      "lat": 4.6981853,
-      "lon": -74.1040092,
-      "location_type": "exacta",
-      "zonaConsulta": "LA SOLEDAD NORTE",
-      "zonaSlug": "la-soledad-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -190,8 +144,11 @@
       "tipoPortal": "Apartamento",
       "precio": 250000000,
       "area": 54.0,
+      "precioM2": 4629630,
       "administracion": 60000.0,
       "barrio": "TABORA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -211,36 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 60.0,
-      "administracion": null,
-      "barrio": "LA SOLEDAD NORTE",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-soledad-norte-bogota/192454645",
-      "titulo": "Apartamento en Venta en La soledad norte, Bogotá",
-      "id_domus": "192454645",
-      "fechaPublicacion": "2025-05-27",
-      "lat": 4.6991143,
-      "lon": -74.1012386,
-      "location_type": "exacta",
-      "zonaConsulta": "LA SOLEDAD NORTE",
-      "zonaSlug": "la-soledad-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -248,8 +176,11 @@
       "tipoPortal": "Apartamento",
       "precio": 270000000,
       "area": 68.0,
+      "precioM2": 3970588,
       "administracion": null,
-      "barrio": "ENGATIVÁ",
+      "barrio": "LA SOLEDAD NORTE",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -269,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -277,8 +208,11 @@
       "tipoPortal": "Apartamento",
       "precio": 250000000,
       "area": 32.0,
+      "precioM2": 7812500,
       "administracion": 158000.0,
-      "barrio": "ENGATIVÁ",
+      "barrio": "LA SOLEDAD NORTE",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -298,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -306,8 +240,11 @@
       "tipoPortal": "Apartamento",
       "precio": 250000000,
       "area": 54.0,
+      "precioM2": 4629630,
       "administracion": null,
       "barrio": "TABORA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -327,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -335,8 +272,11 @@
       "tipoPortal": "Apartamento",
       "precio": 395000000,
       "area": 68.0,
+      "precioM2": 5808824,
       "administracion": null,
       "barrio": "LA SOLEDAD NORTE",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -356,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -364,8 +304,11 @@
       "tipoPortal": "Apartamento",
       "precio": 400000000,
       "area": 90.0,
+      "precioM2": 4444444,
       "administracion": 100000.0,
       "barrio": "LA SOLEDAD",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -385,7 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 390000000,
+      "area": 84.0,
+      "precioM2": 4642857,
+      "administracion": 80000.0,
+      "barrio": "LA SOLEDAD NORTE",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-soledad-norte-bogota/194308101",
+      "titulo": "Apartamento en Venta en La soledad norte, Bogotá",
+      "id_domus": "194308101",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.6991143,
+      "lon": -74.1012386,
+      "location_type": "exacta",
+      "zonaConsulta": "LA SOLEDAD NORTE",
+      "zonaSlug": "la-soledad-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -393,8 +368,11 @@
       "tipoPortal": "Apartamento",
       "precio": 250000000,
       "area": 32.0,
+      "precioM2": 7812500,
       "administracion": 158000.0,
-      "barrio": "ENGATIVÁ",
+      "barrio": "LA SOLEDAD NORTE",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -414,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -422,8 +400,11 @@
       "tipoPortal": "Apartamento",
       "precio": 352000000,
       "area": 73.0,
+      "precioM2": 4821918,
       "administracion": 76000.0,
       "barrio": "LA GRANJA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -443,7 +424,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 41.0,
+      "precioM2": 5853659,
+      "administracion": 120000.0,
+      "barrio": "LA SOLEDAD NORTE",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-almeria-bogota/193616928",
+      "titulo": "Apartamento en Venta en La almeria, Bogotá",
+      "id_domus": "193616928",
+      "fechaPublicacion": "2026-04-10",
+      "lat": 4.6981853,
+      "lon": -74.1040092,
+      "location_type": "exacta",
+      "zonaConsulta": "LA SOLEDAD NORTE",
+      "zonaSlug": "la-soledad-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -451,8 +464,11 @@
       "tipoPortal": "Apartamento",
       "precio": 580000000,
       "area": 78.0,
+      "precioM2": 7435897,
       "administracion": 600000.0,
       "barrio": "LA SOLEDAD NORTE",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
