@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 14:29",
+  "generado": "2026.SEP.27 20:32",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 890000,
+      "area": 38.0,
+      "precioM2": 23421,
+      "administracion": null,
+      "barrio": "HIPOTECHO",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-americas-central-bogota/194311460",
+      "titulo": "Apartamento en Arriendo en Américas Central, Bogotá",
+      "id_domus": "194311460",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.6281553,
+      "lon": -74.1265526,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO",
+      "zonaSlug": "hipotecho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1785000,
       "area": 65.0,
       "precioM2": 27462,
@@ -104,135 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2200000,
-      "area": 50.0,
-      "precioM2": 44000,
-      "administracion": null,
-      "barrio": "HIPOTECHO",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-hipotecho-bogota/194260163",
-      "titulo": "Apartamento en Arriendo en Hipotecho, Bogotá",
-      "id_domus": "194260163",
-      "fechaPublicacion": "2026-09-15",
-      "lat": 4.625455660105,
-      "lon": -74.135312733303,
-      "location_type": "exacta",
-      "zonaConsulta": "HIPOTECHO",
-      "zonaSlug": "hipotecho",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1900000,
-      "area": 70.0,
-      "precioM2": 27143,
-      "administracion": null,
-      "barrio": "TECHO",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-techo-bogota/194292195",
-      "titulo": "Apartamento en Arriendo en Techo, Bogotá",
-      "id_domus": "194292195",
-      "fechaPublicacion": "2026-09-22",
-      "lat": 4.6279931,
-      "lon": -74.1364674,
-      "location_type": "exacta",
-      "zonaConsulta": "HIPOTECHO",
-      "zonaSlug": "hipotecho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 49.0,
-      "precioM2": 36735,
-      "administracion": null,
-      "barrio": "CASTILLA",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/193738477",
-      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
-      "id_domus": "193738477",
-      "fechaPublicacion": "2026-05-12",
-      "lat": 4.630387,
-      "lon": -74.1376756,
-      "location_type": "exacta",
-      "zonaConsulta": "HIPOTECHO",
-      "zonaSlug": "hipotecho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 45.0,
-      "precioM2": 40000,
-      "administracion": null,
-      "barrio": "HIPOTECHO",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nueva-marsella-bogota/194045999",
-      "titulo": "Apartamento en Arriendo en Nueva Marsella, Bogotá",
-      "id_domus": "194045999",
-      "fechaPublicacion": "2026-07-28",
-      "lat": 4.6292347,
-      "lon": -74.1278398,
-      "location_type": "exacta",
-      "zonaConsulta": "HIPOTECHO",
-      "zonaSlug": "hipotecho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -418,6 +322,102 @@
       "fechaPublicacion": "2026-09-21",
       "lat": 4.625455660105,
       "lon": -74.135312733303,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO",
+      "zonaSlug": "hipotecho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2200000,
+      "area": 50.0,
+      "precioM2": 44000,
+      "administracion": null,
+      "barrio": "HIPOTECHO",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-hipotecho-bogota/194260163",
+      "titulo": "Apartamento en Arriendo en Hipotecho, Bogotá",
+      "id_domus": "194260163",
+      "fechaPublicacion": "2026-09-15",
+      "lat": 4.625455660105,
+      "lon": -74.135312733303,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO",
+      "zonaSlug": "hipotecho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 49.0,
+      "precioM2": 36735,
+      "administracion": null,
+      "barrio": "CASTILLA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/193738477",
+      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
+      "id_domus": "193738477",
+      "fechaPublicacion": "2026-05-12",
+      "lat": 4.630387,
+      "lon": -74.1376756,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO",
+      "zonaSlug": "hipotecho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 45.0,
+      "precioM2": 40000,
+      "administracion": null,
+      "barrio": "HIPOTECHO",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nueva-marsella-bogota/194045999",
+      "titulo": "Apartamento en Arriendo en Nueva Marsella, Bogotá",
+      "id_domus": "194045999",
+      "fechaPublicacion": "2026-07-28",
+      "lat": 4.6292347,
+      "lon": -74.1278398,
       "location_type": "exacta",
       "zonaConsulta": "HIPOTECHO",
       "zonaSlug": "hipotecho",

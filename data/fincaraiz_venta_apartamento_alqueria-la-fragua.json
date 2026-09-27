@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 05:32",
+  "generado": "2026.SEP.27 20:32",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 350000000,
-      "area": 100.0,
-      "precioM2": 3500000,
-      "administracion": null,
-      "barrio": "ALQUERIA LA FRAGUA II",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alqueria-la-fragua-ii-bogota/191338676",
-      "titulo": "Apartamento en  Venta en Alqueria la fragua ii, Bogotá",
-      "id_domus": "191338676",
-      "fechaPublicacion": "2024-09-06",
-      "lat": 4.604082,
-      "lon": -74.1390866,
-      "location_type": "exacta",
-      "zonaConsulta": "ALQUERIA LA FRAGUA",
-      "zonaSlug": "alqueria-la-fragua",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-08-04",
       "lat": 4.6000872,
       "lon": -74.1374258,
+      "location_type": "exacta",
+      "zonaConsulta": "ALQUERIA LA FRAGUA",
+      "zonaSlug": "alqueria-la-fragua",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 100.0,
+      "precioM2": 3500000,
+      "administracion": null,
+      "barrio": "ALQUERIA LA FRAGUA II",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alqueria-la-fragua-ii-bogota/191338676",
+      "titulo": "Apartamento en  Venta en Alqueria la fragua ii, Bogotá",
+      "id_domus": "191338676",
+      "fechaPublicacion": "2024-09-06",
+      "lat": 4.604082,
+      "lon": -74.1390866,
       "location_type": "exacta",
       "zonaConsulta": "ALQUERIA LA FRAGUA",
       "zonaSlug": "alqueria-la-fragua",

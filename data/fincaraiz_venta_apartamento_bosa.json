@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 14:52",
+  "generado": "2026.SEP.27 20:32",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 147000000,
+      "area": 45.0,
+      "precioM2": 3266667,
+      "administracion": null,
+      "barrio": "BOSA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-porvenir-bogota/194191808",
+      "titulo": "Apartamento en Venta en Bosa Porvenir, Bogotá",
+      "id_domus": "194191808",
+      "fechaPublicacion": "2026-09-01",
+      "lat": 4.6437749,
+      "lon": -74.1881198,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSA",
+      "zonaSlug": "bosa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-09-16",
       "lat": 4.6377500342703,
       "lon": -74.189097318052,
-      "location_type": "exacta",
-      "zonaConsulta": "BOSA",
-      "zonaSlug": "bosa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 147000000,
-      "area": 45.0,
-      "precioM2": 3266667,
-      "administracion": null,
-      "barrio": "BOSA",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-porvenir-bogota/194191808",
-      "titulo": "Apartamento en Venta en Bosa Porvenir, Bogotá",
-      "id_domus": "194191808",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.6437749,
-      "lon": -74.1881198,
       "location_type": "exacta",
       "zonaConsulta": "BOSA",
       "zonaSlug": "bosa",
