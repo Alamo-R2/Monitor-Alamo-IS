@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 10,
   "zona": "PAULO VI",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 21:17",
+  "generado": "2026.SEP.27 05:55",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -16,8 +16,11 @@
       "tipoPortal": "Apartamento",
       "precio": 2600000,
       "area": 38.0,
+      "precioM2": 68421,
       "administracion": null,
       "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -43,10 +46,45 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 4147800,
+      "area": 86.0,
+      "precioM2": 48230,
+      "administracion": 502200.0,
+      "barrio": "PAULO VI",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quirinal-bogota/194311374",
+      "titulo": "Apartamento en Arriendo en Quirinal, Bogotá",
+      "id_domus": "194311374",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.653005089915,
+      "lon": -74.087195663754,
+      "location_type": "exacta",
+      "zonaConsulta": "PAULO VI",
+      "zonaSlug": "paulo-vi",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 3643366,
       "area": 112.0,
+      "precioM2": 32530,
       "administracion": 388834.0,
       "barrio": "PABLO VI NORTE",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 4,
       "banos": 2,
@@ -66,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -74,8 +112,11 @@
       "tipoPortal": "Apartamento",
       "precio": 3000000,
       "area": 82.0,
+      "precioM2": 36585,
       "administracion": 293000.0,
       "barrio": "PAULO VI",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -95,7 +136,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3450000,
+      "area": 112.0,
+      "precioM2": 30804,
+      "administracion": 350000.0,
+      "barrio": "PABLO VI NORTE",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-pablo-vi-norte-bogota/194318787",
+      "titulo": "Apartamento en Arriendo en Pablo vi norte, Bogotá",
+      "id_domus": "194318787",
+      "fechaPublicacion": "2026-09-25",
+      "lat": 4.6503001,
+      "lon": -74.0870258,
+      "location_type": "exacta",
+      "zonaConsulta": "PAULO VI",
+      "zonaSlug": "paulo-vi",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -103,8 +176,11 @@
       "tipoPortal": "Apartamento",
       "precio": 3430000,
       "area": 57.0,
+      "precioM2": 60175,
       "administracion": 770000.0,
       "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -124,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -132,8 +208,11 @@
       "tipoPortal": "Apartamento",
       "precio": 2450000,
       "area": 34.0,
+      "precioM2": 72059,
       "administracion": null,
       "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -153,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -161,8 +240,11 @@
       "tipoPortal": "Apartamento",
       "precio": 4398568,
       "area": 132.0,
+      "precioM2": 33322,
       "administracion": 401432.0,
       "barrio": "GALERIAS",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 4,
       "banos": 2,
@@ -182,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -190,8 +272,11 @@
       "tipoPortal": "Apartamento",
       "precio": 3500000,
       "area": 92.0,
+      "precioM2": 38043,
       "administracion": 254300.0,
-      "barrio": "QUIRINAL",
+      "barrio": "PAULO VI",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
@@ -211,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -219,8 +304,11 @@
       "tipoPortal": "Apartamento",
       "precio": 1600000,
       "area": 38.0,
+      "precioM2": 42105,
       "administracion": null,
       "barrio": "PABLO VI NORTE",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,

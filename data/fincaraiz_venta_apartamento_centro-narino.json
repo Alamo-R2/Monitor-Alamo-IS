@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 21:17",
+  "generado": "2026.SEP.27 05:55",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -16,8 +16,11 @@
       "tipoPortal": "Apartamento",
       "precio": 301326480,
       "area": 36.0,
+      "precioM2": 8370180,
       "administracion": null,
       "barrio": "LA FLORIDA OCCIDENTAL",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -43,39 +46,13 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 695000000,
-      "area": 77.0,
-      "administracion": 771065.0,
-      "barrio": "TEUSAQUILLO",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/194285511",
-      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
-      "id_domus": "194285511",
-      "fechaPublicacion": "2026-09-20",
-      "lat": 4.6307786,
-      "lon": -74.0932459,
-      "location_type": "exacta",
-      "zonaConsulta": "CENTRO NARINO",
-      "zonaSlug": "centro-narino",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 205000000,
       "area": 18.0,
+      "precioM2": 11388889,
       "administracion": 285000.0,
       "barrio": "EL RECUERDO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -95,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -103,8 +80,11 @@
       "tipoPortal": "Apartamento",
       "precio": 490000000,
       "area": 56.0,
+      "precioM2": 8750000,
       "administracion": 923000.0,
       "barrio": "QUINTA PAREDES",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -124,36 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 790000000,
-      "area": 79.0,
-      "administracion": 497000.0,
-      "barrio": "TEUSAQUILLO",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/194159599",
-      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
-      "id_domus": "194159599",
-      "fechaPublicacion": "2026-08-24",
-      "lat": 4.6261816,
-      "lon": -74.0860539,
-      "location_type": "exacta",
-      "zonaConsulta": "CENTRO NARINO",
-      "zonaSlug": "centro-narino",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -161,8 +112,11 @@
       "tipoPortal": "Apartamento",
       "precio": 695000000,
       "area": 77.0,
+      "precioM2": 9025974,
       "administracion": 771000.0,
       "barrio": "QUINTA PAREDES",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -182,45 +136,19 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 520000000,
-      "area": 83.0,
-      "administracion": 304000.0,
-      "barrio": "QUINTA PAREDES",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quinta-paredes-bogota/193983826",
-      "titulo": "Apartamento en Venta en Quinta paredes, Bogotá",
-      "id_domus": "193983826",
-      "fechaPublicacion": "2026-07-13",
-      "lat": 4.6308751,
-      "lon": -74.0936512,
-      "location_type": "exacta",
-      "zonaConsulta": "CENTRO NARINO",
-      "zonaSlug": "centro-narino",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 520000000,
-      "area": 52.0,
+      "area": 56.0,
+      "precioM2": 9285714,
       "administracion": 920000.0,
       "barrio": "QUINTA PAREDES",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -240,7 +168,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 695000000,
+      "area": 77.0,
+      "precioM2": 9025974,
+      "administracion": 771065.0,
+      "barrio": "QUINTA PAREDES",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quinta-paredes-bogota/194293720",
+      "titulo": "Apartamento en Venta en Quinta paredes, Bogotá",
+      "id_domus": "194293720",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.6307786,
+      "lon": -74.0932459,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTRO NARINO",
+      "zonaSlug": "centro-narino",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 695000000,
+      "area": 77.0,
+      "precioM2": 9025974,
+      "administracion": 771065.0,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/194285511",
+      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
+      "id_domus": "194285511",
+      "fechaPublicacion": "2026-09-20",
+      "lat": 4.6307786,
+      "lon": -74.0932459,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTRO NARINO",
+      "zonaSlug": "centro-narino",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -248,8 +240,11 @@
       "tipoPortal": "Apartamento",
       "precio": 800000000,
       "area": 79.0,
+      "precioM2": 10126582,
       "administracion": 500000.0,
       "barrio": "CENTRO NARINO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -269,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -277,8 +272,11 @@
       "tipoPortal": "Apartamento",
       "precio": 540000000,
       "area": 81.0,
+      "precioM2": 6666667,
       "administracion": 100000.0,
       "barrio": "INDUSTRIAL CENTENARIO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -298,36 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 500000000,
-      "area": 62.0,
-      "administracion": 350000.0,
-      "barrio": "GRAN AMERICA",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-america-bogota/194242858",
-      "titulo": "Apartamento en Venta en Gran america, Bogotá",
-      "id_domus": "194242858",
-      "fechaPublicacion": "2026-09-11",
-      "lat": 4.6261491,
-      "lon": -74.0860562,
-      "location_type": "exacta",
-      "zonaConsulta": "CENTRO NARINO",
-      "zonaSlug": "centro-narino",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -335,8 +304,11 @@
       "tipoPortal": "Apartamento",
       "precio": 650000000,
       "area": 101.0,
+      "precioM2": 6435644,
       "administracion": null,
       "barrio": "CENTRO NARINO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -356,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -364,8 +336,11 @@
       "tipoPortal": "Apartamento",
       "precio": 380000000,
       "area": 35.0,
+      "precioM2": 10857143,
       "administracion": 295000.0,
       "barrio": "CENTRO NARINO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -385,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -393,8 +368,11 @@
       "tipoPortal": "Apartamento",
       "precio": 695000000,
       "area": 77.0,
+      "precioM2": 9025974,
       "administracion": 771000.0,
       "barrio": "QUINTA PAREDES",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -414,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -422,8 +400,11 @@
       "tipoPortal": "Apartamento",
       "precio": 670000000,
       "area": 101.0,
+      "precioM2": 6633663,
       "administracion": 350000.0,
       "barrio": "CENTRO NARINO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -443,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -451,8 +432,11 @@
       "tipoPortal": "Apartamento",
       "precio": 695000000,
       "area": 77.0,
+      "precioM2": 9025974,
       "administracion": 771000.0,
       "barrio": "TEUSAQUILLO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -472,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -480,8 +464,11 @@
       "tipoPortal": "Apartamento",
       "precio": 420000000,
       "area": 64.0,
+      "precioM2": 6562500,
       "administracion": 550000.0,
       "barrio": "EL RECUERDO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -501,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -509,11 +496,14 @@
       "tipoPortal": "Apartamento",
       "precio": 498100000,
       "area": 49.0,
+      "precioM2": 10165306,
       "administracion": null,
       "barrio": "QUINTA PAREDES",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
+      "habitaciones": 1,
+      "banos": 1,
       "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
@@ -530,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -538,8 +528,43 @@
       "tipoPortal": "Apartamento",
       "precio": 790000000,
       "area": 79.0,
+      "precioM2": 10000000,
+      "administracion": 497000.0,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/194159599",
+      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
+      "id_domus": "194159599",
+      "fechaPublicacion": "2026-08-24",
+      "lat": 4.6261816,
+      "lon": -74.0860539,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTRO NARINO",
+      "zonaSlug": "centro-narino",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 790000000,
+      "area": 79.0,
+      "precioM2": 10000000,
       "administracion": 497000.0,
       "barrio": "GRAN AMERICA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -559,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -567,8 +592,11 @@
       "tipoPortal": "Apartamento",
       "precio": 324121180,
       "area": 33.0,
+      "precioM2": 9821854,
       "administracion": null,
       "barrio": "TEUSAQUILLO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -588,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -596,8 +624,11 @@
       "tipoPortal": "Apartamento",
       "precio": 720000000,
       "area": 80.0,
+      "precioM2": 9000000,
       "administracion": 450000.0,
       "barrio": "GRAN AMERICA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -611,6 +642,38 @@
       "fechaPublicacion": "2026-03-26",
       "lat": 4.626149,
       "lon": -74.086056,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTRO NARINO",
+      "zonaSlug": "centro-narino",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 720000000,
+      "area": 80.0,
+      "precioM2": 9000000,
+      "administracion": 450000.0,
+      "barrio": "GRAN AMERICA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-america-bogota/194136755",
+      "titulo": "Apartamento en Venta en Gran america, Bogotá",
+      "id_domus": "194136755",
+      "fechaPublicacion": "2026-08-19",
+      "lat": 4.6261816,
+      "lon": -74.0860539,
       "location_type": "exacta",
       "zonaConsulta": "CENTRO NARINO",
       "zonaSlug": "centro-narino",

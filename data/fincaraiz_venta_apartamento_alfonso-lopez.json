@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 21:17",
+  "generado": "2026.SEP.27 05:55",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -16,8 +16,11 @@
       "tipoPortal": "Apartamento",
       "precio": 522500000,
       "area": 48.0,
+      "precioM2": 10885417,
       "administracion": null,
       "barrio": "TEUSAQUILLO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -45,8 +48,11 @@
       "tipoPortal": "Apartamento",
       "precio": 450000000,
       "area": 86.0,
+      "precioM2": 5232558,
       "administracion": null,
       "barrio": "GALERIAS",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -72,10 +78,77 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 450000000,
+      "area": 52.0,
+      "precioM2": 8653846,
+      "administracion": 645000.0,
+      "barrio": "GALERIAS",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-galerias-bogota/194027378",
+      "titulo": "Apartamento en Venta en Galerias, Bogotá",
+      "id_domus": "194027378",
+      "fechaPublicacion": "2026-07-23",
+      "lat": 4.6392763,
+      "lon": -74.0766125,
+      "location_type": "exacta",
+      "zonaConsulta": "ALFONSO LOPEZ",
+      "zonaSlug": "alfonso-lopez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 507000000,
+      "area": 63.0,
+      "precioM2": 8047619,
+      "administracion": 191000.0,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/194319243",
+      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
+      "id_domus": "194319243",
+      "fechaPublicacion": "2026-09-25",
+      "lat": 4.6389062,
+      "lon": -74.0733023,
+      "location_type": "exacta",
+      "zonaConsulta": "ALFONSO LOPEZ",
+      "zonaSlug": "alfonso-lopez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 310000000,
       "area": 45.0,
+      "precioM2": 6888889,
       "administracion": 312000.0,
       "barrio": "PALERMO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -95,16 +168,51 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 395000000,
+      "precio": 290000000,
+      "area": 26.0,
+      "precioM2": 11153846,
+      "administracion": 308000.0,
+      "barrio": "ACEVEDO TEJADA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-acevedo-tejada-bogota/194052906",
+      "titulo": "Apartamento en Venta en Acevedo tejada, Bogotá",
+      "id_domus": "194052906",
+      "fechaPublicacion": "2026-07-30",
+      "lat": 4.638333,
+      "lon": -74.075091,
+      "location_type": "exacta",
+      "zonaConsulta": "ALFONSO LOPEZ",
+      "zonaSlug": "alfonso-lopez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 390000000,
       "area": 50.0,
+      "precioM2": 7800000,
       "administracion": 330000.0,
       "barrio": "ALFONSO LOPEZ",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
@@ -124,36 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 499000000,
-      "area": 102.0,
-      "administracion": null,
-      "barrio": "GALERIAS",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-galerias-bogota/194150594",
-      "titulo": "Apartamento en Venta en Galerias, Bogotá",
-      "id_domus": "194150594",
-      "fechaPublicacion": "2026-08-23",
-      "lat": 4.6406787,
-      "lon": -74.0745336,
-      "location_type": "exacta",
-      "zonaConsulta": "ALFONSO LOPEZ",
-      "zonaSlug": "alfonso-lopez",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -161,8 +240,11 @@
       "tipoPortal": "Apartamento",
       "precio": 419000000,
       "area": 40.0,
+      "precioM2": 10475000,
       "administracion": 250000.0,
       "barrio": "BELALCAZAR",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
@@ -182,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -190,8 +272,11 @@
       "tipoPortal": "Apartamento",
       "precio": 430000000,
       "area": 112.0,
+      "precioM2": 3839286,
       "administracion": 80000.0,
       "barrio": "PALERMO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
@@ -211,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -219,8 +304,11 @@
       "tipoPortal": "Apartamento",
       "precio": 225000000,
       "area": 22.0,
+      "precioM2": 10227273,
       "administracion": null,
       "barrio": "TEUSAQUILLO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -240,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -248,8 +336,11 @@
       "tipoPortal": "Apartamento",
       "precio": 246000000,
       "area": 32.0,
+      "precioM2": 7687500,
       "administracion": 263000.0,
       "barrio": "ALFONSO LOPEZ",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -269,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -277,8 +368,11 @@
       "tipoPortal": "Apartamento",
       "precio": 750000000,
       "area": 76.0,
+      "precioM2": 9868421,
       "administracion": 560000.0,
       "barrio": "BELALCAZAR",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -298,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -306,8 +400,11 @@
       "tipoPortal": "Apartamento",
       "precio": 500000000,
       "area": 97.0,
+      "precioM2": 5154639,
       "administracion": null,
       "barrio": "PALERMO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -327,7 +424,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 630000000,
+      "area": 129.0,
+      "precioM2": 4883721,
+      "administracion": 100000.0,
+      "barrio": "BELALCAZAR",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-belalcazar-bogota/194301254",
+      "titulo": "Apartamento en Venta en Belalcazar, Bogotá",
+      "id_domus": "194301254",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.64169283148,
+      "lon": -74.07679917015,
+      "location_type": "exacta",
+      "zonaConsulta": "ALFONSO LOPEZ",
+      "zonaSlug": "alfonso-lopez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -335,8 +464,11 @@
       "tipoPortal": "Apartamento",
       "precio": 235000000,
       "area": 25.0,
+      "precioM2": 9400000,
       "administracion": 241000.0,
       "barrio": "GALERIAS",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -356,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -364,8 +496,11 @@
       "tipoPortal": "Apartamento",
       "precio": 490000000,
       "area": 89.0,
+      "precioM2": 5505618,
       "administracion": 550000.0,
       "barrio": "GALERIAS",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -385,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -393,8 +528,11 @@
       "tipoPortal": "Apartamento",
       "precio": 215000000,
       "area": 32.0,
+      "precioM2": 6718750,
       "administracion": 619000.0,
       "barrio": "GALERIAS",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -414,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -422,8 +560,11 @@
       "tipoPortal": "Apartamento",
       "precio": 360000000,
       "area": 51.0,
+      "precioM2": 7058824,
       "administracion": null,
       "barrio": "ALFONSO LOPEZ",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -443,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -451,8 +592,11 @@
       "tipoPortal": "Apartamento",
       "precio": 500000000,
       "area": 97.0,
+      "precioM2": 5154639,
       "administracion": null,
       "barrio": "PALERMO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -472,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -480,8 +624,11 @@
       "tipoPortal": "Apartamento",
       "precio": 320000000,
       "area": 60.0,
+      "precioM2": 5333333,
       "administracion": null,
       "barrio": "GALERIAS",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -495,93 +642,6 @@
       "fechaPublicacion": "2024-10-21",
       "lat": 4.641264809594,
       "lon": -74.075658728404,
-      "location_type": "exacta",
-      "zonaConsulta": "ALFONSO LOPEZ",
-      "zonaSlug": "alfonso-lopez",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 478000000,
-      "area": 72.0,
-      "administracion": 170000.0,
-      "barrio": "TEUSAQUILLO",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/193950304",
-      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
-      "id_domus": "193950304",
-      "fechaPublicacion": "2026-07-03",
-      "lat": 4.6381478,
-      "lon": -74.0719804,
-      "location_type": "exacta",
-      "zonaConsulta": "ALFONSO LOPEZ",
-      "zonaSlug": "alfonso-lopez",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 375000000,
-      "area": 67.0,
-      "administracion": 90000.0,
-      "barrio": "ALFONSO LOPEZ",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alfonso-lopez-bogota/194098387",
-      "titulo": "Apartamento en Venta en Alfonso lopez, Bogotá",
-      "id_domus": "194098387",
-      "fechaPublicacion": "2026-08-11",
-      "lat": 4.6402177721547,
-      "lon": -74.073340121959,
-      "location_type": "exacta",
-      "zonaConsulta": "ALFONSO LOPEZ",
-      "zonaSlug": "alfonso-lopez",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 500000000,
-      "area": 97.0,
-      "administracion": null,
-      "barrio": "PALERMO",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-palermo-bogota/194079685",
-      "titulo": "Apartamento en Venta en Palermo, Bogotá",
-      "id_domus": "194079685",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.6368556,
-      "lon": -74.0739374,
       "location_type": "exacta",
       "zonaConsulta": "ALFONSO LOPEZ",
       "zonaSlug": "alfonso-lopez",

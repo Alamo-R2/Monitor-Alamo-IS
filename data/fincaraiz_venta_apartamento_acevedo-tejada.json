@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.21 21:17",
+  "generado": "2026.SEP.27 05:55",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -16,8 +16,11 @@
       "tipoPortal": "Apartamento",
       "precio": 635000000,
       "area": 122.0,
+      "precioM2": 5204918,
       "administracion": 615900.0,
       "barrio": "ACEVEDO TEJADA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -45,8 +48,11 @@
       "tipoPortal": "Apartamento",
       "precio": 395000000,
       "area": 64.0,
+      "precioM2": 6171875,
       "administracion": 30000.0,
       "barrio": "LA SOLEDAD",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -72,39 +78,13 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 450000000,
-      "area": 76.0,
-      "administracion": null,
-      "barrio": "ACEVEDO TEJADA",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-acevedo-tejada-bogota/193558134",
-      "titulo": "Apartamento en Venta en Acevedo tejada, Bogotá",
-      "id_domus": "193558134",
-      "fechaPublicacion": "2026-03-24",
-      "lat": 4.6297463687741,
-      "lon": -74.081840515137,
-      "location_type": "exacta",
-      "zonaConsulta": "ACEVEDO TEJADA",
-      "zonaSlug": "acevedo-tejada",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 420000000,
       "area": 105.0,
+      "precioM2": 4000000,
       "administracion": null,
       "barrio": "EL RECUERDO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 3,
@@ -124,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -132,8 +112,11 @@
       "tipoPortal": "Apartamento",
       "precio": 650000000,
       "area": 137.0,
+      "precioM2": 4744526,
       "administracion": 627300.0,
       "barrio": "ACEVEDO TEJADA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
@@ -153,7 +136,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 290000000,
+      "area": 26.0,
+      "precioM2": 11153846,
+      "administracion": 308000.0,
+      "barrio": "ACEVEDO TEJADA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-acevedo-tejada-bogota/194052906",
+      "titulo": "Apartamento en Venta en Acevedo tejada, Bogotá",
+      "id_domus": "194052906",
+      "fechaPublicacion": "2026-07-30",
+      "lat": 4.638333,
+      "lon": -74.075091,
+      "location_type": "exacta",
+      "zonaConsulta": "ACEVEDO TEJADA",
+      "zonaSlug": "acevedo-tejada",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 550000000,
+      "area": 132.0,
+      "precioM2": 4166667,
+      "administracion": null,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/194261678",
+      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
+      "id_domus": "194261678",
+      "fechaPublicacion": "2026-09-15",
+      "lat": 4.6319182,
+      "lon": -74.0794159,
+      "location_type": "exacta",
+      "zonaConsulta": "ACEVEDO TEJADA",
+      "zonaSlug": "acevedo-tejada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -161,8 +208,11 @@
       "tipoPortal": "Apartamento",
       "precio": 405000000,
       "area": 65.0,
+      "precioM2": 6230769,
       "administracion": 263000.0,
       "barrio": "QUINTA PAREDES",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
@@ -182,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -190,8 +240,11 @@
       "tipoPortal": "Apartamento",
       "precio": 544424000,
       "area": 45.0,
+      "precioM2": 12098311,
       "administracion": null,
       "barrio": "LA SOLEDAD",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
@@ -211,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -219,8 +272,11 @@
       "tipoPortal": "Apartamento",
       "precio": 610000000,
       "area": 121.0,
+      "precioM2": 5041322,
       "administracion": 120000.0,
       "barrio": "TEUSAQUILLO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -240,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -248,8 +304,11 @@
       "tipoPortal": "Apartamento",
       "precio": 899000000,
       "area": 202.0,
+      "precioM2": 4450495,
       "administracion": null,
       "barrio": "ACEVEDO TEJADA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 4,
       "banos": 4,
@@ -269,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -277,8 +336,11 @@
       "tipoPortal": "Apartamento",
       "precio": 550000000,
       "area": 132.0,
+      "precioM2": 4166667,
       "administracion": null,
       "barrio": "LA SOLEDAD",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -298,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -306,8 +368,11 @@
       "tipoPortal": "Apartamento",
       "precio": 410000000,
       "area": 91.0,
+      "precioM2": 4505495,
       "administracion": 135000.0,
       "barrio": "ACEVEDO TEJADA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -327,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -335,8 +400,11 @@
       "tipoPortal": "Apartamento",
       "precio": 850000000,
       "area": 121.0,
+      "precioM2": 7024793,
       "administracion": 100000.0,
       "barrio": "GRAN AMERICA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 4,
       "banos": 3,
@@ -356,7 +424,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 450000000,
+      "area": 76.0,
+      "precioM2": 5921053,
+      "administracion": null,
+      "barrio": "ACEVEDO TEJADA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-acevedo-tejada-bogota/193558134",
+      "titulo": "Apartamento en Venta en Acevedo tejada, Bogotá",
+      "id_domus": "193558134",
+      "fechaPublicacion": "2026-03-24",
+      "lat": 4.6297463687741,
+      "lon": -74.081840515137,
+      "location_type": "exacta",
+      "zonaConsulta": "ACEVEDO TEJADA",
+      "zonaSlug": "acevedo-tejada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -364,8 +464,11 @@
       "tipoPortal": "Apartamento",
       "precio": 540000000,
       "area": 123.0,
+      "precioM2": 4390244,
       "administracion": 660000.0,
       "barrio": "TEUSAQUILLO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -385,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -393,8 +496,11 @@
       "tipoPortal": "Apartamento",
       "precio": 640000000,
       "area": 136.0,
+      "precioM2": 4705882,
       "administracion": 627000.0,
       "barrio": "GRAN AMERICA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -414,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -422,8 +528,11 @@
       "tipoPortal": "Apartamento",
       "precio": 900000000,
       "area": 178.0,
+      "precioM2": 5056180,
       "administracion": 100000.0,
-      "barrio": "SOLEDAD",
+      "barrio": "ACEVEDO TEJADA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
@@ -443,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -451,8 +560,11 @@
       "tipoPortal": "Apartamento",
       "precio": 630000000,
       "area": 162.0,
+      "precioM2": 3888889,
       "administracion": 100000.0,
       "barrio": "LA SOLEDAD",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 4,
       "banos": 3,
@@ -472,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -480,8 +592,11 @@
       "tipoPortal": "Apartamento",
       "precio": 495000000,
       "area": 92.0,
+      "precioM2": 5380435,
       "administracion": 506000.0,
       "barrio": "ACEVEDO TEJADA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -501,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -509,8 +624,11 @@
       "tipoPortal": "Apartamento",
       "precio": 520000000,
       "area": 112.0,
+      "precioM2": 4642857,
       "administracion": 415000.0,
       "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 4,
       "banos": 3,
@@ -530,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -538,8 +656,11 @@
       "tipoPortal": "Apartamento",
       "precio": 550000000,
       "area": 111.0,
+      "precioM2": 4954955,
       "administracion": 700000.0,
       "barrio": "GRAN AMERICA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
@@ -553,64 +674,6 @@
       "fechaPublicacion": "2026-08-11",
       "lat": 4.6283945892079,
       "lon": -74.080883548262,
-      "location_type": "exacta",
-      "zonaConsulta": "ACEVEDO TEJADA",
-      "zonaSlug": "acevedo-tejada",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 560000000,
-      "area": 132.0,
-      "administracion": null,
-      "barrio": "LA SOLEDAD",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-soledad-bogota/193668351",
-      "titulo": "Apartamento en Venta en La soledad, Bogotá",
-      "id_domus": "193668351",
-      "fechaPublicacion": "2026-04-23",
-      "lat": 4.6319182,
-      "lon": -74.0794159,
-      "location_type": "exacta",
-      "zonaConsulta": "ACEVEDO TEJADA",
-      "zonaSlug": "acevedo-tejada",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 540000000,
-      "area": 132.0,
-      "administracion": null,
-      "barrio": "ACEVEDO TEJADA",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-acevedo-tejada-bogota/193729753",
-      "titulo": "Apartamento en Venta en Acevedo tejada, Bogotá",
-      "id_domus": "193729753",
-      "fechaPublicacion": "2026-05-09",
-      "lat": 4.6315805,
-      "lon": -74.0799572,
       "location_type": "exacta",
       "zonaConsulta": "ACEVEDO TEJADA",
       "zonaSlug": "acevedo-tejada",
