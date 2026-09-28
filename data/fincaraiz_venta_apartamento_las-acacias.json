@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 14:52",
+  "generado": "2026.SEP.28 00:04",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 450000000,
+      "area": 102.0,
+      "precioM2": 4411765,
+      "administracion": null,
+      "barrio": "LAS ACACIAS",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-acacias-bogota/193240756",
+      "titulo": "Apartamento en Venta en Las acacias, Bogotá",
+      "id_domus": "193240756",
+      "fechaPublicacion": "2025-12-31",
+      "lat": 4.72281,
+      "lon": -74.030064,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS ACACIAS",
+      "zonaSlug": "las-acacias",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2024-04-23",
       "lat": 4.6509663,
       "lon": -74.051269,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS ACACIAS",
-      "zonaSlug": "las-acacias",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 450000000,
-      "area": 102.0,
-      "precioM2": 4411765,
-      "administracion": null,
-      "barrio": "LAS ACACIAS",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-acacias-bogota/193240756",
-      "titulo": "Apartamento en Venta en Las acacias, Bogotá",
-      "id_domus": "193240756",
-      "fechaPublicacion": "2025-12-31",
-      "lat": 4.72281,
-      "lon": -74.030064,
       "location_type": "exacta",
       "zonaConsulta": "LAS ACACIAS",
       "zonaSlug": "las-acacias",

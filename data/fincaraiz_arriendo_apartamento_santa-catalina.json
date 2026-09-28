@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 9,
   "zona": "SANTA CATALINA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 14:14",
+  "generado": "2026.SEP.28 00:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,9 +46,41 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1350000,
+      "area": 44.0,
+      "precioM2": 30682,
+      "administracion": null,
+      "barrio": "SANTA CATALINA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nuevo-kennedy-bogota/194305265",
+      "titulo": "Apartamento en Arriendo en Nuevo kennedy, Bogotá",
+      "id_domus": "194305265",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.604559,
+      "lon": -74.15338,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CATALINA",
+      "zonaSlug": "santa-catalina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2000000,
-      "area": 60.0,
-      "precioM2": 33333,
+      "area": 84.0,
+      "precioM2": 23810,
       "administracion": null,
       "barrio": "BOITA",
       "upl": "Kennedy",
@@ -72,7 +104,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1150000,
+      "area": 61.0,
+      "precioM2": 18852,
+      "administracion": 250000.0,
+      "barrio": "SANTA CATALINA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-catalina-bogota/191386140",
+      "titulo": "Apartamento en  Arriendo en Santa catalina, Bogotá",
+      "id_domus": "191386140",
+      "fechaPublicacion": "2024-09-13",
+      "lat": 4.6054080887197,
+      "lon": -74.15237945504,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CATALINA",
+      "zonaSlug": "santa-catalina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -162,6 +226,70 @@
       "fechaPublicacion": "2026-09-15",
       "lat": 4.6072284,
       "lon": -74.1560687,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CATALINA",
+      "zonaSlug": "santa-catalina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000,
+      "area": 50.0,
+      "precioM2": 28000,
+      "administracion": null,
+      "barrio": "SANTA CATALINA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nuevo-kennedy-bogota/194293446",
+      "titulo": "Apartamento en Arriendo en Nuevo kennedy, Bogotá",
+      "id_domus": "194293446",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.604559,
+      "lon": -74.15338,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CATALINA",
+      "zonaSlug": "santa-catalina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1550000,
+      "area": 90.0,
+      "precioM2": 17222,
+      "administracion": null,
+      "barrio": "SANTA CATALINA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nuevo-kennedy-bogota/194318733",
+      "titulo": "Apartamento en Arriendo en Nuevo kennedy, Bogotá",
+      "id_domus": "194318733",
+      "fechaPublicacion": "2026-09-25",
+      "lat": 4.604559,
+      "lon": -74.15338,
       "location_type": "exacta",
       "zonaConsulta": "SANTA CATALINA",
       "zonaSlug": "santa-catalina",

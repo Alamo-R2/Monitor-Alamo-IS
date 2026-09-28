@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 20:32",
+  "generado": "2026.SEP.28 00:04",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 195000000,
+      "area": 50.0,
+      "precioM2": 3900000,
+      "administracion": 122000,
+      "barrio": "GRAN BRITALIA I",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-britalia-i-bogota/193792695",
+      "titulo": "Apartamento en Venta en Gran britalia i, Bogotá",
+      "id_domus": "193792695",
+      "fechaPublicacion": "2026-05-25",
+      "lat": 4.6264397470372,
+      "lon": -74.172793297093,
+      "location_type": "exacta",
+      "zonaConsulta": "GRAN BRITALIA I",
+      "zonaSlug": "gran-britalia-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-09-17",
       "lat": 4.6258851,
       "lon": -74.1717041,
-      "location_type": "exacta",
-      "zonaConsulta": "GRAN BRITALIA I",
-      "zonaSlug": "gran-britalia-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 195000000,
-      "area": 50.0,
-      "precioM2": 3900000,
-      "administracion": 122000,
-      "barrio": "GRAN BRITALIA I",
-      "upl": "Edén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-britalia-i-bogota/193792695",
-      "titulo": "Apartamento en Venta en Gran britalia i, Bogotá",
-      "id_domus": "193792695",
-      "fechaPublicacion": "2026-05-25",
-      "lat": 4.6264397470372,
-      "lon": -74.172793297093,
       "location_type": "exacta",
       "zonaConsulta": "GRAN BRITALIA I",
       "zonaSlug": "gran-britalia-i",

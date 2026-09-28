@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "EL CORZO I",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 14:14",
+  "generado": "2026.SEP.28 00:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 900000,
+      "area": 52.0,
+      "precioM2": 17308,
+      "administracion": null,
+      "barrio": "EL CORZO",
+      "upl": "Porvenir",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-corzo-bogota/194303065",
+      "titulo": "Apartamento en Arriendo en El corzo, Bogotá",
+      "id_domus": "194303065",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.643894493615,
+      "lon": -74.194429793254,
+      "location_type": "exacta",
+      "zonaConsulta": "EL CORZO I",
+      "zonaSlug": "el-corzo-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 806600,
       "area": 36.0,
       "precioM2": 22406,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],

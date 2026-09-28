@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 17,
+  "total": 18,
   "zona": "SALAZAR GOMEZ",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 05:39",
+  "generado": "2026.SEP.28 00:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,10 +14,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 320000000,
-      "area": 38.0,
-      "precioM2": 8421053,
-      "administracion": 230000.0,
+      "precio": 270000000,
+      "area": 40.0,
+      "precioM2": 6750000,
+      "administracion": 231000.0,
       "barrio": "SALAZAR GOMEZ",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
@@ -28,12 +28,12 @@
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salazar-gomez-bogota/193487114",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salazar-gomez-bogota/194321579",
       "titulo": "Apartamento en Venta en Salazar gomez, Bogotá",
-      "id_domus": "193487114",
-      "fechaPublicacion": "2026-03-10",
-      "lat": 4.6298744241047,
-      "lon": -74.121408053345,
+      "id_domus": "194321579",
+      "fechaPublicacion": "2026-09-26",
+      "lat": 4.62946,
+      "lon": -74.1218993,
       "location_type": "exacta",
       "zonaConsulta": "SALAZAR GOMEZ",
       "zonaSlug": "salazar-gomez",
@@ -238,6 +238,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 320000000,
+      "area": 38.0,
+      "precioM2": 8421053,
+      "administracion": 230000.0,
+      "barrio": "SALAZAR GOMEZ",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salazar-gomez-bogota/193487114",
+      "titulo": "Apartamento en Venta en Salazar gomez, Bogotá",
+      "id_domus": "193487114",
+      "fechaPublicacion": "2026-03-10",
+      "lat": 4.6298744241047,
+      "lon": -74.121408053345,
+      "location_type": "exacta",
+      "zonaConsulta": "SALAZAR GOMEZ",
+      "zonaSlug": "salazar-gomez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 355000000,
       "area": 38.0,
       "precioM2": 9342105,
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],

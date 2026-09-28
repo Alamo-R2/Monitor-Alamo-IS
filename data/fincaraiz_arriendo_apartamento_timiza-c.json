@@ -1,14 +1,78 @@
 {
   "ok": true,
-  "total": 13,
+  "total": 14,
   "zona": "TIMIZA C",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 20:32",
+  "generado": "2026.SEP.28 00:04",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4600000,
+      "area": 57.0,
+      "precioM2": 80702,
+      "administracion": null,
+      "barrio": "CHICO NORTE",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/194067034",
+      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
+      "id_domus": "194067034",
+      "fechaPublicacion": "2026-08-03",
+      "lat": 4.6843669,
+      "lon": -74.0554931,
+      "location_type": "exacta",
+      "zonaConsulta": "TIMIZA C",
+      "zonaSlug": "timiza-c",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3500000,
+      "area": 72.0,
+      "precioM2": 48611,
+      "administracion": 500000.0,
+      "barrio": "CEDRITOS",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cedritos-bogota/194323403",
+      "titulo": "Apartamento en Arriendo en Cedritos, Bogotá",
+      "id_domus": "194323403",
+      "fechaPublicacion": "2026-09-27",
+      "lat": 4.7260711,
+      "lon": -74.0333693,
+      "location_type": "exacta",
+      "zonaConsulta": "TIMIZA C",
+      "zonaSlug": "timiza-c",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -264,39 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1250000,
-      "area": 58.0,
-      "precioM2": 21552,
+      "precio": 2950000,
+      "area": 94.0,
+      "precioM2": 31383,
       "administracion": null,
-      "barrio": "MADELENA",
+      "barrio": "TIMIZA C",
       "upl": "Bosa",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-madelena-bogota/194318394",
-      "titulo": "Apartamento en Arriendo en Madelena, Bogotá",
-      "id_domus": "194318394",
-      "fechaPublicacion": "2026-09-25",
-      "lat": 4.586353788425,
-      "lon": -74.154707283785,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-hayuelos-bogota/194019858",
+      "titulo": "Apartamento en Arriendo en Hayuelos, Bogotá",
+      "id_domus": "194019858",
+      "fechaPublicacion": "2026-07-22",
+      "lat": 4.6659949,
+      "lon": -74.13191,
       "location_type": "exacta",
       "zonaConsulta": "TIMIZA C",
       "zonaSlug": "timiza-c",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -386,38 +450,6 @@
       "fechaPublicacion": "2023-06-09",
       "lat": 4.7277983401785,
       "lon": -74.045188491016,
-      "location_type": "exacta",
-      "zonaConsulta": "TIMIZA C",
-      "zonaSlug": "timiza-c",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1300000,
-      "area": 33.0,
-      "precioM2": 39394,
-      "administracion": null,
-      "barrio": "EDUARDO SANTOS",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-eduardo-santos-bogota/194279745",
-      "titulo": "Apartamento en Arriendo en Eduardo santos, Bogotá",
-      "id_domus": "194279745",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.596137020083,
-      "lon": -74.086078523698,
       "location_type": "exacta",
       "zonaConsulta": "TIMIZA C",
       "zonaSlug": "timiza-c",

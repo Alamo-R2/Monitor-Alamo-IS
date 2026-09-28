@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 20:32",
+  "generado": "2026.SEP.28 00:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -142,6 +142,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 155000000,
+      "area": 45.0,
+      "precioM2": 3444444,
+      "administracion": 50000.0,
+      "barrio": "BOSA",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/10482500",
+      "titulo": "Apartamento en venta en Bosa, Bogotá",
+      "id_domus": "10482500",
+      "fechaPublicacion": "2024-01-22",
+      "lat": 4.6310965,
+      "lon": -74.201445,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDADELA EL RECREO II",
+      "zonaSlug": "ciudadela-el-recreo-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 165000000,
       "area": 50.0,
       "precioM2": 3300000,
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -258,38 +290,6 @@
       "fechaPublicacion": "2025-11-18",
       "lat": 4.6301674,
       "lon": -74.2014829,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDADELA EL RECREO II",
-      "zonaSlug": "ciudadela-el-recreo-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 155000000,
-      "area": 45.0,
-      "precioM2": 3444444,
-      "administracion": 50000.0,
-      "barrio": "BOSA",
-      "upl": "Edén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/10482500",
-      "titulo": "Apartamento en venta en Bosa, Bogotá",
-      "id_domus": "10482500",
-      "fechaPublicacion": "2024-01-22",
-      "lat": 4.6310965,
-      "lon": -74.201445,
       "location_type": "exacta",
       "zonaConsulta": "CIUDADELA EL RECREO II",
       "zonaSlug": "ciudadela-el-recreo-ii",
