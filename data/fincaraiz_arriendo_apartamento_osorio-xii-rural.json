@@ -1,14 +1,78 @@
 {
   "ok": true,
-  "total": 14,
+  "total": 10,
   "zona": "OSORIO XII RURAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.28 00:04",
+  "generado": "2026.SEP.28 06:01",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 5200000,
+      "area": 90.0,
+      "precioM2": 57778,
+      "administracion": null,
+      "barrio": "SANTA BARBARA CENTRAL",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-central-bogota/194290980",
+      "titulo": "Apartamento en Arriendo en Santa barbara central, Bogotá",
+      "id_domus": "194290980",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.695308,
+      "lon": -74.0353705,
+      "location_type": "exacta",
+      "zonaConsulta": "OSORIO XII RURAL",
+      "zonaSlug": "osorio-xii-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4800000,
+      "area": 61.0,
+      "precioM2": 78689,
+      "administracion": null,
+      "barrio": "SANTA BARBARA ORIENTAL",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-oriental-bogota/194323968",
+      "titulo": "Apartamento en Arriendo en Santa barbara oriental, Bogotá",
+      "id_domus": "194323968",
+      "fechaPublicacion": "2026-09-27",
+      "lat": 4.699182,
+      "lon": -74.030394,
+      "location_type": "exacta",
+      "zonaConsulta": "OSORIO XII RURAL",
+      "zonaSlug": "osorio-xii-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -24,7 +88,7 @@
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
-      "parqueaderos": 1.0,
+      "parqueaderos": 1,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -56,7 +120,7 @@
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
-      "parqueaderos": 1.0,
+      "parqueaderos": 1,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -88,7 +152,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 5,
-      "parqueaderos": 2.0,
+      "parqueaderos": 2,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -120,7 +184,7 @@
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
-      "parqueaderos": 2.0,
+      "parqueaderos": 2,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -152,7 +216,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
-      "parqueaderos": 2.0,
+      "parqueaderos": 2,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -184,7 +248,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 5,
-      "parqueaderos": 3.0,
+      "parqueaderos": 3,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -200,135 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3736000,
-      "area": 60.0,
-      "precioM2": 62267,
-      "administracion": 364000.0,
-      "barrio": "OSORIO XII RURAL",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-salitre-bogota/193647529",
-      "titulo": "Apartamento en Arriendo en Ciudad salitre, Bogotá",
-      "id_domus": "193647529",
-      "fechaPublicacion": "2026-04-17",
-      "lat": 4.6454227008367,
-      "lon": -74.109567902282,
-      "location_type": "exacta",
-      "zonaConsulta": "OSORIO XII RURAL",
-      "zonaSlug": "osorio-xii-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2970000,
-      "area": 42.0,
-      "precioM2": 70714,
-      "administracion": 330000.0,
-      "barrio": "OSORIO XII RURAL",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-salitre-bogota/193656170",
-      "titulo": "Apartamento en Arriendo en Ciudad salitre, Bogotá",
-      "id_domus": "193656170",
-      "fechaPublicacion": "2026-04-20",
-      "lat": 4.6452127181588,
-      "lon": -74.109636176812,
-      "location_type": "exacta",
-      "zonaConsulta": "OSORIO XII RURAL",
-      "zonaSlug": "osorio-xii-rural",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 40.0,
-      "precioM2": 45000,
-      "administracion": 200000.0,
-      "barrio": "VERBENAL SAN ANTONIO",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-verbenal-san-antonio-bogota/194322026",
-      "titulo": "Apartamento en Arriendo en Verbenal san antonio, Bogotá",
-      "id_domus": "194322026",
-      "fechaPublicacion": "2026-09-26",
-      "lat": 4.7641956,
-      "lon": -74.0316378,
-      "location_type": "exacta",
-      "zonaConsulta": "OSORIO XII RURAL",
-      "zonaSlug": "osorio-xii-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2800000,
-      "area": 45.0,
-      "precioM2": 62222,
-      "administracion": null,
-      "barrio": "OSORIO XII RURAL",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-bogota/194322126",
-      "titulo": "Apartamento en Arriendo en Chico, Bogotá",
-      "id_domus": "194322126",
-      "fechaPublicacion": "2026-09-26",
-      "lat": 4.687184,
-      "lon": -74.0497559,
-      "location_type": "exacta",
-      "zonaConsulta": "OSORIO XII RURAL",
-      "zonaSlug": "osorio-xii-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -344,7 +280,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 2.0,
+      "parqueaderos": 2,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -376,7 +312,7 @@
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
-      "parqueaderos": 1.0,
+      "parqueaderos": 1,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -386,70 +322,6 @@
       "fechaPublicacion": "2026-09-14",
       "lat": 4.7244203,
       "lon": -74.0303759,
-      "location_type": "exacta",
-      "zonaConsulta": "OSORIO XII RURAL",
-      "zonaSlug": "osorio-xii-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2500000,
-      "area": 50.0,
-      "precioM2": 50000,
-      "administracion": 300000.0,
-      "barrio": "CEDRITOS",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cedritos-bogota/192870595",
-      "titulo": "Apartamento en Arriendo en Cedritos, Bogotá",
-      "id_domus": "192870595",
-      "fechaPublicacion": "2025-09-14",
-      "lat": 4.7277451089454,
-      "lon": -74.044968678713,
-      "location_type": "exacta",
-      "zonaConsulta": "OSORIO XII RURAL",
-      "zonaSlug": "osorio-xii-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2500000,
-      "area": 50.0,
-      "precioM2": 50000,
-      "administracion": 300000.0,
-      "barrio": "OSORIO XII RURAL",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nueva-autopista-bogota/10123154",
-      "titulo": "Apartamento en Arriendo en Nueva Autopista, Bogotá",
-      "id_domus": "10123154",
-      "fechaPublicacion": "2023-06-09",
-      "lat": 4.7277983401785,
-      "lon": -74.045188491016,
       "location_type": "exacta",
       "zonaConsulta": "OSORIO XII RURAL",
       "zonaSlug": "osorio-xii-rural",

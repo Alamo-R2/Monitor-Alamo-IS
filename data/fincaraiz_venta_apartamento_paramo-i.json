@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.22 20:33",
+  "generado": "2026.SEP.28 06:01",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2600000000,
-      "area": 200.0,
-      "precioM2": 13000000,
-      "administracion": 2200000.0,
-      "barrio": "PARAMO I",
-      "upl": "Cerros Orientales",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 3,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-ana-oriental-bogota/193267610",
-      "titulo": "Apartamento en Venta en Santa ana oriental, Bogotá",
-      "id_domus": "193267610",
-      "fechaPublicacion": "2026-01-12",
-      "lat": 4.6844714,
-      "lon": -74.0269,
-      "location_type": "exacta",
-      "zonaConsulta": "PARAMO I",
-      "zonaSlug": "paramo-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-09-09",
       "lat": 4.710794,
       "lon": -74.0250499,
+      "location_type": "exacta",
+      "zonaConsulta": "PARAMO I",
+      "zonaSlug": "paramo-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1945000000,
+      "area": 204.0,
+      "precioM2": 9534314,
+      "administracion": 1800000.0,
+      "barrio": "BOSQUE MEDINA",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosque-medina-bogota/194192245",
+      "titulo": "Apartamento en Venta en Bosque Medina, Bogotá",
+      "id_domus": "194192245",
+      "fechaPublicacion": "2026-09-01",
+      "lat": 4.711128768842,
+      "lon": -74.025004121487,
       "location_type": "exacta",
       "zonaConsulta": "PARAMO I",
       "zonaSlug": "paramo-i",
@@ -174,6 +174,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2880000000,
+      "area": 298.0,
+      "precioM2": 9664430,
+      "administracion": 2000000.0,
+      "barrio": "SANTA ANA",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-ana-bogota/194294139",
+      "titulo": "Apartamento en Venta en Santa Ana, Bogotá",
+      "id_domus": "194294139",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.6860909,
+      "lon": -74.0257003,
+      "location_type": "exacta",
+      "zonaConsulta": "PARAMO I",
+      "zonaSlug": "paramo-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 6421278509,
       "area": 370.0,
       "precioM2": 17354807,
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000000,
+      "area": 200.0,
+      "precioM2": 13000000,
+      "administracion": 2200000.0,
+      "barrio": "PARAMO I",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-ana-oriental-bogota/193267610",
+      "titulo": "Apartamento en Venta en Santa ana oriental, Bogotá",
+      "id_domus": "193267610",
+      "fechaPublicacion": "2026-01-12",
+      "lat": 4.6844714,
+      "lon": -74.0269,
+      "location_type": "exacta",
+      "zonaConsulta": "PARAMO I",
+      "zonaSlug": "paramo-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -610,70 +674,6 @@
       "fechaPublicacion": "2026-08-08",
       "lat": 4.710794,
       "lon": -74.0250499,
-      "location_type": "exacta",
-      "zonaConsulta": "PARAMO I",
-      "zonaSlug": "paramo-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3020000000,
-      "area": 257.0,
-      "precioM2": 11750973,
-      "administracion": null,
-      "barrio": "BOSQUE MEDINA",
-      "upl": "Cerros Orientales",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 2,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosque-medina-bogota/194227938",
-      "titulo": "Apartamento en Venta en Bosque Medina, Bogotá",
-      "id_domus": "194227938",
-      "fechaPublicacion": "2026-09-08",
-      "lat": 4.710794,
-      "lon": -74.0250499,
-      "location_type": "exacta",
-      "zonaConsulta": "PARAMO I",
-      "zonaSlug": "paramo-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 6800000000,
-      "area": 500.0,
-      "precioM2": 13600000,
-      "administracion": 3000000.0,
-      "barrio": "SANTA ANA",
-      "upl": "Cerros Orientales",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 1,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-ana-bogota/10873345",
-      "titulo": "Apartamento en venta en Santa Ana, Bogotá",
-      "id_domus": "10873345",
-      "fechaPublicacion": "2024-05-10",
-      "lat": 4.6846163988224,
-      "lon": -74.026984073954,
       "location_type": "exacta",
       "zonaConsulta": "PARAMO I",
       "zonaSlug": "paramo-i",

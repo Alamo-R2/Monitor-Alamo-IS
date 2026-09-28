@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 17:27",
+  "generado": "2026.SEP.28 06:01",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,38 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 730000000,
-      "area": 98.0,
-      "precioM2": 7448980,
-      "administracion": 714000,
-      "barrio": "SAN ISIDRO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 2,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-calera/193192425",
-      "titulo": "Apartamento en Venta en La calera",
-      "id_domus": "193192425",
-      "fechaPublicacion": "2025-12-11",
-      "lat": 4.6699185,
-      "lon": -74.0142293,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN ISIDRO",
-      "zonaSlug": "san-isidro",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1550000000,
       "area": 170.0,
       "precioM2": 9117647,
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -354,6 +322,38 @@
       "fechaPublicacion": "2026-08-17",
       "lat": 4.6700936,
       "lon": -74.0207452,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN ISIDRO",
+      "zonaSlug": "san-isidro",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 730000000,
+      "area": 98.0,
+      "precioM2": 7448980,
+      "administracion": 714000,
+      "barrio": "SAN ISIDRO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 2,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-calera/193192425",
+      "titulo": "Apartamento en Venta en La calera",
+      "id_domus": "193192425",
+      "fechaPublicacion": "2025-12-11",
+      "lat": 4.6699185,
+      "lon": -74.0142293,
       "location_type": "exacta",
       "zonaConsulta": "SAN ISIDRO",
       "zonaSlug": "san-isidro",
