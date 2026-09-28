@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.23 15:18",
+  "generado": "2026.SEP.28 23:43",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Casa",
+      "precio": 190000000,
+      "area": 72.0,
+      "precioM2": 2638889,
+      "administracion": null,
+      "barrio": "CHICO SUR",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/casa-en-venta-en-chico-sur-bogota-3857545",
+      "titulo": "Casa en Chico Sur",
+      "id_domus": "3857545",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "CHICO SUR",
+      "zonaSlug": "chico-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -127,38 +159,6 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/casa-en-venta-en-chico-sur-bogota-3714480",
       "titulo": "Casa en Chico Sur",
       "id_domus": "3714480",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "CHICO SUR",
-      "zonaSlug": "chico-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Casa",
-      "precio": 190000000,
-      "area": 72.0,
-      "precioM2": 2638889,
-      "administracion": null,
-      "barrio": "CHICO SUR",
-      "upl": "Edén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/casa-en-venta-en-chico-sur-bogota-3857545",
-      "titulo": "Casa en Chico Sur",
-      "id_domus": "3857545",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
