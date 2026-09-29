@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 7,
   "zona": "EL PARAISO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.28 06:01",
+  "generado": "2026.SEP.29 16:11",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,11 +46,11 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 299000000,
-      "area": 47.0,
-      "precioM2": 6361702,
-      "administracion": 381000.0,
-      "barrio": "EL PARAISO",
+      "precio": 435000000,
+      "area": 78.0,
+      "precioM2": 5576923,
+      "administracion": 298000.0,
+      "barrio": "CATALUNA",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -60,12 +60,12 @@
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/192371626",
-      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "192371626",
-      "fechaPublicacion": "2025-05-09",
-      "lat": 4.6307074760041,
-      "lon": -74.061982780695,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cataluna-bogota/191813203",
+      "titulo": "Apartamento en  Venta en Cataluna, Bogotá",
+      "id_domus": "191813203",
+      "fechaPublicacion": "2024-12-19",
+      "lat": 4.6308295,
+      "lon": -74.0621982,
       "location_type": "exacta",
       "zonaConsulta": "EL PARAISO",
       "zonaSlug": "el-paraiso",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 270000000,
+      "area": 39.0,
+      "precioM2": 6923077,
+      "administracion": 387000.0,
+      "barrio": "EL PARAISO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-alto-bogota/193252323",
+      "titulo": "Apartamento en Venta en Chapinero Alto, Bogotá",
+      "id_domus": "193252323",
+      "fechaPublicacion": "2026-01-07",
+      "lat": 4.6300864418088,
+      "lon": -74.062303303204,
+      "location_type": "exacta",
+      "zonaConsulta": "EL PARAISO",
+      "zonaSlug": "el-paraiso",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -194,70 +226,6 @@
       "fechaPublicacion": "2025-05-15",
       "lat": 4.6302879,
       "lon": -74.0628817,
-      "location_type": "exacta",
-      "zonaConsulta": "EL PARAISO",
-      "zonaSlug": "el-paraiso",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 435000000,
-      "area": 78.0,
-      "precioM2": 5576923,
-      "administracion": 298000.0,
-      "barrio": "CATALUNA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cataluna-bogota/191813203",
-      "titulo": "Apartamento en  Venta en Cataluna, Bogotá",
-      "id_domus": "191813203",
-      "fechaPublicacion": "2024-12-19",
-      "lat": 4.6308295,
-      "lon": -74.0621982,
-      "location_type": "exacta",
-      "zonaConsulta": "EL PARAISO",
-      "zonaSlug": "el-paraiso",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 270000000,
-      "area": 39.0,
-      "precioM2": 6923077,
-      "administracion": 387000.0,
-      "barrio": "EL PARAISO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-alto-bogota/193252323",
-      "titulo": "Apartamento en Venta en Chapinero Alto, Bogotá",
-      "id_domus": "193252323",
-      "fechaPublicacion": "2026-01-07",
-      "lat": 4.6300864418088,
-      "lon": -74.062303303204,
       "location_type": "exacta",
       "zonaConsulta": "EL PARAISO",
       "zonaSlug": "el-paraiso",
