@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "EL NEVADO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.23 14:29",
+  "generado": "2026.SEP.29 06:20",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 201000000,
+      "area": 52.0,
+      "precioM2": 3865385,
+      "administracion": 100000.0,
+      "barrio": "EL NEVADO",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-porvenir-bogota/194304916",
+      "titulo": "Apartamento en Venta en El porvenir, Bogotá",
+      "id_domus": "194304916",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.528922370881,
+      "lon": -74.115602771805,
+      "location_type": "exacta",
+      "zonaConsulta": "EL NEVADO",
+      "zonaSlug": "el-nevado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
