@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 6,
   "zona": "AEROPUERTO EL DORADO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 00:04",
+  "generado": "2026.SEP.29 21:34",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 28.0,
+      "precioM2": 8928571,
+      "administracion": 166900.0,
+      "barrio": "AEROPUERTO EL DORADO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194318936",
+      "titulo": "Apartamento en Venta en Bogotá",
+      "id_domus": "194318936",
+      "fechaPublicacion": "2026-09-25",
+      "lat": 4.686392,
+      "lon": -74.125115,
+      "location_type": "exacta",
+      "zonaConsulta": "AEROPUERTO EL DORADO",
+      "zonaSlug": "aeropuerto-el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 530000000,
       "area": 216.0,
       "precioM2": 2453704,
@@ -104,7 +136,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 230000000,
+      "area": 45.0,
+      "precioM2": 5111111,
+      "administracion": 125000.0,
+      "barrio": "AEROPUERTO EL DORADO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194310454",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194310454",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.7100521699837,
+      "lon": -74.145183154053,
+      "location_type": "exacta",
+      "zonaConsulta": "AEROPUERTO EL DORADO",
+      "zonaSlug": "aeropuerto-el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
