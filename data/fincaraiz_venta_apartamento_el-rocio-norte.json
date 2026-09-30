@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 14:29",
+  "generado": "2026.SEP.30 06:05",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -142,6 +142,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 360000000,
+      "area": 70.0,
+      "precioM2": 5142857,
+      "administracion": 376500.0,
+      "barrio": "EL ROCIO NORTE",
+      "upl": "Toberín",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lagos-de-torca-bogota/191336950",
+      "titulo": "Apartamento en  Venta en Lagos de Torca, Bogotá",
+      "id_domus": "191336950",
+      "fechaPublicacion": "2024-09-06",
+      "lat": 4.7604673,
+      "lon": -74.0293008,
+      "location_type": "exacta",
+      "zonaConsulta": "EL ROCIO NORTE",
+      "zonaSlug": "el-rocio-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 395000000,
       "area": 66.0,
       "precioM2": 5984848,
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -226,38 +258,6 @@
       "fechaPublicacion": "2026-09-15",
       "lat": 4.7586583,
       "lon": -74.0319178,
-      "location_type": "exacta",
-      "zonaConsulta": "EL ROCIO NORTE",
-      "zonaSlug": "el-rocio-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 240000000,
-      "area": 50.0,
-      "precioM2": 4800000,
-      "administracion": 166000.0,
-      "barrio": "SAN JOSE DE USAQUEN",
-      "upl": "Toberín",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-jose-de-usaquen-bogota/194284187",
-      "titulo": "Apartamento en Venta en San jose de usaquen, Bogotá",
-      "id_domus": "194284187",
-      "fechaPublicacion": "2026-09-20",
-      "lat": 4.758563216198,
-      "lon": -74.031915755026,
       "location_type": "exacta",
       "zonaConsulta": "EL ROCIO NORTE",
       "zonaSlug": "el-rocio-norte",

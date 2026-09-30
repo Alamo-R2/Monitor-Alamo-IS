@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.28 00:04",
+  "generado": "2026.SEP.30 06:05",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,10 +46,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 198000000,
-      "area": 47.0,
-      "precioM2": 4212766,
-      "administracion": 150000.0,
+      "precio": 196000000,
+      "area": 45.0,
+      "precioM2": 4355556,
+      "administracion": 101719.0,
       "barrio": "TINTALA",
       "upl": "Patio Bonito",
       "ciudad": "Bogotá",
@@ -57,15 +57,15 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nueva-castilla-bogota/194322767",
-      "titulo": "Apartamento en Venta en Nueva Castilla, Bogotá",
-      "id_domus": "194322767",
-      "fechaPublicacion": "2026-09-27",
-      "lat": 4.6485161,
-      "lon": -74.1537094,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-bogota/194225291",
+      "titulo": "Apartamento en Venta en Kennedy, Bogotá",
+      "id_domus": "194225291",
+      "fechaPublicacion": "2026-09-08",
+      "lat": 4.6485244829951,
+      "lon": -74.161150753498,
       "location_type": "exacta",
       "zonaConsulta": "TINTALA",
       "zonaSlug": "tintala",
@@ -78,26 +78,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 335000000,
-      "area": 52.0,
-      "precioM2": 6442308,
-      "administracion": 270000.0,
+      "precio": 510000000,
+      "area": 75.0,
+      "precioM2": 6800000,
+      "administracion": 328000.0,
       "barrio": "TINTALA",
       "upl": "Patio Bonito",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nueva-castilla-bogota/194105077",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nueva-castilla-bogota/194110142",
       "titulo": "Apartamento en Venta en Nueva Castilla, Bogotá",
-      "id_domus": "194105077",
-      "fechaPublicacion": "2026-08-11",
-      "lat": 4.6543896,
-      "lon": -74.1542788,
+      "id_domus": "194110142",
+      "fechaPublicacion": "2026-08-12",
+      "lat": 4.6488332740493,
+      "lon": -74.151779124858,
       "location_type": "exacta",
       "zonaConsulta": "TINTALA",
       "zonaSlug": "tintala",
@@ -105,6 +105,38 @@
     },
     {
       "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 230000000,
+      "area": 65.0,
+      "precioM2": 3538462,
+      "administracion": 230000.0,
+      "barrio": "EL TINTAL",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tintal-bogota/194074581",
+      "titulo": "Apartamento en Venta en El tintal, Bogotá",
+      "id_domus": "194074581",
+      "fechaPublicacion": "2026-08-04",
+      "lat": 4.6521984,
+      "lon": -74.1631952,
+      "location_type": "exacta",
+      "zonaConsulta": "TINTALA",
+      "zonaSlug": "tintala",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 246000000,
+      "area": 45.0,
+      "precioM2": 5466667,
+      "administracion": 152404.0,
+      "barrio": "TINTALA",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tintala-bogota/194290318",
+      "titulo": "Apartamento en Venta en Tintala, Bogotá",
+      "id_domus": "194290318",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.6538254,
+      "lon": -74.1555248,
+      "location_type": "exacta",
+      "zonaConsulta": "TINTALA",
+      "zonaSlug": "tintala",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -424,39 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 449000000,
-      "area": 85.0,
-      "precioM2": 5282353,
-      "administracion": 230000.0,
-      "barrio": "TINTALA",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tintala-bogota/194269515",
-      "titulo": "Apartamento en Venta en Tintala, Bogotá",
-      "id_domus": "194269515",
-      "fechaPublicacion": "2026-09-16",
-      "lat": 4.652759,
-      "lon": -74.153163,
-      "location_type": "exacta",
-      "zonaConsulta": "TINTALA",
-      "zonaSlug": "tintala",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 220000000,
+      "area": 39.0,
+      "precioM2": 5641026,
+      "administracion": 120000.0,
+      "barrio": "TINTALA",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-bogota/194327290",
+      "titulo": "Apartamento en Venta en Kennedy, Bogotá",
+      "id_domus": "194327290",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.6513511,
+      "lon": -74.16139,
+      "location_type": "exacta",
+      "zonaConsulta": "TINTALA",
+      "zonaSlug": "tintala",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -610,70 +674,6 @@
       "fechaPublicacion": "2026-08-13",
       "lat": 4.6523294,
       "lon": -74.1550412,
-      "location_type": "exacta",
-      "zonaConsulta": "TINTALA",
-      "zonaSlug": "tintala",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 350000000,
-      "area": 53.0,
-      "precioM2": 6603774,
-      "administracion": 228000.0,
-      "barrio": "TINTALA",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tintala-bogota/193998526",
-      "titulo": "Apartamento en Venta en Tintala, Bogotá",
-      "id_domus": "193998526",
-      "fechaPublicacion": "2026-07-16",
-      "lat": 4.6466898892773,
-      "lon": -74.151742208719,
-      "location_type": "exacta",
-      "zonaConsulta": "TINTALA",
-      "zonaSlug": "tintala",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 510000000,
-      "area": 75.0,
-      "precioM2": 6800000,
-      "administracion": 328000.0,
-      "barrio": "TINTALA",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nueva-castilla-bogota/194110142",
-      "titulo": "Apartamento en Venta en Nueva Castilla, Bogotá",
-      "id_domus": "194110142",
-      "fechaPublicacion": "2026-08-12",
-      "lat": 4.6488332740493,
-      "lon": -74.151779124858,
       "location_type": "exacta",
       "zonaConsulta": "TINTALA",
       "zonaSlug": "tintala",

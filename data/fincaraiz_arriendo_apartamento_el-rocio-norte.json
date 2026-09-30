@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 6,
   "zona": "EL ROCIO NORTE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 14:29",
+  "generado": "2026.SEP.30 06:05",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2200000,
-      "area": 53.0,
-      "precioM2": 41509,
-      "administracion": null,
-      "barrio": "TIBABITA",
-      "upl": "Toberín",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-tibabita-bogota/194307470",
-      "titulo": "Apartamento en Arriendo en Tibabita, Bogotá",
-      "id_domus": "194307470",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.7604502,
-      "lon": -74.0292925,
-      "location_type": "exacta",
-      "zonaConsulta": "EL ROCIO NORTE",
-      "zonaSlug": "el-rocio-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -104,39 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1301000,
-      "area": 46.0,
-      "precioM2": 28283,
-      "administracion": 199000.0,
-      "barrio": "TIBABITA",
-      "upl": "Toberín",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-tibabita-bogota/194115436",
-      "titulo": "Apartamento en Arriendo en Tibabita, Bogotá",
-      "id_domus": "194115436",
-      "fechaPublicacion": "2026-08-13",
-      "lat": 4.7602897,
-      "lon": -74.0318088,
-      "location_type": "exacta",
-      "zonaConsulta": "EL ROCIO NORTE",
-      "zonaSlug": "el-rocio-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -200,71 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1550000,
-      "area": 62.0,
-      "precioM2": 25000,
-      "administracion": 250000.0,
-      "barrio": "SAN ANTONIO NORTE",
-      "upl": "Toberín",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-antonio-norte-bogota/194203760",
-      "titulo": "Apartamento en Arriendo en San antonio norte, Bogotá",
-      "id_domus": "194203760",
-      "fechaPublicacion": "2026-09-03",
-      "lat": 4.7579785,
-      "lon": -74.0260125,
-      "location_type": "exacta",
-      "zonaConsulta": "EL ROCIO NORTE",
-      "zonaSlug": "el-rocio-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1650000,
-      "area": 82.0,
-      "precioM2": 20122,
-      "administracion": 395000.0,
-      "barrio": "SAN ANTONIO NORTE",
-      "upl": "Toberín",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-antonio-norte-bogota/194289367",
-      "titulo": "Apartamento en Arriendo en San antonio norte, Bogotá",
-      "id_domus": "194289367",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.757991109396,
-      "lon": -74.025935770025,
-      "location_type": "exacta",
-      "zonaConsulta": "EL ROCIO NORTE",
-      "zonaSlug": "el-rocio-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -290,6 +162,38 @@
       "fechaPublicacion": "2026-09-22",
       "lat": 4.7603872,
       "lon": -74.029362,
+      "location_type": "exacta",
+      "zonaConsulta": "EL ROCIO NORTE",
+      "zonaSlug": "el-rocio-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2200000,
+      "area": 53.0,
+      "precioM2": 41509,
+      "administracion": null,
+      "barrio": "TIBABITA",
+      "upl": "Toberín",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-tibabita-bogota/194307470",
+      "titulo": "Apartamento en Arriendo en Tibabita, Bogotá",
+      "id_domus": "194307470",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.7604502,
+      "lon": -74.0292925,
       "location_type": "exacta",
       "zonaConsulta": "EL ROCIO NORTE",
       "zonaSlug": "el-rocio-norte",

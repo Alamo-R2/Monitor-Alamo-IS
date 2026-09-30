@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 14:29",
+  "generado": "2026.SEP.30 06:05",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,10 +14,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 450000000,
+      "precio": 350000000,
       "area": 72.0,
-      "precioM2": 6250000,
-      "administracion": 412000.0,
+      "precioM2": 4861111,
+      "administracion": 370000.0,
       "barrio": "SAN ANTONIO NORTE",
       "upl": "Toberín",
       "ciudad": "Bogotá",
@@ -25,15 +25,15 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-antonio-norte-bogota/194108604",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-antonio-norte-bogota/194043612",
       "titulo": "Apartamento en Venta en San antonio norte, Bogotá",
-      "id_domus": "194108604",
-      "fechaPublicacion": "2026-08-12",
-      "lat": 4.7540316349137,
-      "lon": -74.041663560327,
+      "id_domus": "194043612",
+      "fechaPublicacion": "2026-07-28",
+      "lat": 4.762553882209,
+      "lon": -74.040110993218,
       "location_type": "exacta",
       "zonaConsulta": "SAN ANTONIO NORTE",
       "zonaSlug": "san-antonio-norte",
@@ -111,38 +111,6 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 245000000,
-      "area": 43.0,
-      "precioM2": 5697674,
-      "administracion": 89241.0,
-      "barrio": "SAN ANTONIO NORTE",
-      "upl": "Toberín",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-antonio-norte-bogota/194179434",
-      "titulo": "Apartamento en Venta en San antonio norte, Bogotá",
-      "id_domus": "194179434",
-      "fechaPublicacion": "2026-08-28",
-      "lat": 4.7587996,
-      "lon": -74.0357634,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN ANTONIO NORTE",
-      "zonaSlug": "san-antonio-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 245000000,
       "area": 35.0,
       "precioM2": 7000000,
       "administracion": 218500.0,
@@ -168,15 +136,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 563500000,
+      "precio": 563400000,
       "area": 82.0,
-      "precioM2": 6871951,
+      "precioM2": 6870732,
       "administracion": 322533.0,
       "barrio": "SAN ANTONIO NORTE",
       "upl": "Toberín",
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -226,6 +194,38 @@
       "fechaPublicacion": "2026-08-06",
       "lat": 4.7600048,
       "lon": -74.030676,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN ANTONIO NORTE",
+      "zonaSlug": "san-antonio-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 310000000,
+      "area": 66.0,
+      "precioM2": 4696970,
+      "administracion": 250000.0,
+      "barrio": "SAN ANTONIO NORTE",
+      "upl": "Toberín",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-antonio-norte-bogota/192410455",
+      "titulo": "Apartamento en Venta en San antonio norte, Bogotá",
+      "id_domus": "192410455",
+      "fechaPublicacion": "2025-05-19",
+      "lat": 4.7571775,
+      "lon": -74.0286343,
       "location_type": "exacta",
       "zonaConsulta": "SAN ANTONIO NORTE",
       "zonaSlug": "san-antonio-norte",
@@ -334,70 +334,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 240000000,
-      "area": 50.0,
-      "precioM2": 4800000,
-      "administracion": 166000.0,
-      "barrio": "SAN JOSE DE USAQUEN",
-      "upl": "Toberín",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-jose-de-usaquen-bogota/194284187",
-      "titulo": "Apartamento en Venta en San jose de usaquen, Bogotá",
-      "id_domus": "194284187",
-      "fechaPublicacion": "2026-09-20",
-      "lat": 4.758563216198,
-      "lon": -74.031915755026,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN ANTONIO NORTE",
-      "zonaSlug": "san-antonio-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 350000000,
-      "area": 72.0,
-      "precioM2": 4861111,
-      "administracion": 370000.0,
-      "barrio": "SAN ANTONIO NORTE",
-      "upl": "Toberín",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-antonio-norte-bogota/194043612",
-      "titulo": "Apartamento en Venta en San antonio norte, Bogotá",
-      "id_domus": "194043612",
-      "fechaPublicacion": "2026-07-28",
-      "lat": 4.762553882209,
-      "lon": -74.040110993218,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN ANTONIO NORTE",
-      "zonaSlug": "san-antonio-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 310000000,
       "area": 45.0,
       "precioM2": 6888889,
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -642,6 +578,70 @@
       "fechaPublicacion": "2026-02-05",
       "lat": 4.7556405,
       "lon": -74.0417359,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN ANTONIO NORTE",
+      "zonaSlug": "san-antonio-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 269000000,
+      "area": 55.0,
+      "precioM2": 4890909,
+      "administracion": 140000.0,
+      "barrio": "SAN ANTONIO NORTE",
+      "upl": "Toberín",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-antonio-norte-bogota/194319395",
+      "titulo": "Apartamento en Venta en San antonio norte, Bogotá",
+      "id_domus": "194319395",
+      "fechaPublicacion": "2026-09-25",
+      "lat": 4.7585732562776,
+      "lon": -74.035960736497,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN ANTONIO NORTE",
+      "zonaSlug": "san-antonio-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 400000000,
+      "area": 61.0,
+      "precioM2": 6557377,
+      "administracion": null,
+      "barrio": "SAN ANTONIO NORTE",
+      "upl": "Toberín",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-antonio-norte-bogota/192880702",
+      "titulo": "Apartamento en Venta en San antonio norte, Bogotá",
+      "id_domus": "192880702",
+      "fechaPublicacion": "2025-09-16",
+      "lat": 4.75891,
+      "lon": -74.032903,
       "location_type": "exacta",
       "zonaConsulta": "SAN ANTONIO NORTE",
       "zonaSlug": "san-antonio-norte",

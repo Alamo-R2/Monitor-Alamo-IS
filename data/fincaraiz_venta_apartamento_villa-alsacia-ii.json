@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 13,
+  "total": 16,
   "zona": "VILLA ALSACIA II",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 14:29",
+  "generado": "2026.SEP.30 06:05",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 325000000,
-      "area": 77.0,
-      "precioM2": 4220779,
-      "administracion": 314000.0,
-      "barrio": "CASTILLA",
-      "upl": "Tintal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194252703",
-      "titulo": "Apartamento en Venta en Castilla, Bogotá",
-      "id_domus": "194252703",
-      "fechaPublicacion": "2026-09-14",
-      "lat": 4.644201225991,
-      "lon": -74.1380976259,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA ALSACIA II",
-      "zonaSlug": "villa-alsacia-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 325000000,
+      "area": 45.0,
+      "precioM2": 7222222,
+      "administracion": null,
+      "barrio": "VILLA ALSACIA II",
+      "upl": "Tintal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-alsacia-2-bogota/194328359",
+      "titulo": "Apartamento en Venta en Villa alsacia 2, Bogotá",
+      "id_domus": "194328359",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.6444246,
+      "lon": -74.1372087,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ALSACIA II",
+      "zonaSlug": "villa-alsacia-ii",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 325000000,
+      "area": 77.0,
+      "precioM2": 4220779,
+      "administracion": 314000.0,
+      "barrio": "CASTILLA",
+      "upl": "Tintal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194252703",
+      "titulo": "Apartamento en Venta en Castilla, Bogotá",
+      "id_domus": "194252703",
+      "fechaPublicacion": "2026-09-14",
+      "lat": 4.644201225991,
+      "lon": -74.1380976259,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ALSACIA II",
+      "zonaSlug": "villa-alsacia-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1295000000,
+      "area": 67.0,
+      "precioM2": 19328358,
+      "administracion": 1145000.0,
+      "barrio": "VILLA ALSACIA II",
+      "upl": "Tintal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 3.0,
+      "estrato": 6.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-balsos-bogota/194313450",
+      "titulo": "Apartamento en Venta en Los Balsos, Bogotá",
+      "id_domus": "194313450",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.6429032,
+      "lon": -74.1405953,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ALSACIA II",
+      "zonaSlug": "villa-alsacia-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 255000000,
+      "area": 37.0,
+      "precioM2": 6891892,
+      "administracion": null,
+      "barrio": "CASTILLA",
+      "upl": "Tintal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194308089",
+      "titulo": "Apartamento en Venta en Castilla, Bogotá",
+      "id_domus": "194308089",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.6459917545618,
+      "lon": -74.134088908459,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ALSACIA II",
+      "zonaSlug": "villa-alsacia-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 11,
+  "total": 15,
   "zona": "LA URIBE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 00:13",
+  "generado": "2026.SEP.30 06:05",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -60,10 +60,10 @@
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-alameda-bogota/194289001",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-alameda-bogota/194332464",
       "titulo": "Apartamento en Arriendo en Alameda, Bogotá",
-      "id_domus": "194289001",
-      "fechaPublicacion": "2026-09-21",
+      "id_domus": "194332464",
+      "fechaPublicacion": "2026-09-29",
       "lat": 4.753075207003,
       "lon": -74.035969243402,
       "location_type": "exacta",
@@ -206,6 +206,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1450000,
+      "area": 50.0,
+      "precioM2": 29000,
+      "administracion": null,
+      "barrio": "LA URIBE",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-uribe-bogota/194320424",
+      "titulo": "Apartamento en Arriendo en La uribe, Bogotá",
+      "id_domus": "194320424",
+      "fechaPublicacion": "2026-09-26",
+      "lat": 4.752638,
+      "lon": -74.045744,
+      "location_type": "exacta",
+      "zonaConsulta": "LA URIBE",
+      "zonaSlug": "la-uribe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 60.0,
+      "precioM2": 30000,
+      "administracion": null,
+      "barrio": "LA URIBE",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-uribe-bogota/194320432",
+      "titulo": "Apartamento en Arriendo en La uribe, Bogotá",
+      "id_domus": "194320432",
+      "fechaPublicacion": "2026-09-26",
+      "lat": 4.751392,
+      "lon": -74.047674,
+      "location_type": "exacta",
+      "zonaConsulta": "LA URIBE",
+      "zonaSlug": "la-uribe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1441000,
       "area": 38.0,
       "precioM2": 37921,
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +360,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3900000,
+      "area": 98.0,
+      "precioM2": 39796,
+      "administracion": null,
+      "barrio": "LA URIBE",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-alameda-bogota/192887462",
+      "titulo": "Apartamento en Arriendo en Alameda, Bogotá",
+      "id_domus": "192887462",
+      "fechaPublicacion": "2025-09-18",
+      "lat": 4.7526474,
+      "lon": -74.0375175,
+      "location_type": "exacta",
+      "zonaConsulta": "LA URIBE",
+      "zonaSlug": "la-uribe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +424,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-14",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1500000,
+      "area": 57.0,
+      "precioM2": 26316,
+      "administracion": 300000.0,
+      "barrio": "LA URIBE",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-uribe-bogota/194334404",
+      "titulo": "Apartamento en Arriendo en La uribe, Bogotá",
+      "id_domus": "194334404",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.7523325,
+      "lon": -74.0427394,
+      "location_type": "exacta",
+      "zonaConsulta": "LA URIBE",
+      "zonaSlug": "la-uribe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],

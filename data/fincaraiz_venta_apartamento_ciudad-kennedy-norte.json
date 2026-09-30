@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.28 00:04",
+  "generado": "2026.SEP.30 06:05",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 42.0,
+      "precioM2": 5714286,
+      "administracion": null,
+      "barrio": "CIUDAD TECHO II",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-techo-ii-bogota/194140985",
+      "titulo": "Apartamento en Venta en Ciudad techo ii, Bogotá",
+      "id_domus": "194140985",
+      "fechaPublicacion": "2026-08-20",
+      "lat": 4.6236284787094,
+      "lon": -74.154759344104,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD KENNEDY NORTE",
+      "zonaSlug": "ciudad-kennedy-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 360000000,
       "area": 75.0,
       "precioM2": 4800000,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,47 +232,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 345000000,
-      "area": 90.0,
-      "precioM2": 3833333,
-      "administracion": 359900.0,
-      "barrio": "CIUDAD KENNEDY NORTE",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-central-bogota/192481999",
-      "titulo": "Apartamento en Venta en Kennedy Central, Bogotá",
-      "id_domus": "192481999",
-      "fechaPublicacion": "2025-06-03",
-      "lat": 4.6309925,
-      "lon": -74.1405898,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD KENNEDY NORTE",
-      "zonaSlug": "ciudad-kennedy-norte",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-8",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 280000000,
+      "precio": 290000000,
       "area": 65.0,
-      "precioM2": 4307692,
+      "precioM2": 4461538,
       "administracion": 82000.0,
       "barrio": "CIUDAD KENNEDY NORTE",
       "upl": "Kennedy",
