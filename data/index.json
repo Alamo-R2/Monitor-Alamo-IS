@@ -1,7 +1,7 @@
 {
-  "generado": "2026-09-30T15:28:48",
-  "generado_humano": "2026.SEP.30 15:28",
-  "grupo_actual": "diario",
+  "generado": "2026-09-30T16:15:25",
+  "generado_humano": "2026.SEP.30 16:15",
+  "grupo_actual": "cada5",
   "ciudad": "bogota",
   "datasets": [
     {
@@ -920,61 +920,61 @@
       "zona": "Restrepo",
       "slug": "restrepo",
       "origen": "upl",
-      "segundos": 9.2
+      "segundos": 9.4
     },
     {
       "clave": "arriendo_apartamento_restrepo",
       "etiqueta": "Arriendo - Apartamento - Restrepo",
       "archivo": "arriendo_apartamento_restrepo.json",
-      "total": 15,
+      "total": 14,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Restrepo",
       "slug": "restrepo",
       "origen": "upl",
-      "segundos": 8.7
+      "segundos": 8.9
     },
     {
       "clave": "venta_apartamento_salitre",
       "etiqueta": "Venta - Apartamento - Salitre",
       "archivo": "venta_apartamento_salitre.json",
-      "total": 53,
+      "total": 49,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Salitre",
       "slug": "salitre",
       "origen": "upl",
-      "segundos": 8.9
+      "segundos": 9.0
     },
     {
       "clave": "arriendo_apartamento_salitre",
       "etiqueta": "Arriendo - Apartamento - Salitre",
       "archivo": "arriendo_apartamento_salitre.json",
-      "total": 58,
+      "total": 57,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Salitre",
       "slug": "salitre",
       "origen": "upl",
-      "segundos": 9.1
+      "segundos": 8.9
     },
     {
       "clave": "venta_apartamento_torca",
       "etiqueta": "Venta - Apartamento - Torca",
       "archivo": "venta_apartamento_torca.json",
-      "total": 52,
+      "total": 50,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Torca",
       "slug": "torca",
       "origen": "upl",
-      "segundos": 8.9
+      "segundos": 9.0
     },
     {
       "clave": "arriendo_apartamento_torca",
       "etiqueta": "Arriendo - Apartamento - Torca",
       "archivo": "arriendo_apartamento_torca.json",
-      "total": 50,
+      "total": 52,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Torca",
@@ -986,19 +986,19 @@
       "clave": "venta_apartamento_suba",
       "etiqueta": "Venta - Apartamento - Suba",
       "archivo": "venta_apartamento_suba.json",
-      "total": 52,
+      "total": 55,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Suba",
       "slug": "suba",
       "origen": "upl",
-      "segundos": 8.9
+      "segundos": 9.0
     },
     {
       "clave": "arriendo_apartamento_suba",
       "etiqueta": "Arriendo - Apartamento - Suba",
       "archivo": "arriendo_apartamento_suba.json",
-      "total": 51,
+      "total": 50,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Suba",
@@ -1010,13 +1010,13 @@
       "clave": "venta_apartamento_rincon-de-suba",
       "etiqueta": "Venta - Apartamento - Rincon de Suba",
       "archivo": "venta_apartamento_rincon-de-suba.json",
-      "total": 8,
+      "total": 7,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Rincon de Suba",
       "slug": "rincon-de-suba",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 9.1
     },
     {
       "clave": "arriendo_apartamento_rincon-de-suba",
@@ -1028,7 +1028,7 @@
       "zona": "Rincon de Suba",
       "slug": "rincon-de-suba",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "venta_apartamento_tibabuyes",
@@ -1040,7 +1040,7 @@
       "zona": "Tibabuyes",
       "slug": "tibabuyes",
       "origen": "upl",
-      "segundos": 9.1
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_apartamento_tibabuyes",
@@ -1052,7 +1052,7 @@
       "zona": "Tibabuyes",
       "slug": "tibabuyes",
       "origen": "upl",
-      "segundos": 8.7
+      "segundos": 8.9
     },
     {
       "clave": "venta_apartamento_chapinero-norte",
@@ -101839,8 +101839,5 @@
   },
   "tipos": "tipos.json",
   "historial": "historial.json",
-  "noticias": {
-    "archivo": "noticias.json",
-    "total": 17
-  }
+  "noticias": null
 }
