@@ -5,74 +5,10 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.30 06:05",
+  "generado": "2026.SEP.30 21:35",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1250000,
-      "area": 36.0,
-      "precioM2": 34722,
-      "administracion": null,
-      "barrio": "VERBENAL SAN ANTONIO",
-      "upl": "Toberín",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-verbenal-san-antonio-bogota/194102187",
-      "titulo": "Apartamento en Arriendo en Verbenal san antonio, Bogotá",
-      "id_domus": "194102187",
-      "fechaPublicacion": "2026-08-11",
-      "lat": 4.7627917825188,
-      "lon": -74.028886188842,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABITA",
-      "zonaSlug": "tibabita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1600000,
-      "area": 37.0,
-      "precioM2": 43243,
-      "administracion": null,
-      "barrio": "VERBENAL SAN ANTONIO",
-      "upl": "Toberín",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-verbenal-san-antonio-bogota/194215556",
-      "titulo": "Apartamento en Arriendo en Verbenal san antonio, Bogotá",
-      "id_domus": "194215556",
-      "fechaPublicacion": "2026-09-05",
-      "lat": 4.764114,
-      "lon": -74.031826,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABITA",
-      "zonaSlug": "tibabita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -98,6 +34,70 @@
       "fechaPublicacion": "2026-09-26",
       "lat": 4.7641956,
       "lon": -74.0316378,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABITA",
+      "zonaSlug": "tibabita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1250000,
+      "area": 36.0,
+      "precioM2": 34722,
+      "administracion": 248220.0,
+      "barrio": "VERBENAL SAN ANTONIO",
+      "upl": "Toberín",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-verbenal-san-antonio-bogota/194102187",
+      "titulo": "Apartamento en Arriendo en Verbenal san antonio, Bogotá",
+      "id_domus": "194102187",
+      "fechaPublicacion": "2026-08-11",
+      "lat": 4.7627917825188,
+      "lon": -74.028886188842,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABITA",
+      "zonaSlug": "tibabita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 37.0,
+      "precioM2": 43243,
+      "administracion": null,
+      "barrio": "VERBENAL SAN ANTONIO",
+      "upl": "Toberín",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-verbenal-san-antonio-bogota/194215556",
+      "titulo": "Apartamento en Arriendo en Verbenal san antonio, Bogotá",
+      "id_domus": "194215556",
+      "fechaPublicacion": "2026-09-05",
+      "lat": 4.764114,
+      "lon": -74.031826,
       "location_type": "exacta",
       "zonaConsulta": "TIBABITA",
       "zonaSlug": "tibabita",
@@ -366,6 +366,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1301000,
+      "area": 46.0,
+      "precioM2": 28283,
+      "administracion": 199000.0,
+      "barrio": "TIBABITA",
+      "upl": "Toberín",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-tibabita-bogota/194337261",
+      "titulo": "Apartamento en Arriendo en Tibabita, Bogotá",
+      "id_domus": "194337261",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.7602897,
+      "lon": -74.0318088,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABITA",
+      "zonaSlug": "tibabita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1500000,
       "area": 55.0,
       "precioM2": 27273,
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-09-28",
       "lat": 4.764114,
       "lon": -74.031826,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABITA",
-      "zonaSlug": "tibabita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1261000,
-      "area": 40.0,
-      "precioM2": 31525,
-      "administracion": 239000.0,
-      "barrio": "TIBABITA",
-      "upl": "Toberín",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-tibabita-bogota/194083309",
-      "titulo": "Apartamento en Arriendo en Tibabita, Bogotá",
-      "id_domus": "194083309",
-      "fechaPublicacion": "2026-08-06",
-      "lat": 4.7627212,
-      "lon": -74.0288838,
       "location_type": "exacta",
       "zonaConsulta": "TIBABITA",
       "zonaSlug": "tibabita",

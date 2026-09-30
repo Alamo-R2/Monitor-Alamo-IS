@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 00:13",
+  "generado": "2026.SEP.30 21:35",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -25,7 +25,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-salitre-bogota/194032353",
@@ -46,38 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 210000000,
-      "area": 51.0,
-      "precioM2": 4117647,
-      "administracion": 152100.0,
-      "barrio": "TUNA ALTA",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/193504683",
-      "titulo": "Apartamento en Venta en Suba, Bogotá",
-      "id_domus": "193504683",
-      "fechaPublicacion": "2026-03-12",
-      "lat": 4.7571683,
-      "lon": -74.0787095,
-      "location_type": "exacta",
-      "zonaConsulta": "TUNA ALTA",
-      "zonaSlug": "tuna-alta",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 214000000,
       "area": 48.0,
       "precioM2": 4458333,
@@ -89,7 +57,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-salitre-bogota/193534870",
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -121,7 +89,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 2,
+      "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-salitre-bogota/193742666",
@@ -130,6 +98,38 @@
       "fechaPublicacion": "2026-05-12",
       "lat": 4.7548097,
       "lon": -74.0810962,
+      "location_type": "exacta",
+      "zonaConsulta": "TUNA ALTA",
+      "zonaSlug": "tuna-alta",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 270000000,
+      "area": 53.0,
+      "precioM2": 5094340,
+      "administracion": 366000.0,
+      "barrio": "TUNA ALTA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-salitre-bogota/194082318",
+      "titulo": "Apartamento en Venta en Suba Salitre, Bogotá",
+      "id_domus": "194082318",
+      "fechaPublicacion": "2026-08-06",
+      "lat": 4.755465,
+      "lon": -74.080521,
       "location_type": "exacta",
       "zonaConsulta": "TUNA ALTA",
       "zonaSlug": "tuna-alta",
@@ -153,39 +153,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-salitre-bogota/194082318",
-      "titulo": "Apartamento en Venta en Suba Salitre, Bogotá",
-      "id_domus": "194082318",
-      "fechaPublicacion": "2026-08-06",
-      "lat": 4.755465,
-      "lon": -74.080521,
-      "location_type": "exacta",
-      "zonaConsulta": "TUNA ALTA",
-      "zonaSlug": "tuna-alta",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 270000000,
-      "area": 53.0,
-      "precioM2": 5094340,
-      "administracion": 366000.0,
-      "barrio": "TUNA ALTA",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-salitre-bogota/194082315",
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -217,7 +185,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 2,
+      "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-salitre-bogota/193348177",
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -249,7 +217,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-salitre-bogota/193386894",
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -281,7 +249,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/194215707",
@@ -296,71 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 165000000,
-      "area": 39.0,
-      "precioM2": 4230769,
-      "administracion": 194000.0,
-      "barrio": "SUBA URBANO",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-urbano-bogota/193680644",
-      "titulo": "Apartamento en Venta en Suba urbano, Bogotá",
-      "id_domus": "193680644",
-      "fechaPublicacion": "2026-04-27",
-      "lat": 4.748623536317,
-      "lon": -74.084054964634,
-      "location_type": "exacta",
-      "zonaConsulta": "TUNA ALTA",
-      "zonaSlug": "tuna-alta",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 230000000,
-      "area": 60.0,
-      "precioM2": 3833333,
-      "administracion": 209000.0,
-      "barrio": "TUNA ALTA",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-de-suba-bogota/194194002",
-      "titulo": "Apartamento en Venta en Santa Maria de Suba, Bogotá",
-      "id_domus": "194194002",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.7526675,
-      "lon": -74.0819707,
-      "location_type": "exacta",
-      "zonaConsulta": "TUNA ALTA",
-      "zonaSlug": "tuna-alta",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -377,7 +281,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-salitre-bogota/194082330",
@@ -392,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -409,7 +313,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tuna-alta-bogota/194109681",
@@ -424,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -441,7 +345,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-salitre-bogota/191942538",
@@ -456,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -473,7 +377,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-salitre-bogota/194028036",
@@ -488,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -505,7 +409,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-de-suba-bogota/194260440",
@@ -520,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -537,7 +441,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/194117432",
@@ -552,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -569,7 +473,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 2,
+      "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-salitre-bogota/193337725",
@@ -584,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -601,7 +505,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-salitre-bogota/193063043",
@@ -616,7 +520,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 265000000,
+      "area": 51.0,
+      "precioM2": 5196078,
+      "administracion": 284150.0,
+      "barrio": "TUNA ALTA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-de-suba-bogota/194327658",
+      "titulo": "Apartamento en Venta en Santa Maria de Suba, Bogotá",
+      "id_domus": "194327658",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.7579038,
+      "lon": -74.0789269,
+      "location_type": "exacta",
+      "zonaConsulta": "TUNA ALTA",
+      "zonaSlug": "tuna-alta",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -633,7 +569,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pinar-de-suba-bogota/191907611",
@@ -648,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -665,7 +601,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 2,
+      "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-salitre-bogota/193976524",
@@ -674,6 +610,70 @@
       "fechaPublicacion": "2026-07-10",
       "lat": 4.756846476699,
       "lon": -74.079190694764,
+      "location_type": "exacta",
+      "zonaConsulta": "TUNA ALTA",
+      "zonaSlug": "tuna-alta",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 357000000,
+      "area": 62.0,
+      "precioM2": 5758065,
+      "administracion": 337000.0,
+      "barrio": "TUNA ALTA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pinar-de-suba-bogota/194232943",
+      "titulo": "Apartamento en Venta en Pinar de Suba, Bogotá",
+      "id_domus": "194232943",
+      "fechaPublicacion": "2026-09-09",
+      "lat": 4.7513455036104,
+      "lon": -74.081756947167,
+      "location_type": "exacta",
+      "zonaConsulta": "TUNA ALTA",
+      "zonaSlug": "tuna-alta",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 357000000,
+      "area": 62.0,
+      "precioM2": 5758065,
+      "administracion": 340000.0,
+      "barrio": "TUNA ALTA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-de-suba-bogota/194309915",
+      "titulo": "Apartamento en Venta en Santa Maria de Suba, Bogotá",
+      "id_domus": "194309915",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.7501209638064,
+      "lon": -74.082783824435,
       "location_type": "exacta",
       "zonaConsulta": "TUNA ALTA",
       "zonaSlug": "tuna-alta",

@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 20:51",
+  "generado": "2026.SEP.30 21:35",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 260000000,
+      "area": 30.0,
+      "precioM2": 8666667,
+      "administracion": 190000.0,
+      "barrio": "LA CANDELARIA",
+      "upl": "Torca",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/191622664",
+      "titulo": "Apartamento en  Venta en La Candelaria, Bogotá",
+      "id_domus": "191622664",
+      "fechaPublicacion": "2024-10-28",
+      "lat": 4.5921609,
+      "lon": -74.0747102,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CANDELARIA",
+      "zonaSlug": "la-candelaria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,71 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 930000000,
-      "area": 95.0,
-      "precioM2": 9789474,
-      "administracion": 1200000.0,
-      "barrio": "LA CANDELARIA",
-      "upl": "Torca",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/194086680",
-      "titulo": "Apartamento en Venta en La Candelaria, Bogotá",
-      "id_domus": "194086680",
-      "fechaPublicacion": "2026-08-06",
-      "lat": 4.6011764,
-      "lon": -74.0701059,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CANDELARIA",
-      "zonaSlug": "la-candelaria",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 560000000,
-      "area": 80.0,
-      "precioM2": 7000000,
-      "administracion": 500000.0,
-      "barrio": "LA CANDELARIA",
-      "upl": "Torca",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/192946109",
-      "titulo": "Apartamento en Venta en La candelaria, Bogotá",
-      "id_domus": "192946109",
-      "fechaPublicacion": "2025-10-03",
-      "lat": 4.6078746,
-      "lon": -74.0819789,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CANDELARIA",
-      "zonaSlug": "la-candelaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +200,103 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 370000000,
+      "area": 110.0,
+      "precioM2": 3363636,
+      "administracion": 110000.0,
+      "barrio": "LA CANDELARIA",
+      "upl": "Torca",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/194323984",
+      "titulo": "Apartamento en Venta en La candelaria, Bogotá",
+      "id_domus": "194323984",
+      "fechaPublicacion": "2026-09-27",
+      "lat": 4.6011403,
+      "lon": -74.0759514,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CANDELARIA",
+      "zonaSlug": "la-candelaria",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1390000000,
+      "area": 233.0,
+      "precioM2": 5965665,
+      "administracion": 2400000.0,
+      "barrio": "SANTA BARBARA CENTRAL",
+      "upl": "Torca",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-barbara-central-bogota/194215094",
+      "titulo": "Apartamento en Venta en Santa barbara central, Bogotá",
+      "id_domus": "194215094",
+      "fechaPublicacion": "2026-09-05",
+      "lat": 4.59199,
+      "lon": -74.07769,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CANDELARIA",
+      "zonaSlug": "la-candelaria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 358000000,
+      "area": 55.0,
+      "precioM2": 6509091,
+      "administracion": 400000.0,
+      "barrio": "LA CANDELARIA",
+      "upl": "Torca",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/194194177",
+      "titulo": "Apartamento en Venta en La Candelaria, Bogotá",
+      "id_domus": "194194177",
+      "fechaPublicacion": "2026-09-01",
+      "lat": 4.5919328676858,
+      "lon": -74.077908081259,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CANDELARIA",
+      "zonaSlug": "la-candelaria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -264,39 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 265000000,
-      "area": 30.0,
-      "precioM2": 8833333,
-      "administracion": 200000.0,
-      "barrio": "LA CANDELARIA",
-      "upl": "Torca",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/194176448",
-      "titulo": "Apartamento en Venta en La Candelaria, Bogotá",
-      "id_domus": "194176448",
-      "fechaPublicacion": "2026-08-28",
-      "lat": 4.5922451,
-      "lon": -74.0747588,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CANDELARIA",
-      "zonaSlug": "la-candelaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -418,38 +450,6 @@
       "fechaPublicacion": "2026-08-30",
       "lat": 4.5953433,
       "lon": -74.0733256,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CANDELARIA",
-      "zonaSlug": "la-candelaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 290000000,
-      "area": 31.0,
-      "precioM2": 9354839,
-      "administracion": 207000.0,
-      "barrio": "LA CANDELARIA",
-      "upl": "Torca",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/194103993",
-      "titulo": "Apartamento en Venta en La Candelaria, Bogotá",
-      "id_domus": "194103993",
-      "fechaPublicacion": "2026-08-11",
-      "lat": 4.5913377,
-      "lon": -74.0768546,
       "location_type": "exacta",
       "zonaConsulta": "LA CANDELARIA",
       "zonaSlug": "la-candelaria",

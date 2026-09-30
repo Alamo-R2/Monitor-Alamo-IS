@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.30 06:05",
+  "generado": "2026.SEP.30 21:35",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1700000,
-      "area": 42.0,
-      "precioM2": 40476,
-      "administracion": null,
-      "barrio": "SAN JOSE DE BAVARIA",
+      "precio": 1800000,
+      "area": 38.0,
+      "precioM2": 47368,
+      "administracion": 177076.0,
+      "barrio": "MIRANDELA",
       "upl": "Britalia",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1.0,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-jose-de-bavaria-bogota/194206461",
-      "titulo": "Apartamento en Arriendo en San jose de bavaria, Bogotá",
-      "id_domus": "194206461",
-      "fechaPublicacion": "2026-09-03",
-      "lat": 4.7673276826339,
-      "lon": -74.054972827435,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/194336773",
+      "titulo": "Apartamento en Arriendo en Bogotá",
+      "id_domus": "194336773",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.7692168,
+      "lon": -74.056621,
       "location_type": "exacta",
       "zonaConsulta": "MIRANDELA",
       "zonaSlug": "mirandela",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1750000,
+      "area": 38.0,
+      "precioM2": 46053,
+      "administracion": null,
+      "barrio": "MIRANDELA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-mirandela-bogota/193766107",
+      "titulo": "Apartamento en Arriendo en Mirandela, Bogotá",
+      "id_domus": "193766107",
+      "fechaPublicacion": "2026-05-19",
+      "lat": 4.76890534039,
+      "lon": -74.056241098535,
+      "location_type": "exacta",
+      "zonaConsulta": "MIRANDELA",
+      "zonaSlug": "mirandela",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2200000,
       "area": 39.0,
       "precioM2": 56410,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1700000,
+      "area": 42.0,
+      "precioM2": 40476,
+      "administracion": null,
+      "barrio": "SAN JOSE DE BAVARIA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-jose-de-bavaria-bogota/194206461",
+      "titulo": "Apartamento en Arriendo en San jose de bavaria, Bogotá",
+      "id_domus": "194206461",
+      "fechaPublicacion": "2026-09-03",
+      "lat": 4.7673276826339,
+      "lon": -74.054972827435,
+      "location_type": "exacta",
+      "zonaConsulta": "MIRANDELA",
+      "zonaSlug": "mirandela",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -610,70 +674,6 @@
       "fechaPublicacion": "2026-09-22",
       "lat": 4.7688881,
       "lon": -74.0574943,
-      "location_type": "exacta",
-      "zonaConsulta": "MIRANDELA",
-      "zonaSlug": "mirandela",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1900000,
-      "area": 40.0,
-      "precioM2": 47500,
-      "administracion": null,
-      "barrio": "MIRANDELA",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-mirandela-bogota/194158729",
-      "titulo": "Apartamento en Arriendo en Mirandela, Bogotá",
-      "id_domus": "194158729",
-      "fechaPublicacion": "2026-08-24",
-      "lat": 4.584147,
-      "lon": -74.1591834,
-      "location_type": "exacta",
-      "zonaConsulta": "MIRANDELA",
-      "zonaSlug": "mirandela",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2000000,
-      "area": 38.0,
-      "precioM2": 52632,
-      "administracion": null,
-      "barrio": "MIRANDELA",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 5.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lagos-de-torca-bogota/194172582",
-      "titulo": "Apartamento en Arriendo en Lagos de Torca, Bogotá",
-      "id_domus": "194172582",
-      "fechaPublicacion": "2026-08-27",
-      "lat": 4.7690046,
-      "lon": -74.0564812,
       "location_type": "exacta",
       "zonaConsulta": "MIRANDELA",
       "zonaSlug": "mirandela",

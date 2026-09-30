@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 17,
+  "total": 18,
   "zona": "CONEJERA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 20:51",
+  "generado": "2026.SEP.30 21:35",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -366,6 +366,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1650000000,
+      "area": 230.0,
+      "precioM2": 7173913,
+      "administracion": 2000000.0,
+      "barrio": "CONEJERA",
+      "upl": "Torca",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 5.0,
+      "parqueaderos": 4.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-arrayanes-bogota/194304968",
+      "titulo": "Apartamento en Venta en Arrayanes, Bogotá",
+      "id_domus": "194304968",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.7929466,
+      "lon": -74.0807787,
+      "location_type": "exacta",
+      "zonaConsulta": "CONEJERA",
+      "zonaSlug": "conejera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1000000000,
       "area": 143.0,
       "precioM2": 6993007,
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
