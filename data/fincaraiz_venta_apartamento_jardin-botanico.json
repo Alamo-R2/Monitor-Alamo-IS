@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 05:55",
+  "generado": "2026.SEP.30 00:49",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2005365800,
+      "area": 121.0,
+      "precioM2": 16573271,
+      "administracion": null,
+      "barrio": "JARDIN BOTANICO",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/boaterra-zelva-apartamento-en-venta-en-engativa-bogota/194067009",
+      "titulo": "BOATERRA ZELVA, Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194067009",
+      "fechaPublicacion": "2026-08-03",
+      "lat": 4.6572323,
+      "lon": -74.1043587,
+      "location_type": "exacta",
+      "zonaConsulta": "JARDIN BOTANICO",
+      "zonaSlug": "jardin-botanico",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-09-08",
       "lat": 4.6669181,
       "lon": -74.1049981,
-      "location_type": "exacta",
-      "zonaConsulta": "JARDIN BOTANICO",
-      "zonaSlug": "jardin-botanico",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1438151000,
-      "area": 88.0,
-      "precioM2": 16342625,
-      "administracion": null,
-      "barrio": "JARDIN BOTANICO",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/boaterra-zelva-apartamento-en-venta-en-engativa-bogota/193473945",
-      "titulo": "BOATERRA ZELVA, Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "193473945",
-      "fechaPublicacion": "2026-03-06",
-      "lat": 4.6572323,
-      "lon": -74.1043587,
       "location_type": "exacta",
       "zonaConsulta": "JARDIN BOTANICO",
       "zonaSlug": "jardin-botanico",

@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 05:35",
+  "generado": "2026.SEP.30 00:49",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 590000000,
-      "area": 67.0,
-      "precioM2": 8805970,
-      "administracion": 290000.0,
-      "barrio": "MODELIA",
+      "precio": 549900000,
+      "area": 79.0,
+      "precioM2": 6960759,
+      "administracion": 500000.0,
+      "barrio": "MODELIA OCCIDENTAL",
       "upl": "Salitre",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-modelia-bogota/194308846",
-      "titulo": "Apartamento en Venta en Modelia, Bogotá",
-      "id_domus": "194308846",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.6765406,
-      "lon": -74.1256678,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-modelia-occidental-bogota/193780376",
+      "titulo": "Apartamento en Venta en Modelia Occidental, Bogotá",
+      "id_domus": "193780376",
+      "fechaPublicacion": "2026-05-22",
+      "lat": 4.664091,
+      "lon": -74.1148544,
       "location_type": "exacta",
       "zonaConsulta": "MODELIA",
       "zonaSlug": "modelia",
@@ -41,38 +41,6 @@
     },
     {
       "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 585000000,
-      "area": 158.0,
-      "precioM2": 3702532,
-      "administracion": 140000.0,
-      "barrio": "MODELIA",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-modelia-bogota/194307367",
-      "titulo": "Apartamento en Venta en Modelia, Bogotá",
-      "id_domus": "194307367",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.6695391,
-      "lon": -74.1173893,
-      "location_type": "exacta",
-      "zonaConsulta": "MODELIA",
-      "zonaSlug": "modelia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +72,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 649000000,
+      "area": 79.0,
+      "precioM2": 8215190,
+      "administracion": 440000.0,
+      "barrio": "MODELIA",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-modelia-bogota/191741439",
+      "titulo": "Apartamento en  Venta en Modelia, Bogotá",
+      "id_domus": "191741439",
+      "fechaPublicacion": "2024-11-29",
+      "lat": 4.6765406,
+      "lon": -74.1256678,
+      "location_type": "exacta",
+      "zonaConsulta": "MODELIA",
+      "zonaSlug": "modelia",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 850000000,
+      "area": 92.0,
+      "precioM2": 9239130,
+      "administracion": 650000.0,
+      "barrio": "MODELIA",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-modelia-bogota/193850225",
+      "titulo": "Apartamento en Venta en Modelia, Bogotá",
+      "id_domus": "193850225",
+      "fechaPublicacion": "2026-06-06",
+      "lat": 4.6729961,
+      "lon": -74.1184043,
+      "location_type": "exacta",
+      "zonaConsulta": "MODELIA",
+      "zonaSlug": "modelia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -258,38 +290,6 @@
       "fechaPublicacion": "2026-03-04",
       "lat": 4.6645299,
       "lon": -74.1142902,
-      "location_type": "exacta",
-      "zonaConsulta": "MODELIA",
-      "zonaSlug": "modelia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 395000000,
-      "area": 74.0,
-      "precioM2": 5337838,
-      "administracion": 435000.0,
-      "barrio": "MODELIA",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-modelia-bogota/193989306",
-      "titulo": "Apartamento en Venta en Modelia, Bogotá",
-      "id_domus": "193989306",
-      "fechaPublicacion": "2026-07-14",
-      "lat": 4.676464,
-      "lon": -74.091876,
       "location_type": "exacta",
       "zonaConsulta": "MODELIA",
       "zonaSlug": "modelia",
@@ -334,38 +334,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1190000000,
-      "area": 115.0,
-      "precioM2": 10347826,
-      "administracion": 680000.0,
-      "barrio": "MODELIA",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-bogota/194166910",
-      "titulo": "Apartamento en Venta en Ciudad salitre, Bogotá",
-      "id_domus": "194166910",
-      "fechaPublicacion": "2026-08-26",
-      "lat": 4.6675953561996,
-      "lon": -74.114275686353,
-      "location_type": "exacta",
-      "zonaConsulta": "MODELIA",
-      "zonaSlug": "modelia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 395000000,
       "area": 75.0,
       "precioM2": 5266667,
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,15 +456,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 565000000,
+      "precio": 549900000,
       "area": 79.0,
-      "precioM2": 7151899,
+      "precioM2": 6960759,
       "administracion": 450000.0,
       "barrio": "MODELIA",
       "upl": "Salitre",
@@ -520,15 +488,47 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 750000000,
+      "area": 94.0,
+      "precioM2": 7978723,
+      "administracion": 401800.0,
+      "barrio": "MODELIA",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-modelia-bogota/194305597",
+      "titulo": "Apartamento en Venta en Modelia, Bogotá",
+      "id_domus": "194305597",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.6201794,
+      "lon": -74.0809727,
+      "location_type": "exacta",
+      "zonaConsulta": "MODELIA",
+      "zonaSlug": "modelia",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-17",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 459000000,
+      "precio": 458000000,
       "area": 72.0,
-      "precioM2": 6375000,
+      "precioM2": 6361111,
       "administracion": 332400.0,
       "barrio": "MODELIA",
       "upl": "Salitre",
@@ -553,6 +553,70 @@
     },
     {
       "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 679000000,
+      "area": 90.0,
+      "precioM2": 7544444,
+      "administracion": null,
+      "barrio": "MODELIA",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-modelia-bogota/194295586",
+      "titulo": "Apartamento en Venta en Modelia, Bogotá",
+      "id_domus": "194295586",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.6619701,
+      "lon": -74.1205091,
+      "location_type": "exacta",
+      "zonaConsulta": "MODELIA",
+      "zonaSlug": "modelia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 840000000,
+      "area": 132.0,
+      "precioM2": 6363636,
+      "administracion": 520000.0,
+      "barrio": "MODELIA",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-modelia-bogota/193911402",
+      "titulo": "Apartamento en Venta en Modelia, Bogotá",
+      "id_domus": "193911402",
+      "fechaPublicacion": "2026-06-24",
+      "lat": 4.6684682,
+      "lon": -74.1153543,
+      "location_type": "exacta",
+      "zonaConsulta": "MODELIA",
+      "zonaSlug": "modelia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -610,70 +674,6 @@
       "fechaPublicacion": "2026-07-20",
       "lat": 4.661410839605,
       "lon": -74.120210890714,
-      "location_type": "exacta",
-      "zonaConsulta": "MODELIA",
-      "zonaSlug": "modelia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1300000000,
-      "area": 138.0,
-      "precioM2": 9420290,
-      "administracion": 750000.0,
-      "barrio": "MODELIA",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-occidental-bogota/193936591",
-      "titulo": "Apartamento en Venta en Ciudad Salitre Occidental, Bogotá",
-      "id_domus": "193936591",
-      "fechaPublicacion": "2026-06-30",
-      "lat": 4.6616565,
-      "lon": -74.1148364,
-      "location_type": "exacta",
-      "zonaConsulta": "MODELIA",
-      "zonaSlug": "modelia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 549900000,
-      "area": 79.0,
-      "precioM2": 6960759,
-      "administracion": 500000.0,
-      "barrio": "MODELIA OCCIDENTAL",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-modelia-occidental-bogota/193780376",
-      "titulo": "Apartamento en Venta en Modelia Occidental, Bogotá",
-      "id_domus": "193780376",
-      "fechaPublicacion": "2026-05-22",
-      "lat": 4.664091,
-      "lon": -74.1148544,
       "location_type": "exacta",
       "zonaConsulta": "MODELIA",
       "zonaSlug": "modelia",

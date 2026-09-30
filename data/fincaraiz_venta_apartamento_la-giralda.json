@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 21,
+  "total": 20,
   "zona": "LA GIRALDA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.24 05:35",
+  "generado": "2026.SEP.30 00:49",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -22,10 +22,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
+      "habitaciones": 3.0,
+      "banos": 4.0,
       "parqueaderos": 2.0,
-      "estrato": 6,
+      "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-navarra-bogota/194280750",
@@ -54,10 +54,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
+      "habitaciones": 2.0,
+      "banos": 2.0,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-giralda-bogota/193589077",
@@ -86,10 +86,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
+      "habitaciones": 3.0,
+      "banos": 2.0,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/194115250",
@@ -118,10 +118,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
+      "habitaciones": 2.0,
+      "banos": 1.0,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-versalles-fontibon-bogota/193888971",
@@ -150,10 +150,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
+      "habitaciones": 2.0,
+      "banos": 1.0,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/194050882",
@@ -174,38 +174,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 320000000,
-      "area": 71.0,
-      "precioM2": 4507042,
-      "administracion": null,
-      "barrio": "LA GIRALDA",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/193611677",
-      "titulo": "Apartamento en Venta en Fontibon, Bogotá",
-      "id_domus": "193611677",
-      "fechaPublicacion": "2026-04-09",
-      "lat": 4.6772776670205,
-      "lon": -74.137421250343,
-      "location_type": "exacta",
-      "zonaConsulta": "LA GIRALDA",
-      "zonaSlug": "la-giralda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 290384000,
       "area": 39.0,
       "precioM2": 7445744,
@@ -214,10 +182,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 1.0,
+      "banos": 1.0,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-versalles-fontibon-bogota/193889035",
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -246,10 +214,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
+      "habitaciones": 3.0,
+      "banos": 3.0,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/193446318",
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -278,10 +246,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 4,
-      "banos": 4,
+      "habitaciones": 4.0,
+      "banos": 4.0,
       "parqueaderos": 2.0,
-      "estrato": 6,
+      "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-navarra-bogota/191491627",
@@ -296,39 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 200000000,
-      "area": 40.0,
-      "precioM2": 5000000,
-      "administracion": 200000.0,
-      "barrio": "LA GIRALDA",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/194184250",
-      "titulo": "Apartamento en Venta en Fontibon, Bogotá",
-      "id_domus": "194184250",
-      "fechaPublicacion": "2026-08-30",
-      "lat": 4.6754302807298,
-      "lon": -74.138805148205,
-      "location_type": "exacta",
-      "zonaConsulta": "LA GIRALDA",
-      "zonaSlug": "la-giralda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -342,10 +278,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
+      "habitaciones": 2.0,
+      "banos": 1.0,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santander-bogota/194282972",
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -374,10 +310,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 1.0,
+      "banos": 1.0,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-versalles-fontibon-bogota/193904364",
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -406,10 +342,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
+      "habitaciones": 3.0,
+      "banos": 2.0,
       "parqueaderos": 1.0,
-      "estrato": 4,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-felicidad-bogota/194064351",
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -438,10 +374,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
+      "habitaciones": 3.0,
+      "banos": 2.0,
       "parqueaderos": 1.0,
-      "estrato": 4,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-felicidad-bogota/194064348",
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -470,10 +406,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
+      "habitaciones": 3.0,
+      "banos": 2.0,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/193755296",
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -502,10 +438,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
+      "habitaciones": 1.0,
+      "banos": 2.0,
       "parqueaderos": 3.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/192692739",
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -534,10 +470,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
+      "habitaciones": 3.0,
+      "banos": 2.0,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-versalles-fontibon-bogota/193889031",
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -566,10 +502,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
+      "habitaciones": 2.0,
+      "banos": 1.0,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/192790594",
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -598,10 +534,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
+      "habitaciones": 3.0,
+      "banos": 2.0,
       "parqueaderos": 1.0,
-      "estrato": 4,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-felicidad-bogota/194064347",
@@ -616,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -630,10 +566,10 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
+      "habitaciones": 2.0,
+      "banos": 2.0,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boston-bogota/192940483",
@@ -648,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -662,16 +598,48 @@
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
+      "habitaciones": 2.0,
+      "banos": 1.0,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/194170394",
       "titulo": "Apartamento en Venta en Fontibon, Bogotá",
       "id_domus": "194170394",
       "fechaPublicacion": "2026-08-26",
+      "lat": 4.67994801,
+      "lon": -74.14022579,
+      "location_type": "exacta",
+      "zonaConsulta": "LA GIRALDA",
+      "zonaSlug": "la-giralda",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 135147600,
+      "area": 65.0,
+      "precioM2": 2079194,
+      "administracion": null,
+      "barrio": "LA GIRALDA",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/194196368",
+      "titulo": "Apartamento en Venta en Fontibon, Bogotá",
+      "id_domus": "194196368",
+      "fechaPublicacion": "2026-09-01",
       "lat": 4.67994801,
       "lon": -74.14022579,
       "location_type": "exacta",
