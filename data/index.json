@@ -1,7 +1,7 @@
 {
-  "generado": "2026-09-30T16:40:24",
-  "generado_humano": "2026.SEP.30 16:40",
-  "grupo_actual": "barrios_res",
+  "generado": "2026-09-30T17:03:48",
+  "generado_humano": "2026.SEP.30 17:03",
+  "grupo_actual": "municipios",
   "ciudad": "bogota",
   "datasets": [
     {
@@ -290,25 +290,25 @@
       "clave": "venta_apartamento_soacha",
       "etiqueta": "Venta - Apartamento - Soacha",
       "archivo": "venta_apartamento_soacha.json",
-      "total": 51,
+      "total": 50,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Soacha",
       "slug": "soacha",
       "origen": "municipio",
-      "segundos": 10.7
+      "segundos": 9.2
     },
     {
       "clave": "arriendo_apartamento_soacha",
       "etiqueta": "Arriendo - Apartamento - Soacha",
       "archivo": "arriendo_apartamento_soacha.json",
-      "total": 50,
+      "total": 49,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Soacha",
       "slug": "soacha",
       "origen": "municipio",
-      "segundos": 9.1
+      "segundos": 9.0
     },
     {
       "clave": "venta_apartamento_sibate",
@@ -332,13 +332,13 @@
       "zona": "Sibate",
       "slug": "sibate",
       "origen": "municipio",
-      "segundos": 6.8
+      "segundos": 6.4
     },
     {
       "clave": "venta_apartamento_mosquera",
       "etiqueta": "Venta - Apartamento - Mosquera",
       "archivo": "venta_apartamento_mosquera.json",
-      "total": 53,
+      "total": 52,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Mosquera",
@@ -350,13 +350,13 @@
       "clave": "arriendo_apartamento_mosquera",
       "etiqueta": "Arriendo - Apartamento - Mosquera",
       "archivo": "arriendo_apartamento_mosquera.json",
-      "total": 50,
+      "total": 51,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Mosquera",
       "slug": "mosquera",
       "origen": "municipio",
-      "segundos": 8.9
+      "segundos": 9.1
     },
     {
       "clave": "venta_apartamento_madrid",
@@ -368,7 +368,7 @@
       "zona": "Madrid",
       "slug": "madrid",
       "origen": "municipio",
-      "segundos": 9.0
+      "segundos": 9.1
     },
     {
       "clave": "arriendo_apartamento_madrid",
@@ -380,7 +380,7 @@
       "zona": "Madrid",
       "slug": "madrid",
       "origen": "municipio",
-      "segundos": 8.8
+      "segundos": 9.0
     },
     {
       "clave": "venta_apartamento_funza",
@@ -392,19 +392,19 @@
       "zona": "Funza",
       "slug": "funza",
       "origen": "municipio",
-      "segundos": 8.8
+      "segundos": 9.1
     },
     {
       "clave": "arriendo_apartamento_funza",
       "etiqueta": "Arriendo - Apartamento - Funza",
       "archivo": "arriendo_apartamento_funza.json",
-      "total": 12,
+      "total": 14,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Funza",
       "slug": "funza",
       "origen": "municipio",
-      "segundos": 8.7
+      "segundos": 8.9
     },
     {
       "clave": "venta_apartamento_facatativa",
@@ -416,7 +416,7 @@
       "zona": "Facatativa",
       "slug": "facatativa",
       "origen": "municipio",
-      "segundos": 8.7
+      "segundos": 9.0
     },
     {
       "clave": "arriendo_apartamento_facatativa",
@@ -428,55 +428,55 @@
       "zona": "Facatativa",
       "slug": "facatativa",
       "origen": "municipio",
-      "segundos": 6.2
+      "segundos": 6.4
     },
     {
       "clave": "venta_apartamento_bojaca",
       "etiqueta": "Venta - Apartamento - Bojaca",
       "archivo": "venta_apartamento_bojaca.json",
-      "total": 37,
+      "total": 40,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Bojaca",
       "slug": "bojaca",
       "origen": "municipio",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_apartamento_bojaca",
       "etiqueta": "Arriendo - Apartamento - Bojaca",
       "archivo": "arriendo_apartamento_bojaca.json",
-      "total": 8,
+      "total": 9,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Bojaca",
       "slug": "bojaca",
       "origen": "municipio",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "venta_apartamento_el-rosal",
       "etiqueta": "Venta - Apartamento - El Rosal",
       "archivo": "venta_apartamento_el-rosal.json",
-      "total": 7,
+      "total": 8,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "El Rosal",
       "slug": "el-rosal",
       "origen": "municipio",
-      "segundos": 8.7
+      "segundos": 9.0
     },
     {
       "clave": "arriendo_apartamento_el-rosal",
       "etiqueta": "Arriendo - Apartamento - El Rosal",
       "archivo": "arriendo_apartamento_el-rosal.json",
-      "total": 0,
+      "total": 3,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "El Rosal",
       "slug": "el-rosal",
       "origen": "municipio",
-      "segundos": 6.1
+      "segundos": 9.0
     },
     {
       "clave": "venta_apartamento_subachoque",
@@ -488,7 +488,7 @@
       "zona": "Subachoque",
       "slug": "subachoque",
       "origen": "municipio",
-      "segundos": 6.3
+      "segundos": 6.6
     },
     {
       "clave": "arriendo_apartamento_subachoque",
@@ -500,7 +500,7 @@
       "zona": "Subachoque",
       "slug": "subachoque",
       "origen": "municipio",
-      "segundos": 6.3
+      "segundos": 6.4
     },
     {
       "clave": "venta_apartamento_zipacon",
@@ -512,7 +512,7 @@
       "zona": "Zipacon",
       "slug": "zipacon",
       "origen": "municipio",
-      "segundos": 6.3
+      "segundos": 6.4
     },
     {
       "clave": "arriendo_apartamento_zipacon",
@@ -530,7 +530,7 @@
       "clave": "venta_apartamento_chia",
       "etiqueta": "Venta - Apartamento - Chia",
       "archivo": "venta_apartamento_chia.json",
-      "total": 53,
+      "total": 55,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Chia",
@@ -548,13 +548,13 @@
       "zona": "Chia",
       "slug": "chia",
       "origen": "municipio",
-      "segundos": 8.8
+      "segundos": 9.0
     },
     {
       "clave": "venta_apartamento_cajica",
       "etiqueta": "Venta - Apartamento - Cajica",
       "archivo": "venta_apartamento_cajica.json",
-      "total": 56,
+      "total": 54,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Cajica",
@@ -572,14 +572,26 @@
       "zona": "Cajica",
       "slug": "cajica",
       "origen": "municipio",
-      "segundos": 8.8
+      "segundos": 9.0
     },
     {
       "clave": "venta_apartamento_cota",
       "etiqueta": "Venta - Apartamento - Cota",
       "archivo": "venta_apartamento_cota.json",
-      "total": 46,
+      "total": 48,
       "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "Cota",
+      "slug": "cota",
+      "origen": "municipio",
+      "segundos": 9.0
+    },
+    {
+      "clave": "arriendo_apartamento_cota",
+      "etiqueta": "Arriendo - Apartamento - Cota",
+      "archivo": "arriendo_apartamento_cota.json",
+      "total": 10,
+      "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Cota",
       "slug": "cota",
@@ -587,28 +599,16 @@
       "segundos": 8.9
     },
     {
-      "clave": "arriendo_apartamento_cota",
-      "etiqueta": "Arriendo - Apartamento - Cota",
-      "archivo": "arriendo_apartamento_cota.json",
-      "total": 13,
-      "operacion": "arriendo",
-      "tipo": "apartamento",
-      "zona": "Cota",
-      "slug": "cota",
-      "origen": "municipio",
-      "segundos": 8.6
-    },
-    {
       "clave": "venta_apartamento_tabio",
       "etiqueta": "Venta - Apartamento - Tabio",
       "archivo": "venta_apartamento_tabio.json",
-      "total": 4,
+      "total": 3,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Tabio",
       "slug": "tabio",
       "origen": "municipio",
-      "segundos": 8.7
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_apartamento_tabio",
@@ -620,7 +620,7 @@
       "zona": "Tabio",
       "slug": "tabio",
       "origen": "municipio",
-      "segundos": 8.7
+      "segundos": 8.9
     },
     {
       "clave": "venta_apartamento_tenjo",
@@ -632,7 +632,7 @@
       "zona": "Tenjo",
       "slug": "tenjo",
       "origen": "municipio",
-      "segundos": 8.7
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_apartamento_tenjo",
@@ -650,7 +650,7 @@
       "clave": "venta_apartamento_zipaquira",
       "etiqueta": "Venta - Apartamento - Zipaquira",
       "archivo": "venta_apartamento_zipaquira.json",
-      "total": 50,
+      "total": 55,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Zipaquira",
@@ -662,13 +662,13 @@
       "clave": "arriendo_apartamento_zipaquira",
       "etiqueta": "Arriendo - Apartamento - Zipaquira",
       "archivo": "arriendo_apartamento_zipaquira.json",
-      "total": 50,
+      "total": 51,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Zipaquira",
       "slug": "zipaquira",
       "origen": "municipio",
-      "segundos": 8.8
+      "segundos": 9.0
     },
     {
       "clave": "venta_apartamento_cogua",
@@ -680,7 +680,7 @@
       "zona": "Cogua",
       "slug": "cogua",
       "origen": "municipio",
-      "segundos": 6.3
+      "segundos": 6.4
     },
     {
       "clave": "arriendo_apartamento_cogua",
@@ -692,7 +692,7 @@
       "zona": "Cogua",
       "slug": "cogua",
       "origen": "municipio",
-      "segundos": 6.1
+      "segundos": 6.3
     },
     {
       "clave": "venta_apartamento_nemocon",
@@ -704,7 +704,7 @@
       "zona": "Nemocon",
       "slug": "nemocon",
       "origen": "municipio",
-      "segundos": 6.2
+      "segundos": 6.3
     },
     {
       "clave": "arriendo_apartamento_nemocon",
@@ -716,7 +716,7 @@
       "zona": "Nemocon",
       "slug": "nemocon",
       "origen": "municipio",
-      "segundos": 6.2
+      "segundos": 6.3
     },
     {
       "clave": "venta_apartamento_sopo",
@@ -728,25 +728,25 @@
       "zona": "Sopo",
       "slug": "sopo",
       "origen": "municipio",
-      "segundos": 8.7
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_apartamento_sopo",
       "etiqueta": "Arriendo - Apartamento - Sopo",
       "archivo": "arriendo_apartamento_sopo.json",
-      "total": 10,
+      "total": 8,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Sopo",
       "slug": "sopo",
       "origen": "municipio",
-      "segundos": 8.7
+      "segundos": 8.8
     },
     {
       "clave": "venta_apartamento_tocancipa",
       "etiqueta": "Venta - Apartamento - Tocancipa",
       "archivo": "venta_apartamento_tocancipa.json",
-      "total": 50,
+      "total": 51,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Tocancipa",
@@ -758,7 +758,7 @@
       "clave": "arriendo_apartamento_tocancipa",
       "etiqueta": "Arriendo - Apartamento - Tocancipa",
       "archivo": "arriendo_apartamento_tocancipa.json",
-      "total": 50,
+      "total": 49,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Tocancipa",
@@ -770,13 +770,13 @@
       "clave": "venta_apartamento_gachancipa",
       "etiqueta": "Venta - Apartamento - Gachancipa",
       "archivo": "venta_apartamento_gachancipa.json",
-      "total": 10,
+      "total": 9,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Gachancipa",
       "slug": "gachancipa",
       "origen": "municipio",
-      "segundos": 8.7
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_apartamento_gachancipa",
@@ -788,7 +788,7 @@
       "zona": "Gachancipa",
       "slug": "gachancipa",
       "origen": "municipio",
-      "segundos": 6.3
+      "segundos": 6.4
     },
     {
       "clave": "venta_apartamento_suesca",
@@ -800,7 +800,7 @@
       "zona": "Suesca",
       "slug": "suesca",
       "origen": "municipio",
-      "segundos": 6.1
+      "segundos": 6.4
     },
     {
       "clave": "arriendo_apartamento_suesca",
@@ -812,7 +812,7 @@
       "zona": "Suesca",
       "slug": "suesca",
       "origen": "municipio",
-      "segundos": 6.1
+      "segundos": 6.3
     },
     {
       "clave": "venta_apartamento_sesquile",
@@ -824,7 +824,7 @@
       "zona": "Sesquile",
       "slug": "sesquile",
       "origen": "municipio",
-      "segundos": 6.3
+      "segundos": 6.5
     },
     {
       "clave": "arriendo_apartamento_sesquile",
@@ -836,7 +836,7 @@
       "zona": "Sesquile",
       "slug": "sesquile",
       "origen": "municipio",
-      "segundos": 6.1
+      "segundos": 6.3
     },
     {
       "clave": "venta_apartamento_guatavita",
@@ -848,7 +848,7 @@
       "zona": "Guatavita",
       "slug": "guatavita",
       "origen": "municipio",
-      "segundos": 6.1
+      "segundos": 6.5
     },
     {
       "clave": "arriendo_apartamento_guatavita",
@@ -860,7 +860,7 @@
       "zona": "Guatavita",
       "slug": "guatavita",
       "origen": "municipio",
-      "segundos": 6.1
+      "segundos": 6.4
     },
     {
       "clave": "venta_apartamento_guasca",
@@ -872,7 +872,7 @@
       "zona": "Guasca",
       "slug": "guasca",
       "origen": "municipio",
-      "segundos": 6.8
+      "segundos": 6.5
     },
     {
       "clave": "arriendo_apartamento_guasca",
@@ -884,7 +884,7 @@
       "zona": "Guasca",
       "slug": "guasca",
       "origen": "municipio",
-      "segundos": 6.2
+      "segundos": 6.3
     },
     {
       "clave": "venta_apartamento_la-calera",
@@ -896,19 +896,19 @@
       "zona": "La Calera",
       "slug": "la-calera",
       "origen": "municipio",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_apartamento_la-calera",
       "etiqueta": "Arriendo - Apartamento - La Calera",
       "archivo": "arriendo_apartamento_la-calera.json",
-      "total": 19,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "La Calera",
       "slug": "la-calera",
       "origen": "municipio",
-      "segundos": 8.8
+      "segundos": 9.6
     },
     {
       "clave": "venta_apartamento_restrepo",
