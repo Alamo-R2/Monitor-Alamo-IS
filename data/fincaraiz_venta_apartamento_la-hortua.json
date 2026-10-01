@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 7,
   "zona": "LA HORTUA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 17:27",
+  "generado": "2026.OCT.01 22:04",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 278900000,
-      "area": 49.0,
-      "precioM2": 5691837,
-      "administracion": 142000.0,
-      "barrio": "EDUARDO SANTOS",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-eduardo-santos-bogota/193955711",
-      "titulo": "Apartamento en Venta en Eduardo santos, Bogotá",
-      "id_domus": "193955711",
-      "fechaPublicacion": "2026-07-05",
-      "lat": 4.5923527,
-      "lon": -74.0890495,
-      "location_type": "exacta",
-      "zonaConsulta": "LA HORTUA",
-      "zonaSlug": "la-hortua",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -114,7 +82,7 @@
       "area": 56.0,
       "precioM2": 4980357,
       "administracion": 145000.0,
-      "barrio": "EDUARDO SANTOS",
+      "barrio": "SAN ANTONIO",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -124,8 +92,8 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-eduardo-santos-bogota/194194178",
-      "titulo": "Apartamento en Venta en Eduardo santos, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-antonio-bogota/194194178",
+      "titulo": "Apartamento en Venta en San antonio, Bogotá",
       "id_domus": "194194178",
       "fechaPublicacion": "2026-09-01",
       "lat": 4.5923527,
@@ -136,7 +104,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1250000000,
+      "area": 138.0,
+      "precioM2": 9057971,
+      "administracion": 1300000.0,
+      "barrio": "SAN BERNARDO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-bernardo-bogota/194337661",
+      "titulo": "Apartamento en Venta en San bernardo, Bogotá",
+      "id_domus": "194337661",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.5911785177551,
+      "lon": -74.087318690457,
+      "location_type": "exacta",
+      "zonaConsulta": "LA HORTUA",
+      "zonaSlug": "la-hortua",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 278900000,
+      "area": 49.0,
+      "precioM2": 5691837,
+      "administracion": 142000.0,
+      "barrio": "EDUARDO SANTOS",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-eduardo-santos-bogota/193955711",
+      "titulo": "Apartamento en Venta en Eduardo santos, Bogotá",
+      "id_domus": "193955711",
+      "fechaPublicacion": "2026-07-05",
+      "lat": 4.5923527,
+      "lon": -74.0890495,
+      "location_type": "exacta",
+      "zonaConsulta": "LA HORTUA",
+      "zonaSlug": "la-hortua",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],

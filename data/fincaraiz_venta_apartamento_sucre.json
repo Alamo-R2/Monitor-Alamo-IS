@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 00:53",
+  "generado": "2026.OCT.01 22:04",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 360000000,
-      "area": 49.0,
-      "precioM2": 7346939,
-      "administracion": 440000.0,
-      "barrio": "TEUSAQUILLO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/194290444",
-      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
-      "id_domus": "194290444",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.626365641424,
-      "lon": -74.067173979276,
-      "location_type": "exacta",
-      "zonaConsulta": "SUCRE",
-      "zonaSlug": "sucre",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-07-14",
       "lat": 4.630913,
       "lon": -74.0662522,
+      "location_type": "exacta",
+      "zonaConsulta": "SUCRE",
+      "zonaSlug": "sucre",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 275000000,
+      "area": 38.0,
+      "precioM2": 7236842,
+      "administracion": 460000.0,
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-central-bogota/194338178",
+      "titulo": "Apartamento en Venta en Chapinero central, Bogotá",
+      "id_domus": "194338178",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6287228,
+      "lon": -74.0663967,
       "location_type": "exacta",
       "zonaConsulta": "SUCRE",
       "zonaSlug": "sucre",
@@ -334,38 +334,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 580000000,
-      "area": 60.0,
-      "precioM2": 9666667,
-      "administracion": 435000.0,
-      "barrio": "SUCRE",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/193410049",
-      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "193410049",
-      "fechaPublicacion": "2026-02-18",
-      "lat": 4.6279465,
-      "lon": -74.0682366,
-      "location_type": "exacta",
-      "zonaConsulta": "SUCRE",
-      "zonaSlug": "sucre",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 320000000,
       "area": 34.0,
       "precioM2": 9411765,
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-09-10",
       "lat": 4.6303065,
       "lon": -74.0652008,
+      "location_type": "exacta",
+      "zonaConsulta": "SUCRE",
+      "zonaSlug": "sucre",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 310000000,
+      "area": 32.0,
+      "precioM2": 9687500,
+      "administracion": 310000.0,
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-central-bogota/193885480",
+      "titulo": "Apartamento en Venta en Chapinero central, Bogotá",
+      "id_domus": "193885480",
+      "fechaPublicacion": "2026-06-17",
+      "lat": 4.630776115884,
+      "lon": -74.065436342115,
       "location_type": "exacta",
       "zonaConsulta": "SUCRE",
       "zonaSlug": "sucre",

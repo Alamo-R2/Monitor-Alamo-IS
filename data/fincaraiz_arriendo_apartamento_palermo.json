@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 00:53",
+  "generado": "2026.OCT.01 22:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,9 +46,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2500000,
+      "precio": 2800000,
       "area": 30.0,
-      "precioM2": 83333,
+      "precioM2": 93333,
       "administracion": null,
       "barrio": "PALERMO",
       "upl": "Centro Histórico",
@@ -462,6 +462,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2200000,
+      "area": 27.0,
+      "precioM2": 81481,
+      "administracion": null,
+      "barrio": "PALERMO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194016589",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194016589",
+      "fechaPublicacion": "2026-07-21",
+      "lat": 4.6360984,
+      "lon": -74.0683117,
+      "location_type": "exacta",
+      "zonaConsulta": "PALERMO",
+      "zonaSlug": "palermo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1450000,
       "area": 28.0,
       "precioM2": 51786,
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +552,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1894000,
+      "area": 27.0,
+      "precioM2": 70148,
+      "administracion": 206000.0,
+      "barrio": "PALERMO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194044088",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194044088",
+      "fechaPublicacion": "2026-07-28",
+      "lat": 4.6354487,
+      "lon": -74.0678801,
+      "location_type": "exacta",
+      "zonaConsulta": "PALERMO",
+      "zonaSlug": "palermo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -610,70 +674,6 @@
       "fechaPublicacion": "2026-09-21",
       "lat": 4.6351736,
       "lon": -74.0718819,
-      "location_type": "exacta",
-      "zonaConsulta": "PALERMO",
-      "zonaSlug": "palermo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2000000,
-      "area": 39.0,
-      "precioM2": 51282,
-      "administracion": null,
-      "barrio": "SUCRE",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-sucre-bogota/193907575",
-      "titulo": "Apartamento en Arriendo en Sucre, Bogotá",
-      "id_domus": "193907575",
-      "fechaPublicacion": "2026-06-23",
-      "lat": 4.6322645,
-      "lon": -74.067017,
-      "location_type": "exacta",
-      "zonaConsulta": "PALERMO",
-      "zonaSlug": "palermo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 30.0,
-      "precioM2": 60000,
-      "administracion": null,
-      "barrio": "PALERMO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194193596",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194193596",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.6323657,
-      "lon": -74.0705862,
       "location_type": "exacta",
       "zonaConsulta": "PALERMO",
       "zonaSlug": "palermo",

@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 16:49",
+  "generado": "2026.OCT.01 22:04",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 931608655,
+      "area": 74.0,
+      "precioM2": 12589306,
+      "administracion": null,
+      "barrio": "SANTA HELENA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": null,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/colina-living-apartamento-en-venta-en-colina-campestre-bogota/192411721",
+      "titulo": "COLINA LIVING, Apartamento en Venta en Colina Campestre, Bogotá",
+      "id_domus": "192411721",
+      "fechaPublicacion": "2025-05-19",
+      "lat": 4.7352073,
+      "lon": -74.0647421,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA HELENA",
+      "zonaSlug": "santa-helena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1050000000,
+      "area": 146.0,
+      "precioM2": 7191781,
+      "administracion": 756000.0,
+      "barrio": "SANTA HELENA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-colina-campestre-bogota/194290984",
+      "titulo": "Apartamento en Venta en Colina Campestre, Bogotá",
+      "id_domus": "194290984",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.7293323,
+      "lon": -74.0643832,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA HELENA",
+      "zonaSlug": "santa-helena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -104,39 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 495000000,
-      "area": 100.0,
-      "precioM2": 4950000,
-      "administracion": null,
-      "barrio": "SANTA HELENA",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-colina-campestre-bogota/194191777",
-      "titulo": "Apartamento en Venta en Colina Campestre, Bogotá",
-      "id_domus": "194191777",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.7308482376715,
-      "lon": -74.064803920715,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA HELENA",
-      "zonaSlug": "santa-helena",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -386,38 +418,6 @@
       "fechaPublicacion": "2026-08-21",
       "lat": 4.7289537,
       "lon": -74.0639666,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA HELENA",
-      "zonaSlug": "santa-helena",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1050000000,
-      "area": 146.0,
-      "precioM2": 7191781,
-      "administracion": 756000.0,
-      "barrio": "SANTA HELENA",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-colina-campestre-bogota/194290984",
-      "titulo": "Apartamento en Venta en Colina Campestre, Bogotá",
-      "id_domus": "194290984",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.7293323,
-      "lon": -74.0643832,
       "location_type": "exacta",
       "zonaConsulta": "SANTA HELENA",
       "zonaSlug": "santa-helena",

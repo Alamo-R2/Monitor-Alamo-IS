@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 05:55",
+  "generado": "2026.OCT.01 22:04",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 520000000,
+      "area": 124.0,
+      "precioM2": 4193548,
+      "administracion": 45000.0,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/194225778",
+      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
+      "id_domus": "194225778",
+      "fechaPublicacion": "2026-09-08",
+      "lat": 4.629944,
+      "lon": -74.069159,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA TERESITA",
+      "zonaSlug": "santa-teresita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,64 +72,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 680000000,
-      "area": 134.0,
-      "precioM2": 5074627,
-      "administracion": null,
-      "barrio": "SANTA TERESITA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194051494",
-      "titulo": "Apartamento en Venta en Bogotá",
-      "id_domus": "194051494",
-      "fechaPublicacion": "2026-07-29",
-      "lat": 4.6325846,
-      "lon": -74.0672645,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA TERESITA",
-      "zonaSlug": "santa-teresita",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-3",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 315000000,
-      "area": 44.0,
-      "precioM2": 7159091,
-      "administracion": 420000.0,
+      "precio": 520000000,
+      "area": 124.0,
+      "precioM2": 4193548,
+      "administracion": 50000.0,
       "barrio": "TEUSAQUILLO",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 3,
+      "banos": 2,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/194319629",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/193995621",
       "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
-      "id_domus": "194319629",
-      "fechaPublicacion": "2026-09-25",
-      "lat": 4.6335683,
-      "lon": -74.073033,
+      "id_domus": "193995621",
+      "fechaPublicacion": "2026-07-15",
+      "lat": 4.629944,
+      "lon": -74.069159,
       "location_type": "exacta",
       "zonaConsulta": "SANTA TERESITA",
       "zonaSlug": "santa-teresita",
@@ -142,9 +142,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 580000000,
+      "precio": 570000000,
       "area": 68.0,
-      "precioM2": 8529412,
+      "precioM2": 8382353,
       "administracion": 443700.0,
       "barrio": "SANTA TERESITA",
       "upl": "Centro Histórico",
@@ -238,6 +238,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 260000000,
+      "area": 30.0,
+      "precioM2": 8666667,
+      "administracion": 170000.0,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/194328143",
+      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
+      "id_domus": "194328143",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.632248720338,
+      "lon": -74.070457220078,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA TERESITA",
+      "zonaSlug": "santa-teresita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 390000000,
       "area": 56.0,
       "precioM2": 6964286,
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -345,7 +377,7 @@
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194202805",
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 600000000,
+      "area": 113.0,
+      "precioM2": 5309735,
+      "administracion": 178000.0,
+      "barrio": "LA SOLEDAD",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-soledad-bogota/194343259",
+      "titulo": "Apartamento en Venta en La soledad, Bogotá",
+      "id_domus": "194343259",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.6347688,
+      "lon": -74.0755644,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA TERESITA",
+      "zonaSlug": "santa-teresita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -610,70 +674,6 @@
       "fechaPublicacion": "2026-08-27",
       "lat": 4.6334167,
       "lon": -74.0717065,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA TERESITA",
-      "zonaSlug": "santa-teresita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 540000000,
-      "area": 134.0,
-      "precioM2": 4029851,
-      "administracion": 100000.0,
-      "barrio": "SANTA TERESITA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/191610259",
-      "titulo": "Apartamento en  Venta en Chapinero, Bogotá",
-      "id_domus": "191610259",
-      "fechaPublicacion": "2024-10-24",
-      "lat": 4.6325200119207,
-      "lon": -74.067040036464,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA TERESITA",
-      "zonaSlug": "santa-teresita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 590000000,
-      "area": 120.0,
-      "precioM2": 4916667,
-      "administracion": 180000.0,
-      "barrio": "LA SOLEDAD",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-soledad-bogota/194174323",
-      "titulo": "Apartamento en Venta en La soledad, Bogotá",
-      "id_domus": "194174323",
-      "fechaPublicacion": "2026-08-27",
-      "lat": 4.6347688,
-      "lon": -74.0755644,
       "location_type": "exacta",
       "zonaConsulta": "SANTA TERESITA",
       "zonaSlug": "santa-teresita",
