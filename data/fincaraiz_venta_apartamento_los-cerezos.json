@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 17,
+  "total": 18,
   "zona": "LOS CEREZOS",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 23:58",
+  "generado": "2026.OCT.01 06:39",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -142,6 +142,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 360000000,
+      "area": 90.0,
+      "precioM2": 4000000,
+      "administracion": null,
+      "barrio": "LOS CEREZOS",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-cerezos-bogota/194325960",
+      "titulo": "Apartamento en Venta en Los cerezos, Bogotá",
+      "id_domus": "194325960",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.709496,
+      "lon": -74.097543,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS CEREZOS",
+      "zonaSlug": "los-cerezos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 420000000,
       "area": 77.0,
       "precioM2": 5454545,
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 230000000,
+      "area": 70.0,
+      "precioM2": 3285714,
+      "administracion": 249000.0,
+      "barrio": "LOS CEREZOS",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194327426",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194327426",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.7059302,
+      "lon": -74.1026799,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS CEREZOS",
+      "zonaSlug": "los-cerezos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -514,38 +578,6 @@
       "fechaPublicacion": "2026-02-26",
       "lat": 4.708697933102,
       "lon": -74.096863434695,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS CEREZOS",
-      "zonaSlug": "los-cerezos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 480000000,
-      "area": 122.0,
-      "precioM2": 3934426,
-      "administracion": null,
-      "barrio": "LOS CEREZOS",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-cerezos-bogota/193260678",
-      "titulo": "Apartamento en Venta en Los cerezos, Bogotá",
-      "id_domus": "193260678",
-      "fechaPublicacion": "2026-01-09",
-      "lat": 4.7076703,
-      "lon": -74.096992,
       "location_type": "exacta",
       "zonaConsulta": "LOS CEREZOS",
       "zonaSlug": "los-cerezos",

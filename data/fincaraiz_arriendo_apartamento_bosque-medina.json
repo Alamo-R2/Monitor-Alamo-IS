@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.25 05:32",
+  "generado": "2026.OCT.01 06:39",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 13500000,
+      "area": 267.0,
+      "precioM2": 50562,
+      "administracion": null,
+      "barrio": "BOSQUE MEDINA",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 5,
+      "banos": 5,
+      "parqueaderos": 3,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosque-medina-bogota/194335600",
+      "titulo": "Apartamento en Arriendo en Bosque Medina, Bogotá",
+      "id_domus": "194335600",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.711159,
+      "lon": -74.025015,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSQUE MEDINA",
+      "zonaSlug": "bosque-medina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,39 +72,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 13200000,
-      "area": 220.0,
-      "precioM2": 60000,
+      "precio": 24900000,
+      "area": 409.0,
+      "precioM2": 60880,
       "administracion": null,
       "barrio": "BOSQUE MEDINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 3,
+      "banos": 5,
+      "parqueaderos": 4,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosque-medina-bogota/193851943",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosque-medina-bogota/194331916",
       "titulo": "Apartamento en Arriendo en Bosque Medina, Bogotá",
-      "id_domus": "193851943",
-      "fechaPublicacion": "2026-06-08",
-      "lat": 4.7110953,
-      "lon": -74.0263401,
+      "id_domus": "194331916",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.7097364,
+      "lon": -74.0249337,
       "location_type": "exacta",
       "zonaConsulta": "BOSQUE MEDINA",
       "zonaSlug": "bosque-medina",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -194,38 +226,6 @@
       "fechaPublicacion": "2026-08-12",
       "lat": 4.707570818582,
       "lon": -74.028732727295,
-      "location_type": "exacta",
-      "zonaConsulta": "BOSQUE MEDINA",
-      "zonaSlug": "bosque-medina",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 10000000,
-      "area": 265.0,
-      "precioM2": 37736,
-      "administracion": 2339000.0,
-      "barrio": "BOSQUE MEDINA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 4,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosque-medina-bogota/193463378",
-      "titulo": "Apartamento en Arriendo en Bosque Medina, Bogotá",
-      "id_domus": "193463378",
-      "fechaPublicacion": "2026-03-04",
-      "lat": 4.7098200184804,
-      "lon": -74.025190032099,
       "location_type": "exacta",
       "zonaConsulta": "BOSQUE MEDINA",
       "zonaSlug": "bosque-medina",
@@ -366,38 +366,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 13200000,
-      "area": 232.0,
-      "precioM2": 56897,
-      "administracion": null,
-      "barrio": "BOSQUE MEDINA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 3,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosque-medina-bogota/194287026",
-      "titulo": "Apartamento en Arriendo en Bosque Medina, Bogotá",
-      "id_domus": "194287026",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.7110953,
-      "lon": -74.0263401,
-      "location_type": "exacta",
-      "zonaConsulta": "BOSQUE MEDINA",
-      "zonaSlug": "bosque-medina",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 11301000,
       "area": 232.0,
       "precioM2": 48711,
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -456,15 +424,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 11500000,
+      "precio": 12500000,
       "area": 183.0,
-      "precioM2": 62842,
+      "precioM2": 68306,
       "administracion": null,
       "barrio": "BOSQUE MEDINA",
       "upl": "Usaquén",
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-08-27",
       "lat": 4.711128768842,
       "lon": -74.025004121487,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSQUE MEDINA",
+      "zonaSlug": "bosque-medina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 13200000,
+      "area": 232.0,
+      "precioM2": 56897,
+      "administracion": null,
+      "barrio": "BOSQUE MEDINA",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-altos-de-bella-suiza-bogota/193851170",
+      "titulo": "Apartamento en Arriendo en Altos de Bella Suiza, Bogotá",
+      "id_domus": "193851170",
+      "fechaPublicacion": "2026-06-07",
+      "lat": 4.7114006,
+      "lon": -74.0280305,
       "location_type": "exacta",
       "zonaConsulta": "BOSQUE MEDINA",
       "zonaSlug": "bosque-medina",

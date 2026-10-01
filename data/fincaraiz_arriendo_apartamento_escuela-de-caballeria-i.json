@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 6,
   "zona": "ESCUELA DE CABALLERIA I",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.25 05:32",
+  "generado": "2026.OCT.01 06:39",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 6150000,
+      "area": 140.0,
+      "precioM2": 43929,
+      "administracion": 759000.0,
+      "barrio": "SANTA ANA",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-ana-bogota/194340489",
+      "titulo": "Apartamento en Arriendo en Santa Ana, Bogotá",
+      "id_domus": "194340489",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6867085,
+      "lon": -74.0331924,
+      "location_type": "exacta",
+      "zonaConsulta": "ESCUELA DE CABALLERIA I",
+      "zonaSlug": "escuela-de-caballeria-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 14000000,
       "area": 206.0,
       "precioM2": 67961,
@@ -104,7 +136,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 13900000,
+      "area": 220.0,
+      "precioM2": 63182,
+      "administracion": null,
+      "barrio": "ESCUELA DE CABALLERIA I",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 5,
+      "parqueaderos": 3,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-ana-oriental-bogota/194333587",
+      "titulo": "Apartamento en Arriendo en Santa ana oriental, Bogotá",
+      "id_domus": "194333587",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.687459196284,
+      "lon": -74.033594063499,
+      "location_type": "exacta",
+      "zonaConsulta": "ESCUELA DE CABALLERIA I",
+      "zonaSlug": "escuela-de-caballeria-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
