@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.25 20:48",
+  "generado": "2026.OCT.01 16:49",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 930000000,
-      "area": 115.0,
-      "precioM2": 8086957,
-      "administracion": 671000.0,
+      "precio": 450000000,
+      "area": 63.0,
+      "precioM2": 7142857,
+      "administracion": 363000.0,
       "barrio": "CIUDAD JARDIN NORTE",
       "upl": "Niza",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 5,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-jardin-norte-bogota/194271293",
-      "titulo": "Apartamento en Venta en Ciudad jardin norte, Bogotá",
-      "id_domus": "194271293",
-      "fechaPublicacion": "2026-09-17",
-      "lat": 4.7089978596353,
-      "lon": -74.057208052028,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gratamira-bogota/194340628",
+      "titulo": "Apartamento en Venta en Gratamira, Bogotá",
+      "id_domus": "194340628",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.723494,
+      "lon": -74.0749457,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD JARDIN NORTE",
       "zonaSlug": "ciudad-jardin-norte",
@@ -41,6 +41,38 @@
     },
     {
       "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1690000000,
+      "area": 273.0,
+      "precioM2": 6190476,
+      "administracion": null,
+      "barrio": "ALTOS DE SUBA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 6,
+      "parqueaderos": 4.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-altos-de-suba-bogota/193837275",
+      "titulo": "Apartamento en Venta en Altos de suba, Bogotá",
+      "id_domus": "193837275",
+      "fechaPublicacion": "2026-06-03",
+      "lat": 4.7264019,
+      "lon": -74.0752202,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD JARDIN NORTE",
+      "zonaSlug": "ciudad-jardin-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000000,
+      "area": 300.0,
+      "precioM2": 6666667,
+      "administracion": 1920000.0,
+      "barrio": "ALTOS DE SUBA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 3.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-altos-de-suba-bogota/194305994",
+      "titulo": "Apartamento en Venta en Altos de suba, Bogotá",
+      "id_domus": "194305994",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.7263239,
+      "lon": -74.0752202,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD JARDIN NORTE",
+      "zonaSlug": "ciudad-jardin-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -232,39 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1180000000,
-      "area": 164.0,
-      "precioM2": 7195122,
-      "administracion": 1120000.0,
-      "barrio": "CIUDAD JARDIN NORTE",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 3.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-colina-campestre-bogota/194100849",
-      "titulo": "Apartamento en Venta en Colina Campestre, Bogotá",
-      "id_domus": "194100849",
-      "fechaPublicacion": "2026-08-11",
-      "lat": 4.7233218487551,
-      "lon": -74.074214975407,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD JARDIN NORTE",
-      "zonaSlug": "ciudad-jardin-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -418,38 +450,6 @@
       "fechaPublicacion": "2026-07-06",
       "lat": 4.7232317,
       "lon": -74.0724106,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD JARDIN NORTE",
-      "zonaSlug": "ciudad-jardin-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2000000000,
-      "area": 300.0,
-      "precioM2": 6666667,
-      "administracion": 1920000.0,
-      "barrio": "ALTOS DE SUBA",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 5,
-      "parqueaderos": 3.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-altos-de-suba-bogota/194305994",
-      "titulo": "Apartamento en Venta en Altos de suba, Bogotá",
-      "id_domus": "194305994",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.7263239,
-      "lon": -74.0752202,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD JARDIN NORTE",
       "zonaSlug": "ciudad-jardin-norte",
@@ -622,38 +622,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 420000000,
-      "area": 73.0,
-      "precioM2": 5753425,
-      "administracion": null,
-      "barrio": "CIUDAD JARDIN NORTE",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-colina-campestre-bogota/194108270",
-      "titulo": "Apartamento en Venta en Colina Campestre, Bogotá",
-      "id_domus": "194108270",
-      "fechaPublicacion": "2026-08-12",
-      "lat": 4.7192665,
-      "lon": -74.0684965,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD JARDIN NORTE",
-      "zonaSlug": "ciudad-jardin-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 520000000,
       "area": 97.0,
       "precioM2": 5360825,
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-09-21",
       "lat": 4.7207926,
       "lon": -74.074768,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD JARDIN NORTE",
+      "zonaSlug": "ciudad-jardin-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 800000000,
+      "area": 122.0,
+      "precioM2": 6557377,
+      "administracion": 730000.0,
+      "barrio": "CIUDAD JARDIN NORTE",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-jardin-norte-bogota/193767186",
+      "titulo": "Apartamento en Venta en Ciudad jardin norte, Bogotá",
+      "id_domus": "193767186",
+      "fechaPublicacion": "2026-05-19",
+      "lat": 4.7229903718191,
+      "lon": -74.073021411896,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD JARDIN NORTE",
       "zonaSlug": "ciudad-jardin-norte",

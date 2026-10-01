@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 12,
+  "total": 11,
   "zona": "VILLA MARIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.25 20:48",
+  "generado": "2026.OCT.01 16:49",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 185000000,
+      "area": 52.0,
+      "precioM2": 3557692,
+      "administracion": 163000.0,
+      "barrio": "VILLA MARIA",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-maria-bogota/193864402",
+      "titulo": "Apartamento en Venta en Villa maria, Bogotá",
+      "id_domus": "193864402",
+      "fechaPublicacion": "2026-06-11",
+      "lat": 4.735560885042,
+      "lon": -74.109138648077,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA MARIA",
+      "zonaSlug": "villa-maria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -226,38 +258,6 @@
       "fechaPublicacion": "2026-03-19",
       "lat": 4.740349013996,
       "lon": -74.09930810246,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA MARIA",
-      "zonaSlug": "villa-maria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 185000000,
-      "area": 52.0,
-      "precioM2": 3557692,
-      "administracion": 163000.0,
-      "barrio": "VILLA MARIA",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-maria-bogota/193864402",
-      "titulo": "Apartamento en Venta en Villa maria, Bogotá",
-      "id_domus": "193864402",
-      "fechaPublicacion": "2026-06-11",
-      "lat": 4.735560885042,
-      "lon": -74.109138648077,
       "location_type": "exacta",
       "zonaConsulta": "VILLA MARIA",
       "zonaSlug": "villa-maria",
@@ -354,38 +354,6 @@
       "fechaPublicacion": "2026-08-07",
       "lat": 4.7439592,
       "lon": -74.1050912,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA MARIA",
-      "zonaSlug": "villa-maria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 220000000,
-      "area": 72.0,
-      "precioM2": 3055556,
-      "administracion": null,
-      "barrio": "SABANA DE TIBABUYES",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-sabana-de-tibabuyes-bogota/193786999",
-      "titulo": "Apartamento en Venta en Sabana de tibabuyes, Bogotá",
-      "id_domus": "193786999",
-      "fechaPublicacion": "2026-05-23",
-      "lat": 4.74361450387,
-      "lon": -74.104133284105,
       "location_type": "exacta",
       "zonaConsulta": "VILLA MARIA",
       "zonaSlug": "villa-maria",

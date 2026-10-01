@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 00:53",
+  "generado": "2026.OCT.01 16:49",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 4550000,
-      "area": 86.0,
-      "precioM2": 52907,
-      "administracion": 921000.0,
-      "barrio": "CHICO NORTE",
+      "precio": 1600000,
+      "area": 52.0,
+      "precioM2": 30769,
+      "administracion": null,
+      "barrio": "RIONEGRO",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2.0,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 6,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/194135487",
-      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
-      "id_domus": "194135487",
-      "fechaPublicacion": "2026-08-19",
-      "lat": 4.683884354801,
-      "lon": -74.056452282866,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-rionegro-bogota/194342174",
+      "titulo": "Apartamento en Arriendo en Rionegro, Bogotá",
+      "id_domus": "194342174",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.685221,
+      "lon": -74.0643032,
       "location_type": "exacta",
       "zonaConsulta": "LA CASTELLANA",
       "zonaSlug": "la-castellana",
@@ -41,6 +41,38 @@
     },
     {
       "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1650000,
+      "area": 27.0,
+      "precioM2": 61111,
+      "administracion": 392000.0,
+      "barrio": "LA CASTELLANA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-castellana-bogota/193985229",
+      "titulo": "Apartamento en Arriendo en La castellana, Bogotá",
+      "id_domus": "193985229",
+      "fechaPublicacion": "2026-07-13",
+      "lat": 4.6831789,
+      "lon": -74.0586667,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CASTELLANA",
+      "zonaSlug": "la-castellana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -226,38 +258,6 @@
       "fechaPublicacion": "2026-08-12",
       "lat": 4.683884354801,
       "lon": -74.056452282866,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CASTELLANA",
-      "zonaSlug": "la-castellana",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3862000,
-      "area": 93.0,
-      "precioM2": 41527,
-      "administracion": null,
-      "barrio": "LA CASTELLANA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2.0,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-castellana-bogota/194236926",
-      "titulo": "Apartamento en Arriendo en La castellana, Bogotá",
-      "id_domus": "194236926",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.6848174363531,
-      "lon": -74.05980348587,
       "location_type": "exacta",
       "zonaConsulta": "LA CASTELLANA",
       "zonaSlug": "la-castellana",
@@ -334,38 +334,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1750000,
-      "area": 58.0,
-      "precioM2": 30172,
-      "administracion": null,
-      "barrio": "LA CASTELLANA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2.0,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-castellana-bogota/194190576",
-      "titulo": "Apartamento en Arriendo en La castellana, Bogotá",
-      "id_domus": "194190576",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.6809657,
-      "lon": -74.0610185,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CASTELLANA",
-      "zonaSlug": "la-castellana",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 3700000,
       "area": 70.0,
       "precioM2": 52857,
@@ -392,39 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3862000,
-      "area": 93.0,
-      "precioM2": 41527,
-      "administracion": null,
-      "barrio": "LA CASTELLANA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2.0,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-castellana-bogota/194278850",
-      "titulo": "Apartamento en Arriendo en La castellana, Bogotá",
-      "id_domus": "194278850",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.6848174363531,
-      "lon": -74.05980348587,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CASTELLANA",
-      "zonaSlug": "la-castellana",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -488,39 +424,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 27.0,
-      "precioM2": 66667,
-      "administracion": null,
-      "barrio": "LA CASTELLANA",
+      "precio": 4550000,
+      "area": 86.0,
+      "precioM2": 52907,
+      "administracion": 921000.0,
+      "barrio": "CHICO NORTE",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
+      "habitaciones": 2.0,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/193908326",
-      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
-      "id_domus": "193908326",
-      "fechaPublicacion": "2026-06-23",
-      "lat": 4.6794291,
-      "lon": -74.0622705,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/194135487",
+      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
+      "id_domus": "194135487",
+      "fechaPublicacion": "2026-08-19",
+      "lat": 4.683884354801,
+      "lon": -74.056452282866,
       "location_type": "exacta",
       "zonaConsulta": "LA CASTELLANA",
       "zonaSlug": "la-castellana",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -552,39 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3862000,
-      "area": 93.0,
-      "precioM2": 41527,
-      "administracion": null,
-      "barrio": "LA CASTELLANA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2.0,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-castellana-bogota/194229975",
-      "titulo": "Apartamento en Arriendo en La castellana, Bogotá",
-      "id_domus": "194229975",
-      "fechaPublicacion": "2026-09-09",
-      "lat": 4.6848174363531,
-      "lon": -74.05980348587,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CASTELLANA",
-      "zonaSlug": "la-castellana",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -648,32 +552,128 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 5968953,
-      "area": 89.0,
-      "precioM2": 67067,
+      "precio": 4000000,
+      "area": 75.0,
+      "precioM2": 53333,
       "administracion": null,
-      "barrio": "CHICO NORTE",
+      "barrio": "LA CASTELLANA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2.0,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194256744",
+      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
+      "id_domus": "194256744",
+      "fechaPublicacion": "2026-09-15",
+      "lat": 4.6789613,
+      "lon": -74.0629669,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CASTELLANA",
+      "zonaSlug": "la-castellana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 5500000,
+      "area": 86.0,
+      "precioM2": 63953,
+      "administracion": null,
+      "barrio": "EL CHICO",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2.0,
       "banos": 2,
       "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-chico-bogota/193192716",
+      "titulo": "Apartamento en Arriendo en El chico, Bogotá",
+      "id_domus": "193192716",
+      "fechaPublicacion": "2025-12-11",
+      "lat": 4.6823643115054,
+      "lon": -74.057000816902,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CASTELLANA",
+      "zonaSlug": "la-castellana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1900000,
+      "area": 24.0,
+      "precioM2": 79167,
+      "administracion": null,
+      "barrio": "LA CASTELLANA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1,
+      "parqueaderos": null,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/194284165",
-      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
-      "id_domus": "194284165",
-      "fechaPublicacion": "2026-09-20",
-      "lat": 4.683523383869,
-      "lon": -74.056510260722,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194286248",
+      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
+      "id_domus": "194286248",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.683103959394,
+      "lon": -74.058737929006,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CASTELLANA",
+      "zonaSlug": "la-castellana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1900000,
+      "area": 22.0,
+      "precioM2": 86364,
+      "administracion": 525000.0,
+      "barrio": "LA CASTELLANA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-castellana-bogota/194184584",
+      "titulo": "Apartamento en Arriendo en La castellana, Bogotá",
+      "id_domus": "194184584",
+      "fechaPublicacion": "2026-08-30",
+      "lat": 4.6819592,
+      "lon": -74.0601163,
       "location_type": "exacta",
       "zonaConsulta": "LA CASTELLANA",
       "zonaSlug": "la-castellana",

@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 00:53",
+  "generado": "2026.OCT.01 16:49",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 6500000,
-      "area": 140.0,
-      "precioM2": 46429,
-      "administracion": 2200000.0,
-      "barrio": "CHICO NORTE",
+      "precio": 7000000,
+      "area": 167.0,
+      "precioM2": 41916,
+      "administracion": 1058000.0,
+      "barrio": "SANTA BIBIANA",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 3,
       "banos": 3,
-      "parqueaderos": 2.0,
+      "parqueaderos": 1.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/194233483",
-      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
-      "id_domus": "194233483",
-      "fechaPublicacion": "2026-09-09",
-      "lat": 4.689383,
-      "lon": -74.0500703,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-navarra-bogota/194341002",
+      "titulo": "Apartamento en Arriendo en Chicó Navarra, Bogotá",
+      "id_domus": "194341002",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.686714,
+      "lon": -74.05496,
       "location_type": "exacta",
       "zonaConsulta": "SANTA BIBIANA",
       "zonaSlug": "santa-bibiana",
@@ -41,6 +41,38 @@
     },
     {
       "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3850000,
+      "area": 121.0,
+      "precioM2": 31818,
+      "administracion": 1050000.0,
+      "barrio": "SANTA BIBIANA",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": null,
+      "estrato": 6.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-navarra-bogota/194281190",
+      "titulo": "Apartamento en Arriendo en Chicó Navarra, Bogotá",
+      "id_domus": "194281190",
+      "fechaPublicacion": "2026-09-18",
+      "lat": 4.6883905,
+      "lon": -74.0535552,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA BIBIANA",
+      "zonaSlug": "santa-bibiana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,71 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 6300000,
-      "area": 175.0,
-      "precioM2": 36000,
-      "administracion": null,
-      "barrio": "CHICO NORTE",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 5.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/193514907",
-      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
-      "id_domus": "193514907",
-      "fechaPublicacion": "2026-03-16",
-      "lat": 4.6849043158963,
-      "lon": -74.050258167212,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA BIBIANA",
-      "zonaSlug": "santa-bibiana",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 5700000,
-      "area": 82.0,
-      "precioM2": 69512,
-      "administracion": 900000.0,
-      "barrio": "SANTA BIBIANA",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 6.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-navarra-bogota/194216737",
-      "titulo": "Apartamento en Arriendo en Chicó Navarra, Bogotá",
-      "id_domus": "194216737",
-      "fechaPublicacion": "2026-09-06",
-      "lat": 4.6915224,
-      "lon": -74.0465317,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA BIBIANA",
-      "zonaSlug": "santa-bibiana",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -552,71 +520,39 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-17",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 6500000,
+      "area": 140.0,
+      "precioM2": 46429,
+      "administracion": 2200000.0,
+      "barrio": "CHICO NORTE",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 6.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/194233483",
+      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
+      "id_domus": "194233483",
+      "fechaPublicacion": "2026-09-09",
+      "lat": 4.689383,
+      "lon": -74.0500703,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA BIBIANA",
+      "zonaSlug": "santa-bibiana",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-18",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 9800000,
-      "area": 150.0,
-      "precioM2": 65333,
-      "administracion": null,
-      "barrio": "SANTA BIBIANA",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 2.0,
-      "estrato": 6.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-navarra-bogota/193956061",
-      "titulo": "Apartamento en Arriendo en Chicó Navarra, Bogotá",
-      "id_domus": "193956061",
-      "fechaPublicacion": "2026-07-05",
-      "lat": 4.6924169,
-      "lon": -74.054159,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA BIBIANA",
-      "zonaSlug": "santa-bibiana",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 7600000,
-      "area": 135.0,
-      "precioM2": 56296,
-      "administracion": null,
-      "barrio": "SANTA BIBIANA",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 2.0,
-      "estrato": 6.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-navarra-bogota/194084620",
-      "titulo": "Apartamento en Arriendo en Chicó Navarra, Bogotá",
-      "id_domus": "194084620",
-      "fechaPublicacion": "2026-08-06",
-      "lat": 4.6899874866225,
-      "lon": -74.054539230688,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA BIBIANA",
-      "zonaSlug": "santa-bibiana",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -648,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -674,6 +610,70 @@
       "fechaPublicacion": "2026-09-15",
       "lat": 4.690181680345,
       "lon": -74.054822239119,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA BIBIANA",
+      "zonaSlug": "santa-bibiana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2950000,
+      "area": 25.0,
+      "precioM2": 118000,
+      "administracion": null,
+      "barrio": "SAN PATRICIO",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 6.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-patricio-bogota/192864662",
+      "titulo": "Apartamento en Arriendo en San patricio, Bogotá",
+      "id_domus": "192864662",
+      "fechaPublicacion": "2025-09-12",
+      "lat": 4.6874046,
+      "lon": -74.0477812,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA BIBIANA",
+      "zonaSlug": "santa-bibiana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 12000000,
+      "area": 180.0,
+      "precioM2": 66667,
+      "administracion": null,
+      "barrio": "SANTA BIBIANA",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 3.0,
+      "estrato": 6.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-bibiana-bogota/194323606",
+      "titulo": "Apartamento en Arriendo en Santa bibiana, Bogotá",
+      "id_domus": "194323606",
+      "fechaPublicacion": "2026-09-27",
+      "lat": 4.6900676,
+      "lon": -74.0504038,
       "location_type": "exacta",
       "zonaConsulta": "SANTA BIBIANA",
       "zonaSlug": "santa-bibiana",

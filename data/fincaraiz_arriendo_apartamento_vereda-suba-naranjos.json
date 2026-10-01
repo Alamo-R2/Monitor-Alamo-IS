@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 13,
+  "total": 14,
   "zona": "VEREDA SUBA NARANJOS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.25 20:48",
+  "generado": "2026.OCT.01 16:49",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 16000000,
+      "area": 283.0,
+      "precioM2": 56537,
+      "administracion": 2100000.0,
+      "barrio": "VEREDA SUBA NARANJOS",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cerros-de-suba-bogota/194330885",
+      "titulo": "Apartamento en Arriendo en Cerros de Suba, Bogotá",
+      "id_domus": "194330885",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.7245935,
+      "lon": -74.0777563,
+      "location_type": "exacta",
+      "zonaConsulta": "VEREDA SUBA NARANJOS",
+      "zonaSlug": "vereda-suba-naranjos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,16 +200,16 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 29999999,
+      "precio": 25000000,
       "area": 420.0,
-      "precioM2": 71429,
-      "administracion": 2950000.0,
+      "precioM2": 59524,
+      "administracion": null,
       "barrio": "VEREDA SUBA NARANJOS",
       "upl": "Niza",
       "ciudad": "Bogotá",
@@ -188,8 +220,8 @@
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gratamira-bogota/193774406",
-      "titulo": "Apartamento en Arriendo en Gratamira, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-sotileza-bogota/193774406",
+      "titulo": "Apartamento en Arriendo en Sotileza, Bogotá",
       "id_domus": "193774406",
       "fechaPublicacion": "2026-05-20",
       "lat": 4.7189562,
@@ -200,7 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 9200000,
+      "area": 224.0,
+      "precioM2": 41071,
+      "administracion": null,
+      "barrio": "VEREDA SUBA NARANJOS",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 3.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-colinas-de-suba-bogota/194337083",
+      "titulo": "Apartamento en Arriendo en Colinas de Suba, Bogotá",
+      "id_domus": "194337083",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.725844205695,
+      "lon": -74.077194041608,
+      "location_type": "exacta",
+      "zonaConsulta": "VEREDA SUBA NARANJOS",
+      "zonaSlug": "vereda-suba-naranjos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -386,38 +450,6 @@
       "fechaPublicacion": "2025-05-16",
       "lat": 4.724594,
       "lon": -74.077756,
-      "location_type": "exacta",
-      "zonaConsulta": "VEREDA SUBA NARANJOS",
-      "zonaSlug": "vereda-suba-naranjos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1264000,
-      "area": 47.0,
-      "precioM2": 26894,
-      "administracion": 136000.0,
-      "barrio": "VEREDA SUBA NARANJOS",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-suba-bogota/192839635",
-      "titulo": "Apartamento en Arriendo en Suba, Bogotá",
-      "id_domus": "192839635",
-      "fechaPublicacion": "2025-09-05",
-      "lat": 4.719853,
-      "lon": -74.0852628,
       "location_type": "exacta",
       "zonaConsulta": "VEREDA SUBA NARANJOS",
       "zonaSlug": "vereda-suba-naranjos",
