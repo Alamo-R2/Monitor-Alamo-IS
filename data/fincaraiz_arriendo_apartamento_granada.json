@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.25 00:06",
+  "generado": "2026.OCT.01 00:53",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,9 +14,41 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3170000,
-      "area": 20.0,
-      "precioM2": 158500,
+      "precio": 13000000,
+      "area": 260.0,
+      "precioM2": 50000,
+      "administracion": 3000000.0,
+      "barrio": "GRANADA",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/193861844",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "193861844",
+      "fechaPublicacion": "2026-06-10",
+      "lat": 4.6503136361553,
+      "lon": -74.052057011013,
+      "location_type": "exacta",
+      "zonaConsulta": "GRANADA",
+      "zonaSlug": "granada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3900000,
+      "area": 50.0,
+      "precioM2": 78000,
       "administracion": null,
       "barrio": "EMAUS",
       "upl": "Chapinero",
@@ -25,22 +57,86 @@
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 6,
+      "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-emaus-bogota/194262461",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-emaus-bogota/194335678",
       "titulo": "Apartamento en Arriendo en Emaus, Bogotá",
-      "id_domus": "194262461",
-      "fechaPublicacion": "2026-09-15",
-      "lat": 4.6517568078002,
-      "lon": -74.053898720368,
+      "id_domus": "194335678",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6501534,
+      "lon": -74.0551304,
       "location_type": "exacta",
       "zonaConsulta": "GRANADA",
       "zonaSlug": "granada",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2400000,
+      "area": 42.0,
+      "precioM2": 57143,
+      "administracion": 300000.0,
+      "barrio": "EMAUS",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-emaus-bogota/194288117",
+      "titulo": "Apartamento en Arriendo en Emaus, Bogotá",
+      "id_domus": "194288117",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.6501375,
+      "lon": -74.0584269,
+      "location_type": "exacta",
+      "zonaConsulta": "GRANADA",
+      "zonaSlug": "granada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3550000,
+      "area": 90.0,
+      "precioM2": 39444,
+      "administracion": 650000.0,
+      "barrio": "GRANADA",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/194281920",
+      "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
+      "id_domus": "194281920",
+      "fechaPublicacion": "2026-09-19",
+      "lat": 4.6501071258216,
+      "lon": -74.058215618134,
+      "location_type": "exacta",
+      "zonaConsulta": "GRANADA",
+      "zonaSlug": "granada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -72,39 +168,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 9000000,
-      "area": 140.0,
-      "precioM2": 64286,
-      "administracion": null,
+      "precio": 3100000,
+      "area": 40.0,
+      "precioM2": 77500,
+      "administracion": 648000.0,
       "barrio": "LOS ROSALES",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-rosales-bogota/194145358",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-rosales-bogota/194329491",
       "titulo": "Apartamento en Arriendo en Los rosales, Bogotá",
-      "id_domus": "194145358",
-      "fechaPublicacion": "2026-08-21",
-      "lat": 4.650048205932,
-      "lon": -74.053615328881,
+      "id_domus": "194329491",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.650614445401,
+      "lon": -74.051832162799,
       "location_type": "exacta",
       "zonaConsulta": "GRANADA",
       "zonaSlug": "granada",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -136,39 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 5500000,
-      "area": 82.0,
-      "precioM2": 67073,
-      "administracion": 993100.0,
-      "barrio": "LOS ROSALES",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-rosales-bogota/194187084",
-      "titulo": "Apartamento en Arriendo en Los rosales, Bogotá",
-      "id_domus": "194187084",
-      "fechaPublicacion": "2026-08-31",
-      "lat": 4.6508986038606,
-      "lon": -74.055941080335,
-      "location_type": "exacta",
-      "zonaConsulta": "GRANADA",
-      "zonaSlug": "granada",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -200,39 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 8500000,
-      "area": 148.0,
-      "precioM2": 57432,
-      "administracion": 1700000.0,
-      "barrio": "GRANADA",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/193899779",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "193899779",
-      "fechaPublicacion": "2026-06-21",
-      "lat": 4.6501361,
-      "lon": -74.0590054,
-      "location_type": "exacta",
-      "zonaConsulta": "GRANADA",
-      "zonaSlug": "granada",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3170000,
+      "area": 20.0,
+      "precioM2": 158500,
+      "administracion": null,
+      "barrio": "EMAUS",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-emaus-bogota/194262461",
+      "titulo": "Apartamento en Arriendo en Emaus, Bogotá",
+      "id_domus": "194262461",
+      "fechaPublicacion": "2026-09-15",
+      "lat": 4.6517568078002,
+      "lon": -74.053898720368,
+      "location_type": "exacta",
+      "zonaConsulta": "GRANADA",
+      "zonaSlug": "granada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -281,7 +345,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 2.0,
-      "estrato": 5,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-granada-bogota/194201271",
@@ -296,39 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3600000,
-      "area": 120.0,
-      "precioM2": 30000,
-      "administracion": 600000.0,
-      "barrio": "GRANADA",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/194267382",
-      "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
-      "id_domus": "194267382",
-      "fechaPublicacion": "2026-09-16",
-      "lat": 4.6465608,
-      "lon": -74.0556711,
-      "location_type": "exacta",
-      "zonaConsulta": "GRANADA",
-      "zonaSlug": "granada",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -584,71 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2500000,
-      "area": 35.0,
-      "precioM2": 71429,
-      "administracion": null,
-      "barrio": "GRANADA",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194184806",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194184806",
-      "fechaPublicacion": "2026-08-30",
-      "lat": 4.6475295,
-      "lon": -74.0576448,
-      "location_type": "exacta",
-      "zonaConsulta": "GRANADA",
-      "zonaSlug": "granada",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-20",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 318000,
-      "area": 40.0,
-      "precioM2": 7950,
-      "administracion": 3100000.0,
-      "barrio": "GRANADA",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/192814559",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "192814559",
-      "fechaPublicacion": "2025-08-31",
-      "lat": 4.6484689,
-      "lon": -74.0541349,
-      "location_type": "exacta",
-      "zonaConsulta": "GRANADA",
-      "zonaSlug": "granada",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-01-06",
       "lat": 4.6488956,
       "lon": -74.059526,
+      "location_type": "exacta",
+      "zonaConsulta": "GRANADA",
+      "zonaSlug": "granada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3500000,
+      "area": 62.0,
+      "precioM2": 56452,
+      "administracion": null,
+      "barrio": "GRANADA",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/194211954",
+      "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
+      "id_domus": "194211954",
+      "fechaPublicacion": "2026-09-04",
+      "lat": 4.6475747,
+      "lon": -74.0577186,
       "location_type": "exacta",
       "zonaConsulta": "GRANADA",
       "zonaSlug": "granada",

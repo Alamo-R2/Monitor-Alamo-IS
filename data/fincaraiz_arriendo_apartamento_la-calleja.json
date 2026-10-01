@@ -5,10 +5,74 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.25 20:48",
+  "generado": "2026.OCT.01 00:53",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 8900000,
+      "area": 146.0,
+      "precioM2": 60959,
+      "administracion": null,
+      "barrio": "COUNTRY CLUB",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 6.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-country-club-bogota/193837427",
+      "titulo": "Apartamento en Arriendo en Country club, Bogotá",
+      "id_domus": "193837427",
+      "fechaPublicacion": "2026-06-03",
+      "lat": 4.7048558152494,
+      "lon": -74.044482707977,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CALLEJA",
+      "zonaSlug": "la-calleja",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3200000,
+      "area": 77.0,
+      "precioM2": 41558,
+      "administracion": null,
+      "barrio": "LA CALLEJA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 5.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-calleja-bogota/194150010",
+      "titulo": "Apartamento en Arriendo en La Calleja, Bogotá",
+      "id_domus": "194150010",
+      "fechaPublicacion": "2026-08-22",
+      "lat": 4.7144978419342,
+      "lon": -74.050417231738,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CALLEJA",
+      "zonaSlug": "la-calleja",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -104,71 +168,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2500000,
-      "area": 42.0,
-      "precioM2": 59524,
+      "precio": 4000000,
+      "area": 67.0,
+      "precioM2": 59701,
       "administracion": null,
-      "barrio": "PRADO VERANIEGO",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-prado-veraniego-bogota/194260029",
-      "titulo": "Apartamento en Arriendo en Prado veraniego, Bogotá",
-      "id_domus": "194260029",
-      "fechaPublicacion": "2026-09-15",
-      "lat": 4.71872,
-      "lon": -74.052351,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CALLEJA",
-      "zonaSlug": "la-calleja",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 5500000,
-      "area": 70.0,
-      "precioM2": 78571,
-      "administracion": null,
-      "barrio": "LA CAROLINA",
+      "barrio": "LA CALLEJA",
       "upl": "Niza",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 2.0,
-      "estrato": 6.0,
+      "estrato": 5.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-carolina-bogota/193978627",
-      "titulo": "Apartamento en Arriendo en La carolina, Bogotá",
-      "id_domus": "193978627",
-      "fechaPublicacion": "2026-07-10",
-      "lat": 4.7044763,
-      "lon": -74.0431341,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-calleja-bogota/194335077",
+      "titulo": "Apartamento en Arriendo en La Calleja, Bogotá",
+      "id_domus": "194335077",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.7146023,
+      "lon": -74.0511718,
       "location_type": "exacta",
       "zonaConsulta": "LA CALLEJA",
       "zonaSlug": "la-calleja",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,39 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 8500000,
-      "area": 199.0,
-      "precioM2": 42714,
+      "precio": 5900000,
+      "area": 90.0,
+      "precioM2": 65556,
       "administracion": null,
-      "barrio": "LA CALLEJA",
+      "barrio": "SANTA BARBARA",
       "upl": "Niza",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
+      "habitaciones": 2,
+      "banos": 2,
       "parqueaderos": 2.0,
-      "estrato": 5.0,
+      "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-calleja-bogota/194156981",
-      "titulo": "Apartamento en Arriendo en La Calleja, Bogotá",
-      "id_domus": "194156981",
-      "fechaPublicacion": "2026-08-24",
-      "lat": 4.7075219,
-      "lon": -74.0498947,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-bogota/194323495",
+      "titulo": "Apartamento en Arriendo en Santa Barbara, Bogotá",
+      "id_domus": "194323495",
+      "fechaPublicacion": "2026-09-27",
+      "lat": 4.7034255,
+      "lon": -74.0443023,
       "location_type": "exacta",
       "zonaConsulta": "LA CALLEJA",
       "zonaSlug": "la-calleja",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -354,38 +386,6 @@
       "fechaPublicacion": "2026-09-16",
       "lat": 4.7175848,
       "lon": -74.0458014,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CALLEJA",
-      "zonaSlug": "la-calleja",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2900000,
-      "area": 42.0,
-      "precioM2": 69048,
-      "administracion": null,
-      "barrio": "LA CALLEJA",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-calleja-bogota/194308870",
-      "titulo": "Apartamento en Arriendo en La Calleja, Bogotá",
-      "id_domus": "194308870",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.71901,
-      "lon": -74.05187,
       "location_type": "exacta",
       "zonaConsulta": "LA CALLEJA",
       "zonaSlug": "la-calleja",

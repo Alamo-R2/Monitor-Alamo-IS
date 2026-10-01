@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 23:58",
+  "generado": "2026.OCT.01 00:53",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3960000,
-      "area": 64.0,
-      "precioM2": 61875,
-      "administracion": 970000.0,
-      "barrio": "QUINTA CAMACHO",
+      "precio": 2400000,
+      "area": 42.0,
+      "precioM2": 57143,
+      "administracion": 300000.0,
+      "barrio": "EMAUS",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
+      "habitaciones": 1,
+      "banos": 1,
       "parqueaderos": null,
       "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194210474",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194210474",
-      "fechaPublicacion": "2026-09-04",
-      "lat": 4.657589,
-      "lon": -74.0594969,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-emaus-bogota/194288117",
+      "titulo": "Apartamento en Arriendo en Emaus, Bogotá",
+      "id_domus": "194288117",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.6501375,
+      "lon": -74.0584269,
       "location_type": "exacta",
       "zonaConsulta": "QUINTA CAMACHO",
       "zonaSlug": "quinta-camacho",
@@ -41,6 +41,38 @@
     },
     {
       "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3550000,
+      "area": 90.0,
+      "precioM2": 39444,
+      "administracion": 650000.0,
+      "barrio": "QUINTA CAMACHO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/194281920",
+      "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
+      "id_domus": "194281920",
+      "fechaPublicacion": "2026-09-19",
+      "lat": 4.6501071258216,
+      "lon": -74.058215618134,
+      "location_type": "exacta",
+      "zonaConsulta": "QUINTA CAMACHO",
+      "zonaSlug": "quinta-camacho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -162,38 +194,6 @@
       "fechaPublicacion": "2026-09-09",
       "lat": 4.656754,
       "lon": -74.061513,
-      "location_type": "exacta",
-      "zonaConsulta": "QUINTA CAMACHO",
-      "zonaSlug": "quinta-camacho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 8500000,
-      "area": 148.0,
-      "precioM2": 57432,
-      "administracion": 1700000.0,
-      "barrio": "QUINTA CAMACHO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/193899779",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "193899779",
-      "fechaPublicacion": "2026-06-21",
-      "lat": 4.6501361,
-      "lon": -74.0590054,
       "location_type": "exacta",
       "zonaConsulta": "QUINTA CAMACHO",
       "zonaSlug": "quinta-camacho",
@@ -270,9 +270,41 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2690000,
+      "precio": 3960000,
+      "area": 64.0,
+      "precioM2": 61875,
+      "administracion": 970000.0,
+      "barrio": "QUINTA CAMACHO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194210474",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194210474",
+      "fechaPublicacion": "2026-09-04",
+      "lat": 4.657589,
+      "lon": -74.0594969,
+      "location_type": "exacta",
+      "zonaConsulta": "QUINTA CAMACHO",
+      "zonaSlug": "quinta-camacho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2550000,
       "area": 38.0,
-      "precioM2": 70789,
+      "precioM2": 67105,
       "administracion": null,
       "barrio": "QUINTA CAMACHO",
       "upl": "Barrios Unidos",
@@ -296,7 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000,
+      "area": 55.0,
+      "precioM2": 47273,
+      "administracion": null,
+      "barrio": "QUINTA CAMACHO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194191452",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194191452",
+      "fechaPublicacion": "2026-09-01",
+      "lat": 4.6535534,
+      "lon": -74.0624624,
+      "location_type": "exacta",
+      "zonaConsulta": "QUINTA CAMACHO",
+      "zonaSlug": "quinta-camacho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +488,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3000000,
+      "area": 38.0,
+      "precioM2": 78947,
+      "administracion": null,
+      "barrio": "QUINTA CAMACHO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-camacho-bogota/194053641",
+      "titulo": "Apartamento en Arriendo en Quinta camacho, Bogotá",
+      "id_domus": "194053641",
+      "fechaPublicacion": "2026-07-30",
+      "lat": 4.657589,
+      "lon": -74.0594969,
+      "location_type": "exacta",
+      "zonaConsulta": "QUINTA CAMACHO",
+      "zonaSlug": "quinta-camacho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3300000,
+      "area": 68.0,
+      "precioM2": 48529,
+      "administracion": 835000.0,
+      "barrio": "SANTA BARBARA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 5.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-bogota/194338921",
+      "titulo": "Apartamento en Arriendo en Santa Barbara, Bogotá",
+      "id_domus": "194338921",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6590656,
+      "lon": -74.0621841,
+      "location_type": "exacta",
+      "zonaConsulta": "QUINTA CAMACHO",
+      "zonaSlug": "quinta-camacho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -456,17 +584,17 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2500000,
-      "area": 42.0,
-      "precioM2": 59524,
-      "administracion": 300000.0,
-      "barrio": "EMAUS",
+      "precio": 2850000,
+      "area": 24.0,
+      "precioM2": 118750,
+      "administracion": null,
+      "barrio": "QUINTA CAMACHO",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -476,19 +604,19 @@
       "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-emaus-bogota/194288117",
-      "titulo": "Apartamento en Arriendo en Emaus, Bogotá",
-      "id_domus": "194288117",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.6501375,
-      "lon": -74.0584269,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-camacho-bogota/194180111",
+      "titulo": "Apartamento en Arriendo en Quinta camacho, Bogotá",
+      "id_domus": "194180111",
+      "fechaPublicacion": "2026-08-28",
+      "lat": 4.657589,
+      "lon": -74.0594969,
       "location_type": "exacta",
       "zonaConsulta": "QUINTA CAMACHO",
       "zonaSlug": "quinta-camacho",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -546,134 +674,6 @@
       "fechaPublicacion": "2026-03-13",
       "lat": 4.6548153,
       "lon": -74.0552684,
-      "location_type": "exacta",
-      "zonaConsulta": "QUINTA CAMACHO",
-      "zonaSlug": "quinta-camacho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3450000,
-      "area": 80.0,
-      "precioM2": 43125,
-      "administracion": 691000.0,
-      "barrio": "QUINTA CAMACHO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 3.0,
-      "estrato": 5.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-camacho-bogota/194287949",
-      "titulo": "Apartamento en Arriendo en Quinta camacho, Bogotá",
-      "id_domus": "194287949",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.6551289,
-      "lon": -74.0572353,
-      "location_type": "exacta",
-      "zonaConsulta": "QUINTA CAMACHO",
-      "zonaSlug": "quinta-camacho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 10996000,
-      "area": 99.0,
-      "precioM2": 111071,
-      "administracion": 996000.0,
-      "barrio": "EL VIRREY",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": null,
-      "estrato": 6.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-virrey-bogota/194172502",
-      "titulo": "Apartamento en Arriendo en El Virrey, Bogotá",
-      "id_domus": "194172502",
-      "fechaPublicacion": "2026-08-27",
-      "lat": 4.6548153,
-      "lon": -74.0552684,
-      "location_type": "exacta",
-      "zonaConsulta": "QUINTA CAMACHO",
-      "zonaSlug": "quinta-camacho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4930000,
-      "area": 65.0,
-      "precioM2": 75846,
-      "administracion": null,
-      "barrio": "QUINTA CAMACHO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-camacho-bogota/193757041",
-      "titulo": "Apartamento en Arriendo en Quinta camacho, Bogotá",
-      "id_domus": "193757041",
-      "fechaPublicacion": "2026-05-15",
-      "lat": 4.6570251656795,
-      "lon": -74.060408851065,
-      "location_type": "exacta",
-      "zonaConsulta": "QUINTA CAMACHO",
-      "zonaSlug": "quinta-camacho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3550000,
-      "area": 90.0,
-      "precioM2": 39444,
-      "administracion": 650000.0,
-      "barrio": "QUINTA CAMACHO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/194281920",
-      "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
-      "id_domus": "194281920",
-      "fechaPublicacion": "2026-09-19",
-      "lat": 4.6501071258216,
-      "lon": -74.058215618134,
       "location_type": "exacta",
       "zonaConsulta": "QUINTA CAMACHO",
       "zonaSlug": "quinta-camacho",

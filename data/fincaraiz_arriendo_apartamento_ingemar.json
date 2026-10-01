@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 21,
+  "total": 17,
   "zona": "INGEMAR",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.28 06:01",
+  "generado": "2026.OCT.01 00:53",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,38 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3600000,
-      "area": 45.0,
-      "precioM2": 80000,
-      "administracion": null,
-      "barrio": "INGEMAR",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194038765",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194038765",
-      "fechaPublicacion": "2026-07-27",
-      "lat": 4.6434091,
-      "lon": -74.0565794,
-      "location_type": "exacta",
-      "zonaConsulta": "INGEMAR",
-      "zonaSlug": "ingemar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1880000,
       "area": 28.0,
       "precioM2": 67143,
@@ -92,8 +60,8 @@
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194243177",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-castillo-bogota/194243177",
+      "titulo": "Apartamento en Arriendo en El castillo, Bogotá",
       "id_domus": "194243177",
       "fechaPublicacion": "2026-09-11",
       "lat": 4.639992352873,
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -200,135 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4651800,
-      "area": 80.0,
-      "precioM2": 58148,
-      "administracion": 148200.0,
-      "barrio": "INGEMAR",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/194226750",
-      "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
-      "id_domus": "194226750",
-      "fechaPublicacion": "2026-09-08",
-      "lat": 4.6434636,
-      "lon": -74.0570512,
-      "location_type": "exacta",
-      "zonaConsulta": "INGEMAR",
-      "zonaSlug": "ingemar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4700000,
-      "area": 90.0,
-      "precioM2": 52222,
-      "administracion": 805900.0,
-      "barrio": "LA SALLE",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-salle-bogota/194313892",
-      "titulo": "Apartamento en Arriendo en La salle, Bogotá",
-      "id_domus": "194313892",
-      "fechaPublicacion": "2026-09-24",
-      "lat": 4.6437873,
-      "lon": -74.0569547,
-      "location_type": "exacta",
-      "zonaConsulta": "INGEMAR",
-      "zonaSlug": "ingemar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 11000000,
-      "area": 160.0,
-      "precioM2": 68750,
-      "administracion": 1024000.0,
-      "barrio": "INGEMAR",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194278736",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194278736",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.6383224,
-      "lon": -74.0602108,
-      "location_type": "exacta",
-      "zonaConsulta": "INGEMAR",
-      "zonaSlug": "ingemar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4000000,
-      "area": 70.0,
-      "precioM2": 57143,
-      "administracion": null,
-      "barrio": "LA SALLE",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-salle-bogota/194271974",
-      "titulo": "Apartamento en Arriendo en La salle, Bogotá",
-      "id_domus": "194271974",
-      "fechaPublicacion": "2026-09-17",
-      "lat": 4.643263,
-      "lon": -74.058051,
-      "location_type": "exacta",
-      "zonaConsulta": "INGEMAR",
-      "zonaSlug": "ingemar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -456,71 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4700000,
-      "area": 104.0,
-      "precioM2": 45192,
-      "administracion": 1172000.0,
-      "barrio": "INGEMAR",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-castillo-chapinero-bogota/194134712",
-      "titulo": "Apartamento en Arriendo en El Castillo Chapinero, Bogotá",
-      "id_domus": "194134712",
-      "fechaPublicacion": "2026-08-19",
-      "lat": 4.6417806,
-      "lon": -74.0577809,
-      "location_type": "exacta",
-      "zonaConsulta": "INGEMAR",
-      "zonaSlug": "ingemar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3800000,
-      "area": 69.0,
-      "precioM2": 55072,
-      "administracion": null,
-      "barrio": "INGEMAR",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194218205",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194218205",
-      "fechaPublicacion": "2026-09-07",
-      "lat": 4.6432913,
-      "lon": -74.0580044,
-      "location_type": "exacta",
-      "zonaConsulta": "INGEMAR",
-      "zonaSlug": "ingemar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -648,32 +424,128 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3000000,
-      "area": 52.0,
-      "precioM2": 57692,
-      "administracion": null,
+      "precio": 4651800,
+      "area": 80.0,
+      "precioM2": 58148,
+      "administracion": 148200.0,
       "barrio": "INGEMAR",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
-      "parqueaderos": 2.0,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/194267191",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/194226750",
       "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
-      "id_domus": "194267191",
-      "fechaPublicacion": "2026-09-16",
-      "lat": 4.6420302,
-      "lon": -74.0551542,
+      "id_domus": "194226750",
+      "fechaPublicacion": "2026-09-08",
+      "lat": 4.6434636,
+      "lon": -74.0570512,
+      "location_type": "exacta",
+      "zonaConsulta": "INGEMAR",
+      "zonaSlug": "ingemar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4500000,
+      "area": 90.0,
+      "precioM2": 50000,
+      "administracion": 805900.0,
+      "barrio": "LA SALLE",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-salle-bogota/194313892",
+      "titulo": "Apartamento en Arriendo en La salle, Bogotá",
+      "id_domus": "194313892",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.6437873,
+      "lon": -74.0569547,
+      "location_type": "exacta",
+      "zonaConsulta": "INGEMAR",
+      "zonaSlug": "ingemar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4700000,
+      "area": 104.0,
+      "precioM2": 45192,
+      "administracion": 1172000.0,
+      "barrio": "CASTILLA",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/194332504",
+      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
+      "id_domus": "194332504",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.641762024091,
+      "lon": -74.057691196938,
+      "location_type": "exacta",
+      "zonaConsulta": "INGEMAR",
+      "zonaSlug": "ingemar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4000000,
+      "area": 70.0,
+      "precioM2": 57143,
+      "administracion": null,
+      "barrio": "LA SALLE",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-salle-bogota/194271974",
+      "titulo": "Apartamento en Arriendo en La salle, Bogotá",
+      "id_domus": "194271974",
+      "fechaPublicacion": "2026-09-17",
+      "lat": 4.643263,
+      "lon": -74.058051,
       "location_type": "exacta",
       "zonaConsulta": "INGEMAR",
       "zonaSlug": "ingemar",
