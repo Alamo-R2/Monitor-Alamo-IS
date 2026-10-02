@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 10,
   "zona": "MONTES",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 13:55",
+  "generado": "2026.OCT.02 16:00",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,9 +46,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 360000000,
+      "precio": 355000000,
       "area": 57.0,
-      "precioM2": 6315789,
+      "precioM2": 6228070,
       "administracion": 90000.0,
       "barrio": "MONTES",
       "upl": "Puente Aranda",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 355000000,
+      "area": 57.0,
+      "precioM2": 6228070,
+      "administracion": 90000.0,
+      "barrio": "MONTES",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-montes-bogota/194336643",
+      "titulo": "Apartamento en Venta en Montes, Bogotá",
+      "id_domus": "194336643",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6099223,
+      "lon": -74.1142149,
+      "location_type": "exacta",
+      "zonaConsulta": "MONTES",
+      "zonaSlug": "montes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,39 +136,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 360000000,
-      "area": 57.0,
-      "precioM2": 6315789,
-      "administracion": 90000.0,
+      "precio": 305000000,
+      "area": 49.0,
+      "precioM2": 6224490,
+      "administracion": null,
       "barrio": "MONTES",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": null,
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-montes-bogota/194201833",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-montes-bogota/193102600",
       "titulo": "Apartamento en Venta en Montes, Bogotá",
-      "id_domus": "194201833",
-      "fechaPublicacion": "2026-09-02",
-      "lat": 4.6099223,
-      "lon": -74.1142149,
+      "id_domus": "193102600",
+      "fechaPublicacion": "2025-11-15",
+      "lat": 4.60799,
+      "lon": -74.117056,
       "location_type": "exacta",
       "zonaConsulta": "MONTES",
       "zonaSlug": "montes",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 305000000,
+      "area": 49.0,
+      "precioM2": 6224490,
+      "administracion": null,
+      "barrio": "MONTES",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-jazmin-bogota/191480656",
+      "titulo": "Apartamento en  Venta en Jazmin, Bogotá",
+      "id_domus": "191480656",
+      "fechaPublicacion": "2024-09-25",
+      "lat": 4.60799,
+      "lon": -74.117056,
+      "location_type": "exacta",
+      "zonaConsulta": "MONTES",
+      "zonaSlug": "montes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],

@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 10,
   "zona": "SANTANDER SUR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 13:55",
+  "generado": "2026.OCT.02 16:00",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 365000000,
+      "area": 60.0,
+      "precioM2": 6083333,
+      "administracion": null,
+      "barrio": "RESTREPO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/194343753",
+      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
+      "id_domus": "194343753",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.5907617,
+      "lon": -74.1113718,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTANDER SUR",
+      "zonaSlug": "santander-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -34,38 +66,6 @@
       "fechaPublicacion": "2026-09-11",
       "lat": 4.5877554,
       "lon": -74.1157278,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTANDER SUR",
-      "zonaSlug": "santander-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 49.0,
-      "precioM2": 6734694,
-      "administracion": 240000.0,
-      "barrio": "SANTANDER SUR",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santander-sur-bogota/193747719",
-      "titulo": "Apartamento en Venta en Santander sur, Bogotá",
-      "id_domus": "193747719",
-      "fechaPublicacion": "2026-05-13",
-      "lat": 4.5873547645164,
-      "lon": -74.115722179413,
       "location_type": "exacta",
       "zonaConsulta": "SANTANDER SUR",
       "zonaSlug": "santander-sur",
@@ -142,6 +142,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 330000000,
+      "area": 49.0,
+      "precioM2": 6734694,
+      "administracion": 240000.0,
+      "barrio": "SANTANDER SUR",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santander-sur-bogota/194345299",
+      "titulo": "Apartamento en Venta en Santander sur, Bogotá",
+      "id_domus": "194345299",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.5873547645164,
+      "lon": -74.115722179413,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTANDER SUR",
+      "zonaSlug": "santander-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 275000000,
       "area": 43.0,
       "precioM2": 6395349,
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],

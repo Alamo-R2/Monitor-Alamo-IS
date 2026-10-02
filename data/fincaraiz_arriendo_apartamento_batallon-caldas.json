@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 5,
   "zona": "BATALLON CALDAS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 13:55",
+  "generado": "2026.OCT.02 16:00",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2800000,
-      "area": 78.0,
-      "precioM2": 35897,
-      "administracion": 470000.0,
-      "barrio": "QUINTA PAREDES",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-paredes-bogota/193856794",
-      "titulo": "Apartamento en Arriendo en Quinta paredes, Bogotá",
-      "id_domus": "193856794",
-      "fechaPublicacion": "2026-06-09",
-      "lat": 4.6329756,
-      "lon": -74.0981678,
-      "location_type": "exacta",
-      "zonaConsulta": "BATALLON CALDAS",
-      "zonaSlug": "batallon-caldas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -72,39 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3600000,
-      "area": 86.0,
-      "precioM2": 41860,
-      "administracion": null,
-      "barrio": "QUINTA PAREDES",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-paredes-bogota/194260115",
-      "titulo": "Apartamento en Arriendo en Quinta paredes, Bogotá",
-      "id_domus": "194260115",
-      "fechaPublicacion": "2026-09-15",
-      "lat": 4.6340422,
-      "lon": -74.0985159,
-      "location_type": "exacta",
-      "zonaConsulta": "BATALLON CALDAS",
-      "zonaSlug": "batallon-caldas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -136,39 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3050000,
-      "area": 62.0,
-      "precioM2": 49194,
-      "administracion": null,
-      "barrio": "QUINTA PAREDES",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-paredes-bogota/194314576",
-      "titulo": "Apartamento en Arriendo en Quinta paredes, Bogotá",
-      "id_domus": "194314576",
-      "fechaPublicacion": "2026-09-24",
-      "lat": 4.6331602210386,
-      "lon": -74.098076789992,
-      "location_type": "exacta",
-      "zonaConsulta": "BATALLON CALDAS",
-      "zonaSlug": "batallon-caldas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -226,6 +130,38 @@
       "fechaPublicacion": "2026-08-12",
       "lat": 4.6336837,
       "lon": -74.0983365,
+      "location_type": "exacta",
+      "zonaConsulta": "BATALLON CALDAS",
+      "zonaSlug": "batallon-caldas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2800000,
+      "area": 78.0,
+      "precioM2": 35897,
+      "administracion": 470000.0,
+      "barrio": "QUINTA PAREDES",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-paredes-bogota/193856794",
+      "titulo": "Apartamento en Arriendo en Quinta paredes, Bogotá",
+      "id_domus": "193856794",
+      "fechaPublicacion": "2026-06-09",
+      "lat": 4.6329756,
+      "lon": -74.0981678,
       "location_type": "exacta",
       "zonaConsulta": "BATALLON CALDAS",
       "zonaSlug": "batallon-caldas",

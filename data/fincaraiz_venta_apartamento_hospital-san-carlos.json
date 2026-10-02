@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.29 06:20",
+  "generado": "2026.OCT.02 16:00",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 260000000,
+      "area": 44.0,
+      "precioM2": 5909091,
+      "administracion": 210000.0,
+      "barrio": "HOSPITAL SAN CARLOS",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-hospital-san-carlos-bogota/194217153",
+      "titulo": "Apartamento en Venta en Hospital san carlos, Bogotá",
+      "id_domus": "194217153",
+      "fechaPublicacion": "2026-09-06",
+      "lat": 4.5663032,
+      "lon": -74.1062831,
+      "location_type": "exacta",
+      "zonaConsulta": "HOSPITAL SAN CARLOS",
+      "zonaSlug": "hospital-san-carlos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 285000000,
       "area": 53.0,
       "precioM2": 5377358,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,38 +200,6 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 260000000,
-      "area": 44.0,
-      "precioM2": 5909091,
-      "administracion": 210000.0,
-      "barrio": "HOSPITAL SAN CARLOS",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-hospital-san-carlos-bogota/194217153",
-      "titulo": "Apartamento en Venta en Hospital san carlos, Bogotá",
-      "id_domus": "194217153",
-      "fechaPublicacion": "2026-09-06",
-      "lat": 4.5663032,
-      "lon": -74.1062831,
-      "location_type": "exacta",
-      "zonaConsulta": "HOSPITAL SAN CARLOS",
-      "zonaSlug": "hospital-san-carlos",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-7",
       "operacion": [
         "Venta"
@@ -220,10 +220,10 @@
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gustavo-restrepo-bogota/194151648",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gustavo-restrepo-bogota/194345027",
       "titulo": "Apartamento en Venta en Gustavo restrepo, Bogotá",
-      "id_domus": "194151648",
-      "fechaPublicacion": "2026-08-24",
+      "id_domus": "194345027",
+      "fechaPublicacion": "2026-10-01",
       "lat": 4.5696055,
       "lon": -74.1058729,
       "location_type": "exacta",

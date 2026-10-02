@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 10,
   "zona": "AUTOPISTA MUZU",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 13:55",
+  "generado": "2026.OCT.02 16:00",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -79,25 +79,25 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 1700000,
-      "area": 96.0,
-      "precioM2": 17708,
+      "area": 64.0,
+      "precioM2": 26562,
       "administracion": null,
       "barrio": "AUTOPISTA MUZU",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-autopista-muzu-bogota/193167655",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-autopista-muzu-bogota/194326183",
       "titulo": "Apartamento en Arriendo en Autopista muzu, Bogotá",
-      "id_domus": "193167655",
-      "fechaPublicacion": "2025-12-04",
-      "lat": 4.596413,
-      "lon": -74.123046,
+      "id_domus": "194326183",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.5971503,
+      "lon": -74.1211393,
       "location_type": "exacta",
       "zonaConsulta": "AUTOPISTA MUZU",
       "zonaSlug": "autopista-muzu",
@@ -105,6 +105,38 @@
     },
     {
       "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1380000,
+      "area": 45.0,
+      "precioM2": 30667,
+      "administracion": null,
+      "barrio": "AUTOPISTA MUZU",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-autopista-muzu-bogota/193960868",
+      "titulo": "Apartamento en Arriendo en Autopista muzu, Bogotá",
+      "id_domus": "193960868",
+      "fechaPublicacion": "2026-07-06",
+      "lat": 4.5944455,
+      "lon": -74.1315583,
+      "location_type": "exacta",
+      "zonaConsulta": "AUTOPISTA MUZU",
+      "zonaSlug": "autopista-muzu",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -226,6 +258,70 @@
       "fechaPublicacion": "2026-09-24",
       "lat": 4.5961009,
       "lon": -74.1228281,
+      "location_type": "exacta",
+      "zonaConsulta": "AUTOPISTA MUZU",
+      "zonaSlug": "autopista-muzu",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1700000,
+      "area": 96.0,
+      "precioM2": 17708,
+      "administracion": null,
+      "barrio": "AUTOPISTA MUZU",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-autopista-muzu-bogota/193167655",
+      "titulo": "Apartamento en Arriendo en Autopista muzu, Bogotá",
+      "id_domus": "193167655",
+      "fechaPublicacion": "2025-12-04",
+      "lat": 4.596413,
+      "lon": -74.123046,
+      "location_type": "exacta",
+      "zonaConsulta": "AUTOPISTA MUZU",
+      "zonaSlug": "autopista-muzu",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1550000,
+      "area": 48.0,
+      "precioM2": 32292,
+      "administracion": null,
+      "barrio": "AUTOPISTA MUZU",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-rita-bogota/194339054",
+      "titulo": "Apartamento en Arriendo en Santa Rita, Bogotá",
+      "id_domus": "194339054",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.5993898,
+      "lon": -74.1241192,
       "location_type": "exacta",
       "zonaConsulta": "AUTOPISTA MUZU",
       "zonaSlug": "autopista-muzu",
