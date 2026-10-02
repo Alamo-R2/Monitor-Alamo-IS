@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 9,
   "zona": "PROVIVIENDA ORIENTAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.28 00:04",
+  "generado": "2026.OCT.02 06:22",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1300000.0,
+      "area": 55.0,
+      "precioM2": 23636,
+      "administracion": null,
+      "barrio": "HIPOTECHO OCCIDENTAL",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-hipotecho-occidental-bogota/194323638",
+      "titulo": "Apartamento en Arriendo en Hipotecho occidental, Bogotá",
+      "id_domus": "194323638",
+      "fechaPublicacion": "2026-09-27",
+      "lat": 4.6171838,
+      "lon": -74.1309465,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA ORIENTAL",
+      "zonaSlug": "provivienda-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1500000.0,
       "area": 50.0,
       "precioM2": 30000,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,39 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1100000.0,
-      "area": 40.0,
-      "precioM2": 27500,
+      "precio": 1500000.0,
+      "area": 59.0,
+      "precioM2": 25424,
       "administracion": null,
       "barrio": "PROVIVIENDA ORIENTAL",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
+      "banos": 2,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-carvajal-bogota/193914724",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-carvajal-bogota/194345908",
       "titulo": "Apartamento en Arriendo en Carvajal, Bogotá",
-      "id_domus": "193914724",
-      "fechaPublicacion": "2026-06-24",
-      "lat": 4.613843,
-      "lon": -74.1312331,
+      "id_domus": "194345908",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.6117877,
+      "lon": -74.1326844,
       "location_type": "exacta",
       "zonaConsulta": "PROVIVIENDA ORIENTAL",
       "zonaSlug": "provivienda-oriental",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],

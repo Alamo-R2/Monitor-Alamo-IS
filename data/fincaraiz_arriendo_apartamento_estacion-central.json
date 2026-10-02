@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 22:04",
+  "generado": "2026.OCT.02 06:22",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1850000,
+      "area": 35.0,
+      "precioM2": 52857,
+      "administracion": null,
+      "barrio": "PALOQUEMAO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-paloquemao-bogota/194207340",
+      "titulo": "Apartamento en Arriendo en Paloquemao, Bogotá",
+      "id_domus": "194207340",
+      "fechaPublicacion": "2026-09-03",
+      "lat": 4.6151778,
+      "lon": -74.0913073,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTACION CENTRAL",
+      "zonaSlug": "estacion-central",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1400000,
       "area": 23.0,
       "precioM2": 60870,
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,103 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1850000,
-      "area": 35.0,
-      "precioM2": 52857,
-      "administracion": null,
-      "barrio": "PALOQUEMAO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-paloquemao-bogota/194207340",
-      "titulo": "Apartamento en Arriendo en Paloquemao, Bogotá",
-      "id_domus": "194207340",
-      "fechaPublicacion": "2026-09-03",
-      "lat": 4.6151778,
-      "lon": -74.0913073,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTACION CENTRAL",
-      "zonaSlug": "estacion-central",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1504000,
-      "area": 28.0,
-      "precioM2": 53714,
-      "administracion": 176000.0,
-      "barrio": "PALOQUEMAO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-paloquemao-bogota/194249698",
-      "titulo": "Apartamento en Arriendo en Paloquemao, Bogotá",
-      "id_domus": "194249698",
-      "fechaPublicacion": "2026-09-12",
-      "lat": 4.6151778,
-      "lon": -74.0913073,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTACION CENTRAL",
-      "zonaSlug": "estacion-central",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 813000,
-      "area": 55.0,
-      "precioM2": 14782,
-      "administracion": 137000.0,
-      "barrio": "ESTACION CENTRAL",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-verde-bogota/194188796",
-      "titulo": "Apartamento en Arriendo en Ciudad verde, Bogotá",
-      "id_domus": "194188796",
-      "fechaPublicacion": "2026-08-31",
-      "lat": 4.6167926,
-      "lon": -74.09102,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTACION CENTRAL",
-      "zonaSlug": "estacion-central",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -386,6 +322,70 @@
       "fechaPublicacion": "2026-09-30",
       "lat": 4.6151778,
       "lon": -74.0913073,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTACION CENTRAL",
+      "zonaSlug": "estacion-central",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1504000,
+      "area": 28.0,
+      "precioM2": 53714,
+      "administracion": 176000.0,
+      "barrio": "PALOQUEMAO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-paloquemao-bogota/194249698",
+      "titulo": "Apartamento en Arriendo en Paloquemao, Bogotá",
+      "id_domus": "194249698",
+      "fechaPublicacion": "2026-09-12",
+      "lat": 4.6151778,
+      "lon": -74.0913073,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTACION CENTRAL",
+      "zonaSlug": "estacion-central",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 813000,
+      "area": 55.0,
+      "precioM2": 14782,
+      "administracion": 137000.0,
+      "barrio": "ESTACION CENTRAL",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-verde-bogota/194188796",
+      "titulo": "Apartamento en Arriendo en Ciudad verde, Bogotá",
+      "id_domus": "194188796",
+      "fechaPublicacion": "2026-08-31",
+      "lat": 4.6167926,
+      "lon": -74.09102,
       "location_type": "exacta",
       "zonaConsulta": "ESTACION CENTRAL",
       "zonaSlug": "estacion-central",

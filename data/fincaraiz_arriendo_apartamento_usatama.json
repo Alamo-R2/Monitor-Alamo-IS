@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 18,
+  "total": 15,
   "zona": "USATAMA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 05:39",
+  "generado": "2026.OCT.02 06:22",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2400000,
+      "area": 43.0,
+      "precioM2": 55814,
+      "administracion": null,
+      "barrio": "SAMPER MENDOZA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-samper-mendoza-bogota/194339495",
+      "titulo": "Apartamento en Arriendo en Samper mendoza, Bogotá",
+      "id_domus": "194339495",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6232701,
+      "lon": -74.0811401,
+      "location_type": "exacta",
+      "zonaConsulta": "USATAMA",
+      "zonaSlug": "usatama",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1800000,
       "area": 30.0,
       "precioM2": 60000,
@@ -104,15 +136,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 1800000,
-      "area": 38.0,
-      "precioM2": 47368,
+      "area": 40.0,
+      "precioM2": 45000,
       "administracion": null,
       "barrio": "USATAMA",
       "upl": "Centro Histórico",
@@ -124,19 +156,19 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-usatama-bogota/194079710",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-usatama-bogota/194328233",
       "titulo": "Apartamento en Arriendo en Usatama, Bogotá",
-      "id_domus": "194079710",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.6230543,
-      "lon": -74.0812715,
+      "id_domus": "194328233",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.6230363,
+      "lon": -74.0813021,
       "location_type": "exacta",
       "zonaConsulta": "USATAMA",
       "zonaSlug": "usatama",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,71 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1633000,
-      "area": 39.0,
-      "precioM2": 41872,
-      "administracion": 167000.0,
-      "barrio": "USATAMA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartaestudio-en-arriendo-en-usatama-bogota/194068742",
-      "titulo": "Apartaestudio en Arriendo en Usatama, Bogotá",
-      "id_domus": "194068742",
-      "fechaPublicacion": "2026-08-03",
-      "lat": 4.6232701,
-      "lon": -74.0811401,
-      "location_type": "exacta",
-      "zonaConsulta": "USATAMA",
-      "zonaSlug": "usatama",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 40.0,
-      "precioM2": 45000,
-      "administracion": null,
-      "barrio": "SAMPER MENDOZA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-samper-mendoza-bogota/194119764",
-      "titulo": "Apartamento en Arriendo en Samper mendoza, Bogotá",
-      "id_domus": "194119764",
-      "fechaPublicacion": "2026-08-14",
-      "lat": 4.6232701,
-      "lon": -74.0811401,
-      "location_type": "exacta",
-      "zonaConsulta": "USATAMA",
-      "zonaSlug": "usatama",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -328,39 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2500000,
-      "area": 93.0,
-      "precioM2": 26882,
-      "administracion": 461000.0,
-      "barrio": "USATAMA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-usatama-bogota/194128891",
-      "titulo": "Apartamento en Arriendo en Usatama, Bogotá",
-      "id_domus": "194128891",
-      "fechaPublicacion": "2026-08-18",
-      "lat": 4.621929938263,
-      "lon": -74.081808111668,
-      "location_type": "exacta",
-      "zonaConsulta": "USATAMA",
-      "zonaSlug": "usatama",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -392,80 +328,16 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2000000,
-      "area": 38.0,
-      "precioM2": 52632,
-      "administracion": null,
-      "barrio": "USATAMA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-usatama-bogota/194226720",
-      "titulo": "Apartamento en Arriendo en Usatama, Bogotá",
-      "id_domus": "194226720",
-      "fechaPublicacion": "2026-09-08",
-      "lat": 4.6228428,
-      "lon": -74.081279,
-      "location_type": "exacta",
-      "zonaConsulta": "USATAMA",
-      "zonaSlug": "usatama",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1844700,
-      "area": 38.0,
-      "precioM2": 48545,
-      "administracion": 155300.0,
-      "barrio": "USATAMA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-usatama-bogota/194291061",
-      "titulo": "Apartamento en Arriendo en Usatama, Bogotá",
-      "id_domus": "194291061",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.623077,
-      "lon": -74.081434,
-      "location_type": "exacta",
-      "zonaConsulta": "USATAMA",
-      "zonaSlug": "usatama",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000,
+      "precio": 1647300,
       "area": 39.0,
-      "precioM2": 46154,
-      "administracion": 200000.0,
+      "precioM2": 42238,
+      "administracion": 152700.0,
       "barrio": "SAMPER MENDOZA",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -488,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -520,15 +392,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3800000,
+      "precio": 3500000,
       "area": 137.0,
-      "precioM2": 27737,
+      "precioM2": 25547,
       "administracion": 607750.0,
       "barrio": "USATAMA",
       "upl": "Centro Histórico",
@@ -552,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -578,6 +450,38 @@
       "fechaPublicacion": "2026-09-04",
       "lat": 4.6232701,
       "lon": -74.0811401,
+      "location_type": "exacta",
+      "zonaConsulta": "USATAMA",
+      "zonaSlug": "usatama",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 38.0,
+      "precioM2": 47368,
+      "administracion": null,
+      "barrio": "USATAMA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-usatama-bogota/194079710",
+      "titulo": "Apartamento en Arriendo en Usatama, Bogotá",
+      "id_domus": "194079710",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.6230543,
+      "lon": -74.0812715,
       "location_type": "exacta",
       "zonaConsulta": "USATAMA",
       "zonaSlug": "usatama",

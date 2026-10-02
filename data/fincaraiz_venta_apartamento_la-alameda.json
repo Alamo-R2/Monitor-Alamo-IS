@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.28 22:41",
+  "generado": "2026.OCT.02 06:22",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 850000000,
-      "area": 101.0,
-      "precioM2": 8415842,
-      "administracion": 432000.0,
+      "precio": 380000000,
+      "area": 152.0,
+      "precioM2": 2500000,
+      "administracion": 10000.0,
       "barrio": "LA ALAMEDA",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
+      "habitaciones": 4,
+      "banos": 4,
+      "parqueaderos": null,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-alameda-centro-bogota/194258155",
-      "titulo": "Apartamento en Venta en La alameda Centro, Bogotá",
-      "id_domus": "194258155",
-      "fechaPublicacion": "2026-09-15",
-      "lat": 4.7553562,
-      "lon": -74.0373249,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-internacional-bogota/194288748",
+      "titulo": "Apartamento en Venta en Centro Internacional, Bogotá",
+      "id_domus": "194288748",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.6121433,
+      "lon": -74.0708166,
       "location_type": "exacta",
       "zonaConsulta": "LA ALAMEDA",
       "zonaSlug": "la-alameda",
@@ -136,39 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 380000000,
-      "area": 152.0,
-      "precioM2": 2500000,
-      "administracion": 10000.0,
-      "barrio": "LA ALAMEDA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 4,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-internacional-bogota/194288748",
-      "titulo": "Apartamento en Venta en Centro Internacional, Bogotá",
-      "id_domus": "194288748",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.6121433,
-      "lon": -74.0708166,
-      "location_type": "exacta",
-      "zonaConsulta": "LA ALAMEDA",
-      "zonaSlug": "la-alameda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -482,6 +450,38 @@
       "fechaPublicacion": "2025-12-11",
       "lat": 4.6101216,
       "lon": -74.0711425,
+      "location_type": "exacta",
+      "zonaConsulta": "LA ALAMEDA",
+      "zonaSlug": "la-alameda",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 850000000,
+      "area": 101.0,
+      "precioM2": 8415842,
+      "administracion": 432000.0,
+      "barrio": "LA ALAMEDA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-alameda-centro-bogota/194258155",
+      "titulo": "Apartamento en Venta en La alameda Centro, Bogotá",
+      "id_domus": "194258155",
+      "fechaPublicacion": "2026-09-15",
+      "lat": 4.7553562,
+      "lon": -74.0373249,
       "location_type": "exacta",
       "zonaConsulta": "LA ALAMEDA",
       "zonaSlug": "la-alameda",

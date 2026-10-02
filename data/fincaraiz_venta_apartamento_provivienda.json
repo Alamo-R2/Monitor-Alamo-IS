@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 12,
+  "total": 13,
   "zona": "PROVIVIENDA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.28 00:04",
+  "generado": "2026.OCT.02 06:22",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,38 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 80.0,
-      "precioM2": 4125000,
-      "administracion": 250000.0,
-      "barrio": "PROVIVIENDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-floralia-i-sector-bogota/10286655",
-      "titulo": "Apartamento en Venta en Floralia i sector, Bogotá",
-      "id_domus": "10286655",
-      "fechaPublicacion": "2023-11-10",
-      "lat": 4.6102584,
-      "lon": -74.1312677,
-      "location_type": "exacta",
-      "zonaConsulta": "PROVIVIENDA",
-      "zonaSlug": "provivienda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 325000000,
       "area": 68.0,
       "precioM2": 4779412,
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -136,39 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 253000000,
-      "area": 44.0,
-      "precioM2": 5750000,
-      "administracion": 130000.0,
-      "barrio": "PROVIVIENDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-provivienda-bogota/10854789",
-      "titulo": "Apartamento en venta en Provivienda, Bogotá",
-      "id_domus": "10854789",
-      "fechaPublicacion": "2024-05-06",
-      "lat": 4.6115880143985,
-      "lon": -74.13386464119,
-      "location_type": "exacta",
-      "zonaConsulta": "PROVIVIENDA",
-      "zonaSlug": "provivienda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +200,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 330000000,
+      "area": 80.0,
+      "precioM2": 4125000,
+      "administracion": 250000.0,
+      "barrio": "PROVIVIENDA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-floralia-i-sector-bogota/10286655",
+      "titulo": "Apartamento en Venta en Floralia i sector, Bogotá",
+      "id_domus": "10286655",
+      "fechaPublicacion": "2023-11-10",
+      "lat": 4.6102584,
+      "lon": -74.1312677,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA",
+      "zonaSlug": "provivienda",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -322,6 +290,38 @@
       "fechaPublicacion": "2026-07-28",
       "lat": 4.613804,
       "lon": -74.135903,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA",
+      "zonaSlug": "provivienda",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 335000000,
+      "area": 61.0,
+      "precioM2": 5491803,
+      "administracion": null,
+      "barrio": "LA FRAGUA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-fragua-bogota/10792110",
+      "titulo": "Apartamento en venta en La fragua, Bogotá",
+      "id_domus": "10792110",
+      "fechaPublicacion": "2024-04-18",
+      "lat": 4.6094876,
+      "lon": -74.1329393,
       "location_type": "exacta",
       "zonaConsulta": "PROVIVIENDA",
       "zonaSlug": "provivienda",
@@ -386,6 +386,38 @@
       "fechaPublicacion": "2024-05-30",
       "lat": 4.6094844,
       "lon": -74.130759,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA",
+      "zonaSlug": "provivienda",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 253000000,
+      "area": 44.0,
+      "precioM2": 5750000,
+      "administracion": 130000.0,
+      "barrio": "PROVIVIENDA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-provivienda-bogota/10854789",
+      "titulo": "Apartamento en venta en Provivienda, Bogotá",
+      "id_domus": "10854789",
+      "fechaPublicacion": "2024-05-06",
+      "lat": 4.6115880143985,
+      "lon": -74.13386464119,
       "location_type": "exacta",
       "zonaConsulta": "PROVIVIENDA",
       "zonaSlug": "provivienda",

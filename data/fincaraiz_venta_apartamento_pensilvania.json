@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 14,
+  "total": 15,
   "zona": "PENSILVANIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 05:39",
+  "generado": "2026.OCT.02 06:22",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 269000000,
-      "area": 22.0,
-      "precioM2": 12227273,
-      "administracion": 134000.0,
-      "barrio": "PALOQUEMAO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-paloquemao-bogota/193929364",
-      "titulo": "Apartamento en Venta en Paloquemao, Bogotá",
-      "id_domus": "193929364",
-      "fechaPublicacion": "2026-06-29",
-      "lat": 4.6151264,
-      "lon": -74.0913047,
-      "location_type": "exacta",
-      "zonaConsulta": "PENSILVANIA",
-      "zonaSlug": "pensilvania",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 269000000,
+      "area": 22.0,
+      "precioM2": 12227273,
+      "administracion": 134000.0,
+      "barrio": "PALOQUEMAO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-paloquemao-bogota/193929364",
+      "titulo": "Apartamento en Venta en Paloquemao, Bogotá",
+      "id_domus": "193929364",
+      "fechaPublicacion": "2026-06-29",
+      "lat": 4.6151264,
+      "lon": -74.0913047,
+      "location_type": "exacta",
+      "zonaConsulta": "PENSILVANIA",
+      "zonaSlug": "pensilvania",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 372000000,
+      "area": 56.0,
+      "precioM2": 6642857,
+      "administracion": 405488.0,
+      "barrio": "PENSILVANIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-comuneros-bogota/194290300",
+      "titulo": "Apartamento en Venta en Los comuneros, Bogotá",
+      "id_domus": "194290300",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.607419,
+      "lon": -74.099838,
+      "location_type": "exacta",
+      "zonaConsulta": "PENSILVANIA",
+      "zonaSlug": "pensilvania",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-07-28",
       "lat": 4.611564331973,
       "lon": -74.09283844479,
-      "location_type": "exacta",
-      "zonaConsulta": "PENSILVANIA",
-      "zonaSlug": "pensilvania",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 360000000,
-      "area": 63.0,
-      "precioM2": 5714286,
-      "administracion": 380000.0,
-      "barrio": "VERAGUAS",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-veraguas-bogota/192739132",
-      "titulo": "Apartamento en Venta en Veraguas, Bogotá",
-      "id_domus": "192739132",
-      "fechaPublicacion": "2025-08-11",
-      "lat": 4.60752,
-      "lon": -74.0998522,
       "location_type": "exacta",
       "zonaConsulta": "PENSILVANIA",
       "zonaSlug": "pensilvania",
@@ -238,6 +238,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 372000000,
+      "area": 56.0,
+      "precioM2": 6642857,
+      "administracion": 406000.0,
+      "barrio": "PUENTE ARANDA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/194328866",
+      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
+      "id_domus": "194328866",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.607419,
+      "lon": -74.099838,
+      "location_type": "exacta",
+      "zonaConsulta": "PENSILVANIA",
+      "zonaSlug": "pensilvania",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 260000000,
       "area": 39.0,
       "precioM2": 6666667,
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -386,38 +418,6 @@
       "fechaPublicacion": "2026-08-10",
       "lat": 4.6116003,
       "lon": -74.0928905,
-      "location_type": "exacta",
-      "zonaConsulta": "PENSILVANIA",
-      "zonaSlug": "pensilvania",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 372000000,
-      "area": 56.0,
-      "precioM2": 6642857,
-      "administracion": 405488.0,
-      "barrio": "PENSILVANIA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-comuneros-bogota/194290300",
-      "titulo": "Apartamento en Venta en Los comuneros, Bogotá",
-      "id_domus": "194290300",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.607419,
-      "lon": -74.099838,
       "location_type": "exacta",
       "zonaConsulta": "PENSILVANIA",
       "zonaSlug": "pensilvania",
@@ -450,6 +450,38 @@
       "fechaPublicacion": "2026-09-16",
       "lat": 4.607419,
       "lon": -74.099838,
+      "location_type": "exacta",
+      "zonaConsulta": "PENSILVANIA",
+      "zonaSlug": "pensilvania",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 360000000,
+      "area": 63.0,
+      "precioM2": 5714286,
+      "administracion": 380000.0,
+      "barrio": "VERAGUAS",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-veraguas-bogota/194345041",
+      "titulo": "Apartamento en Venta en Veraguas, Bogotá",
+      "id_domus": "194345041",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.60752,
+      "lon": -74.0998522,
       "location_type": "exacta",
       "zonaConsulta": "PENSILVANIA",
       "zonaSlug": "pensilvania",

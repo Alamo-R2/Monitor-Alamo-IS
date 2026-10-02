@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 7,
   "zona": "AUTOPISTA MUZU ORIENTAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 13:55",
+  "generado": "2026.OCT.02 06:22",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1700000,
+      "area": 64.0,
+      "precioM2": 26562,
+      "administracion": null,
+      "barrio": "AUTOPISTA MUZU",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-autopista-muzu-bogota/194326183",
+      "titulo": "Apartamento en Arriendo en Autopista muzu, Bogotá",
+      "id_domus": "194326183",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.5971503,
+      "lon": -74.1211393,
+      "location_type": "exacta",
+      "zonaConsulta": "AUTOPISTA MUZU ORIENTAL",
+      "zonaSlug": "autopista-muzu-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1800000,
       "area": 73.0,
       "precioM2": 24658,
@@ -72,7 +104,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1450000,
+      "area": 55.0,
+      "precioM2": 26364,
+      "administracion": null,
+      "barrio": "AUTOPISTA MUZU ORIENTAL",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villa-del-rosario-bogota/194336489",
+      "titulo": "Apartamento en Arriendo en Villa del Rosario, Bogotá",
+      "id_domus": "194336489",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.5977390162,
+      "lon": -74.1178786755,
+      "location_type": "exacta",
+      "zonaConsulta": "AUTOPISTA MUZU ORIENTAL",
+      "zonaSlug": "autopista-muzu-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000,
+      "area": 80.0,
+      "precioM2": 32500,
+      "administracion": null,
+      "barrio": "AUTOPISTA MUZU ORIENTAL",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villa-del-rosario-bogota/194338955",
+      "titulo": "Apartamento en Arriendo en Villa del Rosario, Bogotá",
+      "id_domus": "194338955",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.5956565,
+      "lon": -74.1175161,
+      "location_type": "exacta",
+      "zonaConsulta": "AUTOPISTA MUZU ORIENTAL",
+      "zonaSlug": "autopista-muzu-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],

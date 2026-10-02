@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 16,
+  "total": 17,
   "zona": "LUSITANIA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.30 06:05",
+  "generado": "2026.OCT.02 06:22",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -206,6 +206,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2100000,
+      "area": 54.0,
+      "precioM2": 38889,
+      "administracion": null,
+      "barrio": "SALAZAR GOMEZ",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-salazar-gomez-bogota/194343536",
+      "titulo": "Apartamento en Arriendo en Salazar gomez, Bogotá",
+      "id_domus": "194343536",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.632236,
+      "lon": -74.12203,
+      "location_type": "exacta",
+      "zonaConsulta": "LUSITANIA",
+      "zonaSlug": "lusitania",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 3550000,
       "area": 71.0,
       "precioM2": 50000,
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],

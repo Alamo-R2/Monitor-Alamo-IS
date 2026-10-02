@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 05:39",
+  "generado": "2026.OCT.02 06:22",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 219000000,
+      "area": 24.0,
+      "precioM2": 9125000,
+      "administracion": 110000.0,
+      "barrio": "SAMPER MENDOZA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-samper-mendoza-bogota/194344931",
+      "titulo": "Apartamento en Venta en Samper mendoza, Bogotá",
+      "id_domus": "194344931",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.6232701,
+      "lon": -74.0811401,
+      "location_type": "exacta",
+      "zonaConsulta": "SAMPER MENDOZA",
+      "zonaSlug": "samper-mendoza",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,103 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 479000000,
-      "area": 75.0,
-      "precioM2": 6386667,
-      "administracion": 400000.0,
-      "barrio": "USATAMA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-usatama-bogota/194046813",
-      "titulo": "Apartamento en Venta en Usatama, Bogotá",
-      "id_domus": "194046813",
-      "fechaPublicacion": "2026-07-28",
-      "lat": 4.6211105,
-      "lon": -74.0831876,
-      "location_type": "exacta",
-      "zonaConsulta": "SAMPER MENDOZA",
-      "zonaSlug": "samper-mendoza",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 450000000,
-      "area": 66.0,
-      "precioM2": 6818182,
-      "administracion": 480000.0,
-      "barrio": "SAMPER MENDOZA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-samper-mendoza-bogota/193428509",
-      "titulo": "Apartamento en Venta en Samper mendoza, Bogotá",
-      "id_domus": "193428509",
-      "fechaPublicacion": "2026-02-23",
-      "lat": 4.6178284,
-      "lon": -74.0804983,
-      "location_type": "exacta",
-      "zonaConsulta": "SAMPER MENDOZA",
-      "zonaSlug": "samper-mendoza",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 329900000,
-      "area": 32.0,
-      "precioM2": 10309375,
-      "administracion": 256200.0,
-      "barrio": "SAMPER MENDOZA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-samper-mendoza-bogota/194154336",
-      "titulo": "Apartamento en Venta en Samper mendoza, Bogotá",
-      "id_domus": "194154336",
-      "fechaPublicacion": "2026-08-24",
-      "lat": 4.617062623423,
-      "lon": -74.079968992938,
-      "location_type": "exacta",
-      "zonaConsulta": "SAMPER MENDOZA",
-      "zonaSlug": "samper-mendoza",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +610,70 @@
       "fechaPublicacion": "2026-03-24",
       "lat": 4.623003878535,
       "lon": -74.08129679527,
+      "location_type": "exacta",
+      "zonaConsulta": "SAMPER MENDOZA",
+      "zonaSlug": "samper-mendoza",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 329900000,
+      "area": 32.0,
+      "precioM2": 10309375,
+      "administracion": 256200.0,
+      "barrio": "SAMPER MENDOZA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-samper-mendoza-bogota/194137876",
+      "titulo": "Apartamento en Venta en Samper mendoza, Bogotá",
+      "id_domus": "194137876",
+      "fechaPublicacion": "2026-08-20",
+      "lat": 4.617062623423,
+      "lon": -74.079968992938,
+      "location_type": "exacta",
+      "zonaConsulta": "SAMPER MENDOZA",
+      "zonaSlug": "samper-mendoza",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 307000000,
+      "area": 39.0,
+      "precioM2": 7871795,
+      "administracion": null,
+      "barrio": "SAMPER MENDOZA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-martires-bogota/194145510",
+      "titulo": "Apartamento en Venta en Los martires, Bogotá",
+      "id_domus": "194145510",
+      "fechaPublicacion": "2026-08-21",
+      "lat": 4.6232701,
+      "lon": -74.0811401,
       "location_type": "exacta",
       "zonaConsulta": "SAMPER MENDOZA",
       "zonaSlug": "samper-mendoza",

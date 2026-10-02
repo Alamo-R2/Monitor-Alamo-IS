@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 6,
   "zona": "LA ASUNCION",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 05:39",
+  "generado": "2026.OCT.02 06:22",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,10 +14,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2180000,
+      "precio": 2100000,
       "area": 77.0,
-      "precioM2": 28312,
-      "administracion": 60000.0,
+      "precioM2": 27273,
+      "administracion": 80000.0,
       "barrio": "VERAGUAS",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -46,26 +46,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1850000,
-      "area": 55.0,
-      "precioM2": 33636,
+      "precio": 1250000,
+      "area": 30.0,
+      "precioM2": 41667,
       "administracion": null,
-      "barrio": "LA ASUNCION",
+      "barrio": "COMUNEROS",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 1,
       "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-asuncion-bogota/194283387",
-      "titulo": "Apartamento en Arriendo en La asuncion, Bogotá",
-      "id_domus": "194283387",
-      "fechaPublicacion": "2026-09-19",
-      "lat": 4.600791,
-      "lon": -74.105679,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-comuneros-bogota/194336121",
+      "titulo": "Apartamento en Arriendo en Comuneros, Bogotá",
+      "id_domus": "194336121",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6047615,
+      "lon": -74.1042298,
       "location_type": "exacta",
       "zonaConsulta": "LA ASUNCION",
       "zonaSlug": "la-asuncion",
@@ -73,38 +73,6 @@
     },
     {
       "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1400000,
-      "area": 50.0,
-      "precioM2": 28000,
-      "administracion": null,
-      "barrio": "LA ASUNCION",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-asuncion-bogota/194283367",
-      "titulo": "Apartamento en Arriendo en La asuncion, Bogotá",
-      "id_domus": "194283367",
-      "fechaPublicacion": "2026-09-19",
-      "lat": 4.600791,
-      "lon": -74.105679,
-      "location_type": "exacta",
-      "zonaConsulta": "LA ASUNCION",
-      "zonaSlug": "la-asuncion",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
