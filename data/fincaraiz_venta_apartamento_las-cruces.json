@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.02 06:22",
+  "generado": "2026.OCT.02 21:30",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000000,
+      "area": 241.0,
+      "precioM2": 7468880,
+      "administracion": 670000.0,
+      "barrio": "EL REFUGIO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 5,
+      "parqueaderos": 3.0,
+      "estrato": 6.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-refugio-bogota/193337099",
+      "titulo": "Apartamento en Venta en El refugio, Bogotá",
+      "id_domus": "193337099",
+      "fechaPublicacion": "2026-01-29",
+      "lat": 4.586705,
+      "lon": -74.077911,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS CRUCES",
+      "zonaSlug": "las-cruces",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-09-03",
       "lat": 4.585303,
       "lon": -74.076945,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS CRUCES",
-      "zonaSlug": "las-cruces",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000000,
-      "area": 241.0,
-      "precioM2": 7468880,
-      "administracion": 670000.0,
-      "barrio": "EL REFUGIO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 3.0,
-      "estrato": 6.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-refugio-bogota/193337099",
-      "titulo": "Apartamento en Venta en El refugio, Bogotá",
-      "id_domus": "193337099",
-      "fechaPublicacion": "2026-01-29",
-      "lat": 4.586705,
-      "lon": -74.077911,
       "location_type": "exacta",
       "zonaConsulta": "LAS CRUCES",
       "zonaSlug": "las-cruces",

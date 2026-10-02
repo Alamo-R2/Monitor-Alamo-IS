@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 11,
+  "total": 12,
   "zona": "SAN JAVIER",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 17:27",
+  "generado": "2026.OCT.02 21:30",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -302,6 +302,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 390000000,
+      "area": 80.0,
+      "precioM2": 4875000,
+      "administracion": null,
+      "barrio": "SAN JAVIER",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-javier-bogota/194333806",
+      "titulo": "Apartamento en Venta en Villa Javier, Bogotá",
+      "id_domus": "194333806",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.5784539684524,
+      "lon": -74.084605463451,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN JAVIER",
+      "zonaSlug": "san-javier",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1062882789,
       "area": 150.0,
       "precioM2": 7085885,
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
