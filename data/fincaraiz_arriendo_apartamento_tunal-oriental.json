@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.02 21:30",
+  "generado": "2026.OCT.03 00:47",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1500000,
+      "area": 36.0,
+      "precioM2": 41667,
+      "administracion": null,
+      "barrio": "PUENTE GRANDE",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-puente-grande-bogota/194325087",
+      "titulo": "Apartamento en Arriendo en Puente grande, Bogotá",
+      "id_domus": "194325087",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.6930844,
+      "lon": -74.1620737,
+      "location_type": "exacta",
+      "zonaConsulta": "TUNAL ORIENTAL",
+      "zonaSlug": "tunal-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -258,38 +290,6 @@
       "fechaPublicacion": "2026-08-21",
       "lat": 4.6793222,
       "lon": -74.0464909,
-      "location_type": "exacta",
-      "zonaConsulta": "TUNAL ORIENTAL",
-      "zonaSlug": "tunal-oriental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1997000,
-      "area": 51.0,
-      "precioM2": 39157,
-      "administracion": 603000.0,
-      "barrio": "TUNAL ORIENTAL",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-ana-oriental-bogota/194120338",
-      "titulo": "Apartamento en Arriendo en Santa ana oriental, Bogotá",
-      "id_domus": "194120338",
-      "fechaPublicacion": "2026-08-14",
-      "lat": 4.6859541,
-      "lon": -74.0295995,
       "location_type": "exacta",
       "zonaConsulta": "TUNAL ORIENTAL",
       "zonaSlug": "tunal-oriental",

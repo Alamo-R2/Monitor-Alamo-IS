@@ -5,10 +5,10 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 00:53",
+  "generado": "2026.OCT.03 00:47",
   "inmuebles": [
     {
-      "id": "MI-1",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -494,6 +494,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1750000,
+      "area": 25.0,
+      "precioM2": 70000,
+      "administracion": 250000.0,
+      "barrio": "LAGO GAITAN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194228738",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194228738",
+      "fechaPublicacion": "2026-09-08",
+      "lat": 4.6659454,
+      "lon": -74.0597883,
+      "location_type": "exacta",
+      "zonaConsulta": "LAGO GAITAN",
+      "zonaSlug": "lago-gaitan",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 3950000,
       "area": 39.0,
       "precioM2": 101282,
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -608,38 +640,6 @@
       "titulo": "Apartamento en Arriendo en El nogal, Bogotá",
       "id_domus": "194056860",
       "fechaPublicacion": "2026-07-30",
-      "lat": 4.6625362,
-      "lon": -74.0576992,
-      "location_type": "exacta",
-      "zonaConsulta": "LAGO GAITAN",
-      "zonaSlug": "lago-gaitan",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4200000,
-      "area": 47.0,
-      "precioM2": 89362,
-      "administracion": null,
-      "barrio": "EL NOGAL",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-nogal-bogota/191402362",
-      "titulo": "Apartamento en  Arriendo en El nogal, Bogotá",
-      "id_domus": "191402362",
-      "fechaPublicacion": "2024-09-16",
       "lat": 4.6625362,
       "lon": -74.0576992,
       "location_type": "exacta",

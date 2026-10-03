@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 18,
+  "total": 19,
   "zona": "ALCAZARES NORTE",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 20:16",
+  "generado": "2026.OCT.03 00:47",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 261000000,
+      "area": 24.0,
+      "precioM2": 10875000,
+      "administracion": 220000.0,
+      "barrio": "BENJAMIN HERRERA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-benjamin-herrera-bogota/194225033",
+      "titulo": "Apartamento en Venta en Benjamin herrera, Bogotá",
+      "id_domus": "194225033",
+      "fechaPublicacion": "2026-09-08",
+      "lat": 4.662751,
+      "lon": -74.067048,
+      "location_type": "exacta",
+      "zonaConsulta": "ALCAZARES NORTE",
+      "zonaSlug": "alcazares-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,199 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 290000000,
-      "area": 20.0,
-      "precioM2": 14500000,
-      "administracion": 290000.0,
-      "barrio": "ALCAZARES NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barrios-unidos-bogota/193825326",
-      "titulo": "Apartamento en Venta en Barrios Unidos, Bogotá",
-      "id_domus": "193825326",
-      "fechaPublicacion": "2026-06-01",
-      "lat": 4.662751,
-      "lon": -74.067048,
-      "location_type": "exacta",
-      "zonaConsulta": "ALCAZARES NORTE",
-      "zonaSlug": "alcazares-norte",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 750000000,
-      "area": 80.0,
-      "precioM2": 9375000,
-      "administracion": 1200000.0,
-      "barrio": "ALCAZARES",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcazares-bogota/193800377",
-      "titulo": "Apartamento en Venta en Alcazares, Bogotá",
-      "id_domus": "193800377",
-      "fechaPublicacion": "2026-05-26",
-      "lat": 4.6633616,
-      "lon": -74.0680168,
-      "location_type": "exacta",
-      "zonaConsulta": "ALCAZARES NORTE",
-      "zonaSlug": "alcazares-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 500000000,
-      "area": 100.0,
-      "precioM2": 5000000,
-      "administracion": 338000.0,
-      "barrio": "ALCAZARES NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barrios-unidos-bogota/194081644",
-      "titulo": "Apartamento en Venta en Barrios Unidos, Bogotá",
-      "id_domus": "194081644",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.6635731,
-      "lon": -74.0660315,
-      "location_type": "exacta",
-      "zonaConsulta": "ALCAZARES NORTE",
-      "zonaSlug": "alcazares-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 780000000,
-      "area": 80.0,
-      "precioM2": 9750000,
-      "administracion": 1000000.0,
-      "barrio": "ALCAZARES NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcazares-norte-bogota/192476012",
-      "titulo": "Apartamento en Venta en Alcazares norte, Bogotá",
-      "id_domus": "192476012",
-      "fechaPublicacion": "2025-05-31",
-      "lat": 4.663095979329,
-      "lon": -74.068326910058,
-      "location_type": "exacta",
-      "zonaConsulta": "ALCAZARES NORTE",
-      "zonaSlug": "alcazares-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 690000000,
-      "area": 121.0,
-      "precioM2": 5702479,
-      "administracion": null,
-      "barrio": "ALCAZARES NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcazares-norte-bogota/193272799",
-      "titulo": "Apartamento en Venta en Alcazares norte, Bogotá",
-      "id_domus": "193272799",
-      "fechaPublicacion": "2026-01-14",
-      "lat": 4.6564934,
-      "lon": -74.0629328,
-      "location_type": "exacta",
-      "zonaConsulta": "ALCAZARES NORTE",
-      "zonaSlug": "alcazares-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 394500000,
-      "area": 72.0,
-      "precioM2": 5479167,
-      "administracion": 70000.0,
-      "barrio": "ALCAZARES NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barrios-unidos-bogota/194236891",
-      "titulo": "Apartamento en Venta en Barrios Unidos, Bogotá",
-      "id_domus": "194236891",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.6669514990997,
-      "lon": -74.071137438209,
-      "location_type": "exacta",
-      "zonaConsulta": "ALCAZARES NORTE",
-      "zonaSlug": "alcazares-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -578,6 +418,198 @@
       "fechaPublicacion": "2026-08-14",
       "lat": 4.663462478045,
       "lon": -74.065991208919,
+      "location_type": "exacta",
+      "zonaConsulta": "ALCAZARES NORTE",
+      "zonaSlug": "alcazares-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 290000000,
+      "area": 20.0,
+      "precioM2": 14500000,
+      "administracion": 290000.0,
+      "barrio": "ALCAZARES NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barrios-unidos-bogota/193825326",
+      "titulo": "Apartamento en Venta en Barrios Unidos, Bogotá",
+      "id_domus": "193825326",
+      "fechaPublicacion": "2026-06-01",
+      "lat": 4.662751,
+      "lon": -74.067048,
+      "location_type": "exacta",
+      "zonaConsulta": "ALCAZARES NORTE",
+      "zonaSlug": "alcazares-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 750000000,
+      "area": 80.0,
+      "precioM2": 9375000,
+      "administracion": 1200000.0,
+      "barrio": "ALCAZARES",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcazares-bogota/193800377",
+      "titulo": "Apartamento en Venta en Alcazares, Bogotá",
+      "id_domus": "193800377",
+      "fechaPublicacion": "2026-05-26",
+      "lat": 4.6633616,
+      "lon": -74.0680168,
+      "location_type": "exacta",
+      "zonaConsulta": "ALCAZARES NORTE",
+      "zonaSlug": "alcazares-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 500000000,
+      "area": 100.0,
+      "precioM2": 5000000,
+      "administracion": 338000.0,
+      "barrio": "ALCAZARES NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barrios-unidos-bogota/194081644",
+      "titulo": "Apartamento en Venta en Barrios Unidos, Bogotá",
+      "id_domus": "194081644",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.6635731,
+      "lon": -74.0660315,
+      "location_type": "exacta",
+      "zonaConsulta": "ALCAZARES NORTE",
+      "zonaSlug": "alcazares-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 780000000,
+      "area": 80.0,
+      "precioM2": 9750000,
+      "administracion": 1000000.0,
+      "barrio": "ALCAZARES NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcazares-norte-bogota/192476012",
+      "titulo": "Apartamento en Venta en Alcazares norte, Bogotá",
+      "id_domus": "192476012",
+      "fechaPublicacion": "2025-05-31",
+      "lat": 4.663095979329,
+      "lon": -74.068326910058,
+      "location_type": "exacta",
+      "zonaConsulta": "ALCAZARES NORTE",
+      "zonaSlug": "alcazares-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 690000000,
+      "area": 121.0,
+      "precioM2": 5702479,
+      "administracion": null,
+      "barrio": "ALCAZARES NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcazares-norte-bogota/193272799",
+      "titulo": "Apartamento en Venta en Alcazares norte, Bogotá",
+      "id_domus": "193272799",
+      "fechaPublicacion": "2026-01-14",
+      "lat": 4.6564934,
+      "lon": -74.0629328,
+      "location_type": "exacta",
+      "zonaConsulta": "ALCAZARES NORTE",
+      "zonaSlug": "alcazares-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 394500000,
+      "area": 72.0,
+      "precioM2": 5479167,
+      "administracion": 70000.0,
+      "barrio": "ALCAZARES NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barrios-unidos-bogota/194236891",
+      "titulo": "Apartamento en Venta en Barrios Unidos, Bogotá",
+      "id_domus": "194236891",
+      "fechaPublicacion": "2026-09-10",
+      "lat": 4.6669514990997,
+      "lon": -74.071137438209,
       "location_type": "exacta",
       "zonaConsulta": "ALCAZARES NORTE",
       "zonaSlug": "alcazares-norte",

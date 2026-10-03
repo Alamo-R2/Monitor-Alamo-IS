@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 14:52",
+  "generado": "2026.OCT.03 00:47",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -23,7 +23,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2.0,
+      "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 3.0,
       "antiguedad": null,
@@ -46,102 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 234000000,
-      "area": 59.0,
-      "precioM2": 3966102,
-      "administracion": 186200.0,
-      "barrio": "PARQUE EL TUNAL",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tunal-bogota/194219495",
-      "titulo": "Apartamento en Venta en El Tunal, Bogotá",
-      "id_domus": "194219495",
-      "fechaPublicacion": "2026-09-07",
-      "lat": 4.573802,
-      "lon": -74.127246,
-      "location_type": "exacta",
-      "zonaConsulta": "PARQUE EL TUNAL",
-      "zonaSlug": "parque-el-tunal",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 220000000,
-      "area": 59.0,
-      "precioM2": 3728814,
-      "administracion": 199500.0,
-      "barrio": "PARQUE EL TUNAL",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": null,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tunal-bogota/194230918",
-      "titulo": "Apartamento en Venta en El Tunal, Bogotá",
-      "id_domus": "194230918",
-      "fechaPublicacion": "2026-09-09",
-      "lat": 4.5790407,
-      "lon": -74.1334395,
-      "location_type": "exacta",
-      "zonaConsulta": "PARQUE EL TUNAL",
-      "zonaSlug": "parque-el-tunal",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 270000000,
-      "area": 49.0,
-      "precioM2": 5510204,
-      "administracion": 163200.0,
-      "barrio": "PARQUE EL TUNAL",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tunal-bogota/194177818",
-      "titulo": "Apartamento en Venta en El Tunal, Bogotá",
-      "id_domus": "194177818",
-      "fechaPublicacion": "2026-08-28",
-      "lat": 4.5720763,
-      "lon": -74.1342726,
-      "location_type": "exacta",
-      "zonaConsulta": "PARQUE EL TUNAL",
-      "zonaSlug": "parque-el-tunal",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 266000000,
       "area": 57.0,
       "precioM2": 4666667,
@@ -151,7 +55,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 1.0,
+      "banos": 1,
       "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
@@ -168,7 +72,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 270000000,
+      "area": 49.0,
+      "precioM2": 5510204,
+      "administracion": 163200.0,
+      "barrio": "PARQUE EL TUNAL",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tunal-bogota/194177818",
+      "titulo": "Apartamento en Venta en El Tunal, Bogotá",
+      "id_domus": "194177818",
+      "fechaPublicacion": "2026-08-28",
+      "lat": 4.5720763,
+      "lon": -74.1342726,
+      "location_type": "exacta",
+      "zonaConsulta": "PARQUE EL TUNAL",
+      "zonaSlug": "parque-el-tunal",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 270000000,
+      "area": 40.0,
+      "precioM2": 6750000,
+      "administracion": 265600.0,
+      "barrio": "PARQUE EL TUNAL",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tunal-bogota/194345369",
+      "titulo": "Apartamento en Venta en El Tunal, Bogotá",
+      "id_domus": "194345369",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.579088,
+      "lon": -74.1269785,
+      "location_type": "exacta",
+      "zonaConsulta": "PARQUE EL TUNAL",
+      "zonaSlug": "parque-el-tunal",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -183,7 +151,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 1.0,
+      "banos": 1,
       "parqueaderos": 1.0,
       "estrato": 3.0,
       "antiguedad": null,
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -215,7 +183,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2.0,
+      "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 2.0,
       "antiguedad": null,
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -247,7 +215,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 1.0,
+      "banos": 1,
       "parqueaderos": 1.0,
       "estrato": 6.0,
       "antiguedad": null,
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -279,7 +247,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1.0,
+      "banos": 1,
       "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -311,7 +279,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2.0,
+      "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 2.0,
       "antiguedad": null,
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -343,7 +311,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2.0,
+      "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 3.0,
       "antiguedad": null,
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -375,7 +343,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 1.0,
+      "banos": 1,
       "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -407,7 +375,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2.0,
+      "banos": 2,
       "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -439,7 +407,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1.0,
+      "banos": 1,
       "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -471,7 +439,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2.0,
+      "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 3.0,
       "antiguedad": null,
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -503,7 +471,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 2.0,
+      "banos": 2,
       "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -535,7 +503,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1.0,
+      "banos": 1,
       "parqueaderos": null,
       "estrato": 2.0,
       "antiguedad": null,
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -567,7 +535,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2.0,
+      "banos": 2,
       "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -599,7 +567,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2.0,
+      "banos": 2,
       "parqueaderos": 1.0,
       "estrato": null,
       "antiguedad": null,
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -631,7 +599,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2.0,
+      "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 3.0,
       "antiguedad": null,
@@ -648,32 +616,64 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 235000000,
+      "area": 44.0,
+      "precioM2": 5340909,
+      "administracion": 165000.0,
+      "barrio": "PARQUE EL TUNAL",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tunal-bogota/194021895",
+      "titulo": "Apartamento en Venta en El Tunal, Bogotá",
+      "id_domus": "194021895",
+      "fechaPublicacion": "2026-07-22",
+      "lat": 4.575796068914,
+      "lon": -74.127343806497,
+      "location_type": "exacta",
+      "zonaConsulta": "PARQUE EL TUNAL",
+      "zonaSlug": "parque-el-tunal",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-21",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 270000000,
-      "area": 40.0,
-      "precioM2": 6750000,
-      "administracion": 265600.0,
-      "barrio": "PARQUE EL TUNAL",
+      "precio": 240000000,
+      "area": 42.0,
+      "precioM2": 5714286,
+      "administracion": null,
+      "barrio": "SANTA LUCIA",
       "upl": "Tunjuelito",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1.0,
+      "habitaciones": 2,
+      "banos": 1,
       "parqueaderos": 1.0,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tunal-bogota/193823489",
-      "titulo": "Apartamento en Venta en El Tunal, Bogotá",
-      "id_domus": "193823489",
-      "fechaPublicacion": "2026-06-01",
-      "lat": 4.579088,
-      "lon": -74.1269785,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-lucia-bogota/194289284",
+      "titulo": "Apartamento en Venta en Santa lucia, Bogotá",
+      "id_domus": "194289284",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.569180107009,
+      "lon": -74.126111079997,
       "location_type": "exacta",
       "zonaConsulta": "PARQUE EL TUNAL",
       "zonaSlug": "parque-el-tunal",

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 16,
+  "total": 17,
   "zona": "BELLAVISTA OCCIDENTAL",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 23:58",
+  "generado": "2026.OCT.03 00:47",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -489,6 +489,38 @@
     },
     {
       "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 395000000,
+      "area": 74.0,
+      "precioM2": 5337838,
+      "administracion": 435000.0,
+      "barrio": "MODELIA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-modelia-bogota/193989306",
+      "titulo": "Apartamento en Venta en Modelia, Bogotá",
+      "id_domus": "193989306",
+      "fechaPublicacion": "2026-07-14",
+      "lat": 4.676464,
+      "lon": -74.091876,
+      "location_type": "exacta",
+      "zonaConsulta": "BELLAVISTA OCCIDENTAL",
+      "zonaSlug": "bellavista-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],

@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 9,
   "zona": "LAS FERIAS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 23:58",
+  "generado": "2026.OCT.03 00:47",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1350000,
+      "area": 65.0,
+      "precioM2": 20769,
+      "administracion": null,
+      "barrio": "LAS FERIAS",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194340421",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194340421",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6887879,
+      "lon": -74.0824731,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS FERIAS",
+      "zonaSlug": "las-ferias",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2374000,
+      "area": 65.0,
+      "precioM2": 36523,
+      "administracion": 326000.0,
+      "barrio": "LAS FERIAS",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-las-ferias-bogota/194330864",
+      "titulo": "Apartamento en Arriendo en Las ferias, Bogotá",
+      "id_domus": "194330864",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.6875816,
+      "lon": -74.0806922,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS FERIAS",
+      "zonaSlug": "las-ferias",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -194,6 +258,38 @@
       "fechaPublicacion": "2026-02-21",
       "lat": 4.683901,
       "lon": -74.086733,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS FERIAS",
+      "zonaSlug": "las-ferias",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1580000,
+      "area": 34.0,
+      "precioM2": 46471,
+      "administracion": null,
+      "barrio": "LAS FERIAS",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-las-ferias-bogota/194343317",
+      "titulo": "Apartamento en Arriendo en Las ferias, Bogotá",
+      "id_domus": "194343317",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.686042487009,
+      "lon": -74.084168958517,
       "location_type": "exacta",
       "zonaConsulta": "LAS FERIAS",
       "zonaSlug": "las-ferias",

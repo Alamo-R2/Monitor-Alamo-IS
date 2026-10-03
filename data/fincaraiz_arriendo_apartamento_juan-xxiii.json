@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 12,
   "zona": "JUAN XXIII",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 00:53",
+  "generado": "2026.OCT.03 00:47",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -174,10 +174,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 318000,
+      "precio": 2950000,
       "area": 40.0,
-      "precioM2": 7950,
-      "administracion": 2950000.0,
+      "precioM2": 73750,
+      "administracion": 318000.0,
       "barrio": "JUAN XXIII",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -206,11 +206,43 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2800000,
+      "area": 51.0,
+      "precioM2": 54902,
+      "administracion": null,
+      "barrio": "JUAN XXIII",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/194349976",
+      "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
+      "id_domus": "194349976",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.6455283730501,
+      "lon": -74.054422399322,
+      "location_type": "exacta",
+      "zonaConsulta": "JUAN XXIII",
+      "zonaSlug": "juan-xxiii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 3200000,
       "area": 50.0,
       "precioM2": 64000,
       "administracion": null,
-      "barrio": "MARIA CRISTINA",
+      "barrio": "JUAN XXIII",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -220,8 +252,8 @@
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-maria-cristina-bogota/194012582",
-      "titulo": "Apartamento en Arriendo en Maria cristina, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194012582",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
       "id_domus": "194012582",
       "fechaPublicacion": "2026-07-21",
       "lat": 4.6474498,
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 6300000,
+      "area": 72.0,
+      "precioM2": 87500,
+      "administracion": 700000.0,
+      "barrio": "JUAN XXIII",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2.0,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194061357",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194061357",
+      "fechaPublicacion": "2026-07-31",
+      "lat": 4.6484689,
+      "lon": -74.0541349,
+      "location_type": "exacta",
+      "zonaConsulta": "JUAN XXIII",
+      "zonaSlug": "juan-xxiii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],

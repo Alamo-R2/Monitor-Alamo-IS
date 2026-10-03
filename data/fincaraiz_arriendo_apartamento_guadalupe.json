@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 8,
   "zona": "GUADALUPE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 20:32",
+  "generado": "2026.OCT.03 00:47",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,9 +14,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1600000,
+      "precio": 1400000,
       "area": 41.0,
-      "precioM2": 39024,
+      "precioM2": 34146,
       "administracion": null,
       "barrio": "MADELENA",
       "upl": "Tunjuelito",
@@ -233,38 +233,6 @@
     },
     {
       "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1400000,
-      "area": 42.0,
-      "precioM2": 33333,
-      "administracion": null,
-      "barrio": "MADELENA",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-madelena-bogota/194173957",
-      "titulo": "Apartamento en Arriendo en Madelena, Bogotá",
-      "id_domus": "194173957",
-      "fechaPublicacion": "2026-08-27",
-      "lat": 4.5954096,
-      "lon": -74.1581382,
-      "location_type": "exacta",
-      "zonaConsulta": "GUADALUPE",
-      "zonaSlug": "guadalupe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
