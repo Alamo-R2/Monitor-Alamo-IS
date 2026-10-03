@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 10,
   "zona": "EL MADRIGAL",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.29 21:34",
+  "generado": "2026.OCT.03 05:52",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 369600000,
+      "area": 66.0,
+      "precioM2": 5600000,
+      "administracion": 288000,
+      "barrio": "EL MADRIGAL",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194337373",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194337373",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.7072598,
+      "lon": -74.1094635,
+      "location_type": "exacta",
+      "zonaConsulta": "EL MADRIGAL",
+      "zonaSlug": "el-madrigal",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 61.0,
+      "precioM2": 5737705,
+      "administracion": 290000,
+      "barrio": "ALAMOS",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alamos-bogota/194333995",
+      "titulo": "Apartamento en Venta en Alamos, Bogotá",
+      "id_domus": "194333995",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.7072598,
+      "lon": -74.1094635,
+      "location_type": "exacta",
+      "zonaConsulta": "EL MADRIGAL",
+      "zonaSlug": "el-madrigal",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 520000000,
       "area": 92.0,
       "precioM2": 5652174,
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],

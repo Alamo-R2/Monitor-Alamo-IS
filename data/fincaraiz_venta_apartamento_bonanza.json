@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 16,
+  "total": 17,
   "zona": "BONANZA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 23:58",
+  "generado": "2026.OCT.03 05:52",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -25,7 +25,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/192323625",
@@ -57,7 +57,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-del-lago-bogota/194093552",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 430000000,
+      "area": 64.0,
+      "precioM2": 6718750,
+      "administracion": 365000.0,
+      "barrio": "BONANZA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-del-lago-bogota/194349995",
+      "titulo": "Apartamento en Venta en Santa Maria del Lago, Bogotá",
+      "id_domus": "194349995",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.6882285,
+      "lon": -74.0948737,
+      "location_type": "exacta",
+      "zonaConsulta": "BONANZA",
+      "zonaSlug": "bonanza",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 360000000,
       "area": 55.0,
       "precioM2": 6545455,
@@ -89,7 +121,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194244475",
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -121,7 +153,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bonanza-bogota/193556742",
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -153,7 +185,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194291288",
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -185,7 +217,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-minuto-de-dios-bogota/194199621",
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -217,7 +249,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-del-lago-bogota/192673069",
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -249,7 +281,7 @@
       "habitaciones": 7,
       "banos": 3,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": 1989.0,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/10589696",
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -281,7 +313,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bonanza-bogota/191504340",
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -313,7 +345,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194099969",
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -345,7 +377,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/193482226",
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -377,7 +409,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-minuto-de-dios-bogota/194199759",
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -409,7 +441,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194241925",
@@ -424,39 +456,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 315000000,
-      "area": 58.0,
-      "precioM2": 5431034,
-      "administracion": 200000.0,
+      "precio": 470000000,
+      "area": 60.0,
+      "precioM2": 7833333,
+      "administracion": 300000.0,
       "barrio": "BONANZA",
       "upl": "Tabora",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194280338",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194280338",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.6923093,
-      "lon": -74.0925803,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-del-lago-bogota/194342881",
+      "titulo": "Apartamento en Venta en Santa Maria del Lago, Bogotá",
+      "id_domus": "194342881",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.6876669,
+      "lon": -74.0950304,
       "location_type": "exacta",
       "zonaConsulta": "BONANZA",
       "zonaSlug": "bonanza",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -473,7 +505,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-del-lago-bogota/192398010",
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -505,7 +537,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-del-lago-bogota/193360935",

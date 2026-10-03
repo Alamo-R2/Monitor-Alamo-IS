@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 10,
   "zona": "PARIS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 23:58",
+  "generado": "2026.OCT.03 05:52",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -142,6 +142,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1700000,
+      "area": 60.0,
+      "precioM2": 28333,
+      "administracion": null,
+      "barrio": "PARIS",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-afidro-bogota/194337304",
+      "titulo": "Apartamento en Arriendo en Afidro, Bogotá",
+      "id_domus": "194337304",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.7031005,
+      "lon": -74.1058793,
+      "location_type": "exacta",
+      "zonaConsulta": "PARIS",
+      "zonaSlug": "paris",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1700000,
+      "area": 78.0,
+      "precioM2": 21795,
+      "administracion": null,
+      "barrio": "SAN CAYETANO",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-cayetano-bogota/194335942",
+      "titulo": "Apartamento en Arriendo en San cayetano, Bogotá",
+      "id_domus": "194335942",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.701837093896,
+      "lon": -74.103542805698,
+      "location_type": "exacta",
+      "zonaConsulta": "PARIS",
+      "zonaSlug": "paris",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 950000,
       "area": 17.0,
       "precioM2": 55882,
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],

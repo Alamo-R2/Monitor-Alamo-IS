@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 23:58",
+  "generado": "2026.OCT.03 05:52",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 410000000,
+      "area": 60.0,
+      "precioM2": 6833333,
+      "administracion": 360000.0,
+      "barrio": "SAN FERNANDO OCCIDENTAL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barrios-unidos-bogota/193226650",
+      "titulo": "Apartamento en Venta en Barrios Unidos, Bogotá",
+      "id_domus": "193226650",
+      "fechaPublicacion": "2025-12-22",
+      "lat": 4.6738188,
+      "lon": -74.0820407,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FERNANDO OCCIDENTAL",
+      "zonaSlug": "san-fernando-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-07-27",
       "lat": 4.6735027,
       "lon": -74.0822644,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN FERNANDO OCCIDENTAL",
-      "zonaSlug": "san-fernando-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 410000000,
-      "area": 60.0,
-      "precioM2": 6833333,
-      "administracion": 360000.0,
-      "barrio": "SAN FERNANDO OCCIDENTAL",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barrios-unidos-bogota/193226650",
-      "titulo": "Apartamento en Venta en Barrios Unidos, Bogotá",
-      "id_domus": "193226650",
-      "fechaPublicacion": "2025-12-22",
-      "lat": 4.6738188,
-      "lon": -74.0820407,
       "location_type": "exacta",
       "zonaConsulta": "SAN FERNANDO OCCIDENTAL",
       "zonaSlug": "san-fernando-occidental",
@@ -238,38 +238,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 338000000,
-      "area": 48.0,
-      "precioM2": 7041667,
-      "administracion": 80000.0,
-      "barrio": "SAN FERNANDO OCCIDENTAL",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barrios-unidos-bogota/194193410",
-      "titulo": "Apartamento en Venta en Barrios Unidos, Bogotá",
-      "id_domus": "194193410",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.6743376,
-      "lon": -74.0801119,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN FERNANDO OCCIDENTAL",
-      "zonaSlug": "san-fernando-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 360000000,
       "area": 62.0,
       "precioM2": 5806452,
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -482,6 +450,38 @@
       "fechaPublicacion": "2026-04-23",
       "lat": 4.6747479,
       "lon": -74.0766837,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FERNANDO OCCIDENTAL",
+      "zonaSlug": "san-fernando-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 426880000,
+      "area": 75.0,
+      "precioM2": 5691733,
+      "administracion": 184754.0,
+      "barrio": "SAN FERNANDO OCCIDENTAL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-fernando-occidental-bogota/194337350",
+      "titulo": "Apartamento en Venta en San fernando occidental, Bogotá",
+      "id_domus": "194337350",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6736311,
+      "lon": -74.0795893,
       "location_type": "exacta",
       "zonaConsulta": "SAN FERNANDO OCCIDENTAL",
       "zonaSlug": "san-fernando-occidental",

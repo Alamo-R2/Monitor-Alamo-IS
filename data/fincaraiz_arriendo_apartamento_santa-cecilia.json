@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "SANTA CECILIA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 16:49",
+  "generado": "2026.OCT.03 05:52",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2000000,
-      "area": 28.0,
-      "precioM2": 71429,
-      "administracion": 300.0,
-      "barrio": "SANTA CECILIA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-monjes-bogota/194212140",
-      "titulo": "Apartamento en Arriendo en Los monjes, Bogotá",
-      "id_domus": "194212140",
-      "fechaPublicacion": "2026-09-04",
-      "lat": 4.6805968,
-      "lon": -74.1127694,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA CECILIA",
-      "zonaSlug": "santa-cecilia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +40,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 28.0,
+      "precioM2": 71429,
+      "administracion": 300.0,
+      "barrio": "SANTA CECILIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-monjes-bogota/194212140",
+      "titulo": "Apartamento en Arriendo en Los monjes, Bogotá",
+      "id_domus": "194212140",
+      "fechaPublicacion": "2026-09-04",
+      "lat": 4.6805968,
+      "lon": -74.1127694,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CECILIA",
+      "zonaSlug": "santa-cecilia",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2200000,
+      "area": 29.0,
+      "precioM2": 75862,
+      "administracion": null,
+      "barrio": "SANTA CECILIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194245324",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194245324",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.6773267,
+      "lon": -74.1136839,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CECILIA",
+      "zonaSlug": "santa-cecilia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],

@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 16:49",
+  "generado": "2026.OCT.03 05:52",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2600000,
+      "precio": 3500000,
       "area": 44.0,
-      "precioM2": 59091,
+      "precioM2": 79545,
       "administracion": null,
-      "barrio": "PUENTE LARGO",
+      "barrio": "PASADENA",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 1,
+      "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-puente-largo-bogota/194323041",
-      "titulo": "Apartamento en Arriendo en Puente largo, Bogotá",
-      "id_domus": "194323041",
-      "fechaPublicacion": "2026-09-27",
-      "lat": 4.6965134,
-      "lon": -74.0635582,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194305079",
+      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
+      "id_domus": "194305079",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.6880673,
+      "lon": -74.0586094,
       "location_type": "exacta",
       "zonaConsulta": "PASADENA",
       "zonaSlug": "pasadena",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 4500000,
+      "area": 82.0,
+      "precioM2": 54878,
+      "administracion": null,
+      "barrio": "PASADENA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-pasadena-bogota/194342388",
+      "titulo": "Apartamento en Arriendo en Pasadena, Bogotá",
+      "id_domus": "194342388",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.6941326,
+      "lon": -74.063576,
+      "location_type": "exacta",
+      "zonaConsulta": "PASADENA",
+      "zonaSlug": "pasadena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2570000,
       "area": 40.0,
       "precioM2": 64250,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4000000,
+      "area": 113.0,
+      "precioM2": 35398,
+      "administracion": 500000.0,
+      "barrio": "PUENTE LARGO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-puente-largo-bogota/194341254",
+      "titulo": "Apartamento en Arriendo en Puente largo, Bogotá",
+      "id_domus": "194341254",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.691749,
+      "lon": -74.0659227,
+      "location_type": "exacta",
+      "zonaConsulta": "PASADENA",
+      "zonaSlug": "pasadena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -322,70 +386,6 @@
       "fechaPublicacion": "2026-09-26",
       "lat": 4.6962206,
       "lon": -74.0628773,
-      "location_type": "exacta",
-      "zonaConsulta": "PASADENA",
-      "zonaSlug": "pasadena",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3500000,
-      "area": 44.0,
-      "precioM2": 79545,
-      "administracion": null,
-      "barrio": "PASADENA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194305079",
-      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
-      "id_domus": "194305079",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.6880673,
-      "lon": -74.0586094,
-      "location_type": "exacta",
-      "zonaConsulta": "PASADENA",
-      "zonaSlug": "pasadena",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2900000,
-      "area": 50.0,
-      "precioM2": 58000,
-      "administracion": null,
-      "barrio": "PASADENA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-pasadena-bogota/194199164",
-      "titulo": "Apartamento en Arriendo en Pasadena, Bogotá",
-      "id_domus": "194199164",
-      "fechaPublicacion": "2026-09-02",
-      "lat": 4.6922284,
-      "lon": -74.0620827,
       "location_type": "exacta",
       "zonaConsulta": "PASADENA",
       "zonaSlug": "pasadena",
@@ -430,26 +430,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 4500000,
-      "area": 82.0,
-      "precioM2": 54878,
-      "administracion": null,
+      "precio": 2440000,
+      "area": 22.0,
+      "precioM2": 110909,
+      "administracion": 240200.0,
       "barrio": "PASADENA",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4,
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-pasadena-bogota/194342388",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-pasadena-bogota/193448630",
       "titulo": "Apartamento en Arriendo en Pasadena, Bogotá",
-      "id_domus": "194342388",
-      "fechaPublicacion": "2026-10-01",
-      "lat": 4.6941326,
-      "lon": -74.063576,
+      "id_domus": "193448630",
+      "fechaPublicacion": "2026-02-28",
+      "lat": 4.6935598,
+      "lon": -74.0573989,
       "location_type": "exacta",
       "zonaConsulta": "PASADENA",
       "zonaSlug": "pasadena",
@@ -457,6 +457,38 @@
     },
     {
       "id": "MI-15",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4800000,
+      "area": 106.0,
+      "precioM2": 45283,
+      "administracion": null,
+      "barrio": "PASADENA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-alhambra-bogota/192872726",
+      "titulo": "Apartamento en Arriendo en Alhambra, Bogotá",
+      "id_domus": "192872726",
+      "fechaPublicacion": "2025-09-15",
+      "lat": 4.6971968,
+      "lon": -74.0574137,
+      "location_type": "exacta",
+      "zonaConsulta": "PASADENA",
+      "zonaSlug": "pasadena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -616,64 +648,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3400000,
-      "area": 90.0,
-      "precioM2": 37778,
-      "administracion": 700000.0,
-      "barrio": "PASADENA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-pasadena-bogota/194317117",
-      "titulo": "Apartamento en Arriendo en Pasadena, Bogotá",
-      "id_domus": "194317117",
-      "fechaPublicacion": "2026-09-25",
-      "lat": 4.6941244,
-      "lon": -74.0569318,
-      "location_type": "exacta",
-      "zonaConsulta": "PASADENA",
-      "zonaSlug": "pasadena",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 8000000,
-      "area": 122.0,
-      "precioM2": 65574,
-      "administracion": 954000.0,
+      "precio": 3106200,
+      "area": 39.0,
+      "precioM2": 79646,
+      "administracion": 453800.0,
       "barrio": "PASADENA",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-alhambra-bogota/194312352",
-      "titulo": "Apartamento en Arriendo en Alhambra, Bogotá",
-      "id_domus": "194312352",
-      "fechaPublicacion": "2026-09-24",
-      "lat": 4.69552,
-      "lon": -74.057533,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-pasadena-bogota/193448629",
+      "titulo": "Apartamento en Arriendo en Pasadena, Bogotá",
+      "id_domus": "193448629",
+      "fechaPublicacion": "2026-02-28",
+      "lat": 4.6935598,
+      "lon": -74.0573989,
       "location_type": "exacta",
       "zonaConsulta": "PASADENA",
       "zonaSlug": "pasadena",

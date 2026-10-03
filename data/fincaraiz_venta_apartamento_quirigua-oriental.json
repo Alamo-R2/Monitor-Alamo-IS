@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 8,
   "zona": "QUIRIGUA ORIENTAL",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 23:58",
+  "generado": "2026.OCT.03 05:52",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 360000000,
+      "area": 90.0,
+      "precioM2": 4000000,
+      "administracion": null,
+      "barrio": "LOS CEREZOS",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-cerezos-bogota/194325960",
+      "titulo": "Apartamento en Venta en Los cerezos, Bogotá",
+      "id_domus": "194325960",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.709496,
+      "lon": -74.097543,
+      "location_type": "exacta",
+      "zonaConsulta": "QUIRIGUA ORIENTAL",
+      "zonaSlug": "quirigua-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -24,7 +56,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -56,7 +88,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -88,7 +120,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 5,
-      "parqueaderos": 3,
+      "parqueaderos": 3.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -120,7 +152,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 1,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -152,7 +184,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -168,7 +200,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 230000000,
+      "area": 70.0,
+      "precioM2": 3285714,
+      "administracion": 249000.0,
+      "barrio": "QUIRIGUA ORIENTAL",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194327426",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194327426",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.7059302,
+      "lon": -74.1026799,
+      "location_type": "exacta",
+      "zonaConsulta": "QUIRIGUA ORIENTAL",
+      "zonaSlug": "quirigua-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -184,7 +248,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",

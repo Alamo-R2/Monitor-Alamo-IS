@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.26 23:58",
+  "generado": "2026.OCT.03 05:52",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 230000000,
+      "area": 32.0,
+      "precioM2": 7187500,
+      "administracion": 166000.0,
+      "barrio": "PRIMAVERA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-primavera-occidental-puente-aranda-bogota/194228488",
+      "titulo": "Apartamento en Venta en Primavera Occidental - Puente Aranda, Bogotá",
+      "id_domus": "194228488",
+      "fechaPublicacion": "2026-09-08",
+      "lat": 4.6138467,
+      "lon": -74.1075935,
+      "location_type": "exacta",
+      "zonaConsulta": "PRIMAVERA",
+      "zonaSlug": "primavera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-08-10",
       "lat": 4.6123615,
       "lon": -74.107325,
-      "location_type": "exacta",
-      "zonaConsulta": "PRIMAVERA",
-      "zonaSlug": "primavera",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 470000000,
-      "area": 76.0,
-      "precioM2": 6184211,
-      "administracion": 361000.0,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3.0,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/194188058",
-      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
-      "id_domus": "194188058",
-      "fechaPublicacion": "2026-08-31",
-      "lat": 4.6121631,
-      "lon": -74.1078498,
       "location_type": "exacta",
       "zonaConsulta": "PRIMAVERA",
       "zonaSlug": "primavera",
@@ -142,6 +142,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 258000000,
+      "area": 54.0,
+      "precioM2": 4777778,
+      "administracion": 180000.0,
+      "barrio": "PUENTE ARANDA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/193802358",
+      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
+      "id_domus": "193802358",
+      "fechaPublicacion": "2026-05-26",
+      "lat": 4.613579634863,
+      "lon": -74.109028593688,
+      "location_type": "exacta",
+      "zonaConsulta": "PRIMAVERA",
+      "zonaSlug": "primavera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 258725000,
+      "area": 36.0,
+      "precioM2": 7186806,
+      "administracion": 185000.0,
+      "barrio": "PUENTE ARANDA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/194311510",
+      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
+      "id_domus": "194311510",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.612939508917,
+      "lon": -74.106475717438,
+      "location_type": "exacta",
+      "zonaConsulta": "PRIMAVERA",
+      "zonaSlug": "primavera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 230000000,
       "area": 36.0,
       "precioM2": 6388889,
@@ -168,7 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 32.0,
+      "precioM2": 7500000,
+      "administracion": 181000.0,
+      "barrio": "PRIMAVERA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-primavera-occidental-puente-aranda-bogota/194134641",
+      "titulo": "Apartamento en Venta en Primavera Occidental - Puente Aranda, Bogotá",
+      "id_domus": "194134641",
+      "fechaPublicacion": "2026-08-19",
+      "lat": 4.61357,
+      "lon": -74.1075055,
+      "location_type": "exacta",
+      "zonaConsulta": "PRIMAVERA",
+      "zonaSlug": "primavera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -200,39 +296,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 230000000,
-      "area": 32.0,
-      "precioM2": 7187500,
-      "administracion": 166000.0,
+      "precio": 290000000,
+      "area": 50.0,
+      "precioM2": 5800000,
+      "administracion": 175000.0,
       "barrio": "PRIMAVERA",
       "upl": "Tabora",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 3,
       "banos": 1.0,
-      "parqueaderos": null,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-primavera-occidental-puente-aranda-bogota/194228488",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-primavera-occidental-puente-aranda-bogota/193454830",
       "titulo": "Apartamento en Venta en Primavera Occidental - Puente Aranda, Bogotá",
-      "id_domus": "194228488",
-      "fechaPublicacion": "2026-09-08",
-      "lat": 4.6138467,
-      "lon": -74.1075935,
+      "id_domus": "193454830",
+      "fechaPublicacion": "2026-03-02",
+      "lat": 4.6131998,
+      "lon": -74.1085465,
       "location_type": "exacta",
       "zonaConsulta": "PRIMAVERA",
       "zonaSlug": "primavera",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +424,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 390000000,
+      "area": 95.0,
+      "precioM2": 4105263,
+      "administracion": null,
+      "barrio": "BARCELONA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barcelona-bogota/194210567",
+      "titulo": "Apartamento en Venta en Barcelona, Bogotá",
+      "id_domus": "194210567",
+      "fechaPublicacion": "2026-09-04",
+      "lat": 4.616703,
+      "lon": -74.1145729,
+      "location_type": "exacta",
+      "zonaConsulta": "PRIMAVERA",
+      "zonaSlug": "primavera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -520,145 +648,17 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 236800000,
-      "area": 37.0,
-      "precioM2": 6400000,
-      "administracion": 140234.0,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/192867455",
-      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
-      "id_domus": "192867455",
-      "fechaPublicacion": "2025-09-12",
-      "lat": 4.6138467,
-      "lon": -74.1075935,
-      "location_type": "exacta",
-      "zonaConsulta": "PRIMAVERA",
-      "zonaSlug": "primavera",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 300000000,
-      "area": 52.0,
-      "precioM2": 5769231,
-      "administracion": 142000.0,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/194159312",
-      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
-      "id_domus": "194159312",
-      "fechaPublicacion": "2026-08-24",
-      "lat": 4.6131965,
-      "lon": -74.1085137,
-      "location_type": "exacta",
-      "zonaConsulta": "PRIMAVERA",
-      "zonaSlug": "primavera",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 600000000,
-      "area": 97.0,
-      "precioM2": 6185567,
-      "administracion": 200000.0,
-      "barrio": "NICOLAS DE FEDERMAN",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/194199898",
-      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
-      "id_domus": "194199898",
-      "fechaPublicacion": "2026-09-02",
-      "lat": 4.620171,
-      "lon": -74.111379,
-      "location_type": "exacta",
-      "zonaConsulta": "PRIMAVERA",
-      "zonaSlug": "primavera",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 180000000,
-      "area": 27.0,
-      "precioM2": 6666667,
-      "administracion": 140000.0,
-      "barrio": "PRIMAVERA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-primavera-occidental-puente-aranda-bogota/193942682",
-      "titulo": "Apartamento en Venta en Primavera Occidental - Puente Aranda, Bogotá",
-      "id_domus": "193942682",
-      "fechaPublicacion": "2026-07-01",
-      "lat": 4.613836665924,
-      "lon": -74.107619428126,
-      "location_type": "exacta",
-      "zonaConsulta": "PRIMAVERA",
-      "zonaSlug": "primavera",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-21",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 250000000,
+      "precio": 245000000,
       "area": 32.0,
-      "precioM2": 7812500,
-      "administracion": 190000.0,
-      "barrio": "PUENTE ARANDA",
+      "precioM2": 7656250,
+      "administracion": 171100.0,
+      "barrio": "PRIMAVERA",
       "upl": "Tabora",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -668,12 +668,12 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/194030736",
-      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
-      "id_domus": "194030736",
-      "fechaPublicacion": "2026-07-24",
-      "lat": 4.61357,
-      "lon": -74.1075055,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-primavera-occidental-puente-aranda-bogota/194310964",
+      "titulo": "Apartamento en Venta en Primavera Occidental - Puente Aranda, Bogotá",
+      "id_domus": "194310964",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.6145422,
+      "lon": -74.106271,
       "location_type": "exacta",
       "zonaConsulta": "PRIMAVERA",
       "zonaSlug": "primavera",
