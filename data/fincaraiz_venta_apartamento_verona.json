@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 14,
+  "total": 13,
   "zona": "VERONA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 14:52",
+  "generado": "2026.OCT.03 20:16",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,70 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 230000000,
-      "area": 59.0,
-      "precioM2": 3898305,
-      "administracion": 142000.0,
-      "barrio": "ISMAEL PERDOMO",
-      "upl": "Arborizadora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ismael-perdomo-bogota/194159590",
-      "titulo": "Apartamento en Venta en Ismael perdomo, Bogotá",
-      "id_domus": "194159590",
-      "fechaPublicacion": "2026-08-24",
-      "lat": 4.579524,
-      "lon": -74.1574289,
-      "location_type": "exacta",
-      "zonaConsulta": "VERONA",
-      "zonaSlug": "verona",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 223000000,
-      "area": 41.0,
-      "precioM2": 5439024,
-      "administracion": 47842.0,
-      "barrio": "CANDELARIA LA NUEVA",
-      "upl": "Arborizadora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-candelaria-la-nueva-bogota/193168266",
-      "titulo": "Apartamento en Venta en Candelaria la nueva, Bogotá",
-      "id_domus": "193168266",
-      "fechaPublicacion": "2025-12-04",
-      "lat": 4.5771051144097,
-      "lon": -74.154316019426,
-      "location_type": "exacta",
-      "zonaConsulta": "VERONA",
-      "zonaSlug": "verona",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 255000000,
       "area": 55.0,
       "precioM2": 4636364,
@@ -136,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -168,15 +104,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 270000000,
+      "precio": 280000000,
       "area": 56.0,
-      "precioM2": 4821429,
+      "precioM2": 5000000,
       "administracion": 230000.0,
       "barrio": "MADELENA",
       "upl": "Arborizadora",
@@ -200,39 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 223000000,
-      "area": 53.0,
-      "precioM2": 4207547,
-      "administracion": 60000.0,
-      "barrio": "VERONA",
-      "upl": "Arborizadora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-candelaria-la-nueva-ii-sector-bogota/194244359",
-      "titulo": "Apartamento en Venta en Candelaria la nueva ii sector, Bogotá",
-      "id_domus": "194244359",
-      "fechaPublicacion": "2026-09-11",
-      "lat": 4.5781695,
-      "lon": -74.155043,
-      "location_type": "exacta",
-      "zonaConsulta": "VERONA",
-      "zonaSlug": "verona",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 230000000,
+      "area": 59.0,
+      "precioM2": 3898305,
+      "administracion": 142000.0,
+      "barrio": "ISMAEL PERDOMO",
+      "upl": "Arborizadora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ismael-perdomo-bogota/194159590",
+      "titulo": "Apartamento en Venta en Ismael perdomo, Bogotá",
+      "id_domus": "194159590",
+      "fechaPublicacion": "2026-08-24",
+      "lat": 4.579524,
+      "lon": -74.1574289,
+      "location_type": "exacta",
+      "zonaConsulta": "VERONA",
+      "zonaSlug": "verona",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +360,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 223000000,
+      "area": 41.0,
+      "precioM2": 5439024,
+      "administracion": 47842.0,
+      "barrio": "CANDELARIA LA NUEVA",
+      "upl": "Arborizadora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-candelaria-la-nueva-bogota/193168266",
+      "titulo": "Apartamento en Venta en Candelaria la nueva, Bogotá",
+      "id_domus": "193168266",
+      "fechaPublicacion": "2025-12-04",
+      "lat": 4.5771051144097,
+      "lon": -74.154316019426,
+      "location_type": "exacta",
+      "zonaConsulta": "VERONA",
+      "zonaSlug": "verona",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],

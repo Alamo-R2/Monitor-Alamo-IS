@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 15,
+  "total": 16,
   "zona": "LA PAZ BOSA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 20:32",
+  "generado": "2026.OCT.03 20:16",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -238,6 +238,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 203000000,
+      "area": 55.0,
+      "precioM2": 3690909,
+      "administracion": 71000.0,
+      "barrio": "LA PAZ BOSA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-paz-bosa-bogota/193659333",
+      "titulo": "Apartamento en Venta en La paz bosa, Bogotá",
+      "id_domus": "193659333",
+      "fechaPublicacion": "2026-04-21",
+      "lat": 4.616358,
+      "lon": -74.181648,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PAZ BOSA",
+      "zonaSlug": "la-paz-bosa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 250000000,
       "area": 53.0,
       "precioM2": 4716981,
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],

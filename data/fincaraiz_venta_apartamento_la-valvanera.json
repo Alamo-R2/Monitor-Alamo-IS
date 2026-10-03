@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 8,
   "zona": "LA VALVANERA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 14:52",
+  "generado": "2026.OCT.03 20:16",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 209000000,
-      "area": 46.0,
-      "precioM2": 4543478,
-      "administracion": null,
-      "barrio": "ISMAEL PERDOMO",
-      "upl": "Arborizadora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ismael-perdomo-bogota/194027403",
-      "titulo": "Apartamento en Venta en Ismael perdomo, Bogotá",
-      "id_domus": "194027403",
-      "fechaPublicacion": "2026-07-23",
-      "lat": 4.5907891,
-      "lon": -74.1653459,
-      "location_type": "exacta",
-      "zonaConsulta": "LA VALVANERA",
-      "zonaSlug": "la-valvanera",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -54,8 +22,8 @@
       "upl": "Arborizadora",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2.0,
-      "banos": 2.0,
+      "habitaciones": 2,
+      "banos": 2,
       "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -86,8 +54,8 @@
       "upl": "Arborizadora",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2.0,
-      "banos": 2.0,
+      "habitaciones": 2,
+      "banos": 2,
       "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -118,8 +86,8 @@
       "upl": "Arborizadora",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
+      "habitaciones": 3,
+      "banos": 2,
       "parqueaderos": null,
       "estrato": null,
       "antiguedad": null,
@@ -136,39 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 225000000,
-      "area": 55.0,
-      "precioM2": 4090909,
-      "administracion": 168000.0,
-      "barrio": "ISMAEL PERDOMO",
-      "upl": "Arborizadora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ismael-perdomo-bogota/194138995",
-      "titulo": "Apartamento en Venta en Ismael perdomo, Bogotá",
-      "id_domus": "194138995",
-      "fechaPublicacion": "2026-08-20",
-      "lat": 4.5888293,
-      "lon": -74.1629088,
-      "location_type": "exacta",
-      "zonaConsulta": "LA VALVANERA",
-      "zonaSlug": "la-valvanera",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -182,8 +118,8 @@
       "upl": "Arborizadora",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 1.0,
+      "habitaciones": 3,
+      "banos": 1,
       "parqueaderos": null,
       "estrato": 2.0,
       "antiguedad": null,
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -214,8 +150,8 @@
       "upl": "Arborizadora",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
+      "habitaciones": 3,
+      "banos": 2,
       "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -246,8 +182,8 @@
       "upl": "Arborizadora",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
+      "habitaciones": 3,
+      "banos": 2,
       "parqueaderos": null,
       "estrato": null,
       "antiguedad": null,
@@ -264,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -278,8 +214,8 @@
       "upl": "Arborizadora",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
+      "habitaciones": 3,
+      "banos": 2,
       "parqueaderos": null,
       "estrato": null,
       "antiguedad": null,
@@ -296,32 +232,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 147361200,
+      "precio": 209000000,
       "area": 46.0,
-      "precioM2": 3203504,
+      "precioM2": 4543478,
       "administracion": null,
-      "barrio": "BARLOVENTO",
+      "barrio": "ISMAEL PERDOMO",
       "upl": "Arborizadora",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": null,
-      "banos": null,
+      "habitaciones": 3,
+      "banos": 1,
       "parqueaderos": null,
-      "estrato": null,
+      "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barlovento-bogota/194171556",
-      "titulo": "Apartamento en Venta en Barlovento, Bogotá",
-      "id_domus": "194171556",
-      "fechaPublicacion": "2026-08-27",
-      "lat": 4.59136998,
-      "lon": -74.1653207,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ismael-perdomo-bogota/194027403",
+      "titulo": "Apartamento en Venta en Ismael perdomo, Bogotá",
+      "id_domus": "194027403",
+      "fechaPublicacion": "2026-07-23",
+      "lat": 4.5907891,
+      "lon": -74.1653459,
       "location_type": "exacta",
       "zonaConsulta": "LA VALVANERA",
       "zonaSlug": "la-valvanera",

@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 20:32",
+  "generado": "2026.OCT.03 20:16",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 276489400,
+      "area": 47.0,
+      "precioM2": 5882753,
+      "administracion": null,
+      "barrio": "ISLANDIA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/montecielo-ii-apartamento-en-venta-en-bosa-islandia-bogota/10256157",
+      "titulo": "Montecielo II, Apartamento en Venta en Bosa Islandia, Bogotá",
+      "id_domus": "10256157",
+      "fechaPublicacion": "2023-10-17",
+      "lat": 4.6151033,
+      "lon": -74.1953013,
+      "location_type": "exacta",
+      "zonaConsulta": "ISLANDIA",
+      "zonaSlug": "islandia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-09-14",
       "lat": 4.6144082,
       "lon": -74.1949261,
-      "location_type": "exacta",
-      "zonaConsulta": "ISLANDIA",
-      "zonaSlug": "islandia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 175000000,
-      "area": 48.0,
-      "precioM2": 3645833,
-      "administracion": 50662.0,
-      "barrio": "CAMPO VERDE",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-campo-verde-bogota/193944676",
-      "titulo": "Apartamento en Venta en Campo verde, Bogotá",
-      "id_domus": "193944676",
-      "fechaPublicacion": "2026-07-02",
-      "lat": 4.6156089857169,
-      "lon": -74.19153213501,
       "location_type": "exacta",
       "zonaConsulta": "ISLANDIA",
       "zonaSlug": "islandia",
@@ -238,38 +238,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 275000000,
-      "area": 51.0,
-      "precioM2": 5392157,
-      "administracion": 182000.0,
-      "barrio": "ISLANDIA",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-islandia-bogota/194124290",
-      "titulo": "Apartamento en Venta en Bosa Islandia, Bogotá",
-      "id_domus": "194124290",
-      "fechaPublicacion": "2026-08-16",
-      "lat": 4.6165681,
-      "lon": -74.1951822,
-      "location_type": "exacta",
-      "zonaConsulta": "ISLANDIA",
-      "zonaSlug": "islandia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 195000000,
       "area": 49.0,
       "precioM2": 3979592,
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -384,6 +352,38 @@
       "titulo": "Apartamento en Venta en Bosa Islandia, Bogotá",
       "id_domus": "194241613",
       "fechaPublicacion": "2026-09-11",
+      "lat": 4.6142055,
+      "lon": -74.1924605,
+      "location_type": "exacta",
+      "zonaConsulta": "ISLANDIA",
+      "zonaSlug": "islandia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 95000000,
+      "area": 47.0,
+      "precioM2": 2021277,
+      "administracion": 175000.0,
+      "barrio": "ISLANDIA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-islandia-bogota/193404978",
+      "titulo": "Apartamento en Venta en Bosa Islandia, Bogotá",
+      "id_domus": "193404978",
+      "fechaPublicacion": "2026-02-17",
       "lat": 4.6142055,
       "lon": -74.1924605,
       "location_type": "exacta",
@@ -526,6 +526,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 220000000,
+      "area": 47.0,
+      "precioM2": 4680851,
+      "administracion": 175000.0,
+      "barrio": "ISLANDIA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-islandia-bogota/194328643",
+      "titulo": "Apartamento en Venta en Bosa Islandia, Bogotá",
+      "id_domus": "194328643",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.6143595,
+      "lon": -74.1937466,
+      "location_type": "exacta",
+      "zonaConsulta": "ISLANDIA",
+      "zonaSlug": "islandia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 192000000,
+      "area": 48.0,
+      "precioM2": 4000000,
+      "administracion": 140000.0,
+      "barrio": "BOSA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/193610735",
+      "titulo": "Apartamento en Venta en Bosa, Bogotá",
+      "id_domus": "193610735",
+      "fechaPublicacion": "2026-04-09",
+      "lat": 4.6142055,
+      "lon": -74.1924605,
+      "location_type": "exacta",
+      "zonaConsulta": "ISLANDIA",
+      "zonaSlug": "islandia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 208000000,
       "area": 44.0,
       "precioM2": 4727273,
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -610,70 +674,6 @@
       "fechaPublicacion": "2026-07-10",
       "lat": 4.6102033983138,
       "lon": -74.191253450934,
-      "location_type": "exacta",
-      "zonaConsulta": "ISLANDIA",
-      "zonaSlug": "islandia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 160000000,
-      "area": 45.0,
-      "precioM2": 3555556,
-      "administracion": 60000.0,
-      "barrio": "ISLANDIA",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nuevo-recreo-bogota/193945938",
-      "titulo": "Apartamento en Venta en Nuevo recreo, Bogotá",
-      "id_domus": "193945938",
-      "fechaPublicacion": "2026-07-02",
-      "lat": 4.61697782182,
-      "lon": -74.195652008057,
-      "location_type": "exacta",
-      "zonaConsulta": "ISLANDIA",
-      "zonaSlug": "islandia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 215000000,
-      "area": 45.0,
-      "precioM2": 4777778,
-      "administracion": null,
-      "barrio": "ISLANDIA",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-islandia-bogota/194053748",
-      "titulo": "Apartamento en Venta en Bosa Islandia, Bogotá",
-      "id_domus": "194053748",
-      "fechaPublicacion": "2026-07-30",
-      "lat": 4.6166478,
-      "lon": -74.1952751,
       "location_type": "exacta",
       "zonaConsulta": "ISLANDIA",
       "zonaSlug": "islandia",

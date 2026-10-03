@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 14:52",
+  "generado": "2026.OCT.03 20:16",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 223000000,
-      "area": 41.0,
-      "precioM2": 5439024,
-      "administracion": 47842.0,
-      "barrio": "CANDELARIA LA NUEVA",
-      "upl": "Arborizadora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-candelaria-la-nueva-bogota/193168266",
-      "titulo": "Apartamento en Venta en Candelaria la nueva, Bogotá",
-      "id_domus": "193168266",
-      "fechaPublicacion": "2025-12-04",
-      "lat": 4.5771051144097,
-      "lon": -74.154316019426,
-      "location_type": "exacta",
-      "zonaConsulta": "JERUSALEN",
-      "zonaSlug": "jerusalen",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2024-05-22",
       "lat": 4.5739545564817,
       "lon": -74.154564282642,
+      "location_type": "exacta",
+      "zonaConsulta": "JERUSALEN",
+      "zonaSlug": "jerusalen",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 223000000,
+      "area": 41.0,
+      "precioM2": 5439024,
+      "administracion": 47842.0,
+      "barrio": "CANDELARIA LA NUEVA",
+      "upl": "Arborizadora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-candelaria-la-nueva-bogota/193168266",
+      "titulo": "Apartamento en Venta en Candelaria la nueva, Bogotá",
+      "id_domus": "193168266",
+      "fechaPublicacion": "2025-12-04",
+      "lat": 4.5771051144097,
+      "lon": -74.154316019426,
       "location_type": "exacta",
       "zonaConsulta": "JERUSALEN",
       "zonaSlug": "jerusalen",

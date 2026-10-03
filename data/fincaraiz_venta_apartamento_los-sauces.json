@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 8,
   "zona": "LOS SAUCES",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 20:32",
+  "generado": "2026.OCT.03 20:16",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,38 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 175000000,
-      "area": 48.0,
-      "precioM2": 3645833,
-      "administracion": 50662.0,
-      "barrio": "CAMPO VERDE",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-campo-verde-bogota/193944676",
-      "titulo": "Apartamento en Venta en Campo verde, Bogotá",
-      "id_domus": "193944676",
-      "fechaPublicacion": "2026-07-02",
-      "lat": 4.6156089857169,
-      "lon": -74.19153213501,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS SAUCES",
-      "zonaSlug": "los-sauces",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 201000000,
       "area": 51.0,
       "precioM2": 3941176,
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +104,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 95000000,
+      "area": 47.0,
+      "precioM2": 2021277,
+      "administracion": 175000.0,
+      "barrio": "LOS SAUCES",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-islandia-bogota/193404978",
+      "titulo": "Apartamento en Venta en Bosa Islandia, Bogotá",
+      "id_domus": "193404978",
+      "fechaPublicacion": "2026-02-17",
+      "lat": 4.6142055,
+      "lon": -74.1924605,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS SAUCES",
+      "zonaSlug": "los-sauces",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 192000000,
+      "area": 48.0,
+      "precioM2": 4000000,
+      "administracion": 140000.0,
+      "barrio": "BOSA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/193610735",
+      "titulo": "Apartamento en Venta en Bosa, Bogotá",
+      "id_domus": "193610735",
+      "fechaPublicacion": "2026-04-09",
+      "lat": 4.6142055,
+      "lon": -74.1924605,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS SAUCES",
+      "zonaSlug": "los-sauces",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -194,6 +226,38 @@
       "fechaPublicacion": "2026-09-09",
       "lat": 4.6181286,
       "lon": -74.1897692,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS SAUCES",
+      "zonaSlug": "los-sauces",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 175000000,
+      "area": 48.0,
+      "precioM2": 3645833,
+      "administracion": 50662.0,
+      "barrio": "CAMPO VERDE",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-campo-verde-bogota/193944676",
+      "titulo": "Apartamento en Venta en Campo verde, Bogotá",
+      "id_domus": "193944676",
+      "fechaPublicacion": "2026-07-02",
+      "lat": 4.6156089857169,
+      "lon": -74.19153213501,
       "location_type": "exacta",
       "zonaConsulta": "LOS SAUCES",
       "zonaSlug": "los-sauces",
