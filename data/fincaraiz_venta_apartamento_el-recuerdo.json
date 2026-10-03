@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 05:55",
+  "generado": "2026.OCT.03 14:27",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 205000000,
-      "area": 18.0,
-      "precioM2": 11388889,
-      "administracion": 285000.0,
+      "precio": 485000000,
+      "area": 43.0,
+      "precioM2": 11279070,
+      "administracion": 380000.0,
       "barrio": "EL RECUERDO",
       "upl": "Teusaquillo",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
+      "banos": 2,
+      "parqueaderos": 1.0,
       "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-recuerdo-bogota/193874865",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-recuerdo-bogota/193808631",
       "titulo": "Apartamento en Venta en El recuerdo, Bogotá",
-      "id_domus": "193874865",
-      "fechaPublicacion": "2026-06-13",
-      "lat": 4.630698,
-      "lon": -74.0877878,
+      "id_domus": "193808631",
+      "fechaPublicacion": "2026-05-27",
+      "lat": 4.6296037,
+      "lon": -74.0853669,
       "location_type": "exacta",
       "zonaConsulta": "EL RECUERDO",
       "zonaSlug": "el-recuerdo",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1050000000,
+      "area": 87.0,
+      "precioM2": 12068966,
+      "administracion": 500000.0,
+      "barrio": "EL RECUERDO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-oriental-bogota/194293061",
+      "titulo": "Apartamento en Venta en Ciudad Salitre Oriental, Bogotá",
+      "id_domus": "194293061",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.63374,
+      "lon": -74.0903079,
+      "location_type": "exacta",
+      "zonaConsulta": "EL RECUERDO",
+      "zonaSlug": "el-recuerdo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 420000000,
       "area": 105.0,
       "precioM2": 4000000,
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-04-19",
       "lat": 4.6311037,
       "lon": -74.081885,
-      "location_type": "exacta",
-      "zonaConsulta": "EL RECUERDO",
-      "zonaSlug": "el-recuerdo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 728000000,
-      "area": 60.0,
-      "precioM2": 12133333,
-      "administracion": 580000.0,
-      "barrio": "EL RECUERDO",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-recuerdo-bogota/193863891",
-      "titulo": "Apartamento en Venta en El recuerdo, Bogotá",
-      "id_domus": "193863891",
-      "fechaPublicacion": "2026-06-10",
-      "lat": 4.6286406,
-      "lon": -74.0856843,
       "location_type": "exacta",
       "zonaConsulta": "EL RECUERDO",
       "zonaSlug": "el-recuerdo",
@@ -207,8 +207,8 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 350000000,
-      "area": 43.0,
-      "precioM2": 8139535,
+      "area": 34.0,
+      "precioM2": 10294118,
       "administracion": 454000.0,
       "barrio": "GRAN AMERICA",
       "upl": "Teusaquillo",
@@ -233,70 +233,6 @@
     },
     {
       "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 470000000,
-      "area": 70.0,
-      "precioM2": 6714286,
-      "administracion": null,
-      "barrio": "EL RECUERDO",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 2.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-recuerdo-bogota/193095315",
-      "titulo": "Apartamento en Venta en El recuerdo, Bogotá",
-      "id_domus": "193095315",
-      "fechaPublicacion": "2025-11-13",
-      "lat": 4.632504170124,
-      "lon": -74.085741152095,
-      "location_type": "exacta",
-      "zonaConsulta": "EL RECUERDO",
-      "zonaSlug": "el-recuerdo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 780000000,
-      "area": 60.0,
-      "precioM2": 13000000,
-      "administracion": null,
-      "barrio": "EL RECUERDO",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-recuerdo-bogota/193918684",
-      "titulo": "Apartamento en Venta en El recuerdo, Bogotá",
-      "id_domus": "193918684",
-      "fechaPublicacion": "2026-06-25",
-      "lat": 4.6286146,
-      "lon": -74.0858685,
-      "location_type": "exacta",
-      "zonaConsulta": "EL RECUERDO",
-      "zonaSlug": "el-recuerdo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -360,71 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1050000000,
-      "area": 87.0,
-      "precioM2": 12068966,
-      "administracion": 500000.0,
-      "barrio": "EL RECUERDO",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-oriental-bogota/194293061",
-      "titulo": "Apartamento en Venta en Ciudad Salitre Oriental, Bogotá",
-      "id_domus": "194293061",
-      "fechaPublicacion": "2026-09-22",
-      "lat": 4.63374,
-      "lon": -74.0903079,
-      "location_type": "exacta",
-      "zonaConsulta": "EL RECUERDO",
-      "zonaSlug": "el-recuerdo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 485000000,
-      "area": 43.0,
-      "precioM2": 11279070,
-      "administracion": 380000.0,
-      "barrio": "EL RECUERDO",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-recuerdo-bogota/193808631",
-      "titulo": "Apartamento en Venta en El recuerdo, Bogotá",
-      "id_domus": "193808631",
-      "fechaPublicacion": "2026-05-27",
-      "lat": 4.6296037,
-      "lon": -74.0853669,
-      "location_type": "exacta",
-      "zonaConsulta": "EL RECUERDO",
-      "zonaSlug": "el-recuerdo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +392,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-13",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 205000000,
+      "area": 18.0,
+      "precioM2": 11388889,
+      "administracion": 285000.0,
+      "barrio": "EL RECUERDO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-recuerdo-bogota/193874865",
+      "titulo": "Apartamento en Venta en El recuerdo, Bogotá",
+      "id_domus": "193874865",
+      "fechaPublicacion": "2026-06-13",
+      "lat": 4.630698,
+      "lon": -74.0877878,
+      "location_type": "exacta",
+      "zonaConsulta": "EL RECUERDO",
+      "zonaSlug": "el-recuerdo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +456,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-15",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 720000000,
+      "area": 134.0,
+      "precioM2": 5373134,
+      "administracion": 581000.0,
+      "barrio": "EL RECUERDO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-recuerdo-bogota/194159703",
+      "titulo": "Apartamento en Venta en El recuerdo, Bogotá",
+      "id_domus": "194159703",
+      "fechaPublicacion": "2026-08-24",
+      "lat": 4.6303024476644,
+      "lon": -74.086185693741,
+      "location_type": "exacta",
+      "zonaConsulta": "EL RECUERDO",
+      "zonaSlug": "el-recuerdo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +610,70 @@
       "fechaPublicacion": "2026-09-18",
       "lat": 4.629914,
       "lon": -74.083525,
+      "location_type": "exacta",
+      "zonaConsulta": "EL RECUERDO",
+      "zonaSlug": "el-recuerdo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 305000000,
+      "area": 27.0,
+      "precioM2": 11296296,
+      "administracion": 428500.0,
+      "barrio": "EL RECUERDO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-recuerdo-bogota/193098544",
+      "titulo": "Apartamento en Venta en El recuerdo, Bogotá",
+      "id_domus": "193098544",
+      "fechaPublicacion": "2025-11-14",
+      "lat": 4.629386,
+      "lon": -74.085256,
+      "location_type": "exacta",
+      "zonaConsulta": "EL RECUERDO",
+      "zonaSlug": "el-recuerdo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 27.0,
+      "precioM2": 12962963,
+      "administracion": 224947.0,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/193229986",
+      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
+      "id_domus": "193229986",
+      "fechaPublicacion": "2025-12-24",
+      "lat": 4.628494938197,
+      "lon": -74.085613328072,
       "location_type": "exacta",
       "zonaConsulta": "EL RECUERDO",
       "zonaSlug": "el-recuerdo",

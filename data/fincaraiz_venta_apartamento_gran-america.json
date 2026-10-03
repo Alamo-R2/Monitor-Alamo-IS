@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 05:55",
+  "generado": "2026.OCT.03 14:27",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,10 +46,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 422424000,
-      "area": 39.0,
-      "precioM2": 10831385,
-      "administracion": null,
+      "precio": 295000000,
+      "area": 28.0,
+      "precioM2": 10535714,
+      "administracion": 200000.0,
       "barrio": "GRAN AMERICA",
       "upl": "Teusaquillo",
       "ciudad": "Bogotá",
@@ -57,15 +57,15 @@
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 4,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/gran-central-apartamento-en-venta-en-gran-america-bogota/193022189",
-      "titulo": "GRAN CENTRAL, Apartamento en Venta en Gran america, Bogotá",
-      "id_domus": "193022189",
-      "fechaPublicacion": "2025-10-24",
-      "lat": 4.6257275,
-      "lon": -74.0826228,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-america-bogota/194168351",
+      "titulo": "Apartamento en Venta en Gran america, Bogotá",
+      "id_domus": "194168351",
+      "fechaPublicacion": "2026-08-26",
+      "lat": 4.6268642,
+      "lon": -74.0822899,
       "location_type": "exacta",
       "zonaConsulta": "GRAN AMERICA",
       "zonaSlug": "gran-america",
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 450000000,
+      "area": 76.0,
+      "precioM2": 5921053,
+      "administracion": null,
+      "barrio": "ACEVEDO TEJADA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-acevedo-tejada-bogota/193558134",
+      "titulo": "Apartamento en Venta en Acevedo tejada, Bogotá",
+      "id_domus": "193558134",
+      "fechaPublicacion": "2026-03-24",
+      "lat": 4.6297463687741,
+      "lon": -74.081840515137,
+      "location_type": "exacta",
+      "zonaConsulta": "GRAN AMERICA",
+      "zonaSlug": "gran-america",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 650000000,
       "area": 137.0,
       "precioM2": 4744526,
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-02-03",
       "lat": 4.6296519540161,
       "lon": -74.081921062171,
-      "location_type": "exacta",
-      "zonaConsulta": "GRAN AMERICA",
-      "zonaSlug": "gran-america",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 728000000,
-      "area": 60.0,
-      "precioM2": 12133333,
-      "administracion": 580000.0,
-      "barrio": "EL RECUERDO",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-recuerdo-bogota/193863891",
-      "titulo": "Apartamento en Venta en El recuerdo, Bogotá",
-      "id_domus": "193863891",
-      "fechaPublicacion": "2026-06-10",
-      "lat": 4.6286406,
-      "lon": -74.0856843,
       "location_type": "exacta",
       "zonaConsulta": "GRAN AMERICA",
       "zonaSlug": "gran-america",
@@ -206,9 +206,41 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 295000000,
+      "area": 28.0,
+      "precioM2": 10535714,
+      "administracion": null,
+      "barrio": "GRAN AMERICA",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-america-bogota/194168339",
+      "titulo": "Apartamento en Venta en Gran america, Bogotá",
+      "id_domus": "194168339",
+      "fechaPublicacion": "2026-08-26",
+      "lat": 4.6268642,
+      "lon": -74.0822899,
+      "location_type": "exacta",
+      "zonaConsulta": "GRAN AMERICA",
+      "zonaSlug": "gran-america",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 350000000,
-      "area": 43.0,
-      "precioM2": 8139535,
+      "area": 34.0,
+      "precioM2": 10294118,
       "administracion": 454000.0,
       "barrio": "GRAN AMERICA",
       "upl": "Teusaquillo",
@@ -232,71 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 405000000,
-      "area": 65.0,
-      "precioM2": 6230769,
-      "administracion": 263000.0,
-      "barrio": "QUINTA PAREDES",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quinta-paredes-bogota/193754041",
-      "titulo": "Apartamento en Venta en Quinta paredes, Bogotá",
-      "id_domus": "193754041",
-      "fechaPublicacion": "2026-05-15",
-      "lat": 4.629331682456,
-      "lon": -74.081637004079,
-      "location_type": "exacta",
-      "zonaConsulta": "GRAN AMERICA",
-      "zonaSlug": "gran-america",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 780000000,
-      "area": 60.0,
-      "precioM2": 13000000,
-      "administracion": null,
-      "barrio": "EL RECUERDO",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-recuerdo-bogota/193918684",
-      "titulo": "Apartamento en Venta en El recuerdo, Bogotá",
-      "id_domus": "193918684",
-      "fechaPublicacion": "2026-06-25",
-      "lat": 4.6286146,
-      "lon": -74.0858685,
-      "location_type": "exacta",
-      "zonaConsulta": "GRAN AMERICA",
-      "zonaSlug": "gran-america",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -520,15 +488,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 445000000,
+      "precio": 420000000,
       "area": 39.0,
-      "precioM2": 11410256,
+      "precioM2": 10769231,
       "administracion": null,
       "barrio": "GRAN AMERICA",
       "upl": "Teusaquillo",
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-04-28",
       "lat": 4.6289764854662,
       "lon": -74.084078925085,
+      "location_type": "exacta",
+      "zonaConsulta": "GRAN AMERICA",
+      "zonaSlug": "gran-america",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1100000000,
+      "area": 90.0,
+      "precioM2": 12222222,
+      "administracion": 600000.0,
+      "barrio": "QUINTA PAREDES",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quinta-paredes-bogota/194177454",
+      "titulo": "Apartamento en Venta en Quinta paredes, Bogotá",
+      "id_domus": "194177454",
+      "fechaPublicacion": "2026-08-28",
+      "lat": 4.6283971,
+      "lon": -74.0851444,
       "location_type": "exacta",
       "zonaConsulta": "GRAN AMERICA",
       "zonaSlug": "gran-america",

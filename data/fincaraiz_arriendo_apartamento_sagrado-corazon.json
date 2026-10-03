@@ -5,10 +5,74 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 22:04",
+  "generado": "2026.OCT.03 14:27",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4000000,
+      "area": 60.0,
+      "precioM2": 66667,
+      "administracion": null,
+      "barrio": "SAGRADO CORAZON",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2.0,
+      "banos": 2.0,
+      "parqueaderos": 2.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/194231333",
+      "titulo": "Apartamento en Arriendo en Centro Internacional, Bogotá",
+      "id_domus": "194231333",
+      "fechaPublicacion": "2026-09-09",
+      "lat": 4.6217939,
+      "lon": -74.0693533,
+      "location_type": "exacta",
+      "zonaConsulta": "SAGRADO CORAZON",
+      "zonaSlug": "sagrado-corazon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2100000,
+      "area": 70.0,
+      "precioM2": 30000,
+      "administracion": 450000.0,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2.0,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-teusaquillo-bogota/194091177",
+      "titulo": "Apartamento en Arriendo en Teusaquillo, Bogotá",
+      "id_domus": "194091177",
+      "fechaPublicacion": "2026-08-08",
+      "lat": 4.6260781,
+      "lon": -74.0668045,
+      "location_type": "exacta",
+      "zonaConsulta": "SAGRADO CORAZON",
+      "zonaSlug": "sagrado-corazon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -72,39 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1900000,
-      "area": 30.0,
-      "precioM2": 63333,
-      "administracion": null,
-      "barrio": "SAGRADO CORAZON",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/193891190",
-      "titulo": "Apartamento en Arriendo en Centro Internacional, Bogotá",
-      "id_domus": "193891190",
-      "fechaPublicacion": "2026-06-18",
-      "lat": 4.6220149971015,
-      "lon": -74.069196882803,
-      "location_type": "exacta",
-      "zonaConsulta": "SAGRADO CORAZON",
-      "zonaSlug": "sagrado-corazon",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-09-04",
       "lat": 4.6269084,
       "lon": -74.0684572,
-      "location_type": "exacta",
-      "zonaConsulta": "SAGRADO CORAZON",
-      "zonaSlug": "sagrado-corazon",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4000000,
-      "area": 60.0,
-      "precioM2": 66667,
-      "administracion": null,
-      "barrio": "SAGRADO CORAZON",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2.0,
-      "banos": 2.0,
-      "parqueaderos": 2.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/194231333",
-      "titulo": "Apartamento en Arriendo en Centro Internacional, Bogotá",
-      "id_domus": "194231333",
-      "fechaPublicacion": "2026-09-09",
-      "lat": 4.6217939,
-      "lon": -74.0693533,
       "location_type": "exacta",
       "zonaConsulta": "SAGRADO CORAZON",
       "zonaSlug": "sagrado-corazon",
@@ -270,38 +270,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2100000,
-      "area": 70.0,
-      "precioM2": 30000,
-      "administracion": 450000.0,
-      "barrio": "TEUSAQUILLO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2.0,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-teusaquillo-bogota/194091177",
-      "titulo": "Apartamento en Arriendo en Teusaquillo, Bogotá",
-      "id_domus": "194091177",
-      "fechaPublicacion": "2026-08-08",
-      "lat": 4.6260781,
-      "lon": -74.0668045,
-      "location_type": "exacta",
-      "zonaConsulta": "SAGRADO CORAZON",
-      "zonaSlug": "sagrado-corazon",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 2600000,
       "area": 32.0,
       "precioM2": 81250,
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -386,6 +354,38 @@
       "fechaPublicacion": "2026-04-30",
       "lat": 4.621892,
       "lon": -74.069424,
+      "location_type": "exacta",
+      "zonaConsulta": "SAGRADO CORAZON",
+      "zonaSlug": "sagrado-corazon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2400000,
+      "area": 30.0,
+      "precioM2": 80000,
+      "administracion": null,
+      "barrio": "SAGRADO CORAZON",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/193891190",
+      "titulo": "Apartamento en Arriendo en Centro Internacional, Bogotá",
+      "id_domus": "193891190",
+      "fechaPublicacion": "2026-06-18",
+      "lat": 4.6220149971015,
+      "lon": -74.069196882803,
       "location_type": "exacta",
       "zonaConsulta": "SAGRADO CORAZON",
       "zonaSlug": "sagrado-corazon",

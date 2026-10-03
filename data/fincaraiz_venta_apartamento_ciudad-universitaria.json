@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 05:55",
+  "generado": "2026.OCT.03 14:27",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,9 +14,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 560000000,
+      "precio": 550000000,
       "area": 84.0,
-      "precioM2": 6666667,
+      "precioM2": 6547619,
       "administracion": 122000.0,
       "barrio": "GALERIAS",
       "upl": "Teusaquillo",
@@ -110,9 +110,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 690000000,
+      "precio": 670000000,
       "area": 84.0,
-      "precioM2": 8214286,
+      "precioM2": 7976190,
       "administracion": 480000.0,
       "barrio": "TEUSAQUILLO",
       "upl": "Teusaquillo",
@@ -334,6 +334,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 750000000,
+      "area": 150.0,
+      "precioM2": 5000000,
+      "administracion": 550000.0,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/194349663",
+      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
+      "id_domus": "194349663",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.6429797191146,
+      "lon": -74.079713315344,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD UNIVERSITARIA",
+      "zonaSlug": "ciudad-universitaria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 770000000,
       "area": 80.0,
       "precioM2": 9625000,
@@ -354,38 +386,6 @@
       "fechaPublicacion": "2026-09-23",
       "lat": 4.6429490804211,
       "lon": -74.086976806738,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD UNIVERSITARIA",
-      "zonaSlug": "ciudad-universitaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 470000000,
-      "area": 70.0,
-      "precioM2": 6714286,
-      "administracion": null,
-      "barrio": "EL RECUERDO",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-recuerdo-bogota/193095315",
-      "titulo": "Apartamento en Venta en El recuerdo, Bogotá",
-      "id_domus": "193095315",
-      "fechaPublicacion": "2025-11-13",
-      "lat": 4.632504170124,
-      "lon": -74.085741152095,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD UNIVERSITARIA",
       "zonaSlug": "ciudad-universitaria",
@@ -430,6 +430,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 82.0,
+      "precioM2": 4268293,
+      "administracion": 130000.0,
+      "barrio": "ALFONSO LOPEZ",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alfonso-lopez-bogota/194348630",
+      "titulo": "Apartamento en Venta en Alfonso lopez, Bogotá",
+      "id_domus": "194348630",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.6401415,
+      "lon": -74.0787946,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD UNIVERSITARIA",
+      "zonaSlug": "ciudad-universitaria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 790000000,
       "area": 150.0,
       "precioM2": 5266667,
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -610,38 +642,6 @@
       "fechaPublicacion": "2026-08-31",
       "lat": 4.6360919581887,
       "lon": -74.078573584557,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD UNIVERSITARIA",
-      "zonaSlug": "ciudad-universitaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 435000000,
-      "area": 52.0,
-      "precioM2": 8365385,
-      "administracion": 840000.0,
-      "barrio": "BELALCAZAR",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-belalcazar-bogota/194101936",
-      "titulo": "Apartamento en Venta en Belalcazar, Bogotá",
-      "id_domus": "194101936",
-      "fechaPublicacion": "2026-08-11",
-      "lat": 4.63599548628,
-      "lon": -74.078425023785,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD UNIVERSITARIA",
       "zonaSlug": "ciudad-universitaria",

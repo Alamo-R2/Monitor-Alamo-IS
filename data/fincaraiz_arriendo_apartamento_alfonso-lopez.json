@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 12,
+  "total": 17,
   "zona": "ALFONSO LOPEZ",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 05:55",
+  "generado": "2026.OCT.03 14:27",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -238,6 +238,102 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1500000,
+      "area": 47.0,
+      "precioM2": 31915,
+      "administracion": null,
+      "barrio": "GALERIAS",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-galerias-bogota/194338797",
+      "titulo": "Apartamento en Arriendo en Galerias, Bogotá",
+      "id_domus": "194338797",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6403836,
+      "lon": -74.0717213,
+      "location_type": "exacta",
+      "zonaConsulta": "ALFONSO LOPEZ",
+      "zonaSlug": "alfonso-lopez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1650000,
+      "area": 35.0,
+      "precioM2": 47143,
+      "administracion": null,
+      "barrio": "ALFONSO LOPEZ",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-alfonso-lopez-bogota/194346101",
+      "titulo": "Apartamento en Arriendo en Alfonso lopez, Bogotá",
+      "id_domus": "194346101",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.6399384,
+      "lon": -74.0743529,
+      "location_type": "exacta",
+      "zonaConsulta": "ALFONSO LOPEZ",
+      "zonaSlug": "alfonso-lopez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 26.0,
+      "precioM2": 61538,
+      "administracion": 300000.0,
+      "barrio": "BELALCAZAR",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-belalcazar-bogota/194344630",
+      "titulo": "Apartamento en Arriendo en Belalcazar, Bogotá",
+      "id_domus": "194344630",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.6384364,
+      "lon": -74.0753392,
+      "location_type": "exacta",
+      "zonaConsulta": "ALFONSO LOPEZ",
+      "zonaSlug": "alfonso-lopez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 5400000,
       "area": 170.0,
       "precioM2": 31765,
@@ -264,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +456,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-15",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2900000,
+      "area": 88.0,
+      "precioM2": 32955,
+      "administracion": null,
+      "barrio": "PALERMO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-palermo-bogota/194338069",
+      "titulo": "Apartamento en Arriendo en Palermo, Bogotá",
+      "id_domus": "194338069",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.636883379257,
+      "lon": -74.074442178977,
+      "location_type": "exacta",
+      "zonaConsulta": "ALFONSO LOPEZ",
+      "zonaSlug": "alfonso-lopez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -386,6 +514,38 @@
       "fechaPublicacion": "2026-09-24",
       "lat": 4.638770019933,
       "lon": -74.073729968664,
+      "location_type": "exacta",
+      "zonaConsulta": "ALFONSO LOPEZ",
+      "zonaSlug": "alfonso-lopez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2100000,
+      "area": 65.0,
+      "precioM2": 32308,
+      "administracion": null,
+      "barrio": "ALFONSO LOPEZ",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-alfonso-lopez-bogota/194324828",
+      "titulo": "Apartamento en Arriendo en Alfonso lopez, Bogotá",
+      "id_domus": "194324828",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.6406858,
+      "lon": -74.0721986,
       "location_type": "exacta",
       "zonaConsulta": "ALFONSO LOPEZ",
       "zonaSlug": "alfonso-lopez",
