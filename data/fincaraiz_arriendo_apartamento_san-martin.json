@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.02 06:22",
+  "generado": "2026.OCT.04 00:10",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 34.0,
+      "precioM2": 47059,
+      "administracion": null,
+      "barrio": "SAN MARTIN",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-parque-central-bavaria-bogota/193342127",
+      "titulo": "Apartamento en Arriendo en Parque Central Bavaria, Bogotá",
+      "id_domus": "193342127",
+      "fechaPublicacion": "2026-01-30",
+      "lat": 4.6201209,
+      "lon": -74.0680431,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN MARTIN",
+      "zonaSlug": "san-martin",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,15 +296,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3350000,
+      "precio": 3250000,
       "area": 50.0,
-      "precioM2": 67000,
+      "precioM2": 65000,
       "administracion": null,
       "barrio": "SAN MARTIN",
       "upl": "Centro Histórico",
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -386,38 +418,6 @@
       "fechaPublicacion": "2026-09-21",
       "lat": 4.6168198,
       "lon": -74.0694409,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN MARTIN",
-      "zonaSlug": "san-martin",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1600000,
-      "area": 34.0,
-      "precioM2": 47059,
-      "administracion": null,
-      "barrio": "SAN MARTIN",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-parque-central-bavaria-bogota/193342127",
-      "titulo": "Apartamento en Arriendo en Parque Central Bavaria, Bogotá",
-      "id_domus": "193342127",
-      "fechaPublicacion": "2026-01-30",
-      "lat": 4.6201209,
-      "lon": -74.0680431,
       "location_type": "exacta",
       "zonaConsulta": "SAN MARTIN",
       "zonaSlug": "san-martin",
@@ -654,26 +654,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3500000,
-      "area": 165.0,
-      "precioM2": 21212,
+      "precio": 2400000,
+      "area": 26.0,
+      "precioM2": 92308,
       "administracion": null,
       "barrio": "SAN MARTIN",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
+      "habitaciones": 1,
+      "banos": 1,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-martin-bogota/194272679",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-martin-bogota/194352386",
       "titulo": "Apartamento en Arriendo en San martin, Bogotá",
-      "id_domus": "194272679",
-      "fechaPublicacion": "2026-09-17",
-      "lat": 4.6116251,
-      "lon": -74.0712299,
+      "id_domus": "194352386",
+      "fechaPublicacion": "2026-10-03",
+      "lat": 4.6190112,
+      "lon": -74.0664601,
       "location_type": "exacta",
       "zonaConsulta": "SAN MARTIN",
       "zonaSlug": "san-martin",

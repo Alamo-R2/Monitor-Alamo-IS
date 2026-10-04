@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "GRAN BRITALIA I",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.28 00:04",
+  "generado": "2026.OCT.04 00:10",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -105,6 +105,38 @@
     },
     {
       "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 225000000,
+      "area": 50.0,
+      "precioM2": 4500000,
+      "administracion": 93000,
+      "barrio": "GRAN BRITALIA I",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/194327592",
+      "titulo": "Apartamento en Venta en Fontibon, Bogotá",
+      "id_domus": "194327592",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.6268619,
+      "lon": -74.1746891,
+      "location_type": "exacta",
+      "zonaConsulta": "GRAN BRITALIA I",
+      "zonaSlug": "gran-britalia-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],

@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.30 06:05",
+  "generado": "2026.OCT.04 00:10",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 398000000,
-      "area": 75.0,
-      "precioM2": 5306667,
-      "administracion": 302000,
-      "barrio": "CASTILLA",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194210571",
-      "titulo": "Apartamento en Venta en Castilla, Bogotá",
-      "id_domus": "194210571",
-      "fechaPublicacion": "2026-09-04",
-      "lat": 4.6330185,
-      "lon": -74.1442755,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS DOS AVENIDAS",
-      "zonaSlug": "las-dos-avenidas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-09-15",
       "lat": 4.630387,
       "lon": -74.1376756,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS DOS AVENIDAS",
+      "zonaSlug": "las-dos-avenidas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 380000000,
+      "area": 62.0,
+      "precioM2": 6129032,
+      "administracion": 418000,
+      "barrio": "PIO XII",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pio-xii-bogota/194325456",
+      "titulo": "Apartamento en Venta en Pio xii, Bogotá",
+      "id_domus": "194325456",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.6333601,
+      "lon": -74.1479474,
       "location_type": "exacta",
       "zonaConsulta": "LAS DOS AVENIDAS",
       "zonaSlug": "las-dos-avenidas",
@@ -110,6 +110,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 398000000,
+      "area": 75.0,
+      "precioM2": 5306667,
+      "administracion": 302000,
+      "barrio": "CASTILLA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194210571",
+      "titulo": "Apartamento en Venta en Castilla, Bogotá",
+      "id_domus": "194210571",
+      "fechaPublicacion": "2026-09-04",
+      "lat": 4.6330185,
+      "lon": -74.1442755,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS DOS AVENIDAS",
+      "zonaSlug": "las-dos-avenidas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 345000000,
+      "area": 90.0,
+      "precioM2": 3833333,
+      "administracion": 359900,
+      "barrio": "LAS DOS AVENIDAS",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-central-bogota/192481999",
+      "titulo": "Apartamento en Venta en Kennedy Central, Bogotá",
+      "id_domus": "192481999",
+      "fechaPublicacion": "2025-06-03",
+      "lat": 4.6309925,
+      "lon": -74.1405898,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS DOS AVENIDAS",
+      "zonaSlug": "las-dos-avenidas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 600000000,
       "area": 90.0,
       "precioM2": 6666667,
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -610,70 +674,6 @@
       "fechaPublicacion": "2026-09-17",
       "lat": 4.6340923,
       "lon": -74.1461997,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS DOS AVENIDAS",
-      "zonaSlug": "las-dos-avenidas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 380000000,
-      "area": 60.0,
-      "precioM2": 6333333,
-      "administracion": 280000,
-      "barrio": "LAS DOS AVENIDAS",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-dos-avenidas-bogota/194098693",
-      "titulo": "Apartamento en Venta en Las dos avenidas, Bogotá",
-      "id_domus": "194098693",
-      "fechaPublicacion": "2026-08-11",
-      "lat": 4.632106601557,
-      "lon": -74.139450274825,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS DOS AVENIDAS",
-      "zonaSlug": "las-dos-avenidas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 398000000,
-      "area": 79.0,
-      "precioM2": 5037975,
-      "administracion": 274500,
-      "barrio": "CASTILLA",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/193339486",
-      "titulo": "Apartamento en Venta en Castilla, Bogotá",
-      "id_domus": "193339486",
-      "fechaPublicacion": "2026-01-29",
-      "lat": 4.6334019,
-      "lon": -74.1444918,
       "location_type": "exacta",
       "zonaConsulta": "LAS DOS AVENIDAS",
       "zonaSlug": "las-dos-avenidas",

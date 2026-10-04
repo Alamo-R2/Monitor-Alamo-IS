@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.27 20:32",
+  "generado": "2026.OCT.04 00:10",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 160000000,
+      "area": 45.0,
+      "precioM2": 3555556,
+      "administracion": 60000,
+      "barrio": "LA INDEPENDENCIA",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nuevo-recreo-bogota/193945938",
+      "titulo": "Apartamento en Venta en Nuevo recreo, Bogotá",
+      "id_domus": "193945938",
+      "fechaPublicacion": "2026-07-02",
+      "lat": 4.61697782182,
+      "lon": -74.195652008057,
+      "location_type": "exacta",
+      "zonaConsulta": "LA INDEPENDENCIA",
+      "zonaSlug": "la-independencia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-05-05",
       "lat": 4.6202186,
       "lon": -74.1966542,
-      "location_type": "exacta",
-      "zonaConsulta": "LA INDEPENDENCIA",
-      "zonaSlug": "la-independencia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 160000000,
-      "area": 45.0,
-      "precioM2": 3555556,
-      "administracion": 60000,
-      "barrio": "LA INDEPENDENCIA",
-      "upl": "Edén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nuevo-recreo-bogota/193945938",
-      "titulo": "Apartamento en Venta en Nuevo recreo, Bogotá",
-      "id_domus": "193945938",
-      "fechaPublicacion": "2026-07-02",
-      "lat": 4.61697782182,
-      "lon": -74.195652008057,
       "location_type": "exacta",
       "zonaConsulta": "LA INDEPENDENCIA",
       "zonaSlug": "la-independencia",

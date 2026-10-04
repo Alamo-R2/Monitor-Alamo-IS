@@ -1,14 +1,110 @@
 {
   "ok": true,
-  "total": 16,
+  "total": 18,
   "zona": "HIPOTECHO SUR",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.02 06:22",
+  "generado": "2026.OCT.04 00:10",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1550000,
+      "area": 38.0,
+      "precioM2": 40789,
+      "administracion": null,
+      "barrio": "HIPOTECHO SUR",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-americas-central-bogota/193790436",
+      "titulo": "Apartamento en Arriendo en Américas Central, Bogotá",
+      "id_domus": "193790436",
+      "fechaPublicacion": "2026-05-24",
+      "lat": 4.62946,
+      "lon": -74.1218993,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO SUR",
+      "zonaSlug": "hipotecho-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1900000,
+      "area": 41.0,
+      "precioM2": 46341,
+      "administracion": null,
+      "barrio": "HIPOTECHO SUR",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": null,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-americas-central-bogota/194009873",
+      "titulo": "Apartamento en Arriendo en Américas Central, Bogotá",
+      "id_domus": "194009873",
+      "fechaPublicacion": "2026-07-20",
+      "lat": 4.6266131,
+      "lon": -74.1239941,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO SUR",
+      "zonaSlug": "hipotecho-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2800000,
+      "area": 69.0,
+      "precioM2": 40580,
+      "administracion": null,
+      "barrio": "MARSELLA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-marsella-bogota/10406391",
+      "titulo": "Apartamento en arriendo en Marsella, Bogotá",
+      "id_domus": "10406391",
+      "fechaPublicacion": "2024-01-02",
+      "lat": 4.6265168250421,
+      "lon": -74.123860001564,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO SUR",
+      "zonaSlug": "hipotecho-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -23,7 +119,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -40,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -55,7 +151,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -72,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -87,7 +183,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -104,39 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1700000,
-      "area": 40.0,
-      "precioM2": 42500,
-      "administracion": null,
-      "barrio": "HIPOTECHO SUR",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-americas-central-bogota/194244658",
-      "titulo": "Apartamento en Arriendo en Américas Central, Bogotá",
-      "id_domus": "194244658",
-      "fechaPublicacion": "2026-09-11",
-      "lat": 4.62946,
-      "lon": -74.1218993,
-      "location_type": "exacta",
-      "zonaConsulta": "HIPOTECHO SUR",
-      "zonaSlug": "hipotecho-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -151,7 +215,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -183,7 +247,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 4,
       "antiguedad": null,
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -215,7 +279,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -247,7 +311,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -279,7 +343,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -296,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -311,7 +375,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -343,7 +407,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -375,7 +439,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -407,7 +471,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -439,7 +503,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -471,7 +535,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -503,7 +567,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 4,
       "antiguedad": null,

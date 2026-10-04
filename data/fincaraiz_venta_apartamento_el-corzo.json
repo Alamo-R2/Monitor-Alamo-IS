@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.28 00:04",
+  "generado": "2026.OCT.04 00:10",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 160000000,
+      "area": 39.0,
+      "precioM2": 4102564,
+      "administracion": 90000.0,
+      "barrio": "EL CORZO",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-porvenir-bogota/194264790",
+      "titulo": "Apartamento en Venta en Bosa Porvenir, Bogotá",
+      "id_domus": "194264790",
+      "fechaPublicacion": "2026-09-16",
+      "lat": 4.6377500342703,
+      "lon": -74.189097318052,
+      "location_type": "exacta",
+      "zonaConsulta": "EL CORZO",
+      "zonaSlug": "el-corzo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,64 +232,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 148000000,
-      "area": 46.0,
-      "precioM2": 3217391,
-      "administracion": 120000.0,
-      "barrio": "EL CORZO",
-      "upl": "Edén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-corzo-bogota/194038587",
-      "titulo": "Apartamento en Venta en El corzo, Bogotá",
-      "id_domus": "194038587",
-      "fechaPublicacion": "2026-07-27",
-      "lat": 4.6445501081285,
-      "lon": -74.19415867473,
-      "location_type": "exacta",
-      "zonaConsulta": "EL CORZO",
-      "zonaSlug": "el-corzo",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-8",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 165000000,
-      "area": 42.0,
-      "precioM2": 3928571,
-      "administracion": 95000.0,
+      "precio": 233000000,
+      "area": 37.0,
+      "precioM2": 6297297,
+      "administracion": 20000.0,
       "barrio": "EL CORZO",
       "upl": "Edén",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": null,
+      "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-corzo-bogota/194243324",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-corzo-bogota/194340877",
       "titulo": "Apartamento en Venta en El corzo, Bogotá",
-      "id_domus": "194243324",
-      "fechaPublicacion": "2026-09-11",
-      "lat": 4.6436318,
-      "lon": -74.1961331,
+      "id_domus": "194340877",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.6430669303333,
+      "lon": -74.194269832064,
       "location_type": "exacta",
       "zonaConsulta": "EL CORZO",
       "zonaSlug": "el-corzo",
@@ -558,6 +558,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 233000000,
+      "area": 38.0,
+      "precioM2": 6131579,
+      "administracion": 20000.0,
+      "barrio": "EL CORZO",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-corzo-bogota/194346469",
+      "titulo": "Apartamento en Venta en El corzo, Bogotá",
+      "id_domus": "194346469",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.6432667,
+      "lon": -74.1942923,
+      "location_type": "exacta",
+      "zonaConsulta": "EL CORZO",
+      "zonaSlug": "el-corzo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 150000000,
       "area": 38.45,
       "precioM2": 3901170,
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-06-12",
       "lat": 4.634901,
       "lon": -74.187906,
-      "location_type": "exacta",
-      "zonaConsulta": "EL CORZO",
-      "zonaSlug": "el-corzo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 145000000,
-      "area": 41.0,
-      "precioM2": 3536585,
-      "administracion": 90000.0,
-      "barrio": "EL CORZO",
-      "upl": "Edén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-porvenir-bogota/193720281",
-      "titulo": "Apartamento en Venta en Bosa Porvenir, Bogotá",
-      "id_domus": "193720281",
-      "fechaPublicacion": "2026-05-07",
-      "lat": 4.6436728,
-      "lon": -74.1958819,
       "location_type": "exacta",
       "zonaConsulta": "EL CORZO",
       "zonaSlug": "el-corzo",
