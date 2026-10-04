@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.02 21:30",
+  "generado": "2026.OCT.04 15:01",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -24,7 +24,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -46,102 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1395000000,
-      "area": 178.0,
-      "precioM2": 7837079,
-      "administracion": 1630000.0,
-      "barrio": "LOS ALPES",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-altos-de-bella-suiza-bogota/194202043",
-      "titulo": "Apartamento en Venta en Altos de Bella Suiza, Bogotá",
-      "id_domus": "194202043",
-      "fechaPublicacion": "2026-09-02",
-      "lat": 4.70306,
-      "lon": -74.0274484,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS ALPES",
-      "zonaSlug": "los-alpes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1450000000,
-      "area": 153.0,
-      "precioM2": 9477124,
-      "administracion": 1147600.0,
-      "barrio": "LOS ALPES",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-reserva-de-la-sierra-bogota/194230486",
-      "titulo": "Apartamento en Venta en Reserva de la Sierra, Bogotá",
-      "id_domus": "194230486",
-      "fechaPublicacion": "2026-09-09",
-      "lat": 4.7010091,
-      "lon": -74.0280983,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS ALPES",
-      "zonaSlug": "los-alpes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1450000000,
-      "area": 173.0,
-      "precioM2": 8381503,
-      "administracion": 1100000.0,
-      "barrio": "USAQUEN",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 2,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-usaquen-bogota/194236544",
-      "titulo": "Apartamento en Venta en Usaquen, Bogotá",
-      "id_domus": "194236544",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.7007276743812,
-      "lon": -74.027945035413,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS ALPES",
-      "zonaSlug": "los-alpes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 2300000000,
       "area": 200.0,
       "precioM2": 11500000,
@@ -152,7 +56,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 5,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -168,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -184,7 +88,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 5,
-      "parqueaderos": 3,
+      "parqueaderos": 3.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -200,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -216,7 +120,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 4,
-      "parqueaderos": 4,
+      "parqueaderos": 4.0,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -232,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -248,7 +152,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 5,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -264,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -280,7 +184,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 4,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -296,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -312,7 +216,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 4,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -328,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -344,7 +248,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 5,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -360,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -376,7 +280,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 5,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -392,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -408,7 +312,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 4,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -424,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -440,7 +344,7 @@
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -456,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -472,7 +376,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 4,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -488,103 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1998000000,
-      "area": 224.0,
-      "precioM2": 8919643,
-      "administracion": 2383900.0,
-      "barrio": "SANTA BARBARA",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 3,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-barbara-bogota/192630458",
-      "titulo": "Apartamento en Venta en Santa Barbara, Bogotá",
-      "id_domus": "192630458",
-      "fechaPublicacion": "2025-07-11",
-      "lat": 4.698945,
-      "lon": -74.028355,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS ALPES",
-      "zonaSlug": "los-alpes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1350000000,
-      "area": 147.0,
-      "precioM2": 9183673,
-      "administracion": 1140000.0,
-      "barrio": "BELLA SUIZA",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 2,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bella-suiza-bogota/194255228",
-      "titulo": "Apartamento en Venta en Bella suiza, Bogotá",
-      "id_domus": "194255228",
-      "fechaPublicacion": "2026-09-14",
-      "lat": 4.7020757117057,
-      "lon": -74.027359485626,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS ALPES",
-      "zonaSlug": "los-alpes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3300000000,
-      "area": 320.0,
-      "precioM2": 10312500,
-      "administracion": 3000000.0,
-      "barrio": "USAQUEN",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 4,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-usaquen-bogota/193328467",
-      "titulo": "Apartamento en Venta en Usaquen, Bogotá",
-      "id_domus": "193328467",
-      "fechaPublicacion": "2026-01-27",
-      "lat": 4.699790247423,
-      "lon": -74.028125563719,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS ALPES",
-      "zonaSlug": "los-alpes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -600,7 +408,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 5,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -616,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -632,7 +440,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 4,
-      "parqueaderos": 4,
+      "parqueaderos": 4.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -648,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -664,7 +472,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 4,
-      "parqueaderos": 3,
+      "parqueaderos": 3.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -674,6 +482,198 @@
       "fechaPublicacion": "2026-07-28",
       "lat": 4.699226927338,
       "lon": -74.028306842795,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ALPES",
+      "zonaSlug": "los-alpes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 165000000,
+      "area": 48.0,
+      "precioM2": 3437500,
+      "administracion": 165000.0,
+      "barrio": "LOS ALPES",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-alpes-bogota/193636604",
+      "titulo": "Apartamento en Venta en Los alpes, Bogotá",
+      "id_domus": "193636604",
+      "fechaPublicacion": "2026-04-15",
+      "lat": 4.5561106887935,
+      "lon": -74.082925939338,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ALPES",
+      "zonaSlug": "los-alpes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2200000000,
+      "area": 177.0,
+      "precioM2": 12429379,
+      "administracion": 1415000.0,
+      "barrio": "LOS ALPES",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 5,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-reserva-de-la-sierra-bogota/192282148",
+      "titulo": "Apartamento en Venta en Reserva de la Sierra, Bogotá",
+      "id_domus": "192282148",
+      "fechaPublicacion": "2025-04-16",
+      "lat": 4.7011911,
+      "lon": -74.0284747,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ALPES",
+      "zonaSlug": "los-alpes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2800000000,
+      "area": 288.0,
+      "precioM2": 9722222,
+      "administracion": 1300000.0,
+      "barrio": "SANTA BARBARA",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-barbara-bogota/194098199",
+      "titulo": "Apartamento en Venta en Santa Barbara, Bogotá",
+      "id_domus": "194098199",
+      "fechaPublicacion": "2026-08-11",
+      "lat": 4.7010035880299,
+      "lon": -74.028098553158,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ALPES",
+      "zonaSlug": "los-alpes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1450000000,
+      "area": 173.0,
+      "precioM2": 8381503,
+      "administracion": 1187500.0,
+      "barrio": "USAQUEN",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-usaquen-bogota/193727239",
+      "titulo": "Apartamento en Venta en Usaquen, Bogotá",
+      "id_domus": "193727239",
+      "fechaPublicacion": "2026-05-08",
+      "lat": 4.6998694,
+      "lon": -74.0282573,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ALPES",
+      "zonaSlug": "los-alpes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2290000000,
+      "area": 199.0,
+      "precioM2": 11507538,
+      "administracion": 1650000.0,
+      "barrio": "LOS ALPES",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-reserva-de-la-sierra-bogota/193719261",
+      "titulo": "Apartamento en Venta en Reserva de la Sierra, Bogotá",
+      "id_domus": "193719261",
+      "fechaPublicacion": "2026-05-07",
+      "lat": 4.7010091,
+      "lon": -74.0280983,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS ALPES",
+      "zonaSlug": "los-alpes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2400000000,
+      "area": 276.0,
+      "precioM2": 8695652,
+      "administracion": 1500000.0,
+      "barrio": "USAQUEN",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-usaquen-bogota/194345759",
+      "titulo": "Apartamento en Venta en Usaquen, Bogotá",
+      "id_domus": "194345759",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.6998499961104,
+      "lon": -74.028299969634,
       "location_type": "exacta",
       "zonaConsulta": "LOS ALPES",
       "zonaSlug": "los-alpes",

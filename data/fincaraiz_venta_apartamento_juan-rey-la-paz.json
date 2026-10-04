@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.29 16:11",
+  "generado": "2026.OCT.04 15:01",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,38 +78,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 149000000,
-      "area": 49.0,
-      "precioM2": 3040816,
-      "administracion": 110000.0,
-      "barrio": "JUAN REY SUR",
-      "upl": "Cerros Orientales",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-juan-rey-sur-bogota/194289033",
-      "titulo": "Apartamento en Venta en Juan rey sur, Bogotá",
-      "id_domus": "194289033",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.5219385,
-      "lon": -74.0909602,
-      "location_type": "exacta",
-      "zonaConsulta": "JUAN REY (LA PAZ)",
-      "zonaSlug": "juan-rey-la-paz",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 230000000,
       "area": 57.0,
       "precioM2": 4035088,
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -194,6 +162,38 @@
       "fechaPublicacion": "2025-11-12",
       "lat": 4.5258653,
       "lon": -74.0877562,
+      "location_type": "exacta",
+      "zonaConsulta": "JUAN REY (LA PAZ)",
+      "zonaSlug": "juan-rey-la-paz",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 149000000,
+      "area": 49.0,
+      "precioM2": 3040816,
+      "administracion": 110000.0,
+      "barrio": "JUAN REY SUR",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-juan-rey-sur-bogota/194289033",
+      "titulo": "Apartamento en Venta en Juan rey sur, Bogotá",
+      "id_domus": "194289033",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.5219385,
+      "lon": -74.0909602,
       "location_type": "exacta",
       "zonaConsulta": "JUAN REY (LA PAZ)",
       "zonaSlug": "juan-rey-la-paz",
