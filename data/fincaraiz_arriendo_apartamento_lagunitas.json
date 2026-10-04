@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "LAGUNITAS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.28 17:51",
+  "generado": "2026.OCT.04 20:33",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 906600,
+      "area": 39.0,
+      "precioM2": 23246,
+      "administracion": 93400,
+      "barrio": "BOSA",
+      "upl": "Cuenca del Tunjuelo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 1,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-bogota/194329528",
+      "titulo": "Apartamento en Arriendo en Bosa, Bogotá",
+      "id_domus": "194329528",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.507224,
+      "lon": -74.1452303,
+      "location_type": "exacta",
+      "zonaConsulta": "LAGUNITAS",
+      "zonaSlug": "lagunitas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
