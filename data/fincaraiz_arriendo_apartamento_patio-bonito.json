@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 7,
   "zona": "PATIO BONITO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.28 00:04",
+  "generado": "2026.OCT.04 06:28",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 38.0,
+      "precioM2": 31579,
+      "administracion": null,
+      "barrio": "TINTALA",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-tintala-bogota/194326585",
+      "titulo": "Apartamento en Arriendo en Tintala, Bogotá",
+      "id_domus": "194326585",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.6430263,
+      "lon": -74.1575897,
+      "location_type": "exacta",
+      "zonaConsulta": "PATIO BONITO",
+      "zonaSlug": "patio-bonito",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -130,6 +162,70 @@
       "fechaPublicacion": "2026-01-28",
       "lat": 4.6403313,
       "lon": -74.1596979,
+      "location_type": "exacta",
+      "zonaConsulta": "PATIO BONITO",
+      "zonaSlug": "patio-bonito",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 72.0,
+      "precioM2": 16667,
+      "administracion": null,
+      "barrio": "MARIA PAZ",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-maria-paz-bogota/194332665",
+      "titulo": "Apartamento en Arriendo en Maria paz, Bogotá",
+      "id_domus": "194332665",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.638645129576,
+      "lon": -74.157979746423,
+      "location_type": "exacta",
+      "zonaConsulta": "PATIO BONITO",
+      "zonaSlug": "patio-bonito",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 72.0,
+      "precioM2": 16667,
+      "administracion": null,
+      "barrio": "MARIA PAZ",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-maria-paz-bogota/194332662",
+      "titulo": "Apartamento en Arriendo en Maria paz, Bogotá",
+      "id_domus": "194332662",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.638645129576,
+      "lon": -74.157979746423,
       "location_type": "exacta",
       "zonaConsulta": "PATIO BONITO",
       "zonaSlug": "patio-bonito",
