@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 9,
   "zona": "DANUBIO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.29 06:20",
+  "generado": "2026.OCT.05 06:21",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -233,6 +233,38 @@
     },
     {
       "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 163975000,
+      "area": 33.0,
+      "precioM2": 4968939,
+      "administracion": 150000.0,
+      "barrio": "DANUBIO",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-danubio-bogota/194353832",
+      "titulo": "Apartamento en Venta en Danubio, Bogotá",
+      "id_domus": "194353832",
+      "fechaPublicacion": "2026-10-03",
+      "lat": 4.533365282478,
+      "lon": -74.118070487919,
+      "location_type": "exacta",
+      "zonaConsulta": "DANUBIO",
+      "zonaSlug": "danubio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],

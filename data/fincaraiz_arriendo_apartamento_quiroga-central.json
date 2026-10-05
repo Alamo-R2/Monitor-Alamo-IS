@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.02 16:00",
+  "generado": "2026.OCT.05 06:21",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000,
+      "area": 47.0,
+      "precioM2": 29787,
+      "administracion": null,
+      "barrio": "QUIROGA CENTRAL",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quiroga-central-bogota/194081693",
+      "titulo": "Apartamento en Arriendo en Quiroga central, Bogotá",
+      "id_domus": "194081693",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.578983,
+      "lon": -74.109325,
+      "location_type": "exacta",
+      "zonaConsulta": "QUIROGA CENTRAL",
+      "zonaSlug": "quiroga-central",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-09-24",
       "lat": 4.5797076,
       "lon": -74.1175435,
-      "location_type": "exacta",
-      "zonaConsulta": "QUIROGA CENTRAL",
-      "zonaSlug": "quiroga-central",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1400000,
-      "area": 47.0,
-      "precioM2": 29787,
-      "administracion": null,
-      "barrio": "QUIROGA CENTRAL",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quiroga-central-bogota/194081693",
-      "titulo": "Apartamento en Arriendo en Quiroga central, Bogotá",
-      "id_domus": "194081693",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.578983,
-      "lon": -74.109325,
       "location_type": "exacta",
       "zonaConsulta": "QUIROGA CENTRAL",
       "zonaSlug": "quiroga-central",

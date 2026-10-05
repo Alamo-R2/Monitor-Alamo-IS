@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.04 20:33",
+  "generado": "2026.OCT.05 06:21",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 149000000,
+      "area": 49.0,
+      "precioM2": 3040816,
+      "administracion": 110000.0,
+      "barrio": "JUAN REY SUR",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-juan-rey-sur-bogota/194289033",
+      "titulo": "Apartamento en Venta en Juan rey sur, Bogotá",
+      "id_domus": "194289033",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.5219385,
+      "lon": -74.0909602,
+      "location_type": "exacta",
+      "zonaConsulta": "JUAN REY SUR",
+      "zonaSlug": "juan-rey-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2025-09-12",
       "lat": 4.5126928099355,
       "lon": -74.08906102246,
-      "location_type": "exacta",
-      "zonaConsulta": "JUAN REY SUR",
-      "zonaSlug": "juan-rey-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 149000000,
-      "area": 49.0,
-      "precioM2": 3040816,
-      "administracion": 110000.0,
-      "barrio": "JUAN REY SUR",
-      "upl": "Cerros Orientales",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-juan-rey-sur-bogota/194289033",
-      "titulo": "Apartamento en Venta en Juan rey sur, Bogotá",
-      "id_domus": "194289033",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.5219385,
-      "lon": -74.0909602,
       "location_type": "exacta",
       "zonaConsulta": "JUAN REY SUR",
       "zonaSlug": "juan-rey-sur",
