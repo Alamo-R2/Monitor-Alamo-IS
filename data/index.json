@@ -1,7 +1,7 @@
 {
-  "generado": "2026-10-05T19:03:19",
-  "generado_humano": "2026.OCT.05 19:03",
-  "grupo_actual": "cada5",
+  "generado": "2026-10-05T19:30:45",
+  "generado_humano": "2026.OCT.05 19:30",
+  "grupo_actual": "barrios_res",
   "ciudad": "bogota",
   "datasets": [
     {
@@ -47210,25 +47210,25 @@
       "clave": "ciencuadras_venta_apartamento_la-esperanza",
       "etiqueta": "Venta - Apartamento - LA ESPERANZA",
       "archivo": "ciencuadras_venta_apartamento_la-esperanza.json",
-      "total": 21,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "LA ESPERANZA",
       "slug": "la-esperanza",
       "origen": "barrio",
-      "segundos": 8.6
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_la-esperanza",
       "etiqueta": "Arriendo - Apartamento - LA ESPERANZA",
       "archivo": "ciencuadras_arriendo_apartamento_la-esperanza.json",
-      "total": 20,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "LA ESPERANZA",
       "slug": "la-esperanza",
       "origen": "barrio",
-      "segundos": 8.1
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_venta_apartamento_lago-gaitan",
@@ -47426,13 +47426,13 @@
       "clave": "ciencuadras_venta_apartamento_cataluna",
       "etiqueta": "Venta - Apartamento - CATALUNA",
       "archivo": "ciencuadras_venta_apartamento_cataluna.json",
-      "total": 5,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "CATALUNA",
       "slug": "cataluna",
       "origen": "barrio",
-      "segundos": 8.1
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_cataluna",
@@ -47444,7 +47444,7 @@
       "zona": "CATALUNA",
       "slug": "cataluna",
       "origen": "barrio",
-      "segundos": 8.5
+      "segundos": 8.8
     },
     {
       "clave": "ciencuadras_venta_apartamento_chapinero-central",
@@ -47528,7 +47528,7 @@
       "zona": "EL BAGAZAL",
       "slug": "el-bagazal",
       "origen": "barrio",
-      "segundos": 4.0
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_el-bagazal",
@@ -47768,19 +47768,19 @@
       "zona": "INGEMAR",
       "slug": "ingemar",
       "origen": "barrio",
-      "segundos": 4.0
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_ingemar",
       "etiqueta": "Arriendo - Apartamento - INGEMAR",
       "archivo": "ciencuadras_arriendo_apartamento_ingemar.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "INGEMAR",
       "slug": "ingemar",
       "origen": "barrio",
-      "segundos": 4.0
+      "segundos": 8.5
     },
     {
       "clave": "ciencuadras_venta_apartamento_ingemar-oriental-i",
@@ -47792,7 +47792,7 @@
       "zona": "INGEMAR ORIENTAL I",
       "slug": "ingemar-oriental-i",
       "origen": "barrio",
-      "segundos": 4.0
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_ingemar-oriental-i",
@@ -47816,19 +47816,19 @@
       "zona": "INGEMAR ORIENTAL II",
       "slug": "ingemar-oriental-ii",
       "origen": "barrio",
-      "segundos": 4.0
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_ingemar-oriental-ii",
       "etiqueta": "Arriendo - Apartamento - INGEMAR ORIENTAL II",
       "archivo": "ciencuadras_arriendo_apartamento_ingemar-oriental-ii.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "INGEMAR ORIENTAL II",
       "slug": "ingemar-oriental-ii",
       "origen": "barrio",
-      "segundos": 4.0
+      "segundos": 8.5
     },
     {
       "clave": "ciencuadras_venta_apartamento_ingemar-oriental-rural",
@@ -47852,7 +47852,7 @@
       "zona": "INGEMAR ORIENTAL RURAL",
       "slug": "ingemar-oriental-rural",
       "origen": "barrio",
-      "segundos": 4.0
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_venta_apartamento_la-cabrera",
@@ -47906,13 +47906,13 @@
       "clave": "ciencuadras_venta_apartamento_las-acacias",
       "etiqueta": "Venta - Apartamento - LAS ACACIAS",
       "archivo": "ciencuadras_venta_apartamento_las-acacias.json",
-      "total": 0,
+      "total": 20,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "LAS ACACIAS",
       "slug": "las-acacias",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.4
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_las-acacias",
@@ -47936,19 +47936,19 @@
       "zona": "LOS ROSALES",
       "slug": "los-rosales",
       "origen": "barrio",
-      "segundos": 4.0
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_los-rosales",
       "etiqueta": "Arriendo - Apartamento - LOS ROSALES",
       "archivo": "ciencuadras_arriendo_apartamento_los-rosales.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "LOS ROSALES",
       "slug": "los-rosales",
       "origen": "barrio",
-      "segundos": 4.0
+      "segundos": 8.3
     },
     {
       "clave": "ciencuadras_venta_apartamento_maria-cristina",
@@ -47960,7 +47960,7 @@
       "zona": "MARIA CRISTINA",
       "slug": "maria-cristina",
       "origen": "barrio",
-      "segundos": 4.0
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_maria-cristina",
@@ -47972,7 +47972,7 @@
       "zona": "MARIA CRISTINA",
       "slug": "maria-cristina",
       "origen": "barrio",
-      "segundos": 4.0
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_venta_apartamento_marly",
@@ -48032,7 +48032,7 @@
       "zona": "PARAMO I RURAL",
       "slug": "paramo-i-rural",
       "origen": "barrio",
-      "segundos": 4.0
+      "segundos": 4.2
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_paramo-i-rural",
@@ -48044,7 +48044,7 @@
       "zona": "PARAMO I RURAL",
       "slug": "paramo-i-rural",
       "origen": "barrio",
-      "segundos": 4.0
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_venta_apartamento_pardo-rubio",
@@ -48080,7 +48080,7 @@
       "zona": "PARDO RUBIO I",
       "slug": "pardo-rubio-i",
       "origen": "barrio",
-      "segundos": 4.2
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_pardo-rubio-i",
@@ -48098,25 +48098,25 @@
       "clave": "ciencuadras_venta_apartamento_parque-nacional-oriental",
       "etiqueta": "Venta - Apartamento - PARQUE NACIONAL ORIENTAL",
       "archivo": "ciencuadras_venta_apartamento_parque-nacional-oriental.json",
-      "total": 20,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "PARQUE NACIONAL ORIENTAL",
       "slug": "parque-nacional-oriental",
       "origen": "barrio",
-      "segundos": 9.1
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_parque-nacional-oriental",
       "etiqueta": "Arriendo - Apartamento - PARQUE NACIONAL ORIENTAL",
       "archivo": "ciencuadras_arriendo_apartamento_parque-nacional-oriental.json",
-      "total": 20,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "PARQUE NACIONAL ORIENTAL",
       "slug": "parque-nacional-oriental",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_venta_apartamento_quesada",
@@ -48194,13 +48194,13 @@
       "clave": "ciencuadras_venta_apartamento_seminario",
       "etiqueta": "Venta - Apartamento - SEMINARIO",
       "archivo": "ciencuadras_venta_apartamento_seminario.json",
-      "total": 20,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "SEMINARIO",
       "slug": "seminario",
       "origen": "barrio",
-      "segundos": 8.3
+      "segundos": 8.4
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_seminario",
@@ -48212,79 +48212,79 @@
       "zona": "SEMINARIO",
       "slug": "seminario",
       "origen": "barrio",
-      "segundos": 8.3
+      "segundos": 8.5
     },
     {
       "clave": "ciencuadras_venta_apartamento_siberia",
       "etiqueta": "Venta - Apartamento - SIBERIA",
       "archivo": "ciencuadras_venta_apartamento_siberia.json",
-      "total": 0,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "SIBERIA",
       "slug": "siberia",
       "origen": "barrio",
-      "segundos": 4.0
+      "segundos": 8.7
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_siberia",
       "etiqueta": "Arriendo - Apartamento - SIBERIA",
       "archivo": "ciencuadras_arriendo_apartamento_siberia.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "SIBERIA",
       "slug": "siberia",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.5
     },
     {
       "clave": "ciencuadras_venta_apartamento_siberia-central",
       "etiqueta": "Venta - Apartamento - SIBERIA CENTRAL",
       "archivo": "ciencuadras_venta_apartamento_siberia-central.json",
-      "total": 0,
+      "total": 20,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "SIBERIA CENTRAL",
       "slug": "siberia-central",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_siberia-central",
       "etiqueta": "Arriendo - Apartamento - SIBERIA CENTRAL",
       "archivo": "ciencuadras_arriendo_apartamento_siberia-central.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "SIBERIA CENTRAL",
       "slug": "siberia-central",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.5
     },
     {
       "clave": "ciencuadras_venta_apartamento_siberia-ii",
       "etiqueta": "Venta - Apartamento - SIBERIA II",
       "archivo": "ciencuadras_venta_apartamento_siberia-ii.json",
-      "total": 0,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "SIBERIA II",
       "slug": "siberia-ii",
       "origen": "barrio",
-      "segundos": 4.2
+      "segundos": 8.4
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_siberia-ii",
       "etiqueta": "Arriendo - Apartamento - SIBERIA II",
       "archivo": "ciencuadras_arriendo_apartamento_siberia-ii.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "SIBERIA II",
       "slug": "siberia-ii",
       "origen": "barrio",
-      "segundos": 4.0
+      "segundos": 8.7
     },
     {
       "clave": "ciencuadras_venta_apartamento_sucre",
@@ -48386,13 +48386,13 @@
       "clave": "ciencuadras_venta_apartamento_las-margaritas",
       "etiqueta": "Venta - Apartamento - LAS MARGARITAS",
       "archivo": "ciencuadras_venta_apartamento_las-margaritas.json",
-      "total": 0,
+      "total": 3,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "LAS MARGARITAS",
       "slug": "las-margaritas",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.7
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_las-margaritas",
@@ -48404,7 +48404,7 @@
       "zona": "LAS MARGARITAS",
       "slug": "las-margaritas",
       "origen": "barrio",
-      "segundos": 8.6
+      "segundos": 8.5
     },
     {
       "clave": "ciencuadras_venta_apartamento_los-cedros",
@@ -50462,13 +50462,13 @@
       "clave": "ciencuadras_arriendo_apartamento_paramo",
       "etiqueta": "Arriendo - Apartamento - PARAMO",
       "archivo": "ciencuadras_arriendo_apartamento_paramo.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "PARAMO",
       "slug": "paramo",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.6
     },
     {
       "clave": "ciencuadras_venta_apartamento_paramo-iii-rural",
@@ -61400,19 +61400,19 @@
       "zona": "LOS LACHES",
       "slug": "los-laches",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 4.2
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_los-laches",
       "etiqueta": "Arriendo - Apartamento - LOS LACHES",
       "archivo": "ciencuadras_arriendo_apartamento_los-laches.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "LOS LACHES",
       "slug": "los-laches",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 9.1
     },
     {
       "clave": "ciencuadras_venta_apartamento_modelo-sur",
@@ -63914,25 +63914,25 @@
       "clave": "ciencuadras_venta_apartamento_san-isidro",
       "etiqueta": "Venta - Apartamento - SAN ISIDRO",
       "archivo": "ciencuadras_venta_apartamento_san-isidro.json",
-      "total": 0,
+      "total": 12,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "SAN ISIDRO",
       "slug": "san-isidro",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.5
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_san-isidro",
       "etiqueta": "Arriendo - Apartamento - SAN ISIDRO",
       "archivo": "ciencuadras_arriendo_apartamento_san-isidro.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "SAN ISIDRO",
       "slug": "san-isidro",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.7
     },
     {
       "clave": "ciencuadras_venta_apartamento_san-jorge-sur",
@@ -65402,49 +65402,49 @@
       "clave": "ciencuadras_venta_apartamento_aguas-claras",
       "etiqueta": "Venta - Apartamento - AGUAS CLARAS",
       "archivo": "ciencuadras_venta_apartamento_aguas-claras.json",
-      "total": 0,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "AGUAS CLARAS",
       "slug": "aguas-claras",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.4
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_aguas-claras",
       "etiqueta": "Arriendo - Apartamento - AGUAS CLARAS",
       "archivo": "ciencuadras_arriendo_apartamento_aguas-claras.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "AGUAS CLARAS",
       "slug": "aguas-claras",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.6
     },
     {
       "clave": "ciencuadras_venta_apartamento_aguas-claras-i",
       "etiqueta": "Venta - Apartamento - AGUAS CLARAS I",
       "archivo": "ciencuadras_venta_apartamento_aguas-claras-i.json",
-      "total": 0,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "AGUAS CLARAS I",
       "slug": "aguas-claras-i",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 9.0
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_aguas-claras-i",
       "etiqueta": "Arriendo - Apartamento - AGUAS CLARAS I",
       "archivo": "ciencuadras_arriendo_apartamento_aguas-claras-i.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "AGUAS CLARAS I",
       "slug": "aguas-claras-i",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.8
     },
     {
       "clave": "ciencuadras_venta_apartamento_altamira",
@@ -65498,25 +65498,25 @@
       "clave": "ciencuadras_venta_apartamento_altos-del-zipa",
       "etiqueta": "Venta - Apartamento - ALTOS DEL ZIPA",
       "archivo": "ciencuadras_venta_apartamento_altos-del-zipa.json",
-      "total": 0,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "ALTOS DEL ZIPA",
       "slug": "altos-del-zipa",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.6
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_altos-del-zipa",
       "etiqueta": "Arriendo - Apartamento - ALTOS DEL ZIPA",
       "archivo": "ciencuadras_arriendo_apartamento_altos-del-zipa.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "ALTOS DEL ZIPA",
       "slug": "altos-del-zipa",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.6
     },
     {
       "clave": "ciencuadras_venta_apartamento_altos-del-zuque",
@@ -66002,121 +66002,121 @@
       "clave": "ciencuadras_venta_apartamento_los-alpes",
       "etiqueta": "Venta - Apartamento - LOS ALPES",
       "archivo": "ciencuadras_venta_apartamento_los-alpes.json",
-      "total": 12,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "LOS ALPES",
       "slug": "los-alpes",
       "origen": "barrio",
-      "segundos": 8.2
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_los-alpes",
       "etiqueta": "Arriendo - Apartamento - LOS ALPES",
       "archivo": "ciencuadras_arriendo_apartamento_los-alpes.json",
-      "total": 20,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "LOS ALPES",
       "slug": "los-alpes",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_venta_apartamento_los-laureles-sur-oriental-i",
       "etiqueta": "Venta - Apartamento - LOS LAURELES SUR ORIENTAL I",
       "archivo": "ciencuadras_venta_apartamento_los-laureles-sur-oriental-i.json",
-      "total": 20,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "LOS LAURELES SUR ORIENTAL I",
       "slug": "los-laureles-sur-oriental-i",
       "origen": "barrio",
-      "segundos": 8.5
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_los-laureles-sur-oriental-i",
       "etiqueta": "Arriendo - Apartamento - LOS LAURELES SUR ORIENTAL I",
       "archivo": "ciencuadras_arriendo_apartamento_los-laureles-sur-oriental-i.json",
-      "total": 20,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "LOS LAURELES SUR ORIENTAL I",
       "slug": "los-laureles-sur-oriental-i",
       "origen": "barrio",
-      "segundos": 9.3
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_venta_apartamento_molino-rural",
       "etiqueta": "Venta - Apartamento - MOLINO RURAL",
       "archivo": "ciencuadras_venta_apartamento_molino-rural.json",
-      "total": 20,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "MOLINO RURAL",
       "slug": "molino-rural",
       "origen": "barrio",
-      "segundos": 8.3
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_molino-rural",
       "etiqueta": "Arriendo - Apartamento - MOLINO RURAL",
       "archivo": "ciencuadras_arriendo_apartamento_molino-rural.json",
-      "total": 20,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "MOLINO RURAL",
       "slug": "molino-rural",
       "origen": "barrio",
-      "segundos": 8.5
+      "segundos": 4.2
     },
     {
       "clave": "ciencuadras_venta_apartamento_molinos-de-oriente",
       "etiqueta": "Venta - Apartamento - MOLINOS DE ORIENTE",
       "archivo": "ciencuadras_venta_apartamento_molinos-de-oriente.json",
-      "total": 28,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "MOLINOS DE ORIENTE",
       "slug": "molinos-de-oriente",
       "origen": "barrio",
-      "segundos": 9.5
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_molinos-de-oriente",
       "etiqueta": "Arriendo - Apartamento - MOLINOS DE ORIENTE",
       "archivo": "ciencuadras_arriendo_apartamento_molinos-de-oriente.json",
-      "total": 20,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "MOLINOS DE ORIENTE",
       "slug": "molinos-de-oriente",
       "origen": "barrio",
-      "segundos": 8.6
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_venta_apartamento_monte-carlo",
       "etiqueta": "Venta - Apartamento - MONTE CARLO",
       "archivo": "ciencuadras_venta_apartamento_monte-carlo.json",
-      "total": 21,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "MONTE CARLO",
       "slug": "monte-carlo",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_monte-carlo",
       "etiqueta": "Arriendo - Apartamento - MONTE CARLO",
       "archivo": "ciencuadras_arriendo_apartamento_monte-carlo.json",
-      "total": 20,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "MONTE CARLO",
       "slug": "monte-carlo",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_venta_apartamento_montebello",
@@ -66152,19 +66152,19 @@
       "zona": "MORALBA",
       "slug": "moralba",
       "origen": "barrio",
-      "segundos": 8.4
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_moralba",
       "etiqueta": "Arriendo - Apartamento - MORALBA",
       "archivo": "ciencuadras_arriendo_apartamento_moralba.json",
-      "total": 20,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "MORALBA",
       "slug": "moralba",
       "origen": "barrio",
-      "segundos": 8.4
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_venta_apartamento_nueva-gloria",
@@ -66368,7 +66368,7 @@
       "zona": "SAN CRISTOBAL SUR",
       "slug": "san-cristobal-sur",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 4.2
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_san-cristobal-sur",
@@ -69698,25 +69698,25 @@
       "clave": "ciencuadras_venta_apartamento_la-libertad",
       "etiqueta": "Venta - Apartamento - LA LIBERTAD",
       "archivo": "ciencuadras_venta_apartamento_la-libertad.json",
-      "total": 0,
+      "total": 3,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "LA LIBERTAD",
       "slug": "la-libertad",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.2
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_la-libertad",
       "etiqueta": "Arriendo - Apartamento - LA LIBERTAD",
       "archivo": "ciencuadras_arriendo_apartamento_la-libertad.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "LA LIBERTAD",
       "slug": "la-libertad",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.6
     },
     {
       "clave": "ciencuadras_venta_apartamento_la-merced-norte",
@@ -71480,7 +71480,7 @@
       "zona": "LA CABANA",
       "slug": "la-cabana",
       "origen": "barrio",
-      "segundos": 8.3
+      "segundos": 8.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_la-cabana",
@@ -71492,7 +71492,7 @@
       "zona": "LA CABANA",
       "slug": "la-cabana",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 8.6
     },
     {
       "clave": "ciencuadras_venta_apartamento_la-estrada",
@@ -79922,61 +79922,61 @@
       "clave": "ciencuadras_venta_apartamento_osorio-x-urbano",
       "etiqueta": "Venta - Apartamento - OSORIO X URBANO",
       "archivo": "ciencuadras_venta_apartamento_osorio-x-urbano.json",
-      "total": 0,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "OSORIO X URBANO",
       "slug": "osorio-x-urbano",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 9.0
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_osorio-x-urbano",
       "etiqueta": "Arriendo - Apartamento - OSORIO X URBANO",
       "archivo": "ciencuadras_arriendo_apartamento_osorio-x-urbano.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "OSORIO X URBANO",
       "slug": "osorio-x-urbano",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.5
     },
     {
       "clave": "ciencuadras_venta_apartamento_osorio-xii",
       "etiqueta": "Venta - Apartamento - OSORIO XII",
       "archivo": "ciencuadras_venta_apartamento_osorio-xii.json",
-      "total": 0,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "OSORIO XII",
       "slug": "osorio-xii",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.4
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_osorio-xii",
       "etiqueta": "Arriendo - Apartamento - OSORIO XII",
       "archivo": "ciencuadras_arriendo_apartamento_osorio-xii.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "OSORIO XII",
       "slug": "osorio-xii",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.4
     },
     {
       "clave": "ciencuadras_venta_apartamento_parcela-el-porvenir",
       "etiqueta": "Venta - Apartamento - PARCELA EL PORVENIR",
       "archivo": "ciencuadras_venta_apartamento_parcela-el-porvenir.json",
-      "total": 0,
+      "total": 9,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "PARCELA EL PORVENIR",
       "slug": "parcela-el-porvenir",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.3
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_parcela-el-porvenir",
@@ -80000,7 +80000,7 @@
       "zona": "REMANSO URBANO",
       "slug": "remanso-urbano",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 4.2
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_remanso-urbano",
@@ -80036,7 +80036,7 @@
       "zona": "SAN BERNARDINO POTRERITOS",
       "slug": "san-bernardino-potreritos",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 4.2
     },
     {
       "clave": "ciencuadras_venta_apartamento_san-bernardino-xix",
@@ -80072,7 +80072,7 @@
       "zona": "SAN BERNARDINO XVIII",
       "slug": "san-bernardino-xviii",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 4.2
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_san-bernardino-xviii",
@@ -80108,7 +80108,7 @@
       "zona": "VILLA EMMA",
       "slug": "villa-emma",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 4.2
     },
     {
       "clave": "ciencuadras_venta_apartamento_villas-del-progreso",
@@ -81482,121 +81482,121 @@
       "clave": "ciencuadras_venta_apartamento_galan-rural",
       "etiqueta": "Venta - Apartamento - GALAN RURAL",
       "archivo": "ciencuadras_venta_apartamento_galan-rural.json",
-      "total": 0,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "GALAN RURAL",
       "slug": "galan-rural",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.5
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_galan-rural",
       "etiqueta": "Arriendo - Apartamento - GALAN RURAL",
       "archivo": "ciencuadras_arriendo_apartamento_galan-rural.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "GALAN RURAL",
       "slug": "galan-rural",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.4
     },
     {
       "clave": "ciencuadras_venta_apartamento_las-acacias-rural",
       "etiqueta": "Venta - Apartamento - LAS ACACIAS RURAL",
       "archivo": "ciencuadras_venta_apartamento_las-acacias-rural.json",
-      "total": 0,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "LAS ACACIAS RURAL",
       "slug": "las-acacias-rural",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.4
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_las-acacias-rural",
       "etiqueta": "Arriendo - Apartamento - LAS ACACIAS RURAL",
       "archivo": "ciencuadras_arriendo_apartamento_las-acacias-rural.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "LAS ACACIAS RURAL",
       "slug": "las-acacias-rural",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 9.3
     },
     {
       "clave": "ciencuadras_venta_apartamento_osorio",
       "etiqueta": "Venta - Apartamento - OSORIO",
       "archivo": "ciencuadras_venta_apartamento_osorio.json",
-      "total": 0,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "OSORIO",
       "slug": "osorio",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.2
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_osorio",
       "etiqueta": "Arriendo - Apartamento - OSORIO",
       "archivo": "ciencuadras_arriendo_apartamento_osorio.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "OSORIO",
       "slug": "osorio",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.5
     },
     {
       "clave": "ciencuadras_venta_apartamento_osorio-x",
       "etiqueta": "Venta - Apartamento - OSORIO X",
       "archivo": "ciencuadras_venta_apartamento_osorio-x.json",
-      "total": 0,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "OSORIO X",
       "slug": "osorio-x",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.2
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_osorio-x",
       "etiqueta": "Arriendo - Apartamento - OSORIO X",
       "archivo": "ciencuadras_arriendo_apartamento_osorio-x.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "OSORIO X",
       "slug": "osorio-x",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.4
     },
     {
       "clave": "ciencuadras_venta_apartamento_osorio-xii-rural",
       "etiqueta": "Venta - Apartamento - OSORIO XII RURAL",
       "archivo": "ciencuadras_venta_apartamento_osorio-xii-rural.json",
-      "total": 0,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "OSORIO XII RURAL",
       "slug": "osorio-xii-rural",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.4
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_osorio-xii-rural",
       "etiqueta": "Arriendo - Apartamento - OSORIO XII RURAL",
       "archivo": "ciencuadras_arriendo_apartamento_osorio-xii-rural.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "OSORIO XII RURAL",
       "slug": "osorio-xii-rural",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.7
     },
     {
       "clave": "ciencuadras_venta_apartamento_calandaima",
@@ -83354,13 +83354,13 @@
       "clave": "ciencuadras_venta_apartamento_la-vega-san-bernardino",
       "etiqueta": "Venta - Apartamento - LA VEGA SAN BERNARDINO",
       "archivo": "ciencuadras_venta_apartamento_la-vega-san-bernardino.json",
-      "total": 22,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "LA VEGA SAN BERNARDINO",
       "slug": "la-vega-san-bernardino",
       "origen": "barrio",
-      "segundos": 8.5
+      "segundos": 8.7
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_la-vega-san-bernardino",
@@ -83372,19 +83372,19 @@
       "zona": "LA VEGA SAN BERNARDINO",
       "slug": "la-vega-san-bernardino",
       "origen": "barrio",
-      "segundos": 8.4
+      "segundos": 8.6
     },
     {
       "clave": "ciencuadras_venta_apartamento_osorio-xxiii",
       "etiqueta": "Venta - Apartamento - OSORIO XXIII",
       "archivo": "ciencuadras_venta_apartamento_osorio-xxiii.json",
-      "total": 22,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "OSORIO XXIII",
       "slug": "osorio-xxiii",
       "origen": "barrio",
-      "segundos": 8.3
+      "segundos": 8.7
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_osorio-xxiii",
@@ -83396,31 +83396,31 @@
       "zona": "OSORIO XXIII",
       "slug": "osorio-xxiii",
       "origen": "barrio",
-      "segundos": 8.5
+      "segundos": 8.9
     },
     {
       "clave": "ciencuadras_venta_apartamento_san-bernardino-ii",
       "etiqueta": "Venta - Apartamento - SAN BERNARDINO II",
       "archivo": "ciencuadras_venta_apartamento_san-bernardino-ii.json",
-      "total": 28,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "SAN BERNARDINO II",
       "slug": "san-bernardino-ii",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_san-bernardino-ii",
       "etiqueta": "Arriendo - Apartamento - SAN BERNARDINO II",
       "archivo": "ciencuadras_arriendo_apartamento_san-bernardino-ii.json",
-      "total": 20,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "SAN BERNARDINO II",
       "slug": "san-bernardino-ii",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 4.2
     },
     {
       "clave": "ciencuadras_venta_apartamento_san-bernardino-xxii-urbano",
@@ -83468,7 +83468,7 @@
       "zona": "SAN BERNARDINO XXV",
       "slug": "san-bernardino-xxv",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 4.2
     },
     {
       "clave": "ciencuadras_venta_apartamento_santa-fe-bosa",
@@ -83492,7 +83492,7 @@
       "zona": "SANTA FE BOSA",
       "slug": "santa-fe-bosa",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 4.2
     },
     {
       "clave": "ciencuadras_venta_apartamento_ingemar-i",
@@ -83516,7 +83516,7 @@
       "zona": "INGEMAR I",
       "slug": "ingemar-i",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 4.2
     },
     {
       "clave": "ciencuadras_venta_apartamento_paramo-i",
@@ -83558,13 +83558,13 @@
       "clave": "ciencuadras_arriendo_apartamento_paramo-ii",
       "etiqueta": "Arriendo - Apartamento - PARAMO II",
       "archivo": "ciencuadras_arriendo_apartamento_paramo-ii.json",
-      "total": 20,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "PARAMO II",
       "slug": "paramo-ii",
       "origen": "barrio",
-      "segundos": 8.5
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_venta_apartamento_paramo-iv",
@@ -83576,7 +83576,7 @@
       "zona": "PARAMO IV",
       "slug": "paramo-iv",
       "origen": "barrio",
-      "segundos": 4.6
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_paramo-iv",
@@ -83594,13 +83594,13 @@
       "clave": "ciencuadras_venta_apartamento_paramo-rural-v",
       "etiqueta": "Venta - Apartamento - PARAMO RURAL V",
       "archivo": "ciencuadras_venta_apartamento_paramo-rural-v.json",
-      "total": 22,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "PARAMO RURAL V",
       "slug": "paramo-rural-v",
       "origen": "barrio",
-      "segundos": 8.6
+      "segundos": 4.2
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_paramo-rural-v",
@@ -83642,7 +83642,7 @@
       "clave": "ciencuadras_venta_apartamento_san-isidro-rural",
       "etiqueta": "Venta - Apartamento - SAN ISIDRO RURAL",
       "archivo": "ciencuadras_venta_apartamento_san-isidro-rural.json",
-      "total": 22,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "SAN ISIDRO RURAL",
@@ -83654,49 +83654,49 @@
       "clave": "ciencuadras_arriendo_apartamento_san-isidro-rural",
       "etiqueta": "Arriendo - Apartamento - SAN ISIDRO RURAL",
       "archivo": "ciencuadras_arriendo_apartamento_san-isidro-rural.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "SAN ISIDRO RURAL",
       "slug": "san-isidro-rural",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 9.0
     },
     {
       "clave": "ciencuadras_venta_apartamento_san-isidro-rural-ii",
       "etiqueta": "Venta - Apartamento - SAN ISIDRO RURAL II",
       "archivo": "ciencuadras_venta_apartamento_san-isidro-rural-ii.json",
-      "total": 0,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "SAN ISIDRO RURAL II",
       "slug": "san-isidro-rural-ii",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.5
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_san-isidro-rural-ii",
       "etiqueta": "Arriendo - Apartamento - SAN ISIDRO RURAL II",
       "archivo": "ciencuadras_arriendo_apartamento_san-isidro-rural-ii.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "SAN ISIDRO RURAL II",
       "slug": "san-isidro-rural-ii",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.5
     },
     {
       "clave": "ciencuadras_venta_apartamento_san-luis-altos-del-cabo-rural",
       "etiqueta": "Venta - Apartamento - SAN LUIS ALTOS DEL CABO RURAL",
       "archivo": "ciencuadras_venta_apartamento_san-luis-altos-del-cabo-rural.json",
-      "total": 0,
+      "total": 28,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "SAN LUIS ALTOS DEL CABO RURAL",
       "slug": "san-luis-altos-del-cabo-rural",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 9.1
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_san-luis-altos-del-cabo-rural",
@@ -83708,37 +83708,37 @@
       "zona": "SAN LUIS ALTOS DEL CABO RURAL",
       "slug": "san-luis-altos-del-cabo-rural",
       "origen": "barrio",
-      "segundos": 8.5
+      "segundos": 8.8
     },
     {
       "clave": "ciencuadras_venta_apartamento_san-luis-altos-del-cabo-rural-ii",
       "etiqueta": "Venta - Apartamento - SAN LUIS ALTOS DEL CABO RURAL II",
       "archivo": "ciencuadras_venta_apartamento_san-luis-altos-del-cabo-rural-ii.json",
-      "total": 0,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "SAN LUIS ALTOS DEL CABO RURAL II",
       "slug": "san-luis-altos-del-cabo-rural-ii",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 8.5
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_san-luis-altos-del-cabo-rural-ii",
       "etiqueta": "Arriendo - Apartamento - SAN LUIS ALTOS DEL CABO RURAL II",
       "archivo": "ciencuadras_arriendo_apartamento_san-luis-altos-del-cabo-rural-ii.json",
-      "total": 0,
+      "total": 20,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "SAN LUIS ALTOS DEL CABO RURAL II",
       "slug": "san-luis-altos-del-cabo-rural-ii",
       "origen": "barrio",
-      "segundos": 4.2
+      "segundos": 8.9
     },
     {
       "clave": "ciencuadras_venta_apartamento_siberia-urbano",
       "etiqueta": "Venta - Apartamento - SIBERIA URBANO",
       "archivo": "ciencuadras_venta_apartamento_siberia-urbano.json",
-      "total": 22,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "SIBERIA URBANO",
@@ -83756,19 +83756,19 @@
       "zona": "SIBERIA URBANO",
       "slug": "siberia-urbano",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 8.8
     },
     {
       "clave": "ciencuadras_venta_apartamento_arboleda-santa-teresita",
       "etiqueta": "Venta - Apartamento - ARBOLEDA SANTA TERESITA",
       "archivo": "ciencuadras_venta_apartamento_arboleda-santa-teresita.json",
-      "total": 22,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "ARBOLEDA SANTA TERESITA",
       "slug": "arboleda-santa-teresita",
       "origen": "barrio",
-      "segundos": 8.4
+      "segundos": 8.5
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_arboleda-santa-teresita",
@@ -83786,25 +83786,25 @@
       "clave": "ciencuadras_venta_apartamento_chiguaza-rural",
       "etiqueta": "Venta - Apartamento - CHIGUAZA RURAL",
       "archivo": "ciencuadras_venta_apartamento_chiguaza-rural.json",
-      "total": 22,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "CHIGUAZA RURAL",
       "slug": "chiguaza-rural",
       "origen": "barrio",
-      "segundos": 8.2
+      "segundos": 8.5
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_chiguaza-rural",
       "etiqueta": "Arriendo - Apartamento - CHIGUAZA RURAL",
       "archivo": "ciencuadras_arriendo_apartamento_chiguaza-rural.json",
-      "total": 20,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "CHIGUAZA RURAL",
       "slug": "chiguaza-rural",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 4.1
     },
     {
       "clave": "ciencuadras_venta_apartamento_ciudad-londres-i",
@@ -83912,7 +83912,7 @@
       "zona": "SAN RAFAEL USME",
       "slug": "san-rafael-usme",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 4.2
     },
     {
       "clave": "ciencuadras_arriendo_apartamento_san-rafael-usme",
@@ -83924,7 +83924,7 @@
       "zona": "SAN RAFAEL USME",
       "slug": "san-rafael-usme",
       "origen": "barrio",
-      "segundos": 4.1
+      "segundos": 4.2
     },
     {
       "clave": "fincaraiz_venta_apartamento_atahualpa",
