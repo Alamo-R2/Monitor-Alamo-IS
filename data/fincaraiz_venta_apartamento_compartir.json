@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "COMPARTIR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.03 14:27",
+  "generado": "2026.OCT.05 00:16",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 265000000,
+      "area": 65.0,
+      "precioM2": 4076923,
+      "administracion": null,
+      "barrio": "COMPARTIR",
+      "upl": "Arborizadora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-compartir-bogota/194355241",
+      "titulo": "Apartamento en Venta en Compartir, Bogotá",
+      "id_domus": "194355241",
+      "fechaPublicacion": "2026-10-04",
+      "lat": 4.758584925327,
+      "lon": -74.105030761149,
+      "location_type": "exacta",
+      "zonaConsulta": "COMPARTIR",
+      "zonaSlug": "compartir",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 700000000,
       "area": 55.0,
       "precioM2": 12727273,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 21,
+  "total": 20,
   "zona": "SAN FRANCISCO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.03 20:16",
+  "generado": "2026.OCT.05 00:16",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -526,38 +526,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 650000000,
-      "area": 131.0,
-      "precioM2": 4961832,
-      "administracion": 380000.0,
-      "barrio": "NICOLAS DE FEDERMAN",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/194046643",
-      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
-      "id_domus": "194046643",
-      "fechaPublicacion": "2026-07-28",
-      "lat": 4.6217581,
-      "lon": -74.10605,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN FRANCISCO",
-      "zonaSlug": "san-francisco",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 330000000,
       "area": 72.0,
       "precioM2": 4583333,
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
