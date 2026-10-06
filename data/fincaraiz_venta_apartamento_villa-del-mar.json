@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 15,
+  "total": 17,
   "zona": "VILLA DEL MAR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.30 00:49",
+  "generado": "2026.OCT.06 11:34",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -49,7 +49,7 @@
       "precio": 266000000,
       "area": 48.0,
       "precioM2": 5541667,
-      "administracion": 120000.0,
+      "administracion": null,
       "barrio": "VILLA DEL MAR",
       "upl": "Engativá",
       "ciudad": "Bogotá",
@@ -60,10 +60,10 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194318312",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194359539",
       "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194318312",
-      "fechaPublicacion": "2026-09-25",
+      "id_domus": "194359539",
+      "fechaPublicacion": "2026-10-05",
       "lat": 4.7026533,
       "lon": -74.119049,
       "location_type": "exacta",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 266000000,
+      "area": 48.0,
+      "precioM2": 5541667,
+      "administracion": null,
+      "barrio": "VILLA DEL MAR",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194352342",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194352342",
+      "fechaPublicacion": "2026-10-03",
+      "lat": 4.7026533,
+      "lon": -74.119049,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA DEL MAR",
+      "zonaSlug": "villa-del-mar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 266000000,
+      "area": 48.0,
+      "precioM2": 5541667,
+      "administracion": 120000.0,
+      "barrio": "VILLA DEL MAR",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194358222",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194358222",
+      "fechaPublicacion": "2026-10-05",
+      "lat": 4.7026533,
+      "lon": -74.119049,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA DEL MAR",
+      "zonaSlug": "villa-del-mar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],

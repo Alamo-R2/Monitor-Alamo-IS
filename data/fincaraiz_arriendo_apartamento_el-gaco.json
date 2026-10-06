@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 11,
   "zona": "EL GACO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.29 21:34",
+  "generado": "2026.OCT.06 11:34",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000,
+      "area": 49.0,
+      "precioM2": 28571,
+      "administracion": null,
+      "barrio": "LA FAENA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-faena-bogota/194354116",
+      "titulo": "Apartamento en Arriendo en La faena, Bogotá",
+      "id_domus": "194354116",
+      "fechaPublicacion": "2026-10-03",
+      "lat": 4.7175047,
+      "lon": -74.1366167,
+      "location_type": "exacta",
+      "zonaConsulta": "EL GACO",
+      "zonaSlug": "el-gaco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2100000,
+      "area": 55.0,
+      "precioM2": 38182,
+      "administracion": null,
+      "barrio": "GRAN GRANADA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gran-granada-bogota/194279162",
+      "titulo": "Apartamento en Arriendo en Gran granada, Bogotá",
+      "id_domus": "194279162",
+      "fechaPublicacion": "2026-09-18",
+      "lat": 4.7225479,
+      "lon": -74.1332293,
+      "location_type": "exacta",
+      "zonaConsulta": "EL GACO",
+      "zonaSlug": "el-gaco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -104,103 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1100000,
-      "area": 50.0,
-      "precioM2": 22000,
-      "administracion": null,
-      "barrio": "LA FAENA",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-faena-bogota/194144415",
-      "titulo": "Apartamento en Arriendo en La faena, Bogotá",
-      "id_domus": "194144415",
-      "fechaPublicacion": "2026-08-21",
-      "lat": 4.7175737,
-      "lon": -74.1376285,
-      "location_type": "exacta",
-      "zonaConsulta": "EL GACO",
-      "zonaSlug": "el-gaco",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4700000,
-      "area": 125.0,
-      "precioM2": 37600,
-      "administracion": 450000.0,
-      "barrio": "GRAN GRANADA",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gran-granada-bogota/193951154",
-      "titulo": "Apartamento en Arriendo en Gran granada, Bogotá",
-      "id_domus": "193951154",
-      "fechaPublicacion": "2026-07-03",
-      "lat": 4.7237593,
-      "lon": -74.1349595,
-      "location_type": "exacta",
-      "zonaConsulta": "EL GACO",
-      "zonaSlug": "el-gaco",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1750000,
-      "area": 62.0,
-      "precioM2": 28226,
-      "administracion": null,
-      "barrio": "GRAN GRANADA",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gran-granada-bogota/193282103",
-      "titulo": "Apartamento en Arriendo en Gran granada, Bogotá",
-      "id_domus": "193282103",
-      "fechaPublicacion": "2026-01-16",
-      "lat": 4.7236599,
-      "lon": -74.1357177,
-      "location_type": "exacta",
-      "zonaConsulta": "EL GACO",
-      "zonaSlug": "el-gaco",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -290,6 +258,102 @@
       "fechaPublicacion": "2026-09-10",
       "lat": 4.7234976,
       "lon": -74.1362912,
+      "location_type": "exacta",
+      "zonaConsulta": "EL GACO",
+      "zonaSlug": "el-gaco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1300000,
+      "area": 65.0,
+      "precioM2": 20000,
+      "administracion": null,
+      "barrio": "LA FAENA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-faena-bogota/194349854",
+      "titulo": "Apartamento en Arriendo en La faena, Bogotá",
+      "id_domus": "194349854",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.717756507321,
+      "lon": -74.139208306623,
+      "location_type": "exacta",
+      "zonaConsulta": "EL GACO",
+      "zonaSlug": "el-gaco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1100000,
+      "area": 50.0,
+      "precioM2": 22000,
+      "administracion": null,
+      "barrio": "LA FAENA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-faena-bogota/194144415",
+      "titulo": "Apartamento en Arriendo en La faena, Bogotá",
+      "id_domus": "194144415",
+      "fechaPublicacion": "2026-08-21",
+      "lat": 4.7175737,
+      "lon": -74.1376285,
+      "location_type": "exacta",
+      "zonaConsulta": "EL GACO",
+      "zonaSlug": "el-gaco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4700000,
+      "area": 125.0,
+      "precioM2": 37600,
+      "administracion": 450000.0,
+      "barrio": "GRAN GRANADA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gran-granada-bogota/193951154",
+      "titulo": "Apartamento en Arriendo en Gran granada, Bogotá",
+      "id_domus": "193951154",
+      "fechaPublicacion": "2026-07-03",
+      "lat": 4.7237593,
+      "lon": -74.1349595,
       "location_type": "exacta",
       "zonaConsulta": "EL GACO",
       "zonaSlug": "el-gaco",
