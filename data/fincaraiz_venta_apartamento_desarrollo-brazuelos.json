@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "DESARROLLO BRAZUELOS",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.04 20:33",
+  "generado": "2026.OCT.06 01:58",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -105,6 +105,38 @@
     },
     {
       "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 137000000,
+      "area": 43.0,
+      "precioM2": 3186047,
+      "administracion": 105000.0,
+      "barrio": "DESARROLLO BRAZUELOS",
+      "upl": "Cuenca del Tunjuelo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-desarrollo-brazuelos-bogota/194355290",
+      "titulo": "Apartamento en Venta en Desarrollo brazuelos, Bogotá",
+      "id_domus": "194355290",
+      "fechaPublicacion": "2026-10-04",
+      "lat": 4.4976686708814,
+      "lon": -74.118589252948,
+      "location_type": "exacta",
+      "zonaConsulta": "DESARROLLO BRAZUELOS",
+      "zonaSlug": "desarrollo-brazuelos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
