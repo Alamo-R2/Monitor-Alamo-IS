@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 10,
   "zona": "EL CARMEN FONTIBON",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.30 00:49",
+  "generado": "2026.OCT.06 19:10",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,9 +78,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 930000,
+      "precio": 1200000,
       "area": 46.0,
-      "precioM2": 20217,
+      "precioM2": 26087,
       "administracion": null,
       "barrio": "EL CARMEN FONTIBON",
       "upl": "Fontibón",
@@ -174,6 +174,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1300000,
+      "area": 48.0,
+      "precioM2": 27083,
+      "administracion": 150000.0,
+      "barrio": "CENTRO FONTIBON",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-fontibon-bogota/194357892",
+      "titulo": "Apartamento en Arriendo en Centro fontibon, Bogotá",
+      "id_domus": "194357892",
+      "fechaPublicacion": "2026-10-05",
+      "lat": 4.6822407,
+      "lon": -74.157282,
+      "location_type": "exacta",
+      "zonaConsulta": "EL CARMEN FONTIBON",
+      "zonaSlug": "el-carmen-fontibon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1400000,
       "area": 47.0,
       "precioM2": 29787,
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],

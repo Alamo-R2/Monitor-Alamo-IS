@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.30 06:05",
+  "generado": "2026.OCT.06 19:10",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 61.0,
-      "precioM2": 5409836,
-      "administracion": 270000.0,
-      "barrio": "CASTILLA",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194292513",
-      "titulo": "Apartamento en Venta en Castilla, Bogotá",
-      "id_domus": "194292513",
-      "fechaPublicacion": "2026-09-22",
-      "lat": 4.6385603,
-      "lon": -74.1546352,
-      "location_type": "exacta",
-      "zonaConsulta": "NUEVO TECHO",
-      "zonaSlug": "nuevo-techo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -104,39 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 270000000,
-      "area": 54.0,
-      "precioM2": 5000000,
-      "administracion": 202000.0,
-      "barrio": "PIO XII",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pio-xii-bogota/193858884",
-      "titulo": "Apartamento en Venta en Pio xii, Bogotá",
-      "id_domus": "193858884",
-      "fechaPublicacion": "2026-06-09",
-      "lat": 4.6363908,
-      "lon": -74.1531148,
-      "location_type": "exacta",
-      "zonaConsulta": "NUEVO TECHO",
-      "zonaSlug": "nuevo-techo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -162,6 +98,70 @@
       "fechaPublicacion": "2026-09-28",
       "lat": 4.6417122,
       "lon": -74.1535757,
+      "location_type": "exacta",
+      "zonaConsulta": "NUEVO TECHO",
+      "zonaSlug": "nuevo-techo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 390000000,
+      "area": 65.0,
+      "precioM2": 6000000,
+      "administracion": 255000.0,
+      "barrio": "NUEVO TECHO",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194342508",
+      "titulo": "Apartamento en Venta en Bogotá",
+      "id_domus": "194342508",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.6412194,
+      "lon": -74.1528782,
+      "location_type": "exacta",
+      "zonaConsulta": "NUEVO TECHO",
+      "zonaSlug": "nuevo-techo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 320000000,
+      "area": 65.0,
+      "precioM2": 4923077,
+      "administracion": 239000.0,
+      "barrio": "NUEVO TECHO",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota-dc-bogota/194340227",
+      "titulo": "Apartamento en Venta en Bogotá, d.c., Bogotá",
+      "id_domus": "194340227",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6374573,
+      "lon": -74.1513512,
       "location_type": "exacta",
       "zonaConsulta": "NUEVO TECHO",
       "zonaSlug": "nuevo-techo",
@@ -206,26 +206,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 275000000,
-      "area": 53.0,
-      "precioM2": 5188679,
-      "administracion": 214100.0,
+      "precio": 330000000,
+      "area": 61.0,
+      "precioM2": 5409836,
+      "administracion": 270000.0,
       "barrio": "CASTILLA",
       "upl": "Salitre",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
+      "parqueaderos": 1.0,
+      "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194332902",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194292513",
       "titulo": "Apartamento en Venta en Castilla, Bogotá",
-      "id_domus": "194332902",
-      "fechaPublicacion": "2026-09-29",
-      "lat": 4.6363908,
-      "lon": -74.1531148,
+      "id_domus": "194292513",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.6385603,
+      "lon": -74.1546352,
       "location_type": "exacta",
       "zonaConsulta": "NUEVO TECHO",
       "zonaSlug": "nuevo-techo",
@@ -233,38 +233,6 @@
     },
     {
       "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 245000000,
-      "area": 43.0,
-      "precioM2": 5697674,
-      "administracion": 159400.0,
-      "barrio": "NUEVO TECHO",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194051436",
-      "titulo": "Apartamento en Venta en Américas Central, Bogotá",
-      "id_domus": "194051436",
-      "fechaPublicacion": "2026-07-29",
-      "lat": 4.6368403,
-      "lon": -74.1531728,
-      "location_type": "exacta",
-      "zonaConsulta": "NUEVO TECHO",
-      "zonaSlug": "nuevo-techo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -450,6 +418,38 @@
       "fechaPublicacion": "2026-09-18",
       "lat": 4.6414588,
       "lon": -74.1538993,
+      "location_type": "exacta",
+      "zonaConsulta": "NUEVO TECHO",
+      "zonaSlug": "nuevo-techo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 299999999,
+      "area": 52.0,
+      "precioM2": 5769231,
+      "administracion": 230000.0,
+      "barrio": "CASTILLA",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194339212",
+      "titulo": "Apartamento en Venta en Castilla, Bogotá",
+      "id_domus": "194339212",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6390946,
+      "lon": -74.1535888,
       "location_type": "exacta",
       "zonaConsulta": "NUEVO TECHO",
       "zonaSlug": "nuevo-techo",
@@ -494,6 +494,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 270000000,
+      "area": 54.0,
+      "precioM2": 5000000,
+      "administracion": 202000.0,
+      "barrio": "PIO XII",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pio-xii-bogota/193858884",
+      "titulo": "Apartamento en Venta en Pio xii, Bogotá",
+      "id_domus": "193858884",
+      "fechaPublicacion": "2026-06-09",
+      "lat": 4.6363908,
+      "lon": -74.1531148,
+      "location_type": "exacta",
+      "zonaConsulta": "NUEVO TECHO",
+      "zonaSlug": "nuevo-techo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 455000000,
       "area": 75.0,
       "precioM2": 6066667,
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-08-16",
       "lat": 4.6474745,
       "lon": -74.1352279,
-      "location_type": "exacta",
-      "zonaConsulta": "NUEVO TECHO",
-      "zonaSlug": "nuevo-techo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 247000000,
-      "area": 43.0,
-      "precioM2": 5744186,
-      "administracion": 159400.0,
-      "barrio": "CASTILLA",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194026829",
-      "titulo": "Apartamento en Venta en Castilla, Bogotá",
-      "id_domus": "194026829",
-      "fechaPublicacion": "2026-07-23",
-      "lat": 4.6363887550151,
-      "lon": -74.153121976849,
       "location_type": "exacta",
       "zonaConsulta": "NUEVO TECHO",
       "zonaSlug": "nuevo-techo",

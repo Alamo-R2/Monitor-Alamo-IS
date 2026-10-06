@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.30 00:49",
+  "generado": "2026.OCT.06 19:10",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 680000000,
-      "area": 78.0,
-      "precioM2": 8717949,
-      "administracion": 515000.0,
-      "barrio": "TERMINAL DE TRANSPORTES",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-bogota/194250384",
-      "titulo": "Apartamento en Venta en Ciudad salitre, Bogotá",
-      "id_domus": "194250384",
-      "fechaPublicacion": "2026-09-13",
-      "lat": 4.651985,
-      "lon": -74.1117459,
-      "location_type": "exacta",
-      "zonaConsulta": "TERMINAL DE TRANSPORTES",
-      "zonaSlug": "terminal-de-transportes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-09-21",
       "lat": 4.6542170466259,
       "lon": -74.113254963477,
+      "location_type": "exacta",
+      "zonaConsulta": "TERMINAL DE TRANSPORTES",
+      "zonaSlug": "terminal-de-transportes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2200000000,
+      "area": 169.0,
+      "precioM2": 13017751,
+      "administracion": 810000.0,
+      "barrio": "TERMINAL DE TRANSPORTES",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 3.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-bogota/193529439",
+      "titulo": "Apartamento en Venta en Ciudad salitre, Bogotá",
+      "id_domus": "193529439",
+      "fechaPublicacion": "2026-03-17",
+      "lat": 4.6520961165393,
+      "lon": -74.114721219337,
       "location_type": "exacta",
       "zonaConsulta": "TERMINAL DE TRANSPORTES",
       "zonaSlug": "terminal-de-transportes",
@@ -110,38 +110,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 430000000,
-      "area": 42.0,
-      "precioM2": 10238095,
-      "administracion": 354000.0,
-      "barrio": "LA ESPERANZA NORTE",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-esperanza-norte-bogota/193754863",
-      "titulo": "Apartamento en Venta en La esperanza norte, Bogotá",
-      "id_domus": "193754863",
-      "fechaPublicacion": "2026-05-15",
-      "lat": 4.6547894800486,
-      "lon": -74.118007010931,
-      "location_type": "exacta",
-      "zonaConsulta": "TERMINAL DE TRANSPORTES",
-      "zonaSlug": "terminal-de-transportes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 570000000,
       "area": 68.0,
       "precioM2": 8382353,
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,32 +616,64 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 650000000,
+      "area": 68.0,
+      "precioM2": 9558824,
+      "administracion": 380000.0,
+      "barrio": "TERMINAL DE TRANSPORTES",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-occidental-bogota/194182849",
+      "titulo": "Apartamento en Venta en Ciudad Salitre Occidental, Bogotá",
+      "id_domus": "194182849",
+      "fechaPublicacion": "2026-08-29",
+      "lat": 4.6512928,
+      "lon": -74.1118757,
+      "location_type": "exacta",
+      "zonaConsulta": "TERMINAL DE TRANSPORTES",
+      "zonaSlug": "terminal-de-transportes",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-21",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2317000000,
-      "area": 169.0,
-      "precioM2": 13710059,
-      "administracion": 770000.0,
+      "precio": 830000000,
+      "area": 123.0,
+      "precioM2": 6747967,
+      "administracion": 487000.0,
       "barrio": "TERMINAL DE TRANSPORTES",
       "upl": "Salitre",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 4,
-      "banos": 5,
-      "parqueaderos": 3.0,
-      "estrato": 5,
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-bogota/193529439",
-      "titulo": "Apartamento en Venta en Ciudad salitre, Bogotá",
-      "id_domus": "193529439",
-      "fechaPublicacion": "2026-03-17",
-      "lat": 4.6520961165393,
-      "lon": -74.114721219337,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-mosquera/191446284",
+      "titulo": "Apartamento en  Venta en Mosquera",
+      "id_domus": "191446284",
+      "fechaPublicacion": "2024-09-20",
+      "lat": 4.6538621,
+      "lon": -74.1137188,
       "location_type": "exacta",
       "zonaConsulta": "TERMINAL DE TRANSPORTES",
       "zonaSlug": "terminal-de-transportes",

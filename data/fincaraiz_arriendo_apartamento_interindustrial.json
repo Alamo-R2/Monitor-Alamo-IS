@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 14,
+  "total": 12,
   "zona": "INTERINDUSTRIAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.30 06:05",
+  "generado": "2026.OCT.06 19:10",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1500000,
+      "area": 37.0,
+      "precioM2": 40541,
+      "administracion": null,
+      "barrio": "INTERINDUSTRIAL",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/194271506",
+      "titulo": "Apartamento en Arriendo en Fontibon, Bogotá",
+      "id_domus": "194271506",
+      "fechaPublicacion": "2026-09-17",
+      "lat": 4.6518628,
+      "lon": -74.1308434,
+      "location_type": "exacta",
+      "zonaConsulta": "INTERINDUSTRIAL",
+      "zonaSlug": "interindustrial",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,17 +72,17 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2100000,
-      "area": 52.0,
-      "precioM2": 40385,
-      "administracion": null,
-      "barrio": "EL VERGEL",
+      "precio": 2800000,
+      "area": 56.0,
+      "precioM2": 50000,
+      "administracion": 268300.0,
+      "barrio": "INTERINDUSTRIAL",
       "upl": "Salitre",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -60,44 +92,12 @@
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-vergel-bogota/194322962",
-      "titulo": "Apartamento en Arriendo en El vergel, Bogotá",
-      "id_domus": "194322962",
-      "fechaPublicacion": "2026-09-27",
-      "lat": 4.6507275700452,
-      "lon": -74.131855805812,
-      "location_type": "exacta",
-      "zonaConsulta": "INTERINDUSTRIAL",
-      "zonaSlug": "interindustrial",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2300000,
-      "area": 52.0,
-      "precioM2": 44231,
-      "administracion": null,
-      "barrio": "EL VERGEL",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-vergel-bogota/194177828",
-      "titulo": "Apartamento en Arriendo en El vergel, Bogotá",
-      "id_domus": "194177828",
-      "fechaPublicacion": "2026-08-28",
-      "lat": 4.6524887,
-      "lon": -74.1331419,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/10301569",
+      "titulo": "Apartamento en arriendo en Fontibon, Bogotá",
+      "id_domus": "10301569",
+      "fechaPublicacion": "2023-11-17",
+      "lat": 4.6503851573023,
+      "lon": -74.131879806519,
       "location_type": "exacta",
       "zonaConsulta": "INTERINDUSTRIAL",
       "zonaSlug": "interindustrial",
@@ -105,38 +105,6 @@
     },
     {
       "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2010888,
-      "area": 59.0,
-      "precioM2": 34083,
-      "administracion": null,
-      "barrio": "EL VERGEL",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-vergel-bogota/194191885",
-      "titulo": "Apartamento en Arriendo en El vergel, Bogotá",
-      "id_domus": "194191885",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.6512092259262,
-      "lon": -74.128865003586,
-      "location_type": "exacta",
-      "zonaConsulta": "INTERINDUSTRIAL",
-      "zonaSlug": "interindustrial",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -200,16 +168,16 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1212000,
+      "precio": 1200600,
       "area": 39.0,
-      "precioM2": 31077,
-      "administracion": 188000.0,
+      "precioM2": 30785,
+      "administracion": 166000.0,
       "barrio": "INTERINDUSTRIAL",
       "upl": "Salitre",
       "ciudad": "Bogotá",
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -264,39 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2500000,
-      "area": 56.0,
-      "precioM2": 44643,
-      "administracion": null,
-      "barrio": "EL VERGEL",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-vergel-bogota/194072681",
-      "titulo": "Apartamento en Arriendo en El vergel, Bogotá",
-      "id_domus": "194072681",
-      "fechaPublicacion": "2026-08-04",
-      "lat": 4.6504613,
-      "lon": -74.1316314,
-      "location_type": "exacta",
-      "zonaConsulta": "INTERINDUSTRIAL",
-      "zonaSlug": "interindustrial",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],

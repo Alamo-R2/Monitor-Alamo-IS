@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 9,
   "zona": "KASANDRA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.SEP.30 00:49",
+  "generado": "2026.OCT.06 19:10",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -17,7 +17,7 @@
       "precio": 245000000,
       "area": 43.0,
       "precioM2": 5697674,
-      "administracion": 150000,
+      "administracion": 150000.0,
       "barrio": "KASANDRA",
       "upl": "Fontibón",
       "ciudad": "Bogotá",
@@ -49,7 +49,7 @@
       "precio": 240000000,
       "area": 43.0,
       "precioM2": 5581395,
-      "administracion": 188000,
+      "administracion": 188000.0,
       "barrio": "KASANDRA",
       "upl": "Fontibón",
       "ciudad": "Bogotá",
@@ -78,10 +78,42 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 220000000,
+      "area": 42.0,
+      "precioM2": 5238095,
+      "administracion": null,
+      "barrio": "KASANDRA",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/194337658",
+      "titulo": "Apartamento en Venta en Fontibon, Bogotá",
+      "id_domus": "194337658",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6947877,
+      "lon": -74.1684935,
+      "location_type": "exacta",
+      "zonaConsulta": "KASANDRA",
+      "zonaSlug": "kasandra",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 214000000,
       "area": 43.0,
       "precioM2": 4976744,
-      "administracion": 210000,
+      "administracion": 210000.0,
       "barrio": "KASANDRA",
       "upl": "Fontibón",
       "ciudad": "Bogotá",
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -113,7 +145,7 @@
       "precio": 215000000,
       "area": 48.0,
       "precioM2": 4479167,
-      "administracion": 210000,
+      "administracion": 210000.0,
       "barrio": "PUENTE GRANDE",
       "upl": "Fontibón",
       "ciudad": "Bogotá",
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -145,7 +177,7 @@
       "precio": 215000000,
       "area": 45.0,
       "precioM2": 4777778,
-      "administracion": 201365,
+      "administracion": 201365.0,
       "barrio": "KASANDRA",
       "upl": "Fontibón",
       "ciudad": "Bogotá",
@@ -168,7 +200,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 220000000,
+      "area": 42.0,
+      "precioM2": 5238095,
+      "administracion": null,
+      "barrio": "KASANDRA",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/194339253",
+      "titulo": "Apartamento en Venta en Fontibon, Bogotá",
+      "id_domus": "194339253",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6947877,
+      "lon": -74.1684935,
+      "location_type": "exacta",
+      "zonaConsulta": "KASANDRA",
+      "zonaSlug": "kasandra",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -177,7 +241,7 @@
       "precio": 215000000,
       "area": 43.0,
       "precioM2": 5000000,
-      "administracion": 210450,
+      "administracion": 210450.0,
       "barrio": "KASANDRA",
       "upl": "Fontibón",
       "ciudad": "Bogotá",
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -209,7 +273,7 @@
       "precio": 225000000,
       "area": 52.0,
       "precioM2": 4326923,
-      "administracion": 150000,
+      "administracion": 150000.0,
       "barrio": "PUENTE GRANDE",
       "upl": "Fontibón",
       "ciudad": "Bogotá",

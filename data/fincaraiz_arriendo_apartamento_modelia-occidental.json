@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 16,
+  "total": 19,
   "zona": "MODELIA OCCIDENTAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.30 00:49",
+  "generado": "2026.OCT.06 19:10",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2200000,
+      "area": 50.0,
+      "precioM2": 44000,
+      "administracion": null,
+      "barrio": "MODELIA",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-modelia-bogota/194356796",
+      "titulo": "Apartamento en Arriendo en Modelia, Bogotá",
+      "id_domus": "194356796",
+      "fechaPublicacion": "2026-10-05",
+      "lat": 4.6705805,
+      "lon": -74.1236749,
+      "location_type": "exacta",
+      "zonaConsulta": "MODELIA OCCIDENTAL",
+      "zonaSlug": "modelia-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,39 +104,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1350000,
-      "area": 40.0,
-      "precioM2": 33750,
+      "precio": 3600000,
+      "area": 140.0,
+      "precioM2": 25714,
       "administracion": null,
       "barrio": "MODELIA OCCIDENTAL",
       "upl": "Salitre",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": null,
-      "parqueaderos": null,
+      "habitaciones": 4,
+      "banos": 3.0,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-modelia-occidental-bogota/194192067",
-      "titulo": "Apartamento en Arriendo en Modelia Occidental, Bogotá",
-      "id_domus": "194192067",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.6683923,
-      "lon": -74.1212233,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/194104073",
+      "titulo": "Apartamento en Arriendo en Fontibon, Bogotá",
+      "id_domus": "194104073",
+      "fechaPublicacion": "2026-08-11",
+      "lat": 4.6643380049907,
+      "lon": -74.121643640703,
       "location_type": "exacta",
       "zonaConsulta": "MODELIA OCCIDENTAL",
       "zonaSlug": "modelia-occidental",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-09-22",
       "lat": 4.6709731,
       "lon": -74.1293059,
-      "location_type": "exacta",
-      "zonaConsulta": "MODELIA OCCIDENTAL",
-      "zonaSlug": "modelia-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2635000,
-      "area": 68.0,
-      "precioM2": 38750,
-      "administracion": null,
-      "barrio": "MODELIA OCCIDENTAL",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/194281737",
-      "titulo": "Apartamento en Arriendo en Fontibon, Bogotá",
-      "id_domus": "194281737",
-      "fechaPublicacion": "2026-09-19",
-      "lat": 4.670443094648,
-      "lon": -74.126102698094,
       "location_type": "exacta",
       "zonaConsulta": "MODELIA OCCIDENTAL",
       "zonaSlug": "modelia-occidental",
@@ -207,38 +207,6 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 2200000,
-      "area": 48.0,
-      "precioM2": 45833,
-      "administracion": null,
-      "barrio": "MODELIA OCCIDENTAL",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/192710542",
-      "titulo": "Apartamento en Arriendo en Fontibon, Bogotá",
-      "id_domus": "192710542",
-      "fechaPublicacion": "2025-08-01",
-      "lat": 4.6736622,
-      "lon": -74.1292123,
-      "location_type": "exacta",
-      "zonaConsulta": "MODELIA OCCIDENTAL",
-      "zonaSlug": "modelia-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2200000,
       "area": 49.0,
       "precioM2": 44898,
       "administracion": 400000.0,
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -328,39 +296,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3653000,
-      "area": 91.0,
-      "precioM2": 40143,
-      "administracion": 647000.0,
+      "precio": 4200000,
+      "area": 114.0,
+      "precioM2": 36842,
+      "administracion": null,
       "barrio": "MODELIA OCCIDENTAL",
       "upl": "Salitre",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2.0,
-      "parqueaderos": 4.0,
+      "parqueaderos": 2.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-modelia-occidental-bogota/194256024",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-modelia-occidental-bogota/194353619",
       "titulo": "Apartamento en Arriendo en Modelia Occidental, Bogotá",
-      "id_domus": "194256024",
-      "fechaPublicacion": "2026-09-15",
-      "lat": 4.6640904,
-      "lon": -74.1254445,
+      "id_domus": "194353619",
+      "fechaPublicacion": "2026-10-03",
+      "lat": 4.66808,
+      "lon": -74.1264987,
       "location_type": "exacta",
       "zonaConsulta": "MODELIA OCCIDENTAL",
       "zonaSlug": "modelia-occidental",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -448,6 +416,38 @@
       "titulo": "Apartamento en Arriendo en Modelia Occidental, Bogotá",
       "id_domus": "194215370",
       "fechaPublicacion": "2026-09-05",
+      "lat": 4.670443094648,
+      "lon": -74.126102698094,
+      "location_type": "exacta",
+      "zonaConsulta": "MODELIA OCCIDENTAL",
+      "zonaSlug": "modelia-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2635000,
+      "area": 68.0,
+      "precioM2": 38750,
+      "administracion": null,
+      "barrio": "MODELIA OCCIDENTAL",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/194353291",
+      "titulo": "Apartamento en Arriendo en Fontibon, Bogotá",
+      "id_domus": "194353291",
+      "fechaPublicacion": "2026-10-03",
       "lat": 4.670443094648,
       "lon": -74.126102698094,
       "location_type": "exacta",
@@ -489,6 +489,102 @@
     },
     {
       "id": "MI-16",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2250000,
+      "area": 37.0,
+      "precioM2": 60811,
+      "administracion": 300000.0,
+      "barrio": "MODELIA OCCIDENTAL",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2.0,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/194335911",
+      "titulo": "Apartamento en Arriendo en Fontibon, Bogotá",
+      "id_domus": "194335911",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.665240165734,
+      "lon": -74.128780417268,
+      "location_type": "exacta",
+      "zonaConsulta": "MODELIA OCCIDENTAL",
+      "zonaSlug": "modelia-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 65.0,
+      "precioM2": 30769,
+      "administracion": null,
+      "barrio": "MODELIA",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-modelia-bogota/194338271",
+      "titulo": "Apartamento en Arriendo en Modelia, Bogotá",
+      "id_domus": "194338271",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6646358,
+      "lon": -74.1281418,
+      "location_type": "exacta",
+      "zonaConsulta": "MODELIA OCCIDENTAL",
+      "zonaSlug": "modelia-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1350000,
+      "area": 40.0,
+      "precioM2": 33750,
+      "administracion": null,
+      "barrio": "MODELIA OCCIDENTAL",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": null,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-modelia-occidental-bogota/194192067",
+      "titulo": "Apartamento en Arriendo en Modelia Occidental, Bogotá",
+      "id_domus": "194192067",
+      "fechaPublicacion": "2026-09-01",
+      "lat": 4.6683923,
+      "lon": -74.1212233,
+      "location_type": "exacta",
+      "zonaConsulta": "MODELIA OCCIDENTAL",
+      "zonaSlug": "modelia-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
