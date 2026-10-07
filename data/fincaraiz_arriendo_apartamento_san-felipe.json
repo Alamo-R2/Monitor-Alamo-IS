@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.03 05:52",
+  "generado": "2026.OCT.07 19:45",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 42.0,
+      "precioM2": 42857,
+      "administracion": null,
+      "barrio": "SAN FELIPE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-felipe/194286530",
+      "titulo": "Apartamento en Arriendo en San felipe",
+      "id_domus": "194286530",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.6679519,
+      "lon": -74.0641812,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FELIPE",
+      "zonaSlug": "san-felipe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-08-21",
       "lat": 4.665412,
       "lon": -74.069812,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN FELIPE",
-      "zonaSlug": "san-felipe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 42.0,
-      "precioM2": 42857,
-      "administracion": null,
-      "barrio": "SAN FELIPE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-felipe/194286530",
-      "titulo": "Apartamento en Arriendo en San felipe",
-      "id_domus": "194286530",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.6679519,
-      "lon": -74.0641812,
       "location_type": "exacta",
       "zonaConsulta": "SAN FELIPE",
       "zonaSlug": "san-felipe",
@@ -280,7 +280,7 @@
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
-      "parqueaderos": 1.0,
+      "parqueaderos": null,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -334,6 +334,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1750000,
+      "area": 43.0,
+      "precioM2": 40698,
+      "administracion": 483000.0,
+      "barrio": "SAN FELIPE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-felipe-bogota/194364015",
+      "titulo": "Apartamento en Arriendo en San Felipe, Bogotá",
+      "id_domus": "194364015",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.657103128106,
+      "lon": -74.06391786135,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FELIPE",
+      "zonaSlug": "san-felipe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1800000,
       "area": 40.0,
       "precioM2": 45000,
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1452000,
+      "area": 27.0,
+      "precioM2": 53778,
+      "administracion": null,
+      "barrio": "SAN FELIPE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194363223",
+      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
+      "id_domus": "194363223",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.662751,
+      "lon": -74.067048,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FELIPE",
+      "zonaSlug": "san-felipe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -610,70 +674,6 @@
       "fechaPublicacion": "2026-04-14",
       "lat": 4.6665713,
       "lon": -74.0619458,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN FELIPE",
-      "zonaSlug": "san-felipe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2400000,
-      "area": 40.0,
-      "precioM2": 60000,
-      "administracion": null,
-      "barrio": "CUNDINAMARCA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cundinamarca-bogota/194347619",
-      "titulo": "Apartamento en Arriendo en Cundinamarca, Bogotá",
-      "id_domus": "194347619",
-      "fechaPublicacion": "2026-10-02",
-      "lat": 4.6656853,
-      "lon": -74.0615837,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN FELIPE",
-      "zonaSlug": "san-felipe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1720000,
-      "area": 57.0,
-      "precioM2": 30175,
-      "administracion": null,
-      "barrio": "SAN FELIPE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-felipe-bogota/194324714",
-      "titulo": "Apartamento en Arriendo en San Felipe, Bogotá",
-      "id_domus": "194324714",
-      "fechaPublicacion": "2026-09-28",
-      "lat": 4.66285780755,
-      "lon": -74.06375164821,
       "location_type": "exacta",
       "zonaConsulta": "SAN FELIPE",
       "zonaSlug": "san-felipe",

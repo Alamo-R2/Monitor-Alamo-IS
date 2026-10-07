@@ -5,10 +5,74 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 00:53",
+  "generado": "2026.OCT.07 19:45",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4093000,
+      "area": 106.0,
+      "precioM2": 38613,
+      "administracion": 757000.0,
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-central-bogota/194362746",
+      "titulo": "Apartamento en Arriendo en Chapinero central, Bogotá",
+      "id_domus": "194362746",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.647289,
+      "lon": -74.060902,
+      "location_type": "exacta",
+      "zonaConsulta": "LA SALLE",
+      "zonaSlug": "la-salle",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2620000,
+      "area": 80.0,
+      "precioM2": 32750,
+      "administracion": 580000.0,
+      "barrio": "LA SALLE",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/194364849",
+      "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
+      "id_domus": "194364849",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.6435799,
+      "lon": -74.0576776,
+      "location_type": "exacta",
+      "zonaConsulta": "LA SALLE",
+      "zonaSlug": "la-salle",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -72,15 +136,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1650000,
-      "area": 41.0,
-      "precioM2": 40244,
+      "precio": 1550000,
+      "area": 50.0,
+      "precioM2": 31000,
       "administracion": null,
       "barrio": "LA SALLE",
       "upl": "Chapinero",
@@ -92,76 +156,12 @@
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-salle-bogota/193976388",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-salle-bogota/194353676",
       "titulo": "Apartamento en Arriendo en La salle, Bogotá",
-      "id_domus": "193976388",
-      "fechaPublicacion": "2026-07-10",
-      "lat": 4.753075207003,
-      "lon": -74.035969243402,
-      "location_type": "exacta",
-      "zonaConsulta": "LA SALLE",
-      "zonaSlug": "la-salle",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1600000,
-      "area": 25.0,
-      "precioM2": 64000,
-      "administracion": null,
-      "barrio": "LA SALLE",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/6786175",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "6786175",
-      "fechaPublicacion": "2021-10-24",
-      "lat": 4.64548015594482,
-      "lon": -74.0589370727539,
-      "location_type": "exacta",
-      "zonaConsulta": "LA SALLE",
-      "zonaSlug": "la-salle",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3400000,
-      "area": 60.0,
-      "precioM2": 56667,
-      "administracion": 734000.0,
-      "barrio": "LA SALLE",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/193992092",
-      "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
-      "id_domus": "193992092",
-      "fechaPublicacion": "2026-07-15",
-      "lat": 4.6462932,
-      "lon": -74.0588875,
+      "id_domus": "194353676",
+      "fechaPublicacion": "2026-10-03",
+      "lat": 4.753455577769,
+      "lon": -74.035962537879,
       "location_type": "exacta",
       "zonaConsulta": "LA SALLE",
       "zonaSlug": "la-salle",
@@ -224,8 +224,8 @@
       "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
       "id_domus": "194168738",
       "fechaPublicacion": "2026-08-26",
-      "lat": 4.643917355668,
-      "lon": -74.060681393193,
+      "lat": 4.645437823909,
+      "lon": -74.060718405089,
       "location_type": "exacta",
       "zonaConsulta": "LA SALLE",
       "zonaSlug": "la-salle",
@@ -233,38 +233,6 @@
     },
     {
       "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3600000,
-      "area": 44.0,
-      "precioM2": 81818,
-      "administracion": null,
-      "barrio": "LA SALLE",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/193846845",
-      "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
-      "id_domus": "193846845",
-      "fechaPublicacion": "2026-06-05",
-      "lat": 4.6436395818453,
-      "lon": -74.057074748977,
-      "location_type": "exacta",
-      "zonaConsulta": "LA SALLE",
-      "zonaSlug": "la-salle",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -296,15 +264,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 4900000,
+      "precio": 4500000,
       "area": 56.0,
-      "precioM2": 87500,
+      "precioM2": 80357,
       "administracion": null,
       "barrio": "LA SALLE",
       "upl": "Chapinero",
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -456,71 +424,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2900000,
-      "area": 50.0,
-      "precioM2": 58000,
+      "precio": 3800000,
+      "area": 69.0,
+      "precioM2": 55072,
       "administracion": null,
       "barrio": "LA SALLE",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 2,
+      "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194321829",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194348490",
       "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194321829",
-      "fechaPublicacion": "2026-09-26",
-      "lat": 4.6441879,
-      "lon": -74.0572429,
+      "id_domus": "194348490",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.6432913,
+      "lon": -74.0580044,
       "location_type": "exacta",
       "zonaConsulta": "LA SALLE",
       "zonaSlug": "la-salle",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4193000,
-      "area": 106.0,
-      "precioM2": 39557,
-      "administracion": 757000.0,
-      "barrio": "CHAPINERO CENTRAL",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-central-bogota/194294971",
-      "titulo": "Apartamento en Arriendo en Chapinero central, Bogotá",
-      "id_domus": "194294971",
-      "fechaPublicacion": "2026-09-22",
-      "lat": 4.647289,
-      "lon": -74.060902,
-      "location_type": "exacta",
-      "zonaConsulta": "LA SALLE",
-      "zonaSlug": "la-salle",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -642,6 +578,70 @@
       "fechaPublicacion": "2025-06-20",
       "lat": 4.6450194,
       "lon": -74.0561343,
+      "location_type": "exacta",
+      "zonaConsulta": "LA SALLE",
+      "zonaSlug": "la-salle",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000,
+      "area": 21.0,
+      "precioM2": 123810,
+      "administracion": null,
+      "barrio": "LA SALLE",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/194214545",
+      "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
+      "id_domus": "194214545",
+      "fechaPublicacion": "2026-09-05",
+      "lat": 4.64482,
+      "lon": -74.057938,
+      "location_type": "exacta",
+      "zonaConsulta": "LA SALLE",
+      "zonaSlug": "la-salle",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1700000,
+      "area": 40.0,
+      "precioM2": 42500,
+      "administracion": null,
+      "barrio": "LA SALLE",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-salle-bogota/194295650",
+      "titulo": "Apartamento en Arriendo en La salle, Bogotá",
+      "id_domus": "194295650",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.753748734833,
+      "lon": -74.032495028354,
       "location_type": "exacta",
       "zonaConsulta": "LA SALLE",
       "zonaSlug": "la-salle",

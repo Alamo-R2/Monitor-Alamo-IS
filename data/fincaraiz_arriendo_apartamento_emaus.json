@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 00:53",
+  "generado": "2026.OCT.07 19:45",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3900000,
+      "precio": 4000000,
       "area": 50.0,
-      "precioM2": 78000,
+      "precioM2": 80000,
       "administracion": null,
       "barrio": "EMAUS",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 2,
+      "banos": null,
       "parqueaderos": null,
-      "estrato": 5,
+      "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-emaus-bogota/194335678",
-      "titulo": "Apartamento en Arriendo en Emaus, Bogotá",
-      "id_domus": "194335678",
-      "fechaPublicacion": "2026-09-30",
-      "lat": 4.6501534,
-      "lon": -74.0551304,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194349744",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194349744",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.6511449,
+      "lon": -74.054303,
       "location_type": "exacta",
       "zonaConsulta": "EMAUS",
       "zonaSlug": "emaus",
@@ -46,26 +46,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2400000,
-      "area": 42.0,
-      "precioM2": 57143,
-      "administracion": 300000.0,
-      "barrio": "EMAUS",
+      "precio": 16000000,
+      "area": 412.0,
+      "precioM2": 38835,
+      "administracion": null,
+      "barrio": "LOS ROSALES",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
+      "habitaciones": 4,
+      "banos": 4.0,
+      "parqueaderos": 2.0,
+      "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-emaus-bogota/194288117",
-      "titulo": "Apartamento en Arriendo en Emaus, Bogotá",
-      "id_domus": "194288117",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.6501375,
-      "lon": -74.0584269,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-rosales-bogota/194348042",
+      "titulo": "Apartamento en Arriendo en Los rosales, Bogotá",
+      "id_domus": "194348042",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.6548153,
+      "lon": -74.0552684,
       "location_type": "exacta",
       "zonaConsulta": "EMAUS",
       "zonaSlug": "emaus",
@@ -87,7 +87,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 6,
       "antiguedad": null,
@@ -119,7 +119,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 6,
       "antiguedad": null,
@@ -142,6 +142,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 3900000,
+      "area": 50.0,
+      "precioM2": 78000,
+      "administracion": null,
+      "barrio": "EMAUS",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-emaus-bogota/194335678",
+      "titulo": "Apartamento en Arriendo en Emaus, Bogotá",
+      "id_domus": "194335678",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6501534,
+      "lon": -74.0551304,
+      "location_type": "exacta",
+      "zonaConsulta": "EMAUS",
+      "zonaSlug": "emaus",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 3170000,
       "area": 20.0,
       "precioM2": 158500,
@@ -151,7 +183,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 6,
       "antiguedad": null,
@@ -168,7 +200,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2400000,
+      "area": 34.0,
+      "precioM2": 70588,
+      "administracion": null,
+      "barrio": "QUINTA CAMACHO",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1.0,
+      "parqueaderos": 1.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-camacho-bogota/194362293",
+      "titulo": "Apartamento en Arriendo en Quinta camacho, Bogotá",
+      "id_domus": "194362293",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.6538262,
+      "lon": -74.0562465,
+      "location_type": "exacta",
+      "zonaConsulta": "EMAUS",
+      "zonaSlug": "emaus",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -183,7 +247,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 2.0,
       "estrato": 4,
       "antiguedad": null,
@@ -200,39 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1890000,
-      "area": 42.0,
-      "precioM2": 45000,
-      "administracion": 512000.0,
-      "barrio": "EMAUS",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194039311",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194039311",
-      "fechaPublicacion": "2026-07-27",
-      "lat": 4.651626892974,
-      "lon": -74.056726944471,
-      "location_type": "exacta",
-      "zonaConsulta": "EMAUS",
-      "zonaSlug": "emaus",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -247,7 +279,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 3,
+      "banos": 3.0,
       "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -279,7 +311,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 3,
+      "banos": 3.0,
       "parqueaderos": 1.0,
       "estrato": 6,
       "antiguedad": null,
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -311,7 +343,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 2.0,
       "estrato": 5,
       "antiguedad": null,
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -343,7 +375,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 3,
+      "banos": 3.0,
       "parqueaderos": null,
       "estrato": 6,
       "antiguedad": null,
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -375,7 +407,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 3,
+      "banos": 3.0,
       "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -407,7 +439,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 4,
+      "banos": 4.0,
       "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -439,7 +471,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -471,7 +503,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 3,
+      "banos": 3.0,
       "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
@@ -488,7 +520,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4000000,
+      "area": 76.0,
+      "precioM2": 52632,
+      "administracion": 1200000.0,
+      "barrio": "LOS ROSALES",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-rosales-bogota/194363187",
+      "titulo": "Apartamento en Arriendo en Los rosales, Bogotá",
+      "id_domus": "194363187",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.6529142,
+      "lon": -74.0546107,
+      "location_type": "exacta",
+      "zonaConsulta": "EMAUS",
+      "zonaSlug": "emaus",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -503,7 +567,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 3,
+      "banos": 3.0,
       "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -535,7 +599,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 2.0,
       "estrato": 5,
       "antiguedad": null,
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -567,7 +631,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 3,
+      "banos": 3.0,
       "parqueaderos": 3.0,
       "estrato": 5,
       "antiguedad": null,
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -599,7 +663,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 4,
-      "banos": 5,
+      "banos": 5.0,
       "parqueaderos": 5.0,
       "estrato": 6,
       "antiguedad": null,
@@ -610,70 +674,6 @@
       "fechaPublicacion": "2026-08-27",
       "lat": 4.6548153,
       "lon": -74.0552684,
-      "location_type": "exacta",
-      "zonaConsulta": "EMAUS",
-      "zonaSlug": "emaus",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 7500000,
-      "area": 157.0,
-      "precioM2": 47771,
-      "administracion": 1700000.0,
-      "barrio": "EMAUS",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/194092246",
-      "titulo": "Apartamento en Arriendo en Bogotá",
-      "id_domus": "194092246",
-      "fechaPublicacion": "2026-08-08",
-      "lat": 4.6515496,
-      "lon": -74.0548206,
-      "location_type": "exacta",
-      "zonaConsulta": "EMAUS",
-      "zonaSlug": "emaus",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3950000,
-      "area": 67.0,
-      "precioM2": 58955,
-      "administracion": null,
-      "barrio": "EMAUS",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/193562546",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "193562546",
-      "fechaPublicacion": "2026-03-25",
-      "lat": 4.6514921,
-      "lon": -74.0551836,
       "location_type": "exacta",
       "zonaConsulta": "EMAUS",
       "zonaSlug": "emaus",

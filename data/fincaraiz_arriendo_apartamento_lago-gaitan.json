@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.03 00:47",
+  "generado": "2026.OCT.07 19:45",
   "inmuebles": [
     {
-      "id": "MI-2",
+      "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3904000,
+      "area": 48.0,
+      "precioM2": 81333,
+      "administracion": null,
+      "barrio": "LAGO GAITAN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/193993768",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "193993768",
+      "fechaPublicacion": "2026-07-15",
+      "lat": 4.6625362,
+      "lon": -74.0576992,
+      "location_type": "exacta",
+      "zonaConsulta": "LAGO GAITAN",
+      "zonaSlug": "lago-gaitan",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-05-26",
       "lat": 4.665583993732,
       "lon": -74.059442258778,
-      "location_type": "exacta",
-      "zonaConsulta": "LAGO GAITAN",
-      "zonaSlug": "lago-gaitan",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3904000,
-      "area": 48.0,
-      "precioM2": 81333,
-      "administracion": null,
-      "barrio": "LAGO GAITAN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/193993768",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "193993768",
-      "fechaPublicacion": "2026-07-15",
-      "lat": 4.6625362,
-      "lon": -74.0576992,
       "location_type": "exacta",
       "zonaConsulta": "LAGO GAITAN",
       "zonaSlug": "lago-gaitan",
@@ -494,9 +494,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1750000,
+      "precio": 1650000,
       "area": 25.0,
-      "precioM2": 70000,
+      "precioM2": 66000,
       "administracion": 250000.0,
       "barrio": "LAGO GAITAN",
       "upl": "Barrios Unidos",
