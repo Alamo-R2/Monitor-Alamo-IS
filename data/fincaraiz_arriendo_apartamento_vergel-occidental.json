@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 8,
   "zona": "VERGEL OCCIDENTAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.30 06:05",
+  "generado": "2026.OCT.07 01:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,102 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1525000,
-      "area": 60.0,
-      "precioM2": 25417,
-      "administracion": 153000.0,
-      "barrio": "CASTILLA",
-      "upl": "Tintal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/194305369",
-      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
-      "id_domus": "194305369",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.647534951547,
-      "lon": -74.140055580972,
-      "location_type": "exacta",
-      "zonaConsulta": "VERGEL OCCIDENTAL",
-      "zonaSlug": "vergel-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1950000,
-      "area": 64.0,
-      "precioM2": 30469,
-      "administracion": null,
-      "barrio": "VERGEL OCCIDENTAL",
-      "upl": "Tintal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-bogota/194324946",
-      "titulo": "Apartamento en Arriendo en Kennedy, Bogotá",
-      "id_domus": "194324946",
-      "fechaPublicacion": "2026-09-28",
-      "lat": 4.6530160831893,
-      "lon": -74.140878663893,
-      "location_type": "exacta",
-      "zonaConsulta": "VERGEL OCCIDENTAL",
-      "zonaSlug": "vergel-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1450000,
-      "area": 50.0,
-      "precioM2": 29000,
-      "administracion": null,
-      "barrio": "EL TINTAL",
-      "upl": "Tintal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-tintal-bogota/194321224",
-      "titulo": "Apartamento en Arriendo en El tintal, Bogotá",
-      "id_domus": "194321224",
-      "fechaPublicacion": "2026-09-26",
-      "lat": 4.6522786,
-      "lon": -74.1397777,
-      "location_type": "exacta",
-      "zonaConsulta": "VERGEL OCCIDENTAL",
-      "zonaSlug": "vergel-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1550000,
       "area": 72.0,
       "precioM2": 21528,
@@ -168,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +168,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1450000,
+      "area": 50.0,
+      "precioM2": 29000,
+      "administracion": null,
+      "barrio": "EL TINTAL",
+      "upl": "Tintal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-tintal-bogota/194321224",
+      "titulo": "Apartamento en Arriendo en El tintal, Bogotá",
+      "id_domus": "194321224",
+      "fechaPublicacion": "2026-09-26",
+      "lat": 4.6522786,
+      "lon": -74.1397777,
+      "location_type": "exacta",
+      "zonaConsulta": "VERGEL OCCIDENTAL",
+      "zonaSlug": "vergel-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],

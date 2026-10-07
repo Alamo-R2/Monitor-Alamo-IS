@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "EL CEREZO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 22:04",
+  "generado": "2026.OCT.07 01:04",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2100000,
+      "area": 74.0,
+      "precioM2": 28378,
+      "administracion": null,
+      "barrio": "EL CEREZO",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lagos-de-torca-bogota/194366188",
+      "titulo": "Apartamento en Arriendo en Lagos de Torca, Bogotá",
+      "id_domus": "194366188",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.7628862,
+      "lon": -74.0402073,
+      "location_type": "exacta",
+      "zonaConsulta": "EL CEREZO",
+      "zonaSlug": "el-cerezo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,15 +104,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2186500,
+      "precio": 1886500,
       "area": 42.0,
-      "precioM2": 52060,
+      "precioM2": 44917,
       "administracion": 413500.0,
       "barrio": "EL CEREZO",
       "upl": "Britalia",
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],

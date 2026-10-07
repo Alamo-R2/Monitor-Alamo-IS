@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 11,
+  "total": 12,
   "zona": "LA MAGDALENA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.03 14:27",
+  "generado": "2026.OCT.07 01:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -302,6 +302,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1700000,
+      "area": 30.0,
+      "precioM2": 56667,
+      "administracion": null,
+      "barrio": "SAGRADO CORAZON",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-sagrado-corazon-bogota/194364620",
+      "titulo": "Apartamento en Arriendo en Sagrado corazon, Bogotá",
+      "id_domus": "194364620",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.628418,
+      "lon": -74.0690609,
+      "location_type": "exacta",
+      "zonaConsulta": "LA MAGDALENA",
+      "zonaSlug": "la-magdalena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2400000,
       "area": 47.0,
       "precioM2": 51064,
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
