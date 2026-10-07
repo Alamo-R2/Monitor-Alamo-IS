@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.SEP.30 21:35",
+  "generado": "2026.OCT.07 11:24",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1550000,
+      "area": 44.0,
+      "precioM2": 35227,
+      "administracion": null,
+      "barrio": "GUAYMARAL",
+      "upl": "Torca",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-guaymaral-bogota/193809707",
+      "titulo": "Apartamento en Arriendo en Guaymaral, Bogotá",
+      "id_domus": "193809707",
+      "fechaPublicacion": "2026-05-28",
+      "lat": 4.8061882,
+      "lon": -74.0760806,
+      "location_type": "exacta",
+      "zonaConsulta": "LA LOMITA",
+      "zonaSlug": "la-lomita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-09-28",
       "lat": 4.7994411192436,
       "lon": -74.07356468395,
-      "location_type": "exacta",
-      "zonaConsulta": "LA LOMITA",
-      "zonaSlug": "la-lomita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1550000,
-      "area": 44.0,
-      "precioM2": 35227,
-      "administracion": null,
-      "barrio": "GUAYMARAL",
-      "upl": "Torca",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-guaymaral-bogota/193809707",
-      "titulo": "Apartamento en Arriendo en Guaymaral, Bogotá",
-      "id_domus": "193809707",
-      "fechaPublicacion": "2026-05-28",
-      "lat": 4.8061882,
-      "lon": -74.0760806,
       "location_type": "exacta",
       "zonaConsulta": "LA LOMITA",
       "zonaSlug": "la-lomita",

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 15,
+  "total": 16,
   "zona": "LAS MERCEDES SUBA RURAL",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 22:04",
+  "generado": "2026.OCT.07 11:24",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -302,6 +302,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 245000000,
+      "area": 56.0,
+      "precioM2": 4375000,
+      "administracion": null,
+      "barrio": "LAS MERCEDES SUBA RURAL",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-de-suba-bogota/194365376",
+      "titulo": "Apartamento en Venta en Santa Maria de Suba, Bogotá",
+      "id_domus": "194365376",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.757904,
+      "lon": -74.078927,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS MERCEDES SUBA RURAL",
+      "zonaSlug": "las-mercedes-suba-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 207000000,
       "area": 49.0,
       "precioM2": 4224490,
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
