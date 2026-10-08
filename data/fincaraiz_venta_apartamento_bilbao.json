@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 16:49",
+  "generado": "2026.OCT.08 11:40",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 450000000,
+      "area": 40.0,
+      "precioM2": 11250000,
+      "administracion": 30000,
+      "barrio": "BILBAO",
+      "upl": "Tibabuyes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontanar-del-rio-bogota/192138838",
+      "titulo": "Apartamento en  Venta en Fontanar del río, Bogotá",
+      "id_domus": "192138838",
+      "fechaPublicacion": "2025-03-13",
+      "lat": 4.7527593,
+      "lon": -74.1170551,
+      "location_type": "exacta",
+      "zonaConsulta": "BILBAO",
+      "zonaSlug": "bilbao",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2024-10-05",
       "lat": 4.75078450574,
       "lon": -74.117335175856,
-      "location_type": "exacta",
-      "zonaConsulta": "BILBAO",
-      "zonaSlug": "bilbao",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 450000000,
-      "area": 40.0,
-      "precioM2": 11250000,
-      "administracion": 30000,
-      "barrio": "BILBAO",
-      "upl": "Tibabuyes",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontanar-del-rio-bogota/192138838",
-      "titulo": "Apartamento en  Venta en Fontanar del río, Bogotá",
-      "id_domus": "192138838",
-      "fechaPublicacion": "2025-03-13",
-      "lat": 4.7527593,
-      "lon": -74.1170551,
       "location_type": "exacta",
       "zonaConsulta": "BILBAO",
       "zonaSlug": "bilbao",
