@@ -1,7 +1,7 @@
 {
-  "generado": "2026-10-08T14:29:47",
-  "generado_humano": "2026.OCT.08 14:29",
-  "grupo_actual": "barrios",
+  "generado": "2026-10-08T15:57:03",
+  "generado_humano": "2026.OCT.08 15:57",
+  "grupo_actual": "diario",
   "ciudad": "bogota",
   "datasets": [
     {
@@ -32,7 +32,7 @@
       "zona": "Centro Historico",
       "slug": "centro-historico",
       "origen": "upl",
-      "segundos": 9.0
+      "segundos": 9.3
     },
     {
       "clave": "arriendo_apartamento_centro-historico",
@@ -44,7 +44,7 @@
       "zona": "Centro Historico",
       "slug": "centro-historico",
       "origen": "upl",
-      "segundos": 8.7
+      "segundos": 8.9
     },
     {
       "clave": "venta_apartamento_teusaquillo",
@@ -56,7 +56,7 @@
       "zona": "Teusaquillo",
       "slug": "teusaquillo",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 9.0
     },
     {
       "clave": "arriendo_apartamento_teusaquillo",
@@ -68,7 +68,7 @@
       "zona": "Teusaquillo",
       "slug": "teusaquillo",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 9.0
     },
     {
       "clave": "venta_apartamento_puente-aranda",
@@ -80,31 +80,31 @@
       "zona": "Puente Aranda",
       "slug": "puente-aranda",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_apartamento_puente-aranda",
       "etiqueta": "Arriendo - Apartamento - Puente Aranda",
       "archivo": "arriendo_apartamento_puente-aranda.json",
-      "total": 50,
+      "total": 46,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Puente Aranda",
       "slug": "puente-aranda",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "venta_apartamento_barrios-unidos",
       "etiqueta": "Venta - Apartamento - Barrios Unidos",
       "archivo": "venta_apartamento_barrios-unidos.json",
-      "total": 43,
+      "total": 42,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Barrios Unidos",
       "slug": "barrios-unidos",
       "origen": "upl",
-      "segundos": 9.0
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_apartamento_barrios-unidos",
@@ -116,31 +116,31 @@
       "zona": "Barrios Unidos",
       "slug": "barrios-unidos",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "venta_apartamento_chapinero",
       "etiqueta": "Venta - Apartamento - Chapinero",
       "archivo": "venta_apartamento_chapinero.json",
-      "total": 60,
+      "total": 57,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Chapinero",
       "slug": "chapinero",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_apartamento_chapinero",
       "etiqueta": "Arriendo - Apartamento - Chapinero",
       "archivo": "arriendo_apartamento_chapinero.json",
-      "total": 53,
+      "total": 56,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Chapinero",
       "slug": "chapinero",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "venta_apartamento_britalia",
@@ -152,7 +152,7 @@
       "zona": "Britalia",
       "slug": "britalia",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 9.0
     },
     {
       "clave": "arriendo_apartamento_britalia",
@@ -164,7 +164,7 @@
       "zona": "Britalia",
       "slug": "britalia",
       "origen": "upl",
-      "segundos": 8.7
+      "segundos": 8.8
     },
     {
       "clave": "venta_apartamento_toberin",
@@ -182,7 +182,7 @@
       "clave": "arriendo_apartamento_toberin",
       "etiqueta": "Arriendo - Apartamento - Toberin",
       "archivo": "arriendo_apartamento_toberin.json",
-      "total": 30,
+      "total": 29,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Toberin",
@@ -194,7 +194,7 @@
       "clave": "venta_apartamento_usaquen",
       "etiqueta": "Venta - Apartamento - Usaquen",
       "archivo": "venta_apartamento_usaquen.json",
-      "total": 54,
+      "total": 56,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Usaquen",
@@ -206,25 +206,25 @@
       "clave": "arriendo_apartamento_usaquen",
       "etiqueta": "Arriendo - Apartamento - Usaquen",
       "archivo": "arriendo_apartamento_usaquen.json",
-      "total": 54,
+      "total": 53,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Usaquen",
       "slug": "usaquen",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "venta_apartamento_niza",
       "etiqueta": "Venta - Apartamento - Niza",
       "archivo": "venta_apartamento_niza.json",
-      "total": 55,
+      "total": 53,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Niza",
       "slug": "niza",
       "origen": "upl",
-      "segundos": 8.9
+      "segundos": 9.1
     },
     {
       "clave": "arriendo_apartamento_niza",
@@ -236,31 +236,31 @@
       "zona": "Niza",
       "slug": "niza",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 9.0
     },
     {
       "clave": "venta_apartamento_fontibon",
       "etiqueta": "Venta - Apartamento - Fontibon",
       "archivo": "venta_apartamento_fontibon.json",
-      "total": 52,
+      "total": 51,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Fontibon",
       "slug": "fontibon",
       "origen": "upl",
-      "segundos": 8.9
+      "segundos": 9.0
     },
     {
       "clave": "arriendo_apartamento_fontibon",
       "etiqueta": "Arriendo - Apartamento - Fontibon",
       "archivo": "arriendo_apartamento_fontibon.json",
-      "total": 52,
+      "total": 53,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Fontibon",
       "slug": "fontibon",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "venta_apartamento_engativa",
@@ -272,19 +272,19 @@
       "zona": "Engativa",
       "slug": "engativa",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_apartamento_engativa",
       "etiqueta": "Arriendo - Apartamento - Engativa",
       "archivo": "arriendo_apartamento_engativa.json",
-      "total": 49,
+      "total": 46,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Engativa",
       "slug": "engativa",
       "origen": "upl",
-      "segundos": 8.9
+      "segundos": 9.0
     },
     {
       "clave": "venta_apartamento_soacha",
@@ -106759,5 +106759,8 @@
   },
   "tipos": "tipos.json",
   "historial": "historial.json",
-  "noticias": null
+  "noticias": {
+    "archivo": "noticias.json",
+    "total": 17
+  }
 }
