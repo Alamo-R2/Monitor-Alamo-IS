@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.05 19:30",
+  "generado": "2026.OCT.08 02:32",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 613598226,
+      "area": 64.0,
+      "precioM2": 9587472,
+      "administracion": null,
+      "barrio": "LAS MARGARITAS",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 1,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-las-margaritas-bogota-3761667",
+      "titulo": "Apartamento en Las Margaritas",
+      "id_domus": "3761667",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "LAS MARGARITAS",
+      "zonaSlug": "las-margaritas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -63,38 +95,6 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-las-margaritas-bogota-3733802",
       "titulo": "Apartamento en Las Margaritas",
       "id_domus": "3733802",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "LAS MARGARITAS",
-      "zonaSlug": "las-margaritas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 613598226,
-      "area": 64.0,
-      "precioM2": 9587472,
-      "administracion": null,
-      "barrio": "LAS MARGARITAS",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 1,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-las-margaritas-bogota-3761667",
-      "titulo": "Apartamento en Las Margaritas",
-      "id_domus": "3761667",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,

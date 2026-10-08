@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 21,
+  "total": 20,
   "zona": "CEDRO SALAZAR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.02 16:30",
+  "generado": "2026.OCT.08 02:32",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 395000000,
+      "area": 48.66,
+      "precioM2": 8117550,
+      "administracion": null,
+      "barrio": "CEDRO SALAZAR",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 2,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-los-cedros-oriental-bogota-3883402",
+      "titulo": "Apartamento en Cedro Salazar",
+      "id_domus": "3883402",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "CEDRO SALAZAR",
+      "zonaSlug": "cedro-salazar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 498000000,
       "area": 159.5,
       "precioM2": 3122257,
@@ -95,38 +127,6 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cedro-salazar-bogota-3302707",
       "titulo": "Apartamento en Cedro Salazar",
       "id_domus": "3302707",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "CEDRO SALAZAR",
-      "zonaSlug": "cedro-salazar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 56.0,
-      "precioM2": 5535714,
-      "administracion": null,
-      "barrio": "CEDRO SALAZAR",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cedro-salazar-bogota-3778418",
-      "titulo": "Apartamento en Cedro Salazar",
-      "id_domus": "3778418",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -206,38 +206,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 435000000,
-      "area": 80.0,
-      "precioM2": 5437500,
-      "administracion": null,
-      "barrio": "CEDRO SALAZAR",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cedro-salazar-bogota-3701449",
-      "titulo": "Apartamento en Cedro Salazar",
-      "id_domus": "3701449",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "CEDRO SALAZAR",
-      "zonaSlug": "cedro-salazar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 570000000,
       "area": 80.0,
       "precioM2": 7125000,
@@ -264,15 +232,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 490000000,
-      "area": 87.0,
-      "precioM2": 5632184,
+      "precio": 435000000,
+      "area": 80.0,
+      "precioM2": 5437500,
       "administracion": null,
       "barrio": "CEDRO SALAZAR",
       "upl": "Usaquén",
@@ -284,9 +252,9 @@
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cedro-salazar-bogota-3526486",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cedro-salazar-bogota-3701449",
       "titulo": "Apartamento en Cedro Salazar",
-      "id_domus": "3526486",
+      "id_domus": "3701449",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,6 +296,38 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 310000000,
+      "area": 56.0,
+      "precioM2": 5535714,
+      "administracion": null,
+      "barrio": "CEDRO SALAZAR",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cedro-salazar-bogota-3778418",
+      "titulo": "Apartamento en Cedro Salazar",
+      "id_domus": "3778418",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "CEDRO SALAZAR",
+      "zonaSlug": "cedro-salazar",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-11",
       "operacion": [
         "Venta"
@@ -335,8 +335,8 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 490000000,
-      "area": 89.0,
-      "precioM2": 5505618,
+      "area": 87.0,
+      "precioM2": 5632184,
       "administracion": null,
       "barrio": "CEDRO SALAZAR",
       "upl": "Usaquén",
@@ -348,9 +348,9 @@
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cedro-salazar-bogota-3837534",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cedro-salazar-bogota-3526486",
       "titulo": "Apartamento en Cedro Salazar",
-      "id_domus": "3837534",
+      "id_domus": "3526486",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -361,70 +361,6 @@
     },
     {
       "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 400000000,
-      "area": 70.0,
-      "precioM2": 5714286,
-      "administracion": null,
-      "barrio": "CEDRO SALAZAR",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cedro-salazar-bogota-3854208",
-      "titulo": "Apartamento en Cedro Salazar",
-      "id_domus": "3854208",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "CEDRO SALAZAR",
-      "zonaSlug": "cedro-salazar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 790000000,
-      "area": 117.0,
-      "precioM2": 6752137,
-      "administracion": null,
-      "barrio": "CEDRO SALAZAR",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cedro-salazar-bogota-3459980",
-      "titulo": "Apartamento en Cedro Salazar",
-      "id_domus": "3459980",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "CEDRO SALAZAR",
-      "zonaSlug": "cedro-salazar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +392,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 520000000,
+      "area": 73.54,
+      "precioM2": 7070982,
+      "administracion": null,
+      "barrio": "CEDRO SALAZAR",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-las-acasias-bogota-3697609",
+      "titulo": "Apartamento en Cedro Salazar",
+      "id_domus": "3697609",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "CEDRO SALAZAR",
+      "zonaSlug": "cedro-salazar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,47 +456,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 550000000,
-      "area": 66.0,
-      "precioM2": 8333333,
-      "administracion": null,
-      "barrio": "CEDRO SALAZAR",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cedro-salazar-bogota-3861253",
-      "titulo": "Apartamento en Cedro Salazar",
-      "id_domus": "3861253",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "CEDRO SALAZAR",
-      "zonaSlug": "cedro-salazar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 530000000,
+      "precio": 400000000,
       "area": 70.0,
-      "precioM2": 7571429,
+      "precioM2": 5714286,
       "administracion": null,
       "barrio": "CEDRO SALAZAR",
       "upl": "Usaquén",
@@ -540,9 +476,9 @@
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cedro-salazar-bogota-3859882",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cedro-salazar-bogota-3854208",
       "titulo": "Apartamento en Cedro Salazar",
-      "id_domus": "3859882",
+      "id_domus": "3854208",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +520,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 490000000,
+      "area": 89.0,
+      "precioM2": 5505618,
+      "administracion": null,
+      "barrio": "CEDRO SALAZAR",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cedro-salazar-bogota-3837534",
+      "titulo": "Apartamento en Cedro Salazar",
+      "id_domus": "3837534",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "CEDRO SALAZAR",
+      "zonaSlug": "cedro-salazar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
