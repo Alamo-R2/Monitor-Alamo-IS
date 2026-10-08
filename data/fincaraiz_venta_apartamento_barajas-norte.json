@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.07 11:24",
+  "generado": "2026.OCT.08 01:24",
   "inmuebles": [
     {
       "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1650000000,
+      "area": 230.0,
+      "precioM2": 7173913,
+      "administracion": 2000000,
+      "barrio": "BARAJAS NORTE",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 5,
+      "parqueaderos": 4,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-arrayanes-bogota/194304968",
+      "titulo": "Apartamento en Venta en Arrayanes, Bogotá",
+      "id_domus": "194304968",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.7929466,
+      "lon": -74.0807787,
+      "location_type": "exacta",
+      "zonaConsulta": "BARAJAS NORTE",
+      "zonaSlug": "barajas-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-06-24",
       "lat": 4.78755186363,
       "lon": -74.071318944217,
-      "location_type": "exacta",
-      "zonaConsulta": "BARAJAS NORTE",
-      "zonaSlug": "barajas-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1650000000,
-      "area": 230.0,
-      "precioM2": 7173913,
-      "administracion": 2000000,
-      "barrio": "BARAJAS NORTE",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 4,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-arrayanes-bogota/194304968",
-      "titulo": "Apartamento en Venta en Arrayanes, Bogotá",
-      "id_domus": "194304968",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.7929466,
-      "lon": -74.0807787,
       "location_type": "exacta",
       "zonaConsulta": "BARAJAS NORTE",
       "zonaSlug": "barajas-norte",

@@ -1,14 +1,78 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 5,
   "zona": "SUBA CERROS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.01 22:04",
+  "generado": "2026.OCT.08 01:24",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3150000,
+      "area": 116.0,
+      "precioM2": 27155,
+      "administracion": 894000.0,
+      "barrio": "SUBA CERROS",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 4,
+      "parqueaderos": 1.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/193909078",
+      "titulo": "Apartamento en Arriendo en Bogotá",
+      "id_domus": "193909078",
+      "fechaPublicacion": "2026-06-23",
+      "lat": 4.733374,
+      "lon": -74.077007,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4000000,
+      "area": 115.0,
+      "precioM2": 34783,
+      "administracion": 894000.0,
+      "barrio": "SUBA CERROS",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": null,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cerros-de-suba-bogota/194199079",
+      "titulo": "Apartamento en Arriendo en Cerros de Suba, Bogotá",
+      "id_domus": "194199079",
+      "fechaPublicacion": "2026-09-02",
+      "lat": 4.73495,
+      "lon": -74.07404,
+      "location_type": "exacta",
+      "zonaConsulta": "SUBA CERROS",
+      "zonaSlug": "suba-cerros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],

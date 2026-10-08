@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.04 20:33",
+  "generado": "2026.OCT.08 01:24",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 9500000,
-      "area": 180.0,
-      "precioM2": 52778,
-      "administracion": 1532000.0,
-      "barrio": "BELLA SUIZA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 5.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bella-suiza-bogota/194347675",
-      "titulo": "Apartamento en Arriendo en Bella suiza, Bogotá",
-      "id_domus": "194347675",
-      "fechaPublicacion": "2026-10-02",
-      "lat": 4.7030684,
-      "lon": -74.0274647,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN GABRIEL NORTE",
-      "zonaSlug": "san-gabriel-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-07-13",
       "lat": 4.70306,
       "lon": -74.0274484,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN GABRIEL NORTE",
+      "zonaSlug": "san-gabriel-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 9500000,
+      "area": 180.0,
+      "precioM2": 52778,
+      "administracion": 1532000.0,
+      "barrio": "BELLA SUIZA",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 5.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bella-suiza-bogota/194347675",
+      "titulo": "Apartamento en Arriendo en Bella suiza, Bogotá",
+      "id_domus": "194347675",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.7030684,
+      "lon": -74.0274647,
       "location_type": "exacta",
       "zonaConsulta": "SAN GABRIEL NORTE",
       "zonaSlug": "san-gabriel-norte",
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 6000000,
+      "area": 109.0,
+      "precioM2": 55046,
+      "administracion": null,
+      "barrio": "SAN GABRIEL NORTE",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 5.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-altos-de-bella-suiza-bogota/193919582",
+      "titulo": "Apartamento en Arriendo en Altos de Bella Suiza, Bogotá",
+      "id_domus": "193919582",
+      "fechaPublicacion": "2026-06-25",
+      "lat": 4.7053273,
+      "lon": -74.0282019,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN GABRIEL NORTE",
+      "zonaSlug": "san-gabriel-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 12000000,
       "area": 189.0,
       "precioM2": 63492,
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -610,38 +642,6 @@
       "fechaPublicacion": "2026-09-25",
       "lat": 4.699833810816,
       "lon": -74.027745728308,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN GABRIEL NORTE",
-      "zonaSlug": "san-gabriel-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2500000,
-      "area": 61.0,
-      "precioM2": 40984,
-      "administracion": null,
-      "barrio": "BELLA SUIZA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bella-suiza-bogota/194189002",
-      "titulo": "Apartamento en Arriendo en Bella suiza, Bogotá",
-      "id_domus": "194189002",
-      "fechaPublicacion": "2026-08-31",
-      "lat": 4.7058397,
-      "lon": -74.0263304,
       "location_type": "exacta",
       "zonaConsulta": "SAN GABRIEL NORTE",
       "zonaSlug": "san-gabriel-norte",
