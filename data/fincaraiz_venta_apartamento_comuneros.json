@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.06 01:58",
+  "generado": "2026.OCT.08 19:33",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 372000000,
+      "area": 56.0,
+      "precioM2": 6642857,
+      "administracion": 406000.0,
+      "barrio": "PUENTE ARANDA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/194328866",
+      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
+      "id_domus": "194328866",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.607419,
+      "lon": -74.099838,
+      "location_type": "exacta",
+      "zonaConsulta": "COMUNEROS",
+      "zonaSlug": "comuneros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-09-27",
       "lat": 4.6067197,
       "lon": -74.1048959,
-      "location_type": "exacta",
-      "zonaConsulta": "COMUNEROS",
-      "zonaSlug": "comuneros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 372000000,
-      "area": 56.0,
-      "precioM2": 6642857,
-      "administracion": 406000.0,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/194328866",
-      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
-      "id_domus": "194328866",
-      "fechaPublicacion": "2026-09-28",
-      "lat": 4.607419,
-      "lon": -74.099838,
       "location_type": "exacta",
       "zonaConsulta": "COMUNEROS",
       "zonaSlug": "comuneros",

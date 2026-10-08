@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 01:24",
+  "generado": "2026.OCT.08 19:33",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -24,7 +24,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 6,
-      "parqueaderos": 4,
+      "parqueaderos": 4.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -56,7 +56,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 6,
-      "parqueaderos": 4,
+      "parqueaderos": 4.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -88,7 +88,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 4,
-      "parqueaderos": 4,
+      "parqueaderos": 4.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -120,7 +120,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 5,
-      "parqueaderos": 3,
+      "parqueaderos": 3.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -152,7 +152,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 6,
-      "parqueaderos": 4,
+      "parqueaderos": 4.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -174,6 +174,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 230000000,
+      "area": 44.0,
+      "precioM2": 5227273,
+      "administracion": 165000.0,
+      "barrio": "CASA BLANCA SUBA I",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/194357171",
+      "titulo": "Apartamento en Venta en Suba, Bogotá",
+      "id_domus": "194357171",
+      "fechaPublicacion": "2026-10-05",
+      "lat": 4.737882,
+      "lon": -74.077203,
+      "location_type": "exacta",
+      "zonaConsulta": "CASA BLANCA SUBA I",
+      "zonaSlug": "casa-blanca-suba-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2650000000,
       "area": 255.0,
       "precioM2": 10392157,
@@ -184,7 +216,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 5,
-      "parqueaderos": 4,
+      "parqueaderos": 4.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -216,7 +248,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 4,
-      "parqueaderos": 4,
+      "parqueaderos": 4.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -248,7 +280,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 5,
-      "parqueaderos": 3,
+      "parqueaderos": 3.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -280,7 +312,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
-      "parqueaderos": 3,
+      "parqueaderos": 3.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -312,7 +344,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 6,
-      "parqueaderos": 6,
+      "parqueaderos": 6.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -344,7 +376,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 4,
-      "parqueaderos": 4,
+      "parqueaderos": 4.0,
       "estrato": 5.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -376,7 +408,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 4,
-      "parqueaderos": 4,
+      "parqueaderos": 4.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -408,7 +440,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 3,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -440,7 +472,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 5,
-      "parqueaderos": 3,
+      "parqueaderos": 3.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -472,7 +504,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 6,
-      "parqueaderos": 6,
+      "parqueaderos": 6.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -504,7 +536,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 4,
-      "parqueaderos": 4,
+      "parqueaderos": 4.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -536,7 +568,7 @@
       "direccion": "",
       "habitaciones": 5,
       "banos": 6,
-      "parqueaderos": 3,
+      "parqueaderos": 3.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -568,7 +600,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 5,
-      "parqueaderos": 4,
+      "parqueaderos": 4.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -600,7 +632,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 5,
-      "parqueaderos": 4,
+      "parqueaderos": 4.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -632,7 +664,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 4,
-      "parqueaderos": 4,
+      "parqueaderos": 4.0,
       "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-09-22",
       "lat": 4.7376311,
       "lon": -74.0765166,
-      "location_type": "exacta",
-      "zonaConsulta": "CASA BLANCA SUBA I",
-      "zonaSlug": "casa-blanca-suba-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1980000000,
-      "area": 288.0,
-      "precioM2": 6875000,
-      "administracion": 1600000.0,
-      "barrio": "SUBA URBANO",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 5,
-      "parqueaderos": 4,
-      "estrato": 6.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-urbano-bogota/194098883",
-      "titulo": "Apartamento en Venta en Suba urbano, Bogotá",
-      "id_domus": "194098883",
-      "fechaPublicacion": "2026-08-11",
-      "lat": 4.7376097108864,
-      "lon": -74.076495146122,
       "location_type": "exacta",
       "zonaConsulta": "CASA BLANCA SUBA I",
       "zonaSlug": "casa-blanca-suba-i",

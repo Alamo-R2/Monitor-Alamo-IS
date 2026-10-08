@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 6,
   "zona": "LA HORTUA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.02 21:30",
+  "generado": "2026.OCT.08 19:33",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -17,7 +17,7 @@
       "precio": 279000000,
       "area": 49.0,
       "precioM2": 5693878,
-      "administracion": 142000.0,
+      "administracion": 142000,
       "barrio": "EDUARDO SANTOS",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -46,42 +46,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 498000000,
-      "area": 77.0,
-      "precioM2": 6467532,
-      "administracion": null,
-      "barrio": "SAN BERNARDO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-bernardo-bogota/194169372",
-      "titulo": "Apartamento en Venta en San bernardo, Bogotá",
-      "id_domus": "194169372",
-      "fechaPublicacion": "2026-08-26",
-      "lat": 4.5916597,
-      "lon": -74.0875155,
-      "location_type": "exacta",
-      "zonaConsulta": "LA HORTUA",
-      "zonaSlug": "la-hortua",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 278900000,
       "area": 56.0,
       "precioM2": 4980357,
-      "administracion": 145000.0,
+      "administracion": 145000,
       "barrio": "SAN ANTONIO",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -113,7 +81,7 @@
       "precio": 1250000000,
       "area": 138.0,
       "precioM2": 9057971,
-      "administracion": 1300000.0,
+      "administracion": 1300000,
       "barrio": "SAN BERNARDO",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -145,7 +113,7 @@
       "precio": 278900000,
       "area": 56.0,
       "precioM2": 4980357,
-      "administracion": 142000.0,
+      "administracion": 142000,
       "barrio": "LA HORTUA",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -177,7 +145,7 @@
       "precio": 1800000000,
       "area": 1000.0,
       "precioM2": 1800000,
-      "administracion": 1000000.0,
+      "administracion": 1000000,
       "barrio": "GUAYMARAL",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -209,7 +177,7 @@
       "precio": 250000000,
       "area": 47.0,
       "precioM2": 5319149,
-      "administracion": 178600.0,
+      "administracion": 178600,
       "barrio": "MODELO SUR",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",

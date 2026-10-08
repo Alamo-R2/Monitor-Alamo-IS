@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 10,
   "zona": "ALTOS DE CHOZICA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 11:40",
+  "generado": "2026.OCT.08 19:33",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -238,6 +238,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 50.0,
+      "precioM2": 24000,
+      "administracion": 133600.0,
+      "barrio": "LOS NARANJOS",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-naranjos-bogota/194373634",
+      "titulo": "Apartamento en Arriendo en Los naranjos, Bogotá",
+      "id_domus": "194373634",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.7351809,
+      "lon": -74.0836639,
+      "location_type": "exacta",
+      "zonaConsulta": "ALTOS DE CHOZICA",
+      "zonaSlug": "altos-de-chozica",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1700000,
       "area": 50.0,
       "precioM2": 34000,
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],

@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 11:40",
+  "generado": "2026.OCT.08 19:33",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 3150000,
+      "area": 116.0,
+      "precioM2": 27155,
+      "administracion": 894000.0,
+      "barrio": "NIZA SUBA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 4,
+      "parqueaderos": 1.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/193909078",
+      "titulo": "Apartamento en Arriendo en Bogotá",
+      "id_domus": "193909078",
+      "fechaPublicacion": "2026-06-23",
+      "lat": 4.733374,
+      "lon": -74.077007,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA SUBA",
+      "zonaSlug": "niza-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 16000000,
       "area": 283.0,
       "precioM2": 56537,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -162,38 +194,6 @@
       "fechaPublicacion": "2026-09-18",
       "lat": 4.7132320492974,
       "lon": -74.082128409483,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUBA",
-      "zonaSlug": "niza-suba",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3150000,
-      "area": 116.0,
-      "precioM2": 27155,
-      "administracion": 894000.0,
-      "barrio": "NIZA SUBA",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 4,
-      "parqueaderos": 1.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/193909078",
-      "titulo": "Apartamento en Arriendo en Bogotá",
-      "id_domus": "193909078",
-      "fechaPublicacion": "2026-06-23",
-      "lat": 4.733374,
-      "lon": -74.077007,
       "location_type": "exacta",
       "zonaConsulta": "NIZA SUBA",
       "zonaSlug": "niza-suba",
