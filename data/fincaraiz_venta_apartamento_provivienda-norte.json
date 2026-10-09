@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 5,
   "zona": "PROVIVIENDA NORTE",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.04 06:28",
+  "generado": "2026.OCT.09 01:32",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,38 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 76.0,
-      "precioM2": 4342105,
-      "administracion": 224400,
-      "barrio": "PROVIVIENDA NORTE",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-adriana-bogota/194211739",
-      "titulo": "Apartamento en Venta en Villa adriana, Bogotá",
-      "id_domus": "194211739",
-      "fechaPublicacion": "2026-09-04",
-      "lat": 4.6139741,
-      "lon": -74.1278407,
-      "location_type": "exacta",
-      "zonaConsulta": "PROVIVIENDA NORTE",
-      "zonaSlug": "provivienda-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 325000000,
       "area": 64.0,
       "precioM2": 5078125,
@@ -104,39 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 350000000,
-      "area": 60.0,
-      "precioM2": 5833333,
-      "administracion": 206000,
-      "barrio": "PROVIVIENDA NORTE",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-primavera-occidental-puente-aranda-bogota/194351840",
-      "titulo": "Apartamento en Venta en Primavera Occidental - Puente Aranda, Bogotá",
-      "id_domus": "194351840",
-      "fechaPublicacion": "2026-10-03",
-      "lat": 4.6136286,
-      "lon": -74.1261982,
-      "location_type": "exacta",
-      "zonaConsulta": "PROVIVIENDA NORTE",
-      "zonaSlug": "provivienda-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -194,6 +130,38 @@
       "fechaPublicacion": "2026-07-15",
       "lat": 4.6151715,
       "lon": -74.1276888,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA NORTE",
+      "zonaSlug": "provivienda-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 330000000,
+      "area": 76.0,
+      "precioM2": 4342105,
+      "administracion": 224400,
+      "barrio": "PROVIVIENDA NORTE",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-adriana-bogota/194211739",
+      "titulo": "Apartamento en Venta en Villa adriana, Bogotá",
+      "id_domus": "194211739",
+      "fechaPublicacion": "2026-09-04",
+      "lat": 4.6139741,
+      "lon": -74.1278407,
       "location_type": "exacta",
       "zonaConsulta": "PROVIVIENDA NORTE",
       "zonaSlug": "provivienda-norte",

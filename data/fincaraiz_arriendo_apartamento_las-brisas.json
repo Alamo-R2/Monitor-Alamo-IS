@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 17,
+  "total": 19,
   "zona": "LAS BRISAS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.03 20:16",
+  "generado": "2026.OCT.09 01:32",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 45.0,
-      "precioM2": 26667,
-      "administracion": null,
-      "barrio": "LAS BRISAS",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-las-brisas-bogota/194200249",
-      "titulo": "Apartamento en Arriendo en Las brisas, Bogotá",
-      "id_domus": "194200249",
-      "fechaPublicacion": "2026-09-02",
-      "lat": 4.695139953259,
-      "lon": -74.167394635346,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS BRISAS",
-      "zonaSlug": "las-brisas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -54,7 +22,7 @@
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 2,
       "banos": 1,
       "parqueaderos": 1.0,
       "estrato": 3,
@@ -72,15 +40,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1500000,
+      "precio": 1400000,
       "area": 42.0,
-      "precioM2": 35714,
+      "precioM2": 33333,
       "administracion": null,
       "barrio": "LAS BRISAS",
       "upl": "Centro Histórico",
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-08-05",
       "lat": 4.6961836,
       "lon": -74.1615276,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS BRISAS",
+      "zonaSlug": "las-brisas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1450000,
+      "area": 45.0,
+      "precioM2": 32222,
+      "administracion": null,
+      "barrio": "LAS BRISAS",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-las-brisas-bogota/194362186",
+      "titulo": "Apartamento en Arriendo en Las brisas, Bogotá",
+      "id_domus": "194362186",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.695912722822,
+      "lon": -74.161388917901,
       "location_type": "exacta",
       "zonaConsulta": "LAS BRISAS",
       "zonaSlug": "las-brisas",
@@ -174,6 +174,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1073900,
+      "area": 46.0,
+      "precioM2": 23346,
+      "administracion": 226100.0,
+      "barrio": "LAS BRISAS",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-las-brisas-bogota/194358998",
+      "titulo": "Apartamento en Arriendo en Las brisas, Bogotá",
+      "id_domus": "194358998",
+      "fechaPublicacion": "2026-10-05",
+      "lat": 4.695783767242,
+      "lon": -74.161516658106,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS BRISAS",
+      "zonaSlug": "las-brisas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1284400,
       "area": 36.0,
       "precioM2": 35678,
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 45.0,
+      "precioM2": 26667,
+      "administracion": null,
+      "barrio": "LAS BRISAS",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-las-brisas-bogota/194200249",
+      "titulo": "Apartamento en Arriendo en Las brisas, Bogotá",
+      "id_domus": "194200249",
+      "fechaPublicacion": "2026-09-02",
+      "lat": 4.695139953259,
+      "lon": -74.167394635346,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS BRISAS",
+      "zonaSlug": "las-brisas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],

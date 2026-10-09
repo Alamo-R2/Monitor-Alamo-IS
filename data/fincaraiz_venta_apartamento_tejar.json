@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.04 06:28",
+  "generado": "2026.OCT.09 01:32",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -40,7 +40,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 331600000,
+      "area": 39.0,
+      "precioM2": 8502564,
+      "administracion": null,
+      "barrio": "PUENTE ARANDA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/193732279",
+      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
+      "id_domus": "193732279",
+      "fechaPublicacion": "2026-05-11",
+      "lat": 4.604576,
+      "lon": -74.1271631,
+      "location_type": "exacta",
+      "zonaConsulta": "TEJAR",
+      "zonaSlug": "tejar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2025-07-03",
       "lat": 4.6043326,
       "lon": -74.1277394,
-      "location_type": "exacta",
-      "zonaConsulta": "TEJAR",
-      "zonaSlug": "tejar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 331600000,
-      "area": 39.0,
-      "precioM2": 8502564,
-      "administracion": null,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/193732279",
-      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
-      "id_domus": "193732279",
-      "fechaPublicacion": "2026-05-11",
-      "lat": 4.604576,
-      "lon": -74.1271631,
       "location_type": "exacta",
       "zonaConsulta": "TEJAR",
       "zonaSlug": "tejar",
