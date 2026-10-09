@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 4,
   "zona": "CIUDAD JARDIN SUR",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.02 21:30",
+  "generado": "2026.OCT.09 11:33",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 50.0,
+      "precioM2": 36000,
+      "administracion": null,
+      "barrio": "CIUDAD JARDIN SUR",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-jardin-sur-bogota/194079478",
+      "titulo": "Apartamento en Arriendo en Ciudad jardin sur, Bogotá",
+      "id_domus": "194079478",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.577316,
+      "lon": -74.0949091,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD JARDIN SUR",
+      "zonaSlug": "ciudad-jardin-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -98,70 +130,6 @@
       "fechaPublicacion": "2026-06-11",
       "lat": 4.581838,
       "lon": -74.100989,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD JARDIN SUR",
-      "zonaSlug": "ciudad-jardin-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1600000,
-      "area": 39.0,
-      "precioM2": 41026,
-      "administracion": null,
-      "barrio": "CIUDAD JARDIN SUR",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-felicidad-bogota/194079638",
-      "titulo": "Apartamento en Arriendo en La felicidad, Bogotá",
-      "id_domus": "194079638",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.5816371,
-      "lon": -74.1020176,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD JARDIN SUR",
-      "zonaSlug": "ciudad-jardin-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 50.0,
-      "precioM2": 36000,
-      "administracion": null,
-      "barrio": "CIUDAD JARDIN SUR",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-jardin-sur-bogota/194079478",
-      "titulo": "Apartamento en Arriendo en Ciudad jardin sur, Bogotá",
-      "id_domus": "194079478",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.577316,
-      "lon": -74.0949091,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD JARDIN SUR",
       "zonaSlug": "ciudad-jardin-sur",

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 11,
   "zona": "CLARET",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.03 00:47",
+  "generado": "2026.OCT.09 11:33",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -270,6 +270,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 309000000,
+      "area": 53.0,
+      "precioM2": 5830189,
+      "administracion": 391000.0,
+      "barrio": "SANTA LUCIA",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-lucia-bogota/194357965",
+      "titulo": "Apartamento en Venta en Santa lucia, Bogotá",
+      "id_domus": "194357965",
+      "fechaPublicacion": "2026-10-05",
+      "lat": 4.579088,
+      "lon": -74.1269785,
+      "location_type": "exacta",
+      "zonaConsulta": "CLARET",
+      "zonaSlug": "claret",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 210000000,
       "area": 34.0,
       "precioM2": 6176471,
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],

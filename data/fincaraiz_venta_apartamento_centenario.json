@@ -1,14 +1,110 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 7,
   "zona": "CENTENARIO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.02 16:00",
+  "generado": "2026.OCT.09 11:33",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 315000000,
+      "area": 90.0,
+      "precioM2": 3500000,
+      "administracion": null,
+      "barrio": "RESTREPO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/194121262",
+      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
+      "id_domus": "194121262",
+      "fechaPublicacion": "2026-08-15",
+      "lat": 4.5849175000199,
+      "lon": -74.104659564541,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTENARIO",
+      "zonaSlug": "centenario",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 411700000,
+      "area": 76.0,
+      "precioM2": 5417105,
+      "administracion": 150000.0,
+      "barrio": "CENTENARIO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centenario-bogota/194354146",
+      "titulo": "Apartamento en Venta en Centenario, Bogotá",
+      "id_domus": "194354146",
+      "fechaPublicacion": "2026-10-03",
+      "lat": 4.585073578444,
+      "lon": -74.109329084917,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTENARIO",
+      "zonaSlug": "centenario",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 298721000,
+      "area": 40.0,
+      "precioM2": 7468025,
+      "administracion": 200000.0,
+      "barrio": "CENTENARIO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centenario-bogota/194357029",
+      "titulo": "Apartamento en Venta en Centenario, Bogotá",
+      "id_domus": "194357029",
+      "fechaPublicacion": "2026-10-05",
+      "lat": 4.598038169445,
+      "lon": -74.116936794835,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTENARIO",
+      "zonaSlug": "centenario",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -130,38 +226,6 @@
       "fechaPublicacion": "2026-09-17",
       "lat": 4.5847847,
       "lon": -74.1095722,
-      "location_type": "exacta",
-      "zonaConsulta": "CENTENARIO",
-      "zonaSlug": "centenario",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 315000000,
-      "area": 90.0,
-      "precioM2": 3500000,
-      "administracion": null,
-      "barrio": "RESTREPO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/194121262",
-      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
-      "id_domus": "194121262",
-      "fechaPublicacion": "2026-08-15",
-      "lat": 4.5849175000199,
-      "lon": -74.104659564541,
       "location_type": "exacta",
       "zonaConsulta": "CENTENARIO",
       "zonaSlug": "centenario",
