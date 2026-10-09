@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 18,
+  "total": 19,
   "zona": "SANTA LUCIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.05 06:21",
+  "generado": "2026.OCT.09 19:07",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -79,38 +79,6 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 220000000,
-      "area": 36.0,
-      "precioM2": 6111111,
-      "administracion": 170000.0,
-      "barrio": "SANTA LUCIA",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-lucia-bogota/193909635",
-      "titulo": "Apartamento en Venta en Santa lucia, Bogotá",
-      "id_domus": "193909635",
-      "fechaPublicacion": "2026-06-23",
-      "lat": 4.626744796814,
-      "lon": -74.068543498436,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA LUCIA",
-      "zonaSlug": "santa-lucia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 220000000,
       "area": 35.0,
       "precioM2": 6285714,
       "administracion": 178000.0,
@@ -130,6 +98,38 @@
       "fechaPublicacion": "2026-09-10",
       "lat": 4.5754276,
       "lon": -74.1202348,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA LUCIA",
+      "zonaSlug": "santa-lucia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 220000000,
+      "area": 36.0,
+      "precioM2": 6111111,
+      "administracion": 170000.0,
+      "barrio": "SANTA LUCIA",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-lucia-bogota/193909635",
+      "titulo": "Apartamento en Venta en Santa lucia, Bogotá",
+      "id_domus": "193909635",
+      "fechaPublicacion": "2026-06-23",
+      "lat": 4.626744796814,
+      "lon": -74.068543498436,
       "location_type": "exacta",
       "zonaConsulta": "SANTA LUCIA",
       "zonaSlug": "santa-lucia",
@@ -462,6 +462,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 309000000,
+      "area": 53.0,
+      "precioM2": 5830189,
+      "administracion": 391000.0,
+      "barrio": "SANTA LUCIA",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-lucia-bogota/194357965",
+      "titulo": "Apartamento en Venta en Santa lucia, Bogotá",
+      "id_domus": "194357965",
+      "fechaPublicacion": "2026-10-05",
+      "lat": 4.579088,
+      "lon": -74.1269785,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA LUCIA",
+      "zonaSlug": "santa-lucia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 240000000,
       "area": 42.0,
       "precioM2": 5714286,
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
