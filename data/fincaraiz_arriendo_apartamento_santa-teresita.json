@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 11,
+  "total": 9,
   "zona": "SANTA TERESITA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 19:33",
+  "generado": "2026.OCT.10 18:06",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1500000,
-      "area": 27.0,
-      "precioM2": 55556,
-      "administracion": null,
-      "barrio": "SANTA TERESITA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194370870",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194370870",
-      "fechaPublicacion": "2026-10-07",
-      "lat": 4.6330892,
-      "lon": -74.0728483,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA TERESITA",
-      "zonaSlug": "santa-teresita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-09-22",
       "lat": 4.6340339,
       "lon": -74.0716954,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA TERESITA",
+      "zonaSlug": "santa-teresita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2550000,
+      "area": 75.0,
+      "precioM2": 34000,
+      "administracion": null,
+      "barrio": "LA SOLEDAD",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-soledad-bogota/193846443",
+      "titulo": "Apartamento en Arriendo en La soledad, Bogotá",
+      "id_domus": "193846443",
+      "fechaPublicacion": "2026-06-05",
+      "lat": 4.6331237,
+      "lon": -74.0739125,
       "location_type": "exacta",
       "zonaConsulta": "SANTA TERESITA",
       "zonaSlug": "santa-teresita",
@@ -142,38 +142,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 930000,
-      "area": 15.0,
-      "precioM2": 62000,
-      "administracion": null,
-      "barrio": "SANTA TERESITA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194238863",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194238863",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.6327992,
-      "lon": -74.0683004,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA TERESITA",
-      "zonaSlug": "santa-teresita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1600000,
       "area": 38.0,
       "precioM2": 42105,
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -264,39 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2550000,
-      "area": 75.0,
-      "precioM2": 34000,
-      "administracion": null,
-      "barrio": "LA SOLEDAD",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-soledad-bogota/193846443",
-      "titulo": "Apartamento en Arriendo en La soledad, Bogotá",
-      "id_domus": "193846443",
-      "fechaPublicacion": "2026-06-05",
-      "lat": 4.6331237,
-      "lon": -74.0739125,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA TERESITA",
-      "zonaSlug": "santa-teresita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],

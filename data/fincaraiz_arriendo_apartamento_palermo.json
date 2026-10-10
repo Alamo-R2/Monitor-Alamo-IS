@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 21,
+  "total": 19,
   "zona": "PALERMO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 19:33",
+  "generado": "2026.OCT.10 18:06",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,9 +14,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1500000,
-      "area": 27.0,
-      "precioM2": 55556,
+      "precio": 1950000,
+      "area": 26.0,
+      "precioM2": 75000,
       "administracion": null,
       "barrio": "PALERMO",
       "upl": "Centro Histórico",
@@ -28,12 +28,12 @@
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194370870",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194096959",
       "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194370870",
-      "fechaPublicacion": "2026-10-07",
-      "lat": 4.6330892,
-      "lon": -74.0728483,
+      "id_domus": "194096959",
+      "fechaPublicacion": "2026-08-10",
+      "lat": 4.6360984,
+      "lon": -74.0683117,
       "location_type": "exacta",
       "zonaConsulta": "PALERMO",
       "zonaSlug": "palermo",
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2550000,
+      "area": 75.0,
+      "precioM2": 34000,
+      "administracion": null,
+      "barrio": "LA SOLEDAD",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-soledad-bogota/193846443",
+      "titulo": "Apartamento en Arriendo en La soledad, Bogotá",
+      "id_domus": "193846443",
+      "fechaPublicacion": "2026-06-05",
+      "lat": 4.6331237,
+      "lon": -74.0739125,
+      "location_type": "exacta",
+      "zonaConsulta": "PALERMO",
+      "zonaSlug": "palermo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 3100000,
       "area": 72.0,
       "precioM2": 43056,
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-09-21",
       "lat": 4.6342448,
       "lon": -74.0709708,
-      "location_type": "exacta",
-      "zonaConsulta": "PALERMO",
-      "zonaSlug": "palermo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1950000,
-      "area": 26.0,
-      "precioM2": 75000,
-      "administracion": null,
-      "barrio": "PALERMO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194096959",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194096959",
-      "fechaPublicacion": "2026-08-10",
-      "lat": 4.6360984,
-      "lon": -74.0683117,
       "location_type": "exacta",
       "zonaConsulta": "PALERMO",
       "zonaSlug": "palermo",
@@ -302,38 +302,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 930000,
-      "area": 15.0,
-      "precioM2": 62000,
-      "administracion": null,
-      "barrio": "PALERMO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194238863",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194238863",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.6327992,
-      "lon": -74.0683004,
-      "location_type": "exacta",
-      "zonaConsulta": "PALERMO",
-      "zonaSlug": "palermo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1510000,
       "area": 30.0,
       "precioM2": 50333,
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -456,39 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2550000,
-      "area": 75.0,
-      "precioM2": 34000,
-      "administracion": null,
-      "barrio": "LA SOLEDAD",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-soledad-bogota/193846443",
-      "titulo": "Apartamento en Arriendo en La soledad, Bogotá",
-      "id_domus": "193846443",
-      "fechaPublicacion": "2026-06-05",
-      "lat": 4.6331237,
-      "lon": -74.0739125,
-      "location_type": "exacta",
-      "zonaConsulta": "PALERMO",
-      "zonaSlug": "palermo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -648,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],

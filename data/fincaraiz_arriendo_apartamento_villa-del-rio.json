@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 7,
   "zona": "VILLA DEL RIO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.04 00:10",
+  "generado": "2026.OCT.10 18:06",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -169,6 +169,38 @@
     },
     {
       "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1220000,
+      "area": 40.0,
+      "precioM2": 30500,
+      "administracion": 180000.0,
+      "barrio": "VILLA DEL RIO",
+      "upl": "Arborizadora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villa-del-rio-bogota/194377272",
+      "titulo": "Apartamento en Arriendo en Villa del rio, Bogotá",
+      "id_domus": "194377272",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.5979859,
+      "lon": -74.1601681,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA DEL RIO",
+      "zonaSlug": "villa-del-rio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
