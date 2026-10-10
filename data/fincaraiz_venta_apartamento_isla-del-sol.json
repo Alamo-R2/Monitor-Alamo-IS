@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 13,
+  "total": 11,
   "zona": "ISLA DEL SOL",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.04 00:10",
+  "generado": "2026.OCT.10 01:21",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,38 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 195000000,
-      "area": 38.0,
-      "precioM2": 5131579,
-      "administracion": 195000.0,
-      "barrio": "MADELENA",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-madelena-bogota/194037776",
-      "titulo": "Apartamento en Venta en Madelena, Bogotá",
-      "id_domus": "194037776",
-      "fechaPublicacion": "2026-07-27",
-      "lat": 4.58773,
-      "lon": -74.156862,
-      "location_type": "exacta",
-      "zonaConsulta": "ISLA DEL SOL",
-      "zonaSlug": "isla-del-sol",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 220000000,
       "area": 36.0,
       "precioM2": 6111111,
@@ -104,39 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 229000000,
-      "area": 40.0,
-      "precioM2": 5725000,
-      "administracion": 104448.0,
-      "barrio": "ATLANTA",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-atlanta-bogota/193874559",
-      "titulo": "Apartamento en Venta en Atlanta, Bogotá",
-      "id_domus": "193874559",
-      "fechaPublicacion": "2026-06-13",
-      "lat": 4.5874219,
-      "lon": -74.1561431,
-      "location_type": "exacta",
-      "zonaConsulta": "ISLA DEL SOL",
-      "zonaSlug": "isla-del-sol",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -200,39 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 229000000,
-      "area": 40.0,
-      "precioM2": 5725000,
-      "administracion": 104448.0,
-      "barrio": "EL ENSUEÑO",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-ensueño-bogota/194333933",
-      "titulo": "Apartamento en Venta en El ensueño, Bogotá",
-      "id_domus": "194333933",
-      "fechaPublicacion": "2026-09-29",
-      "lat": 4.5874219,
-      "lon": -74.1561431,
-      "location_type": "exacta",
-      "zonaConsulta": "ISLA DEL SOL",
-      "zonaSlug": "isla-del-sol",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +168,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 195000000,
+      "area": 38.0,
+      "precioM2": 5131579,
+      "administracion": 195000.0,
+      "barrio": "MADELENA",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-madelena-bogota/194377743",
+      "titulo": "Apartamento en Venta en Madelena, Bogotá",
+      "id_domus": "194377743",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.58773,
+      "lon": -74.156862,
+      "location_type": "exacta",
+      "zonaConsulta": "ISLA DEL SOL",
+      "zonaSlug": "isla-del-sol",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],

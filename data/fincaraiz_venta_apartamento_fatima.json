@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 5,
   "zona": "FATIMA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.03 00:47",
+  "generado": "2026.OCT.10 01:21",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 54.0,
+      "precioM2": 4629630,
+      "administracion": 134000.0,
+      "barrio": "FATIMA",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fatima-bogota/194358608",
+      "titulo": "Apartamento en Venta en Fatima, Bogotá",
+      "id_domus": "194358608",
+      "fechaPublicacion": "2026-10-05",
+      "lat": 4.6464255,
+      "lon": -74.0811586,
+      "location_type": "exacta",
+      "zonaConsulta": "FATIMA",
+      "zonaSlug": "fatima",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 265000000,
+      "area": 52.0,
+      "precioM2": 5096154,
+      "administracion": 145000.0,
+      "barrio": "TUNJUELITO",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tunjuelito-bogota/194370815",
+      "titulo": "Apartamento en Venta en Tunjuelito, Bogotá",
+      "id_domus": "194370815",
+      "fechaPublicacion": "2026-10-07",
+      "lat": 4.5865293,
+      "lon": -74.142562669312,
+      "location_type": "exacta",
+      "zonaConsulta": "FATIMA",
+      "zonaSlug": "fatima",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 310000000,
       "area": 78.0,
       "precioM2": 3974359,
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],

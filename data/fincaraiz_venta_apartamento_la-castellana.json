@@ -5,10 +5,74 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 11:40",
+  "generado": "2026.OCT.10 01:21",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 570000000,
+      "area": 94.0,
+      "precioM2": 6063830,
+      "administracion": 381000.0,
+      "barrio": "LA CASTELLANA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-castellana-bogota/194344861",
+      "titulo": "Apartamento en Venta en La castellana, Bogotá",
+      "id_domus": "194344861",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.6798906230706,
+      "lon": -74.059267044067,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CASTELLANA",
+      "zonaSlug": "la-castellana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 634000000,
+      "area": 75.0,
+      "precioM2": 8453333,
+      "administracion": 620000.0,
+      "barrio": "LA CASTELLANA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 5.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-castellana-bogota/194222857",
+      "titulo": "Apartamento en Venta en La castellana, Bogotá",
+      "id_domus": "194222857",
+      "fechaPublicacion": "2026-09-07",
+      "lat": 4.6827479883946,
+      "lon": -74.062143260327,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CASTELLANA",
+      "zonaSlug": "la-castellana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -72,39 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 450000000,
-      "area": 67.0,
-      "precioM2": 6716418,
-      "administracion": 388000.0,
-      "barrio": "LA CASTELLANA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-castellana-bogota/192358938",
-      "titulo": "Apartamento en Venta en La castellana, Bogotá",
-      "id_domus": "192358938",
-      "fechaPublicacion": "2025-05-07",
-      "lat": 4.6804028,
-      "lon": -74.0618409,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CASTELLANA",
-      "zonaSlug": "la-castellana",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,15 +360,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 980000000,
-      "area": 145.0,
-      "precioM2": 6758621,
+      "area": 156.0,
+      "precioM2": 6282051,
       "administracion": 958000.0,
       "barrio": "CHICO NORTE",
       "upl": "Barrios Unidos",
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,64 +648,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 890000000,
-      "area": 158.0,
-      "precioM2": 5632911,
-      "administracion": 670000.0,
-      "barrio": "CHICO NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 2.0,
-      "estrato": 6.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-norte-bogota/193193714",
-      "titulo": "Apartamento en Venta en Chico norte, Bogotá",
-      "id_domus": "193193714",
-      "fechaPublicacion": "2025-12-11",
-      "lat": 4.6809397,
-      "lon": -74.0571357,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CASTELLANA",
-      "zonaSlug": "la-castellana",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-21",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1150000000,
-      "area": 100.0,
-      "precioM2": 11500000,
-      "administracion": 1015000.0,
-      "barrio": "LA CASTELLANA",
+      "precio": 580000000,
+      "area": 57.0,
+      "precioM2": 10175439,
+      "administracion": 880000.0,
+      "barrio": "PASADENA",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 2,
       "banos": 2,
-      "parqueaderos": 2.0,
+      "parqueaderos": 1.0,
       "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-castellana-bogota/193950284",
-      "titulo": "Apartamento en Venta en La castellana, Bogotá",
-      "id_domus": "193950284",
-      "fechaPublicacion": "2026-07-03",
-      "lat": 4.679765656907,
-      "lon": -74.062040901772,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pasadena-bogota/193912153",
+      "titulo": "Apartamento en Venta en Pasadena, Bogotá",
+      "id_domus": "193912153",
+      "fechaPublicacion": "2026-06-24",
+      "lat": 4.688181,
+      "lon": -74.0604435,
       "location_type": "exacta",
       "zonaConsulta": "LA CASTELLANA",
       "zonaSlug": "la-castellana",

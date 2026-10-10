@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 18,
+  "total": 17,
   "zona": "GUADALUPE",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.04 00:10",
+  "generado": "2026.OCT.10 01:21",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 42.0,
-      "precioM2": 7857143,
-      "administracion": null,
-      "barrio": "MADELENA",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-madelena-bogota/194091328",
-      "titulo": "Apartamento en Venta en Madelena, Bogotá",
-      "id_domus": "194091328",
-      "fechaPublicacion": "2026-08-08",
-      "lat": 4.5953057815188,
-      "lon": -74.158091010561,
-      "location_type": "exacta",
-      "zonaConsulta": "GUADALUPE",
-      "zonaSlug": "guadalupe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,16 +40,16 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 290000000,
-      "area": 53.0,
-      "precioM2": 5471698,
-      "administracion": 180000.0,
+      "precio": 220000000,
+      "area": 42.0,
+      "precioM2": 5238095,
+      "administracion": 140000.0,
       "barrio": "MADELENA",
       "upl": "Tunjuelito",
       "ciudad": "Bogotá",
@@ -92,12 +60,44 @@
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-madelena-bogota/194219934",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-madelena-bogota/194270461",
       "titulo": "Apartamento en Venta en Madelena, Bogotá",
-      "id_domus": "194219934",
-      "fechaPublicacion": "2026-09-07",
-      "lat": 4.5951807233719,
-      "lon": -74.158358621218,
+      "id_domus": "194270461",
+      "fechaPublicacion": "2026-09-17",
+      "lat": 4.5954177,
+      "lon": -74.1542355,
+      "location_type": "exacta",
+      "zonaConsulta": "GUADALUPE",
+      "zonaSlug": "guadalupe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 330000000,
+      "area": 42.0,
+      "precioM2": 7857143,
+      "administracion": null,
+      "barrio": "MADELENA",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-madelena-bogota/194091328",
+      "titulo": "Apartamento en Venta en Madelena, Bogotá",
+      "id_domus": "194091328",
+      "fechaPublicacion": "2026-08-08",
+      "lat": 4.5953057815188,
+      "lon": -74.158091010561,
       "location_type": "exacta",
       "zonaConsulta": "GUADALUPE",
       "zonaSlug": "guadalupe",
@@ -142,42 +142,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 220000000,
+      "precio": 229000000,
       "area": 42.0,
-      "precioM2": 5238095,
-      "administracion": 140000.0,
-      "barrio": "MADELENA",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-madelena-bogota/194270461",
-      "titulo": "Apartamento en Venta en Madelena, Bogotá",
-      "id_domus": "194270461",
-      "fechaPublicacion": "2026-09-17",
-      "lat": 4.5954177,
-      "lon": -74.1542355,
-      "location_type": "exacta",
-      "zonaConsulta": "GUADALUPE",
-      "zonaSlug": "guadalupe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 260000000,
-      "area": 40.0,
-      "precioM2": 6500000,
-      "administracion": null,
+      "precioM2": 5452381,
+      "administracion": 168000.0,
       "barrio": "VILLA DEL RIO",
       "upl": "Tunjuelito",
       "ciudad": "Bogotá",
@@ -188,19 +156,19 @@
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-del-rio-bogota/191336238",
-      "titulo": "Apartamento en  Venta en Villa del rio, Bogotá",
-      "id_domus": "191336238",
-      "fechaPublicacion": "2024-09-06",
-      "lat": 4.5978658,
-      "lon": -74.1584379,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-del-rio-bogota/194226761",
+      "titulo": "Apartamento en Venta en Villa del rio, Bogotá",
+      "id_domus": "194226761",
+      "fechaPublicacion": "2026-09-08",
+      "lat": 4.5979162,
+      "lon": -74.1586089,
       "location_type": "exacta",
       "zonaConsulta": "GUADALUPE",
       "zonaSlug": "guadalupe",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -232,39 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 229000000,
-      "area": 42.0,
-      "precioM2": 5452381,
-      "administracion": 168000.0,
-      "barrio": "VILLA DEL RIO",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-del-rio-bogota/194226761",
-      "titulo": "Apartamento en Venta en Villa del rio, Bogotá",
-      "id_domus": "194226761",
-      "fechaPublicacion": "2026-09-08",
-      "lat": 4.5979162,
-      "lon": -74.1586089,
-      "location_type": "exacta",
-      "zonaConsulta": "GUADALUPE",
-      "zonaSlug": "guadalupe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -520,15 +456,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 225000000,
+      "precio": 220000000,
       "area": 43.0,
-      "precioM2": 5232558,
+      "precioM2": 5116279,
       "administracion": 157000.0,
       "barrio": "VILLA DEL RIO",
       "upl": "Tunjuelito",
@@ -552,7 +488,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 260000000,
+      "area": 40.0,
+      "precioM2": 6500000,
+      "administracion": null,
+      "barrio": "VILLA DEL RIO",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-del-rio-bogota/191336238",
+      "titulo": "Apartamento en  Venta en Villa del rio, Bogotá",
+      "id_domus": "191336238",
+      "fechaPublicacion": "2024-09-06",
+      "lat": 4.5978658,
+      "lon": -74.1584379,
+      "location_type": "exacta",
+      "zonaConsulta": "GUADALUPE",
+      "zonaSlug": "guadalupe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
