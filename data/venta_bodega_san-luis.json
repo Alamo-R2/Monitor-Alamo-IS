@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "bodega",
-  "generado": "2026.OCT.08 14:29",
+  "generado": "2026.OCT.10 13:29",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "bodega",
-      "tipoPortal": "Bodega",
-      "precio": 6800000000,
-      "area": 1490.0,
-      "precioM2": 4563758,
-      "administracion": 100000.0,
-      "barrio": "SAN LUIS",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": null,
-      "parqueaderos": null,
-      "estrato": 1,
-      "antiguedad": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-san-luis/3636-M6964575",
-      "titulo": "Bodega en Venta, PUENTE ARANDA, Bogotá D.C.",
-      "id_domus": "3636-M6964575",
-      "fechaPublicacion": null,
-      "lat": 4.649709224700928,
-      "lon": -74.06871032714844,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN LUIS",
-      "zonaSlug": "san-luis",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": null,
       "lat": 4.655755996704102,
       "lon": -74.07002258300781,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN LUIS",
+      "zonaSlug": "san-luis",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 6800000000,
+      "area": 1490.0,
+      "precioM2": 4563758,
+      "administracion": 100000.0,
+      "barrio": "SAN LUIS",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "estrato": 1,
+      "antiguedad": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-san-luis/3636-M6964575",
+      "titulo": "Bodega en Venta, PUENTE ARANDA, Bogotá D.C.",
+      "id_domus": "3636-M6964575",
+      "fechaPublicacion": null,
+      "lat": 4.649709224700928,
+      "lon": -74.06871032714844,
       "location_type": "exacta",
       "zonaConsulta": "SAN LUIS",
       "zonaSlug": "san-luis",
