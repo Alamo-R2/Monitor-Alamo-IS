@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 11:40",
+  "generado": "2026.OCT.10 10:51",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 634000000,
+      "area": 75.0,
+      "precioM2": 8453333,
+      "administracion": 620000.0,
+      "barrio": "LA CASTELLANA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2.0,
+      "banos": 3.0,
+      "parqueaderos": 2.0,
+      "estrato": 5.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-castellana-bogota/194222857",
+      "titulo": "Apartamento en Venta en La castellana, Bogotá",
+      "id_domus": "194222857",
+      "fechaPublicacion": "2026-09-07",
+      "lat": 4.6827479883946,
+      "lon": -74.062143260327,
+      "location_type": "exacta",
+      "zonaConsulta": "RIONEGRO",
+      "zonaSlug": "rionegro",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -162,38 +194,6 @@
       "fechaPublicacion": "2026-04-05",
       "lat": 4.6830378,
       "lon": -74.0620156,
-      "location_type": "exacta",
-      "zonaConsulta": "RIONEGRO",
-      "zonaSlug": "rionegro",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 634000000,
-      "area": 75.0,
-      "precioM2": 8453333,
-      "administracion": 620000.0,
-      "barrio": "LA CASTELLANA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2.0,
-      "banos": 3.0,
-      "parqueaderos": 2.0,
-      "estrato": 5.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-castellana-bogota/194222857",
-      "titulo": "Apartamento en Venta en La castellana, Bogotá",
-      "id_domus": "194222857",
-      "fechaPublicacion": "2026-09-07",
-      "lat": 4.6827479883946,
-      "lon": -74.062143260327,
       "location_type": "exacta",
       "zonaConsulta": "RIONEGRO",
       "zonaSlug": "rionegro",

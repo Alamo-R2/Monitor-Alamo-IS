@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 18,
+  "total": 20,
   "zona": "EL ENCANTO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.06 19:10",
+  "generado": "2026.OCT.10 10:51",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 462000000,
-      "area": 62.0,
-      "precioM2": 7451613,
-      "administracion": 382000.0,
-      "barrio": "NORMANDIA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/193850570",
-      "titulo": "Apartamento en Venta en Normandia, Bogotá",
-      "id_domus": "193850570",
-      "fechaPublicacion": "2026-06-07",
-      "lat": 4.6766683,
-      "lon": -74.1072937,
-      "location_type": "exacta",
-      "zonaConsulta": "EL ENCANTO",
-      "zonaSlug": "el-encanto",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-08-02",
       "lat": 4.679603383262,
       "lon": -74.107253138957,
+      "location_type": "exacta",
+      "zonaConsulta": "EL ENCANTO",
+      "zonaSlug": "el-encanto",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 462000000,
+      "area": 62.0,
+      "precioM2": 7451613,
+      "administracion": 382000.0,
+      "barrio": "NORMANDIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/193850570",
+      "titulo": "Apartamento en Venta en Normandia, Bogotá",
+      "id_domus": "193850570",
+      "fechaPublicacion": "2026-06-07",
+      "lat": 4.6766683,
+      "lon": -74.1072937,
       "location_type": "exacta",
       "zonaConsulta": "EL ENCANTO",
       "zonaSlug": "el-encanto",
@@ -334,6 +334,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 390000000,
+      "area": 94.0,
+      "precioM2": 4148936,
+      "administracion": null,
+      "barrio": "EL ENCANTO",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-encanto-bogota/194377181",
+      "titulo": "Apartamento en Venta en El encanto, Bogotá",
+      "id_domus": "194377181",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.6785132,
+      "lon": -74.1045996,
+      "location_type": "exacta",
+      "zonaConsulta": "EL ENCANTO",
+      "zonaSlug": "el-encanto",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 575000000,
       "area": 76.0,
       "precioM2": 7565789,
@@ -360,7 +392,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 399000000,
+      "area": 105.0,
+      "precioM2": 3800000,
+      "administracion": null,
+      "barrio": "EL ENCANTO",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-encanto-bogota/194382499",
+      "titulo": "Apartamento en Venta en El encanto, Bogotá",
+      "id_domus": "194382499",
+      "fechaPublicacion": "2026-10-09",
+      "lat": 4.6785132,
+      "lon": -74.1045996,
+      "location_type": "exacta",
+      "zonaConsulta": "EL ENCANTO",
+      "zonaSlug": "el-encanto",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],

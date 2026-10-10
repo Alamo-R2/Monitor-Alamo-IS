@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.03 14:27",
+  "generado": "2026.OCT.10 10:51",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 890000000,
+      "area": 100.0,
+      "precioM2": 8900000,
+      "administracion": 625000.0,
+      "barrio": "MUEQUETA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-campin-bogota/193357053",
+      "titulo": "Apartamento en Venta en El campin, Bogotá",
+      "id_domus": "193357053",
+      "fechaPublicacion": "2026-02-04",
+      "lat": 4.65162,
+      "lon": -74.07122,
+      "location_type": "exacta",
+      "zonaConsulta": "MUEQUETA",
+      "zonaSlug": "muequeta",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2025-12-11",
       "lat": 4.6506413,
       "lon": -74.0715078,
-      "location_type": "exacta",
-      "zonaConsulta": "MUEQUETA",
-      "zonaSlug": "muequeta",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 890000000,
-      "area": 100.0,
-      "precioM2": 8900000,
-      "administracion": 625000.0,
-      "barrio": "MUEQUETA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-campin-bogota/193357053",
-      "titulo": "Apartamento en Venta en El campin, Bogotá",
-      "id_domus": "193357053",
-      "fechaPublicacion": "2026-02-04",
-      "lat": 4.65162,
-      "lon": -74.07122,
       "location_type": "exacta",
       "zonaConsulta": "MUEQUETA",
       "zonaSlug": "muequeta",

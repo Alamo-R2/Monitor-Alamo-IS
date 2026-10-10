@@ -5,10 +5,74 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 11:40",
+  "generado": "2026.OCT.10 10:51",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 590000000,
+      "area": 110.0,
+      "precioM2": 5363636,
+      "administracion": 300000.0,
+      "barrio": "SANTA ROSA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pontevedra-bogota/194383184",
+      "titulo": "Apartamento en Venta en Pontevedra, Bogotá",
+      "id_domus": "194383184",
+      "fechaPublicacion": "2026-10-09",
+      "lat": 4.6995684,
+      "lon": -74.0772605,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA ROSA",
+      "zonaSlug": "santa-rosa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 650000000,
+      "area": 110.0,
+      "precioM2": 5909091,
+      "administracion": 300000.0,
+      "barrio": "SANTA ROSA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pontevedra-bogota/194383088",
+      "titulo": "Apartamento en Venta en Pontevedra, Bogotá",
+      "id_domus": "194383088",
+      "fechaPublicacion": "2026-10-09",
+      "lat": 4.6995684,
+      "lon": -74.0772605,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA ROSA",
+      "zonaSlug": "santa-rosa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -40,39 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1080000000,
-      "area": 220.0,
-      "precioM2": 4909091,
-      "administracion": 624000.0,
-      "barrio": "SANTA ROSA",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 4,
-      "parqueaderos": 4.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pontevedra-bogota/194200107",
-      "titulo": "Apartamento en Venta en Pontevedra, Bogotá",
-      "id_domus": "194200107",
-      "fechaPublicacion": "2026-09-02",
-      "lat": 4.6958832,
-      "lon": -74.0796395,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA ROSA",
-      "zonaSlug": "santa-rosa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 850000000,
+      "area": 146.0,
+      "precioM2": 5821918,
+      "administracion": null,
+      "barrio": "SANTA ROSA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pontevedra-bogota/194338773",
+      "titulo": "Apartamento en Venta en Pontevedra, Bogotá",
+      "id_domus": "194338773",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6979002,
+      "lon": -74.0747166,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA ROSA",
+      "zonaSlug": "santa-rosa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -610,70 +674,6 @@
       "fechaPublicacion": "2026-01-20",
       "lat": 4.6982476,
       "lon": -74.0688932,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA ROSA",
-      "zonaSlug": "santa-rosa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 580000000,
-      "area": 64.0,
-      "precioM2": 9062500,
-      "administracion": 400000.0,
-      "barrio": "SANTA ROSA",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pontevedra-bogota/194206104",
-      "titulo": "Apartamento en Venta en Pontevedra, Bogotá",
-      "id_domus": "194206104",
-      "fechaPublicacion": "2026-09-03",
-      "lat": 4.6954175,
-      "lon": -74.0817987,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA ROSA",
-      "zonaSlug": "santa-rosa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 820000000,
-      "area": 108.0,
-      "precioM2": 7592593,
-      "administracion": 479000.0,
-      "barrio": "SANTA ROSA",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pontevedra-bogota/194211087",
-      "titulo": "Apartamento en Venta en Pontevedra, Bogotá",
-      "id_domus": "194211087",
-      "fechaPublicacion": "2026-09-04",
-      "lat": 4.6949101,
-      "lon": -74.0820942,
       "location_type": "exacta",
       "zonaConsulta": "SANTA ROSA",
       "zonaSlug": "santa-rosa",

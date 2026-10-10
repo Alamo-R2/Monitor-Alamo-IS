@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 18,
+  "total": 20,
   "zona": "NORMANDIA OCCIDENTAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.06 19:10",
+  "generado": "2026.OCT.10 10:51",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,26 +78,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 5000000,
-      "area": 247.0,
-      "precioM2": 20243,
+      "precio": 1600000,
+      "area": 61.0,
+      "precioM2": 26230,
       "administracion": null,
       "barrio": "NORMANDIA",
       "upl": "Tabora",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 3.0,
-      "estrato": 4,
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-normandia-bogota/193889746",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-normandia-bogota/194368605",
       "titulo": "Apartamento en Arriendo en Normandia, Bogotá",
-      "id_domus": "193889746",
-      "fechaPublicacion": "2026-06-18",
-      "lat": 4.6741457492474,
-      "lon": -74.109091758728,
+      "id_domus": "194368605",
+      "fechaPublicacion": "2026-10-07",
+      "lat": 4.6733109,
+      "lon": -74.1127467,
       "location_type": "exacta",
       "zonaConsulta": "NORMANDIA OCCIDENTAL",
       "zonaSlug": "normandia-occidental",
@@ -105,6 +105,38 @@
     },
     {
       "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 81.0,
+      "precioM2": 24691,
+      "administracion": 300000.0,
+      "barrio": "NORMANDIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-normandia-bogota/194364909",
+      "titulo": "Apartamento en Arriendo en Normandia, Bogotá",
+      "id_domus": "194364909",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.6758573,
+      "lon": -74.1056632,
+      "location_type": "exacta",
+      "zonaConsulta": "NORMANDIA OCCIDENTAL",
+      "zonaSlug": "normandia-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +584,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 5000000,
+      "area": 247.0,
+      "precioM2": 20243,
+      "administracion": null,
+      "barrio": "NORMANDIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 3.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-normandia-bogota/193889746",
+      "titulo": "Apartamento en Arriendo en Normandia, Bogotá",
+      "id_domus": "193889746",
+      "fechaPublicacion": "2026-06-18",
+      "lat": 4.6741457492474,
+      "lon": -74.109091758728,
+      "location_type": "exacta",
+      "zonaConsulta": "NORMANDIA OCCIDENTAL",
+      "zonaSlug": "normandia-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],

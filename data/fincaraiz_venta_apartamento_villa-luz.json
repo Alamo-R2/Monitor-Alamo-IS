@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.06 19:10",
+  "generado": "2026.OCT.10 10:51",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 220000000,
-      "area": 37.0,
-      "precioM2": 5945946,
-      "administracion": 110000.0,
-      "barrio": "VILLA LUZ",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-luz-bogota/194317992",
-      "titulo": "Apartamento en Venta en Villa luz, Bogotá",
-      "id_domus": "194317992",
-      "fechaPublicacion": "2026-09-25",
-      "lat": 4.6864411,
-      "lon": -74.108205,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA LUZ",
-      "zonaSlug": "villa-luz",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-09-22",
       "lat": 4.6814042910615,
       "lon": -74.110397033878,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA LUZ",
+      "zonaSlug": "villa-luz",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 220000000,
+      "area": 37.0,
+      "precioM2": 5945946,
+      "administracion": 110000.0,
+      "barrio": "VILLA LUZ",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-luz-bogota/194317992",
+      "titulo": "Apartamento en Venta en Villa luz, Bogotá",
+      "id_domus": "194317992",
+      "fechaPublicacion": "2026-09-25",
+      "lat": 4.6864411,
+      "lon": -74.108205,
       "location_type": "exacta",
       "zonaConsulta": "VILLA LUZ",
       "zonaSlug": "villa-luz",

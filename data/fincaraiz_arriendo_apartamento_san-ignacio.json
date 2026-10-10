@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 12,
   "zona": "SAN IGNACIO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.06 19:10",
+  "generado": "2026.OCT.10 10:51",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 61.0,
+      "precioM2": 26230,
+      "administracion": null,
+      "barrio": "NORMANDIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-normandia-bogota/194368605",
+      "titulo": "Apartamento en Arriendo en Normandia, Bogotá",
+      "id_domus": "194368605",
+      "fechaPublicacion": "2026-10-07",
+      "lat": 4.6733109,
+      "lon": -74.1127467,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN IGNACIO",
+      "zonaSlug": "san-ignacio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2000000,
       "area": 57.0,
       "precioM2": 35088,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -280,7 +312,7 @@
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
-      "parqueaderos": null,
+      "parqueaderos": 1.0,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -296,7 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1850000,
+      "area": 29.0,
+      "precioM2": 63793,
+      "administracion": null,
+      "barrio": "SAN IGNACIO",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194380577",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194380577",
+      "fechaPublicacion": "2026-10-09",
+      "lat": 4.6773267,
+      "lon": -74.1136839,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN IGNACIO",
+      "zonaSlug": "san-ignacio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 6,
   "zona": "PARQUE DISTRITAL SALITRE",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.03 05:52",
+  "generado": "2026.OCT.10 10:51",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 570000000,
+      "area": 73.0,
+      "precioM2": 7808219,
+      "administracion": 350000,
+      "barrio": "POPULAR MODELO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-popular-modelo-bogota/194365898",
+      "titulo": "Apartamento en Venta en Popular modelo, Bogotá",
+      "id_domus": "194365898",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.6639851,
+      "lon": -74.0832313,
+      "location_type": "exacta",
+      "zonaConsulta": "PARQUE DISTRITAL SALITRE",
+      "zonaSlug": "parque-distrital-salitre",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 850000000,
       "area": 115.0,
       "precioM2": 7391304,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 450000000,
+      "area": 57.0,
+      "precioM2": 7894737,
+      "administracion": 370000,
+      "barrio": "SAN MIGUEL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-miguel-bogota/194370256",
+      "titulo": "Apartamento en Venta en San miguel, Bogotá",
+      "id_domus": "194370256",
+      "fechaPublicacion": "2026-10-07",
+      "lat": 4.66032659852,
+      "lon": -74.080170036331,
+      "location_type": "exacta",
+      "zonaConsulta": "PARQUE DISTRITAL SALITRE",
+      "zonaSlug": "parque-distrital-salitre",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],

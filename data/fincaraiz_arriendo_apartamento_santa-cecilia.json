@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 7,
   "zona": "SANTA CECILIA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 11:40",
+  "generado": "2026.OCT.10 10:51",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -169,6 +169,38 @@
     },
     {
       "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1850000,
+      "area": 29.0,
+      "precioM2": 63793,
+      "administracion": null,
+      "barrio": "SANTA CECILIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194380577",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194380577",
+      "fechaPublicacion": "2026-10-09",
+      "lat": 4.6773267,
+      "lon": -74.1136839,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CECILIA",
+      "zonaSlug": "santa-cecilia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],

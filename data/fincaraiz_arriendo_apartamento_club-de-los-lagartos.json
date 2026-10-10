@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 17,
+  "total": 15,
   "zona": "CLUB DE LOS LAGARTOS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 11:40",
+  "generado": "2026.OCT.10 10:51",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,26 +110,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2600000,
-      "area": 68.0,
-      "precioM2": 38235,
+      "precio": 1000000,
+      "area": 35.0,
+      "precioM2": 28571,
       "administracion": null,
       "barrio": "CLUB DE LOS LAGARTOS",
       "upl": "Niza",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-club-los-lagartos-bogota/194352273",
-      "titulo": "Apartamento en Arriendo en Club los lagartos, Bogotá",
-      "id_domus": "194352273",
-      "fechaPublicacion": "2026-10-03",
-      "lat": 4.70016,
-      "lon": -74.0866697,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194380665",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194380665",
+      "fechaPublicacion": "2026-10-09",
+      "lat": 4.7154696,
+      "lon": -74.0958226,
       "location_type": "exacta",
       "zonaConsulta": "CLUB DE LOS LAGARTOS",
       "zonaSlug": "club-de-los-lagartos",
@@ -137,38 +137,6 @@
     },
     {
       "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3850000,
-      "area": 98.0,
-      "precioM2": 39286,
-      "administracion": null,
-      "barrio": "CLUB DE LOS LAGARTOS",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194236210",
-      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
-      "id_domus": "194236210",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.7006127,
-      "lon": -74.0877817,
-      "location_type": "exacta",
-      "zonaConsulta": "CLUB DE LOS LAGARTOS",
-      "zonaSlug": "club-de-los-lagartos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -328,39 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2800000,
-      "area": 49.0,
-      "precioM2": 57143,
-      "administracion": null,
-      "barrio": "CLUB DE LOS LAGARTOS",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-club-los-lagartos-bogota/194149346",
-      "titulo": "Apartamento en Arriendo en Club los lagartos, Bogotá",
-      "id_domus": "194149346",
-      "fechaPublicacion": "2026-08-22",
-      "lat": 4.7132874,
-      "lon": -74.0891015,
-      "location_type": "exacta",
-      "zonaConsulta": "CLUB DE LOS LAGARTOS",
-      "zonaSlug": "club-de-los-lagartos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
