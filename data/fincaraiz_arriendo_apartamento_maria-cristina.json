@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.07 19:45",
+  "generado": "2026.OCT.11 21:08",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 4093000,
-      "area": 106.0,
-      "precioM2": 38613,
-      "administracion": 757000.0,
-      "barrio": "CHAPINERO CENTRAL",
+      "precio": 2300000,
+      "area": 35.0,
+      "precioM2": 65714,
+      "administracion": null,
+      "barrio": "MARIA CRISTINA",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-central-bogota/194362746",
-      "titulo": "Apartamento en Arriendo en Chapinero central, Bogotá",
-      "id_domus": "194362746",
-      "fechaPublicacion": "2026-10-06",
-      "lat": 4.647289,
-      "lon": -74.060902,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194184806",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194184806",
+      "fechaPublicacion": "2026-08-30",
+      "lat": 4.6475295,
+      "lon": -74.0576448,
       "location_type": "exacta",
       "zonaConsulta": "MARIA CRISTINA",
       "zonaSlug": "maria-cristina",
@@ -238,26 +238,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 5000000,
-      "area": 58.0,
-      "precioM2": 86207,
-      "administracion": 390000.0,
+      "precio": 1515000,
+      "area": 30.0,
+      "precioM2": 50500,
+      "administracion": 235000.0,
       "barrio": "MARIA CRISTINA",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
+      "banos": 1,
+      "parqueaderos": null,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/193818136",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/194305017",
       "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
-      "id_domus": "193818136",
-      "fechaPublicacion": "2026-05-29",
-      "lat": 4.64551388968,
-      "lon": -74.054746718171,
+      "id_domus": "194305017",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.6442106,
+      "lon": -74.0542694,
       "location_type": "exacta",
       "zonaConsulta": "MARIA CRISTINA",
       "zonaSlug": "maria-cristina",
@@ -366,6 +366,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 4093000,
+      "area": 106.0,
+      "precioM2": 38613,
+      "administracion": 757000.0,
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-central-bogota/194362746",
+      "titulo": "Apartamento en Arriendo en Chapinero central, Bogotá",
+      "id_domus": "194362746",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.647289,
+      "lon": -74.060902,
+      "location_type": "exacta",
+      "zonaConsulta": "MARIA CRISTINA",
+      "zonaSlug": "maria-cristina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1700000,
       "area": 20.0,
       "precioM2": 85000,
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -488,39 +520,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2300000,
-      "area": 35.0,
-      "precioM2": 65714,
+      "precio": 4000000,
+      "area": 83.0,
+      "precioM2": 48193,
       "administracion": null,
       "barrio": "MARIA CRISTINA",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 2,
+      "banos": 3,
       "parqueaderos": null,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194184806",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194184806",
-      "fechaPublicacion": "2026-08-30",
-      "lat": 4.6475295,
-      "lon": -74.0576448,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/194377773",
+      "titulo": "Apartamento en Arriendo en Bogotá",
+      "id_domus": "194377773",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.6482595,
+      "lon": -74.0598085,
       "location_type": "exacta",
       "zonaConsulta": "MARIA CRISTINA",
       "zonaSlug": "maria-cristina",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-03-20",
       "lat": 4.6477632,
       "lon": -74.0522714,
-      "location_type": "exacta",
-      "zonaConsulta": "MARIA CRISTINA",
-      "zonaSlug": "maria-cristina",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3000000,
-      "area": 50.0,
-      "precioM2": 60000,
-      "administracion": null,
-      "barrio": "MARIA CRISTINA",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194197899",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194197899",
-      "fechaPublicacion": "2026-09-02",
-      "lat": 4.6463087,
-      "lon": -74.0565363,
       "location_type": "exacta",
       "zonaConsulta": "MARIA CRISTINA",
       "zonaSlug": "maria-cristina",

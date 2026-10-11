@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 18,
+  "total": 20,
   "zona": "INGEMAR",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.07 19:45",
+  "generado": "2026.OCT.11 21:08",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2620000,
-      "area": 80.0,
-      "precioM2": 32750,
-      "administracion": 580000.0,
+      "precio": 3000000,
+      "area": 49.0,
+      "precioM2": 61224,
+      "administracion": 456000.0,
       "barrio": "INGEMAR",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
-      "parqueaderos": null,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/194364849",
-      "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
-      "id_domus": "194364849",
-      "fechaPublicacion": "2026-10-06",
-      "lat": 4.6435799,
-      "lon": -74.0576776,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194246480",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194246480",
+      "fechaPublicacion": "2026-09-12",
+      "lat": 4.6416759,
+      "lon": -74.0591709,
       "location_type": "exacta",
       "zonaConsulta": "INGEMAR",
       "zonaSlug": "ingemar",
@@ -78,9 +78,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1880000,
+      "precio": 1830000,
       "area": 28.0,
-      "precioM2": 67143,
+      "precioM2": 65357,
       "administracion": 320000.0,
       "barrio": "INGEMAR",
       "upl": "Chapinero",
@@ -105,6 +105,38 @@
     },
     {
       "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3300000,
+      "area": 73.0,
+      "precioM2": 45205,
+      "administracion": null,
+      "barrio": "INGEMAR",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/10272449",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "10272449",
+      "fechaPublicacion": "2023-10-31",
+      "lat": 4.6398854,
+      "lon": -74.0589503,
+      "location_type": "exacta",
+      "zonaConsulta": "INGEMAR",
+      "zonaSlug": "ingemar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,71 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2900000,
-      "area": 49.0,
-      "precioM2": 59184,
-      "administracion": 456000.0,
-      "barrio": "INGEMAR",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194246480",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194246480",
-      "fechaPublicacion": "2026-09-12",
-      "lat": 4.6416759,
-      "lon": -74.0591709,
-      "location_type": "exacta",
-      "zonaConsulta": "INGEMAR",
-      "zonaSlug": "ingemar",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 9000000,
-      "area": 145.0,
-      "precioM2": 62069,
-      "administracion": null,
-      "barrio": "TEUSAQUILLO",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-teusaquillo-bogota/193265738",
-      "titulo": "Apartamento en Arriendo en Teusaquillo, Bogotá",
-      "id_domus": "193265738",
-      "fechaPublicacion": "2026-01-11",
-      "lat": 4.6414815,
-      "lon": -74.057365,
-      "location_type": "exacta",
-      "zonaConsulta": "INGEMAR",
-      "zonaSlug": "ingemar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -354,6 +322,38 @@
       "fechaPublicacion": "2026-07-17",
       "lat": 4.6436217,
       "lon": -74.0564518,
+      "location_type": "exacta",
+      "zonaConsulta": "INGEMAR",
+      "zonaSlug": "ingemar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 25000000,
+      "area": 240.0,
+      "precioM2": 104167,
+      "administracion": 3500000.0,
+      "barrio": "INGEMAR",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194370530",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194370530",
+      "fechaPublicacion": "2026-10-07",
+      "lat": 4.6419788,
+      "lon": -74.0591802,
       "location_type": "exacta",
       "zonaConsulta": "INGEMAR",
       "zonaSlug": "ingemar",
@@ -462,6 +462,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 3000000,
+      "area": 49.0,
+      "precioM2": 61224,
+      "administracion": 456000.0,
+      "barrio": "INGEMAR",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/194383815",
+      "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
+      "id_domus": "194383815",
+      "fechaPublicacion": "2026-10-09",
+      "lat": 4.641686964148,
+      "lon": -74.059099105214,
+      "location_type": "exacta",
+      "zonaConsulta": "INGEMAR",
+      "zonaSlug": "ingemar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 4651800,
       "area": 80.0,
       "precioM2": 58148,
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -578,6 +610,38 @@
       "fechaPublicacion": "2026-09-17",
       "lat": 4.643263,
       "lon": -74.058051,
+      "location_type": "exacta",
+      "zonaConsulta": "INGEMAR",
+      "zonaSlug": "ingemar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 9000000,
+      "area": 145.0,
+      "precioM2": 62069,
+      "administracion": null,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-teusaquillo-bogota/193265738",
+      "titulo": "Apartamento en Arriendo en Teusaquillo, Bogotá",
+      "id_domus": "193265738",
+      "fechaPublicacion": "2026-01-11",
+      "lat": 4.6414815,
+      "lon": -74.057365,
       "location_type": "exacta",
       "zonaConsulta": "INGEMAR",
       "zonaSlug": "ingemar",

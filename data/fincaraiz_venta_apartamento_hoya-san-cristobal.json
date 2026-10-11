@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.09 19:07",
+  "generado": "2026.OCT.11 21:08",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 188000000,
+      "area": 44.0,
+      "precioM2": 4272727,
+      "administracion": 260000,
+      "barrio": "SAN CRISTOBAL SUR",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-cristobal-sur-bogota/193705025",
+      "titulo": "Apartamento en Venta en San cristobal sur, Bogotá",
+      "id_domus": "193705025",
+      "fechaPublicacion": "2026-05-04",
+      "lat": 4.572304,
+      "lon": -74.0772534,
+      "location_type": "exacta",
+      "zonaConsulta": "HOYA SAN CRISTOBAL",
+      "zonaSlug": "hoya-san-cristobal",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-09-28",
       "lat": 4.56996,
       "lon": -74.076103,
-      "location_type": "exacta",
-      "zonaConsulta": "HOYA SAN CRISTOBAL",
-      "zonaSlug": "hoya-san-cristobal",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 185000000,
-      "area": 44.0,
-      "precioM2": 4204545,
-      "administracion": 260000,
-      "barrio": "SAN CRISTOBAL SUR",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-cristobal-sur-bogota/193705025",
-      "titulo": "Apartamento en Venta en San cristobal sur, Bogotá",
-      "id_domus": "193705025",
-      "fechaPublicacion": "2026-05-04",
-      "lat": 4.572304,
-      "lon": -74.0772534,
       "location_type": "exacta",
       "zonaConsulta": "HOYA SAN CRISTOBAL",
       "zonaSlug": "hoya-san-cristobal",
