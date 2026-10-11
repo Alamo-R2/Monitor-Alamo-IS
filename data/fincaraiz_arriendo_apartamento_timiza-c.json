@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 06:35",
+  "generado": "2026.OCT.11 15:59",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4000000,
+      "area": 50.0,
+      "precioM2": 80000,
+      "administracion": null,
+      "barrio": "TIMIZA C",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": null,
+      "parqueaderos": null,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194349744",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194349744",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.6511449,
+      "lon": -74.054303,
+      "location_type": "exacta",
+      "zonaConsulta": "TIMIZA C",
+      "zonaSlug": "timiza-c",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -23,7 +55,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -55,7 +87,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -87,7 +119,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -119,7 +151,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-10-07",
       "lat": 4.6052529,
       "lon": -74.0698638,
-      "location_type": "exacta",
-      "zonaConsulta": "TIMIZA C",
-      "zonaSlug": "timiza-c",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4000000,
-      "area": 67.0,
-      "precioM2": 59701,
-      "administracion": null,
-      "barrio": "LA CALLEJA",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-calleja-bogota/194335077",
-      "titulo": "Apartamento en Arriendo en La Calleja, Bogotá",
-      "id_domus": "194335077",
-      "fechaPublicacion": "2026-09-29",
-      "lat": 4.7146023,
-      "lon": -74.0511718,
       "location_type": "exacta",
       "zonaConsulta": "TIMIZA C",
       "zonaSlug": "timiza-c",
