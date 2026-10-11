@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 5,
   "zona": "GALICIA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.03 20:16",
+  "generado": "2026.OCT.11 00:34",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,9 +46,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1153800,
+      "precio": 1053800,
       "area": 42.0,
-      "precioM2": 27471,
+      "precioM2": 25090,
       "administracion": 146200.0,
       "barrio": "LA ESTANCIA",
       "upl": "Arborizadora",
@@ -137,38 +137,6 @@
     },
     {
       "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1000000,
-      "area": 525.0,
-      "precioM2": 1905,
-      "administracion": null,
-      "barrio": "GALICIA",
-      "upl": "Arborizadora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-galicia-bogota/194229790",
-      "titulo": "Apartamento en Arriendo en Galicia, Bogotá",
-      "id_domus": "194229790",
-      "fechaPublicacion": "2026-09-09",
-      "lat": 4.5917236,
-      "lon": -74.1694171,
-      "location_type": "exacta",
-      "zonaConsulta": "GALICIA",
-      "zonaSlug": "galicia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],

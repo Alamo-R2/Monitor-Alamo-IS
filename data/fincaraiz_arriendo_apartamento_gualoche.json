@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.03 20:16",
+  "generado": "2026.OCT.11 00:34",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 105.0,
+      "precioM2": 11429,
+      "administracion": null,
+      "barrio": "BOSA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-bogota/194135649",
+      "titulo": "Apartamento en Arriendo en Bosa, Bogotá",
+      "id_domus": "194135649",
+      "fechaPublicacion": "2026-08-19",
+      "lat": 4.5981586,
+      "lon": -74.1791538,
+      "location_type": "exacta",
+      "zonaConsulta": "GUALOCHE",
+      "zonaSlug": "gualoche",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-09-29",
       "lat": 4.6039417552328,
       "lon": -74.182290604938,
-      "location_type": "exacta",
-      "zonaConsulta": "GUALOCHE",
-      "zonaSlug": "gualoche",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 105.0,
-      "precioM2": 11429,
-      "administracion": null,
-      "barrio": "BOSA",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-bogota/194135649",
-      "titulo": "Apartamento en Arriendo en Bosa, Bogotá",
-      "id_domus": "194135649",
-      "fechaPublicacion": "2026-08-19",
-      "lat": 4.5981586,
-      "lon": -74.1791538,
       "location_type": "exacta",
       "zonaConsulta": "GUALOCHE",
       "zonaSlug": "gualoche",

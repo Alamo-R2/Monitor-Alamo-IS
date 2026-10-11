@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "ISMAEL PERDOMO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.03 20:16",
+  "generado": "2026.OCT.11 00:34",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1236000,
+      "area": 42.0,
+      "precioM2": 29429,
+      "administracion": 115000.0,
+      "barrio": "ISMAEL PERDOMO",
+      "upl": "Arborizadora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ismael-perdomo-bogota/194364624",
+      "titulo": "Apartamento en Arriendo en Ismael perdomo, Bogotá",
+      "id_domus": "194364624",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.5968133,
+      "lon": -74.1642734,
+      "location_type": "exacta",
+      "zonaConsulta": "ISMAEL PERDOMO",
+      "zonaSlug": "ismael-perdomo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,32 +104,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1000000,
-      "area": 45.0,
-      "precioM2": 22222,
-      "administracion": 205400.0,
-      "barrio": "ISMAEL PERDOMO",
+      "precio": 700000,
+      "area": 43.0,
+      "precioM2": 16279,
+      "administracion": null,
+      "barrio": "CIUDAD BOLIVAR",
       "upl": "Arborizadora",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 1,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ismael-perdomo-bogota/194080375",
-      "titulo": "Apartamento en Arriendo en Ismael perdomo, Bogotá",
-      "id_domus": "194080375",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.5862609362085,
-      "lon": -74.16130252209,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-bolivar-bogota/194384175",
+      "titulo": "Apartamento en Arriendo en Ciudad bolivar, Bogotá",
+      "id_domus": "194384175",
+      "fechaPublicacion": "2026-10-09",
+      "lat": 4.5846033,
+      "lon": -74.1710144,
       "location_type": "exacta",
       "zonaConsulta": "ISMAEL PERDOMO",
       "zonaSlug": "ismael-perdomo",
