@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "LAGUNITAS URBANO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.04 20:33",
+  "generado": "2026.OCT.12 00:47",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,10 +14,42 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 900000,
+      "area": 36.0,
+      "precioM2": 25000,
+      "administracion": null,
+      "barrio": "LAGUNITAS URBANO",
+      "upl": "Cuenca del Tunjuelo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/194369525",
+      "titulo": "Apartamento en Arriendo en Bogotá",
+      "id_domus": "194369525",
+      "fechaPublicacion": "2026-10-07",
+      "lat": 4.507281,
+      "lon": -74.145262,
+      "location_type": "exacta",
+      "zonaConsulta": "LAGUNITAS URBANO",
+      "zonaSlug": "lagunitas-urbano",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 694400,
       "area": 39.0,
       "precioM2": 17805,
-      "administracion": 105600,
+      "administracion": 105600.0,
       "barrio": "LAGUNITAS URBANO",
       "upl": "Cuenca del Tunjuelo",
       "ciudad": "Bogotá",
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -49,7 +81,7 @@
       "precio": 1075000,
       "area": 44.0,
       "precioM2": 24432,
-      "administracion": 125000,
+      "administracion": 125000.0,
       "barrio": "BOSA",
       "upl": "Cuenca del Tunjuelo",
       "ciudad": "Bogotá",
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -81,7 +113,7 @@
       "precio": 906600,
       "area": 39.0,
       "precioM2": 23246,
-      "administracion": 93400,
+      "administracion": 93400.0,
       "barrio": "BOSA",
       "upl": "Cuenca del Tunjuelo",
       "ciudad": "Bogotá",
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -113,7 +145,7 @@
       "precio": 1000000,
       "area": 45.0,
       "precioM2": 22222,
-      "administracion": 100000,
+      "administracion": 100000.0,
       "barrio": "BOSA",
       "upl": "Cuenca del Tunjuelo",
       "ciudad": "Bogotá",
