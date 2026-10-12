@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 6,
   "zona": "MILLAN",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 00:34",
+  "generado": "2026.OCT.12 06:41",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,38 +110,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2950000,
-      "area": 72.0,
-      "precioM2": 40972,
-      "administracion": null,
-      "barrio": "BARRANCAS NORTE",
-      "upl": "Arborizadora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrancas-norte-bogota/194246805",
-      "titulo": "Apartamento en Arriendo en Barrancas Norte, Bogotá",
-      "id_domus": "194246805",
-      "fechaPublicacion": "2026-09-12",
-      "lat": 4.7339386,
-      "lon": -74.024932,
-      "location_type": "exacta",
-      "zonaConsulta": "MILLAN",
-      "zonaSlug": "millan",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 4000000,
       "area": 75.0,
       "precioM2": 53333,
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
