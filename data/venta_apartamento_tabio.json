@@ -5,10 +5,42 @@
   "origen": "municipio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.06 17:28",
+  "generado": "2026.OCT.12 20:28",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 500000000,
+      "area": 97.0,
+      "precioM2": 5154639,
+      "administracion": 120000.0,
+      "barrio": "TABIO",
+      "upl": "",
+      "ciudad": "Tabio",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-tabio-tabio-3-habitaciones-3-banos-2-garajes/19708-M6513023",
+      "titulo": "Apartamento en Venta, Tabio, Tabio",
+      "id_domus": "19708-M6513023",
+      "fechaPublicacion": null,
+      "lat": 4.91925708,
+      "lon": -74.09159846,
+      "location_type": "exacta",
+      "zonaConsulta": "Tabio",
+      "zonaSlug": "tabio",
+      "origenZona": "municipio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "municipio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -67,38 +99,6 @@
       "lat": null,
       "lon": null,
       "location_type": "aproximada",
-      "zonaConsulta": "Tabio",
-      "zonaSlug": "tabio",
-      "origenZona": "municipio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 500000000,
-      "area": 97.0,
-      "precioM2": 5154639,
-      "administracion": 120000.0,
-      "barrio": "TABIO",
-      "upl": "",
-      "ciudad": "Tabio",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-tabio-tabio-3-habitaciones-3-banos-2-garajes/19708-M6513023",
-      "titulo": "Apartamento en Venta, Tabio, Tabio",
-      "id_domus": "19708-M6513023",
-      "fechaPublicacion": null,
-      "lat": 4.91925708,
-      "lon": -74.09159846,
-      "location_type": "exacta",
       "zonaConsulta": "Tabio",
       "zonaSlug": "tabio",
       "origenZona": "municipio"
