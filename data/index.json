@@ -1,7 +1,7 @@
 {
-  "generado": "2026-10-12T14:30:18",
-  "generado_humano": "2026.OCT.12 14:30",
-  "grupo_actual": "barrios_res",
+  "generado": "2026-10-12T16:38:19",
+  "generado_humano": "2026.OCT.12 16:38",
+  "grupo_actual": "barrios",
   "ciudad": "bogota",
   "datasets": [
     {
@@ -36938,7 +36938,7 @@
       "clave": "venta_oficina_centro-industrial",
       "etiqueta": "Venta - Oficina - CENTRO INDUSTRIAL",
       "archivo": "venta_oficina_centro-industrial.json",
-      "total": 50,
+      "total": 49,
       "operacion": "venta",
       "tipo": "oficina",
       "zona": "CENTRO INDUSTRIAL",
@@ -36950,13 +36950,13 @@
       "clave": "arriendo_oficina_centro-industrial",
       "etiqueta": "Arriendo - Oficina - CENTRO INDUSTRIAL",
       "archivo": "arriendo_oficina_centro-industrial.json",
-      "total": 8,
+      "total": 9,
       "operacion": "arriendo",
       "tipo": "oficina",
       "zona": "CENTRO INDUSTRIAL",
       "slug": "centro-industrial",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.7
     },
     {
       "clave": "venta_bodega_centro-industrial",
@@ -36968,13 +36968,13 @@
       "zona": "CENTRO INDUSTRIAL",
       "slug": "centro-industrial",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_bodega_centro-industrial",
       "etiqueta": "Arriendo - Bodega - CENTRO INDUSTRIAL",
       "archivo": "arriendo_bodega_centro-industrial.json",
-      "total": 50,
+      "total": 28,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "CENTRO INDUSTRIAL",
@@ -36998,7 +36998,7 @@
       "clave": "arriendo_edificio_centro-industrial",
       "etiqueta": "Arriendo - Edificio - CENTRO INDUSTRIAL",
       "archivo": "arriendo_edificio_centro-industrial.json",
-      "total": 50,
+      "total": 48,
       "operacion": "arriendo",
       "tipo": "edificio",
       "zona": "CENTRO INDUSTRIAL",
@@ -37022,25 +37022,25 @@
       "clave": "arriendo_local_centro-industrial",
       "etiqueta": "Arriendo - Local - CENTRO INDUSTRIAL",
       "archivo": "arriendo_local_centro-industrial.json",
-      "total": 7,
+      "total": 8,
       "operacion": "arriendo",
       "tipo": "local",
       "zona": "CENTRO INDUSTRIAL",
       "slug": "centro-industrial",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 8.8
     },
     {
       "clave": "venta_lote_centro-industrial",
       "etiqueta": "Venta - Lote - CENTRO INDUSTRIAL",
       "archivo": "venta_lote_centro-industrial.json",
-      "total": 20,
+      "total": 21,
       "operacion": "venta",
       "tipo": "lote",
       "zona": "CENTRO INDUSTRIAL",
       "slug": "centro-industrial",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_lote_centro-industrial",
@@ -37184,25 +37184,25 @@
       "zona": "MONTEVIDEO",
       "slug": "montevideo",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 6.3
     },
     {
       "clave": "arriendo_oficina_montevideo",
       "etiqueta": "Arriendo - Oficina - MONTEVIDEO",
       "archivo": "arriendo_oficina_montevideo.json",
-      "total": 13,
+      "total": 12,
       "operacion": "arriendo",
       "tipo": "oficina",
       "zona": "MONTEVIDEO",
       "slug": "montevideo",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.7
     },
     {
       "clave": "venta_bodega_montevideo",
       "etiqueta": "Venta - Bodega - MONTEVIDEO",
       "archivo": "venta_bodega_montevideo.json",
-      "total": 50,
+      "total": 49,
       "operacion": "venta",
       "tipo": "bodega",
       "zona": "MONTEVIDEO",
@@ -37214,7 +37214,7 @@
       "clave": "arriendo_bodega_montevideo",
       "etiqueta": "Arriendo - Bodega - MONTEVIDEO",
       "archivo": "arriendo_bodega_montevideo.json",
-      "total": 50,
+      "total": 53,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "MONTEVIDEO",
@@ -37232,7 +37232,7 @@
       "zona": "MONTEVIDEO",
       "slug": "montevideo",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_edificio_montevideo",
@@ -37244,7 +37244,7 @@
       "zona": "MONTEVIDEO",
       "slug": "montevideo",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "venta_local_montevideo",
@@ -37262,7 +37262,7 @@
       "clave": "arriendo_local_montevideo",
       "etiqueta": "Arriendo - Local - MONTEVIDEO",
       "archivo": "arriendo_local_montevideo.json",
-      "total": 20,
+      "total": 18,
       "operacion": "arriendo",
       "tipo": "local",
       "zona": "MONTEVIDEO",
@@ -37274,19 +37274,19 @@
       "clave": "venta_lote_montevideo",
       "etiqueta": "Venta - Lote - MONTEVIDEO",
       "archivo": "venta_lote_montevideo.json",
-      "total": 5,
+      "total": 4,
       "operacion": "venta",
       "tipo": "lote",
       "zona": "MONTEVIDEO",
       "slug": "montevideo",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_lote_montevideo",
       "etiqueta": "Arriendo - Lote - MONTEVIDEO",
       "archivo": "arriendo_lote_montevideo.json",
-      "total": 50,
+      "total": 45,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "MONTEVIDEO",
@@ -39224,7 +39224,7 @@
       "zona": "FLORIDA",
       "slug": "florida",
       "origen": "barrio",
-      "segundos": 6.5
+      "segundos": 6.6
     },
     {
       "clave": "arriendo_oficina_florida",
@@ -39236,43 +39236,43 @@
       "zona": "FLORIDA",
       "slug": "florida",
       "origen": "barrio",
-      "segundos": 6.4
+      "segundos": 6.3
     },
     {
       "clave": "venta_bodega_florida",
       "etiqueta": "Venta - Bodega - FLORIDA",
       "archivo": "venta_bodega_florida.json",
-      "total": 40,
+      "total": 41,
       "operacion": "venta",
       "tipo": "bodega",
       "zona": "FLORIDA",
       "slug": "florida",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_bodega_florida",
       "etiqueta": "Arriendo - Bodega - FLORIDA",
       "archivo": "arriendo_bodega_florida.json",
-      "total": 31,
+      "total": 27,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "FLORIDA",
       "slug": "florida",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "venta_edificio_florida",
       "etiqueta": "Venta - Edificio - FLORIDA",
       "archivo": "venta_edificio_florida.json",
-      "total": 50,
+      "total": 45,
       "operacion": "venta",
       "tipo": "edificio",
       "zona": "FLORIDA",
       "slug": "florida",
       "origen": "barrio",
-      "segundos": 9.1
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_edificio_florida",
@@ -39284,7 +39284,7 @@
       "zona": "FLORIDA",
       "slug": "florida",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "venta_local_florida",
@@ -39296,13 +39296,13 @@
       "zona": "FLORIDA",
       "slug": "florida",
       "origen": "barrio",
-      "segundos": 6.5
+      "segundos": 6.3
     },
     {
       "clave": "arriendo_local_florida",
       "etiqueta": "Arriendo - Local - FLORIDA",
       "archivo": "arriendo_local_florida.json",
-      "total": 5,
+      "total": 4,
       "operacion": "arriendo",
       "tipo": "local",
       "zona": "FLORIDA",
@@ -39314,25 +39314,25 @@
       "clave": "venta_lote_florida",
       "etiqueta": "Venta - Lote - FLORIDA",
       "archivo": "venta_lote_florida.json",
-      "total": 50,
+      "total": 6,
       "operacion": "venta",
       "tipo": "lote",
       "zona": "FLORIDA",
       "slug": "florida",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_lote_florida",
       "etiqueta": "Arriendo - Lote - FLORIDA",
       "archivo": "arriendo_lote_florida.json",
-      "total": 3,
+      "total": 2,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "FLORIDA",
       "slug": "florida",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.7
     },
     {
       "clave": "fincaraiz_venta_apartamento_chapinero-norte",
@@ -42992,7 +42992,7 @@
       "zona": "LA FLORIDA OCCIDENTAL",
       "slug": "la-florida-occidental",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 6.3
     },
     {
       "clave": "arriendo_oficina_la-florida-occidental",
@@ -43004,19 +43004,19 @@
       "zona": "LA FLORIDA OCCIDENTAL",
       "slug": "la-florida-occidental",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 6.3
     },
     {
       "clave": "venta_bodega_la-florida-occidental",
       "etiqueta": "Venta - Bodega - LA FLORIDA OCCIDENTAL",
       "archivo": "venta_bodega_la-florida-occidental.json",
-      "total": 0,
+      "total": 3,
       "operacion": "venta",
       "tipo": "bodega",
       "zona": "LA FLORIDA OCCIDENTAL",
       "slug": "la-florida-occidental",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 8.7
     },
     {
       "clave": "arriendo_bodega_la-florida-occidental",
@@ -43028,7 +43028,7 @@
       "zona": "LA FLORIDA OCCIDENTAL",
       "slug": "la-florida-occidental",
       "origen": "barrio",
-      "segundos": 6.1
+      "segundos": 6.3
     },
     {
       "clave": "venta_edificio_la-florida-occidental",
@@ -43040,7 +43040,7 @@
       "zona": "LA FLORIDA OCCIDENTAL",
       "slug": "la-florida-occidental",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_edificio_la-florida-occidental",
@@ -43052,7 +43052,7 @@
       "zona": "LA FLORIDA OCCIDENTAL",
       "slug": "la-florida-occidental",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "venta_local_la-florida-occidental",
@@ -43064,13 +43064,13 @@
       "zona": "LA FLORIDA OCCIDENTAL",
       "slug": "la-florida-occidental",
       "origen": "barrio",
-      "segundos": 6.3
+      "segundos": 6.4
     },
     {
       "clave": "arriendo_local_la-florida-occidental",
       "etiqueta": "Arriendo - Local - LA FLORIDA OCCIDENTAL",
       "archivo": "arriendo_local_la-florida-occidental.json",
-      "total": 5,
+      "total": 4,
       "operacion": "arriendo",
       "tipo": "local",
       "zona": "LA FLORIDA OCCIDENTAL",
@@ -43082,19 +43082,19 @@
       "clave": "venta_lote_la-florida-occidental",
       "etiqueta": "Venta - Lote - LA FLORIDA OCCIDENTAL",
       "archivo": "venta_lote_la-florida-occidental.json",
-      "total": 0,
+      "total": 6,
       "operacion": "venta",
       "tipo": "lote",
       "zona": "LA FLORIDA OCCIDENTAL",
       "slug": "la-florida-occidental",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 8.7
     },
     {
       "clave": "arriendo_lote_la-florida-occidental",
       "etiqueta": "Arriendo - Lote - LA FLORIDA OCCIDENTAL",
       "archivo": "arriendo_lote_la-florida-occidental.json",
-      "total": 3,
+      "total": 2,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "LA FLORIDA OCCIDENTAL",
@@ -77954,7 +77954,7 @@
       "clave": "venta_oficina_ortezal",
       "etiqueta": "Venta - Oficina - ORTEZAL",
       "archivo": "venta_oficina_ortezal.json",
-      "total": 56,
+      "total": 54,
       "operacion": "venta",
       "tipo": "oficina",
       "zona": "ORTEZAL",
@@ -77978,19 +77978,19 @@
       "clave": "venta_bodega_ortezal",
       "etiqueta": "Venta - Bodega - ORTEZAL",
       "archivo": "venta_bodega_ortezal.json",
-      "total": 29,
+      "total": 27,
       "operacion": "venta",
       "tipo": "bodega",
       "zona": "ORTEZAL",
       "slug": "ortezal",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_bodega_ortezal",
       "etiqueta": "Arriendo - Bodega - ORTEZAL",
       "archivo": "arriendo_bodega_ortezal.json",
-      "total": 30,
+      "total": 29,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "ORTEZAL",
@@ -78008,7 +78008,7 @@
       "zona": "ORTEZAL",
       "slug": "ortezal",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_edificio_ortezal",
@@ -78020,19 +78020,19 @@
       "zona": "ORTEZAL",
       "slug": "ortezal",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "venta_local_ortezal",
       "etiqueta": "Venta - Local - ORTEZAL",
       "archivo": "venta_local_ortezal.json",
-      "total": 54,
+      "total": 53,
       "operacion": "venta",
       "tipo": "local",
       "zona": "ORTEZAL",
       "slug": "ortezal",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_local_ortezal",
@@ -78044,7 +78044,7 @@
       "zona": "ORTEZAL",
       "slug": "ortezal",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 6.3
     },
     {
       "clave": "venta_lote_ortezal",
@@ -78056,19 +78056,19 @@
       "zona": "ORTEZAL",
       "slug": "ortezal",
       "origen": "barrio",
-      "segundos": 9.1
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_lote_ortezal",
       "etiqueta": "Arriendo - Lote - ORTEZAL",
       "archivo": "arriendo_lote_ortezal.json",
-      "total": 0,
+      "total": 45,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "ORTEZAL",
       "slug": "ortezal",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 8.8
     },
     {
       "clave": "fincaraiz_venta_apartamento_carmen-del-sol",
@@ -86966,13 +86966,13 @@
       "clave": "arriendo_oficina_puente-aranda",
       "etiqueta": "Arriendo - Oficina - PUENTE ARANDA",
       "archivo": "arriendo_oficina_puente-aranda.json",
-      "total": 50,
+      "total": 49,
       "operacion": "arriendo",
       "tipo": "oficina",
       "zona": "PUENTE ARANDA",
       "slug": "puente-aranda",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.8
     },
     {
       "clave": "venta_bodega_puente-aranda",
@@ -86984,19 +86984,19 @@
       "zona": "PUENTE ARANDA",
       "slug": "puente-aranda",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_bodega_puente-aranda",
       "etiqueta": "Arriendo - Bodega - PUENTE ARANDA",
       "archivo": "arriendo_bodega_puente-aranda.json",
-      "total": 48,
+      "total": 49,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "PUENTE ARANDA",
       "slug": "puente-aranda",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "venta_edificio_puente-aranda",
@@ -87008,31 +87008,31 @@
       "zona": "PUENTE ARANDA",
       "slug": "puente-aranda",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_edificio_puente-aranda",
       "etiqueta": "Arriendo - Edificio - PUENTE ARANDA",
       "archivo": "arriendo_edificio_puente-aranda.json",
-      "total": 47,
+      "total": 46,
       "operacion": "arriendo",
       "tipo": "edificio",
       "zona": "PUENTE ARANDA",
       "slug": "puente-aranda",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "venta_local_puente-aranda",
       "etiqueta": "Venta - Local - PUENTE ARANDA",
       "archivo": "venta_local_puente-aranda.json",
-      "total": 20,
+      "total": 19,
       "operacion": "venta",
       "tipo": "local",
       "zona": "PUENTE ARANDA",
       "slug": "puente-aranda",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_local_puente-aranda",
@@ -87044,13 +87044,13 @@
       "zona": "PUENTE ARANDA",
       "slug": "puente-aranda",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.8
     },
     {
       "clave": "venta_lote_puente-aranda",
       "etiqueta": "Venta - Lote - PUENTE ARANDA",
       "archivo": "venta_lote_puente-aranda.json",
-      "total": 15,
+      "total": 14,
       "operacion": "venta",
       "tipo": "lote",
       "zona": "PUENTE ARANDA",
@@ -87062,13 +87062,13 @@
       "clave": "arriendo_lote_puente-aranda",
       "etiqueta": "Arriendo - Lote - PUENTE ARANDA",
       "archivo": "arriendo_lote_puente-aranda.json",
-      "total": 44,
+      "total": 45,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "PUENTE ARANDA",
       "slug": "puente-aranda",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.8
     },
     {
       "clave": "venta_oficina_remanso",
@@ -107589,6 +107589,246 @@
       "slug": "estrella",
       "origen": "barrio",
       "segundos": 8.7
+    },
+    {
+      "clave": "venta_oficina_santa-fe",
+      "etiqueta": "Venta - Oficina - SANTA FE",
+      "archivo": "venta_oficina_santa-fe.json",
+      "total": 11,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "SANTA FE",
+      "slug": "santa-fe",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "arriendo_oficina_santa-fe",
+      "etiqueta": "Arriendo - Oficina - SANTA FE",
+      "archivo": "arriendo_oficina_santa-fe.json",
+      "total": 23,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "SANTA FE",
+      "slug": "santa-fe",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "venta_bodega_santa-fe",
+      "etiqueta": "Venta - Bodega - SANTA FE",
+      "archivo": "venta_bodega_santa-fe.json",
+      "total": 29,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "SANTA FE",
+      "slug": "santa-fe",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "arriendo_bodega_santa-fe",
+      "etiqueta": "Arriendo - Bodega - SANTA FE",
+      "archivo": "arriendo_bodega_santa-fe.json",
+      "total": 7,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "SANTA FE",
+      "slug": "santa-fe",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "venta_edificio_santa-fe",
+      "etiqueta": "Venta - Edificio - SANTA FE",
+      "archivo": "venta_edificio_santa-fe.json",
+      "total": 46,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "SANTA FE",
+      "slug": "santa-fe",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "arriendo_edificio_santa-fe",
+      "etiqueta": "Arriendo - Edificio - SANTA FE",
+      "archivo": "arriendo_edificio_santa-fe.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "SANTA FE",
+      "slug": "santa-fe",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "venta_local_santa-fe",
+      "etiqueta": "Venta - Local - SANTA FE",
+      "archivo": "venta_local_santa-fe.json",
+      "total": 28,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "SANTA FE",
+      "slug": "santa-fe",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "arriendo_local_santa-fe",
+      "etiqueta": "Arriendo - Local - SANTA FE",
+      "archivo": "arriendo_local_santa-fe.json",
+      "total": 26,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "SANTA FE",
+      "slug": "santa-fe",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "venta_lote_santa-fe",
+      "etiqueta": "Venta - Lote - SANTA FE",
+      "archivo": "venta_lote_santa-fe.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "SANTA FE",
+      "slug": "santa-fe",
+      "origen": "barrio",
+      "segundos": 6.3
+    },
+    {
+      "clave": "arriendo_lote_santa-fe",
+      "etiqueta": "Arriendo - Lote - SANTA FE",
+      "archivo": "arriendo_lote_santa-fe.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "SANTA FE",
+      "slug": "santa-fe",
+      "origen": "barrio",
+      "segundos": 6.3
+    },
+    {
+      "clave": "venta_oficina_la-magdalena",
+      "etiqueta": "Venta - Oficina - LA MAGDALENA",
+      "archivo": "venta_oficina_la-magdalena.json",
+      "total": 4,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "LA MAGDALENA",
+      "slug": "la-magdalena",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "arriendo_oficina_la-magdalena",
+      "etiqueta": "Arriendo - Oficina - LA MAGDALENA",
+      "archivo": "arriendo_oficina_la-magdalena.json",
+      "total": 13,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "LA MAGDALENA",
+      "slug": "la-magdalena",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "venta_bodega_la-magdalena",
+      "etiqueta": "Venta - Bodega - LA MAGDALENA",
+      "archivo": "venta_bodega_la-magdalena.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "LA MAGDALENA",
+      "slug": "la-magdalena",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "arriendo_bodega_la-magdalena",
+      "etiqueta": "Arriendo - Bodega - LA MAGDALENA",
+      "archivo": "arriendo_bodega_la-magdalena.json",
+      "total": 49,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "LA MAGDALENA",
+      "slug": "la-magdalena",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "venta_edificio_la-magdalena",
+      "etiqueta": "Venta - Edificio - LA MAGDALENA",
+      "archivo": "venta_edificio_la-magdalena.json",
+      "total": 43,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "LA MAGDALENA",
+      "slug": "la-magdalena",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "arriendo_edificio_la-magdalena",
+      "etiqueta": "Arriendo - Edificio - LA MAGDALENA",
+      "archivo": "arriendo_edificio_la-magdalena.json",
+      "total": 49,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "LA MAGDALENA",
+      "slug": "la-magdalena",
+      "origen": "barrio",
+      "segundos": 9.0
+    },
+    {
+      "clave": "venta_local_la-magdalena",
+      "etiqueta": "Venta - Local - LA MAGDALENA",
+      "archivo": "venta_local_la-magdalena.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "LA MAGDALENA",
+      "slug": "la-magdalena",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "arriendo_local_la-magdalena",
+      "etiqueta": "Arriendo - Local - LA MAGDALENA",
+      "archivo": "arriendo_local_la-magdalena.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "LA MAGDALENA",
+      "slug": "la-magdalena",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "venta_lote_la-magdalena",
+      "etiqueta": "Venta - Lote - LA MAGDALENA",
+      "archivo": "venta_lote_la-magdalena.json",
+      "total": 6,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "LA MAGDALENA",
+      "slug": "la-magdalena",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "arriendo_lote_la-magdalena",
+      "etiqueta": "Arriendo - Lote - LA MAGDALENA",
+      "archivo": "arriendo_lote_la-magdalena.json",
+      "total": 13,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "LA MAGDALENA",
+      "slug": "la-magdalena",
+      "origen": "barrio",
+      "segundos": 8.8
     }
   ],
   "consolidados": {
