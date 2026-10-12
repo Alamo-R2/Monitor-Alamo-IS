@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.05 08:24",
+  "generado": "2026.OCT.12 22:24",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 499000000,
+      "area": 65.0,
+      "precioM2": 7676923,
+      "administracion": null,
+      "barrio": "TECHO",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-techo-bogota-3895218",
+      "titulo": "Apartamento en Techo",
+      "id_domus": "3895218",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "TECHO",
+      "zonaSlug": "techo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -63,38 +95,6 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-la-triguera-bogota-3889433",
       "titulo": "Apartamento en Techo",
       "id_domus": "3889433",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "TECHO",
-      "zonaSlug": "techo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 499000000,
-      "area": 65.0,
-      "precioM2": 7676923,
-      "administracion": null,
-      "barrio": "TECHO",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-techo-bogota-3895218",
-      "titulo": "Apartamento en Techo",
-      "id_domus": "3895218",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
