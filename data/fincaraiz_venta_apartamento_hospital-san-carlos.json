@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.09 11:33",
+  "generado": "2026.OCT.12 19:27",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 63.0,
+      "precioM2": 5555556,
+      "administracion": 262000.0,
+      "barrio": "GUSTAVO RESTREPO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gustavo-restrepo-bogota/194205983",
+      "titulo": "Apartamento en Venta en Gustavo restrepo, Bogotá",
+      "id_domus": "194205983",
+      "fechaPublicacion": "2026-09-03",
+      "lat": 4.5749277,
+      "lon": -74.1096608,
+      "location_type": "exacta",
+      "zonaConsulta": "HOSPITAL SAN CARLOS",
+      "zonaSlug": "hospital-san-carlos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-09-06",
       "lat": 4.5663032,
       "lon": -74.1062831,
-      "location_type": "exacta",
-      "zonaConsulta": "HOSPITAL SAN CARLOS",
-      "zonaSlug": "hospital-san-carlos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 350000000,
-      "area": 63.0,
-      "precioM2": 5555556,
-      "administracion": 262000.0,
-      "barrio": "GUSTAVO RESTREPO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gustavo-restrepo-bogota/194205983",
-      "titulo": "Apartamento en Venta en Gustavo restrepo, Bogotá",
-      "id_domus": "194205983",
-      "fechaPublicacion": "2026-09-03",
-      "lat": 4.5749277,
-      "lon": -74.1096608,
       "location_type": "exacta",
       "zonaConsulta": "HOSPITAL SAN CARLOS",
       "zonaSlug": "hospital-san-carlos",

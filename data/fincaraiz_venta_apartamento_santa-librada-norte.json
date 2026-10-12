@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.05 06:21",
+  "generado": "2026.OCT.12 19:27",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1999000000,
+      "area": 255.0,
+      "precioM2": 7839216,
+      "administracion": 2000000,
+      "barrio": "SANTA LIBRADA NORTE",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-librada-norte-bogota/193420802",
+      "titulo": "Apartamento en Venta en Santa librada norte, Bogotá",
+      "id_domus": "193420802",
+      "fechaPublicacion": "2026-02-20",
+      "lat": 4.5193389,
+      "lon": -74.1179618,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA LIBRADA NORTE",
+      "zonaSlug": "santa-librada-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2025-03-14",
       "lat": 4.5128049,
       "lon": -74.1107206,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA LIBRADA NORTE",
-      "zonaSlug": "santa-librada-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1999000000,
-      "area": 255.0,
-      "precioM2": 7839216,
-      "administracion": 2000000,
-      "barrio": "SANTA LIBRADA NORTE",
-      "upl": "Rafael Uribe",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 3,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-librada-norte-bogota/193420802",
-      "titulo": "Apartamento en Venta en Santa librada norte, Bogotá",
-      "id_domus": "193420802",
-      "fechaPublicacion": "2026-02-20",
-      "lat": 4.5193389,
-      "lon": -74.1179618,
       "location_type": "exacta",
       "zonaConsulta": "SANTA LIBRADA NORTE",
       "zonaSlug": "santa-librada-norte",

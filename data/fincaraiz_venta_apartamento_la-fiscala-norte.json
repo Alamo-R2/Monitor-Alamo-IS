@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.05 06:21",
+  "generado": "2026.OCT.12 19:27",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 190000000,
-      "area": 42.0,
-      "precioM2": 4523810,
-      "administracion": null,
-      "barrio": "LA FISCALA NORTE",
-      "upl": "Rafael Uribe",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-danubio-azul-bogota/194032299",
-      "titulo": "Apartamento en Venta en Danubio azul, Bogotá",
-      "id_domus": "194032299",
-      "fechaPublicacion": "2026-07-24",
-      "lat": 4.5382544,
-      "lon": -74.1157654,
-      "location_type": "exacta",
-      "zonaConsulta": "LA FISCALA NORTE",
-      "zonaSlug": "la-fiscala-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-07-27",
       "lat": 4.5350014429927,
       "lon": -74.111560003661,
+      "location_type": "exacta",
+      "zonaConsulta": "LA FISCALA NORTE",
+      "zonaSlug": "la-fiscala-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 190000000,
+      "area": 42.0,
+      "precioM2": 4523810,
+      "administracion": null,
+      "barrio": "LA FISCALA NORTE",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-danubio-azul-bogota/194032299",
+      "titulo": "Apartamento en Venta en Danubio azul, Bogotá",
+      "id_domus": "194032299",
+      "fechaPublicacion": "2026-07-24",
+      "lat": 4.5382544,
+      "lon": -74.1157654,
       "location_type": "exacta",
       "zonaConsulta": "LA FISCALA NORTE",
       "zonaSlug": "la-fiscala-norte",
