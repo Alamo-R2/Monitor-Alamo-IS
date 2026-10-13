@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "LA CABANA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.13 02:45",
+  "generado": "2026.OCT.13 19:58",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1135096,
+      "area": 59.0,
+      "precioM2": 19239,
+      "administracion": 164904.0,
+      "barrio": "PERDOMO ALTO",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-perdomo-alto-bogota/194386094",
+      "titulo": "Apartamento en Arriendo en Perdomo alto, Bogotá",
+      "id_domus": "194386094",
+      "fechaPublicacion": "2026-10-10",
+      "lat": 4.6747856,
+      "lon": -74.0999434,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CABANA",
+      "zonaSlug": "la-cabana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2800000,
       "area": 65.0,
       "precioM2": 43077,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
