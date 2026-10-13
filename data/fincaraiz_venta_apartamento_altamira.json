@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.09 19:07",
+  "generado": "2026.OCT.13 02:45",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 160000000,
-      "area": 44.0,
-      "precioM2": 3636364,
-      "administracion": 191300.0,
-      "barrio": "MARCO FIDEL SUAREZ",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-marco-fidel-suarez-bogota/194246646",
-      "titulo": "Apartamento en Venta en Marco fidel suarez, Bogotá",
-      "id_domus": "194246646",
-      "fechaPublicacion": "2026-09-12",
-      "lat": 4.5442885,
-      "lon": -74.0863544,
-      "location_type": "exacta",
-      "zonaConsulta": "ALTAMIRA",
-      "zonaSlug": "altamira",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2025-03-17",
       "lat": 4.542727,
       "lon": -74.0876705,
+      "location_type": "exacta",
+      "zonaConsulta": "ALTAMIRA",
+      "zonaSlug": "altamira",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 160000000,
+      "area": 44.0,
+      "precioM2": 3636364,
+      "administracion": 191300.0,
+      "barrio": "MARCO FIDEL SUAREZ",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-marco-fidel-suarez-bogota/194246646",
+      "titulo": "Apartamento en Venta en Marco fidel suarez, Bogotá",
+      "id_domus": "194246646",
+      "fechaPublicacion": "2026-09-12",
+      "lat": 4.5442885,
+      "lon": -74.0863544,
       "location_type": "exacta",
       "zonaConsulta": "ALTAMIRA",
       "zonaSlug": "altamira",

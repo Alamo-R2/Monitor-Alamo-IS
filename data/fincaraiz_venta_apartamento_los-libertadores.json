@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.06 01:58",
+  "generado": "2026.OCT.13 02:45",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 135000000,
+      "area": 42.0,
+      "precioM2": 3214286,
+      "administracion": null,
+      "barrio": "LOS LIBERTADORES",
+      "upl": "Usme - Entrenubes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-libertadores-bogota/192865567",
+      "titulo": "Apartamento en Venta en Los libertadores, Bogotá",
+      "id_domus": "192865567",
+      "fechaPublicacion": "2025-09-12",
+      "lat": 4.5286825195983,
+      "lon": -74.084007740021,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS LIBERTADORES",
+      "zonaSlug": "los-libertadores",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-09-21",
       "lat": 4.539004,
       "lon": -74.0891247,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS LIBERTADORES",
-      "zonaSlug": "los-libertadores",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 135000000,
-      "area": 42.0,
-      "precioM2": 3214286,
-      "administracion": null,
-      "barrio": "LOS LIBERTADORES",
-      "upl": "Usme - Entrenubes",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-libertadores-bogota/192865567",
-      "titulo": "Apartamento en Venta en Los libertadores, Bogotá",
-      "id_domus": "192865567",
-      "fechaPublicacion": "2025-09-12",
-      "lat": 4.5286825195983,
-      "lon": -74.084007740021,
       "location_type": "exacta",
       "zonaConsulta": "LOS LIBERTADORES",
       "zonaSlug": "los-libertadores",
