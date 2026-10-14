@@ -1,14 +1,78 @@
 {
   "ok": true,
-  "total": 20,
+  "total": 21,
   "zona": "NUEVA ZELANDIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 19:33",
+  "generado": "2026.OCT.14 00:42",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 650000000,
+      "area": 91.0,
+      "precioM2": 7142857,
+      "administracion": 516000.0,
+      "barrio": "NUEVA ZELANDIA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nueva-zelandia-bogota/193558438",
+      "titulo": "Apartamento en Venta en Nueva zelandia, Bogotá",
+      "id_domus": "193558438",
+      "fechaPublicacion": "2026-03-24",
+      "lat": 4.758993,
+      "lon": -74.0461317,
+      "location_type": "exacta",
+      "zonaConsulta": "NUEVA ZELANDIA",
+      "zonaSlug": "nueva-zelandia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 256800000,
+      "area": 40.0,
+      "precioM2": 6420000,
+      "administracion": 243000.0,
+      "barrio": "NUEVA ZELANDIA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nueva-zelandia-bogota/193977718",
+      "titulo": "Apartamento en Venta en Nueva zelandia, Bogotá",
+      "id_domus": "193977718",
+      "fechaPublicacion": "2026-07-10",
+      "lat": 4.7582032,
+      "lon": -74.0520952,
+      "location_type": "exacta",
+      "zonaConsulta": "NUEVA ZELANDIA",
+      "zonaSlug": "nueva-zelandia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -40,39 +104,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 255000000,
-      "area": 33.0,
-      "precioM2": 7727273,
-      "administracion": 200000.0,
+      "precio": 265000000,
+      "area": 40.0,
+      "precioM2": 6625000,
+      "administracion": 208000.0,
       "barrio": "NUEVA ZELANDIA",
       "upl": "Britalia",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
+      "habitaciones": 20,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 4.0,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-zona-norte-bogota/194268409",
-      "titulo": "Apartamento en Venta en Zona norte, Bogotá",
-      "id_domus": "194268409",
-      "fechaPublicacion": "2026-09-16",
-      "lat": 4.759064,
-      "lon": -74.0483721,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nueva-zelandia-bogota/194348526",
+      "titulo": "Apartamento en Venta en Nueva zelandia, Bogotá",
+      "id_domus": "194348526",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.7582032,
+      "lon": -74.0520951,
       "location_type": "exacta",
       "zonaConsulta": "NUEVA ZELANDIA",
       "zonaSlug": "nueva-zelandia",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -232,39 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 290000000,
-      "area": 40.0,
-      "precioM2": 7250000,
-      "administracion": 230000.0,
-      "barrio": "VILLA DEL PRADO",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-del-prado-bogota/193979036",
-      "titulo": "Apartamento en Venta en Villa del prado, Bogotá",
-      "id_domus": "193979036",
-      "fechaPublicacion": "2026-07-10",
-      "lat": 4.7582032,
-      "lon": -74.0520952,
-      "location_type": "exacta",
-      "zonaConsulta": "NUEVA ZELANDIA",
-      "zonaSlug": "nueva-zelandia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],

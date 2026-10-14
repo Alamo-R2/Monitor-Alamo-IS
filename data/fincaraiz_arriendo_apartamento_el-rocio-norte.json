@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 7,
   "zona": "EL ROCIO NORTE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.07 01:04",
+  "generado": "2026.OCT.14 00:42",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1450000,
-      "area": 29.0,
-      "precioM2": 50000,
-      "administracion": null,
-      "barrio": "EL REDIL",
-      "upl": "Toberín",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-redil-bogota/193950196",
-      "titulo": "Apartamento en Arriendo en El redil, Bogotá",
-      "id_domus": "193950196",
-      "fechaPublicacion": "2026-07-03",
-      "lat": 4.7593911,
-      "lon": -74.0292304,
-      "location_type": "exacta",
-      "zonaConsulta": "EL ROCIO NORTE",
-      "zonaSlug": "el-rocio-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +40,103 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 950000,
+      "area": 36.0,
+      "precioM2": 26389,
+      "administracion": null,
+      "barrio": "EL ROCIO NORTE",
+      "upl": "Toberín",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lagos-de-torca-bogota/194395627",
+      "titulo": "Apartamento en Arriendo en Lagos de Torca, Bogotá",
+      "id_domus": "194395627",
+      "fechaPublicacion": "2026-10-13",
+      "lat": 4.7592296,
+      "lon": -74.0306482,
+      "location_type": "exacta",
+      "zonaConsulta": "EL ROCIO NORTE",
+      "zonaSlug": "el-rocio-norte",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2200000,
+      "area": 42.0,
+      "precioM2": 52381,
+      "administracion": null,
+      "barrio": "EL ROCIO NORTE",
+      "upl": "Toberín",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lagos-de-torca-bogota/193890568",
+      "titulo": "Apartamento en Arriendo en Lagos de Torca, Bogotá",
+      "id_domus": "193890568",
+      "fechaPublicacion": "2026-06-18",
+      "lat": 4.760171,
+      "lon": -74.02787,
+      "location_type": "exacta",
+      "zonaConsulta": "EL ROCIO NORTE",
+      "zonaSlug": "el-rocio-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1450000,
+      "area": 29.0,
+      "precioM2": 50000,
+      "administracion": null,
+      "barrio": "EL REDIL",
+      "upl": "Toberín",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-redil-bogota/193950196",
+      "titulo": "Apartamento en Arriendo en El redil, Bogotá",
+      "id_domus": "193950196",
+      "fechaPublicacion": "2026-07-03",
+      "lat": 4.7593911,
+      "lon": -74.0292304,
+      "location_type": "exacta",
+      "zonaConsulta": "EL ROCIO NORTE",
+      "zonaSlug": "el-rocio-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -162,38 +226,6 @@
       "fechaPublicacion": "2026-08-11",
       "lat": 4.75864,
       "lon": -74.02797,
-      "location_type": "exacta",
-      "zonaConsulta": "EL ROCIO NORTE",
-      "zonaSlug": "el-rocio-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2200000,
-      "area": 42.0,
-      "precioM2": 52381,
-      "administracion": null,
-      "barrio": "EL ROCIO NORTE",
-      "upl": "Toberín",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lagos-de-torca-bogota/193890568",
-      "titulo": "Apartamento en Arriendo en Lagos de Torca, Bogotá",
-      "id_domus": "193890568",
-      "fechaPublicacion": "2026-06-18",
-      "lat": 4.760171,
-      "lon": -74.02787,
       "location_type": "exacta",
       "zonaConsulta": "EL ROCIO NORTE",
       "zonaSlug": "el-rocio-norte",
