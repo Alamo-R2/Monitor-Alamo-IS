@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 11,
+  "total": 10,
   "zona": "TORCA I",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.12 00:47",
+  "generado": "2026.OCT.14 05:34",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -238,38 +238,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 650000000,
-      "area": 72.0,
-      "precioM2": 9027778,
-      "administracion": null,
-      "barrio": "TORCA I",
-      "upl": "Cerros Orientales",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lagos-de-torca-bogota/193977619",
-      "titulo": "Apartamento en Venta en Lagos de Torca, Bogotá",
-      "id_domus": "193977619",
-      "fechaPublicacion": "2026-07-10",
-      "lat": 4.806792,
-      "lon": -74.036764,
-      "location_type": "exacta",
-      "zonaConsulta": "TORCA I",
-      "zonaSlug": "torca-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 279000000,
       "area": 42.0,
       "precioM2": 6642857,
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
