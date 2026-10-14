@@ -1,44 +1,12 @@
 {
   "ok": true,
-  "total": 21,
+  "total": 20,
   "zona": "BELLAVISTA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.10 18:06",
+  "generado": "2026.OCT.14 14:45",
   "inmuebles": [
-    {
-      "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 850000000,
-      "area": 110.0,
-      "precioM2": 7727273,
-      "administracion": 1500000,
-      "barrio": "LOS ROSALES",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-rosales-bogota/194289638",
-      "titulo": "Apartamento en Venta en Los rosales, Bogotá",
-      "id_domus": "194289638",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.6558142,
-      "lon": -74.0519926,
-      "location_type": "exacta",
-      "zonaConsulta": "BELLAVISTA",
-      "zonaSlug": "bellavista",
-      "origenZona": "barrio"
-    },
     {
       "id": "MI-2",
       "operacion": [
@@ -46,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1680000000,
-      "area": 210.0,
-      "precioM2": 8000000,
-      "administracion": 2140000,
+      "precio": 875000000,
+      "area": 160.0,
+      "precioM2": 5468750,
+      "administracion": null,
       "barrio": "BELLAVISTA",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 3,
-      "estrato": 6,
+      "banos": 3,
+      "parqueaderos": 1,
+      "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bellavista-bogota/194034085",
-      "titulo": "Apartamento en Venta en Bellavista, Bogotá",
-      "id_domus": "194034085",
-      "fechaPublicacion": "2026-07-25",
-      "lat": 4.655369,
-      "lon": -74.0522198,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/193373763",
+      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
+      "id_domus": "193373763",
+      "fechaPublicacion": "2026-02-09",
+      "lat": 4.651832,
+      "lon": -74.0506919,
       "location_type": "exacta",
       "zonaConsulta": "BELLAVISTA",
       "zonaSlug": "bellavista",
@@ -78,74 +46,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1550000000,
-      "area": 235.0,
-      "precioM2": 6595745,
-      "administracion": 1508000,
-      "barrio": "BELLAVISTA",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194225916",
-      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "194225916",
-      "fechaPublicacion": "2026-09-08",
-      "lat": 4.6564930003726,
-      "lon": -74.054385052117,
-      "location_type": "exacta",
-      "zonaConsulta": "BELLAVISTA",
-      "zonaSlug": "bellavista",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1350000000,
-      "area": 145.0,
-      "precioM2": 9310345,
-      "administracion": 2264000,
-      "barrio": "LOS ROSALES",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-rosales-bogota/194235413",
-      "titulo": "Apartamento en Venta en Los rosales, Bogotá",
-      "id_domus": "194235413",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.656121732973,
-      "lon": -74.048180251405,
-      "location_type": "exacta",
-      "zonaConsulta": "BELLAVISTA",
-      "zonaSlug": "bellavista",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 2200000000,
       "area": 239.0,
       "precioM2": 9205021,
-      "administracion": 1850000,
+      "administracion": 1850000.0,
       "barrio": "LOS ROSALES",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
@@ -168,39 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1440000000,
-      "area": 120.0,
-      "precioM2": 12000000,
-      "administracion": 2600000,
-      "barrio": "LOS ROSALES",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-rosales-bogota/194059095",
-      "titulo": "Apartamento en Venta en Los rosales, Bogotá",
-      "id_domus": "194059095",
-      "fechaPublicacion": "2026-07-31",
-      "lat": 4.655691908978,
-      "lon": -74.049014753685,
-      "location_type": "exacta",
-      "zonaConsulta": "BELLAVISTA",
-      "zonaSlug": "bellavista",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -209,7 +81,7 @@
       "precio": 2500000000,
       "area": 255.0,
       "precioM2": 9803922,
-      "administracion": 2400000,
+      "administracion": 2400000.0,
       "barrio": "LOS ROSALES",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
@@ -232,39 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3300000000,
-      "area": 303.0,
-      "precioM2": 10891089,
-      "administracion": 2500000,
-      "barrio": "BELLAVISTA",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 5,
-      "parqueaderos": 3,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194255675",
-      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "194255675",
-      "fechaPublicacion": "2026-09-14",
-      "lat": 4.6527646,
-      "lon": -74.051552,
-      "location_type": "exacta",
-      "zonaConsulta": "BELLAVISTA",
-      "zonaSlug": "bellavista",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -273,7 +113,7 @@
       "precio": 1690000000,
       "area": 242.0,
       "precioM2": 6983471,
-      "administracion": 2381000,
+      "administracion": 2381000.0,
       "barrio": "LOS ROSALES",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
@@ -296,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -305,7 +145,7 @@
       "precio": 980000000,
       "area": 133.0,
       "precioM2": 7368421,
-      "administracion": 200000,
+      "administracion": 200000.0,
       "barrio": "LOS ROSALES",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
@@ -328,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -337,7 +177,7 @@
       "precio": 2070000000,
       "area": 182.0,
       "precioM2": 11373626,
-      "administracion": 1800000,
+      "administracion": 1800000.0,
       "barrio": "LOS ROSALES",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
@@ -360,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -369,7 +209,7 @@
       "precio": 690000000,
       "area": 110.0,
       "precioM2": 6272727,
-      "administracion": 1050000,
+      "administracion": 1050000.0,
       "barrio": "LOS ROSALES",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
@@ -392,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -401,7 +241,7 @@
       "precio": 1850000000,
       "area": 213.0,
       "precioM2": 8685446,
-      "administracion": 1500000,
+      "administracion": 1500000.0,
       "barrio": "LOS ROSALES",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
@@ -424,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -433,7 +273,7 @@
       "precio": 1195000000,
       "area": 139.0,
       "precioM2": 8597122,
-      "administracion": 1241000,
+      "administracion": 1241000.0,
       "barrio": "BELLAVISTA",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
@@ -456,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -465,7 +305,7 @@
       "precio": 1466000000,
       "area": 76.0,
       "precioM2": 19289474,
-      "administracion": 1596000,
+      "administracion": 1596000.0,
       "barrio": "LA CABRERA",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
@@ -488,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -497,7 +337,7 @@
       "precio": 419000000,
       "area": 45.0,
       "precioM2": 9311111,
-      "administracion": 781000,
+      "administracion": 781000.0,
       "barrio": "LOS ROSALES",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
@@ -520,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -529,7 +369,7 @@
       "precio": 1900000000,
       "area": 352.0,
       "precioM2": 5397727,
-      "administracion": 3084000,
+      "administracion": 3084000.0,
       "barrio": "LOS ROSALES",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
@@ -552,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -561,7 +401,7 @@
       "precio": 2600000000,
       "area": 374.0,
       "precioM2": 6951872,
-      "administracion": 3023000,
+      "administracion": 3023000.0,
       "barrio": "LOS ROSALES",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
@@ -584,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -593,7 +433,7 @@
       "precio": 1500000000,
       "area": 161.0,
       "precioM2": 9316770,
-      "administracion": 1438000,
+      "administracion": 1438000.0,
       "barrio": "LOS ROSALES",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
@@ -616,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -625,7 +465,7 @@
       "precio": 2950000000,
       "area": 310.0,
       "precioM2": 9516129,
-      "administracion": 1151000,
+      "administracion": 1151000.0,
       "barrio": "BELLAVISTA",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
@@ -648,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -657,7 +497,7 @@
       "precio": 800000000,
       "area": 82.0,
       "precioM2": 9756098,
-      "administracion": 1700000,
+      "administracion": 1700000.0,
       "barrio": "LOS ROSALES",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
@@ -674,6 +514,134 @@
       "fechaPublicacion": "2026-09-21",
       "lat": 4.654593553215,
       "lon": -74.0517430069,
+      "location_type": "exacta",
+      "zonaConsulta": "BELLAVISTA",
+      "zonaSlug": "bellavista",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3300000000,
+      "area": 287.0,
+      "precioM2": 11498258,
+      "administracion": 2364000.0,
+      "barrio": "LOS ROSALES",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 3,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-rosales-bogota/194344466",
+      "titulo": "Apartamento en Venta en Los rosales, Bogotá",
+      "id_domus": "194344466",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.6525069115,
+      "lon": -74.051092040749,
+      "location_type": "exacta",
+      "zonaConsulta": "BELLAVISTA",
+      "zonaSlug": "bellavista",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1250000000,
+      "area": 178.0,
+      "precioM2": 7022472,
+      "administracion": null,
+      "barrio": "LOS ROSALES",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 1,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-rosales-bogota/193807557",
+      "titulo": "Apartamento en Venta en Los rosales, Bogotá",
+      "id_domus": "193807557",
+      "fechaPublicacion": "2026-05-27",
+      "lat": 4.6590195258756,
+      "lon": -74.050162537485,
+      "location_type": "exacta",
+      "zonaConsulta": "BELLAVISTA",
+      "zonaSlug": "bellavista",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3800000000,
+      "area": 420.0,
+      "precioM2": 9047619,
+      "administracion": 2584000.0,
+      "barrio": "LOS ROSALES",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 5,
+      "banos": 5,
+      "parqueaderos": 4,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-rosales-bogota/194287675",
+      "titulo": "Apartamento en Venta en Los rosales, Bogotá",
+      "id_domus": "194287675",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.654615211605,
+      "lon": -74.050597759919,
+      "location_type": "exacta",
+      "zonaConsulta": "BELLAVISTA",
+      "zonaSlug": "bellavista",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1100000000,
+      "area": 112.0,
+      "precioM2": 9821429,
+      "administracion": 1330000.0,
+      "barrio": "LOS ROSALES",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 2,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-rosales-bogota/194318555",
+      "titulo": "Apartamento en Venta en Los rosales, Bogotá",
+      "id_domus": "194318555",
+      "fechaPublicacion": "2026-09-25",
+      "lat": 4.6505341981711,
+      "lon": -74.04840040952,
       "location_type": "exacta",
       "zonaConsulta": "BELLAVISTA",
       "zonaSlug": "bellavista",

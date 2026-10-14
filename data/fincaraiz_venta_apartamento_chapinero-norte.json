@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.10 18:06",
+  "generado": "2026.OCT.14 14:45",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 550000000,
+      "area": 60.0,
+      "precioM2": 9166667,
+      "administracion": 634500.0,
+      "barrio": "CHAPINERO NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-alto-bogota/193668084",
+      "titulo": "Apartamento en Venta en Chapinero Alto, Bogotá",
+      "id_domus": "193668084",
+      "fechaPublicacion": "2026-04-23",
+      "lat": 4.646566,
+      "lon": -74.059776,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO NORTE",
+      "zonaSlug": "chapinero-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,64 +168,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 680000000,
-      "area": 128.0,
-      "precioM2": 5312500,
-      "administracion": 720000.0,
-      "barrio": "CHAPINERO NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194118283",
-      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "194118283",
-      "fechaPublicacion": "2026-08-14",
-      "lat": 4.6486387200951,
-      "lon": -74.05936925173,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO NORTE",
-      "zonaSlug": "chapinero-norte",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-6",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 435000000,
-      "area": 78.0,
-      "precioM2": 5576923,
-      "administracion": 250000.0,
+      "precio": 950000000,
+      "area": 145.0,
+      "precioM2": 6551724,
+      "administracion": 999000.0,
       "barrio": "CHAPINERO NORTE",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-norte-bogota/194201451",
-      "titulo": "Apartamento en Venta en Chapinero norte, Bogotá",
-      "id_domus": "194201451",
-      "fechaPublicacion": "2026-09-02",
-      "lat": 4.630857503335,
-      "lon": -74.06227995365,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-alto-bogota/194227756",
+      "titulo": "Apartamento en Venta en Chapinero Alto, Bogotá",
+      "id_domus": "194227756",
+      "fechaPublicacion": "2026-09-08",
+      "lat": 4.6486092,
+      "lon": -74.060024,
       "location_type": "exacta",
       "zonaConsulta": "CHAPINERO NORTE",
       "zonaSlug": "chapinero-norte",
@@ -206,26 +206,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 570000000,
-      "area": 110.0,
-      "precioM2": 5181818,
-      "administracion": 400000.0,
+      "precio": 950000000,
+      "area": 145.0,
+      "precioM2": 6551724,
+      "administracion": 999000.0,
       "barrio": "CHAPINERO NORTE",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
+      "habitaciones": 3,
+      "banos": 3,
       "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/193577136",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194317773",
       "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "193577136",
-      "fechaPublicacion": "2026-03-29",
-      "lat": 4.6499879,
-      "lon": -74.0622785,
+      "id_domus": "194317773",
+      "fechaPublicacion": "2026-09-25",
+      "lat": 4.6486092,
+      "lon": -74.060024,
       "location_type": "exacta",
       "zonaConsulta": "CHAPINERO NORTE",
       "zonaSlug": "chapinero-norte",
@@ -233,38 +233,6 @@
     },
     {
       "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 530000000,
-      "area": 60.0,
-      "precioM2": 8833333,
-      "administracion": 634500.0,
-      "barrio": "CHAPINERO NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-alto-bogota/193668084",
-      "titulo": "Apartamento en Venta en Chapinero Alto, Bogotá",
-      "id_domus": "193668084",
-      "fechaPublicacion": "2026-04-23",
-      "lat": 4.646566,
-      "lon": -74.059776,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO NORTE",
-      "zonaSlug": "chapinero-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,71 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1100000000,
-      "area": 120.0,
-      "precioM2": 9166667,
-      "administracion": 1022000.0,
-      "barrio": "CHAPINERO NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194118305",
-      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "194118305",
-      "fechaPublicacion": "2026-08-14",
-      "lat": 4.6464759222741,
-      "lon": -74.059737694142,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO NORTE",
-      "zonaSlug": "chapinero-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 500000000,
-      "area": 52.0,
-      "precioM2": 9615385,
-      "administracion": 450000.0,
-      "barrio": "CHAPINERO NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-norte-bogota/192033271",
-      "titulo": "Apartamento en  Venta en Chapinero norte, Bogotá",
-      "id_domus": "192033271",
-      "fechaPublicacion": "2025-02-17",
-      "lat": 4.6402512,
-      "lon": -74.0546099,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO NORTE",
-      "zonaSlug": "chapinero-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -520,39 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 980000000,
-      "area": 274.0,
-      "precioM2": 3576642,
-      "administracion": 720000.0,
-      "barrio": "LOURDES",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lourdes-bogota/193192682",
-      "titulo": "Apartamento en Venta en Lourdes, Bogotá",
-      "id_domus": "193192682",
-      "fechaPublicacion": "2025-12-11",
-      "lat": 4.6487717,
-      "lon": -74.0602206,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO NORTE",
-      "zonaSlug": "chapinero-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +546,134 @@
       "fechaPublicacion": "2026-08-01",
       "lat": 4.6509323,
       "lon": -74.0647912,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO NORTE",
+      "zonaSlug": "chapinero-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1380000000,
+      "area": 228.0,
+      "precioM2": 6052632,
+      "administracion": 1400000.0,
+      "barrio": "CHAPINERO NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194345418",
+      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
+      "id_domus": "194345418",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.649483,
+      "lon": -74.0598923,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO NORTE",
+      "zonaSlug": "chapinero-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 278000000,
+      "area": 28.0,
+      "precioM2": 9928571,
+      "administracion": 218000.0,
+      "barrio": "CHAPINERO NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194368499",
+      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
+      "id_domus": "194368499",
+      "fechaPublicacion": "2026-10-07",
+      "lat": 4.6527948,
+      "lon": -74.0629014,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO NORTE",
+      "zonaSlug": "chapinero-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 271360000,
+      "area": 26.0,
+      "precioM2": 10436923,
+      "administracion": null,
+      "barrio": "CHAPINERO NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-norte-bogota/194262828",
+      "titulo": "Apartamento en Venta en Chapinero norte, Bogotá",
+      "id_domus": "194262828",
+      "fechaPublicacion": "2026-09-16",
+      "lat": 4.6467116,
+      "lon": -74.0677043,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO NORTE",
+      "zonaSlug": "chapinero-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 340000000,
+      "area": 54.0,
+      "precioM2": 6296296,
+      "administracion": 493000.0,
+      "barrio": "CHAPINERO NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194041078",
+      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
+      "id_domus": "194041078",
+      "fechaPublicacion": "2026-07-27",
+      "lat": 4.6494049,
+      "lon": -74.0601949,
       "location_type": "exacta",
       "zonaConsulta": "CHAPINERO NORTE",
       "zonaSlug": "chapinero-norte",

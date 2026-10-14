@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 21:08",
+  "generado": "2026.OCT.14 14:45",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 365000000,
+      "area": 34.0,
+      "precioM2": 10735294,
+      "administracion": 525000,
+      "barrio": "SIBERIA CENTRAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-alto-bogota/194293959",
+      "titulo": "Apartamento en Venta en Chapinero Alto, Bogotá",
+      "id_domus": "194293959",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.6358958,
+      "lon": -74.0602999,
+      "location_type": "exacta",
+      "zonaConsulta": "SIBERIA CENTRAL",
+      "zonaSlug": "siberia-central",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-10-06",
       "lat": 4.637189714049,
       "lon": -74.059043998607,
-      "location_type": "exacta",
-      "zonaConsulta": "SIBERIA CENTRAL",
-      "zonaSlug": "siberia-central",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 435000000,
-      "area": 78.0,
-      "precioM2": 5576923,
-      "administracion": 250000,
-      "barrio": "CHAPINERO NORTE",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2.0,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-norte-bogota/194201451",
-      "titulo": "Apartamento en Venta en Chapinero norte, Bogotá",
-      "id_domus": "194201451",
-      "fechaPublicacion": "2026-09-02",
-      "lat": 4.630857503335,
-      "lon": -74.06227995365,
       "location_type": "exacta",
       "zonaConsulta": "SIBERIA CENTRAL",
       "zonaSlug": "siberia-central",
@@ -174,6 +174,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 299000000,
+      "area": 32.0,
+      "precioM2": 9343750,
+      "administracion": 446000,
+      "barrio": "PARDO RUBIO",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pardo-rubio-bogota/194188216",
+      "titulo": "Apartamento en Venta en Pardo rubio, Bogotá",
+      "id_domus": "194188216",
+      "fechaPublicacion": "2026-08-31",
+      "lat": 4.6320119,
+      "lon": -74.0617796,
+      "location_type": "exacta",
+      "zonaConsulta": "SIBERIA CENTRAL",
+      "zonaSlug": "siberia-central",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 435000000,
+      "area": 78.0,
+      "precioM2": 5576923,
+      "administracion": 250000,
+      "barrio": "CHAPINERO NORTE",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2.0,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-norte-bogota/194201451",
+      "titulo": "Apartamento en Venta en Chapinero norte, Bogotá",
+      "id_domus": "194201451",
+      "fechaPublicacion": "2026-09-02",
+      "lat": 4.630857503335,
+      "lon": -74.06227995365,
+      "location_type": "exacta",
+      "zonaConsulta": "SIBERIA CENTRAL",
+      "zonaSlug": "siberia-central",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 435000000,
       "area": 78.0,
       "precioM2": 5576923,
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -290,70 +354,6 @@
       "fechaPublicacion": "2026-07-31",
       "lat": 4.6321366,
       "lon": -74.0606555,
-      "location_type": "exacta",
-      "zonaConsulta": "SIBERIA CENTRAL",
-      "zonaSlug": "siberia-central",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 299000000,
-      "area": 32.0,
-      "precioM2": 9343750,
-      "administracion": 446000,
-      "barrio": "PARDO RUBIO",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pardo-rubio-bogota/194188216",
-      "titulo": "Apartamento en Venta en Pardo rubio, Bogotá",
-      "id_domus": "194188216",
-      "fechaPublicacion": "2026-08-31",
-      "lat": 4.6320119,
-      "lon": -74.0617796,
-      "location_type": "exacta",
-      "zonaConsulta": "SIBERIA CENTRAL",
-      "zonaSlug": "siberia-central",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 365000000,
-      "area": 34.0,
-      "precioM2": 10735294,
-      "administracion": 525000,
-      "barrio": "SIBERIA CENTRAL",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-alto-bogota/194293959",
-      "titulo": "Apartamento en Venta en Chapinero Alto, Bogotá",
-      "id_domus": "194293959",
-      "fechaPublicacion": "2026-09-22",
-      "lat": 4.6358958,
-      "lon": -74.0602999,
       "location_type": "exacta",
       "zonaConsulta": "SIBERIA CENTRAL",
       "zonaSlug": "siberia-central",

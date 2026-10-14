@@ -5,10 +5,74 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.10 18:06",
+  "generado": "2026.OCT.14 14:45",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 42.0,
+      "precioM2": 47619,
+      "administracion": 350000.0,
+      "barrio": "CHAPINERO NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194288117",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194288117",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.6501375,
+      "lon": -74.0584269,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO NORTE",
+      "zonaSlug": "chapinero-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4093000,
+      "area": 106.0,
+      "precioM2": 38613,
+      "administracion": 757000.0,
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-central-bogota/194362746",
+      "titulo": "Apartamento en Arriendo en Chapinero central, Bogotá",
+      "id_domus": "194362746",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.647289,
+      "lon": -74.060902,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO NORTE",
+      "zonaSlug": "chapinero-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -72,39 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 12000000,
-      "area": 321.0,
-      "precioM2": 37383,
-      "administracion": null,
-      "barrio": "CHAPINERO NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-norte-bogota/194138583",
-      "titulo": "Apartamento en Arriendo en Chapinero norte, Bogotá",
-      "id_domus": "194138583",
-      "fechaPublicacion": "2026-08-20",
-      "lat": 4.653625225021,
-      "lon": -74.057731849168,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO NORTE",
-      "zonaSlug": "chapinero-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-10-08",
       "lat": 4.6524057,
       "lon": -74.0623703,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO NORTE",
-      "zonaSlug": "chapinero-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2100000,
-      "area": 42.0,
-      "precioM2": 50000,
-      "administracion": 300000.0,
-      "barrio": "CHAPINERO NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194288117",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194288117",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.6501375,
-      "lon": -74.0584269,
       "location_type": "exacta",
       "zonaConsulta": "CHAPINERO NORTE",
       "zonaSlug": "chapinero-norte",
@@ -206,38 +206,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3350000,
-      "area": 90.0,
-      "precioM2": 37222,
-      "administracion": 650000.0,
-      "barrio": "CHAPINERO NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-alto-bogota/194281920",
-      "titulo": "Apartamento en Arriendo en Chapinero Alto, Bogotá",
-      "id_domus": "194281920",
-      "fechaPublicacion": "2026-09-19",
-      "lat": 4.6501071258216,
-      "lon": -74.058215618134,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO NORTE",
-      "zonaSlug": "chapinero-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 3600000,
       "area": 85.0,
       "precioM2": 42353,
@@ -264,39 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4093000,
-      "area": 106.0,
-      "precioM2": 38613,
-      "administracion": 757000.0,
-      "barrio": "CHAPINERO CENTRAL",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-central-bogota/194362746",
-      "titulo": "Apartamento en Arriendo en Chapinero central, Bogotá",
-      "id_domus": "194362746",
-      "fechaPublicacion": "2026-10-06",
-      "lat": 4.647289,
-      "lon": -74.060902,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO NORTE",
-      "zonaSlug": "chapinero-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -392,39 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2600000,
-      "area": 29.0,
-      "precioM2": 89655,
+      "precio": 6600000,
+      "area": 130.0,
+      "precioM2": 50769,
       "administracion": null,
       "barrio": "CHAPINERO NORTE",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 3,
+      "banos": 3,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-norte-bogota/193586807",
-      "titulo": "Apartamento en Arriendo en Chapinero norte, Bogotá",
-      "id_domus": "193586807",
-      "fechaPublicacion": "2026-04-01",
-      "lat": 4.64216892358,
-      "lon": -74.062617828167,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194386746",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194386746",
+      "fechaPublicacion": "2026-10-10",
+      "lat": 4.6501365,
+      "lon": -74.0618094,
       "location_type": "exacta",
       "zonaConsulta": "CHAPINERO NORTE",
       "zonaSlug": "chapinero-norte",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -648,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -674,6 +610,70 @@
       "fechaPublicacion": "2026-06-19",
       "lat": 4.65289,
       "lon": -74.06293,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO NORTE",
+      "zonaSlug": "chapinero-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3000000,
+      "area": 50.0,
+      "precioM2": 60000,
+      "administracion": null,
+      "barrio": "CHAPINERO NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194125994",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194125994",
+      "fechaPublicacion": "2026-08-17",
+      "lat": 4.6527343,
+      "lon": -74.0628522,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO NORTE",
+      "zonaSlug": "chapinero-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 8000000,
+      "area": 148.0,
+      "precioM2": 54054,
+      "administracion": 1780000.0,
+      "barrio": "CHAPINERO NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-norte-bogota/193987217",
+      "titulo": "Apartamento en Arriendo en Chapinero norte, Bogotá",
+      "id_domus": "193987217",
+      "fechaPublicacion": "2026-07-14",
+      "lat": 4.65249000101,
+      "lon": -74.063509997941,
       "location_type": "exacta",
       "zonaConsulta": "CHAPINERO NORTE",
       "zonaSlug": "chapinero-norte",
