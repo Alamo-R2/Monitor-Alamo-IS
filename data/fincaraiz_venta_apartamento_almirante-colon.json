@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 20,
+  "total": 21,
   "zona": "ALMIRANTE COLON",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 11:40",
+  "generado": "2026.OCT.14 21:02",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,10 +14,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 275000000,
-      "area": 56.0,
-      "precioM2": 4910714,
-      "administracion": 140000.0,
+      "precio": 310000000,
+      "area": 55.0,
+      "precioM2": 5636364,
+      "administracion": 330000.0,
       "barrio": "ALMIRANTE COLON",
       "upl": "Niza",
       "ciudad": "Bogotá",
@@ -28,12 +28,12 @@
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cerros-de-suba-bogota/194054261",
-      "titulo": "Apartamento en Venta en Cerros de Suba, Bogotá",
-      "id_domus": "194054261",
-      "fechaPublicacion": "2026-07-30",
-      "lat": 4.7167238,
-      "lon": -74.0901203,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/194318023",
+      "titulo": "Apartamento en Venta en Suba, Bogotá",
+      "id_domus": "194318023",
+      "fechaPublicacion": "2026-09-25",
+      "lat": 4.7155245,
+      "lon": -74.0889411,
       "location_type": "exacta",
       "zonaConsulta": "ALMIRANTE COLON",
       "zonaSlug": "almirante-colon",
@@ -72,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +98,38 @@
       "fechaPublicacion": "2025-01-30",
       "lat": 4.7120188,
       "lon": -74.0826774,
+      "location_type": "exacta",
+      "zonaConsulta": "ALMIRANTE COLON",
+      "zonaSlug": "almirante-colon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 269000000,
+      "area": 56.0,
+      "precioM2": 4803571,
+      "administracion": 140000.0,
+      "barrio": "ALMIRANTE COLON",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cerros-de-suba-bogota/194054261",
+      "titulo": "Apartamento en Venta en Cerros de Suba, Bogotá",
+      "id_domus": "194054261",
+      "fechaPublicacion": "2026-07-30",
+      "lat": 4.7167238,
+      "lon": -74.0901203,
       "location_type": "exacta",
       "zonaConsulta": "ALMIRANTE COLON",
       "zonaSlug": "almirante-colon",
@@ -494,38 +526,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 370000000,
-      "area": 65.0,
-      "precioM2": 5692308,
-      "administracion": null,
-      "barrio": "ALMIRANTE COLON",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/193115723",
-      "titulo": "Apartamento en Venta en Suba, Bogotá",
-      "id_domus": "193115723",
-      "fechaPublicacion": "2025-11-19",
-      "lat": 4.71935,
-      "lon": -74.089737,
-      "location_type": "exacta",
-      "zonaConsulta": "ALMIRANTE COLON",
-      "zonaSlug": "almirante-colon",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1689000000,
       "area": 192.0,
       "precioM2": 8796875,
@@ -552,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -642,6 +642,38 @@
       "fechaPublicacion": "2026-09-15",
       "lat": 4.715466,
       "lon": -74.0889201,
+      "location_type": "exacta",
+      "zonaConsulta": "ALMIRANTE COLON",
+      "zonaSlug": "almirante-colon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000000,
+      "area": 192.0,
+      "precioM2": 8333333,
+      "administracion": 1934000.0,
+      "barrio": "ALMIRANTE COLON",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 3.0,
+      "estrato": 6.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lindaraja-bogota/193906520",
+      "titulo": "Apartamento en Venta en Lindaraja, Bogotá",
+      "id_domus": "193906520",
+      "fechaPublicacion": "2026-06-23",
+      "lat": 4.7162178,
+      "lon": -74.0826598,
       "location_type": "exacta",
       "zonaConsulta": "ALMIRANTE COLON",
       "zonaSlug": "almirante-colon",

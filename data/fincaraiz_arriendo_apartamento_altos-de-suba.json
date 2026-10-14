@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 8,
   "zona": "ALTOS DE SUBA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 19:33",
+  "generado": "2026.OCT.14 21:02",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3150000,
-      "area": 116.0,
-      "precioM2": 27155,
-      "administracion": 894000.0,
-      "barrio": "ALTOS DE SUBA",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 4,
-      "parqueaderos": 1.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/193909078",
-      "titulo": "Apartamento en Arriendo en Bogotá",
-      "id_domus": "193909078",
-      "fechaPublicacion": "2026-06-23",
-      "lat": 4.733374,
-      "lon": -74.077007,
-      "location_type": "exacta",
-      "zonaConsulta": "ALTOS DE SUBA",
-      "zonaSlug": "altos-de-suba",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-06-03",
       "lat": 4.7264019,
       "lon": -74.0752202,
+      "location_type": "exacta",
+      "zonaConsulta": "ALTOS DE SUBA",
+      "zonaSlug": "altos-de-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3150000,
+      "area": 116.0,
+      "precioM2": 27155,
+      "administracion": 894000.0,
+      "barrio": "ALTOS DE SUBA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 4,
+      "parqueaderos": 1.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/193909078",
+      "titulo": "Apartamento en Arriendo en Bogotá",
+      "id_domus": "193909078",
+      "fechaPublicacion": "2026-06-23",
+      "lat": 4.733374,
+      "lon": -74.077007,
       "location_type": "exacta",
       "zonaConsulta": "ALTOS DE SUBA",
       "zonaSlug": "altos-de-suba",
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 4500000,
+      "area": 116.0,
+      "precioM2": 38793,
+      "administracion": null,
+      "barrio": "ALTOS DE SUBA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 4,
+      "parqueaderos": 1.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-colina-campestre-bogota/194382606",
+      "titulo": "Apartamento en Arriendo en Colina Campestre, Bogotá",
+      "id_domus": "194382606",
+      "fechaPublicacion": "2026-10-09",
+      "lat": 4.734928051352,
+      "lon": -74.074069854838,
+      "location_type": "exacta",
+      "zonaConsulta": "ALTOS DE SUBA",
+      "zonaSlug": "altos-de-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 8000000,
       "area": 195.0,
       "precioM2": 41026,
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],

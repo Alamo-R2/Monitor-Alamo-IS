@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 20,
+  "total": 21,
   "zona": "LA CAROLINA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 01:24",
+  "generado": "2026.OCT.14 21:02",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1480000000,
-      "area": 208.0,
-      "precioM2": 7115385,
-      "administracion": 1000000,
-      "barrio": "SANTA BARBARA CENTRAL",
+      "precio": 1080000000,
+      "area": 131.0,
+      "precioM2": 8244275,
+      "administracion": 1471000.0,
+      "barrio": "LA CAROLINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 4,
-      "parqueaderos": 3,
+      "parqueaderos": 2,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-barbara-central-bogota/194048436",
-      "titulo": "Apartamento en Venta en Santa barbara central, Bogotá",
-      "id_domus": "194048436",
-      "fechaPublicacion": "2026-07-29",
-      "lat": 4.7035175,
-      "lon": -74.0353056,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-carolina-bogota/194401712",
+      "titulo": "Apartamento en Venta en La carolina, Bogotá",
+      "id_domus": "194401712",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.7049055,
+      "lon": -74.0419032,
       "location_type": "exacta",
       "zonaConsulta": "LA CAROLINA",
       "zonaSlug": "la-carolina",
@@ -46,10 +46,74 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 3600000000,
+      "area": 500.0,
+      "precioM2": 7200000,
+      "administracion": 2500000.0,
+      "barrio": "LA CAROLINA",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 5,
+      "banos": 4,
+      "parqueaderos": 2,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-recodo-del-country-bogota/193305475",
+      "titulo": "Apartamento en Venta en Recodo Del Country, Bogotá",
+      "id_domus": "193305475",
+      "fechaPublicacion": "2026-01-22",
+      "lat": 4.7056168,
+      "lon": -74.0369074,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CAROLINA",
+      "zonaSlug": "la-carolina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 620000000,
+      "area": 78.0,
+      "precioM2": 7948718,
+      "administracion": null,
+      "barrio": "LA CAROLINA",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-carolina-bogota/194105369",
+      "titulo": "Apartamento en Venta en La carolina, Bogotá",
+      "id_domus": "194105369",
+      "fechaPublicacion": "2026-08-11",
+      "lat": 4.706878,
+      "lon": -74.041655,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CAROLINA",
+      "zonaSlug": "la-carolina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 850000000,
       "area": 96.0,
       "precioM2": 8854167,
-      "administracion": 1200000,
+      "administracion": 1200000.0,
       "barrio": "LA CAROLINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -81,7 +145,7 @@
       "precio": 2050000000,
       "area": 313.0,
       "precioM2": 6549521,
-      "administracion": 2100000,
+      "administracion": 2100000.0,
       "barrio": "LA CAROLINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -104,39 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2500000000,
-      "area": 292.0,
-      "precioM2": 8561644,
-      "administracion": 1720000,
-      "barrio": "LA CAROLINA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 6,
-      "parqueaderos": 3,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-carolina-bogota/194355266",
-      "titulo": "Apartamento en Venta en La carolina, Bogotá",
-      "id_domus": "194355266",
-      "fechaPublicacion": "2026-10-04",
-      "lat": 4.7060961285284,
-      "lon": -74.037165637246,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CAROLINA",
-      "zonaSlug": "la-carolina",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -145,7 +177,7 @@
       "precio": 850000000,
       "area": 155.0,
       "precioM2": 5483871,
-      "administracion": 1500000,
+      "administracion": 1500000.0,
       "barrio": "LA CAROLINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -177,7 +209,7 @@
       "precio": 800000000,
       "area": 98.0,
       "precioM2": 8163265,
-      "administracion": 1287000,
+      "administracion": 1287000.0,
       "barrio": "LA CAROLINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -200,7 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1250000000,
+      "area": 156.0,
+      "precioM2": 8012821,
+      "administracion": 1300000.0,
+      "barrio": "LA CAROLINA",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-carolina-bogota/194025657",
+      "titulo": "Apartamento en Venta en La carolina, Bogotá",
+      "id_domus": "194025657",
+      "fechaPublicacion": "2026-07-23",
+      "lat": 4.7070526,
+      "lon": -74.041122,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CAROLINA",
+      "zonaSlug": "la-carolina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -209,7 +273,7 @@
       "precio": 850000000,
       "area": 92.0,
       "precioM2": 9239130,
-      "administracion": 641000,
+      "administracion": 641000.0,
       "barrio": "COUNTRY CLUB",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -232,39 +296,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1150000000,
-      "area": 163.0,
-      "precioM2": 7055215,
-      "administracion": 1400000,
+      "precio": 2100000000,
+      "area": 280.0,
+      "precioM2": 7500000,
+      "administracion": 1926000.0,
       "barrio": "LA CAROLINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 4,
       "banos": 4,
-      "parqueaderos": 2,
+      "parqueaderos": 3,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-carolina-bogota/194040838",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-carolina-bogota/193638271",
       "titulo": "Apartamento en Venta en La carolina, Bogotá",
-      "id_domus": "194040838",
-      "fechaPublicacion": "2026-07-27",
-      "lat": 4.706291614429,
-      "lon": -74.039677145909,
+      "id_domus": "193638271",
+      "fechaPublicacion": "2026-04-16",
+      "lat": 4.7048772006182,
+      "lon": -74.042572975159,
       "location_type": "exacta",
       "zonaConsulta": "LA CAROLINA",
       "zonaSlug": "la-carolina",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -273,7 +337,7 @@
       "precio": 2980000000,
       "area": 363.0,
       "precioM2": 8209366,
-      "administracion": 1963000,
+      "administracion": 1963000.0,
       "barrio": "LA CAROLINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -296,7 +360,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000000,
+      "area": 200.0,
+      "precioM2": 6000000,
+      "administracion": 1550000.0,
+      "barrio": "SANTA BARBARA",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-barbara-bogota/3804222",
+      "titulo": "Apartamento en venta en Santa Barbara, Bogotá",
+      "id_domus": "3804222",
+      "fechaPublicacion": "2018-07-25",
+      "lat": 4.70458984375,
+      "lon": -74.0408020019531,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CAROLINA",
+      "zonaSlug": "la-carolina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -305,7 +401,7 @@
       "precio": 700000000,
       "area": 108.0,
       "precioM2": 6481481,
-      "administracion": 1520000,
+      "administracion": 1520000.0,
       "barrio": "LA CAROLINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -328,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -337,7 +433,7 @@
       "precio": 695000000,
       "area": 110.0,
       "precioM2": 6318182,
-      "administracion": 1017000,
+      "administracion": 1017000.0,
       "barrio": "LA CAROLINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -360,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -369,7 +465,7 @@
       "precio": 2800000000,
       "area": 187.0,
       "precioM2": 14973262,
-      "administracion": 1760000,
+      "administracion": 1760000.0,
       "barrio": "LA CAROLINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -392,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -401,7 +497,7 @@
       "precio": 1100000000,
       "area": 180.0,
       "precioM2": 6111111,
-      "administracion": 1700000,
+      "administracion": 1700000.0,
       "barrio": "LA CAROLINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -424,39 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 405000000,
-      "area": 41.0,
-      "precioM2": 9878049,
-      "administracion": 800000,
-      "barrio": "SANTA BARBARA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 2,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-barbara-bogota/194225353",
-      "titulo": "Apartamento en Venta en Santa Barbara, Bogotá",
-      "id_domus": "194225353",
-      "fechaPublicacion": "2026-09-08",
-      "lat": 4.704924987026,
-      "lon": -74.042573847828,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CAROLINA",
-      "zonaSlug": "la-carolina",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -465,7 +529,7 @@
       "precio": 2950000000,
       "area": 380.0,
       "precioM2": 7763158,
-      "administracion": 2600000,
+      "administracion": 2600000.0,
       "barrio": "COUNTRY CLUB",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -497,7 +561,7 @@
       "precio": 2500000000,
       "area": 616.0,
       "precioM2": 4058442,
-      "administracion": 3400000,
+      "administracion": 3400000.0,
       "barrio": "LA CAROLINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -529,7 +593,7 @@
       "precio": 800000000,
       "area": 97.0,
       "precioM2": 8247423,
-      "administracion": 1250000,
+      "administracion": 1250000.0,
       "barrio": "LA CAROLINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -561,7 +625,7 @@
       "precio": 1250000000,
       "area": 135.0,
       "precioM2": 9259259,
-      "administracion": 1280000,
+      "administracion": 1280000.0,
       "barrio": "LA CAROLINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -593,7 +657,7 @@
       "precio": 2800000000,
       "area": 187.0,
       "precioM2": 14973262,
-      "administracion": 1900000,
+      "administracion": 1900000.0,
       "barrio": "LA CAROLINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -610,38 +674,6 @@
       "fechaPublicacion": "2026-08-18",
       "lat": 4.7058324,
       "lon": -74.040186,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CAROLINA",
-      "zonaSlug": "la-carolina",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 600000000,
-      "area": 86.0,
-      "precioM2": 6976744,
-      "administracion": 910000,
-      "barrio": "LA CAROLINA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-carolina-bogota/194235394",
-      "titulo": "Apartamento en Venta en La carolina, Bogotá",
-      "id_domus": "194235394",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.7053366,
-      "lon": -74.0395634,
       "location_type": "exacta",
       "zonaConsulta": "LA CAROLINA",
       "zonaSlug": "la-carolina",

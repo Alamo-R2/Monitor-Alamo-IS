@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "EL RINCON NORTE",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 01:24",
+  "generado": "2026.OCT.14 21:02",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -82,7 +82,7 @@
       "area": 67.0,
       "precioM2": 4223881,
       "administracion": 145000,
-      "barrio": "LOS NARANJOS",
+      "barrio": "EL RINCON NORTE",
       "upl": "Rincón de Suba",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -92,8 +92,8 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-naranjos-bogota/194174622",
-      "titulo": "Apartamento en Venta en Los naranjos, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/194174622",
+      "titulo": "Apartamento en Venta en Suba, Bogotá",
       "id_domus": "194174622",
       "fechaPublicacion": "2026-08-27",
       "lat": 4.729666,
@@ -137,6 +137,38 @@
     },
     {
       "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 283000000,
+      "area": 67.0,
+      "precioM2": 4223881,
+      "administracion": 145880,
+      "barrio": "EL RINCON NORTE",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cerros-de-suba-bogota/194401284",
+      "titulo": "Apartamento en Venta en Cerros de Suba, Bogotá",
+      "id_domus": "194401284",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.7301935513413,
+      "lon": -74.086852890617,
+      "location_type": "exacta",
+      "zonaConsulta": "EL RINCON NORTE",
+      "zonaSlug": "el-rincon-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "VILLA ELISA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 11:40",
+  "generado": "2026.OCT.14 21:02",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 60.0,
+      "precioM2": 30000,
+      "administracion": null,
+      "barrio": "VILLA ELISA",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villa-elisa-bogota/194396993",
+      "titulo": "Apartamento en Arriendo en Villa elisa, Bogotá",
+      "id_domus": "194396993",
+      "fechaPublicacion": "2026-10-13",
+      "lat": 4.7366094,
+      "lon": -74.0895508,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ELISA",
+      "zonaSlug": "villa-elisa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1503000,
       "area": 48.0,
       "precioM2": 31312,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],

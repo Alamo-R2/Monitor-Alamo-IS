@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 01:24",
+  "generado": "2026.OCT.14 21:02",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 280000000,
+      "area": 56.0,
+      "precioM2": 5000000,
+      "administracion": 180000.0,
+      "barrio": "LAS FLORES",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/194375962",
+      "titulo": "Apartamento en Venta en Suba, Bogotá",
+      "id_domus": "194375962",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.7385326,
+      "lon": -74.0885165,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS FLORES",
+      "zonaSlug": "las-flores",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,71 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 409000000,
-      "area": 70.0,
-      "precioM2": 5842857,
-      "administracion": 326000.0,
-      "barrio": "LA CAMPIÑA",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-campiña-bogota/194369608",
-      "titulo": "Apartamento en Venta en La Campiña, Bogotá",
-      "id_domus": "194369608",
-      "fechaPublicacion": "2026-10-07",
-      "lat": 4.7425978381541,
-      "lon": -74.092139191402,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS FLORES",
-      "zonaSlug": "las-flores",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 240000000,
-      "area": 52.0,
-      "precioM2": 4615385,
-      "administracion": 137000.0,
-      "barrio": "LAS FLORES",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-flores-bogota/193872095",
-      "titulo": "Apartamento en Venta en Las flores, Bogotá",
-      "id_domus": "193872095",
-      "fechaPublicacion": "2026-06-12",
-      "lat": 4.7530781468761,
-      "lon": -74.102761745453,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS FLORES",
-      "zonaSlug": "las-flores",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -136,39 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 340000000,
-      "area": 67.0,
-      "precioM2": 5074627,
-      "administracion": 260000.0,
-      "barrio": "LAS FLORES",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/193872106",
-      "titulo": "Apartamento en Venta en Suba, Bogotá",
-      "id_domus": "193872106",
-      "fechaPublicacion": "2026-06-12",
-      "lat": 4.742549,
-      "lon": -74.0922221,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS FLORES",
-      "zonaSlug": "las-flores",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 340000000,
+      "area": 64.0,
+      "precioM2": 5312500,
+      "administracion": 300000.0,
+      "barrio": "LAS FLORES",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-la-campiña-bogota/194289380",
+      "titulo": "Apartamento en Venta en Suba la Campiña, Bogotá",
+      "id_domus": "194289380",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.7409044,
+      "lon": -74.0861878,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS FLORES",
+      "zonaSlug": "las-flores",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,17 +360,17 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 325000000,
-      "area": 58.0,
-      "precioM2": 5603448,
-      "administracion": 270000.0,
-      "barrio": "LAS FLORES",
+      "precio": 409000000,
+      "area": 70.0,
+      "precioM2": 5842857,
+      "administracion": 326000.0,
+      "barrio": "LA CAMPIÑA",
       "upl": "Rincón de Suba",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -412,12 +380,44 @@
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-la-campiña-bogota/194366184",
-      "titulo": "Apartamento en Venta en Suba la Campiña, Bogotá",
-      "id_domus": "194366184",
-      "fechaPublicacion": "2026-10-06",
-      "lat": 4.7425818,
-      "lon": -74.0921982,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-campiña-bogota/194369608",
+      "titulo": "Apartamento en Venta en La Campiña, Bogotá",
+      "id_domus": "194369608",
+      "fechaPublicacion": "2026-10-07",
+      "lat": 4.7425978381541,
+      "lon": -74.092139191402,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS FLORES",
+      "zonaSlug": "las-flores",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 340000000,
+      "area": 59.0,
+      "precioM2": 5762712,
+      "administracion": 247535.0,
+      "barrio": "LAS FLORES",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/194387355",
+      "titulo": "Apartamento en Venta en Suba, Bogotá",
+      "id_domus": "194387355",
+      "fechaPublicacion": "2026-10-10",
+      "lat": 4.742568499194,
+      "lon": -74.092140336933,
       "location_type": "exacta",
       "zonaConsulta": "LAS FLORES",
       "zonaSlug": "las-flores",
@@ -622,6 +622,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 52.0,
+      "precioM2": 4615385,
+      "administracion": 137000.0,
+      "barrio": "LAS FLORES",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-flores-bogota/193872095",
+      "titulo": "Apartamento en Venta en Las flores, Bogotá",
+      "id_domus": "193872095",
+      "fechaPublicacion": "2026-06-12",
+      "lat": 4.7530781468761,
+      "lon": -74.102761745453,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS FLORES",
+      "zonaSlug": "las-flores",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 235000000,
       "area": 42.0,
       "precioM2": 5595238,
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-05-29",
       "lat": 4.740629,
       "lon": -74.089088,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS FLORES",
-      "zonaSlug": "las-flores",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 270000000,
-      "area": 37.0,
-      "precioM2": 7297297,
-      "administracion": null,
-      "barrio": "LAS FLORES",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/193686896",
-      "titulo": "Apartamento en Venta en Suba, Bogotá",
-      "id_domus": "193686896",
-      "fechaPublicacion": "2026-04-28",
-      "lat": 4.7398883431507,
-      "lon": -74.092220664024,
       "location_type": "exacta",
       "zonaConsulta": "LAS FLORES",
       "zonaSlug": "las-flores",

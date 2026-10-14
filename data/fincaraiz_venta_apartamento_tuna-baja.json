@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 01:24",
+  "generado": "2026.OCT.14 21:02",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 240000000,
-      "area": 37.0,
-      "precioM2": 6486486,
-      "administracion": null,
+      "precio": 330000000,
+      "area": 67.0,
+      "precioM2": 4925373,
+      "administracion": 600000.0,
       "barrio": "TUNA BAJA",
       "upl": "Suba",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
+      "habitaciones": 3,
+      "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pinar-de-suba-bogota/194191791",
-      "titulo": "Apartamento en Venta en Pinar de Suba, Bogotá",
-      "id_domus": "194191791",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.754116,
-      "lon": -74.0918037,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/193954192",
+      "titulo": "Apartamento en Venta en Suba, Bogotá",
+      "id_domus": "193954192",
+      "fechaPublicacion": "2026-07-04",
+      "lat": 4.7554515,
+      "lon": -74.0914828,
       "location_type": "exacta",
       "zonaConsulta": "TUNA BAJA",
       "zonaSlug": "tuna-baja",
@@ -41,6 +41,38 @@
     },
     {
       "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 36.0,
+      "precioM2": 6666667,
+      "administracion": 188000.0,
+      "barrio": "SUBA URBANO",
+      "upl": "Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-urbano-bogota/193957591",
+      "titulo": "Apartamento en Venta en Suba urbano, Bogotá",
+      "id_domus": "193957591",
+      "fechaPublicacion": "2026-07-06",
+      "lat": 4.7562967,
+      "lon": -74.0924556,
+      "location_type": "exacta",
+      "zonaConsulta": "TUNA BAJA",
+      "zonaSlug": "tuna-baja",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,39 +104,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 555000000,
-      "area": 106.0,
-      "precioM2": 5235849,
-      "administracion": 500000.0,
+      "precio": 350000000,
+      "area": 52.0,
+      "precioM2": 6730769,
+      "administracion": 220000.0,
       "barrio": "TUNA BAJA",
       "upl": "Suba",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 2.0,
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pinar-de-suba-bogota/193655389",
-      "titulo": "Apartamento en Venta en Pinar de Suba, Bogotá",
-      "id_domus": "193655389",
-      "fechaPublicacion": "2026-04-20",
-      "lat": 4.7542585,
-      "lon": -74.0918512,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-turingia-et-ii-bogota/194396933",
+      "titulo": "Apartamento en Venta en Turingia et. ii, Bogotá",
+      "id_domus": "194396933",
+      "fechaPublicacion": "2026-10-13",
+      "lat": 4.7551002,
+      "lon": -74.0906525,
       "location_type": "exacta",
       "zonaConsulta": "TUNA BAJA",
       "zonaSlug": "tuna-baja",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,15 +552,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 260000000,
+      "precio": 250000000,
       "area": 36.0,
-      "precioM2": 7222222,
+      "precioM2": 6944444,
       "administracion": 200000.0,
       "barrio": "TUNA BAJA",
       "upl": "Suba",
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -593,8 +625,8 @@
       "precio": 240000000,
       "area": 36.0,
       "precioM2": 6666667,
-      "administracion": 166000.0,
-      "barrio": "SUBA URBANO",
+      "administracion": 193000.0,
+      "barrio": "TUNA BAJA",
       "upl": "Suba",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -604,19 +636,19 @@
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-urbano-bogota/194199812",
-      "titulo": "Apartamento en Venta en Suba urbano, Bogotá",
-      "id_domus": "194199812",
-      "fechaPublicacion": "2026-09-02",
-      "lat": 4.7562693,
-      "lon": -74.092456,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tuna-baja-bogota/194375098",
+      "titulo": "Apartamento en Venta en Tuna baja, Bogotá",
+      "id_domus": "194375098",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.7552537,
+      "lon": -74.0854536,
       "location_type": "exacta",
       "zonaConsulta": "TUNA BAJA",
       "zonaSlug": "tuna-baja",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-09-29",
       "lat": 4.7532631,
       "lon": -74.0933778,
-      "location_type": "exacta",
-      "zonaConsulta": "TUNA BAJA",
-      "zonaSlug": "tuna-baja",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 180000000,
-      "area": 26.0,
-      "precioM2": 6923077,
-      "administracion": 122000.0,
-      "barrio": "TUNA BAJA",
-      "upl": "Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tuna-baja-bogota/194014199",
-      "titulo": "Apartamento en Venta en Tuna baja, Bogotá",
-      "id_domus": "194014199",
-      "fechaPublicacion": "2026-07-21",
-      "lat": 4.756766,
-      "lon": -74.094776,
       "location_type": "exacta",
       "zonaConsulta": "TUNA BAJA",
       "zonaSlug": "tuna-baja",

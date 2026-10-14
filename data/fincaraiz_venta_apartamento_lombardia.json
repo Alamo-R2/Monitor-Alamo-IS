@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 21,
+  "total": 20,
   "zona": "LOMBARDIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.08 01:24",
+  "generado": "2026.OCT.14 21:02",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 275000000,
+      "area": 65.0,
+      "precioM2": 4230769,
+      "administracion": null,
+      "barrio": "LOS CEREZOS",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-cerezos-bogota/194272088",
+      "titulo": "Apartamento en Venta en Los cerezos, Bogotá",
+      "id_domus": "194272088",
+      "fechaPublicacion": "2026-09-17",
+      "lat": 4.749696168466,
+      "lon": -74.100464048842,
+      "location_type": "exacta",
+      "zonaConsulta": "LOMBARDIA",
+      "zonaSlug": "lombardia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 462000000,
       "area": 84.0,
       "precioM2": 5500000,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -194,38 +226,6 @@
       "fechaPublicacion": "2026-05-06",
       "lat": 4.7474782,
       "lon": -74.1001374,
-      "location_type": "exacta",
-      "zonaConsulta": "LOMBARDIA",
-      "zonaSlug": "lombardia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 295000000,
-      "area": 63.0,
-      "precioM2": 4682540,
-      "administracion": 220000.0,
-      "barrio": "LOMBARDIA",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-plaza-imperial-centro-comercial-bogota/194116616",
-      "titulo": "Apartamento en Venta en Plaza Imperial Centro Comercial, Bogotá",
-      "id_domus": "194116616",
-      "fechaPublicacion": "2026-08-14",
-      "lat": 4.7497593,
-      "lon": -74.1006159,
       "location_type": "exacta",
       "zonaConsulta": "LOMBARDIA",
       "zonaSlug": "lombardia",
@@ -270,38 +270,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 240000000,
-      "area": 54.0,
-      "precioM2": 4444444,
-      "administracion": null,
-      "barrio": "LOMBARDIA",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lombardia-bogota/194199865",
-      "titulo": "Apartamento en Venta en Lombardia, Bogotá",
-      "id_domus": "194199865",
-      "fechaPublicacion": "2026-09-02",
-      "lat": 4.7447597672582,
-      "lon": -74.10040140152,
-      "location_type": "exacta",
-      "zonaConsulta": "LOMBARDIA",
-      "zonaSlug": "lombardia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 230000000,
       "area": 53.0,
       "precioM2": 4339623,
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -552,71 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 285000000,
-      "area": 63.0,
-      "precioM2": 4523810,
-      "administracion": 172276.0,
-      "barrio": "LOMBARDIA",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/193990323",
-      "titulo": "Apartamento en Venta en Suba, Bogotá",
-      "id_domus": "193990323",
-      "fechaPublicacion": "2026-07-14",
-      "lat": 4.7496877,
-      "lon": -74.1005566,
-      "location_type": "exacta",
-      "zonaConsulta": "LOMBARDIA",
-      "zonaSlug": "lombardia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 275000000,
-      "area": 65.0,
-      "precioM2": 4230769,
-      "administracion": null,
-      "barrio": "LOS CEREZOS",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-cerezos-bogota/194272088",
-      "titulo": "Apartamento en Venta en Los cerezos, Bogotá",
-      "id_domus": "194272088",
-      "fechaPublicacion": "2026-09-17",
-      "lat": 4.749696168466,
-      "lon": -74.100464048842,
-      "location_type": "exacta",
-      "zonaConsulta": "LOMBARDIA",
-      "zonaSlug": "lombardia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +578,70 @@
       "fechaPublicacion": "2026-07-14",
       "lat": 4.7496877,
       "lon": -74.1005566,
+      "location_type": "exacta",
+      "zonaConsulta": "LOMBARDIA",
+      "zonaSlug": "lombardia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 65.0,
+      "precioM2": 3846154,
+      "administracion": null,
+      "barrio": "LOMBARDIA",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lombardia-bogota/191858950",
+      "titulo": "Apartamento en  Venta en Lombardia, Bogotá",
+      "id_domus": "191858950",
+      "fechaPublicacion": "2025-01-09",
+      "lat": 4.7461267,
+      "lon": -74.1007591,
+      "location_type": "exacta",
+      "zonaConsulta": "LOMBARDIA",
+      "zonaSlug": "lombardia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 295000000,
+      "area": 63.0,
+      "precioM2": 4682540,
+      "administracion": 220000.0,
+      "barrio": "LOMBARDIA",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-plaza-imperial-centro-comercial-bogota/194116616",
+      "titulo": "Apartamento en Venta en Plaza Imperial Centro Comercial, Bogotá",
+      "id_domus": "194116616",
+      "fechaPublicacion": "2026-08-14",
+      "lat": 4.7497593,
+      "lon": -74.1006159,
       "location_type": "exacta",
       "zonaConsulta": "LOMBARDIA",
       "zonaSlug": "lombardia",
