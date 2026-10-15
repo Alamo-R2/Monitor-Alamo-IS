@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.13 19:58",
+  "generado": "2026.OCT.15 00:10",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3300000,
+      "area": 85.0,
+      "precioM2": 38824,
+      "administracion": null,
+      "barrio": "SANTA CECILIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-cecilia-bogota/194363540",
+      "titulo": "Apartamento en Arriendo en Santa cecilia, Bogotá",
+      "id_domus": "194363540",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.6777890736087,
+      "lon": -74.105932515097,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CECILIA",
+      "zonaSlug": "santa-cecilia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-10-09",
       "lat": 4.6773267,
       "lon": -74.1136839,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA CECILIA",
-      "zonaSlug": "santa-cecilia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4800000,
-      "area": 250.0,
-      "precioM2": 19200,
-      "administracion": null,
-      "barrio": "NORMANDIA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 4,
-      "parqueaderos": 5.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-normandia-bogota/193807475",
-      "titulo": "Apartamento en Arriendo en Normandia, Bogotá",
-      "id_domus": "193807475",
-      "fechaPublicacion": "2026-05-27",
-      "lat": 4.6760436,
-      "lon": -74.1097789,
       "location_type": "exacta",
       "zonaConsulta": "SANTA CECILIA",
       "zonaSlug": "santa-cecilia",
