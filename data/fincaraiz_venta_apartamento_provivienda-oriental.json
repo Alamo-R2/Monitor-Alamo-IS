@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 15:59",
+  "generado": "2026.OCT.15 20:36",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 299000000,
-      "area": 76.0,
-      "precioM2": 3934211,
-      "administracion": 280000.0,
-      "barrio": "PROVIVIENDA ORIENTAL",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 4,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-claudia-bogota/194032207",
-      "titulo": "Apartamento en Venta en Villa claudia, Bogotá",
-      "id_domus": "194032207",
-      "fechaPublicacion": "2026-07-24",
-      "lat": 4.6147539,
-      "lon": -74.1271713,
-      "location_type": "exacta",
-      "zonaConsulta": "PROVIVIENDA ORIENTAL",
-      "zonaSlug": "provivienda-oriental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-06-23",
       "lat": 4.6146195,
       "lon": -74.1317638,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA ORIENTAL",
+      "zonaSlug": "provivienda-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 299000000,
+      "area": 76.0,
+      "precioM2": 3934211,
+      "administracion": 280000.0,
+      "barrio": "PROVIVIENDA ORIENTAL",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 4,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-claudia-bogota/194032207",
+      "titulo": "Apartamento en Venta en Villa claudia, Bogotá",
+      "id_domus": "194032207",
+      "fechaPublicacion": "2026-07-24",
+      "lat": 4.6147539,
+      "lon": -74.1271713,
       "location_type": "exacta",
       "zonaConsulta": "PROVIVIENDA ORIENTAL",
       "zonaSlug": "provivienda-oriental",
@@ -398,6 +398,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 330000000,
+      "area": 60.0,
+      "precioM2": 5500000,
+      "administracion": 229500.0,
+      "barrio": "PROVIVIENDA ORIENTAL",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-plaza-de-las-americas-bogota/194402173",
+      "titulo": "Apartamento en Venta en Plaza de las Américas, Bogotá",
+      "id_domus": "194402173",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.6186313,
+      "lon": -74.1311186,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA ORIENTAL",
+      "zonaSlug": "provivienda-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 240000000,
       "area": 47.0,
       "precioM2": 5106383,
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -472,7 +504,7 @@
       "direccion": "",
       "habitaciones": 3.0,
       "banos": 2,
-      "parqueaderos": 1.0,
+      "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,64 +648,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 400000000,
-      "area": 80.0,
-      "precioM2": 5000000,
-      "administracion": null,
-      "barrio": "PROVIVIENDA ORIENTAL",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-floralia-i-sector-bogota/191336226",
-      "titulo": "Apartamento en  Venta en Floralia i sector, Bogotá",
-      "id_domus": "191336226",
-      "fechaPublicacion": "2024-09-06",
-      "lat": 4.6101175737235,
-      "lon": -74.13141310215,
-      "location_type": "exacta",
-      "zonaConsulta": "PROVIVIENDA ORIENTAL",
-      "zonaSlug": "provivienda-oriental",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-21",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 80.0,
-      "precioM2": 4125000,
-      "administracion": 250000.0,
+      "precio": 350000000,
+      "area": 81.0,
+      "precioM2": 4320988,
+      "administracion": 408000.0,
       "barrio": "PROVIVIENDA ORIENTAL",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3.0,
+      "habitaciones": 4.0,
       "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-floralia-i-sector-bogota/10286655",
-      "titulo": "Apartamento en Venta en Floralia i sector, Bogotá",
-      "id_domus": "10286655",
-      "fechaPublicacion": "2023-11-10",
-      "lat": 4.6102584,
-      "lon": -74.1312677,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-claudia-bogota/194404605",
+      "titulo": "Apartamento en Venta en Villa claudia, Bogotá",
+      "id_domus": "194404605",
+      "fechaPublicacion": "2026-10-15",
+      "lat": 4.6171462526424,
+      "lon": -74.129927158356,
       "location_type": "exacta",
       "zonaConsulta": "PROVIVIENDA ORIENTAL",
       "zonaSlug": "provivienda-oriental",

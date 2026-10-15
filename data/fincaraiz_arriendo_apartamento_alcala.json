@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 9,
   "zona": "ALCALA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.09 01:32",
+  "generado": "2026.OCT.15 20:36",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -143,8 +143,8 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 2270000,
-      "area": 74.0,
-      "precioM2": 30676,
+      "area": 80.0,
+      "precioM2": 28375,
       "administracion": 730000.0,
       "barrio": "ALCALA",
       "upl": "Puente Aranda",
@@ -265,38 +265,6 @@
     },
     {
       "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2200000,
-      "area": 74.0,
-      "precioM2": 29730,
-      "administracion": null,
-      "barrio": "ALCALA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-alcala-bogota/194333105",
-      "titulo": "Apartamento en Arriendo en Alcala, Bogotá",
-      "id_domus": "194333105",
-      "fechaPublicacion": "2026-09-29",
-      "lat": 4.722824205981,
-      "lon": -74.053213668081,
-      "location_type": "exacta",
-      "zonaConsulta": "ALCALA",
-      "zonaSlug": "alcala",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],

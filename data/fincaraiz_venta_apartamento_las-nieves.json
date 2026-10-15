@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 20,
+  "total": 21,
   "zona": "LAS NIEVES",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.09 01:32",
+  "generado": "2026.OCT.15 20:36",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 359900000,
+      "area": 41.0,
+      "precioM2": 8778049,
+      "administracion": 480000.0,
+      "barrio": "LAS NIEVES",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1.0,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota-dc-bogota/193099107",
+      "titulo": "Apartamento en Venta en Bogotá, d.c., Bogotá",
+      "id_domus": "193099107",
+      "fechaPublicacion": "2025-11-14",
+      "lat": 4.6085745648926,
+      "lon": -74.068495614417,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS NIEVES",
+      "zonaSlug": "las-nieves",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -174,38 +206,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 40.0,
-      "precioM2": 8250000,
-      "administracion": 178000.0,
-      "barrio": "LAS NIEVES",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1.0,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-nieves-bogota/194290134",
-      "titulo": "Apartamento en Venta en Las nieves, Bogotá",
-      "id_domus": "194290134",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.6048102,
-      "lon": -74.0705108,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS NIEVES",
-      "zonaSlug": "las-nieves",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 260000000,
       "area": 54.0,
       "precioM2": 4814815,
@@ -232,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +296,103 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 585000000,
+      "area": 113.0,
+      "precioM2": 5176991,
+      "administracion": null,
+      "barrio": "LAS NIEVES",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-nieves-bogota/194041056",
+      "titulo": "Apartamento en Venta en Las nieves, Bogotá",
+      "id_domus": "194041056",
+      "fechaPublicacion": "2026-07-27",
+      "lat": 4.6020592,
+      "lon": -74.0686829,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS NIEVES",
+      "zonaSlug": "las-nieves",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 372000000,
+      "area": 29.0,
+      "precioM2": 12827586,
+      "administracion": 190000.0,
+      "barrio": "LAS NIEVES",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-nieves-bogota/194396244",
+      "titulo": "Apartamento en Venta en Las nieves, Bogotá",
+      "id_domus": "194396244",
+      "fechaPublicacion": "2026-10-13",
+      "lat": 4.6034761,
+      "lon": -74.069201,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS NIEVES",
+      "zonaSlug": "las-nieves",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 625000000,
+      "area": 58.0,
+      "precioM2": 10775862,
+      "administracion": 760000.0,
+      "barrio": "LAS NIEVES",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-nieves-bogota/194195581",
+      "titulo": "Apartamento en Venta en Las nieves, Bogotá",
+      "id_domus": "194195581",
+      "fechaPublicacion": "2026-09-01",
+      "lat": 4.6090303030315,
+      "lon": -74.068826649074,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS NIEVES",
+      "zonaSlug": "las-nieves",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +520,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 800000000,
+      "area": 120.0,
+      "precioM2": 6666667,
+      "administracion": 540000.0,
+      "barrio": "LAS NIEVES",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-nieves-bogota/193808683",
+      "titulo": "Apartamento en Venta en Las nieves, Bogotá",
+      "id_domus": "193808683",
+      "fechaPublicacion": "2026-05-27",
+      "lat": 4.6029936,
+      "lon": -74.0696673,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS NIEVES",
+      "zonaSlug": "las-nieves",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -488,39 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 370000000,
-      "area": 50.0,
-      "precioM2": 7400000,
-      "administracion": 309300.0,
-      "barrio": "LAS NIEVES",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1.0,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-nieves-bogota/194284530",
-      "titulo": "Apartamento en Venta en Las nieves, Bogotá",
-      "id_domus": "194284530",
-      "fechaPublicacion": "2026-09-20",
-      "lat": 4.6030526,
-      "lon": -74.0688413,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS NIEVES",
-      "zonaSlug": "las-nieves",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -552,39 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 359900000,
-      "area": 41.0,
-      "precioM2": 8778049,
-      "administracion": 480000.0,
-      "barrio": "LAS NIEVES",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1.0,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota-dc-bogota/193099107",
-      "titulo": "Apartamento en Venta en Bogotá, d.c., Bogotá",
-      "id_domus": "193099107",
-      "fechaPublicacion": "2025-11-14",
-      "lat": 4.6085745648926,
-      "lon": -74.068495614417,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS NIEVES",
-      "zonaSlug": "las-nieves",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -610,38 +674,6 @@
       "fechaPublicacion": "2026-05-28",
       "lat": 4.6067134,
       "lon": -74.0702413,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS NIEVES",
-      "zonaSlug": "las-nieves",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 520000000,
-      "area": 61.0,
-      "precioM2": 8524590,
-      "administracion": 307049.0,
-      "barrio": "LAS NIEVES",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-zona-centro-bogota/191592169",
-      "titulo": "Apartamento en  Venta en Zona centro, Bogotá",
-      "id_domus": "191592169",
-      "fechaPublicacion": "2024-10-21",
-      "lat": 4.604784671499,
-      "lon": -74.070391288991,
       "location_type": "exacta",
       "zonaConsulta": "LAS NIEVES",
       "zonaSlug": "las-nieves",

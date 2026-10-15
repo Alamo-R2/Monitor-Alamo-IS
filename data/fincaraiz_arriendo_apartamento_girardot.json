@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "GIRARDOT",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.09 01:32",
+  "generado": "2026.OCT.15 20:36",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,7 +14,39 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2500000,
+      "precio": 1400000,
+      "area": 61.0,
+      "precioM2": 22951,
+      "administracion": null,
+      "barrio": "GIRARDOT",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lagos-de-torca-bogota/194398332",
+      "titulo": "Apartamento en Arriendo en Lagos de Torca, Bogotá",
+      "id_domus": "194398332",
+      "fechaPublicacion": "2026-10-13",
+      "lat": 4.5852477,
+      "lon": -74.0737806,
+      "location_type": "exacta",
+      "zonaConsulta": "GIRARDOT",
+      "zonaSlug": "girardot",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2500002,
       "area": 45.0,
       "precioM2": 55556,
       "administracion": null,
@@ -40,13 +72,13 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2500001,
+      "precio": 2500002,
       "area": 50.0,
       "precioM2": 50000,
       "administracion": null,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],

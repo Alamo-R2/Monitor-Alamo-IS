@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.13 12:15",
+  "generado": "2026.OCT.15 20:36",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 320685000,
-      "area": 36.0,
-      "precioM2": 8907917,
-      "administracion": null,
-      "barrio": "GRAN GRANADA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/80-deck-living-apartamento-en-venta-en-gran-granada-bogota/194239150",
-      "titulo": "80 DECK LIVING, Apartamento en Venta en Gran granada, Bogotá",
-      "id_domus": "194239150",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.7214589,
-      "lon": -74.1226323,
-      "location_type": "exacta",
-      "zonaConsulta": "EL DORADO",
-      "zonaSlug": "el-dorado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,71 +40,39 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 290000000,
+      "area": 54.0,
+      "precioM2": 5370370,
+      "administracion": 290000.0,
+      "barrio": "GRAN GRANADA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/193847605",
+      "titulo": "Apartamento en Venta en Gran granada, Bogotá",
+      "id_domus": "193847605",
+      "fechaPublicacion": "2026-06-05",
+      "lat": 4.7236683,
+      "lon": -74.1356751,
+      "location_type": "exacta",
+      "zonaConsulta": "EL DORADO",
+      "zonaSlug": "el-dorado",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 390000000,
-      "area": 72.0,
-      "precioM2": 5416667,
-      "administracion": 412000.0,
-      "barrio": "GRAN GRANADA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194334195",
-      "titulo": "Apartamento en Venta en Gran granada, Bogotá",
-      "id_domus": "194334195",
-      "fechaPublicacion": "2026-09-29",
-      "lat": 4.7231869,
-      "lon": -74.1298992,
-      "location_type": "exacta",
-      "zonaConsulta": "EL DORADO",
-      "zonaSlug": "el-dorado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 435000000,
-      "area": 83.0,
-      "precioM2": 5240964,
-      "administracion": 326000.0,
-      "barrio": "GRAN GRANADA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194260257",
-      "titulo": "Apartamento en Venta en Gran granada, Bogotá",
-      "id_domus": "194260257",
-      "fechaPublicacion": "2026-09-15",
-      "lat": 4.723568466475,
-      "lon": -74.124959306319,
-      "location_type": "exacta",
-      "zonaConsulta": "EL DORADO",
-      "zonaSlug": "el-dorado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -200,16 +136,16 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 420000000,
-      "area": 76.0,
-      "precioM2": 5526316,
-      "administracion": 525000.0,
+      "precio": 430000000,
+      "area": 83.0,
+      "precioM2": 5180723,
+      "administracion": 330000.0,
       "barrio": "EL DORADO",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -217,22 +153,22 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/10662849",
-      "titulo": "Apartamento en venta en Engativá, Bogotá",
-      "id_domus": "10662849",
-      "fechaPublicacion": "2024-03-06",
-      "lat": 4.7212716307095,
-      "lon": -74.130803440835,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194060181",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194060181",
+      "fechaPublicacion": "2026-07-31",
+      "lat": 4.7234976,
+      "lon": -74.1362912,
       "location_type": "exacta",
       "zonaConsulta": "EL DORADO",
       "zonaSlug": "el-dorado",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -328,39 +264,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 280000000,
+      "precio": 315000000,
       "area": 50.0,
-      "precioM2": 5600000,
-      "administracion": null,
-      "barrio": "EL CORTIJO",
+      "precioM2": 6300000,
+      "administracion": 430000.0,
+      "barrio": "EL DORADO",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 2,
       "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-cortijo-bogota/193159266",
-      "titulo": "Apartamento en Venta en El cortijo, Bogotá",
-      "id_domus": "193159266",
-      "fechaPublicacion": "2025-12-02",
-      "lat": 4.7222036402163,
-      "lon": -74.120593829241,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194357314",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194357314",
+      "fechaPublicacion": "2026-10-05",
+      "lat": 4.725182,
+      "lon": -74.1315856,
       "location_type": "exacta",
       "zonaConsulta": "EL DORADO",
       "zonaSlug": "el-dorado",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -392,48 +328,16 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 400000000,
-      "area": 70.0,
-      "precioM2": 5714286,
-      "administracion": null,
-      "barrio": "VILLAS DE GRANADA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villas-de-granada-bogota/194191843",
-      "titulo": "Apartamento en Venta en Villas de Granada, Bogotá",
-      "id_domus": "194191843",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.7232042198966,
-      "lon": -74.129873514175,
-      "location_type": "exacta",
-      "zonaConsulta": "EL DORADO",
-      "zonaSlug": "el-dorado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 445000000,
-      "area": 76.0,
-      "precioM2": 5855263,
-      "administracion": 555000.0,
+      "precio": 510000000,
+      "area": 87.0,
+      "precioM2": 5862069,
+      "administracion": 443000.0,
       "barrio": "GRAN GRANADA",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -444,19 +348,19 @@
       "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194355359",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194079911",
       "titulo": "Apartamento en Venta en Gran granada, Bogotá",
-      "id_domus": "194355359",
-      "fechaPublicacion": "2026-10-04",
-      "lat": 4.7215963,
-      "lon": -74.1284003,
+      "id_domus": "194079911",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.7244796,
+      "lon": -74.1340748,
       "location_type": "exacta",
       "zonaConsulta": "EL DORADO",
       "zonaSlug": "el-dorado",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +552,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 54.0,
+      "precioM2": 6481481,
+      "administracion": 320000.0,
+      "barrio": "GRAN GRANADA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194345415",
+      "titulo": "Apartamento en Venta en Gran granada, Bogotá",
+      "id_domus": "194345415",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.7244455,
+      "lon": -74.1361536,
+      "location_type": "exacta",
+      "zonaConsulta": "EL DORADO",
+      "zonaSlug": "el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +610,70 @@
       "fechaPublicacion": "2026-08-20",
       "lat": 4.7239726741864,
       "lon": -74.127868481993,
+      "location_type": "exacta",
+      "zonaConsulta": "EL DORADO",
+      "zonaSlug": "el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 410000000,
+      "area": 76.0,
+      "precioM2": 5394737,
+      "administracion": 466000.0,
+      "barrio": "GRAN GRANADA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194311498",
+      "titulo": "Apartamento en Venta en Gran granada, Bogotá",
+      "id_domus": "194311498",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.7212973,
+      "lon": -74.1309544,
+      "location_type": "exacta",
+      "zonaConsulta": "EL DORADO",
+      "zonaSlug": "el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 510000000,
+      "area": 71.0,
+      "precioM2": 7183099,
+      "administracion": 335701.0,
+      "barrio": "GRAN GRANADA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/193470814",
+      "titulo": "Apartamento en Venta en Gran granada, Bogotá",
+      "id_domus": "193470814",
+      "fechaPublicacion": "2026-03-06",
+      "lat": 4.7223905,
+      "lon": -74.1236116,
       "location_type": "exacta",
       "zonaConsulta": "EL DORADO",
       "zonaSlug": "el-dorado",

@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 06:35",
+  "generado": "2026.OCT.15 20:36",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 308000000,
+      "area": 40.0,
+      "precioM2": 7700000,
+      "administracion": 194130.0,
+      "barrio": "CORREDOR FERREO DEL SUR",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-andresito-bogota/194020739",
+      "titulo": "Apartamento en Venta en San Andresito, Bogotá",
+      "id_domus": "194020739",
+      "fechaPublicacion": "2026-07-22",
+      "lat": 4.6214563,
+      "lon": -74.0971016,
+      "location_type": "exacta",
+      "zonaConsulta": "CORREDOR FERREO DEL SUR",
+      "zonaSlug": "corredor-ferreo-del-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-06-04",
       "lat": 4.6143875,
       "lon": -74.1184904,
-      "location_type": "exacta",
-      "zonaConsulta": "CORREDOR FERREO DEL SUR",
-      "zonaSlug": "corredor-ferreo-del-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 190000000,
-      "area": 47.0,
-      "precioM2": 4042553,
-      "administracion": 135000.0,
-      "barrio": "GALICIA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-galicia-bogota/194029719",
-      "titulo": "Apartamento en Venta en Galicia, Bogotá",
-      "id_domus": "194029719",
-      "fechaPublicacion": "2026-07-24",
-      "lat": 4.5949835,
-      "lon": -74.1691344,
       "location_type": "exacta",
       "zonaConsulta": "CORREDOR FERREO DEL SUR",
       "zonaSlug": "corredor-ferreo-del-sur",
@@ -178,6 +178,38 @@
       "area": 40.0,
       "precioM2": 7700000,
       "administracion": 194130.0,
+      "barrio": "CORREDOR FERREO DEL SUR",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-andresito-bogota/193546435",
+      "titulo": "Apartamento en Venta en San Andresito, Bogotá",
+      "id_domus": "193546435",
+      "fechaPublicacion": "2026-03-20",
+      "lat": 4.6203683107129,
+      "lon": -74.099744520068,
+      "location_type": "exacta",
+      "zonaConsulta": "CORREDOR FERREO DEL SUR",
+      "zonaSlug": "corredor-ferreo-del-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 308000000,
+      "area": 40.0,
+      "precioM2": 7700000,
+      "administracion": 194130.0,
       "barrio": "INDUSTRIAL CENTENARIO",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,64 +360,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 290000000,
-      "area": 40.0,
-      "precioM2": 7250000,
-      "administracion": 217800.0,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/193990976",
-      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
-      "id_domus": "193990976",
-      "fechaPublicacion": "2026-07-14",
-      "lat": 4.6214391892814,
-      "lon": -74.096929938623,
-      "location_type": "exacta",
-      "zonaConsulta": "CORREDOR FERREO DEL SUR",
-      "zonaSlug": "corredor-ferreo-del-sur",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-12",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 195000000,
-      "area": 47.0,
-      "precioM2": 4148936,
-      "administracion": 209100.0,
-      "barrio": "LA ESTANCIA",
+      "precio": 330000000,
+      "area": 42.0,
+      "precioM2": 7857143,
+      "administracion": 190000.0,
+      "barrio": "PUENTE ARANDA",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 2,
       "parqueaderos": null,
-      "estrato": 2,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-estancia-bogota/194351334",
-      "titulo": "Apartamento en Venta en La Estancia, Bogotá",
-      "id_domus": "194351334",
-      "fechaPublicacion": "2026-10-03",
-      "lat": 4.5956001,
-      "lon": -74.1721493,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/194205545",
+      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
+      "id_domus": "194205545",
+      "fechaPublicacion": "2026-09-03",
+      "lat": 4.6214071,
+      "lon": -74.0969253,
       "location_type": "exacta",
       "zonaConsulta": "CORREDOR FERREO DEL SUR",
       "zonaSlug": "corredor-ferreo-del-sur",
@@ -462,38 +462,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 308000000,
-      "area": 40.0,
-      "precioM2": 7700000,
-      "administracion": 194130.0,
-      "barrio": "CORREDOR FERREO DEL SUR",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-andresito-bogota/194020739",
-      "titulo": "Apartamento en Venta en San Andresito, Bogotá",
-      "id_domus": "194020739",
-      "fechaPublicacion": "2026-07-22",
-      "lat": 4.6214563,
-      "lon": -74.0971016,
-      "location_type": "exacta",
-      "zonaConsulta": "CORREDOR FERREO DEL SUR",
-      "zonaSlug": "corredor-ferreo-del-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 265000000,
       "area": 31.0,
       "precioM2": 8548387,
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-05-12",
       "lat": 4.6214563,
       "lon": -74.0971016,
+      "location_type": "exacta",
+      "zonaConsulta": "CORREDOR FERREO DEL SUR",
+      "zonaSlug": "corredor-ferreo-del-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 213525000,
+      "area": 50.0,
+      "precioM2": 4270500,
+      "administracion": null,
+      "barrio": "LA ESTANCIA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-estancia-bogota/6738210",
+      "titulo": "Apartamento en venta en La Estancia, Bogotá",
+      "id_domus": "6738210",
+      "fechaPublicacion": "2021-10-04",
+      "lat": 4.59537223280256,
+      "lon": -74.169416773616,
       "location_type": "exacta",
       "zonaConsulta": "CORREDOR FERREO DEL SUR",
       "zonaSlug": "corredor-ferreo-del-sur",
