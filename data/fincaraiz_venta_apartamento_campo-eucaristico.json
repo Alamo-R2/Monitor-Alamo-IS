@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.13 19:58",
+  "generado": "2026.OCT.16 14:22",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 550000000,
+      "area": 87.0,
+      "precioM2": 6321839,
+      "administracion": 361500.0,
+      "barrio": "PABLO VI NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pablo-vi-norte-bogota/194079906",
+      "titulo": "Apartamento en Venta en Pablo vi norte, Bogotá",
+      "id_domus": "194079906",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.6519268,
+      "lon": -74.0922413,
+      "location_type": "exacta",
+      "zonaConsulta": "CAMPO EUCARISTICO",
+      "zonaSlug": "campo-eucaristico",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-08-24",
       "lat": 4.6575403874544,
       "lon": -74.096139907837,
-      "location_type": "exacta",
-      "zonaConsulta": "CAMPO EUCARISTICO",
-      "zonaSlug": "campo-eucaristico",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 550000000,
-      "area": 87.0,
-      "precioM2": 6321839,
-      "administracion": 361500.0,
-      "barrio": "PABLO VI NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pablo-vi-norte-bogota/194079906",
-      "titulo": "Apartamento en Venta en Pablo vi norte, Bogotá",
-      "id_domus": "194079906",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.6519268,
-      "lon": -74.0922413,
       "location_type": "exacta",
       "zonaConsulta": "CAMPO EUCARISTICO",
       "zonaSlug": "campo-eucaristico",

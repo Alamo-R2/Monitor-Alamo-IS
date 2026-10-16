@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.10 01:21",
+  "generado": "2026.OCT.16 14:22",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000,
+      "area": 48.0,
+      "precioM2": 54167,
+      "administracion": null,
+      "barrio": "CHICO NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/194289359",
+      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
+      "id_domus": "194289359",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.6765418,
+      "lon": -74.0619231,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PATRIA",
+      "zonaSlug": "la-patria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-09-11",
       "lat": 4.6790318,
       "lon": -74.0626791,
-      "location_type": "exacta",
-      "zonaConsulta": "LA PATRIA",
-      "zonaSlug": "la-patria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2600000,
-      "area": 48.0,
-      "precioM2": 54167,
-      "administracion": null,
-      "barrio": "CHICO NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/194289359",
-      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
-      "id_domus": "194289359",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.6765418,
-      "lon": -74.0619231,
       "location_type": "exacta",
       "zonaConsulta": "LA PATRIA",
       "zonaSlug": "la-patria",

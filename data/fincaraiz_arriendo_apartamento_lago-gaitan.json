@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 20,
+  "total": 21,
   "zona": "LAGO GAITAN",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.14 14:45",
+  "generado": "2026.OCT.16 14:22",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 9000000,
-      "area": 105.0,
-      "precioM2": 85714,
-      "administracion": 1400000.0,
-      "barrio": "EL VIRREY",
+      "precio": 2000000,
+      "area": 23.0,
+      "precioM2": 86957,
+      "administracion": null,
+      "barrio": "LAGO GAITAN",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 6,
+      "habitaciones": 1.0,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-virrey-bogota/194362897",
-      "titulo": "Apartamento en Arriendo en El Virrey, Bogotá",
-      "id_domus": "194362897",
-      "fechaPublicacion": "2026-10-06",
-      "lat": 4.6628162,
-      "lon": -74.0583645,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194375010",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194375010",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.6657298,
+      "lon": -74.0602035,
       "location_type": "exacta",
       "zonaConsulta": "LAGO GAITAN",
       "zonaSlug": "lago-gaitan",
@@ -54,8 +54,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 1.0,
+      "banos": 1.0,
       "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
@@ -72,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -86,8 +86,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 1.0,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 5,
       "antiguedad": null,
@@ -104,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -118,8 +118,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
+      "habitaciones": 3.0,
+      "banos": 3.0,
       "parqueaderos": 1.0,
       "estrato": 5,
       "antiguedad": null,
@@ -136,39 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1990000,
-      "area": 29.0,
-      "precioM2": 68621,
-      "administracion": null,
-      "barrio": "LAGO GAITAN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194259545",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194259545",
-      "fechaPublicacion": "2026-09-15",
-      "lat": 4.6660737193453,
-      "lon": -74.059981419049,
-      "location_type": "exacta",
-      "zonaConsulta": "LAGO GAITAN",
-      "zonaSlug": "lago-gaitan",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -182,8 +150,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
+      "habitaciones": 3.0,
+      "banos": 4.0,
       "parqueaderos": 1.0,
       "estrato": 6,
       "antiguedad": null,
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -214,8 +182,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 1.0,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 5,
       "antiguedad": null,
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -246,8 +214,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 1.0,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 6,
       "antiguedad": null,
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -278,8 +246,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
+      "habitaciones": 2.0,
+      "banos": 2.0,
       "parqueaderos": null,
       "estrato": 5,
       "antiguedad": null,
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -310,8 +278,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 1.0,
+      "banos": 1.0,
       "parqueaderos": 1.0,
       "estrato": 6,
       "antiguedad": null,
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -342,8 +310,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 1.0,
+      "banos": 1.0,
       "parqueaderos": 1.0,
       "estrato": 6,
       "antiguedad": null,
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -374,8 +342,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 1.0,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 5,
       "antiguedad": null,
@@ -392,7 +360,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 9000000,
+      "area": 105.0,
+      "precioM2": 85714,
+      "administracion": 1400000.0,
+      "barrio": "EL VIRREY",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 2.0,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-virrey-bogota/194362897",
+      "titulo": "Apartamento en Arriendo en El Virrey, Bogotá",
+      "id_domus": "194362897",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.6628162,
+      "lon": -74.0583645,
+      "location_type": "exacta",
+      "zonaConsulta": "LAGO GAITAN",
+      "zonaSlug": "lago-gaitan",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -406,8 +406,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 1.0,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 5,
       "antiguedad": null,
@@ -424,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -438,8 +438,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
+      "habitaciones": 2.0,
+      "banos": 1.0,
       "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
@@ -456,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -470,8 +470,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
+      "habitaciones": 3.0,
+      "banos": 2.0,
       "parqueaderos": 2.0,
       "estrato": 5,
       "antiguedad": null,
@@ -488,39 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2000000,
-      "area": 23.0,
-      "precioM2": 86957,
-      "administracion": null,
-      "barrio": "LAGO GAITAN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194375010",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194375010",
-      "fechaPublicacion": "2026-10-08",
-      "lat": 4.6657298,
-      "lon": -74.0602035,
-      "location_type": "exacta",
-      "zonaConsulta": "LAGO GAITAN",
-      "zonaSlug": "lago-gaitan",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -534,8 +502,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
+      "habitaciones": 2.0,
+      "banos": 2.0,
       "parqueaderos": null,
       "estrato": 6,
       "antiguedad": null,
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -566,8 +534,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
+      "habitaciones": 2.0,
+      "banos": 2.0,
       "parqueaderos": null,
       "estrato": 5,
       "antiguedad": null,
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -598,8 +566,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
+      "habitaciones": 2.0,
+      "banos": 2.0,
       "parqueaderos": null,
       "estrato": 5,
       "antiguedad": null,
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -630,8 +598,8 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 1.0,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 4,
       "antiguedad": null,
@@ -642,6 +610,70 @@
       "fechaPublicacion": "2026-10-13",
       "lat": 4.6658031,
       "lon": -74.0595594,
+      "location_type": "exacta",
+      "zonaConsulta": "LAGO GAITAN",
+      "zonaSlug": "lago-gaitan",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 17000000,
+      "area": 737.0,
+      "precioM2": 23066,
+      "administracion": null,
+      "barrio": "LAGO GAITAN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": 2001.0,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/4307573",
+      "titulo": "Apartamento en arriendo en Barrios Unidos, Bogotá",
+      "id_domus": "4307573",
+      "fechaPublicacion": "2019-02-01",
+      "lat": 4.6679292,
+      "lon": -74.0588707,
+      "location_type": "exacta",
+      "zonaConsulta": "LAGO GAITAN",
+      "zonaSlug": "lago-gaitan",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 50.0,
+      "precioM2": 40000,
+      "administracion": 645000.0,
+      "barrio": "LAGO GAITAN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2.0,
+      "banos": 1.0,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-lago-bogota/194272230",
+      "titulo": "Apartamento en Arriendo en El Lago, Bogotá",
+      "id_domus": "194272230",
+      "fechaPublicacion": "2026-09-17",
+      "lat": 4.663246141124,
+      "lon": -74.060248850873,
       "location_type": "exacta",
       "zonaConsulta": "LAGO GAITAN",
       "zonaSlug": "lago-gaitan",

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "DOCE DE OCTUBRE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.10 01:21",
+  "generado": "2026.OCT.16 14:22",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1949200,
+      "area": 63.0,
+      "precioM2": 30940,
+      "administracion": 350800.0,
+      "barrio": "DOCE DE OCTUBRE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-doce-de-octubre-bogota/194400966",
+      "titulo": "Apartamento en Arriendo en Doce de octubre, Bogotá",
+      "id_domus": "194400966",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.6716039,
+      "lon": -74.0756731,
+      "location_type": "exacta",
+      "zonaConsulta": "DOCE DE OCTUBRE",
+      "zonaSlug": "doce-de-octubre",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1100000,
       "area": 60.0,
       "precioM2": 18333,
@@ -72,15 +104,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 850000,
+      "precio": 800000,
       "area": 30.0,
-      "precioM2": 28333,
+      "precioM2": 26667,
       "administracion": null,
       "barrio": "DOCE DE OCTUBRE",
       "upl": "Barrios Unidos",
