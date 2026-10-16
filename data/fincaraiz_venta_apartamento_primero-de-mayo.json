@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "PRIMERO DE MAYO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.09 19:07",
+  "generado": "2026.OCT.16 05:13",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 340000000,
+      "area": 71.0,
+      "precioM2": 4788732,
+      "administracion": 195000.0,
+      "barrio": "VELODROMO",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-velodromo-bogota/194403438",
+      "titulo": "Apartamento en Venta en Velodromo, Bogotá",
+      "id_domus": "194403438",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.5711044,
+      "lon": -74.0891806,
+      "location_type": "exacta",
+      "zonaConsulta": "PRIMERO DE MAYO",
+      "zonaSlug": "primero-de-mayo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],

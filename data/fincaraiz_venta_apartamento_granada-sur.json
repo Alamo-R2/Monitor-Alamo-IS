@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 7,
   "zona": "GRANADA SUR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.12 19:27",
+  "generado": "2026.OCT.16 05:13",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -142,6 +142,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 340000000,
+      "area": 71.0,
+      "precioM2": 4788732,
+      "administracion": 195000.0,
+      "barrio": "VELODROMO",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-velodromo-bogota/194403438",
+      "titulo": "Apartamento en Venta en Velodromo, Bogotá",
+      "id_domus": "194403438",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.5711044,
+      "lon": -74.0891806,
+      "location_type": "exacta",
+      "zonaConsulta": "GRANADA SUR",
+      "zonaSlug": "granada-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 280000000,
       "area": 53.0,
       "precioM2": 5283019,
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
