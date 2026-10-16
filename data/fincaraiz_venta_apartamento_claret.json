@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 11,
+  "total": 16,
   "zona": "CLARET",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.10 01:21",
+  "generado": "2026.OCT.15 23:57",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 304000000,
+      "area": 61.0,
+      "precioM2": 4983607,
+      "administracion": null,
+      "barrio": "SANTA LUCIA",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-lucia-bogota/194384728",
+      "titulo": "Apartamento en Venta en Santa lucia, Bogotá",
+      "id_domus": "194384728",
+      "fechaPublicacion": "2026-10-09",
+      "lat": 4.5790933,
+      "lon": -74.1269506,
+      "location_type": "exacta",
+      "zonaConsulta": "CLARET",
+      "zonaSlug": "claret",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-07-23",
       "lat": 4.5842340994268,
       "lon": -74.126415561377,
-      "location_type": "exacta",
-      "zonaConsulta": "CLARET",
-      "zonaSlug": "claret",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 290000000,
-      "area": 31.0,
-      "precioM2": 9354839,
-      "administracion": 690000.0,
-      "barrio": "CLARET",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tunal-bogota/193710931",
-      "titulo": "Apartamento en Venta en El Tunal, Bogotá",
-      "id_domus": "193710931",
-      "fechaPublicacion": "2026-05-05",
-      "lat": 4.5810547,
-      "lon": -74.1280493,
       "location_type": "exacta",
       "zonaConsulta": "CLARET",
       "zonaSlug": "claret",
@@ -206,6 +206,102 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 44.0,
+      "precioM2": 5454545,
+      "administracion": null,
+      "barrio": "INGLES",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ingles-bogota/194386865",
+      "titulo": "Apartamento en Venta en Ingles, Bogotá",
+      "id_domus": "194386865",
+      "fechaPublicacion": "2026-10-10",
+      "lat": 4.5844962863436,
+      "lon": -74.126527692188,
+      "location_type": "exacta",
+      "zonaConsulta": "CLARET",
+      "zonaSlug": "claret",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 380000000,
+      "area": 57.0,
+      "precioM2": 6666667,
+      "administracion": null,
+      "barrio": "CLARET",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-claret-bogota/194402653",
+      "titulo": "Apartamento en Venta en Claret, Bogotá",
+      "id_domus": "194402653",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.5830401278967,
+      "lon": -74.124402358369,
+      "location_type": "exacta",
+      "zonaConsulta": "CLARET",
+      "zonaSlug": "claret",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 355000000,
+      "area": 57.0,
+      "precioM2": 6228070,
+      "administracion": null,
+      "barrio": "INGLES",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ingles-bogota/194386764",
+      "titulo": "Apartamento en Venta en Ingles, Bogotá",
+      "id_domus": "194386764",
+      "fechaPublicacion": "2026-10-10",
+      "lat": 4.5828189802207,
+      "lon": -74.124522674097,
+      "location_type": "exacta",
+      "zonaConsulta": "CLARET",
+      "zonaSlug": "claret",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 210000000,
       "area": 34.0,
       "precioM2": 6176471,
@@ -232,7 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 355000000,
+      "area": 57.0,
+      "precioM2": 6228070,
+      "administracion": null,
+      "barrio": "INGLES",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ingles-bogota/194394121",
+      "titulo": "Apartamento en Venta en Ingles, Bogotá",
+      "id_domus": "194394121",
+      "fechaPublicacion": "2026-10-13",
+      "lat": 4.5829833197411,
+      "lon": -74.124332255302,
+      "location_type": "exacta",
+      "zonaConsulta": "CLARET",
+      "zonaSlug": "claret",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -354,6 +482,38 @@
       "fechaPublicacion": "2026-01-28",
       "lat": 4.5852856,
       "lon": -74.1269527,
+      "location_type": "exacta",
+      "zonaConsulta": "CLARET",
+      "zonaSlug": "claret",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 290000000,
+      "area": 31.0,
+      "precioM2": 9354839,
+      "administracion": 690000.0,
+      "barrio": "CLARET",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tunal-bogota/193710931",
+      "titulo": "Apartamento en Venta en El Tunal, Bogotá",
+      "id_domus": "193710931",
+      "fechaPublicacion": "2026-05-05",
+      "lat": 4.5810547,
+      "lon": -74.1280493,
       "location_type": "exacta",
       "zonaConsulta": "CLARET",
       "zonaSlug": "claret",

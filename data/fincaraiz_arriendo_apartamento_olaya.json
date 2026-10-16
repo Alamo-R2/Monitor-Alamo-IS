@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.09 11:33",
+  "generado": "2026.OCT.15 23:57",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 70.0,
+      "precioM2": 17143,
+      "administracion": null,
+      "barrio": "RESTREPO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-restrepo-bogota/194280845",
+      "titulo": "Apartamento en Arriendo en Restrepo, Bogotá",
+      "id_domus": "194280845",
+      "fechaPublicacion": "2026-09-18",
+      "lat": 4.5839761,
+      "lon": -74.1053255,
+      "location_type": "exacta",
+      "zonaConsulta": "OLAYA",
+      "zonaSlug": "olaya",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1300000,
       "area": 75.0,
       "precioM2": 17333,
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -258,38 +290,6 @@
       "fechaPublicacion": "2026-07-01",
       "lat": 4.5793752,
       "lon": -74.1057661,
-      "location_type": "exacta",
-      "zonaConsulta": "OLAYA",
-      "zonaSlug": "olaya",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 70.0,
-      "precioM2": 17143,
-      "administracion": null,
-      "barrio": "RESTREPO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-restrepo-bogota/194280845",
-      "titulo": "Apartamento en Arriendo en Restrepo, Bogotá",
-      "id_domus": "194280845",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.5839761,
-      "lon": -74.1053255,
       "location_type": "exacta",
       "zonaConsulta": "OLAYA",
       "zonaSlug": "olaya",

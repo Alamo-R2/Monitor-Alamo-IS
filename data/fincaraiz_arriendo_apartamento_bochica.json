@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 9,
   "zona": "BOCHICA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.13 12:15",
+  "generado": "2026.OCT.15 23:57",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -206,6 +206,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 953000,
+      "area": 31.0,
+      "precioM2": 30742,
+      "administracion": 47000.0,
+      "barrio": "BOCHICA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194395548",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194395548",
+      "fechaPublicacion": "2026-10-13",
+      "lat": 4.7113764,
+      "lon": -74.1047048,
+      "location_type": "exacta",
+      "zonaConsulta": "BOCHICA",
+      "zonaSlug": "bochica",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1500000,
       "area": 56.0,
       "precioM2": 26786,
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],

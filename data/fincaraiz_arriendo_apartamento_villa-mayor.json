@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.09 11:33",
+  "generado": "2026.OCT.15 23:57",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000,
+      "area": 70.0,
+      "precioM2": 20000,
+      "administracion": null,
+      "barrio": "VILLA MAYOR ORIENTAL",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villa-mayor-oriental-bogota/194055652",
+      "titulo": "Apartamento en Arriendo en Villa mayor oriental, Bogotá",
+      "id_domus": "194055652",
+      "fechaPublicacion": "2026-07-30",
+      "lat": 4.5898742,
+      "lon": -74.1247794,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA MAYOR",
+      "zonaSlug": "villa-mayor",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-09-14",
       "lat": 4.586875,
       "lon": -74.126532,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA MAYOR",
-      "zonaSlug": "villa-mayor",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1400000,
-      "area": 70.0,
-      "precioM2": 20000,
-      "administracion": null,
-      "barrio": "VILLA MAYOR ORIENTAL",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villa-mayor-oriental-bogota/194055652",
-      "titulo": "Apartamento en Arriendo en Villa mayor oriental, Bogotá",
-      "id_domus": "194055652",
-      "fechaPublicacion": "2026-07-30",
-      "lat": 4.5898742,
-      "lon": -74.1247794,
       "location_type": "exacta",
       "zonaConsulta": "VILLA MAYOR",
       "zonaSlug": "villa-mayor",

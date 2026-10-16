@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 9,
   "zona": "REMANSO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.09 11:33",
+  "generado": "2026.OCT.15 23:57",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 3200000,
+      "area": 75.0,
+      "precioM2": 42667,
+      "administracion": null,
+      "barrio": "PUENTE ARANDA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-puente-aranda-bogota/194211425",
+      "titulo": "Apartamento en Arriendo en Puente aranda, Bogotá",
+      "id_domus": "194211425",
+      "fechaPublicacion": "2026-09-04",
+      "lat": 4.6008191,
+      "lon": -74.1087076,
+      "location_type": "exacta",
+      "zonaConsulta": "REMANSO",
+      "zonaSlug": "remanso",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2000000,
       "area": 80.0,
       "precioM2": 25000,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -160,15 +192,15 @@
       "titulo": "Apartamento en Arriendo en Remanso, Bogotá",
       "id_domus": "194340640",
       "fechaPublicacion": "2026-10-01",
-      "lat": 4.6054909,
-      "lon": -74.0894573,
+      "lat": 4.6004946,
+      "lon": -74.1107503,
       "location_type": "exacta",
       "zonaConsulta": "REMANSO",
       "zonaSlug": "remanso",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,71 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3200000,
-      "area": 75.0,
-      "precioM2": 42667,
-      "administracion": null,
-      "barrio": "SANTA MATILDE",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-matilde-bogota/194211608",
-      "titulo": "Apartamento en Arriendo en Santa matilde, Bogotá",
-      "id_domus": "194211608",
-      "fechaPublicacion": "2026-09-04",
-      "lat": 4.6008191,
-      "lon": -74.1087076,
-      "location_type": "exacta",
-      "zonaConsulta": "REMANSO",
-      "zonaSlug": "remanso",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3200000,
-      "area": 75.0,
-      "precioM2": 42667,
-      "administracion": null,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-puente-aranda-bogota/194211425",
-      "titulo": "Apartamento en Arriendo en Puente aranda, Bogotá",
-      "id_domus": "194211425",
-      "fechaPublicacion": "2026-09-04",
-      "lat": 4.6008191,
-      "lon": -74.1087076,
-      "location_type": "exacta",
-      "zonaConsulta": "REMANSO",
-      "zonaSlug": "remanso",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -306,7 +274,7 @@
       "area": 60.0,
       "precioM2": 41667,
       "administracion": null,
-      "barrio": "POLO CLUB",
+      "barrio": "REMANSO",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -316,8 +284,8 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-polo-club-bogota/194340647",
-      "titulo": "Apartamento en Arriendo en Polo club, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-remanso-bogota/194340647",
+      "titulo": "Apartamento en Arriendo en Remanso, Bogotá",
       "id_domus": "194340647",
       "fechaPublicacion": "2026-10-01",
       "lat": 4.6004946,
