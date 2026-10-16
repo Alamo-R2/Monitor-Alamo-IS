@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 14,
+  "total": 13,
   "zona": "TABORA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.10 10:51",
+  "generado": "2026.OCT.16 20:09",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -142,38 +142,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 212000000,
-      "area": 50.0,
-      "precioM2": 4240000,
-      "administracion": null,
-      "barrio": "BOSA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/194243323",
-      "titulo": "Apartamento en Venta en Bosa, Bogotá",
-      "id_domus": "194243323",
-      "fechaPublicacion": "2026-09-11",
-      "lat": 4.696566501372,
-      "lon": -74.10016912904,
-      "location_type": "exacta",
-      "zonaConsulta": "TABORA",
-      "zonaSlug": "tabora",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 250000000,
       "area": 32.0,
       "precioM2": 7812500,
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -226,6 +194,38 @@
       "fechaPublicacion": "2026-07-02",
       "lat": 4.6938531,
       "lon": -74.0999692,
+      "location_type": "exacta",
+      "zonaConsulta": "TABORA",
+      "zonaSlug": "tabora",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 212000000,
+      "area": 50.0,
+      "precioM2": 4240000,
+      "administracion": null,
+      "barrio": "BOSA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/194243323",
+      "titulo": "Apartamento en Venta en Bosa, Bogotá",
+      "id_domus": "194243323",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.696566501372,
+      "lon": -74.10016912904,
       "location_type": "exacta",
       "zonaConsulta": "TABORA",
       "zonaSlug": "tabora",
@@ -334,38 +334,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 250000000,
-      "area": 32.0,
-      "precioM2": 7812500,
-      "administracion": 158000.0,
-      "barrio": "TABORA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194116631",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194116631",
-      "fechaPublicacion": "2026-08-14",
-      "lat": 4.696296,
-      "lon": -74.1018409,
-      "location_type": "exacta",
-      "zonaConsulta": "TABORA",
-      "zonaSlug": "tabora",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 227990000,
       "area": 44.0,
       "precioM2": 5181591,
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],

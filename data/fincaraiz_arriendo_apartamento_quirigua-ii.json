@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "QUIRIGUA II",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.10 10:51",
+  "generado": "2026.OCT.16 20:09",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 953000,
+      "area": 31.0,
+      "precioM2": 30742,
+      "administracion": 47000.0,
+      "barrio": "QUIRIGUA II",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194395548",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194395548",
+      "fechaPublicacion": "2026-10-13",
+      "lat": 4.7113764,
+      "lon": -74.1047048,
+      "location_type": "exacta",
+      "zonaConsulta": "QUIRIGUA II",
+      "zonaSlug": "quirigua-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 45.0,
+      "precioM2": 26667,
+      "administracion": null,
+      "barrio": "QUIRIGUA I",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quirigua-i-bogota/194406579",
+      "titulo": "Apartamento en Arriendo en Quirigua i, Bogotá",
+      "id_domus": "194406579",
+      "fechaPublicacion": "2026-10-15",
+      "lat": 4.7099362,
+      "lon": -74.1026838,
+      "location_type": "exacta",
+      "zonaConsulta": "QUIRIGUA II",
+      "zonaSlug": "quirigua-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 900000,
       "area": 15.0,
       "precioM2": 60000,
@@ -72,39 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1400000,
-      "area": 36.0,
-      "precioM2": 38889,
-      "administracion": null,
-      "barrio": "QUIRIGUA II",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-quirigua-bogota/194187530",
-      "titulo": "Apartamento en Arriendo en Ciudad quirigua, Bogotá",
-      "id_domus": "194187530",
-      "fechaPublicacion": "2026-08-31",
-      "lat": 4.708794,
-      "lon": -74.1056289,
-      "location_type": "exacta",
-      "zonaConsulta": "QUIRIGUA II",
-      "zonaSlug": "quirigua-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],

@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 5,
   "zona": "LA SERENA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.10 10:51",
+  "generado": "2026.OCT.16 20:09",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 340000000,
+      "area": 67.0,
+      "precioM2": 5074627,
+      "administracion": 150000.0,
+      "barrio": "PARIS GAITAN",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-paris-gaitan-bogota/194406408",
+      "titulo": "Apartamento en Venta en Paris gaitan, Bogotá",
+      "id_domus": "194406408",
+      "fechaPublicacion": "2026-10-15",
+      "lat": 4.7073902,
+      "lon": -74.0944256,
+      "location_type": "exacta",
+      "zonaConsulta": "LA SERENA",
+      "zonaSlug": "la-serena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -130,70 +162,6 @@
       "fechaPublicacion": "2026-09-15",
       "lat": 4.7097219,
       "lon": -74.0960671,
-      "location_type": "exacta",
-      "zonaConsulta": "LA SERENA",
-      "zonaSlug": "la-serena",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 279999999,
-      "area": 62.0,
-      "precioM2": 4516129,
-      "administracion": 220000.0,
-      "barrio": "LA SERENA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/193175270",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "193175270",
-      "fechaPublicacion": "2025-12-05",
-      "lat": 4.7084833,
-      "lon": -74.094825,
-      "location_type": "exacta",
-      "zonaConsulta": "LA SERENA",
-      "zonaSlug": "la-serena",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 280000000,
-      "area": 63.0,
-      "precioM2": 4444444,
-      "administracion": 210000.0,
-      "barrio": "LA SERENA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194118174",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194118174",
-      "fechaPublicacion": "2026-08-14",
-      "lat": 4.7084573506107,
-      "lon": -74.094841518741,
       "location_type": "exacta",
       "zonaConsulta": "LA SERENA",
       "zonaSlug": "la-serena",

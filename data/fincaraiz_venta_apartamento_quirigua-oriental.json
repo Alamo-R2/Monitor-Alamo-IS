@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 7,
   "zona": "QUIRIGUA ORIENTAL",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.10 10:51",
+  "generado": "2026.OCT.16 20:09",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 235000000,
-      "area": 70.0,
-      "precioM2": 3357143,
-      "administracion": 249000.0,
-      "barrio": "QUIRIGUA ORIENTAL",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194327426",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194327426",
-      "fechaPublicacion": "2026-09-28",
-      "lat": 4.7059302,
-      "lon": -74.1026799,
-      "location_type": "exacta",
-      "zonaConsulta": "QUIRIGUA ORIENTAL",
-      "zonaSlug": "quirigua-oriental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -56,7 +24,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 2.0,
+      "parqueaderos": 2,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -88,7 +56,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1.0,
+      "parqueaderos": 1,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -120,7 +88,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1.0,
+      "parqueaderos": 1,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -136,39 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 390000000,
-      "area": 58.0,
-      "precioM2": 6724138,
-      "administracion": 164000.0,
-      "barrio": "LOS CEREZOS",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-cerezos-bogota/193173667",
-      "titulo": "Apartamento en Venta en Los cerezos, Bogotá",
-      "id_domus": "193173667",
-      "fechaPublicacion": "2025-12-05",
-      "lat": 4.7060364,
-      "lon": -74.1026474,
-      "location_type": "exacta",
-      "zonaConsulta": "QUIRIGUA ORIENTAL",
-      "zonaSlug": "quirigua-oriental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -184,7 +120,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1.0,
+      "parqueaderos": 1,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -216,7 +152,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1.0,
+      "parqueaderos": 1,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -248,7 +184,7 @@
       "direccion": "",
       "habitaciones": 4,
       "banos": 5,
-      "parqueaderos": 3.0,
+      "parqueaderos": 3,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -258,6 +194,38 @@
       "fechaPublicacion": "2026-07-27",
       "lat": 4.7086828,
       "lon": -74.100654,
+      "location_type": "exacta",
+      "zonaConsulta": "QUIRIGUA ORIENTAL",
+      "zonaSlug": "quirigua-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 390000000,
+      "area": 58.0,
+      "precioM2": 6724138,
+      "administracion": 164000.0,
+      "barrio": "LOS CEREZOS",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-cerezos-bogota/193173667",
+      "titulo": "Apartamento en Venta en Los cerezos, Bogotá",
+      "id_domus": "193173667",
+      "fechaPublicacion": "2025-12-05",
+      "lat": 4.7060364,
+      "lon": -74.1026474,
       "location_type": "exacta",
       "zonaConsulta": "QUIRIGUA ORIENTAL",
       "zonaSlug": "quirigua-oriental",

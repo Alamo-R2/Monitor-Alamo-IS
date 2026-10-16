@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 4,
   "zona": "SIMON BOLIVAR",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.10 10:51",
+  "generado": "2026.OCT.16 20:09",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1850000,
+      "area": 63.0,
+      "precioM2": 29365,
+      "administracion": 90000.0,
+      "barrio": "SIMON BOLIVAR",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-simon-bolivar-bogota/194378677",
+      "titulo": "Apartamento en Arriendo en Simon bolivar, Bogotá",
+      "id_domus": "194378677",
+      "fechaPublicacion": "2026-10-09",
+      "lat": 4.6738,
+      "lon": -74.0805,
+      "location_type": "exacta",
+      "zonaConsulta": "SIMON BOLIVAR",
+      "zonaSlug": "simon-bolivar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,15 +104,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1200000,
+      "precio": 1100000,
       "area": 47.0,
-      "precioM2": 25532,
+      "precioM2": 23404,
       "administracion": null,
       "barrio": "SAN FERNANDO",
       "upl": "Barrios Unidos",
@@ -98,70 +130,6 @@
       "fechaPublicacion": "2026-08-12",
       "lat": 4.6778509,
       "lon": -74.0786952,
-      "location_type": "exacta",
-      "zonaConsulta": "SIMON BOLIVAR",
-      "zonaSlug": "simon-bolivar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2900000,
-      "area": 75.0,
-      "precioM2": 38667,
-      "administracion": null,
-      "barrio": "METROPOLIS",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-metropolis-bogota/194382992",
-      "titulo": "Apartamento en Arriendo en Metropolis, Bogotá",
-      "id_domus": "194382992",
-      "fechaPublicacion": "2026-10-09",
-      "lat": 4.681576106083,
-      "lon": -74.079360847398,
-      "location_type": "exacta",
-      "zonaConsulta": "SIMON BOLIVAR",
-      "zonaSlug": "simon-bolivar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1850000,
-      "area": 63.0,
-      "precioM2": 29365,
-      "administracion": 90000.0,
-      "barrio": "SIMON BOLIVAR",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-simon-bolivar-bogota/194378677",
-      "titulo": "Apartamento en Arriendo en Simon bolivar, Bogotá",
-      "id_domus": "194378677",
-      "fechaPublicacion": "2026-10-09",
-      "lat": 4.6738,
-      "lon": -74.0805,
       "location_type": "exacta",
       "zonaConsulta": "SIMON BOLIVAR",
       "zonaSlug": "simon-bolivar",

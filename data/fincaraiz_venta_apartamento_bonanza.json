@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 15,
+  "total": 12,
   "zona": "BONANZA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.10 10:51",
+  "generado": "2026.OCT.16 20:09",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 55.0,
+      "precioM2": 6363636,
+      "administracion": 290000.0,
+      "barrio": "BONANZA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194241925",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194241925",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.6901929,
+      "lon": -74.0898194,
+      "location_type": "exacta",
+      "zonaConsulta": "BONANZA",
+      "zonaSlug": "bonanza",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-08-09",
       "lat": 4.6882352,
       "lon": -74.0948631,
-      "location_type": "exacta",
-      "zonaConsulta": "BONANZA",
-      "zonaSlug": "bonanza",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 360000000,
-      "area": 55.0,
-      "precioM2": 6545455,
-      "administracion": 245000.0,
-      "barrio": "BONANZA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194244475",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194244475",
-      "fechaPublicacion": "2026-09-11",
-      "lat": 4.6899662103155,
-      "lon": -74.090128390348,
       "location_type": "exacta",
       "zonaConsulta": "BONANZA",
       "zonaSlug": "bonanza",
@@ -142,38 +142,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 390000000,
-      "area": 79.0,
-      "precioM2": 4936709,
-      "administracion": 445000.0,
-      "barrio": "BONANZA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194099969",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194099969",
-      "fechaPublicacion": "2026-08-11",
-      "lat": 4.6931659713305,
-      "lon": -74.086810222938,
-      "location_type": "exacta",
-      "zonaConsulta": "BONANZA",
-      "zonaSlug": "bonanza",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 580000000,
       "area": 91.0,
       "precioM2": 6373626,
@@ -200,39 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 350000000,
-      "area": 55.0,
-      "precioM2": 6363636,
-      "administracion": 290000.0,
-      "barrio": "BONANZA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194241925",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194241925",
-      "fechaPublicacion": "2026-09-11",
-      "lat": 4.6901929,
-      "lon": -74.0898194,
-      "location_type": "exacta",
-      "zonaConsulta": "BONANZA",
-      "zonaSlug": "bonanza",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -264,39 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 295000000,
-      "area": 62.0,
-      "precioM2": 4758065,
-      "administracion": null,
-      "barrio": "BONANZA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194366121",
-      "titulo": "Apartamento en Venta en Bogotá",
-      "id_domus": "194366121",
-      "fechaPublicacion": "2026-10-06",
-      "lat": 4.6855104,
-      "lon": -74.093976,
-      "location_type": "exacta",
-      "zonaConsulta": "BONANZA",
-      "zonaSlug": "bonanza",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],

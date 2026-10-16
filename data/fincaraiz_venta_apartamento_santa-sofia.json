@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.10 10:51",
+  "generado": "2026.OCT.16 20:09",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 310000000,
+      "area": 22.0,
+      "precioM2": 14090909,
+      "administracion": null,
+      "barrio": "POLO CLUB",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-polo-club-bogota/194232890",
+      "titulo": "Apartamento en Venta en Polo club, Bogotá",
+      "id_domus": "194232890",
+      "fechaPublicacion": "2026-09-09",
+      "lat": 4.6711848,
+      "lon": -74.0648022,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA SOFIA",
+      "zonaSlug": "santa-sofia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2025-07-13",
       "lat": 4.6712414,
       "lon": -74.064967,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA SOFIA",
-      "zonaSlug": "santa-sofia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 22.0,
-      "precioM2": 14090909,
-      "administracion": null,
-      "barrio": "POLO CLUB",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-polo-club-bogota/194232890",
-      "titulo": "Apartamento en Venta en Polo club, Bogotá",
-      "id_domus": "194232890",
-      "fechaPublicacion": "2026-09-09",
-      "lat": 4.6711848,
-      "lon": -74.0648022,
       "location_type": "exacta",
       "zonaConsulta": "SANTA SOFIA",
       "zonaSlug": "santa-sofia",
