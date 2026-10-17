@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 12,
+  "total": 16,
   "zona": "MARIA PAZ",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 15:59",
+  "generado": "2026.OCT.17 16:42",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000,
+      "area": 42.0,
+      "precioM2": 33333,
+      "administracion": null,
+      "barrio": "CIUDAD TECHO II",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-techo-ii-bogota/194397406",
+      "titulo": "Apartamento en Arriendo en Ciudad techo ii, Bogotá",
+      "id_domus": "194397406",
+      "fechaPublicacion": "2026-10-13",
+      "lat": 4.6344583,
+      "lon": -74.1556005,
+      "location_type": "exacta",
+      "zonaConsulta": "MARIA PAZ",
+      "zonaSlug": "maria-paz",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1385900,
+      "area": 59.0,
+      "precioM2": 23490,
+      "administracion": 214100.0,
+      "barrio": "CASTILLA",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/194400107",
+      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
+      "id_domus": "194400107",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.636304734571,
+      "lon": -74.152997794632,
+      "location_type": "exacta",
+      "zonaConsulta": "MARIA PAZ",
+      "zonaSlug": "maria-paz",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +296,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 54.0,
+      "precioM2": 29630,
+      "administracion": null,
+      "barrio": "CASTILLA",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/194378230",
+      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
+      "id_domus": "194378230",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.6363908,
+      "lon": -74.1531148,
+      "location_type": "exacta",
+      "zonaConsulta": "MARIA PAZ",
+      "zonaSlug": "maria-paz",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +360,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-12",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1350000,
+      "area": 58.0,
+      "precioM2": 23276,
+      "administracion": null,
+      "barrio": "NUEVO TECHO",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nuevo-techo-bogota/193355473",
+      "titulo": "Apartamento en Arriendo en Nuevo Techo, Bogotá",
+      "id_domus": "193355473",
+      "fechaPublicacion": "2026-02-03",
+      "lat": 4.6402,
+      "lon": -74.155237,
+      "location_type": "exacta",
+      "zonaConsulta": "MARIA PAZ",
+      "zonaSlug": "maria-paz",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],

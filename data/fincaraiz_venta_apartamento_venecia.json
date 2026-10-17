@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 6,
   "zona": "VENECIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 14:22",
+  "generado": "2026.OCT.17 16:42",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,70 +78,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 275000000,
-      "area": 51.0,
-      "precioM2": 5392157,
-      "administracion": 190000.0,
-      "barrio": "VENECIA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-venecia-bogota/194008841",
-      "titulo": "Apartamento en Venta en Venecia, Bogotá",
-      "id_domus": "194008841",
-      "fechaPublicacion": "2026-07-19",
-      "lat": 4.5962338,
-      "lon": -74.139498,
-      "location_type": "exacta",
-      "zonaConsulta": "VENECIA",
-      "zonaSlug": "venecia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 600000000,
-      "area": 76.0,
-      "precioM2": 7894737,
-      "administracion": 390000.0,
-      "barrio": "TUNJUELITO",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tunjuelito-bogota/193964846",
-      "titulo": "Apartamento en Venta en Tunjuelito, Bogotá",
-      "id_domus": "193964846",
-      "fechaPublicacion": "2026-07-07",
-      "lat": 4.5937518,
-      "lon": -74.1369892,
-      "location_type": "exacta",
-      "zonaConsulta": "VENECIA",
-      "zonaSlug": "venecia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 360000000,
       "area": 140.0,
       "precioM2": 2571429,
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -226,6 +162,38 @@
       "fechaPublicacion": "2026-08-25",
       "lat": 4.5888245,
       "lon": -74.14112,
+      "location_type": "exacta",
+      "zonaConsulta": "VENECIA",
+      "zonaSlug": "venecia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 600000000,
+      "area": 76.0,
+      "precioM2": 7894737,
+      "administracion": 390000.0,
+      "barrio": "TUNJUELITO",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tunjuelito-bogota/193964846",
+      "titulo": "Apartamento en Venta en Tunjuelito, Bogotá",
+      "id_domus": "193964846",
+      "fechaPublicacion": "2026-07-07",
+      "lat": 4.5937518,
+      "lon": -74.1369892,
       "location_type": "exacta",
       "zonaConsulta": "VENECIA",
       "zonaSlug": "venecia",

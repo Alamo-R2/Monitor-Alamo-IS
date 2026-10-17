@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 15,
+  "total": 17,
   "zona": "PROVIVIENDA OCCIDENTAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 15:59",
+  "generado": "2026.OCT.17 16:42",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,9 +46,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1000000,
-      "area": 50.0,
-      "precioM2": 20000,
+      "precio": 1400000,
+      "area": 40.0,
+      "precioM2": 35000,
       "administracion": null,
       "barrio": "PROVIVIENDA OCCIDENTAL",
       "upl": "Kennedy",
@@ -60,12 +60,12 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-carimagua-bogota/194267649",
-      "titulo": "Apartamento en Arriendo en Carimagua, Bogotá",
-      "id_domus": "194267649",
-      "fechaPublicacion": "2026-09-16",
-      "lat": 4.6143631,
-      "lon": -74.1452545,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-bogota/194402678",
+      "titulo": "Apartamento en Arriendo en Kennedy, Bogotá",
+      "id_domus": "194402678",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.6181258,
+      "lon": -74.1455879,
       "location_type": "exacta",
       "zonaConsulta": "PROVIVIENDA OCCIDENTAL",
       "zonaSlug": "provivienda-occidental",
@@ -366,6 +366,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1000000,
+      "area": 50.0,
+      "precioM2": 20000,
+      "administracion": null,
+      "barrio": "PROVIVIENDA OCCIDENTAL",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-carimagua-bogota/194267649",
+      "titulo": "Apartamento en Arriendo en Carimagua, Bogotá",
+      "id_domus": "194267649",
+      "fechaPublicacion": "2026-09-16",
+      "lat": 4.6143631,
+      "lon": -74.1452545,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA OCCIDENTAL",
+      "zonaSlug": "provivienda-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1300000,
       "area": 40.0,
       "precioM2": 32500,
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1350000,
+      "area": 55.0,
+      "precioM2": 24545,
+      "administracion": null,
+      "barrio": "PROVIVIENDA OCCIDENTAL",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-central-bogota/194402499",
+      "titulo": "Apartamento en Arriendo en Kennedy Central, Bogotá",
+      "id_domus": "194402499",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.6194334,
+      "lon": -74.1417875,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA OCCIDENTAL",
+      "zonaSlug": "provivienda-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],

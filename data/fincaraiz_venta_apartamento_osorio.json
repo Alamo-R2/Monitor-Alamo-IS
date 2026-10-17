@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 21:08",
+  "generado": "2026.OCT.17 16:42",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 178000000,
+      "area": 47.0,
+      "precioM2": 3787234,
+      "administracion": 97000.0,
+      "barrio": "OSORIO",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tierra-buena-bogota/193924523",
+      "titulo": "Apartamento en Venta en Tierra Buena, Bogotá",
+      "id_domus": "193924523",
+      "fechaPublicacion": "2026-06-26",
+      "lat": 4.6514435,
+      "lon": -74.169167,
+      "location_type": "exacta",
+      "zonaConsulta": "OSORIO",
+      "zonaSlug": "osorio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 145000000,
+      "area": 35.0,
+      "precioM2": 4142857,
+      "administracion": 120000.0,
+      "barrio": "OSORIO",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tierra-buena-bogota/194051086",
+      "titulo": "Apartamento en Venta en Tierra Buena, Bogotá",
+      "id_domus": "194051086",
+      "fechaPublicacion": "2026-07-29",
+      "lat": 4.65147,
+      "lon": -74.170149,
+      "location_type": "exacta",
+      "zonaConsulta": "OSORIO",
+      "zonaSlug": "osorio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -168,71 +232,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 250000000,
-      "area": 55.0,
-      "precioM2": 4545455,
+      "area": 50.0,
+      "precioM2": 5000000,
       "administracion": 160000.0,
       "barrio": "OSORIO",
       "upl": "Patio Bonito",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tierra-buena-bogota/194038482",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tierra-buena-bogota/194356305",
       "titulo": "Apartamento en Venta en Tierra Buena, Bogotá",
-      "id_domus": "194038482",
-      "fechaPublicacion": "2026-07-27",
-      "lat": 4.6496398823879,
-      "lon": -74.169012603661,
+      "id_domus": "194356305",
+      "fechaPublicacion": "2026-10-05",
+      "lat": 4.6484381,
+      "lon": -74.1688609,
       "location_type": "exacta",
       "zonaConsulta": "OSORIO",
       "zonaSlug": "osorio",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 213900000,
-      "area": 53.0,
-      "precioM2": 4035849,
-      "administracion": 127200.0,
+      "precio": 280000000,
+      "area": 52.0,
+      "precioM2": 5384615,
+      "administracion": 130000.0,
       "barrio": "OSORIO",
       "upl": "Patio Bonito",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
+      "habitaciones": 4,
+      "banos": 1,
       "parqueaderos": null,
-      "estrato": 2.0,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-bogota/194293897",
-      "titulo": "Apartamento en Venta en Kennedy, Bogotá",
-      "id_domus": "194293897",
-      "fechaPublicacion": "2026-09-22",
-      "lat": 4.6514689,
-      "lon": -74.1703753,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tierra-buena-bogota/194395572",
+      "titulo": "Apartamento en Venta en Tierra Buena, Bogotá",
+      "id_domus": "194395572",
+      "fechaPublicacion": "2026-10-13",
+      "lat": 4.6511974,
+      "lon": -74.1675142,
       "location_type": "exacta",
       "zonaConsulta": "OSORIO",
       "zonaSlug": "osorio",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -488,39 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 200000000,
-      "area": 56.0,
-      "precioM2": 3571429,
-      "administracion": 126000.0,
-      "barrio": "OSORIO",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tierra-buena-bogota/194377750",
-      "titulo": "Apartamento en Venta en Tierra Buena, Bogotá",
-      "id_domus": "194377750",
-      "fechaPublicacion": "2026-10-08",
-      "lat": 4.6493505,
-      "lon": -74.1686929,
-      "location_type": "exacta",
-      "zonaConsulta": "OSORIO",
-      "zonaSlug": "osorio",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,64 +648,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 190000000,
-      "area": 41.0,
-      "precioM2": 4634146,
-      "administracion": 156700.0,
-      "barrio": "OSORIO",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tierra-buena-bogota/194108839",
-      "titulo": "Apartamento en Venta en Tierra Buena, Bogotá",
-      "id_domus": "194108839",
-      "fechaPublicacion": "2026-08-12",
-      "lat": 4.649645539303,
-      "lon": -74.164911328892,
-      "location_type": "exacta",
-      "zonaConsulta": "OSORIO",
-      "zonaSlug": "osorio",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-21",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 249000000,
+      "precio": 195000000,
       "area": 52.0,
-      "precioM2": 4788462,
-      "administracion": 140000.0,
+      "precioM2": 3750000,
+      "administracion": 179807.0,
       "barrio": "OSORIO",
       "upl": "Patio Bonito",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
+      "habitaciones": 3,
+      "banos": 1,
       "parqueaderos": null,
-      "estrato": null,
+      "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tierra-buena-bogota/194150703",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tierra-buena-bogota/194397788",
       "titulo": "Apartamento en Venta en Tierra Buena, Bogotá",
-      "id_domus": "194150703",
-      "fechaPublicacion": "2026-08-23",
-      "lat": 4.6514439,
-      "lon": -74.1675927,
+      "id_domus": "194397788",
+      "fechaPublicacion": "2026-10-13",
+      "lat": 4.6507286,
+      "lon": -74.1681429,
       "location_type": "exacta",
       "zonaConsulta": "OSORIO",
       "zonaSlug": "osorio",
