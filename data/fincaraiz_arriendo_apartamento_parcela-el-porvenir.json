@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 9,
   "zona": "PARCELA EL PORVENIR",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 13:19",
+  "generado": "2026.OCT.17 19:45",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -174,6 +174,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1050000,
+      "area": 45.0,
+      "precioM2": 23333,
+      "administracion": null,
+      "barrio": "PARCELA EL PORVENIR",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-porvenir-bogota/194418238",
+      "titulo": "Apartamento en Arriendo en Bosa Porvenir, Bogotá",
+      "id_domus": "194418238",
+      "fechaPublicacion": "2026-10-17",
+      "lat": 4.6383417885,
+      "lon": -74.185725438495,
+      "location_type": "exacta",
+      "zonaConsulta": "PARCELA EL PORVENIR",
+      "zonaSlug": "parcela-el-porvenir",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 742700,
       "area": 36.0,
       "precioM2": 20631,
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],

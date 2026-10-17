@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 11,
   "zona": "EL DORADO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 05:13",
+  "generado": "2026.OCT.17 19:45",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,26 +78,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2850000,
-      "area": 71.0,
-      "precioM2": 40141,
-      "administracion": 349750.0,
-      "barrio": "GRAN GRANADA",
+      "precio": 3000000,
+      "area": 94.0,
+      "precioM2": 31915,
+      "administracion": null,
+      "barrio": "EL DORADO",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4,
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": null,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gran-granada-bogota/194406121",
-      "titulo": "Apartamento en Arriendo en Gran granada, Bogotá",
-      "id_domus": "194406121",
-      "fechaPublicacion": "2026-10-15",
-      "lat": 4.7236611,
-      "lon": -74.1284845,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194416167",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194416167",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.7239689,
+      "lon": -74.131037,
       "location_type": "exacta",
       "zonaConsulta": "EL DORADO",
       "zonaSlug": "el-dorado",
@@ -105,38 +105,6 @@
     },
     {
       "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2161000,
-      "area": 72.0,
-      "precioM2": 30014,
-      "administracion": 339000.0,
-      "barrio": "VILLAS DE GRANADA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villas-de-granada-bogota/194209890",
-      "titulo": "Apartamento en Arriendo en Villas de Granada, Bogotá",
-      "id_domus": "194209890",
-      "fechaPublicacion": "2026-09-04",
-      "lat": 4.7239103,
-      "lon": -74.1356783,
-      "location_type": "exacta",
-      "zonaConsulta": "EL DORADO",
-      "zonaSlug": "el-dorado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +264,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2850000,
+      "area": 71.0,
+      "precioM2": 40141,
+      "administracion": 349750.0,
+      "barrio": "GRAN GRANADA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gran-granada-bogota/194406121",
+      "titulo": "Apartamento en Arriendo en Gran granada, Bogotá",
+      "id_domus": "194406121",
+      "fechaPublicacion": "2026-10-15",
+      "lat": 4.7236611,
+      "lon": -74.1284845,
+      "location_type": "exacta",
+      "zonaConsulta": "EL DORADO",
+      "zonaSlug": "el-dorado",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2161000,
+      "area": 72.0,
+      "precioM2": 30014,
+      "administracion": 339000.0,
+      "barrio": "VILLAS DE GRANADA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villas-de-granada-bogota/194209890",
+      "titulo": "Apartamento en Arriendo en Villas de Granada, Bogotá",
+      "id_domus": "194209890",
+      "fechaPublicacion": "2026-09-04",
+      "lat": 4.7239103,
+      "lon": -74.1356783,
+      "location_type": "exacta",
+      "zonaConsulta": "EL DORADO",
+      "zonaSlug": "el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],

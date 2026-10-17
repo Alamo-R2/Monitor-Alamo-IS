@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 11,
+  "total": 12,
   "zona": "OSORIO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 16:42",
+  "generado": "2026.OCT.17 19:45",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -302,6 +302,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 911800,
+      "area": 32.0,
+      "precioM2": 28494,
+      "administracion": 88200.0,
+      "barrio": "OSORIO",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-tierra-buena-bogota/194418369",
+      "titulo": "Apartamento en Arriendo en Tierra Buena, Bogotá",
+      "id_domus": "194418369",
+      "fechaPublicacion": "2026-10-17",
+      "lat": 4.651755,
+      "lon": -74.1678849,
+      "location_type": "exacta",
+      "zonaConsulta": "OSORIO",
+      "zonaSlug": "osorio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1003900,
       "area": 47.0,
       "precioM2": 21360,
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
