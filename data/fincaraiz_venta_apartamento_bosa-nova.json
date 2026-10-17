@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "BOSA NOVA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 06:35",
+  "generado": "2026.OCT.17 13:19",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,9 +14,41 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 201000000,
+      "precio": 175000000,
+      "area": 53.0,
+      "precioM2": 3301887,
+      "administracion": 137000.0,
+      "barrio": "BOSA NOVA",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-la-paz-bogota/193580906",
+      "titulo": "Apartamento en Venta en Bosa La Paz, Bogotá",
+      "id_domus": "193580906",
+      "fechaPublicacion": "2026-03-30",
+      "lat": 4.6180981,
+      "lon": -74.1897519,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSA NOVA",
+      "zonaSlug": "bosa-nova",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 197000000,
       "area": 51.0,
-      "precioM2": 3941176,
+      "precioM2": 3862745,
       "administracion": 96482.0,
       "barrio": "BOSA NOVA",
       "upl": "Edén",
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],

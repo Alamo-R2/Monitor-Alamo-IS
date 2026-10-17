@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "ROMA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 06:35",
+  "generado": "2026.OCT.17 13:19",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -47,6 +47,38 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 210000000,
+      "area": 44.0,
+      "precioM2": 4772727,
+      "administracion": 180000.0,
+      "barrio": "ROMA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-roma-bogota/194404751",
+      "titulo": "Apartamento en Venta en Roma, Bogotá",
+      "id_domus": "194404751",
+      "fechaPublicacion": "2026-10-15",
+      "lat": 4.6157111,
+      "lon": -74.1807768,
+      "location_type": "exacta",
+      "zonaConsulta": "ROMA",
+      "zonaSlug": "roma",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 210000000,
       "area": 50.0,
       "precioM2": 4200000,
       "administracion": null,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
