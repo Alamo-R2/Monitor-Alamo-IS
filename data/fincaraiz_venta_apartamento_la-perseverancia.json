@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.15 20:36",
+  "generado": "2026.OCT.17 23:34",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 360000000,
-      "area": 24.0,
-      "precioM2": 15000000,
-      "administracion": 200000.0,
-      "barrio": "LA PERSEVERANCIA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota-dc-bogota/193740935",
-      "titulo": "Apartamento en Venta en Bogotá, d.c., Bogotá",
-      "id_domus": "193740935",
-      "fechaPublicacion": "2026-05-12",
-      "lat": 4.6190112,
-      "lon": -74.0664601,
-      "location_type": "exacta",
-      "zonaConsulta": "LA PERSEVERANCIA",
-      "zonaSlug": "la-perseverancia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-09-24",
       "lat": 4.6183378,
       "lon": -74.0667744,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PERSEVERANCIA",
+      "zonaSlug": "la-perseverancia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 360000000,
+      "area": 24.0,
+      "precioM2": 15000000,
+      "administracion": 200000.0,
+      "barrio": "LA PERSEVERANCIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota-dc-bogota/193740935",
+      "titulo": "Apartamento en Venta en Bogotá, d.c., Bogotá",
+      "id_domus": "193740935",
+      "fechaPublicacion": "2026-05-12",
+      "lat": 4.6190112,
+      "lon": -74.0664601,
       "location_type": "exacta",
       "zonaConsulta": "LA PERSEVERANCIA",
       "zonaSlug": "la-perseverancia",
