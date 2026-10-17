@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 06:35",
+  "generado": "2026.OCT.17 05:08",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 524000000,
+      "area": 81.0,
+      "precioM2": 6469136,
+      "administracion": 450000.0,
+      "barrio": "EL RUBI",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-zona-occidental-bogota/194357484",
+      "titulo": "Apartamento en Venta en Zona occidental, Bogotá",
+      "id_domus": "194357484",
+      "fechaPublicacion": "2026-10-05",
+      "lat": 4.676676,
+      "lon": -74.1393615,
+      "location_type": "exacta",
+      "zonaConsulta": "EL RUBI",
+      "zonaSlug": "el-rubi",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2025-08-25",
       "lat": 4.6776732,
       "lon": -74.1395254,
-      "location_type": "exacta",
-      "zonaConsulta": "EL RUBI",
-      "zonaSlug": "el-rubi",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 524000000,
-      "area": 81.0,
-      "precioM2": 6469136,
-      "administracion": 150000.0,
-      "barrio": "EL RUBI",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-zona-occidental-bogota/194357484",
-      "titulo": "Apartamento en Venta en Zona occidental, Bogotá",
-      "id_domus": "194357484",
-      "fechaPublicacion": "2026-10-05",
-      "lat": 4.676676,
-      "lon": -74.1393615,
       "location_type": "exacta",
       "zonaConsulta": "EL RUBI",
       "zonaSlug": "el-rubi",

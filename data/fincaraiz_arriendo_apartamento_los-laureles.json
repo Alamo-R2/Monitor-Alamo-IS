@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "LOS LAURELES",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 00:34",
+  "generado": "2026.OCT.17 05:08",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 950000,
+      "area": 54.0,
+      "precioM2": 17593,
+      "administracion": null,
+      "barrio": "BOSA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-bogota/194402020",
+      "titulo": "Apartamento en Arriendo en Bosa, Bogotá",
+      "id_domus": "194402020",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.6147801,
+      "lon": -74.2034612,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS LAURELES",
+      "zonaSlug": "los-laureles",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 900000,
       "area": 56.0,
       "precioM2": 16071,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],

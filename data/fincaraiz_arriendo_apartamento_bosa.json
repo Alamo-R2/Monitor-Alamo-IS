@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 06:35",
+  "generado": "2026.OCT.17 05:08",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 794000,
+      "area": 48.0,
+      "precioM2": 16542,
+      "administracion": 106000.0,
+      "barrio": "EL CORZO",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-corzo-bogota/194348487",
+      "titulo": "Apartamento en Arriendo en El corzo, Bogotá",
+      "id_domus": "194348487",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.6436318,
+      "lon": -74.1961331,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSA",
+      "zonaSlug": "bosa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,47 +104,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 700000,
-      "area": 45.0,
-      "precioM2": 15556,
-      "administracion": null,
-      "barrio": "JOSE ANTONIO GALAN",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-jose-antonio-galan-bogota/194333621",
-      "titulo": "Apartamento en Arriendo en Jose antonio galan, Bogotá",
-      "id_domus": "194333621",
-      "fechaPublicacion": "2026-09-29",
-      "lat": 4.610371,
-      "lon": -74.179579,
-      "location_type": "exacta",
-      "zonaConsulta": "BOSA",
-      "zonaSlug": "bosa",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1140000,
+      "precio": 1050000,
       "area": 50.0,
-      "precioM2": 22800,
+      "precioM2": 21000,
       "administracion": null,
       "barrio": "BOSA",
       "upl": "Bosa",
@@ -137,38 +137,6 @@
     },
     {
       "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 900000,
-      "area": 40.0,
-      "precioM2": 22500,
-      "administracion": null,
-      "barrio": "BOSA",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-palestina-bogota/193556645",
-      "titulo": "Apartamento en Arriendo en Bosa Palestina, Bogotá",
-      "id_domus": "193556645",
-      "fechaPublicacion": "2026-03-24",
-      "lat": 4.6122139,
-      "lon": -74.1932385,
-      "location_type": "exacta",
-      "zonaConsulta": "BOSA",
-      "zonaSlug": "bosa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -232,39 +200,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 800000,
-      "area": 32.0,
-      "precioM2": 25000,
+      "precio": 1100000,
+      "area": 42.0,
+      "precioM2": 26190,
       "administracion": null,
-      "barrio": "VILLA DEL RIO",
+      "barrio": "BOSA",
       "upl": "Bosa",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
+      "habitaciones": 3,
+      "banos": 2,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villa-del-rio-bogota/193229034",
-      "titulo": "Apartamento en Arriendo en Villa del rio, Bogotá",
-      "id_domus": "193229034",
-      "fechaPublicacion": "2025-12-23",
-      "lat": 4.5996204,
-      "lon": -74.1587182,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-la-libertad-bogota/194386529",
+      "titulo": "Apartamento en Arriendo en Bosa La Libertad, Bogotá",
+      "id_domus": "194386529",
+      "fechaPublicacion": "2026-10-10",
+      "lat": 4.626314,
+      "lon": -74.188896,
       "location_type": "exacta",
       "zonaConsulta": "BOSA",
       "zonaSlug": "bosa",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -360,15 +328,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1200000,
+      "precio": 1000000,
       "area": 42.0,
-      "precioM2": 28571,
+      "precioM2": 23810,
       "administracion": null,
       "barrio": "BOSA",
       "upl": "Bosa",
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -424,47 +392,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 900000,
-      "area": 35.0,
-      "precioM2": 25714,
-      "administracion": null,
-      "barrio": "BOSA",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/194280360",
-      "titulo": "Apartamento en Arriendo en Bogotá",
-      "id_domus": "194280360",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.6238334,
-      "lon": -74.2115108,
-      "location_type": "exacta",
-      "zonaConsulta": "BOSA",
-      "zonaSlug": "bosa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1300000,
-      "area": 46.0,
-      "precioM2": 28261,
+      "precio": 1550000,
+      "area": 52.0,
+      "precioM2": 29808,
       "administracion": null,
       "barrio": "VILLA DEL RIO",
       "upl": "Bosa",
@@ -472,23 +408,23 @@
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
-      "parqueaderos": null,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villa-del-rio-bogota/194339525",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villa-del-rio-bogota/194391887",
       "titulo": "Apartamento en Arriendo en Villa del rio, Bogotá",
-      "id_domus": "194339525",
-      "fechaPublicacion": "2026-09-30",
-      "lat": 4.5992258,
-      "lon": -74.1605436,
+      "id_domus": "194391887",
+      "fechaPublicacion": "2026-10-12",
+      "lat": 4.5984461,
+      "lon": -74.1613764,
       "location_type": "exacta",
       "zonaConsulta": "BOSA",
       "zonaSlug": "bosa",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -578,6 +514,70 @@
       "fechaPublicacion": "2026-07-21",
       "lat": 4.6348034,
       "lon": -74.1869438,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSA",
+      "zonaSlug": "bosa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1300000,
+      "area": 43.0,
+      "precioM2": 30233,
+      "administracion": null,
+      "barrio": "BRITALIA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-britalia-bogota/194400569",
+      "titulo": "Apartamento en Arriendo en Britalia, Bogotá",
+      "id_domus": "194400569",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.6246966,
+      "lon": -74.1779906,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSA",
+      "zonaSlug": "bosa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 820000,
+      "area": 36.0,
+      "precioM2": 22778,
+      "administracion": 80000.0,
+      "barrio": "BOSA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-porvenir-bogota/194413860",
+      "titulo": "Apartamento en Arriendo en Bosa Porvenir, Bogotá",
+      "id_domus": "194413860",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.6388002,
+      "lon": -74.184363,
       "location_type": "exacta",
       "zonaConsulta": "BOSA",
       "zonaSlug": "bosa",
@@ -654,11 +654,11 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 794000,
-      "area": 48.0,
-      "precioM2": 16542,
-      "administracion": 106000.0,
-      "barrio": "EL CORZO",
+      "precio": 900000,
+      "area": 84.0,
+      "precioM2": 10714,
+      "administracion": null,
+      "barrio": "BOSA",
       "upl": "Bosa",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -668,12 +668,12 @@
       "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-corzo-bogota/194348487",
-      "titulo": "Apartamento en Arriendo en El corzo, Bogotá",
-      "id_domus": "194348487",
-      "fechaPublicacion": "2026-10-02",
-      "lat": 4.6436318,
-      "lon": -74.1961331,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-bogota/193317551",
+      "titulo": "Apartamento en Arriendo en Bosa, Bogotá",
+      "id_domus": "193317551",
+      "fechaPublicacion": "2026-01-23",
+      "lat": 4.6132672,
+      "lon": -74.2077408,
       "location_type": "exacta",
       "zonaConsulta": "BOSA",
       "zonaSlug": "bosa",

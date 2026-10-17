@@ -1,78 +1,14 @@
 {
   "ok": true,
-  "total": 12,
+  "total": 9,
   "zona": "EL JARDIN",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 15:59",
+  "generado": "2026.OCT.17 05:08",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 275000000,
-      "area": 54.0,
-      "precioM2": 5092593,
-      "administracion": 300000.0,
-      "barrio": "EL JARDIN",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villas-del-mediterraneo-bogota/194255565",
-      "titulo": "Apartamento en Venta en Villas del mediterraneo, Bogotá",
-      "id_domus": "194255565",
-      "fechaPublicacion": "2026-09-14",
-      "lat": 4.7390120234101,
-      "lon": -74.03353852176,
-      "location_type": "exacta",
-      "zonaConsulta": "EL JARDIN",
-      "zonaSlug": "el-jardin",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 400000000,
-      "area": 67.0,
-      "precioM2": 5970149,
-      "administracion": 488000.0,
-      "barrio": "LAS ORQUIDEAS",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-orquideas-bogota/194305733",
-      "titulo": "Apartamento en Venta en Las orquideas, Bogotá",
-      "id_domus": "194305733",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.7384353,
-      "lon": -74.0328097,
-      "location_type": "exacta",
-      "zonaConsulta": "EL JARDIN",
-      "zonaSlug": "el-jardin",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -168,39 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 610000000,
-      "area": 106.0,
-      "precioM2": 5754717,
-      "administracion": 480000.0,
-      "barrio": "SAN CRISTOBAL NORTE",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-cristobal-norte-bogota/193558682",
-      "titulo": "Apartamento en Venta en San cristobal norte, Bogotá",
-      "id_domus": "193558682",
-      "fechaPublicacion": "2026-03-24",
-      "lat": 4.7375331,
-      "lon": -74.0324822,
-      "location_type": "exacta",
-      "zonaConsulta": "EL JARDIN",
-      "zonaSlug": "el-jardin",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -232,16 +136,16 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 275000000,
+      "precio": 270000000,
       "area": 52.0,
-      "precioM2": 5288462,
-      "administracion": null,
+      "precioM2": 5192308,
+      "administracion": 312000.0,
       "barrio": "SAN CRISTOBAL NORTE",
       "upl": "Bosa",
       "ciudad": "Bogotá",
@@ -264,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],

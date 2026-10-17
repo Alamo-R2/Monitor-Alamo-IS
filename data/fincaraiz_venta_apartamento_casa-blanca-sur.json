@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 9,
   "zona": "CASA BLANCA SUR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 06:35",
+  "generado": "2026.OCT.17 05:08",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,26 +46,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 210000000,
-      "area": 56.0,
-      "precioM2": 3750000,
-      "administracion": 80000.0,
+      "precio": 650000000,
+      "area": 71.0,
+      "precioM2": 9154930,
+      "administracion": null,
       "barrio": "CASA BLANCA SUR",
       "upl": "Bosa",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 1.0,
+      "habitaciones": null,
+      "banos": null,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-casa-blanca-bogota/193179550",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-casa-blanca-bogota/194292877",
       "titulo": "Apartamento en Venta en Casa Blanca, Bogotá",
-      "id_domus": "193179550",
-      "fechaPublicacion": "2025-12-07",
-      "lat": 4.6156806,
-      "lon": -74.1686797,
+      "id_domus": "194292877",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.7371334,
+      "lon": -74.0718702,
       "location_type": "exacta",
       "zonaConsulta": "CASA BLANCA SUR",
       "zonaSlug": "casa-blanca-sur",
@@ -73,38 +73,6 @@
     },
     {
       "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1400000000,
-      "area": 239.0,
-      "precioM2": 5857741,
-      "administracion": 1600000.0,
-      "barrio": "CASA BLANCA SUR",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4.0,
-      "banos": 6.0,
-      "parqueaderos": 3.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-casa-blanca-bogota/193248848",
-      "titulo": "Apartamento en Venta en Casa Blanca, Bogotá",
-      "id_domus": "193248848",
-      "fechaPublicacion": "2026-01-06",
-      "lat": 4.7376311,
-      "lon": -74.0765166,
-      "location_type": "exacta",
-      "zonaConsulta": "CASA BLANCA SUR",
-      "zonaSlug": "casa-blanca-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -232,39 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 650000000,
-      "area": 71.0,
-      "precioM2": 9154930,
-      "administracion": null,
-      "barrio": "CASA BLANCA SUR",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": null,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-casa-blanca-bogota/194292877",
-      "titulo": "Apartamento en Venta en Casa Blanca, Bogotá",
-      "id_domus": "194292877",
-      "fechaPublicacion": "2026-09-22",
-      "lat": 4.7371334,
-      "lon": -74.0718702,
-      "location_type": "exacta",
-      "zonaConsulta": "CASA BLANCA SUR",
-      "zonaSlug": "casa-blanca-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000000,
+      "area": 239.0,
+      "precioM2": 5857741,
+      "administracion": 1600000.0,
+      "barrio": "CASA BLANCA SUR",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4.0,
+      "banos": 6.0,
+      "parqueaderos": 3.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-casa-blanca-bogota/193248848",
+      "titulo": "Apartamento en Venta en Casa Blanca, Bogotá",
+      "id_domus": "193248848",
+      "fechaPublicacion": "2026-01-06",
+      "lat": 4.7376311,
+      "lon": -74.0765166,
+      "location_type": "exacta",
+      "zonaConsulta": "CASA BLANCA SUR",
+      "zonaSlug": "casa-blanca-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],

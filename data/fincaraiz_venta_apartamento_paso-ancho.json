@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.11 00:34",
+  "generado": "2026.OCT.17 05:08",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 195000000,
+      "area": 45.0,
+      "precioM2": 4333333,
+      "administracion": null,
+      "barrio": "PASO ANCHO",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-islandia-bogota/194293098",
+      "titulo": "Apartamento en Venta en Bosa Islandia, Bogotá",
+      "id_domus": "194293098",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.6141608,
+      "lon": -74.1958624,
+      "location_type": "exacta",
+      "zonaConsulta": "PASO ANCHO",
+      "zonaSlug": "paso-ancho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-10-08",
       "lat": 4.6109895,
       "lon": -74.1942369,
-      "location_type": "exacta",
-      "zonaConsulta": "PASO ANCHO",
-      "zonaSlug": "paso-ancho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 195000000,
-      "area": 45.0,
-      "precioM2": 4333333,
-      "administracion": null,
-      "barrio": "PASO ANCHO",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-islandia-bogota/194293098",
-      "titulo": "Apartamento en Venta en Bosa Islandia, Bogotá",
-      "id_domus": "194293098",
-      "fechaPublicacion": "2026-09-22",
-      "lat": 4.6141608,
-      "lon": -74.1958624,
       "location_type": "exacta",
       "zonaConsulta": "PASO ANCHO",
       "zonaSlug": "paso-ancho",
