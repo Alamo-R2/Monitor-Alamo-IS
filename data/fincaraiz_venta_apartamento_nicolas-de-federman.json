@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 20:09",
+  "generado": "2026.OCT.17 00:00",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 900000000,
+      "area": 125.0,
+      "precioM2": 7200000,
+      "administracion": 850000.0,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/194413553",
+      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
+      "id_domus": "194413553",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.6460609,
+      "lon": -74.0806767,
+      "location_type": "exacta",
+      "zonaConsulta": "NICOLAS DE FEDERMAN",
+      "zonaSlug": "nicolas-de-federman",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1890000000,
       "area": 199.0,
       "precioM2": 9497487,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,167 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1350000000,
-      "area": 90.0,
-      "precioM2": 15000000,
-      "administracion": 800000.0,
-      "barrio": "NICOLAS DE FEDERMAN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 5.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/194250865",
-      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
-      "id_domus": "194250865",
-      "fechaPublicacion": "2026-09-13",
-      "lat": 4.6488464,
-      "lon": -74.0809761,
-      "location_type": "exacta",
-      "zonaConsulta": "NICOLAS DE FEDERMAN",
-      "zonaSlug": "nicolas-de-federman",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1350000000,
-      "area": 707.0,
-      "precioM2": 1909477,
-      "administracion": 800000.0,
-      "barrio": "NICOLAS DE FEDERMAN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/194241623",
-      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
-      "id_domus": "194241623",
-      "fechaPublicacion": "2026-09-11",
-      "lat": 4.6487891,
-      "lon": -74.0810767,
-      "location_type": "exacta",
-      "zonaConsulta": "NICOLAS DE FEDERMAN",
-      "zonaSlug": "nicolas-de-federman",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 760000000,
-      "area": 103.0,
-      "precioM2": 7378641,
-      "administracion": 320000.0,
-      "barrio": "NICOLAS DE FEDERMAN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 5.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/194307516",
-      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
-      "id_domus": "194307516",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.6466888,
-      "lon": -74.0826817,
-      "location_type": "exacta",
-      "zonaConsulta": "NICOLAS DE FEDERMAN",
-      "zonaSlug": "nicolas-de-federman",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 750000000,
-      "area": 143.0,
-      "precioM2": 5244755,
-      "administracion": 578000.0,
-      "barrio": "NICOLAS DE FEDERMAN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/193893973",
-      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
-      "id_domus": "193893973",
-      "fechaPublicacion": "2026-06-19",
-      "lat": 4.6491246,
-      "lon": -74.0839852,
-      "location_type": "exacta",
-      "zonaConsulta": "NICOLAS DE FEDERMAN",
-      "zonaSlug": "nicolas-de-federman",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 798000000,
-      "area": 122.0,
-      "precioM2": 6540984,
-      "administracion": 700000.0,
-      "barrio": "NICOLAS DE FEDERMAN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 5.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/193438183",
-      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
-      "id_domus": "193438183",
-      "fechaPublicacion": "2026-02-25",
-      "lat": 4.6465892,
-      "lon": -74.0834335,
-      "location_type": "exacta",
-      "zonaConsulta": "NICOLAS DE FEDERMAN",
-      "zonaSlug": "nicolas-de-federman",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 995000000,
+      "area": 177.0,
+      "precioM2": 5621469,
+      "administracion": 1450000.0,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 2.0,
+      "estrato": 5.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/194415196",
+      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
+      "id_domus": "194415196",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.6460445,
+      "lon": -74.0835567,
+      "location_type": "exacta",
+      "zonaConsulta": "NICOLAS DE FEDERMAN",
+      "zonaSlug": "nicolas-de-federman",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -552,16 +456,16 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 750000000,
+      "precio": 800000000,
       "area": 105.0,
-      "precioM2": 7142857,
-      "administracion": 815000.0,
+      "precioM2": 7619048,
+      "administracion": 900000.0,
       "barrio": "NICOLAS DE FEDERMAN",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -584,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -616,16 +520,16 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 750000000,
-      "area": 100.0,
-      "precioM2": 7500000,
-      "administracion": 989700.0,
+      "precio": 1350000000,
+      "area": 90.0,
+      "precioM2": 15000000,
+      "administracion": 800000.0,
       "barrio": "NICOLAS DE FEDERMAN",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -636,12 +540,108 @@
       "estrato": 5.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/192648494",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/194250865",
       "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
-      "id_domus": "192648494",
-      "fechaPublicacion": "2025-07-16",
-      "lat": 4.6459988,
-      "lon": -74.0838185,
+      "id_domus": "194250865",
+      "fechaPublicacion": "2026-09-13",
+      "lat": 4.6488464,
+      "lon": -74.0809761,
+      "location_type": "exacta",
+      "zonaConsulta": "NICOLAS DE FEDERMAN",
+      "zonaSlug": "nicolas-de-federman",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1350000000,
+      "area": 707.0,
+      "precioM2": 1909477,
+      "administracion": 800000.0,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/194241623",
+      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
+      "id_domus": "194241623",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.6487891,
+      "lon": -74.0810767,
+      "location_type": "exacta",
+      "zonaConsulta": "NICOLAS DE FEDERMAN",
+      "zonaSlug": "nicolas-de-federman",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 760000000,
+      "area": 103.0,
+      "precioM2": 7378641,
+      "administracion": 320000.0,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 5.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/194307516",
+      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
+      "id_domus": "194307516",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.6466888,
+      "lon": -74.0826817,
+      "location_type": "exacta",
+      "zonaConsulta": "NICOLAS DE FEDERMAN",
+      "zonaSlug": "nicolas-de-federman",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 750000000,
+      "area": 143.0,
+      "precioM2": 5244755,
+      "administracion": 578000.0,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/193893973",
+      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
+      "id_domus": "193893973",
+      "fechaPublicacion": "2026-06-19",
+      "lat": 4.6491246,
+      "lon": -74.0839852,
       "location_type": "exacta",
       "zonaConsulta": "NICOLAS DE FEDERMAN",
       "zonaSlug": "nicolas-de-federman",
@@ -654,10 +654,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 690000000,
-      "area": 199.0,
-      "precioM2": 3467337,
-      "administracion": 320000.0,
+      "precio": 798000000,
+      "area": 122.0,
+      "precioM2": 6540984,
+      "administracion": 700000.0,
       "barrio": "NICOLAS DE FEDERMAN",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -668,12 +668,12 @@
       "estrato": 5.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/193874746",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/193438183",
       "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
-      "id_domus": "193874746",
-      "fechaPublicacion": "2026-06-13",
-      "lat": 4.6453521,
-      "lon": -74.0826555,
+      "id_domus": "193438183",
+      "fechaPublicacion": "2026-02-25",
+      "lat": 4.6465892,
+      "lon": -74.0834335,
       "location_type": "exacta",
       "zonaConsulta": "NICOLAS DE FEDERMAN",
       "zonaSlug": "nicolas-de-federman",

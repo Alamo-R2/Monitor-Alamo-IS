@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.15 20:36",
+  "generado": "2026.OCT.17 00:00",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 422424000,
+      "area": 39.0,
+      "precioM2": 10831385,
+      "administracion": null,
+      "barrio": "GRAN AMERICA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/gran-central-apartamento-en-venta-en-gran-america-bogota/193022189",
+      "titulo": "GRAN CENTRAL, Apartamento en Venta en Gran america, Bogotá",
+      "id_domus": "193022189",
+      "fechaPublicacion": "2025-10-24",
+      "lat": 4.6257275,
+      "lon": -74.0826228,
+      "location_type": "exacta",
+      "zonaConsulta": "LA FLORIDA OCCIDENTAL",
+      "zonaSlug": "la-florida-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 380000000,
       "area": 35.0,
       "precioM2": 10857143,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-02-18",
       "lat": 4.6224086,
       "lon": -74.0846478,
-      "location_type": "exacta",
-      "zonaConsulta": "LA FLORIDA OCCIDENTAL",
-      "zonaSlug": "la-florida-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 540000000,
-      "area": 81.0,
-      "precioM2": 6666667,
-      "administracion": 100000.0,
-      "barrio": "INDUSTRIAL CENTENARIO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-industrial-centenario-bogota/192567810",
-      "titulo": "Apartamento en Venta en Industrial centenario, Bogotá",
-      "id_domus": "192567810",
-      "fechaPublicacion": "2025-06-25",
-      "lat": 4.6262611,
-      "lon": -74.091597,
       "location_type": "exacta",
       "zonaConsulta": "LA FLORIDA OCCIDENTAL",
       "zonaSlug": "la-florida-occidental",
@@ -462,38 +462,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 422424000,
-      "area": 39.0,
-      "precioM2": 10831385,
-      "administracion": null,
-      "barrio": "GRAN AMERICA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/gran-central-apartamento-en-venta-en-gran-america-bogota/193022189",
-      "titulo": "GRAN CENTRAL, Apartamento en Venta en Gran america, Bogotá",
-      "id_domus": "193022189",
-      "fechaPublicacion": "2025-10-24",
-      "lat": 4.6257275,
-      "lon": -74.0826228,
-      "location_type": "exacta",
-      "zonaConsulta": "LA FLORIDA OCCIDENTAL",
-      "zonaSlug": "la-florida-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 720000000,
       "area": 80.0,
       "precioM2": 9000000,
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-08-20",
       "lat": 4.625914988399,
       "lon": -74.085687005001,
+      "location_type": "exacta",
+      "zonaConsulta": "LA FLORIDA OCCIDENTAL",
+      "zonaSlug": "la-florida-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 230000000,
+      "area": 30.0,
+      "precioM2": 7666667,
+      "administracion": 133000.0,
+      "barrio": "USATAMA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-usatama-bogota/194198411",
+      "titulo": "Apartamento en Venta en Usatama, Bogotá",
+      "id_domus": "194198411",
+      "fechaPublicacion": "2026-09-02",
+      "lat": 4.623042,
+      "lon": -74.083877,
       "location_type": "exacta",
       "zonaConsulta": "LA FLORIDA OCCIDENTAL",
       "zonaSlug": "la-florida-occidental",

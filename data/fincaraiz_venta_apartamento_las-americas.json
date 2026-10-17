@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 14,
+  "total": 15,
   "zona": "LAS AMERICAS",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.10 18:06",
+  "generado": "2026.OCT.17 00:00",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310019000,
-      "area": 39.0,
-      "precioM2": 7949205,
-      "administracion": null,
-      "barrio": "LAS AMERICAS",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/sorentto-apartamento-en-venta-en-nueva-marsella-bogota/192937885",
-      "titulo": "SORENTTO, Apartamento en Venta en Nueva Marsella, Bogotá",
-      "id_domus": "192937885",
-      "fechaPublicacion": "2025-10-01",
-      "lat": 4.6281671,
-      "lon": -74.1367414,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS AMERICAS",
-      "zonaSlug": "las-americas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,32 +40,64 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 490000000,
+      "area": 120.0,
+      "precioM2": 4083333,
+      "administracion": null,
+      "barrio": "LAS AMERICAS",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-americas-bogota/194387173",
+      "titulo": "Apartamento en Venta en Las americas, Bogotá",
+      "id_domus": "194387173",
+      "fechaPublicacion": "2026-10-10",
+      "lat": 4.6278189,
+      "lon": -74.1344153,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS AMERICAS",
+      "zonaSlug": "las-americas",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-3",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 385000000,
-      "area": 65.0,
-      "precioM2": 5923077,
-      "administracion": 310000.0,
+      "precio": 310019000,
+      "area": 39.0,
+      "precioM2": 7949205,
+      "administracion": null,
       "barrio": "LAS AMERICAS",
       "upl": "Teusaquillo",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-americas-bogota/194215394",
-      "titulo": "Apartamento en Venta en Las americas, Bogotá",
-      "id_domus": "194215394",
-      "fechaPublicacion": "2026-09-05",
-      "lat": 4.6268339,
-      "lon": -74.1313365,
+      "sourceLink": "https://www.fincaraiz.com.co/sorentto-apartamento-en-venta-en-nueva-marsella-bogota/192937886",
+      "titulo": "SORENTTO, Apartamento en Venta en Nueva Marsella, Bogotá",
+      "id_domus": "192937886",
+      "fechaPublicacion": "2025-10-01",
+      "lat": 4.6281671,
+      "lon": -74.1367414,
       "location_type": "exacta",
       "zonaConsulta": "LAS AMERICAS",
       "zonaSlug": "las-americas",
@@ -105,102 +105,6 @@
     },
     {
       "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 500000000,
-      "area": 93.0,
-      "precioM2": 5376344,
-      "administracion": null,
-      "barrio": "LAS AMERICAS",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194302438",
-      "titulo": "Apartamento en Venta en Américas Central, Bogotá",
-      "id_domus": "194302438",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.628557,
-      "lon": -74.135371,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS AMERICAS",
-      "zonaSlug": "las-americas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 469000000,
-      "area": 90.0,
-      "precioM2": 5211111,
-      "administracion": 688000.0,
-      "barrio": "LAS AMERICAS",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-americas-bogota/193812376",
-      "titulo": "Apartamento en Venta en Las americas, Bogotá",
-      "id_domus": "193812376",
-      "fechaPublicacion": "2026-05-28",
-      "lat": 4.6252489,
-      "lon": -74.1438147,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS AMERICAS",
-      "zonaSlug": "las-americas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 360000000,
-      "area": 56.0,
-      "precioM2": 6428571,
-      "administracion": null,
-      "barrio": "HIPOTECHO OCCIDENTAL",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-hipotecho-occidental-bogota/191336349",
-      "titulo": "Apartamento en  Venta en Hipotecho occidental, Bogotá",
-      "id_domus": "191336349",
-      "fechaPublicacion": "2024-09-06",
-      "lat": 4.627982,
-      "lon": -74.133371,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS AMERICAS",
-      "zonaSlug": "las-americas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +328,135 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 385000000,
+      "area": 65.0,
+      "precioM2": 5923077,
+      "administracion": 310000.0,
+      "barrio": "LAS AMERICAS",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-americas-bogota/194215394",
+      "titulo": "Apartamento en Venta en Las americas, Bogotá",
+      "id_domus": "194215394",
+      "fechaPublicacion": "2026-09-05",
+      "lat": 4.6268339,
+      "lon": -74.1313365,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS AMERICAS",
+      "zonaSlug": "las-americas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 500000000,
+      "area": 93.0,
+      "precioM2": 5376344,
+      "administracion": null,
+      "barrio": "LAS AMERICAS",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194302438",
+      "titulo": "Apartamento en Venta en Américas Central, Bogotá",
+      "id_domus": "194302438",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.628557,
+      "lon": -74.135371,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS AMERICAS",
+      "zonaSlug": "las-americas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 469000000,
+      "area": 90.0,
+      "precioM2": 5211111,
+      "administracion": 688000.0,
+      "barrio": "LAS AMERICAS",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-americas-bogota/193812376",
+      "titulo": "Apartamento en Venta en Las americas, Bogotá",
+      "id_domus": "193812376",
+      "fechaPublicacion": "2026-05-28",
+      "lat": 4.6252489,
+      "lon": -74.1438147,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS AMERICAS",
+      "zonaSlug": "las-americas",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 360000000,
+      "area": 56.0,
+      "precioM2": 6428571,
+      "administracion": null,
+      "barrio": "HIPOTECHO OCCIDENTAL",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-hipotecho-occidental-bogota/191336349",
+      "titulo": "Apartamento en  Venta en Hipotecho occidental, Bogotá",
+      "id_domus": "191336349",
+      "fechaPublicacion": "2024-09-06",
+      "lat": 4.627982,
+      "lon": -74.133371,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS AMERICAS",
+      "zonaSlug": "las-americas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],

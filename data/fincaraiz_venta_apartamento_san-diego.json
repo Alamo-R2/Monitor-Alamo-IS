@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.15 20:36",
+  "generado": "2026.OCT.17 00:00",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 330000000,
+      "area": 34.0,
+      "precioM2": 9705882,
+      "administracion": null,
+      "barrio": "SAN DIEGO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-internacional-bogota/193225542",
+      "titulo": "Apartamento en Venta en Centro Internacional, Bogotá",
+      "id_domus": "193225542",
+      "fechaPublicacion": "2025-12-22",
+      "lat": 4.6148871,
+      "lon": -74.0717627,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN DIEGO",
+      "zonaSlug": "san-diego",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-01-03",
       "lat": 4.6121522267367,
       "lon": -74.066522269398,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN DIEGO",
-      "zonaSlug": "san-diego",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 34.0,
-      "precioM2": 9705882,
-      "administracion": null,
-      "barrio": "SAN DIEGO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-internacional-bogota/193225542",
-      "titulo": "Apartamento en Venta en Centro Internacional, Bogotá",
-      "id_domus": "193225542",
-      "fechaPublicacion": "2025-12-22",
-      "lat": 4.6148871,
-      "lon": -74.0717627,
       "location_type": "exacta",
       "zonaConsulta": "SAN DIEGO",
       "zonaSlug": "san-diego",
@@ -335,8 +335,8 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 429000000,
-      "area": 42.35,
-      "precioM2": 10129870,
+      "area": 42.0,
+      "precioM2": 10214286,
       "administracion": null,
       "barrio": "SAN DIEGO",
       "upl": "Centro Histórico",

@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 13,
+  "total": 12,
   "zona": "CAMPIN",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 14:22",
+  "generado": "2026.OCT.17 00:00",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4300000,
-      "area": 135.0,
-      "precioM2": 31852,
-      "administracion": null,
-      "barrio": "CAMPIN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-campin-bogota/194063403",
-      "titulo": "Apartamento en Arriendo en Campin, Bogotá",
-      "id_domus": "194063403",
-      "fechaPublicacion": "2026-08-01",
-      "lat": 4.64741,
-      "lon": -74.0791372,
-      "location_type": "exacta",
-      "zonaConsulta": "CAMPIN",
-      "zonaSlug": "campin",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -136,135 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2600000,
-      "area": 40.0,
-      "precioM2": 65000,
-      "administracion": null,
-      "barrio": "CAMPIN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-campin-bogota/194357417",
-      "titulo": "Apartamento en Arriendo en Campin, Bogotá",
-      "id_domus": "194357417",
-      "fechaPublicacion": "2026-10-05",
-      "lat": 4.650243,
-      "lon": -74.0735679,
-      "location_type": "exacta",
-      "zonaConsulta": "CAMPIN",
-      "zonaSlug": "campin",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3300000,
-      "area": 82.0,
-      "precioM2": 40244,
-      "administracion": null,
-      "barrio": "NICOLAS DE FEDERMAN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nicolas-de-federman-bogota/194381306",
-      "titulo": "Apartamento en Arriendo en Nicolas de federman, Bogotá",
-      "id_domus": "194381306",
-      "fechaPublicacion": "2026-10-09",
-      "lat": 4.6453273,
-      "lon": -74.0792813,
-      "location_type": "exacta",
-      "zonaConsulta": "CAMPIN",
-      "zonaSlug": "campin",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1700000,
-      "area": 20.0,
-      "precioM2": 85000,
-      "administracion": null,
-      "barrio": "NICOLAS DE FEDERMAN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nicolas-de-federman-bogota/193602712",
-      "titulo": "Apartamento en Arriendo en Nicolas de federman, Bogotá",
-      "id_domus": "193602712",
-      "fechaPublicacion": "2026-04-07",
-      "lat": 4.6474908,
-      "lon": -74.0794536,
-      "location_type": "exacta",
-      "zonaConsulta": "CAMPIN",
-      "zonaSlug": "campin",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4000000,
-      "area": 98.0,
-      "precioM2": 40816,
-      "administracion": null,
-      "barrio": "GALERIAS",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-galerias-bogota/194058717",
-      "titulo": "Apartamento en Arriendo en Galerias, Bogotá",
-      "id_domus": "194058717",
-      "fechaPublicacion": "2026-07-31",
-      "lat": 4.643466,
-      "lon": -74.077214,
-      "location_type": "exacta",
-      "zonaConsulta": "CAMPIN",
-      "zonaSlug": "campin",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +232,135 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000,
+      "area": 40.0,
+      "precioM2": 65000,
+      "administracion": null,
+      "barrio": "CAMPIN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-campin-bogota/194357417",
+      "titulo": "Apartamento en Arriendo en Campin, Bogotá",
+      "id_domus": "194357417",
+      "fechaPublicacion": "2026-10-05",
+      "lat": 4.650243,
+      "lon": -74.0735679,
+      "location_type": "exacta",
+      "zonaConsulta": "CAMPIN",
+      "zonaSlug": "campin",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3300000,
+      "area": 82.0,
+      "precioM2": 40244,
+      "administracion": null,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nicolas-de-federman-bogota/194381306",
+      "titulo": "Apartamento en Arriendo en Nicolas de federman, Bogotá",
+      "id_domus": "194381306",
+      "fechaPublicacion": "2026-10-09",
+      "lat": 4.6453273,
+      "lon": -74.0792813,
+      "location_type": "exacta",
+      "zonaConsulta": "CAMPIN",
+      "zonaSlug": "campin",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1700000,
+      "area": 20.0,
+      "precioM2": 85000,
+      "administracion": null,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nicolas-de-federman-bogota/193602712",
+      "titulo": "Apartamento en Arriendo en Nicolas de federman, Bogotá",
+      "id_domus": "193602712",
+      "fechaPublicacion": "2026-04-07",
+      "lat": 4.6474908,
+      "lon": -74.0794536,
+      "location_type": "exacta",
+      "zonaConsulta": "CAMPIN",
+      "zonaSlug": "campin",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4000000,
+      "area": 98.0,
+      "precioM2": 40816,
+      "administracion": null,
+      "barrio": "GALERIAS",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-galerias-bogota/194058717",
+      "titulo": "Apartamento en Arriendo en Galerias, Bogotá",
+      "id_domus": "194058717",
+      "fechaPublicacion": "2026-07-31",
+      "lat": 4.643466,
+      "lon": -74.077214,
+      "location_type": "exacta",
+      "zonaConsulta": "CAMPIN",
+      "zonaSlug": "campin",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],

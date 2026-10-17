@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 6,
   "zona": "PAULO VI",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.10 18:06",
+  "generado": "2026.OCT.17 00:00",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2900000,
-      "area": 112.0,
-      "precioM2": 25893,
-      "administracion": 600000,
-      "barrio": "PAULO VI",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-paulo-vi-bogota/194383445",
-      "titulo": "Apartamento en Arriendo en Paulo vi, Bogotá",
-      "id_domus": "194383445",
-      "fechaPublicacion": "2026-10-09",
-      "lat": 4.6486332186203,
-      "lon": -74.086840775477,
-      "location_type": "exacta",
-      "zonaConsulta": "PAULO VI",
-      "zonaSlug": "paulo-vi",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -136,71 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3643366,
-      "area": 112.0,
-      "precioM2": 32530,
-      "administracion": 388834,
-      "barrio": "PABLO VI NORTE",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-pablo-vi-norte-bogota/193766035",
-      "titulo": "Apartamento en Arriendo en Pablo vi norte, Bogotá",
-      "id_domus": "193766035",
-      "fechaPublicacion": "2026-05-19",
-      "lat": 4.651698770305,
-      "lon": -74.086428216699,
-      "location_type": "exacta",
-      "zonaConsulta": "PAULO VI",
-      "zonaSlug": "paulo-vi",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3430000,
-      "area": 57.0,
-      "precioM2": 60175,
-      "administracion": 770000,
-      "barrio": "NICOLAS DE FEDERMAN",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nicolas-de-federman-bogota/194058422",
-      "titulo": "Apartamento en Arriendo en Nicolas de federman, Bogotá",
-      "id_domus": "194058422",
-      "fechaPublicacion": "2026-07-31",
-      "lat": 4.648527309601,
-      "lon": -74.085395650047,
-      "location_type": "exacta",
-      "zonaConsulta": "PAULO VI",
-      "zonaSlug": "paulo-vi",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -258,6 +162,38 @@
       "fechaPublicacion": "2026-09-14",
       "lat": 4.6534533,
       "lon": -74.0877761,
+      "location_type": "exacta",
+      "zonaConsulta": "PAULO VI",
+      "zonaSlug": "paulo-vi",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3643366,
+      "area": 112.0,
+      "precioM2": 32530,
+      "administracion": 388834,
+      "barrio": "PABLO VI NORTE",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-pablo-vi-norte-bogota/193766035",
+      "titulo": "Apartamento en Arriendo en Pablo vi norte, Bogotá",
+      "id_domus": "193766035",
+      "fechaPublicacion": "2026-05-19",
+      "lat": 4.651698770305,
+      "lon": -74.086428216699,
       "location_type": "exacta",
       "zonaConsulta": "PAULO VI",
       "zonaSlug": "paulo-vi",
