@@ -1,14 +1,78 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 9,
   "zona": "NUEVA ESPERANZA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.12 06:41",
+  "generado": "2026.OCT.18 05:14",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 204000000,
+      "area": 41.0,
+      "precioM2": 4975610,
+      "administracion": 130000.0,
+      "barrio": "NUEVA ESPERANZA",
+      "upl": "Lucero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194419094",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194419094",
+      "fechaPublicacion": "2026-10-17",
+      "lat": 4.7176332,
+      "lon": -74.1365719,
+      "location_type": "exacta",
+      "zonaConsulta": "NUEVA ESPERANZA",
+      "zonaSlug": "nueva-esperanza",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 195000000,
+      "area": 40.0,
+      "precioM2": 4875000,
+      "administracion": null,
+      "barrio": "LA FAENA",
+      "upl": "Lucero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-faena-bogota/194079613",
+      "titulo": "Apartamento en Venta en La faena, Bogotá",
+      "id_domus": "194079613",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.7176814,
+      "lon": -74.1365408,
+      "location_type": "exacta",
+      "zonaConsulta": "NUEVA ESPERANZA",
+      "zonaSlug": "nueva-esperanza",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -226,38 +290,6 @@
       "fechaPublicacion": "2026-09-21",
       "lat": 4.7176332,
       "lon": -74.1365719,
-      "location_type": "exacta",
-      "zonaConsulta": "NUEVA ESPERANZA",
-      "zonaSlug": "nueva-esperanza",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 195000000,
-      "area": 40.0,
-      "precioM2": 4875000,
-      "administracion": null,
-      "barrio": "LA FAENA",
-      "upl": "Lucero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-faena-bogota/194079613",
-      "titulo": "Apartamento en Venta en La faena, Bogotá",
-      "id_domus": "194079613",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.7176814,
-      "lon": -74.1365408,
       "location_type": "exacta",
       "zonaConsulta": "NUEVA ESPERANZA",
       "zonaSlug": "nueva-esperanza",

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "OLARTE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 05:08",
+  "generado": "2026.OCT.18 05:14",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 42.0,
+      "precioM2": 28571,
+      "administracion": null,
+      "barrio": "VILLA DEL RIO",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villa-del-rio-bogota/194418464",
+      "titulo": "Apartamento en Arriendo en Villa del rio, Bogotá",
+      "id_domus": "194418464",
+      "fechaPublicacion": "2026-10-17",
+      "lat": 4.5969612,
+      "lon": -74.1610815,
+      "location_type": "exacta",
+      "zonaConsulta": "OLARTE",
+      "zonaSlug": "olarte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1112000,
       "area": 39.0,
       "precioM2": 28513,
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
