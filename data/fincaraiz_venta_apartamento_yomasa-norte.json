@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.13 12:15",
+  "generado": "2026.OCT.18 19:46",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 140000000,
+      "area": 38.0,
+      "precioM2": 3684211,
+      "administracion": 105000,
+      "barrio": "YOMASA NORTE",
+      "upl": "Usme - Entrenubes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bella-vista-bogota/194369284",
+      "titulo": "Apartamento en Venta en Bella vista, Bogotá",
+      "id_domus": "194369284",
+      "fechaPublicacion": "2026-10-07",
+      "lat": 4.4983096054327,
+      "lon": -74.118499060342,
+      "location_type": "exacta",
+      "zonaConsulta": "YOMASA NORTE",
+      "zonaSlug": "yomasa-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-09-11",
       "lat": 4.4984554324874,
       "lon": -74.118380703008,
-      "location_type": "exacta",
-      "zonaConsulta": "YOMASA NORTE",
-      "zonaSlug": "yomasa-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 140000000,
-      "area": 38.0,
-      "precioM2": 3684211,
-      "administracion": 105000,
-      "barrio": "YOMASA NORTE",
-      "upl": "Usme - Entrenubes",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bella-vista-bogota/194369284",
-      "titulo": "Apartamento en Venta en Bella vista, Bogotá",
-      "id_domus": "194369284",
-      "fechaPublicacion": "2026-10-07",
-      "lat": 4.4983096054327,
-      "lon": -74.118499060342,
       "location_type": "exacta",
       "zonaConsulta": "YOMASA NORTE",
       "zonaSlug": "yomasa-norte",
