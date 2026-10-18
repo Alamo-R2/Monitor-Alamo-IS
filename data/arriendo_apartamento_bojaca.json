@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 8,
   "zona": "Bojaca",
   "origen": "municipio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.12 20:28",
+  "generado": "2026.OCT.18 14:56",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -201,6 +201,38 @@
     },
     {
       "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3200000,
+      "area": 99.0,
+      "precioM2": 32323,
+      "administracion": 0.0,
+      "barrio": "CR BABUYES",
+      "upl": "",
+      "ciudad": "Bojaca",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-cr-babuyes-3-habitaciones-2-banos-1-garajes/18574-M7146161",
+      "titulo": "Apartamento en Arriendo, Vereda Bojaca, Chía",
+      "id_domus": "18574-M7146161",
+      "fechaPublicacion": null,
+      "lat": 4.877683639526367,
+      "lon": -74.04715728759766,
+      "location_type": "exacta",
+      "zonaConsulta": "Bojaca",
+      "zonaSlug": "bojaca",
+      "origenZona": "municipio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
