@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 5,
   "zona": "LA ANDREA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.12 19:27",
+  "generado": "2026.OCT.18 13:39",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,38 +78,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 149900000,
-      "area": 77.0,
-      "precioM2": 1946753,
-      "administracion": null,
-      "barrio": "GRAN YOMASA",
-      "upl": "Rafael Uribe",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-yomasa-bogota/193973616",
-      "titulo": "Apartamento en Venta en Gran yomasa, Bogotá",
-      "id_domus": "193973616",
-      "fechaPublicacion": "2026-07-09",
-      "lat": 4.510273,
-      "lon": -74.1115141,
-      "location_type": "exacta",
-      "zonaConsulta": "LA ANDREA",
-      "zonaSlug": "la-andrea",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 4980000000,
       "area": 317.0,
       "precioM2": 15709779,
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],

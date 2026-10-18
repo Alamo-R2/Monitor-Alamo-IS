@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "PUERTO RICO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.12 19:27",
+  "generado": "2026.OCT.18 13:39",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -137,6 +137,38 @@
     },
     {
       "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 190000000,
+      "area": 48.0,
+      "precioM2": 3958333,
+      "administracion": null,
+      "barrio": "RAFAEL URIBE",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-rafael-uribe-bogota/194401944",
+      "titulo": "Apartamento en Venta en Rafael uribe, Bogotá",
+      "id_domus": "194401944",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.5600864995687,
+      "lon": -74.109914028782,
+      "location_type": "exacta",
+      "zonaConsulta": "PUERTO RICO",
+      "zonaSlug": "puerto-rico",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],

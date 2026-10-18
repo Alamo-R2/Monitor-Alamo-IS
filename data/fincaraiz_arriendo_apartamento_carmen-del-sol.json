@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 11,
   "zona": "CARMEN DEL SOL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.12 19:27",
+  "generado": "2026.OCT.18 13:39",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,9 +14,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1360000,
+      "precio": 1100000,
       "area": 54.0,
-      "precioM2": 25185,
+      "precioM2": 20370,
       "administracion": null,
       "barrio": "CARMEN DEL SOL",
       "upl": "Rafael Uribe",
@@ -41,6 +41,38 @@
     },
     {
       "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 919000,
+      "area": 50.0,
+      "precioM2": 18380,
+      "administracion": 181500.0,
+      "barrio": "ARBOLEDA SUR",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-arboleda-sur-bogota/194406031",
+      "titulo": "Apartamento en Arriendo en Arboleda sur, Bogotá",
+      "id_domus": "194406031",
+      "fechaPublicacion": "2026-10-15",
+      "lat": 4.56487239551,
+      "lon": -74.114478674771,
+      "location_type": "exacta",
+      "zonaConsulta": "CARMEN DEL SOL",
+      "zonaSlug": "carmen-del-sol",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -192,15 +224,15 @@
       "titulo": "Apartamento en Arriendo en La providencia, Bogotá",
       "id_domus": "194348277",
       "fechaPublicacion": "2026-10-02",
-      "lat": 4.5637196023943,
-      "lon": -74.113254547119,
+      "lat": 4.5637824,
+      "lon": -74.1129354,
       "location_type": "exacta",
       "zonaConsulta": "CARMEN DEL SOL",
       "zonaSlug": "carmen-del-sol",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 900000,
+      "area": 40.0,
+      "precioM2": 22500,
+      "administracion": null,
+      "barrio": "LOS MOLINOS",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-molinos-bogota/194400333",
+      "titulo": "Apartamento en Arriendo en Los molinos, Bogotá",
+      "id_domus": "194400333",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.560618328192,
+      "lon": -74.11143495427,
+      "location_type": "exacta",
+      "zonaConsulta": "CARMEN DEL SOL",
+      "zonaSlug": "carmen-del-sol",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
