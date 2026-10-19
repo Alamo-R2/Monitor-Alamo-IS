@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 11,
   "zona": "CONCEPCION NORTE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 14:22",
+  "generado": "2026.OCT.19 21:47",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4200000,
+      "area": 60.0,
+      "precioM2": 70000,
+      "administracion": null,
+      "barrio": "QUINTA CAMACHO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-camacho-bogota/194416427",
+      "titulo": "Apartamento en Arriendo en Quinta camacho, Bogotá",
+      "id_domus": "194416427",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.6582819,
+      "lon": -74.0617987,
+      "location_type": "exacta",
+      "zonaConsulta": "CONCEPCION NORTE",
+      "zonaSlug": "concepcion-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,71 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3421700,
-      "area": 44.0,
-      "precioM2": 77766,
-      "administracion": 478300.0,
-      "barrio": "QUINTA CAMACHO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-camacho-bogota/194114750",
-      "titulo": "Apartamento en Arriendo en Quinta camacho, Bogotá",
-      "id_domus": "194114750",
-      "fechaPublicacion": "2026-08-13",
-      "lat": 4.6583793,
-      "lon": -74.0621677,
-      "location_type": "exacta",
-      "zonaConsulta": "CONCEPCION NORTE",
-      "zonaSlug": "concepcion-norte",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 5100000,
-      "area": 75.0,
-      "precioM2": 68000,
-      "administracion": null,
-      "barrio": "QUINTA CAMACHO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-camacho-bogota/193933941",
-      "titulo": "Apartamento en Arriendo en Quinta camacho, Bogotá",
-      "id_domus": "193933941",
-      "fechaPublicacion": "2026-06-30",
-      "lat": 4.6581312456337,
-      "lon": -74.061850021007,
-      "location_type": "exacta",
-      "zonaConsulta": "CONCEPCION NORTE",
-      "zonaSlug": "concepcion-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -232,15 +200,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 5500000,
+      "precio": 5000000,
       "area": 65.0,
-      "precioM2": 84615,
+      "precioM2": 76923,
       "administracion": null,
       "barrio": "QUINTA CAMACHO",
       "upl": "Barrios Unidos",
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -322,6 +290,70 @@
       "fechaPublicacion": "2026-09-07",
       "lat": 4.6569152,
       "lon": -74.0620856,
+      "location_type": "exacta",
+      "zonaConsulta": "CONCEPCION NORTE",
+      "zonaSlug": "concepcion-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3421700,
+      "area": 44.0,
+      "precioM2": 77766,
+      "administracion": 478300.0,
+      "barrio": "QUINTA CAMACHO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-camacho-bogota/194114750",
+      "titulo": "Apartamento en Arriendo en Quinta camacho, Bogotá",
+      "id_domus": "194114750",
+      "fechaPublicacion": "2026-08-13",
+      "lat": 4.6583793,
+      "lon": -74.0621677,
+      "location_type": "exacta",
+      "zonaConsulta": "CONCEPCION NORTE",
+      "zonaSlug": "concepcion-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 5100000,
+      "area": 75.0,
+      "precioM2": 68000,
+      "administracion": null,
+      "barrio": "QUINTA CAMACHO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-camacho-bogota/193933941",
+      "titulo": "Apartamento en Arriendo en Quinta camacho, Bogotá",
+      "id_domus": "193933941",
+      "fechaPublicacion": "2026-06-30",
+      "lat": 4.6581312456337,
+      "lon": -74.061850021007,
       "location_type": "exacta",
       "zonaConsulta": "CONCEPCION NORTE",
       "zonaSlug": "concepcion-norte",

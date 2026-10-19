@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 11,
+  "total": 12,
   "zona": "PARQUE NACIONAL ORIENTAL",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 19:45",
+  "generado": "2026.OCT.19 21:47",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -302,6 +302,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1750000000,
+      "area": 239.0,
+      "precioM2": 7322176,
+      "administracion": 300000.0,
+      "barrio": "LA MACARENA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-macarena-bogota/194420214",
+      "titulo": "Apartamento en Venta en La macarena, Bogotá",
+      "id_domus": "194420214",
+      "fechaPublicacion": "2026-10-18",
+      "lat": 4.6145759,
+      "lon": -74.064976,
+      "location_type": "exacta",
+      "zonaConsulta": "PARQUE NACIONAL ORIENTAL",
+      "zonaSlug": "parque-nacional-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1329000000,
       "area": 131.0,
       "precioM2": 10145038,
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],

@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 19:45",
+  "generado": "2026.OCT.19 21:47",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 7500000000,
+      "area": 500.0,
+      "precioM2": 15000000,
+      "administracion": 6434000.0,
+      "barrio": "SEMINARIO",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 4,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-seminario-bogota/193552590",
+      "titulo": "Apartamento en Venta en Seminario, Bogotá",
+      "id_domus": "193552590",
+      "fechaPublicacion": "2026-03-22",
+      "lat": 4.6705131167333,
+      "lon": -74.040100147552,
+      "location_type": "exacta",
+      "zonaConsulta": "SEMINARIO",
+      "zonaSlug": "seminario",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -290,38 +322,6 @@
       "fechaPublicacion": "2026-10-01",
       "lat": 4.6720886505866,
       "lon": -74.043167001839,
-      "location_type": "exacta",
-      "zonaConsulta": "SEMINARIO",
-      "zonaSlug": "seminario",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 7500000000,
-      "area": 500.0,
-      "precioM2": 15000000,
-      "administracion": 6434000.0,
-      "barrio": "SEMINARIO",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 4,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-seminario-bogota/193552590",
-      "titulo": "Apartamento en Venta en Seminario, Bogotá",
-      "id_domus": "193552590",
-      "fechaPublicacion": "2026-03-22",
-      "lat": 4.6705131167333,
-      "lon": -74.040100147552,
       "location_type": "exacta",
       "zonaConsulta": "SEMINARIO",
       "zonaSlug": "seminario",
@@ -398,6 +398,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1800000000,
+      "area": 204.0,
+      "precioM2": 8823529,
+      "administracion": 2800000.0,
+      "barrio": "CHICO NORTE",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-norte-bogota/194112252",
+      "titulo": "Apartamento en Venta en Chico norte, Bogotá",
+      "id_domus": "194112252",
+      "fechaPublicacion": "2026-08-13",
+      "lat": 4.6784462,
+      "lon": -74.0400349,
+      "location_type": "exacta",
+      "zonaConsulta": "SEMINARIO",
+      "zonaSlug": "seminario",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2800000000,
       "area": 331.0,
       "precioM2": 8459215,
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2024-11-21",
       "lat": 4.6689999,
       "lon": -74.041453,
-      "location_type": "exacta",
-      "zonaConsulta": "SEMINARIO",
-      "zonaSlug": "seminario",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4500000000,
-      "area": 541.0,
-      "precioM2": 8317930,
-      "administracion": 3800000.0,
-      "barrio": "EL REFUGIO",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 6,
-      "parqueaderos": 4,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-refugio-bogota/193598069",
-      "titulo": "Apartamento en Venta en El refugio, Bogotá",
-      "id_domus": "193598069",
-      "fechaPublicacion": "2026-04-06",
-      "lat": 4.6688847,
-      "lon": -74.0409594,
       "location_type": "exacta",
       "zonaConsulta": "SEMINARIO",
       "zonaSlug": "seminario",

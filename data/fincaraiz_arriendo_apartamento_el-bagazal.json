@@ -5,10 +5,74 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 19:45",
+  "generado": "2026.OCT.19 21:47",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 20500000,
+      "area": 405.0,
+      "precioM2": 50617,
+      "administracion": null,
+      "barrio": "EL REFUGIO",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-refugio-bogota/193831113",
+      "titulo": "Apartamento en Arriendo en El refugio, Bogotá",
+      "id_domus": "193831113",
+      "fechaPublicacion": "2026-06-02",
+      "lat": 4.6647254,
+      "lon": -74.045226,
+      "location_type": "exacta",
+      "zonaConsulta": "EL BAGAZAL",
+      "zonaSlug": "el-bagazal",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 9500000,
+      "area": 157.0,
+      "precioM2": 60510,
+      "administracion": null,
+      "barrio": "EL BAGAZAL",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": null,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194146012",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194146012",
+      "fechaPublicacion": "2026-08-21",
+      "lat": 4.6553791421277,
+      "lon": -74.047775,
+      "location_type": "exacta",
+      "zonaConsulta": "EL BAGAZAL",
+      "zonaSlug": "el-bagazal",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -104,39 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 12000000,
-      "area": 245.0,
-      "precioM2": 48980,
-      "administracion": 1800000.0,
-      "barrio": "EL BAGAZAL",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-alto-bogota/194179715",
-      "titulo": "Apartamento en Arriendo en Chicó Alto, Bogotá",
-      "id_domus": "194179715",
-      "fechaPublicacion": "2026-08-28",
-      "lat": 4.6690561,
-      "lon": -74.042435,
-      "location_type": "exacta",
-      "zonaConsulta": "EL BAGAZAL",
-      "zonaSlug": "el-bagazal",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -322,38 +354,6 @@
       "fechaPublicacion": "2026-08-28",
       "lat": 4.6689123,
       "lon": -74.0417843,
-      "location_type": "exacta",
-      "zonaConsulta": "EL BAGAZAL",
-      "zonaSlug": "el-bagazal",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 37200000,
-      "area": 379.0,
-      "precioM2": 98153,
-      "administracion": null,
-      "barrio": "LOS ROSALES",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 4.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-rosales-bogota/194261823",
-      "titulo": "Apartamento en Arriendo en Los rosales, Bogotá",
-      "id_domus": "194261823",
-      "fechaPublicacion": "2026-09-15",
-      "lat": 4.6525028,
-      "lon": -74.0490051,
       "location_type": "exacta",
       "zonaConsulta": "EL BAGAZAL",
       "zonaSlug": "el-bagazal",
@@ -654,26 +654,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 9500000,
-      "area": 157.0,
-      "precioM2": 60510,
-      "administracion": null,
-      "barrio": "EL BAGAZAL",
+      "precio": 18000000,
+      "area": 296.0,
+      "precioM2": 60811,
+      "administracion": 3800000.0,
+      "barrio": "EL REFUGIO",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": null,
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 3.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194146012",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194146012",
-      "fechaPublicacion": "2026-08-21",
-      "lat": 4.6553791421277,
-      "lon": -74.047775,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-refugio-bogota/194168489",
+      "titulo": "Apartamento en Arriendo en El refugio, Bogotá",
+      "id_domus": "194168489",
+      "fechaPublicacion": "2026-08-26",
+      "lat": 4.6666747848475,
+      "lon": -74.043299433609,
       "location_type": "exacta",
       "zonaConsulta": "EL BAGAZAL",
       "zonaSlug": "el-bagazal",
