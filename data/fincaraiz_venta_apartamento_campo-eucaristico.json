@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "CAMPO EUCARISTICO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 00:00",
+  "generado": "2026.OCT.18 23:45",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 550000000,
+      "area": 79.0,
+      "precioM2": 6962025,
+      "administracion": 427000.0,
+      "barrio": "EL SALITRE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-salitre-bogota/194419500",
+      "titulo": "Apartamento en Venta en El salitre, Bogotá",
+      "id_domus": "194419500",
+      "fechaPublicacion": "2026-10-17",
+      "lat": 4.6553451,
+      "lon": -74.0983658,
+      "location_type": "exacta",
+      "zonaConsulta": "CAMPO EUCARISTICO",
+      "zonaSlug": "campo-eucaristico",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 700000000,
       "area": 140.0,
       "precioM2": 5000000,
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
