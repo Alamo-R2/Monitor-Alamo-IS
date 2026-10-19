@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 13:19",
+  "generado": "2026.OCT.19 05:26",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3760000,
-      "area": 141.0,
-      "precioM2": 26667,
-      "administracion": 740000.0,
-      "barrio": "HIPOTECHO",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-americas-occidental-bogota/193620112",
-      "titulo": "Apartamento en Arriendo en Americas occidental, Bogotá",
-      "id_domus": "193620112",
-      "fechaPublicacion": "2026-04-12",
-      "lat": 4.6269896721239,
-      "lon": -74.136669666626,
-      "location_type": "exacta",
-      "zonaConsulta": "HIPOTECHO",
-      "zonaSlug": "hipotecho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-10-13",
       "lat": 4.6284855,
       "lon": -74.1346218,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO",
+      "zonaSlug": "hipotecho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3760000,
+      "area": 141.0,
+      "precioM2": 26667,
+      "administracion": 740000.0,
+      "barrio": "HIPOTECHO",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-americas-occidental-bogota/193620112",
+      "titulo": "Apartamento en Arriendo en Americas occidental, Bogotá",
+      "id_domus": "193620112",
+      "fechaPublicacion": "2026-04-12",
+      "lat": 4.6269896721239,
+      "lon": -74.136669666626,
       "location_type": "exacta",
       "zonaConsulta": "HIPOTECHO",
       "zonaSlug": "hipotecho",

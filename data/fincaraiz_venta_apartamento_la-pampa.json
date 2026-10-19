@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 9,
   "zona": "LA PAMPA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.14 00:42",
+  "generado": "2026.OCT.19 05:26",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -142,6 +142,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 379000000,
+      "area": 64.0,
+      "precioM2": 5921875,
+      "administracion": null,
+      "barrio": "CASTILLA",
+      "upl": "Tintal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194401998",
+      "titulo": "Apartamento en Venta en Castilla, Bogotá",
+      "id_domus": "194401998",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.6530160831893,
+      "lon": -74.140878663893,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PAMPA",
+      "zonaSlug": "la-pampa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 310000000,
+      "area": 56.0,
+      "precioM2": 5535714,
+      "administracion": 280900.0,
+      "barrio": "EL TINTAL",
+      "upl": "Tintal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tintal-bogota/193978743",
+      "titulo": "Apartamento en Venta en El tintal, Bogotá",
+      "id_domus": "193978743",
+      "fechaPublicacion": "2026-07-10",
+      "lat": 4.6531193,
+      "lon": -74.1407411,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PAMPA",
+      "zonaSlug": "la-pampa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 420000000,
       "area": 77.0,
       "precioM2": 5454545,
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -226,38 +290,6 @@
       "fechaPublicacion": "2024-02-02",
       "lat": 4.653163,
       "lon": -74.1408023,
-      "location_type": "exacta",
-      "zonaConsulta": "LA PAMPA",
-      "zonaSlug": "la-pampa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 56.0,
-      "precioM2": 5535714,
-      "administracion": 280900.0,
-      "barrio": "EL TINTAL",
-      "upl": "Tintal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tintal-bogota/193978743",
-      "titulo": "Apartamento en Venta en El tintal, Bogotá",
-      "id_domus": "193978743",
-      "fechaPublicacion": "2026-07-10",
-      "lat": 4.6531193,
-      "lon": -74.1407411,
       "location_type": "exacta",
       "zonaConsulta": "LA PAMPA",
       "zonaSlug": "la-pampa",

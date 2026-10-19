@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 17,
+  "total": 18,
   "zona": "HIPOTECHO SUR",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 13:19",
+  "generado": "2026.OCT.19 05:26",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -303,6 +303,38 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 2500000,
+      "area": 38.0,
+      "precioM2": 65789,
+      "administracion": null,
+      "barrio": "HIPOTECHO SUR",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-morato-bogota/194419116",
+      "titulo": "Apartamento en Arriendo en Morato, Bogotá",
+      "id_domus": "194419116",
+      "fechaPublicacion": "2026-10-17",
+      "lat": 4.622367,
+      "lon": -74.1299884,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO SUR",
+      "zonaSlug": "hipotecho-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2500000,
       "area": 72.0,
       "precioM2": 34722,
       "administracion": null,
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],

@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.15 05:22",
+  "generado": "2026.OCT.19 05:26",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 230000000,
+      "area": 42.0,
+      "precioM2": 5476190,
+      "administracion": 141000.0,
+      "barrio": "EL VERVENAL",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lagos-de-torca-bogota/194401750",
+      "titulo": "Apartamento en Venta en Lagos de Torca, Bogotá",
+      "id_domus": "194401750",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.759996,
+      "lon": -74.037134,
+      "location_type": "exacta",
+      "zonaConsulta": "EL VERVENAL",
+      "zonaSlug": "el-vervenal",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -162,38 +194,6 @@
       "fechaPublicacion": "2026-07-28",
       "lat": 4.762553882209,
       "lon": -74.040110993218,
-      "location_type": "exacta",
-      "zonaConsulta": "EL VERVENAL",
-      "zonaSlug": "el-vervenal",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 740000000,
-      "area": 138.0,
-      "precioM2": 5362319,
-      "administracion": null,
-      "barrio": "EL VERVENAL",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lagos-de-torca-bogota/194261570",
-      "titulo": "Apartamento en Venta en Lagos de Torca, Bogotá",
-      "id_domus": "194261570",
-      "fechaPublicacion": "2026-09-15",
-      "lat": 4.7683689,
-      "lon": -74.0329373,
       "location_type": "exacta",
       "zonaConsulta": "EL VERVENAL",
       "zonaSlug": "el-vervenal",
@@ -591,8 +591,8 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 350000000,
-      "area": 78.0,
-      "precioM2": 4487179,
+      "area": 71.0,
+      "precioM2": 4929577,
       "administracion": 299000.0,
       "barrio": "TIBABITA",
       "upl": "Britalia",

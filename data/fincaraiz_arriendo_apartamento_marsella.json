@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 12,
+  "total": 13,
   "zona": "MARSELLA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 13:19",
+  "generado": "2026.OCT.19 05:26",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -270,6 +270,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2030000,
+      "area": 69.0,
+      "precioM2": 29420,
+      "administracion": 320000.0,
+      "barrio": "MARSELLA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-marsella-bogota/194417491",
+      "titulo": "Apartamento en Arriendo en Marsella, Bogotá",
+      "id_domus": "194417491",
+      "fechaPublicacion": "2026-10-17",
+      "lat": 4.6355835044176,
+      "lon": -74.127622973174,
+      "location_type": "exacta",
+      "zonaConsulta": "MARSELLA",
+      "zonaSlug": "marsella",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1315000,
       "area": 39.0,
       "precioM2": 33718,
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],

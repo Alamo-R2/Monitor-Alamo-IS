@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 16:42",
+  "generado": "2026.OCT.19 05:26",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1515000,
+      "area": 47.0,
+      "precioM2": 32234,
+      "administracion": null,
+      "barrio": "CASTILLA",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/194403476",
+      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
+      "id_domus": "194403476",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.6415151,
+      "lon": -74.147804,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD TECHO II",
+      "zonaSlug": "ciudad-techo-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-10-06",
       "lat": 4.6411085124281,
       "lon": -74.152021614736,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD TECHO II",
-      "zonaSlug": "ciudad-techo-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1550000,
-      "area": 47.0,
-      "precioM2": 32979,
-      "administracion": null,
-      "barrio": "CASTILLA",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/194403476",
-      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
-      "id_domus": "194403476",
-      "fechaPublicacion": "2026-10-14",
-      "lat": 4.6415151,
-      "lon": -74.147804,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD TECHO II",
       "zonaSlug": "ciudad-techo-ii",
@@ -462,38 +462,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1400000,
-      "area": 72.0,
-      "precioM2": 19444,
-      "administracion": null,
-      "barrio": "VALLADOLID",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-valladolid-bogota/194354702",
-      "titulo": "Apartamento en Arriendo en Valladolid, Bogotá",
-      "id_domus": "194354702",
-      "fechaPublicacion": "2026-10-04",
-      "lat": 4.6439716,
-      "lon": -74.1484489,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD TECHO II",
-      "zonaSlug": "ciudad-techo-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1900000,
       "area": 78.0,
       "precioM2": 24359,
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -642,6 +610,38 @@
       "fechaPublicacion": "2026-06-10",
       "lat": 4.636605,
       "lon": -74.149687,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD TECHO II",
+      "zonaSlug": "ciudad-techo-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 54.0,
+      "precioM2": 29630,
+      "administracion": null,
+      "barrio": "CASTILLA",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/194378230",
+      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
+      "id_domus": "194378230",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.6363908,
+      "lon": -74.1531148,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD TECHO II",
       "zonaSlug": "ciudad-techo-ii",

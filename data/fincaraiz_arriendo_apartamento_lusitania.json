@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 19,
+  "total": 18,
   "zona": "LUSITANIA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 13:19",
+  "generado": "2026.OCT.19 05:26",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -494,38 +494,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3200000,
-      "area": 71.0,
-      "precioM2": 45070,
-      "administracion": null,
-      "barrio": "LUSITANIA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-alsacia-bogota/194384474",
-      "titulo": "Apartamento en Arriendo en Ciudad alsacia, Bogotá",
-      "id_domus": "194384474",
-      "fechaPublicacion": "2026-10-09",
-      "lat": 4.6403956,
-      "lon": -74.1242573,
-      "location_type": "exacta",
-      "zonaConsulta": "LUSITANIA",
-      "zonaSlug": "lusitania",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1490000,
       "area": 38.0,
       "precioM2": 39211,
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
