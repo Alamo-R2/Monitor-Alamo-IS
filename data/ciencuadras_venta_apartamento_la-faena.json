@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.14 22:03",
+  "generado": "2026.OCT.19 22:49",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 204000000,
+      "area": 41.0,
+      "precioM2": 4975610,
+      "administracion": null,
+      "barrio": "LA FAENA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-la-faena-bogota-3905519",
+      "titulo": "Apartamento en La Faena",
+      "id_domus": "3905519",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "LA FAENA",
+      "zonaSlug": "la-faena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -63,38 +95,6 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-nueva-esperanza-bogota-3763633",
       "titulo": "Apartamento en La Faena",
       "id_domus": "3763633",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "LA FAENA",
-      "zonaSlug": "la-faena",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 204000000,
-      "area": 41.0,
-      "precioM2": 4975610,
-      "administracion": null,
-      "barrio": "LA FAENA",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-la-faena-bogota-3905519",
-      "titulo": "Apartamento en La Faena",
-      "id_domus": "3905519",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,

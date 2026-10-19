@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "GARCES NAVAS",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.14 22:03",
+  "generado": "2026.OCT.19 22:49",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -137,6 +137,38 @@
     },
     {
       "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 395000000,
+      "area": 62.0,
+      "precioM2": 6370968,
+      "administracion": null,
+      "barrio": "GARCES NAVAS",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-garces-navas-bogota-3797178",
+      "titulo": "Apartamento en Garces Navas",
+      "id_domus": "3797178",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "GARCES NAVAS",
+      "zonaSlug": "garces-navas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
