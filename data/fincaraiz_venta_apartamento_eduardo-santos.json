@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.15 23:57",
+  "generado": "2026.OCT.20 20:57",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 279000000,
-      "area": 49.0,
-      "precioM2": 5693878,
-      "administracion": 142000.0,
-      "barrio": "EDUARDO SANTOS",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-eduardo-santos-bogota/193955711",
-      "titulo": "Apartamento en Venta en Eduardo santos, Bogotá",
-      "id_domus": "193955711",
-      "fechaPublicacion": "2026-07-05",
-      "lat": 4.5923527,
-      "lon": -74.0890495,
-      "location_type": "exacta",
-      "zonaConsulta": "EDUARDO SANTOS",
-      "zonaSlug": "eduardo-santos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-09-01",
       "lat": 4.5969973,
       "lon": -74.0856749,
+      "location_type": "exacta",
+      "zonaConsulta": "EDUARDO SANTOS",
+      "zonaSlug": "eduardo-santos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 279000000,
+      "area": 49.0,
+      "precioM2": 5693878,
+      "administracion": 142000.0,
+      "barrio": "EDUARDO SANTOS",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-eduardo-santos-bogota/193955711",
+      "titulo": "Apartamento en Venta en Eduardo santos, Bogotá",
+      "id_domus": "193955711",
+      "fechaPublicacion": "2026-07-05",
+      "lat": 4.5923527,
+      "lon": -74.0890495,
       "location_type": "exacta",
       "zonaConsulta": "EDUARDO SANTOS",
       "zonaSlug": "eduardo-santos",
@@ -334,6 +334,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1500000000,
+      "area": 135.0,
+      "precioM2": 11111111,
+      "administracion": 1500000.0,
+      "barrio": "SANTA BARBARA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 6.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-barbara-bogota/194407018",
+      "titulo": "Apartamento en Venta en Santa Barbara, Bogotá",
+      "id_domus": "194407018",
+      "fechaPublicacion": "2026-10-15",
+      "lat": 4.5965573,
+      "lon": -74.0863753,
+      "location_type": "exacta",
+      "zonaConsulta": "EDUARDO SANTOS",
+      "zonaSlug": "eduardo-santos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 278900000,
       "area": 56.0,
       "precioM2": 4980357,
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2025-09-12",
       "lat": 4.596484240422,
       "lon": -74.087393979583,
-      "location_type": "exacta",
-      "zonaConsulta": "EDUARDO SANTOS",
-      "zonaSlug": "eduardo-santos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 900000000,
-      "area": 343.0,
-      "precioM2": 2623907,
-      "administracion": null,
-      "barrio": "EDUARDO SANTOS",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 7,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-eduardo-santos-bogota/191902805",
-      "titulo": "Apartamento en Venta en Eduardo santos, Bogotá",
-      "id_domus": "191902805",
-      "fechaPublicacion": "2025-01-21",
-      "lat": 4.5970874,
-      "lon": -74.0935444,
       "location_type": "exacta",
       "zonaConsulta": "EDUARDO SANTOS",
       "zonaSlug": "eduardo-santos",

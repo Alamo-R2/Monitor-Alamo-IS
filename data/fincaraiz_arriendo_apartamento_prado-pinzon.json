@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.20 05:28",
+  "generado": "2026.OCT.20 20:57",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -399,6 +399,38 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 1850000,
+      "area": 55.0,
+      "precioM2": 33636,
+      "administracion": null,
+      "barrio": "SANTA HELENA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-helena-bogota/194427685",
+      "titulo": "Apartamento en Arriendo en Santa helena, Bogotá",
+      "id_domus": "194427685",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.727825603787,
+      "lon": -74.052017151402,
+      "location_type": "exacta",
+      "zonaConsulta": "PRADO PINZON",
+      "zonaSlug": "prado-pinzon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1850000,
       "area": 47.0,
       "precioM2": 39362,
       "administracion": null,
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -482,38 +514,6 @@
       "fechaPublicacion": "2026-10-19",
       "lat": 4.7404326,
       "lon": -74.092433,
-      "location_type": "exacta",
-      "zonaConsulta": "PRADO PINZON",
-      "zonaSlug": "prado-pinzon",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1850000,
-      "area": 55.0,
-      "precioM2": 33636,
-      "administracion": null,
-      "barrio": "SANTA HELENA",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-helena-bogota/194427685",
-      "titulo": "Apartamento en Arriendo en Santa helena, Bogotá",
-      "id_domus": "194427685",
-      "fechaPublicacion": "2026-10-19",
-      "lat": 4.727825603787,
-      "lon": -74.052017151402,
       "location_type": "exacta",
       "zonaConsulta": "PRADO PINZON",
       "zonaSlug": "prado-pinzon",

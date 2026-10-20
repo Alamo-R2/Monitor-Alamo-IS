@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 11,
+  "total": 12,
   "zona": "LA FRAGUA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.15 23:57",
+  "generado": "2026.OCT.20 20:57",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1195000,
-      "area": 42.0,
-      "precioM2": 28452,
-      "administracion": 212900.0,
-      "barrio": "LA FRAGUA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-fragua-bogota/194255134",
-      "titulo": "Apartamento en Arriendo en La fragua, Bogotá",
-      "id_domus": "194255134",
-      "fechaPublicacion": "2026-09-14",
-      "lat": 4.5944568,
-      "lon": -74.1109444,
-      "location_type": "exacta",
-      "zonaConsulta": "LA FRAGUA",
-      "zonaSlug": "la-fragua",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -72,15 +40,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1500000,
+      "precio": 1600000,
       "area": 38.0,
-      "precioM2": 39474,
+      "precioM2": 42105,
       "administracion": null,
       "barrio": "LA FRAGUITA",
       "upl": "Centro Histórico",
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-09-18",
       "lat": 4.594497,
       "lon": -74.110882,
+      "location_type": "exacta",
+      "zonaConsulta": "LA FRAGUA",
+      "zonaSlug": "la-fragua",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1450000,
+      "area": 35.0,
+      "precioM2": 41429,
+      "administracion": null,
+      "barrio": "RESTREPO OCCIDENTAL",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-restrepo-occidental-bogota/194416713",
+      "titulo": "Apartamento en Arriendo en Restrepo occidental, Bogotá",
+      "id_domus": "194416713",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.592531376794,
+      "lon": -74.105292863262,
       "location_type": "exacta",
       "zonaConsulta": "LA FRAGUA",
       "zonaSlug": "la-fragua",
@@ -270,6 +270,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1195000,
+      "area": 42.0,
+      "precioM2": 28452,
+      "administracion": 212900.0,
+      "barrio": "LA FRAGUA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-fragua-bogota/194255134",
+      "titulo": "Apartamento en Arriendo en La fragua, Bogotá",
+      "id_domus": "194255134",
+      "fechaPublicacion": "2026-09-14",
+      "lat": 4.5944568,
+      "lon": -74.1109444,
+      "location_type": "exacta",
+      "zonaConsulta": "LA FRAGUA",
+      "zonaSlug": "la-fragua",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1450000,
       "area": 35.0,
       "precioM2": 41429,
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],

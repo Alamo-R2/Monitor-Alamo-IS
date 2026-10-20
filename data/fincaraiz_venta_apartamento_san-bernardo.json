@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 05:13",
+  "generado": "2026.OCT.20 20:57",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 410000000,
+      "area": 129.0,
+      "precioM2": 3178295,
+      "administracion": 277700.0,
+      "barrio": "EDUARDO SANTOS",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 5,
+      "banos": 3,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-eduardo-santos-bogota/194195744",
+      "titulo": "Apartamento en Venta en Eduardo santos, Bogotá",
+      "id_domus": "194195744",
+      "fechaPublicacion": "2026-09-01",
+      "lat": 4.5969973,
+      "lon": -74.0856749,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN BERNARDO",
+      "zonaSlug": "san-bernardo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-10-06",
       "lat": 4.5959595,
       "lon": -74.0836133,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN BERNARDO",
-      "zonaSlug": "san-bernardo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 410000000,
-      "area": 129.0,
-      "precioM2": 3178295,
-      "administracion": 277700.0,
-      "barrio": "EDUARDO SANTOS",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 5,
-      "banos": 3,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-eduardo-santos-bogota/194195744",
-      "titulo": "Apartamento en Venta en Eduardo santos, Bogotá",
-      "id_domus": "194195744",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.5969973,
-      "lon": -74.0856749,
       "location_type": "exacta",
       "zonaConsulta": "SAN BERNARDO",
       "zonaSlug": "san-bernardo",
