@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.15 00:10",
+  "generado": "2026.OCT.20 05:28",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -47,8 +47,8 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 240000000,
-      "area": 78.0,
-      "precioM2": 3076923,
+      "area": 60.0,
+      "precioM2": 4000000,
       "administracion": null,
       "barrio": "SAN CARLOS DE SUBA",
       "upl": "Tibabuyes",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 270000000,
+      "area": 60.0,
+      "precioM2": 4500000,
+      "administracion": null,
+      "barrio": "SAN CARLOS DE SUBA",
+      "upl": "Tibabuyes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ub-sabana-de-tibabuyes-bogota/194326539",
+      "titulo": "Apartamento en Venta en Ub. sabana de tibabuyes, Bogotá",
+      "id_domus": "194326539",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.7505307513802,
+      "lon": -74.111272090457,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN CARLOS DE SUBA",
+      "zonaSlug": "san-carlos-de-suba",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-08-03",
       "lat": 4.7505583,
       "lon": -74.110628,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN CARLOS DE SUBA",
-      "zonaSlug": "san-carlos-de-suba",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 270000000,
-      "area": 72.0,
-      "precioM2": 3750000,
-      "administracion": null,
-      "barrio": "SAN CARLOS DE SUBA",
-      "upl": "Tibabuyes",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ub-sabana-de-tibabuyes-bogota/194326539",
-      "titulo": "Apartamento en Venta en Ub. sabana de tibabuyes, Bogotá",
-      "id_domus": "194326539",
-      "fechaPublicacion": "2026-09-28",
-      "lat": 4.7505307513802,
-      "lon": -74.111272090457,
       "location_type": "exacta",
       "zonaConsulta": "SAN CARLOS DE SUBA",
       "zonaSlug": "san-carlos-de-suba",

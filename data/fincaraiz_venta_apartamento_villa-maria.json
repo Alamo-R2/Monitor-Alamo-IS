@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 12,
+  "total": 13,
   "zona": "VILLA MARIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.15 00:10",
+  "generado": "2026.OCT.20 05:28",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 218000000,
-      "area": 72.0,
-      "precioM2": 3027778,
-      "administracion": null,
-      "barrio": "VILLA MARIA",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-maria-bogota/194373616",
-      "titulo": "Apartamento en Venta en Villa maria, Bogotá",
-      "id_domus": "194373616",
-      "fechaPublicacion": "2026-10-08",
-      "lat": 4.7394627,
-      "lon": -74.1026587,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA MARIA",
-      "zonaSlug": "villa-maria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-06-11",
       "lat": 4.735560885042,
       "lon": -74.109138648077,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA MARIA",
+      "zonaSlug": "villa-maria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 218000000,
+      "area": 72.0,
+      "precioM2": 3027778,
+      "administracion": null,
+      "barrio": "VILLA MARIA",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-maria-bogota/194373616",
+      "titulo": "Apartamento en Venta en Villa maria, Bogotá",
+      "id_domus": "194373616",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.7394627,
+      "lon": -74.1026587,
       "location_type": "exacta",
       "zonaConsulta": "VILLA MARIA",
       "zonaSlug": "villa-maria",
@@ -110,11 +110,43 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 298000000,
+      "area": 64.0,
+      "precioM2": 4656250,
+      "administracion": null,
+      "barrio": "VILLA MARIA",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-maria-bogota/194427063",
+      "titulo": "Apartamento en Venta en Villa maria, Bogotá",
+      "id_domus": "194427063",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.737516424962,
+      "lon": -74.106234905359,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA MARIA",
+      "zonaSlug": "villa-maria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 190000000,
       "area": 36.0,
       "precioM2": 5277778,
       "administracion": 441000.0,
-      "barrio": "COSTA AZUL",
+      "barrio": "VILLA MARIA I",
       "upl": "Rincón de Suba",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -124,8 +156,8 @@
       "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-costa-azul-bogota/194101082",
-      "titulo": "Apartamento en Venta en Costa azul, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-maria-i-bogota/194101082",
+      "titulo": "Apartamento en Venta en Villa maria i, Bogotá",
       "id_domus": "194101082",
       "fechaPublicacion": "2026-08-11",
       "lat": 4.7406871335106,
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
