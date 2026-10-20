@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "AURES",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.14 21:02",
+  "generado": "2026.OCT.20 00:46",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 820000000,
+      "area": 117.0,
+      "precioM2": 7008547,
+      "administracion": 1622000.0,
+      "barrio": "RINCON DEL CHICO",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-rincon-del-chico-bogota/194364957",
+      "titulo": "Apartamento en Venta en Rincon del chico, Bogotá",
+      "id_domus": "194364957",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.7354901,
+      "lon": -74.0974539,
+      "location_type": "exacta",
+      "zonaConsulta": "AURES",
+      "zonaSlug": "aures",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],

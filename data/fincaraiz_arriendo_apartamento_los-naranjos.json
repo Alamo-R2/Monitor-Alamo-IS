@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "LOS NARANJOS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.14 21:02",
+  "generado": "2026.OCT.20 00:46",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -28,10 +28,10 @@
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-provenza-bogota/194290304",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-provenza-bogota/194415078",
       "titulo": "Apartamento en Arriendo en Provenza, Bogotá",
-      "id_domus": "194290304",
-      "fechaPublicacion": "2026-09-21",
+      "id_domus": "194415078",
+      "fechaPublicacion": "2026-10-16",
       "lat": 4.727794,
       "lon": -74.0846148,
       "location_type": "exacta",
@@ -105,6 +105,38 @@
     },
     {
       "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1147000,
+      "area": 37.0,
+      "precioM2": 31000,
+      "administracion": 153000.0,
+      "barrio": "LOS NARANJOS",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cerros-de-suba-bogota/194423189",
+      "titulo": "Apartamento en Arriendo en Cerros de Suba, Bogotá",
+      "id_domus": "194423189",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.7246142,
+      "lon": -74.0877037,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS NARANJOS",
+      "zonaSlug": "los-naranjos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],

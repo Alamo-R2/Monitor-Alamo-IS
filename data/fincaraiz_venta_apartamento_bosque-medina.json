@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.14 21:02",
+  "generado": "2026.OCT.20 00:46",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2200000000,
-      "area": 222.0,
-      "precioM2": 9909910,
-      "administracion": 1500000.0,
-      "barrio": "GINEBRA",
+      "precio": 2900000000,
+      "area": 380.0,
+      "precioM2": 7631579,
+      "administracion": 2503000.0,
+      "barrio": "BOSQUE MEDINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 3,
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 4,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ginebra-bogota/193910967",
-      "titulo": "Apartamento en Venta en Ginebra, Bogotá",
-      "id_domus": "193910967",
-      "fechaPublicacion": "2026-06-24",
-      "lat": 4.7087035,
-      "lon": -74.0282856,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosques-del-marques-bogota/194420620",
+      "titulo": "Apartamento en Venta en Bosques del Marques, Bogotá",
+      "id_domus": "194420620",
+      "fechaPublicacion": "2026-10-18",
+      "lat": 4.7110953,
+      "lon": -74.0263401,
       "location_type": "exacta",
       "zonaConsulta": "BOSQUE MEDINA",
       "zonaSlug": "bosque-medina",
@@ -174,26 +174,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1400000000,
-      "area": 195.0,
-      "precioM2": 7179487,
-      "administracion": 2200000.0,
-      "barrio": "BOSQUE MEDINA",
+      "precio": 480000000,
+      "area": 69.0,
+      "precioM2": 6956522,
+      "administracion": 655000.0,
+      "barrio": "BELLA SUIZA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 3,
-      "estrato": 6,
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosque-medina-bogota/193625279",
-      "titulo": "Apartamento en Venta en Bosque Medina, Bogotá",
-      "id_domus": "193625279",
-      "fechaPublicacion": "2026-04-13",
-      "lat": 4.7107746,
-      "lon": -74.0270835,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bella-suiza-bogota/193516874",
+      "titulo": "Apartamento en Venta en Bella suiza, Bogotá",
+      "id_domus": "193516874",
+      "fechaPublicacion": "2026-03-16",
+      "lat": 4.7076202,
+      "lon": -74.0291006,
       "location_type": "exacta",
       "zonaConsulta": "BOSQUE MEDINA",
       "zonaSlug": "bosque-medina",
@@ -238,6 +238,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 3400000000,
+      "area": 345.0,
+      "precioM2": 9855072,
+      "administracion": 2500000.0,
+      "barrio": "BOSQUE MEDINA",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 5,
+      "banos": 6,
+      "parqueaderos": 3,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosques-del-marques-bogota/194420592",
+      "titulo": "Apartamento en Venta en Bosques del Marques, Bogotá",
+      "id_domus": "194420592",
+      "fechaPublicacion": "2026-10-18",
+      "lat": 4.7110953,
+      "lon": -74.0263401,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSQUE MEDINA",
+      "zonaSlug": "bosque-medina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1000000000,
       "area": 168.0,
       "precioM2": 5952381,
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,64 +360,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2050000000,
-      "area": 265.0,
-      "precioM2": 7735849,
-      "administracion": 2000000.0,
-      "barrio": "BOSQUE MEDINA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 4,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosques-del-marques-bogota/192846369",
-      "titulo": "Apartamento en Venta en Bosques del Marques, Bogotá",
-      "id_domus": "192846369",
-      "fechaPublicacion": "2025-09-08",
-      "lat": 4.70994949223,
-      "lon": -74.025085085181,
-      "location_type": "exacta",
-      "zonaConsulta": "BOSQUE MEDINA",
-      "zonaSlug": "bosque-medina",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-12",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2100000000,
-      "area": 275.0,
-      "precioM2": 7636364,
-      "administracion": 2080000.0,
+      "precio": 1400000000,
+      "area": 195.0,
+      "precioM2": 7179487,
+      "administracion": 2200000.0,
       "barrio": "BOSQUE MEDINA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 5,
+      "banos": 4,
       "parqueaderos": 3,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosque-medina-bogota/193863491",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosque-medina-bogota/193625279",
       "titulo": "Apartamento en Venta en Bosque Medina, Bogotá",
-      "id_domus": "193863491",
-      "fechaPublicacion": "2026-06-10",
-      "lat": 4.7352009913372,
-      "lon": -74.014892578125,
+      "id_domus": "193625279",
+      "fechaPublicacion": "2026-04-13",
+      "lat": 4.7107746,
+      "lon": -74.0270835,
       "location_type": "exacta",
       "zonaConsulta": "BOSQUE MEDINA",
       "zonaSlug": "bosque-medina",
@@ -393,6 +393,38 @@
     },
     {
       "id": "MI-13",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000000,
+      "area": 211.0,
+      "precioM2": 7582938,
+      "administracion": 1656000.0,
+      "barrio": "BOSQUE MEDINA",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-iraka-bogota/194423713",
+      "titulo": "Apartamento en Venta en Iraka, Bogotá",
+      "id_domus": "194423713",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.7092133,
+      "lon": -74.0275794,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSQUE MEDINA",
+      "zonaSlug": "bosque-medina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,15 +584,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2250000000,
+      "precio": 2300000000,
       "area": 266.0,
-      "precioM2": 8458647,
+      "precioM2": 8646617,
       "administracion": 2000000.0,
       "barrio": "BOSQUE MEDINA",
       "upl": "Usaquén",
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-03-05",
       "lat": 4.7102773,
       "lon": -74.0271295,
-      "location_type": "exacta",
-      "zonaConsulta": "BOSQUE MEDINA",
-      "zonaSlug": "bosque-medina",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2490000000,
-      "area": 254.0,
-      "precioM2": 9803150,
-      "administracion": 2050000.0,
-      "barrio": "BOSQUE MEDINA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 3,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosque-medina-bogota/194029711",
-      "titulo": "Apartamento en Venta en Bosque Medina, Bogotá",
-      "id_domus": "194029711",
-      "fechaPublicacion": "2026-07-24",
-      "lat": 4.710127089503,
-      "lon": -74.028864239356,
       "location_type": "exacta",
       "zonaConsulta": "BOSQUE MEDINA",
       "zonaSlug": "bosque-medina",

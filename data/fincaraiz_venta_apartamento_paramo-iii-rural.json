@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.14 21:02",
+  "generado": "2026.OCT.20 00:46",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 780000000,
-      "area": 132.0,
-      "precioM2": 5909091,
-      "administracion": 1152000.0,
-      "barrio": "SANTA BARBARA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-barbara-bogota/194377472",
-      "titulo": "Apartamento en Venta en Santa Barbara, Bogotá",
-      "id_domus": "194377472",
-      "fechaPublicacion": "2026-10-08",
-      "lat": 4.686657592974,
-      "lon": -74.035725078562,
-      "location_type": "exacta",
-      "zonaConsulta": "PARAMO III RURAL",
-      "zonaSlug": "paramo-iii-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +72,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 780000000,
+      "area": 132.0,
+      "precioM2": 5909091,
+      "administracion": 1152000.0,
+      "barrio": "SANTA BARBARA",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-barbara-bogota/194377472",
+      "titulo": "Apartamento en Venta en Santa Barbara, Bogotá",
+      "id_domus": "194377472",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.686657592974,
+      "lon": -74.035725078562,
+      "location_type": "exacta",
+      "zonaConsulta": "PARAMO III RURAL",
+      "zonaSlug": "paramo-iii-rural",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 480000000,
+      "area": 65.0,
+      "precioM2": 7384615,
+      "administracion": 502000.0,
+      "barrio": "PARAMO III RURAL",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-colina-campestre-bogota/194134010",
+      "titulo": "Apartamento en Venta en Colina Campestre, Bogotá",
+      "id_domus": "194134010",
+      "fechaPublicacion": "2026-08-19",
+      "lat": 4.6851903,
+      "lon": -74.0356891,
+      "location_type": "exacta",
+      "zonaConsulta": "PARAMO III RURAL",
+      "zonaSlug": "paramo-iii-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,47 +168,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 830000000,
-      "area": 105.0,
-      "precioM2": 7904762,
-      "administracion": 515000.0,
-      "barrio": "SANTA ANA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-ana-bogota/193944557",
-      "titulo": "Apartamento en Venta en Santa Ana, Bogotá",
-      "id_domus": "193944557",
-      "fechaPublicacion": "2026-07-02",
-      "lat": 4.6856466,
-      "lon": -74.0358513,
-      "location_type": "exacta",
-      "zonaConsulta": "PARAMO III RURAL",
-      "zonaSlug": "paramo-iii-rural",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-6",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 725000000,
+      "precio": 722000000,
       "area": 105.0,
-      "precioM2": 6904762,
+      "precioM2": 6876190,
       "administracion": 500000.0,
       "barrio": "PARAMO III RURAL",
       "upl": "Usaquén",
@@ -494,6 +494,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 710000000,
+      "area": 60.0,
+      "precioM2": 11833333,
+      "administracion": 711000.0,
+      "barrio": "SANTA ANA",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-ana-bogota/194404280",
+      "titulo": "Apartamento en Venta en Santa Ana, Bogotá",
+      "id_domus": "194404280",
+      "fechaPublicacion": "2026-10-15",
+      "lat": 4.6862538796737,
+      "lon": -74.035629032788,
+      "location_type": "exacta",
+      "zonaConsulta": "PARAMO III RURAL",
+      "zonaSlug": "paramo-iii-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1190000000,
       "area": 130.0,
       "precioM2": 9153846,
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -610,38 +642,6 @@
       "fechaPublicacion": "2026-10-01",
       "lat": 4.68422,
       "lon": -74.03021,
-      "location_type": "exacta",
-      "zonaConsulta": "PARAMO III RURAL",
-      "zonaSlug": "paramo-iii-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 480000000,
-      "area": 65.0,
-      "precioM2": 7384615,
-      "administracion": 502000.0,
-      "barrio": "PARAMO III RURAL",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-colina-campestre-bogota/194134010",
-      "titulo": "Apartamento en Venta en Colina Campestre, Bogotá",
-      "id_domus": "194134010",
-      "fechaPublicacion": "2026-08-19",
-      "lat": 4.6851903,
-      "lon": -74.0356891,
       "location_type": "exacta",
       "zonaConsulta": "PARAMO III RURAL",
       "zonaSlug": "paramo-iii-rural",

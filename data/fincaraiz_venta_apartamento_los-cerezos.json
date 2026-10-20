@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 15,
+  "total": 16,
   "zona": "LOS CEREZOS",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 20:09",
+  "generado": "2026.OCT.20 00:46",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,9 +110,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 385000000,
-      "area": 77.0,
-      "precioM2": 5000000,
+      "precio": 290000000,
+      "area": 70.0,
+      "precioM2": 4142857,
       "administracion": 100000.0,
       "barrio": "LOS CEREZOS",
       "upl": "Niza",
@@ -120,16 +120,16 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1.0,
+      "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-cerezos-bogota/193978544",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-cerezos-bogota/193773415",
       "titulo": "Apartamento en Venta en Los cerezos, Bogotá",
-      "id_domus": "193978544",
-      "fechaPublicacion": "2026-07-10",
-      "lat": 4.709496,
-      "lon": -74.097543,
+      "id_domus": "193773415",
+      "fechaPublicacion": "2026-05-20",
+      "lat": 4.7090881,
+      "lon": -74.0966468,
       "location_type": "exacta",
       "zonaConsulta": "LOS CEREZOS",
       "zonaSlug": "los-cerezos",
@@ -207,38 +207,6 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 290000000,
-      "area": 70.0,
-      "precioM2": 4142857,
-      "administracion": 100000.0,
-      "barrio": "LOS CEREZOS",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-cerezos-bogota/193773415",
-      "titulo": "Apartamento en Venta en Los cerezos, Bogotá",
-      "id_domus": "193773415",
-      "fechaPublicacion": "2026-05-20",
-      "lat": 4.7090881,
-      "lon": -74.0966468,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS CEREZOS",
-      "zonaSlug": "los-cerezos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 290000000,
       "area": 61.0,
       "precioM2": 4754098,
       "administracion": 312000.0,
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 290000000,
+      "area": 54.0,
+      "precioM2": 5370370,
+      "administracion": 273000.0,
+      "barrio": "PARIS GAITAN",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-paris-gaitan-bogota/194425833",
+      "titulo": "Apartamento en Venta en Paris gaitan, Bogotá",
+      "id_domus": "194425833",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.7073657,
+      "lon": -74.0969502,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS CEREZOS",
+      "zonaSlug": "los-cerezos",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-15",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 385000000,
+      "area": 77.0,
+      "precioM2": 5000000,
+      "administracion": 100000.0,
+      "barrio": "LOS CEREZOS",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-cerezos-bogota/193978544",
+      "titulo": "Apartamento en Venta en Los cerezos, Bogotá",
+      "id_domus": "193978544",
+      "fechaPublicacion": "2026-07-10",
+      "lat": 4.709496,
+      "lon": -74.097543,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS CEREZOS",
+      "zonaSlug": "los-cerezos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
