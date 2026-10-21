@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.15 23:57",
+  "generado": "2026.OCT.21 05:27",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 318000000,
-      "area": 54.0,
-      "precioM2": 5888889,
-      "administracion": 60000.0,
-      "barrio": "CIUDAD BERNA",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-berna-bogota/193365324",
-      "titulo": "Apartamento en Venta en Ciudad berna, Bogotá",
-      "id_domus": "193365324",
-      "fechaPublicacion": "2026-02-05",
-      "lat": 4.584707,
-      "lon": -74.093933,
-      "location_type": "exacta",
-      "zonaConsulta": "CARACAS",
-      "zonaSlug": "caracas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2025-09-12",
       "lat": 4.582672288913,
       "lon": -74.09258564659,
+      "location_type": "exacta",
+      "zonaConsulta": "CARACAS",
+      "zonaSlug": "caracas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 318000000,
+      "area": 54.0,
+      "precioM2": 5888889,
+      "administracion": 60000.0,
+      "barrio": "CIUDAD BERNA",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-berna-bogota/193365324",
+      "titulo": "Apartamento en Venta en Ciudad berna, Bogotá",
+      "id_domus": "193365324",
+      "fechaPublicacion": "2026-02-05",
+      "lat": 4.584707,
+      "lon": -74.093933,
       "location_type": "exacta",
       "zonaConsulta": "CARACAS",
       "zonaSlug": "caracas",

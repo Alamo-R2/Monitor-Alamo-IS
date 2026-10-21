@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.20 20:57",
+  "generado": "2026.OCT.21 05:27",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1537000,
+      "area": 45.0,
+      "precioM2": 34156,
+      "administracion": 195000.0,
+      "barrio": "VERBENAL SAN ANTONIO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-verbenal-san-antonio-bogota/194430525",
+      "titulo": "Apartamento en Arriendo en Verbenal san antonio, Bogotá",
+      "id_domus": "194430525",
+      "fechaPublicacion": "2026-10-20",
+      "lat": 4.5923969,
+      "lon": -74.0885685,
+      "location_type": "exacta",
+      "zonaConsulta": "LA HORTUA",
+      "zonaSlug": "la-hortua",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-08-31",
       "lat": 4.5906082,
       "lon": -74.0866504,
-      "location_type": "exacta",
-      "zonaConsulta": "LA HORTUA",
-      "zonaSlug": "la-hortua",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1537000,
-      "area": 45.0,
-      "precioM2": 34156,
-      "administracion": 195000.0,
-      "barrio": "VERBENAL SAN ANTONIO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-verbenal-san-antonio-bogota/194430525",
-      "titulo": "Apartamento en Arriendo en Verbenal san antonio, Bogotá",
-      "id_domus": "194430525",
-      "fechaPublicacion": "2026-10-20",
-      "lat": 4.5923969,
-      "lon": -74.0885685,
       "location_type": "exacta",
       "zonaConsulta": "LA HORTUA",
       "zonaSlug": "la-hortua",

@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 00:00",
+  "generado": "2026.OCT.21 05:27",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1500000,
-      "area": 52.0,
-      "precioM2": 28846,
+      "precio": 2800000,
+      "area": 50.0,
+      "precioM2": 56000,
       "administracion": null,
-      "barrio": "SAN GABRIEL",
+      "barrio": "PALOQUEMAO",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2.0,
-      "banos": null,
-      "parqueaderos": null,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-gabriel-bogota/194349215",
-      "titulo": "Apartamento en Arriendo en San gabriel, Bogotá",
-      "id_domus": "194349215",
-      "fechaPublicacion": "2026-10-02",
-      "lat": 4.6259819,
-      "lon": -74.115661,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-paloquemao-bogota/194262487",
+      "titulo": "Apartamento en Arriendo en Paloquemao, Bogotá",
+      "id_domus": "194262487",
+      "fechaPublicacion": "2026-09-15",
+      "lat": 4.6151264,
+      "lon": -74.0913047,
       "location_type": "exacta",
       "zonaConsulta": "PUENTE ARANDA",
       "zonaSlug": "puente-aranda",
@@ -41,38 +41,6 @@
     },
     {
       "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 60.0,
-      "precioM2": 30000,
-      "administracion": null,
-      "barrio": "LA PRADERA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-pradera-bogota/194114897",
-      "titulo": "Apartamento en Arriendo en La pradera, Bogotá",
-      "id_domus": "194114897",
-      "fechaPublicacion": "2026-08-13",
-      "lat": 4.6258028,
-      "lon": -74.1223086,
-      "location_type": "exacta",
-      "zonaConsulta": "PUENTE ARANDA",
-      "zonaSlug": "puente-aranda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -258,6 +226,38 @@
       "fechaPublicacion": "2026-10-01",
       "lat": 4.6209681,
       "lon": -74.1157934,
+      "location_type": "exacta",
+      "zonaConsulta": "PUENTE ARANDA",
+      "zonaSlug": "puente-aranda",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1799900,
+      "area": 60.0,
+      "precioM2": 29998,
+      "administracion": null,
+      "barrio": "LA PRADERA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-pradera-bogota/194114897",
+      "titulo": "Apartamento en Arriendo en La pradera, Bogotá",
+      "id_domus": "194114897",
+      "fechaPublicacion": "2026-08-13",
+      "lat": 4.6258028,
+      "lon": -74.1223086,
       "location_type": "exacta",
       "zonaConsulta": "PUENTE ARANDA",
       "zonaSlug": "puente-aranda",
@@ -334,9 +334,41 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1980000,
+      "precio": 2600000,
+      "area": 49.0,
+      "precioM2": 53061,
+      "administracion": null,
+      "barrio": "RICAURTE",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2.0,
+      "banos": 2.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ricaurte-bogota/194403398",
+      "titulo": "Apartamento en Arriendo en Ricaurte, Bogotá",
+      "id_domus": "194403398",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.6151778,
+      "lon": -74.0913073,
+      "location_type": "exacta",
+      "zonaConsulta": "PUENTE ARANDA",
+      "zonaSlug": "puente-aranda",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1900000,
       "area": 32.0,
-      "precioM2": 61875,
+      "precioM2": 59375,
       "administracion": null,
       "barrio": "PUENTE ARANDA",
       "upl": "Puente Aranda",
@@ -360,7 +392,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2500000,
+      "area": 47.0,
+      "precioM2": 53191,
+      "administracion": 350000.0,
+      "barrio": "PALOQUEMAO",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2.0,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-paloquemao-bogota/194182867",
+      "titulo": "Apartamento en Arriendo en Paloquemao, Bogotá",
+      "id_domus": "194182867",
+      "fechaPublicacion": "2026-08-29",
+      "lat": 4.6151778,
+      "lon": -74.0913073,
+      "location_type": "exacta",
+      "zonaConsulta": "PUENTE ARANDA",
+      "zonaSlug": "puente-aranda",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -450,70 +514,6 @@
       "fechaPublicacion": "2026-09-24",
       "lat": 4.5942848,
       "lon": -74.1365326,
-      "location_type": "exacta",
-      "zonaConsulta": "PUENTE ARANDA",
-      "zonaSlug": "puente-aranda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2220000,
-      "area": 33.0,
-      "precioM2": 67273,
-      "administracion": 280000.0,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-salitre-bogota/193647585",
-      "titulo": "Apartamento en Arriendo en Ciudad salitre, Bogotá",
-      "id_domus": "193647585",
-      "fechaPublicacion": "2026-04-17",
-      "lat": 4.645076616631,
-      "lon": -74.109528888452,
-      "location_type": "exacta",
-      "zonaConsulta": "PUENTE ARANDA",
-      "zonaSlug": "puente-aranda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3736000,
-      "area": 60.0,
-      "precioM2": 62267,
-      "administracion": 364000.0,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2.0,
-      "banos": 2.0,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-salitre-bogota/193647529",
-      "titulo": "Apartamento en Arriendo en Ciudad salitre, Bogotá",
-      "id_domus": "193647529",
-      "fechaPublicacion": "2026-04-17",
-      "lat": 4.6454227008367,
-      "lon": -74.109567902282,
       "location_type": "exacta",
       "zonaConsulta": "PUENTE ARANDA",
       "zonaSlug": "puente-aranda",
@@ -558,6 +558,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1500000,
+      "area": 52.0,
+      "precioM2": 28846,
+      "administracion": null,
+      "barrio": "SAN GABRIEL",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2.0,
+      "banos": null,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-gabriel-bogota/194349215",
+      "titulo": "Apartamento en Arriendo en San gabriel, Bogotá",
+      "id_domus": "194349215",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.6259819,
+      "lon": -74.115661,
+      "location_type": "exacta",
+      "zonaConsulta": "PUENTE ARANDA",
+      "zonaSlug": "puente-aranda",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1910000,
       "area": 45.0,
       "precioM2": 42444,
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-04-21",
       "lat": 4.6056285,
       "lon": -74.1251147,
-      "location_type": "exacta",
-      "zonaConsulta": "PUENTE ARANDA",
-      "zonaSlug": "puente-aranda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2600000,
-      "area": 47.0,
-      "precioM2": 55319,
-      "administracion": null,
-      "barrio": "PALOQUEMAO",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-paloquemao-bogota/194336371",
-      "titulo": "Apartamento en Arriendo en Paloquemao, Bogotá",
-      "id_domus": "194336371",
-      "fechaPublicacion": "2026-09-30",
-      "lat": 4.6151778,
-      "lon": -74.0913073,
       "location_type": "exacta",
       "zonaConsulta": "PUENTE ARANDA",
       "zonaSlug": "puente-aranda",
