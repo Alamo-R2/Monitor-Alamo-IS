@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.15 20:36",
+  "generado": "2026.OCT.21 00:12",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 48.0,
-      "precioM2": 6875000,
-      "administracion": 66000.0,
+      "precio": 960000000,
+      "area": 160.0,
+      "precioM2": 6000000,
+      "administracion": 940000.0,
       "barrio": "ALCALA",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 5.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcala-bogota/192797721",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcala-bogota/193995401",
       "titulo": "Apartamento en Venta en Alcala, Bogotá",
-      "id_domus": "192797721",
-      "fechaPublicacion": "2025-08-27",
-      "lat": 4.6030377,
-      "lon": -74.1286695,
+      "id_domus": "193995401",
+      "fechaPublicacion": "2026-07-15",
+      "lat": 4.7239545,
+      "lon": -74.0477414,
       "location_type": "exacta",
       "zonaConsulta": "ALCALA",
       "zonaSlug": "alcala",
@@ -41,6 +41,38 @@
     },
     {
       "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1150000000,
+      "area": 102.0,
+      "precioM2": 11274510,
+      "administracion": 1100000.0,
+      "barrio": "ALCALA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 5.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcala-bogota/194403275",
+      "titulo": "Apartamento en Venta en Alcala, Bogotá",
+      "id_domus": "194403275",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.7239545,
+      "lon": -74.0477414,
+      "location_type": "exacta",
+      "zonaConsulta": "ALCALA",
+      "zonaSlug": "alcala",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-08-17",
       "lat": 4.5999714,
       "lon": -74.128328,
-      "location_type": "exacta",
-      "zonaConsulta": "ALCALA",
-      "zonaSlug": "alcala",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 342200000,
-      "area": 38.0,
-      "precioM2": 9005263,
-      "administracion": null,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/193864885",
-      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
-      "id_domus": "193864885",
-      "fechaPublicacion": "2026-06-11",
-      "lat": 4.6016859,
-      "lon": -74.124365,
       "location_type": "exacta",
       "zonaConsulta": "ALCALA",
       "zonaSlug": "alcala",
@@ -142,38 +142,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 960000000,
-      "area": 160.0,
-      "precioM2": 6000000,
-      "administracion": 940000.0,
-      "barrio": "ALCALA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 5.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcala-bogota/193995401",
-      "titulo": "Apartamento en Venta en Alcala, Bogotá",
-      "id_domus": "193995401",
-      "fechaPublicacion": "2026-07-15",
-      "lat": 4.7239545,
-      "lon": -74.0477414,
-      "location_type": "exacta",
-      "zonaConsulta": "ALCALA",
-      "zonaSlug": "alcala",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 331600000,
       "area": 39.0,
       "precioM2": 8502564,
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,39 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1150000000,
-      "area": 102.0,
-      "precioM2": 11274510,
-      "administracion": 1100000.0,
-      "barrio": "ALCALA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 5.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcala-bogota/194403275",
-      "titulo": "Apartamento en Venta en Alcala, Bogotá",
-      "id_domus": "194403275",
-      "fechaPublicacion": "2026-10-14",
-      "lat": 4.7239545,
-      "lon": -74.0477414,
-      "location_type": "exacta",
-      "zonaConsulta": "ALCALA",
-      "zonaSlug": "alcala",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +488,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 330000000,
+      "area": 48.0,
+      "precioM2": 6875000,
+      "administracion": 66000.0,
+      "barrio": "ALCALA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcala-bogota/192797721",
+      "titulo": "Apartamento en Venta en Alcala, Bogotá",
+      "id_domus": "192797721",
+      "fechaPublicacion": "2025-08-27",
+      "lat": 4.6030377,
+      "lon": -74.1286695,
+      "location_type": "exacta",
+      "zonaConsulta": "ALCALA",
+      "zonaSlug": "alcala",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,15 +552,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 420000000,
+      "precio": 425000000,
       "area": 48.0,
-      "precioM2": 8750000,
+      "precioM2": 8854167,
       "administracion": 300000.0,
       "barrio": "ALCALA",
       "upl": "Puente Aranda",
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -672,6 +640,38 @@
       "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
       "id_domus": "193732347",
       "fechaPublicacion": "2026-05-11",
+      "lat": 4.6039037,
+      "lon": -74.1253262,
+      "location_type": "exacta",
+      "zonaConsulta": "ALCALA",
+      "zonaSlug": "alcala",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1434000000,
+      "area": 138.0,
+      "precioM2": 10391304,
+      "administracion": null,
+      "barrio": "PUENTE ARANDA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/193865271",
+      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
+      "id_domus": "193865271",
+      "fechaPublicacion": "2026-06-11",
       "lat": 4.6039037,
       "lon": -74.1253262,
       "location_type": "exacta",

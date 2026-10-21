@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 05:13",
+  "generado": "2026.OCT.21 00:12",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 215000000,
+      "area": 43.0,
+      "precioM2": 5000000,
+      "administracion": 237800.0,
+      "barrio": "CALVO SUR",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-calvo-sur-bogota/194242486",
+      "titulo": "Apartamento en Venta en Calvo sur, Bogotá",
+      "id_domus": "194242486",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.5818257038,
+      "lon": -74.0843188763,
+      "location_type": "exacta",
+      "zonaConsulta": "CALVO SUR",
+      "zonaSlug": "calvo-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 230000000,
       "area": 86.0,
       "precioM2": 2674419,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -194,38 +226,6 @@
       "fechaPublicacion": "2026-08-31",
       "lat": 4.587129449745,
       "lon": -74.081456826106,
-      "location_type": "exacta",
-      "zonaConsulta": "CALVO SUR",
-      "zonaSlug": "calvo-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 215000000,
-      "area": 43.0,
-      "precioM2": 5000000,
-      "administracion": 237800.0,
-      "barrio": "CALVO SUR",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-calvo-sur-bogota/194242486",
-      "titulo": "Apartamento en Venta en Calvo sur, Bogotá",
-      "id_domus": "194242486",
-      "fechaPublicacion": "2026-09-11",
-      "lat": 4.5818257038,
-      "lon": -74.0843188763,
       "location_type": "exacta",
       "zonaConsulta": "CALVO SUR",
       "zonaSlug": "calvo-sur",

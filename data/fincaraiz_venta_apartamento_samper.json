@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 00:00",
+  "generado": "2026.OCT.21 00:12",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,42 +14,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 520000000,
-      "area": 62.0,
-      "precioM2": 8387097,
-      "administracion": 473000.0,
-      "barrio": "SAN MARTIN",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-martin-bogota/194031073",
-      "titulo": "Apartamento en Venta en San martin, Bogotá",
-      "id_domus": "194031073",
-      "fechaPublicacion": "2026-07-24",
-      "lat": 4.620473,
-      "lon": -74.0685261,
-      "location_type": "exacta",
-      "zonaConsulta": "SAMPER",
-      "zonaSlug": "samper",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 355000000,
       "area": 51.0,
       "precioM2": 6960784,
-      "administracion": 432000.0,
+      "administracion": 432000,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -72,6 +40,38 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 800000000,
+      "area": 91.0,
+      "precioM2": 8791209,
+      "administracion": 905370,
+      "barrio": "SAMPER",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2.0,
+      "parqueaderos": 2.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-parque-central-bavaria-bogota/193801433",
+      "titulo": "Apartamento en Venta en Parque Central Bavaria, Bogotá",
+      "id_domus": "193801433",
+      "fechaPublicacion": "2026-05-26",
+      "lat": 4.6197261,
+      "lon": -74.0699529,
+      "location_type": "exacta",
+      "zonaConsulta": "SAMPER",
+      "zonaSlug": "samper",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-3",
       "operacion": [
         "Venta"
@@ -81,7 +81,7 @@
       "precio": 770000000,
       "area": 500.0,
       "precioM2": 1540000,
-      "administracion": 450000.0,
+      "administracion": 450000,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -113,7 +113,7 @@
       "precio": 1300000000,
       "area": 123.0,
       "precioM2": 10569106,
-      "administracion": 1144500.0,
+      "administracion": 1144500,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -145,7 +145,7 @@
       "precio": 460000000,
       "area": 52.0,
       "precioM2": 8846154,
-      "administracion": 319000.0,
+      "administracion": 319000,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -177,7 +177,7 @@
       "precio": 900000000,
       "area": 112.0,
       "precioM2": 8035714,
-      "administracion": 813000.0,
+      "administracion": 813000,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -209,7 +209,7 @@
       "precio": 620000000,
       "area": 60.0,
       "precioM2": 10333333,
-      "administracion": 480000.0,
+      "administracion": 480000,
       "barrio": "SANTA FE",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -238,10 +238,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 740000000,
+      "precio": 720000000,
       "area": 62.0,
-      "precioM2": 11935484,
-      "administracion": 370000.0,
+      "precioM2": 11612903,
+      "administracion": 370000,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -270,10 +270,42 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 600000000,
+      "area": 58.0,
+      "precioM2": 10344828,
+      "administracion": 560000,
+      "barrio": "SAMPER",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1.0,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-internacional-bogota/194418447",
+      "titulo": "Apartamento en Venta en Centro Internacional, Bogotá",
+      "id_domus": "194418447",
+      "fechaPublicacion": "2026-10-17",
+      "lat": 4.6183801,
+      "lon": -74.0703072,
+      "location_type": "exacta",
+      "zonaConsulta": "SAMPER",
+      "zonaSlug": "samper",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 520000000,
       "area": 55.0,
       "precioM2": 9454545,
-      "administracion": 400000.0,
+      "administracion": 400000,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -305,7 +337,7 @@
       "precio": 340000000,
       "area": 30.0,
       "precioM2": 11333333,
-      "administracion": 200000.0,
+      "administracion": 200000,
       "barrio": "SAMPER MENDOZA",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -337,7 +369,7 @@
       "precio": 850000000,
       "area": 108.0,
       "precioM2": 7870370,
-      "administracion": 658000.0,
+      "administracion": 658000,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -369,7 +401,7 @@
       "precio": 320000000,
       "area": 28.0,
       "precioM2": 11428571,
-      "administracion": 300000.0,
+      "administracion": 300000,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -392,7 +424,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 520000000,
+      "area": 44.0,
+      "precioM2": 11818182,
+      "administracion": 370000,
+      "barrio": "SAMPER",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2.0,
+      "banos": 1.0,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-internacional-bogota/194414983",
+      "titulo": "Apartamento en Venta en Centro Internacional, Bogotá",
+      "id_domus": "194414983",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.6205068402152,
+      "lon": -74.067378044128,
+      "location_type": "exacta",
+      "zonaConsulta": "SAMPER",
+      "zonaSlug": "samper",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -401,7 +465,7 @@
       "precio": 695000000,
       "area": 92.0,
       "precioM2": 7554348,
-      "administracion": 683600.0,
+      "administracion": 683600,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -433,7 +497,7 @@
       "precio": 632000000,
       "area": 57.0,
       "precioM2": 11087719,
-      "administracion": 600000.0,
+      "administracion": 600000,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -465,7 +529,7 @@
       "precio": 699000000,
       "area": 95.0,
       "precioM2": 7357895,
-      "administracion": 700000.0,
+      "administracion": 700000,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -497,7 +561,7 @@
       "precio": 295000000,
       "area": 29.0,
       "precioM2": 10172414,
-      "administracion": 198000.0,
+      "administracion": 198000,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -529,7 +593,7 @@
       "precio": 770000000,
       "area": 85.0,
       "precioM2": 9058824,
-      "administracion": 590000.0,
+      "administracion": 590000,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -552,39 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 549000000,
-      "area": 60.0,
-      "precioM2": 9150000,
-      "administracion": null,
-      "barrio": "SAMPER",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2.0,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-parque-central-bavaria-bogota/193935199",
-      "titulo": "Apartamento en Venta en Parque Central Bavaria, Bogotá",
-      "id_domus": "193935199",
-      "fechaPublicacion": "2026-06-30",
-      "lat": 4.616364145007,
-      "lon": -74.07105706356,
-      "location_type": "exacta",
-      "zonaConsulta": "SAMPER",
-      "zonaSlug": "samper",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -593,7 +625,7 @@
       "precio": 600000000,
       "area": 45.0,
       "precioM2": 13333333,
-      "administracion": 270000.0,
+      "administracion": 270000,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -625,7 +657,7 @@
       "precio": 395000000,
       "area": 30.0,
       "precioM2": 13166667,
-      "administracion": 150000.0,
+      "administracion": 150000,
       "barrio": "SAMPER",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-07-29",
       "lat": 4.6218921,
       "lon": -74.0694236,
-      "location_type": "exacta",
-      "zonaConsulta": "SAMPER",
-      "zonaSlug": "samper",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 520000000,
-      "area": 67.0,
-      "precioM2": 7761194,
-      "administracion": 399000.0,
-      "barrio": "SAMPER",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-internacional-bogota/192926245",
-      "titulo": "Apartamento en Venta en Centro Internacional, Bogotá",
-      "id_domus": "192926245",
-      "fechaPublicacion": "2025-09-28",
-      "lat": 4.6203826,
-      "lon": -74.0684096,
       "location_type": "exacta",
       "zonaConsulta": "SAMPER",
       "zonaSlug": "samper",

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 14,
+  "total": 15,
   "zona": "LAS DELICIAS",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 13:19",
+  "generado": "2026.OCT.21 00:12",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -306,6 +306,38 @@
       "area": 49.0,
       "precioM2": 5285714,
       "administracion": 135000.0,
+      "barrio": "TUNJUELITO",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tunjuelito-bogota/194060323",
+      "titulo": "Apartamento en Venta en Tunjuelito, Bogotá",
+      "id_domus": "194060323",
+      "fechaPublicacion": "2026-07-31",
+      "lat": 4.5991075,
+      "lon": -74.1483451,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS DELICIAS",
+      "zonaSlug": "las-delicias",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 259000000,
+      "area": 49.0,
+      "precioM2": 5285714,
+      "administracion": 135000.0,
       "barrio": "LAS DELICIAS",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],

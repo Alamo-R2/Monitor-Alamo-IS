@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 21,
+  "total": 19,
   "zona": "PALOQUEMAO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.15 20:36",
+  "generado": "2026.OCT.21 00:12",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,38 +78,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1350000,
-      "area": 40.0,
-      "precioM2": 33750,
-      "administracion": 250000.0,
-      "barrio": "PALOQUEMAO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-paloquemao-bogota/194295384",
-      "titulo": "Apartamento en Arriendo en Paloquemao, Bogotá",
-      "id_domus": "194295384",
-      "fechaPublicacion": "2026-09-22",
-      "lat": 4.611936739931,
-      "lon": -74.083169081287,
-      "location_type": "exacta",
-      "zonaConsulta": "PALOQUEMAO",
-      "zonaSlug": "paloquemao",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 7600000,
       "area": 300.0,
       "precioM2": 25333,
@@ -136,32 +104,64 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000,
+      "area": 49.0,
+      "precioM2": 53061,
+      "administracion": null,
+      "barrio": "RICAURTE",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ricaurte-bogota/194403398",
+      "titulo": "Apartamento en Arriendo en Ricaurte, Bogotá",
+      "id_domus": "194403398",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.6151778,
+      "lon": -74.0913073,
+      "location_type": "exacta",
+      "zonaConsulta": "PALOQUEMAO",
+      "zonaSlug": "paloquemao",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1388700,
-      "area": 40.0,
-      "precioM2": 34718,
-      "administracion": 161300.0,
+      "precio": 2500000,
+      "area": 47.0,
+      "precioM2": 53191,
+      "administracion": 350000.0,
       "barrio": "PALOQUEMAO",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
+      "banos": 2,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-paloquemao-bogota/194335771",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-paloquemao-bogota/194182867",
       "titulo": "Apartamento en Arriendo en Paloquemao, Bogotá",
-      "id_domus": "194335771",
-      "fechaPublicacion": "2026-09-30",
-      "lat": 4.6118966,
-      "lon": -74.083292,
+      "id_domus": "194182867",
+      "fechaPublicacion": "2026-08-29",
+      "lat": 4.6151778,
+      "lon": -74.0913073,
       "location_type": "exacta",
       "zonaConsulta": "PALOQUEMAO",
       "zonaSlug": "paloquemao",
@@ -238,6 +238,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2100000,
+      "area": 40.0,
+      "precioM2": 52500,
+      "administracion": null,
+      "barrio": "PALOQUEMAO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-paloquemao-bogota/194422431",
+      "titulo": "Apartamento en Arriendo en Paloquemao, Bogotá",
+      "id_domus": "194422431",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.614736,
+      "lon": -74.084749,
+      "location_type": "exacta",
+      "zonaConsulta": "PALOQUEMAO",
+      "zonaSlug": "paloquemao",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2050000,
       "area": 35.0,
       "precioM2": 58571,
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -352,15 +384,15 @@
       "titulo": "Apartamento en Arriendo en Paloquemao, Bogotá",
       "id_domus": "194397912",
       "fechaPublicacion": "2026-10-13",
-      "lat": 4.6152220403989,
-      "lon": -74.091484703762,
+      "lat": 4.6151778,
+      "lon": -74.0913073,
       "location_type": "exacta",
       "zonaConsulta": "PALOQUEMAO",
       "zonaSlug": "paloquemao",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -386,38 +418,6 @@
       "fechaPublicacion": "2026-09-07",
       "lat": 4.623077,
       "lon": -74.081434,
-      "location_type": "exacta",
-      "zonaConsulta": "PALOQUEMAO",
-      "zonaSlug": "paloquemao",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2600000,
-      "area": 49.0,
-      "precioM2": 53061,
-      "administracion": null,
-      "barrio": "RICAURTE",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ricaurte-bogota/194403398",
-      "titulo": "Apartamento en Arriendo en Ricaurte, Bogotá",
-      "id_domus": "194403398",
-      "fechaPublicacion": "2026-10-14",
-      "lat": 4.6151778,
-      "lon": -74.0913073,
       "location_type": "exacta",
       "zonaConsulta": "PALOQUEMAO",
       "zonaSlug": "paloquemao",
@@ -462,38 +462,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2500000,
-      "area": 47.0,
-      "precioM2": 53191,
-      "administracion": 350000.0,
-      "barrio": "PALOQUEMAO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-paloquemao-bogota/194182867",
-      "titulo": "Apartamento en Arriendo en Paloquemao, Bogotá",
-      "id_domus": "194182867",
-      "fechaPublicacion": "2026-08-29",
-      "lat": 4.6151778,
-      "lon": -74.0913073,
-      "location_type": "exacta",
-      "zonaConsulta": "PALOQUEMAO",
-      "zonaSlug": "paloquemao",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1576990,
       "area": 30.0,
       "precioM2": 52566,
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -584,39 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 25.0,
-      "precioM2": 48000,
-      "administracion": null,
-      "barrio": "PALOQUEMAO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-paloquemao-bogota/194252735",
-      "titulo": "Apartamento en Arriendo en Paloquemao, Bogotá",
-      "id_domus": "194252735",
-      "fechaPublicacion": "2026-09-14",
-      "lat": 4.6141463453945,
-      "lon": -74.085362065381,
-      "location_type": "exacta",
-      "zonaConsulta": "PALOQUEMAO",
-      "zonaSlug": "paloquemao",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -648,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],

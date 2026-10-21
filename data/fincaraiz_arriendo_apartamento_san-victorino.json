@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 9,
   "zona": "SAN VICTORINO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.15 20:36",
+  "generado": "2026.OCT.21 00:12",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2000000,
-      "area": 65.0,
-      "precioM2": 30769,
-      "administracion": 450000.0,
+      "precio": 2200000,
+      "area": 52.0,
+      "precioM2": 42308,
+      "administracion": null,
       "barrio": "SAN VICTORINO",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 1,
       "banos": 2,
-      "parqueaderos": 1.0,
+      "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-martires-bogota/193957401",
-      "titulo": "Apartamento en Arriendo en Los martires, Bogotá",
-      "id_domus": "193957401",
-      "fechaPublicacion": "2026-07-06",
-      "lat": 4.607862,
-      "lon": -74.081984,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-victorino-bogota/193898674",
+      "titulo": "Apartamento en Arriendo en San victorino, Bogotá",
+      "id_domus": "193898674",
+      "fechaPublicacion": "2026-06-20",
+      "lat": 4.6081387,
+      "lon": -74.0820165,
       "location_type": "exacta",
       "zonaConsulta": "SAN VICTORINO",
       "zonaSlug": "san-victorino",
@@ -200,39 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2200000,
-      "area": 52.0,
-      "precioM2": 42308,
-      "administracion": null,
-      "barrio": "SAN VICTORINO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-victorino-bogota/193898674",
-      "titulo": "Apartamento en Arriendo en San victorino, Bogotá",
-      "id_domus": "193898674",
-      "fechaPublicacion": "2026-06-20",
-      "lat": 4.6081387,
-      "lon": -74.0820165,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN VICTORINO",
-      "zonaSlug": "san-victorino",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
