@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 05:13",
+  "generado": "2026.OCT.21 14:44",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 7000000,
+      "area": 78.0,
+      "precioM2": 89744,
+      "administracion": null,
+      "barrio": "EL VIRREY",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 2,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-virrey-bogota/194293494",
+      "titulo": "Apartamento en Arriendo en El virrey, Bogotá",
+      "id_domus": "194293494",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.5024977,
+      "lon": -74.1115165,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS MERCEDES",
+      "zonaSlug": "las-mercedes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -64,38 +96,6 @@
       "titulo": "Apartamento en Arriendo en El virrey, Bogotá",
       "id_domus": "194343331",
       "fechaPublicacion": "2026-10-01",
-      "lat": 4.5024977,
-      "lon": -74.1115165,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS MERCEDES",
-      "zonaSlug": "las-mercedes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 7000000,
-      "area": 78.0,
-      "precioM2": 89744,
-      "administracion": null,
-      "barrio": "EL VIRREY",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 2,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-virrey-bogota/194293494",
-      "titulo": "Apartamento en Arriendo en El virrey, Bogotá",
-      "id_domus": "194293494",
-      "fechaPublicacion": "2026-09-22",
       "lat": 4.5024977,
       "lon": -74.1115165,
       "location_type": "exacta",
