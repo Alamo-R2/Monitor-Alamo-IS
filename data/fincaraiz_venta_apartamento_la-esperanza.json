@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 16,
+  "total": 17,
   "zona": "LA ESPERANZA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.19 21:47",
+  "generado": "2026.OCT.21 20:57",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -334,6 +334,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1265000000,
+      "area": 130.0,
+      "precioM2": 9730769,
+      "administracion": 1600000.0,
+      "barrio": "SAN PATRICIO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 6.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-patricio-bogota/194398124",
+      "titulo": "Apartamento en Venta en San patricio, Bogotá",
+      "id_domus": "194398124",
+      "fechaPublicacion": "2026-10-13",
+      "lat": 4.653036,
+      "lon": -74.0648715,
+      "location_type": "exacta",
+      "zonaConsulta": "LA ESPERANZA",
+      "zonaSlug": "la-esperanza",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 600000000,
       "area": 129.0,
       "precioM2": 4651163,
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],

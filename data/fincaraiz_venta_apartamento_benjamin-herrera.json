@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 00:00",
+  "generado": "2026.OCT.21 20:57",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 630000000,
+      "area": 78.0,
+      "precioM2": 8076923,
+      "administracion": 476900.0,
+      "barrio": "BENJAMIN HERRERA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-benjamin-herrera-bogota/193835668",
+      "titulo": "Apartamento en Venta en Benjamin herrera, Bogotá",
+      "id_domus": "193835668",
+      "fechaPublicacion": "2026-06-03",
+      "lat": 4.6558943,
+      "lon": -74.0770718,
+      "location_type": "exacta",
+      "zonaConsulta": "BENJAMIN HERRERA",
+      "zonaSlug": "benjamin-herrera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -28,8 +60,8 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-benjamin-herrera-bogota/194408269",
-      "titulo": "Apartamento en Venta en Benjamin herrera, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barrios-unidos-bogota/194408269",
+      "titulo": "Apartamento en Venta en Barrios Unidos, Bogotá",
       "id_domus": "194408269",
       "fechaPublicacion": "2026-10-15",
       "lat": 4.6562956,
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -162,38 +194,6 @@
       "fechaPublicacion": "2026-08-05",
       "lat": 4.6558942953312,
       "lon": -74.077093263605,
-      "location_type": "exacta",
-      "zonaConsulta": "BENJAMIN HERRERA",
-      "zonaSlug": "benjamin-herrera",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 630000000,
-      "area": 78.0,
-      "precioM2": 8076923,
-      "administracion": 476900.0,
-      "barrio": "BENJAMIN HERRERA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-benjamin-herrera-bogota/193835668",
-      "titulo": "Apartamento en Venta en Benjamin herrera, Bogotá",
-      "id_domus": "193835668",
-      "fechaPublicacion": "2026-06-03",
-      "lat": 4.6558943,
-      "lon": -74.0770718,
       "location_type": "exacta",
       "zonaConsulta": "BENJAMIN HERRERA",
       "zonaSlug": "benjamin-herrera",
@@ -526,38 +526,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 660000000,
-      "area": 69.0,
-      "precioM2": 9565217,
-      "administracion": 468600.0,
-      "barrio": "BENJAMIN HERRERA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barrios-unidos-bogota/194272075",
-      "titulo": "Apartamento en Venta en Barrios Unidos, Bogotá",
-      "id_domus": "194272075",
-      "fechaPublicacion": "2026-09-17",
-      "lat": 4.6556494,
-      "lon": -74.0771247,
-      "location_type": "exacta",
-      "zonaConsulta": "BENJAMIN HERRERA",
-      "zonaSlug": "benjamin-herrera",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 750000000,
       "area": 58.0,
       "precioM2": 12931034,
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-10-16",
       "lat": 4.6517064,
       "lon": -74.0751709,
+      "location_type": "exacta",
+      "zonaConsulta": "BENJAMIN HERRERA",
+      "zonaSlug": "benjamin-herrera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 720000000,
+      "area": 88.0,
+      "precioM2": 8181818,
+      "administracion": 545700.0,
+      "barrio": "BENJAMIN HERRERA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota-dc-bogota/194230216",
+      "titulo": "Apartamento en Venta en Bogotá, d.c., Bogotá",
+      "id_domus": "194230216",
+      "fechaPublicacion": "2026-09-09",
+      "lat": 4.6559869,
+      "lon": -74.0770266,
       "location_type": "exacta",
       "zonaConsulta": "BENJAMIN HERRERA",
       "zonaSlug": "benjamin-herrera",

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "BOSQUE POPULAR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.18 23:45",
+  "generado": "2026.OCT.21 20:57",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,10 +14,42 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 979000000,
+      "area": 126.0,
+      "precioM2": 7769841,
+      "administracion": null,
+      "barrio": "BOSQUE POPULAR",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 5,
+      "banos": 3,
+      "parqueaderos": 1,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-bogota/194431743",
+      "titulo": "Apartamento en Venta en Ciudad salitre, Bogotá",
+      "id_domus": "194431743",
+      "fechaPublicacion": "2026-10-20",
+      "lat": 4.6721742,
+      "lon": -74.0963657,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSQUE POPULAR",
+      "zonaSlug": "bosque-popular",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 375000000,
       "area": 64.0,
       "precioM2": 5859375,
-      "administracion": 458000,
+      "administracion": 458000.0,
       "barrio": "SAN JOAQUIN",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -49,7 +81,7 @@
       "precio": 430000000,
       "area": 53.0,
       "precioM2": 8113208,
-      "administracion": 120000,
+      "administracion": 120000.0,
       "barrio": "BOSQUE POPULAR",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -81,7 +113,7 @@
       "precio": 520000000,
       "area": 84.0,
       "precioM2": 6190476,
-      "administracion": 310000,
+      "administracion": 310000.0,
       "barrio": "BOSQUE POPULAR",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -113,7 +145,7 @@
       "precio": 490000000,
       "area": 85.0,
       "precioM2": 5764706,
-      "administracion": 712000,
+      "administracion": 712000.0,
       "barrio": "BOSQUE POPULAR",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",

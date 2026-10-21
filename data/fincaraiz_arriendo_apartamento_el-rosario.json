@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 7,
   "zona": "EL ROSARIO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 00:00",
+  "generado": "2026.OCT.21 20:57",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3200000,
+      "area": 44.0,
+      "precioM2": 72727,
+      "administracion": null,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nicolas-de-federman-bogota/194427966",
+      "titulo": "Apartamento en Arriendo en Nicolas de federman, Bogotá",
+      "id_domus": "194427966",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.6521006,
+      "lon": -74.0803862,
+      "location_type": "exacta",
+      "zonaConsulta": "EL ROSARIO",
+      "zonaSlug": "el-rosario",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,16 +104,16 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1750000,
+      "precio": 1650000,
       "area": 27.0,
-      "precioM2": 64815,
-      "administracion": 290000.0,
+      "precioM2": 61111,
+      "administracion": 300000.0,
       "barrio": "EL ROSARIO",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
