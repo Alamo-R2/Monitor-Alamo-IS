@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 13:19",
+  "generado": "2026.OCT.22 20:54",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1700000,
+      "area": 66.0,
+      "precioM2": 25758,
+      "administracion": null,
+      "barrio": "GRAN BRITALIA",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gran-britalia-bogota/194362816",
+      "titulo": "Apartamento en Arriendo en Gran britalia, Bogotá",
+      "id_domus": "194362816",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.6244326761776,
+      "lon": -74.169488554788,
+      "location_type": "exacta",
+      "zonaConsulta": "GRAN BRITALIA",
+      "zonaSlug": "gran-britalia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-10-07",
       "lat": 4.6187323,
       "lon": -74.1801206,
-      "location_type": "exacta",
-      "zonaConsulta": "GRAN BRITALIA",
-      "zonaSlug": "gran-britalia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1700000,
-      "area": 66.0,
-      "precioM2": 25758,
-      "administracion": null,
-      "barrio": "GRAN BRITALIA",
-      "upl": "Edén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gran-britalia-bogota/194362816",
-      "titulo": "Apartamento en Arriendo en Gran britalia, Bogotá",
-      "id_domus": "194362816",
-      "fechaPublicacion": "2026-10-06",
-      "lat": 4.6244326761776,
-      "lon": -74.169488554788,
       "location_type": "exacta",
       "zonaConsulta": "GRAN BRITALIA",
       "zonaSlug": "gran-britalia",
