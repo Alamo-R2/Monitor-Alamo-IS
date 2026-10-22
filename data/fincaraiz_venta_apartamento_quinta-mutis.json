@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 00:00",
+  "generado": "2026.OCT.22 00:17",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,70 +78,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 490000000,
-      "area": 81.0,
-      "precioM2": 6049383,
-      "administracion": 444000.0,
-      "barrio": "QUINTA MUTIS",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barrios-unidos-bogota/193900029",
-      "titulo": "Apartamento en Venta en Barrios Unidos, Bogotá",
-      "id_domus": "193900029",
-      "fechaPublicacion": "2026-06-21",
-      "lat": 4.652241288988,
-      "lon": -74.073000994545,
-      "location_type": "exacta",
-      "zonaConsulta": "QUINTA MUTIS",
-      "zonaSlug": "quinta-mutis",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 280000000,
-      "area": 29.0,
-      "precioM2": 9655172,
-      "administracion": null,
-      "barrio": "CAMPIN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-campin-bogota/193358931",
-      "titulo": "Apartamento en Venta en Campin, Bogotá",
-      "id_domus": "193358931",
-      "fechaPublicacion": "2026-02-04",
-      "lat": 4.650234368001,
-      "lon": -74.073097721708,
-      "location_type": "exacta",
-      "zonaConsulta": "QUINTA MUTIS",
-      "zonaSlug": "quinta-mutis",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 400000000,
       "area": 105.0,
       "precioM2": 3809524,
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -258,6 +194,70 @@
       "fechaPublicacion": "2026-10-16",
       "lat": 4.6517064,
       "lon": -74.0751709,
+      "location_type": "exacta",
+      "zonaConsulta": "QUINTA MUTIS",
+      "zonaSlug": "quinta-mutis",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 490000000,
+      "area": 81.0,
+      "precioM2": 6049383,
+      "administracion": 444000.0,
+      "barrio": "QUINTA MUTIS",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barrios-unidos-bogota/193900029",
+      "titulo": "Apartamento en Venta en Barrios Unidos, Bogotá",
+      "id_domus": "193900029",
+      "fechaPublicacion": "2026-06-21",
+      "lat": 4.652241288988,
+      "lon": -74.073000994545,
+      "location_type": "exacta",
+      "zonaConsulta": "QUINTA MUTIS",
+      "zonaSlug": "quinta-mutis",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 280000000,
+      "area": 29.0,
+      "precioM2": 9655172,
+      "administracion": null,
+      "barrio": "CAMPIN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-campin-bogota/193358931",
+      "titulo": "Apartamento en Venta en Campin, Bogotá",
+      "id_domus": "193358931",
+      "fechaPublicacion": "2026-02-04",
+      "lat": 4.650234368001,
+      "lon": -74.073097721708,
       "location_type": "exacta",
       "zonaConsulta": "QUINTA MUTIS",
       "zonaSlug": "quinta-mutis",

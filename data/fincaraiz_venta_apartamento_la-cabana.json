@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.18 23:45",
+  "generado": "2026.OCT.22 00:17",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 360000000,
+      "area": 65.0,
+      "precioM2": 5538462,
+      "administracion": 397000.0,
+      "barrio": "NORMANDIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/193362384",
+      "titulo": "Apartamento en Venta en Normandia, Bogotá",
+      "id_domus": "193362384",
+      "fechaPublicacion": "2026-02-05",
+      "lat": 4.6748613314957,
+      "lon": -74.103118626388,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CABANA",
+      "zonaSlug": "la-cabana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,71 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 220000000,
-      "area": 35.0,
-      "precioM2": 6285714,
-      "administracion": 290000.0,
-      "barrio": "LA CABANA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194301264",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194301264",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.6744077296703,
-      "lon": -74.1048392249,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CABANA",
-      "zonaSlug": "la-cabana",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 380000000,
-      "area": 86.0,
-      "precioM2": 4418605,
-      "administracion": 350000.0,
-      "barrio": "EL ENCANTO",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-encanto-bogota/194401247",
-      "titulo": "Apartamento en Venta en El encanto, Bogotá",
-      "id_domus": "194401247",
-      "fechaPublicacion": "2026-10-14",
-      "lat": 4.6762784,
-      "lon": -74.1037069,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CABANA",
-      "zonaSlug": "la-cabana",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -322,6 +290,38 @@
       "fechaPublicacion": "2026-09-24",
       "lat": 4.6764066,
       "lon": -74.1024245,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CABANA",
+      "zonaSlug": "la-cabana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 390000000,
+      "area": 86.0,
+      "precioM2": 4534884,
+      "administracion": 350000.0,
+      "barrio": "EL ENCANTO",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-encanto-bogota/194426106",
+      "titulo": "Apartamento en Venta en El encanto, Bogotá",
+      "id_domus": "194426106",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.6762784,
+      "lon": -74.1037069,
       "location_type": "exacta",
       "zonaConsulta": "LA CABANA",
       "zonaSlug": "la-cabana",
@@ -462,6 +462,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1000000000,
+      "area": 250.0,
+      "precioM2": 4000000,
+      "administracion": null,
+      "barrio": "NORMANDIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/194432330",
+      "titulo": "Apartamento en Venta en Normandia, Bogotá",
+      "id_domus": "194432330",
+      "fechaPublicacion": "2026-10-20",
+      "lat": 4.673117,
+      "lon": -74.104209,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CABANA",
+      "zonaSlug": "la-cabana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 970000000,
       "area": 220.0,
       "precioM2": 4409091,
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-04-13",
       "lat": 4.6730004111911,
       "lon": -74.101731777191,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CABANA",
-      "zonaSlug": "la-cabana",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 560000000,
-      "area": 60.0,
-      "precioM2": 9333333,
-      "administracion": 550000.0,
-      "barrio": "LA CABANA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/193407176",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "193407176",
-      "fechaPublicacion": "2026-02-18",
-      "lat": 4.674952219184,
-      "lon": -74.103535230322,
       "location_type": "exacta",
       "zonaConsulta": "LA CABANA",
       "zonaSlug": "la-cabana",

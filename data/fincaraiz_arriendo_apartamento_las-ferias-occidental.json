@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 20:09",
+  "generado": "2026.OCT.22 00:17",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2300000,
+      "area": 60.0,
+      "precioM2": 38333,
+      "administracion": null,
+      "barrio": "LA ESTRADA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-estrada-bogota/194086150",
+      "titulo": "Apartamento en Arriendo en La Estrada, Bogotá",
+      "id_domus": "194086150",
+      "fechaPublicacion": "2026-08-06",
+      "lat": 4.6821078,
+      "lon": -74.0905757,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS FERIAS OCCIDENTAL",
+      "zonaSlug": "las-ferias-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1350000,
       "area": 65.0,
       "precioM2": 20769,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-09-30",
       "lat": 4.6851207,
       "lon": -74.0910634,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS FERIAS OCCIDENTAL",
-      "zonaSlug": "las-ferias-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2300000,
-      "area": 60.0,
-      "precioM2": 38333,
-      "administracion": null,
-      "barrio": "LA ESTRADA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-estrada-bogota/194086150",
-      "titulo": "Apartamento en Arriendo en La Estrada, Bogotá",
-      "id_domus": "194086150",
-      "fechaPublicacion": "2026-08-06",
-      "lat": 4.6821078,
-      "lon": -74.0905757,
       "location_type": "exacta",
       "zonaConsulta": "LAS FERIAS OCCIDENTAL",
       "zonaSlug": "las-ferias-occidental",

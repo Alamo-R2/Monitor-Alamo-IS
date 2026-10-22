@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "AUTOPISTA MEDELLIN",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 20:09",
+  "generado": "2026.OCT.22 00:17",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 45.0,
+      "precioM2": 26667,
+      "administracion": null,
+      "barrio": "AUTOPISTA MEDELLIN",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194420088",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194420088",
+      "fechaPublicacion": "2026-10-18",
+      "lat": 4.7009464490427,
+      "lon": -74.092616057672,
+      "location_type": "exacta",
+      "zonaConsulta": "AUTOPISTA MEDELLIN",
+      "zonaSlug": "autopista-medellin",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],

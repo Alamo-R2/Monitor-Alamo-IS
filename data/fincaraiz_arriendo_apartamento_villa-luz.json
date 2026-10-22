@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 9,
   "zona": "VILLA LUZ",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.18 23:45",
+  "generado": "2026.OCT.22 00:17",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,9 +78,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2300000,
+      "precio": 2500000,
       "area": 80.0,
-      "precioM2": 28750,
+      "precioM2": 31250,
       "administracion": null,
       "barrio": "VILLA LUZ",
       "upl": "Tabora",
@@ -105,6 +105,70 @@
     },
     {
       "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1350000,
+      "area": 100.0,
+      "precioM2": 13500,
+      "administracion": null,
+      "barrio": "VILLA LUZ",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194423639",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194423639",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.6878674,
+      "lon": -74.1088773,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA LUZ",
+      "zonaSlug": "villa-luz",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1650000,
+      "area": 64.0,
+      "precioM2": 25781,
+      "administracion": null,
+      "barrio": "VILLA LUZ",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194278982",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194278982",
+      "fechaPublicacion": "2026-09-18",
+      "lat": 4.6861022000001,
+      "lon": -74.1072085,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA LUZ",
+      "zonaSlug": "villa-luz",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -136,39 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1250000,
-      "area": 52.0,
-      "precioM2": 24038,
-      "administracion": null,
-      "barrio": "VILLA LUZ",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villa-luz-bogota/194395701",
-      "titulo": "Apartamento en Arriendo en Villa luz, Bogotá",
-      "id_domus": "194395701",
-      "fechaPublicacion": "2026-10-13",
-      "lat": 4.6823704,
-      "lon": -74.1064455,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA LUZ",
-      "zonaSlug": "villa-luz",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -246,7 +278,7 @@
       "upl": "Tabora",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 2,
       "banos": 2,
       "parqueaderos": null,
       "estrato": 3.0,

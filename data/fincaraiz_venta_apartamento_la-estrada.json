@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 20:09",
+  "generado": "2026.OCT.22 00:17",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 979000000,
+      "area": 126.0,
+      "precioM2": 7769841,
+      "administracion": null,
+      "barrio": "LA ESTRADA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 5,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-bogota/194431743",
+      "titulo": "Apartamento en Venta en Ciudad salitre, Bogotá",
+      "id_domus": "194431743",
+      "fechaPublicacion": "2026-10-20",
+      "lat": 4.6721742,
+      "lon": -74.0963657,
+      "location_type": "exacta",
+      "zonaConsulta": "LA ESTRADA",
+      "zonaSlug": "la-estrada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-07-07",
       "lat": 4.6798454,
       "lon": -74.0932744,
-      "location_type": "exacta",
-      "zonaConsulta": "LA ESTRADA",
-      "zonaSlug": "la-estrada",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 630000000,
-      "area": 78.0,
-      "precioM2": 8076923,
-      "administracion": 509300.0,
-      "barrio": "LA ESTRADA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194254621",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194254621",
-      "fechaPublicacion": "2026-09-14",
-      "lat": 4.678387250283,
-      "lon": -74.089522386624,
       "location_type": "exacta",
       "zonaConsulta": "LA ESTRADA",
       "zonaSlug": "la-estrada",

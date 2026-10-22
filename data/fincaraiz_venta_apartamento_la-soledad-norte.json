@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 20:09",
+  "generado": "2026.OCT.22 00:17",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,11 +46,11 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 380000000,
-      "area": 68.0,
-      "precioM2": 5588235,
-      "administracion": null,
-      "barrio": "LA SOLEDAD NORTE",
+      "precio": 352000000,
+      "area": 73.0,
+      "precioM2": 4821918,
+      "administracion": 77000.0,
+      "barrio": "LA GRANJA",
       "upl": "Tabora",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -60,12 +60,12 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194344523",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194344523",
-      "fechaPublicacion": "2026-10-01",
-      "lat": 4.6972442,
-      "lon": -74.1028933,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-granja-bogota/194415971",
+      "titulo": "Apartamento en Venta en La granja, Bogotá",
+      "id_domus": "194415971",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.6992391,
+      "lon": -74.1011863,
       "location_type": "exacta",
       "zonaConsulta": "LA SOLEDAD NORTE",
       "zonaSlug": "la-soledad-norte",
@@ -73,38 +73,6 @@
     },
     {
       "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 250000000,
-      "area": 32.0,
-      "precioM2": 7812500,
-      "administracion": 158000.0,
-      "barrio": "LA SOLEDAD NORTE",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194064346",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194064346",
-      "fechaPublicacion": "2026-08-02",
-      "lat": 4.696296,
-      "lon": -74.1018409,
-      "location_type": "exacta",
-      "zonaConsulta": "LA SOLEDAD NORTE",
-      "zonaSlug": "la-soledad-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -136,39 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 208000000,
-      "area": 60.0,
-      "precioM2": 3466667,
-      "administracion": null,
-      "barrio": "LA GRANJA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-granja-bogota/192712564",
-      "titulo": "Apartamento en Venta en La granja, Bogotá",
-      "id_domus": "192712564",
-      "fechaPublicacion": "2025-08-02",
-      "lat": 4.6989203,
-      "lon": -74.0997401,
-      "location_type": "exacta",
-      "zonaConsulta": "LA SOLEDAD NORTE",
-      "zonaSlug": "la-soledad-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +136,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 380000050,
+      "area": 68.0,
+      "precioM2": 5588236,
+      "administracion": null,
+      "barrio": "LA SOLEDAD NORTE",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194344523",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194344523",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.6972442,
+      "lon": -74.1028933,
+      "location_type": "exacta",
+      "zonaConsulta": "LA SOLEDAD NORTE",
+      "zonaSlug": "la-soledad-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -482,6 +450,38 @@
       "fechaPublicacion": "2026-08-27",
       "lat": 4.699247127724,
       "lon": -74.102939141031,
+      "location_type": "exacta",
+      "zonaConsulta": "LA SOLEDAD NORTE",
+      "zonaSlug": "la-soledad-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 208000000,
+      "area": 60.0,
+      "precioM2": 3466667,
+      "administracion": null,
+      "barrio": "LA GRANJA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-granja-bogota/192712564",
+      "titulo": "Apartamento en Venta en La granja, Bogotá",
+      "id_domus": "192712564",
+      "fechaPublicacion": "2025-08-02",
+      "lat": 4.6989203,
+      "lon": -74.0997401,
       "location_type": "exacta",
       "zonaConsulta": "LA SOLEDAD NORTE",
       "zonaSlug": "la-soledad-norte",

@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.21 20:57",
+  "generado": "2026.OCT.22 00:17",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,38 +110,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 58.0,
-      "precioM2": 31034,
-      "administracion": null,
-      "barrio": "METROPOLIS",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-metropolis-bogota/193994455",
-      "titulo": "Apartamento en Arriendo en Metropolis, Bogotá",
-      "id_domus": "193994455",
-      "fechaPublicacion": "2026-07-15",
-      "lat": 4.6748549,
-      "lon": -74.0873616,
-      "location_type": "exacta",
-      "zonaConsulta": "BELLAVISTA OCCIDENTAL",
-      "zonaSlug": "bellavista-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 3600000,
       "area": 125.0,
       "precioM2": 28800,
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -226,6 +194,38 @@
       "fechaPublicacion": "2025-05-16",
       "lat": 4.6734559,
       "lon": -74.0917948,
+      "location_type": "exacta",
+      "zonaConsulta": "BELLAVISTA OCCIDENTAL",
+      "zonaSlug": "bellavista-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 58.0,
+      "precioM2": 31034,
+      "administracion": null,
+      "barrio": "METROPOLIS",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-metropolis-bogota/193994455",
+      "titulo": "Apartamento en Arriendo en Metropolis, Bogotá",
+      "id_domus": "193994455",
+      "fechaPublicacion": "2026-07-15",
+      "lat": 4.6748549,
+      "lon": -74.0873616,
       "location_type": "exacta",
       "zonaConsulta": "BELLAVISTA OCCIDENTAL",
       "zonaSlug": "bellavista-occidental",

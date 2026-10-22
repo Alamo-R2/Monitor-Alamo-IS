@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 20:09",
+  "generado": "2026.OCT.22 00:17",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 75.0,
+      "precioM2": 4666667,
+      "administracion": null,
+      "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-marcos-bogota/7320100",
+      "titulo": "Apartamento en venta en San Marcos, Bogotá",
+      "id_domus": "7320100",
+      "fechaPublicacion": "2022-06-02",
+      "lat": 4.68695211410522,
+      "lon": -74.1053695678711,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA HELENITA",
+      "zonaSlug": "santa-helenita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 290000000,
+      "area": 54.0,
+      "precioM2": 5370370,
+      "administracion": 270000.0,
+      "barrio": "TABORA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tabora-bogota/194424028",
+      "titulo": "Apartamento en Venta en Tabora, Bogotá",
+      "id_domus": "194424028",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.692118,
+      "lon": -74.0998123,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA HELENITA",
+      "zonaSlug": "santa-helenita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -66,70 +130,6 @@
       "fechaPublicacion": "2026-09-09",
       "lat": 4.694541,
       "lon": -74.107202,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA HELENITA",
-      "zonaSlug": "santa-helenita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 54.0,
-      "precioM2": 5740741,
-      "administracion": 270000.0,
-      "barrio": "TABORA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tabora-bogota/194267113",
-      "titulo": "Apartamento en Venta en Tabora, Bogotá",
-      "id_domus": "194267113",
-      "fechaPublicacion": "2026-09-16",
-      "lat": 4.692118,
-      "lon": -74.0998123,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA HELENITA",
-      "zonaSlug": "santa-helenita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 350000000,
-      "area": 75.0,
-      "precioM2": 4666667,
-      "administracion": null,
-      "barrio": "SANTA HELENITA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-marcos-bogota/7320100",
-      "titulo": "Apartamento en venta en San Marcos, Bogotá",
-      "id_domus": "7320100",
-      "fechaPublicacion": "2022-06-02",
-      "lat": 4.68695211410522,
-      "lon": -74.1053695678711,
       "location_type": "exacta",
       "zonaConsulta": "SANTA HELENITA",
       "zonaSlug": "santa-helenita",
@@ -316,6 +316,38 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194418309",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194418309",
+      "fechaPublicacion": "2026-10-17",
+      "lat": 4.694541,
+      "lon": -74.107202,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA HELENITA",
+      "zonaSlug": "santa-helenita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 380000000,
+      "area": 60.0,
+      "precioM2": 6333333,
+      "administracion": null,
+      "barrio": "SANTA HELENITA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194111592",
       "titulo": "Apartamento en Venta en Engativá, Bogotá",
       "id_domus": "194111592",
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-09-16",
       "lat": 4.694541,
       "lon": -74.107202,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA HELENITA",
-      "zonaSlug": "santa-helenita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 380000000,
-      "area": 60.0,
-      "precioM2": 6333333,
-      "administracion": null,
-      "barrio": "SANTA HELENITA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-zarzamora-bogota/194154705",
-      "titulo": "Apartamento en Venta en Zarzamora, Bogotá",
-      "id_domus": "194154705",
-      "fechaPublicacion": "2026-08-24",
-      "lat": 4.6952157,
-      "lon": -74.1068512,
       "location_type": "exacta",
       "zonaConsulta": "SANTA HELENITA",
       "zonaSlug": "santa-helenita",

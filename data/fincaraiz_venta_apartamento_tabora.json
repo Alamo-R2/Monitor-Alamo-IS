@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 13,
+  "total": 12,
   "zona": "TABORA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 20:09",
+  "generado": "2026.OCT.22 00:17",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 335000000,
+      "area": 60.0,
+      "precioM2": 5583333,
+      "administracion": 120000.0,
+      "barrio": "TABORA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tabora-bogota/193973607",
+      "titulo": "Apartamento en Venta en Tabora, Bogotá",
+      "id_domus": "193973607",
+      "fechaPublicacion": "2026-07-09",
+      "lat": 4.6934465,
+      "lon": -74.0990361,
+      "location_type": "exacta",
+      "zonaConsulta": "TABORA",
+      "zonaSlug": "tabora",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 290000000,
+      "area": 54.0,
+      "precioM2": 5370370,
+      "administracion": 270000.0,
+      "barrio": "TABORA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tabora-bogota/194424028",
+      "titulo": "Apartamento en Venta en Tabora, Bogotá",
+      "id_domus": "194424028",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.692118,
+      "lon": -74.0998123,
+      "location_type": "exacta",
+      "zonaConsulta": "TABORA",
+      "zonaSlug": "tabora",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -60,76 +124,12 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194323684",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-del-lago-bogota/194323684",
+      "titulo": "Apartamento en Venta en Santa Maria del Lago, Bogotá",
       "id_domus": "194323684",
       "fechaPublicacion": "2026-09-27",
       "lat": 4.6913485,
       "lon": -74.0971515,
-      "location_type": "exacta",
-      "zonaConsulta": "TABORA",
-      "zonaSlug": "tabora",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 54.0,
-      "precioM2": 5740741,
-      "administracion": 270000.0,
-      "barrio": "TABORA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tabora-bogota/194267113",
-      "titulo": "Apartamento en Venta en Tabora, Bogotá",
-      "id_domus": "194267113",
-      "fechaPublicacion": "2026-09-16",
-      "lat": 4.692118,
-      "lon": -74.0998123,
-      "location_type": "exacta",
-      "zonaConsulta": "TABORA",
-      "zonaSlug": "tabora",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 250000000,
-      "area": 32.0,
-      "precioM2": 7812500,
-      "administracion": 158000.0,
-      "barrio": "TABORA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194064346",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194064346",
-      "fechaPublicacion": "2026-08-02",
-      "lat": 4.696296,
-      "lon": -74.1018409,
       "location_type": "exacta",
       "zonaConsulta": "TABORA",
       "zonaSlug": "tabora",
@@ -238,38 +238,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 340000000,
-      "area": 55.0,
-      "precioM2": 6181818,
-      "administracion": 100000.0,
-      "barrio": "TABORA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194280338",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194280338",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.6910728,
-      "lon": -74.0976489,
-      "location_type": "exacta",
-      "zonaConsulta": "TABORA",
-      "zonaSlug": "tabora",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 250000000,
       "area": 54.0,
       "precioM2": 4629630,
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],

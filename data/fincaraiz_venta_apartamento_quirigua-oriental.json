@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.16 20:09",
+  "generado": "2026.OCT.22 00:17",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,38 +78,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 385000000,
-      "area": 77.0,
-      "precioM2": 5000000,
-      "administracion": 100000.0,
-      "barrio": "LOS CEREZOS",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-cerezos-bogota/193978544",
-      "titulo": "Apartamento en Venta en Los cerezos, Bogotá",
-      "id_domus": "193978544",
-      "fechaPublicacion": "2026-07-10",
-      "lat": 4.709496,
-      "lon": -74.097543,
-      "location_type": "exacta",
-      "zonaConsulta": "QUIRIGUA ORIENTAL",
-      "zonaSlug": "quirigua-oriental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 310000000,
       "area": 50.0,
       "precioM2": 6200000,
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -194,6 +162,38 @@
       "fechaPublicacion": "2026-07-27",
       "lat": 4.7086828,
       "lon": -74.100654,
+      "location_type": "exacta",
+      "zonaConsulta": "QUIRIGUA ORIENTAL",
+      "zonaSlug": "quirigua-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 385000000,
+      "area": 77.0,
+      "precioM2": 5000000,
+      "administracion": 100000.0,
+      "barrio": "LOS CEREZOS",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-cerezos-bogota/193978544",
+      "titulo": "Apartamento en Venta en Los cerezos, Bogotá",
+      "id_domus": "193978544",
+      "fechaPublicacion": "2026-07-10",
+      "lat": 4.709496,
+      "lon": -74.097543,
       "location_type": "exacta",
       "zonaConsulta": "QUIRIGUA ORIENTAL",
       "zonaSlug": "quirigua-oriental",
