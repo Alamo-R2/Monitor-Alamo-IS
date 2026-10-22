@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 21,
+  "total": 19,
   "zona": "PALERMO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.20 20:57",
+  "generado": "2026.OCT.22 05:32",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -15,25 +15,25 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 2400000,
-      "area": 30.0,
-      "precioM2": 80000,
+      "area": 50.0,
+      "precioM2": 48000,
       "administracion": null,
       "barrio": "PALERMO",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
+      "habitaciones": 2,
       "banos": 1,
-      "parqueaderos": null,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194339390",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194339390",
-      "fechaPublicacion": "2026-09-30",
-      "lat": 4.6354508,
-      "lon": -74.0663978,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota-dc-bogota/194395246",
+      "titulo": "Apartamento en Arriendo en Bogotá, d.c., Bogotá",
+      "id_domus": "194395246",
+      "fechaPublicacion": "2026-10-13",
+      "lat": 4.6337557,
+      "lon": -74.0705286,
       "location_type": "exacta",
       "zonaConsulta": "PALERMO",
       "zonaSlug": "palermo",
@@ -78,38 +78,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2550000,
-      "area": 75.0,
-      "precioM2": 34000,
-      "administracion": null,
-      "barrio": "PALERMO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-palermo-bogota/193846443",
-      "titulo": "Apartamento en Arriendo en Palermo, Bogotá",
-      "id_domus": "193846443",
-      "fechaPublicacion": "2026-06-05",
-      "lat": 4.6331237,
-      "lon": -74.0739125,
-      "location_type": "exacta",
-      "zonaConsulta": "PALERMO",
-      "zonaSlug": "palermo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 2000000,
       "area": 37.0,
       "precioM2": 54054,
@@ -136,71 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3100000,
-      "area": 72.0,
-      "precioM2": 43056,
-      "administracion": null,
-      "barrio": "PALERMO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194288314",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194288314",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.6342448,
-      "lon": -74.0709708,
-      "location_type": "exacta",
-      "zonaConsulta": "PALERMO",
-      "zonaSlug": "palermo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2400000,
-      "area": 50.0,
-      "precioM2": 48000,
-      "administracion": null,
-      "barrio": "PALERMO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota-dc-bogota/194395246",
-      "titulo": "Apartamento en Arriendo en Bogotá, d.c., Bogotá",
-      "id_domus": "194395246",
-      "fechaPublicacion": "2026-10-13",
-      "lat": 4.6337557,
-      "lon": -74.0705286,
-      "location_type": "exacta",
-      "zonaConsulta": "PALERMO",
-      "zonaSlug": "palermo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +168,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2400000,
+      "area": 30.0,
+      "precioM2": 80000,
+      "administracion": null,
+      "barrio": "PALERMO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194339390",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194339390",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6354508,
+      "lon": -74.0663978,
+      "location_type": "exacta",
+      "zonaConsulta": "PALERMO",
+      "zonaSlug": "palermo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -296,39 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1510000,
-      "area": 30.0,
-      "precioM2": 50333,
-      "administracion": 348000.0,
-      "barrio": "LA SOLEDAD",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-soledad-bogota/194236788",
-      "titulo": "Apartamento en Arriendo en La soledad, Bogotá",
-      "id_domus": "194236788",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.634621648413,
-      "lon": -74.076269936783,
-      "location_type": "exacta",
-      "zonaConsulta": "PALERMO",
-      "zonaSlug": "palermo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +264,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1510000,
+      "area": 30.0,
+      "precioM2": 50333,
+      "administracion": 348000.0,
+      "barrio": "LA SOLEDAD",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-soledad-bogota/194438018",
+      "titulo": "Apartamento en Arriendo en La soledad, Bogotá",
+      "id_domus": "194438018",
+      "fechaPublicacion": "2026-10-21",
+      "lat": 4.6346673,
+      "lon": -74.0763209,
+      "location_type": "exacta",
+      "zonaConsulta": "PALERMO",
+      "zonaSlug": "palermo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -648,32 +584,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2100000,
-      "area": 52.0,
-      "precioM2": 40385,
+      "precio": 2350000,
+      "area": 37.0,
+      "precioM2": 63514,
       "administracion": null,
       "barrio": "PALERMO",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-palermo-bogota/194288527",
-      "titulo": "Apartamento en Arriendo en Palermo, Bogotá",
-      "id_domus": "194288527",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.6351736,
-      "lon": -74.0718819,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/193958016",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "193958016",
+      "fechaPublicacion": "2026-07-06",
+      "lat": 4.635368,
+      "lon": -74.066408,
       "location_type": "exacta",
       "zonaConsulta": "PALERMO",
       "zonaSlug": "palermo",

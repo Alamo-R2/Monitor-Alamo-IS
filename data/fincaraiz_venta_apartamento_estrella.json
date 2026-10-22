@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.20 20:57",
+  "generado": "2026.OCT.22 05:32",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 580000000,
-      "area": 150.0,
-      "precioM2": 3866667,
-      "administracion": null,
-      "barrio": "TEUSAQUILLO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/194377992",
-      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
-      "id_domus": "194377992",
-      "fechaPublicacion": "2026-10-08",
-      "lat": 4.6228167336535,
-      "lon": -74.076454639435,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTRELLA",
-      "zonaSlug": "estrella",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-09-07",
       "lat": 4.620005,
       "lon": -74.0754474,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTRELLA",
+      "zonaSlug": "estrella",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 580000000,
+      "area": 150.0,
+      "precioM2": 3866667,
+      "administracion": null,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/194377992",
+      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
+      "id_domus": "194377992",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.6228167336535,
+      "lon": -74.076454639435,
       "location_type": "exacta",
       "zonaConsulta": "ESTRELLA",
       "zonaSlug": "estrella",

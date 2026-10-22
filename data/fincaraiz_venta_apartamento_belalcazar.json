@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 00:00",
+  "generado": "2026.OCT.22 05:32",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,11 +14,11 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 398000000,
-      "area": 40.0,
-      "precioM2": 9950000,
-      "administracion": 250000.0,
-      "barrio": "BELALCAZAR",
+      "precio": 265000000,
+      "area": 31.0,
+      "precioM2": 8548387,
+      "administracion": 456300.0,
+      "barrio": "PALERMO",
       "upl": "Teusaquillo",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -28,12 +28,12 @@
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-belalcazar-bogota/194017269",
-      "titulo": "Apartamento en Venta en Belalcazar, Bogotá",
-      "id_domus": "194017269",
-      "fechaPublicacion": "2026-07-21",
-      "lat": 4.6388154,
-      "lon": -74.0760243,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-palermo-bogota/194353989",
+      "titulo": "Apartamento en Venta en Palermo, Bogotá",
+      "id_domus": "194353989",
+      "fechaPublicacion": "2026-10-03",
+      "lat": 4.635882,
+      "lon": -74.0770246,
       "location_type": "exacta",
       "zonaConsulta": "BELALCAZAR",
       "zonaSlug": "belalcazar",
@@ -41,6 +41,38 @@
     },
     {
       "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000000,
+      "area": 143.0,
+      "precioM2": 8391608,
+      "administracion": 870000.0,
+      "barrio": "BELALCAZAR",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-belalcazar-bogota/194268533",
+      "titulo": "Apartamento en Venta en Belalcazar, Bogotá",
+      "id_domus": "194268533",
+      "fechaPublicacion": "2026-09-16",
+      "lat": 4.6379079,
+      "lon": -74.078539,
+      "location_type": "exacta",
+      "zonaConsulta": "BELALCAZAR",
+      "zonaSlug": "belalcazar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,71 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 340000000,
-      "area": 29.0,
-      "precioM2": 11724138,
-      "administracion": null,
-      "barrio": "TEUSAQUILLO",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/193086600",
-      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
-      "id_domus": "193086600",
-      "fechaPublicacion": "2025-11-11",
-      "lat": 4.639210344114,
-      "lon": -74.079437255859,
-      "location_type": "exacta",
-      "zonaConsulta": "BELALCAZAR",
-      "zonaSlug": "belalcazar",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 280000000,
-      "area": 31.0,
-      "precioM2": 9032258,
-      "administracion": 456300.0,
-      "barrio": "PALERMO",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-palermo-bogota/194353989",
-      "titulo": "Apartamento en Venta en Palermo, Bogotá",
-      "id_domus": "194353989",
-      "fechaPublicacion": "2026-10-03",
-      "lat": 4.635882,
-      "lon": -74.0770246,
-      "location_type": "exacta",
-      "zonaConsulta": "BELALCAZAR",
-      "zonaSlug": "belalcazar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -672,6 +640,38 @@
       "titulo": "Apartamento en Venta en Belalcazar, Bogotá",
       "id_domus": "194311635",
       "fechaPublicacion": "2026-09-24",
+      "lat": 4.6374821,
+      "lon": -74.0775331,
+      "location_type": "exacta",
+      "zonaConsulta": "BELALCAZAR",
+      "zonaSlug": "belalcazar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 303849000,
+      "area": 27.0,
+      "precioM2": 11253667,
+      "administracion": null,
+      "barrio": "BELALCAZAR",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-belalcazar-bogota/194297698",
+      "titulo": "Apartamento en Venta en Belalcazar, Bogotá",
+      "id_domus": "194297698",
+      "fechaPublicacion": "2026-09-22",
       "lat": 4.6374821,
       "lon": -74.0775331,
       "location_type": "exacta",

@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.21 20:57",
+  "generado": "2026.OCT.22 05:32",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,70 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1600000,
-      "area": 49.0,
-      "precioM2": 32653,
-      "administracion": 10000.0,
-      "barrio": "CASTILLA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/194348962",
-      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
-      "id_domus": "194348962",
-      "fechaPublicacion": "2026-10-02",
-      "lat": 4.6533817,
-      "lon": -74.0836331,
-      "location_type": "exacta",
-      "zonaConsulta": "EL ROSARIO",
-      "zonaSlug": "el-rosario",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2700000,
-      "area": 55.0,
-      "precioM2": 49091,
-      "administracion": null,
-      "barrio": "NICOLAS DE FEDERMAN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 2.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nicolas-de-federman-bogota/194409863",
-      "titulo": "Apartamento en Arriendo en Nicolas de federman, Bogotá",
-      "id_domus": "194409863",
-      "fechaPublicacion": "2026-10-16",
-      "lat": 4.65239958123,
-      "lon": -74.081152311564,
-      "location_type": "exacta",
-      "zonaConsulta": "EL ROSARIO",
-      "zonaSlug": "el-rosario",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1650000,
       "area": 27.0,
       "precioM2": 61111,
@@ -136,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -226,6 +162,70 @@
       "fechaPublicacion": "2026-09-07",
       "lat": 4.6563481,
       "lon": -74.0786348,
+      "location_type": "exacta",
+      "zonaConsulta": "EL ROSARIO",
+      "zonaSlug": "el-rosario",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 49.0,
+      "precioM2": 32653,
+      "administracion": 10000.0,
+      "barrio": "CASTILLA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/194348962",
+      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
+      "id_domus": "194348962",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.6533817,
+      "lon": -74.0836331,
+      "location_type": "exacta",
+      "zonaConsulta": "EL ROSARIO",
+      "zonaSlug": "el-rosario",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2700000,
+      "area": 55.0,
+      "precioM2": 49091,
+      "administracion": null,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nicolas-de-federman-bogota/194409863",
+      "titulo": "Apartamento en Arriendo en Nicolas de federman, Bogotá",
+      "id_domus": "194409863",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.65239958123,
+      "lon": -74.081152311564,
       "location_type": "exacta",
       "zonaConsulta": "EL ROSARIO",
       "zonaSlug": "el-rosario",
