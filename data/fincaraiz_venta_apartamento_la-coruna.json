@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 05:08",
+  "generado": "2026.OCT.22 14:54",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 255000000,
+      "area": 55.0,
+      "precioM2": 4636364,
+      "administracion": 600000.0,
+      "barrio": "VERONA",
+      "upl": "Arborizadora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-verona-bogota/193756566",
+      "titulo": "Apartamento en Venta en Verona, Bogotá",
+      "id_domus": "193756566",
+      "fechaPublicacion": "2026-05-15",
+      "lat": 4.5781695,
+      "lon": -74.155043,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CORUNA",
+      "zonaSlug": "la-coruna",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-10-09",
       "lat": 4.575209380101,
       "lon": -74.153112106422,
-      "location_type": "exacta",
-      "zonaConsulta": "LA CORUNA",
-      "zonaSlug": "la-coruna",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 255000000,
-      "area": 55.0,
-      "precioM2": 4636364,
-      "administracion": 600000.0,
-      "barrio": "VERONA",
-      "upl": "Arborizadora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-verona-bogota/193756566",
-      "titulo": "Apartamento en Venta en Verona, Bogotá",
-      "id_domus": "193756566",
-      "fechaPublicacion": "2026-05-15",
-      "lat": 4.5781695,
-      "lon": -74.155043,
       "location_type": "exacta",
       "zonaConsulta": "LA CORUNA",
       "zonaSlug": "la-coruna",

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 10,
   "zona": "POTOSI",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.22 00:17",
+  "generado": "2026.OCT.22 14:54",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,38 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2900000,
-      "area": 48.0,
-      "precioM2": 60417,
-      "administracion": null,
-      "barrio": "POTOSI",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-nicolas-bogota/194236444",
-      "titulo": "Apartamento en Arriendo en San Nicolas, Bogotá",
-      "id_domus": "194236444",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.7011893,
-      "lon": -74.0734865,
-      "location_type": "exacta",
-      "zonaConsulta": "POTOSI",
-      "zonaSlug": "potosi",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 3300000,
       "area": 117.0,
       "precioM2": 28205,
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-09-24",
       "lat": 4.6999211,
       "lon": -74.0781921,
+      "location_type": "exacta",
+      "zonaConsulta": "POTOSI",
+      "zonaSlug": "potosi",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2900000,
+      "area": 48.0,
+      "precioM2": 60417,
+      "administracion": null,
+      "barrio": "POTOSI",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-nicolas-bogota/194236444",
+      "titulo": "Apartamento en Arriendo en San Nicolas, Bogotá",
+      "id_domus": "194236444",
+      "fechaPublicacion": "2026-09-10",
+      "lat": 4.7011893,
+      "lon": -74.0734865,
       "location_type": "exacta",
       "zonaConsulta": "POTOSI",
       "zonaSlug": "potosi",
@@ -206,6 +206,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2454000,
+      "area": 65.0,
+      "precioM2": 37754,
+      "administracion": 346500.0,
+      "barrio": "POTOSI",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-pontevedra-bogota/194438974",
+      "titulo": "Apartamento en Arriendo en Pontevedra, Bogotá",
+      "id_domus": "194438974",
+      "fechaPublicacion": "2026-10-21",
+      "lat": 4.695464249093,
+      "lon": -74.082892143206,
+      "location_type": "exacta",
+      "zonaConsulta": "POTOSI",
+      "zonaSlug": "potosi",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 3300000,
       "area": 85.0,
       "precioM2": 38824,
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
