@@ -1,78 +1,14 @@
 {
   "ok": true,
-  "total": 20,
+  "total": 22,
   "zona": "BARCELONA SUR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.22 07:08",
+  "generado": "2026.OCT.22 15:48",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 450000000,
-      "area": 50.0,
-      "precioM2": 9000000,
-      "administracion": null,
-      "barrio": "EL REFUGIO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-el-refugio-bogota-3893921",
-      "titulo": "Apartamento en El Refugio",
-      "id_domus": "3893921",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "BARCELONA SUR",
-      "zonaSlug": "barcelona-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 730000000,
-      "area": 80.0,
-      "precioM2": 9125000,
-      "administracion": null,
-      "barrio": "SANTA BARBARA OCCIDENTAL",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 2,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-santa-barbara-occidental-bogota-3902396",
-      "titulo": "Apartamento en Santa Barbara Occidental",
-      "id_domus": "3902396",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "BARCELONA SUR",
-      "zonaSlug": "barcelona-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -104,29 +40,29 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 750000000,
-      "area": 93.73,
-      "precioM2": 8001707,
+      "precio": 430000000,
+      "area": 72.95,
+      "precioM2": 5894448,
       "administracion": null,
       "barrio": "BARCELONA SUR",
       "upl": "Restrepo",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 2,
+      "banos": 2,
+      "parqueaderos": 1,
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-o-venta-en-los-cedritos-bogota-3908114",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-los-cedritos-bogota-3901944",
       "titulo": "Apartamento en Los Cedritos",
-      "id_domus": "3908114",
+      "id_domus": "3901944",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -136,39 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1750000000,
-      "area": 283.0,
-      "precioM2": 6183746,
-      "administracion": null,
-      "barrio": "BARCELONA SUR",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 3,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-plenitud-bogota-3897459",
-      "titulo": "Apartamento en Plenitud",
-      "id_domus": "3897459",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "BARCELONA SUR",
-      "zonaSlug": "barcelona-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -264,29 +168,29 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 804000000,
-      "area": 83.0,
-      "precioM2": 9686747,
+      "precio": 229000000,
+      "area": 42.0,
+      "precioM2": 5452381,
       "administracion": null,
-      "barrio": "ACACIAS USAQUEN",
+      "barrio": "CENTENARIO",
       "upl": "Restrepo",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2,
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 0,
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-acacias-usaquen-bogota-3902041",
-      "titulo": "Apartamento en Acacias Usaquen",
-      "id_domus": "3902041",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-centenario-bogota-3915749",
+      "titulo": "Apartamento en Centenario",
+      "id_domus": "3915749",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -296,7 +200,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 50.0,
+      "precioM2": 7000000,
+      "administracion": null,
+      "barrio": "SANTA BARBARA CENTRAL",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-santa-barbara-central-bogota-3627894",
+      "titulo": "Apartamento en Santa Barbara Central",
+      "id_domus": "3627894",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "BARCELONA SUR",
+      "zonaSlug": "barcelona-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 517000000,
+      "area": 117.0,
+      "precioM2": 4418803,
+      "administracion": null,
+      "barrio": "ESTRELLA DEL NORTE",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-estrella-del-norte-bogota-3904045",
+      "titulo": "Apartamento en Estrella Del Norte",
+      "id_domus": "3904045",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "BARCELONA SUR",
+      "zonaSlug": "barcelona-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,29 +584,125 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 925000000,
+      "area": 119.93,
+      "precioM2": 7712832,
+      "administracion": null,
+      "barrio": "PARDO RUBIO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 2,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-pardo-rubio-bogota-3915586",
+      "titulo": "Apartamento en Pardo Rubio",
+      "id_domus": "3915586",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "BARCELONA SUR",
+      "zonaSlug": "barcelona-sur",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-20",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 229000000,
-      "area": 42.0,
-      "precioM2": 5452381,
+      "precio": 390000000,
+      "area": 59.0,
+      "precioM2": 6610169,
       "administracion": null,
-      "barrio": "CENTENARIO",
+      "barrio": "BARCELONA SUR",
       "upl": "Restrepo",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-ciudad-techo-bogota-3919688",
+      "titulo": "Apartamento en Ciudad Techo",
+      "id_domus": "3919688",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "BARCELONA SUR",
+      "zonaSlug": "barcelona-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 56.0,
+      "precioM2": 4285714,
+      "administracion": null,
+      "barrio": "BARCELONA SUR",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
       "parqueaderos": 0,
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-centenario-bogota-3915749",
-      "titulo": "Apartamento en Centenario",
-      "id_domus": "3915749",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cr-molinos-del-milenio-bogota-3915631",
+      "titulo": "Apartamento en Cr Molinos Del Milenio",
+      "id_domus": "3915631",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "BARCELONA SUR",
+      "zonaSlug": "barcelona-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-22",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2400000000,
+      "area": 215.52,
+      "precioM2": 11135857,
+      "administracion": null,
+      "barrio": "USAQUEN",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 3,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-usaquen-bogota-3917166",
+      "titulo": "Apartamento en Usaquen",
+      "id_domus": "3917166",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
