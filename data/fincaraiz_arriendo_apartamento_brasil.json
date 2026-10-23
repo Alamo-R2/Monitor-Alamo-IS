@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "BRASIL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.22 20:54",
+  "generado": "2026.OCT.23 00:14",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 100.0,
+      "precioM2": 20000,
+      "administracion": null,
+      "barrio": "SAN RAFAEL",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-rafael-bogota/194444874",
+      "titulo": "Apartamento en Arriendo en San rafael, Bogotá",
+      "id_domus": "194444874",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.621135,
+      "lon": -74.112114,
+      "location_type": "exacta",
+      "zonaConsulta": "BRASIL",
+      "zonaSlug": "brasil",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1850000,
       "area": 70.0,
       "precioM2": 26429,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],

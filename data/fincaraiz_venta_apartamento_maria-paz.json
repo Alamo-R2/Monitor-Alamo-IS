@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 16:42",
+  "generado": "2026.OCT.23 00:14",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 249900000,
+      "precio": 252000000,
       "area": 44.0,
-      "precioM2": 5679545,
-      "administracion": 180000.0,
-      "barrio": "MARIA PAZ",
+      "precioM2": 5727273,
+      "administracion": 130000.0,
+      "barrio": "CIUDAD TECHO II",
       "upl": "Patio Bonito",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 2,
       "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-bogota/194387016",
-      "titulo": "Apartamento en Venta en Kennedy, Bogotá",
-      "id_domus": "194387016",
-      "fechaPublicacion": "2026-10-10",
-      "lat": 4.6402,
-      "lon": -74.155237,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-techo-ii-bogota/192754343",
+      "titulo": "Apartamento en Venta en Ciudad techo ii, Bogotá",
+      "id_domus": "192754343",
+      "fechaPublicacion": "2025-08-14",
+      "lat": 4.6343954,
+      "lon": -74.155565,
       "location_type": "exacta",
       "zonaConsulta": "MARIA PAZ",
       "zonaSlug": "maria-paz",
@@ -174,6 +174,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 249900000,
+      "area": 44.0,
+      "precioM2": 5679545,
+      "administracion": 180000.0,
+      "barrio": "MARIA PAZ",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-bogota/194387016",
+      "titulo": "Apartamento en Venta en Kennedy, Bogotá",
+      "id_domus": "194387016",
+      "fechaPublicacion": "2026-10-10",
+      "lat": 4.6402,
+      "lon": -74.155237,
+      "location_type": "exacta",
+      "zonaConsulta": "MARIA PAZ",
+      "zonaSlug": "maria-paz",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 270000000,
       "area": 54.0,
       "precioM2": 5000000,
@@ -200,71 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 62.0,
-      "precioM2": 5000000,
-      "administracion": 175000.0,
-      "barrio": "NUEVO TECHO",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nuevo-techo-bogota/194415608",
-      "titulo": "Apartamento en Venta en Nuevo Techo, Bogotá",
-      "id_domus": "194415608",
-      "fechaPublicacion": "2026-10-16",
-      "lat": 4.6381124136555,
-      "lon": -74.154299899506,
-      "location_type": "exacta",
-      "zonaConsulta": "MARIA PAZ",
-      "zonaSlug": "maria-paz",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 275000000,
-      "area": 42.0,
-      "precioM2": 6547619,
-      "administracion": 230000.0,
-      "barrio": "CIUDAD TECHO II",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-techo-ii-bogota/194284694",
-      "titulo": "Apartamento en Venta en Ciudad techo ii, Bogotá",
-      "id_domus": "194284694",
-      "fechaPublicacion": "2026-09-20",
-      "lat": 4.6343954,
-      "lon": -74.155565,
-      "location_type": "exacta",
-      "zonaConsulta": "MARIA PAZ",
-      "zonaSlug": "maria-paz",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -296,39 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 61.0,
-      "precioM2": 5409836,
-      "administracion": 270000.0,
-      "barrio": "CASTILLA",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194292513",
-      "titulo": "Apartamento en Venta en Castilla, Bogotá",
-      "id_domus": "194292513",
-      "fechaPublicacion": "2026-09-22",
-      "lat": 4.6385603,
-      "lon": -74.1546352,
-      "location_type": "exacta",
-      "zonaConsulta": "MARIA PAZ",
-      "zonaSlug": "maria-paz",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -584,39 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 245000000,
-      "area": 43.0,
-      "precioM2": 5697674,
-      "administracion": 159400.0,
-      "barrio": "MARIA PAZ",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194051436",
-      "titulo": "Apartamento en Venta en Américas Central, Bogotá",
-      "id_domus": "194051436",
-      "fechaPublicacion": "2026-07-29",
-      "lat": 4.6368403,
-      "lon": -74.1531728,
-      "location_type": "exacta",
-      "zonaConsulta": "MARIA PAZ",
-      "zonaSlug": "maria-paz",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +578,102 @@
       "fechaPublicacion": "2026-08-14",
       "lat": 4.6343487,
       "lon": -74.155568,
+      "location_type": "exacta",
+      "zonaConsulta": "MARIA PAZ",
+      "zonaSlug": "maria-paz",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 260000000,
+      "area": 37.0,
+      "precioM2": 7027027,
+      "administracion": 150000.0,
+      "barrio": "CASTILLA",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194009762",
+      "titulo": "Apartamento en Venta en Castilla, Bogotá",
+      "id_domus": "194009762",
+      "fechaPublicacion": "2026-07-20",
+      "lat": 4.635737363545,
+      "lon": -74.156729669383,
+      "location_type": "exacta",
+      "zonaConsulta": "MARIA PAZ",
+      "zonaSlug": "maria-paz",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 390000000,
+      "area": 70.0,
+      "precioM2": 5571429,
+      "administracion": 250000.0,
+      "barrio": "CASTILLA",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/192313990",
+      "titulo": "Apartamento en Venta en Castilla, Bogotá",
+      "id_domus": "192313990",
+      "fechaPublicacion": "2025-04-26",
+      "lat": 4.6376691,
+      "lon": -74.1552253,
+      "location_type": "exacta",
+      "zonaConsulta": "MARIA PAZ",
+      "zonaSlug": "maria-paz",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 270000000,
+      "area": 44.0,
+      "precioM2": 6136364,
+      "administracion": 293000.0,
+      "barrio": "MARIA PAZ",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-castillo-bogota/194426059",
+      "titulo": "Apartamento en Venta en El castillo, Bogotá",
+      "id_domus": "194426059",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.640221388377,
+      "lon": -74.155524267887,
       "location_type": "exacta",
       "zonaConsulta": "MARIA PAZ",
       "zonaSlug": "maria-paz",

@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 16:42",
+  "generado": "2026.OCT.23 00:14",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 173000000,
+      "area": 42.0,
+      "precioM2": 4119048,
+      "administracion": 120000,
+      "barrio": "EL TINTAL",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tintal-bogota/194423436",
+      "titulo": "Apartamento en Venta en El tintal, Bogotá",
+      "id_domus": "194423436",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.6430263,
+      "lon": -74.1575897,
+      "location_type": "exacta",
+      "zonaConsulta": "PATIO BONITO",
+      "zonaSlug": "patio-bonito",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-07-27",
       "lat": 4.6397701,
       "lon": -74.1602519,
-      "location_type": "exacta",
-      "zonaConsulta": "PATIO BONITO",
-      "zonaSlug": "patio-bonito",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 215140000,
-      "area": 43.0,
-      "precioM2": 5003256,
-      "administracion": 140000,
-      "barrio": "PATIO BONITO",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-bogota/193629984",
-      "titulo": "Apartamento en Venta en Kennedy, Bogotá",
-      "id_domus": "193629984",
-      "fechaPublicacion": "2026-04-14",
-      "lat": 4.6410726004132,
-      "lon": -74.158793423909,
       "location_type": "exacta",
       "zonaConsulta": "PATIO BONITO",
       "zonaSlug": "patio-bonito",
