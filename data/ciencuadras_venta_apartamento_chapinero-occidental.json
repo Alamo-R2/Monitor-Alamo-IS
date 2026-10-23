@@ -5,106 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.22 22:07",
+  "generado": "2026.OCT.23 07:00",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 430000000,
-      "area": 72.95,
-      "precioM2": 5894448,
-      "administracion": null,
-      "barrio": "CHAPINERO OCCIDENTAL",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-los-cedritos-bogota-3901944",
-      "titulo": "Apartamento en Los Cedritos",
-      "id_domus": "3901944",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "CHAPINERO OCCIDENTAL",
-      "zonaSlug": "chapinero-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 245000000,
-      "area": 35.0,
-      "precioM2": 7000000,
-      "administracion": null,
-      "barrio": "RICAURTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-ricaurte-bogota-3835238",
-      "titulo": "Apartamento en Ricaurte",
-      "id_domus": "3835238",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "CHAPINERO OCCIDENTAL",
-      "zonaSlug": "chapinero-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 285000000,
-      "area": 57.0,
-      "precioM2": 5000000,
-      "administracion": null,
-      "barrio": "CHAPINERO OCCIDENTAL",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-ciudad-techo-bogota-3866540",
-      "titulo": "Apartamento en Ciudad Techo",
-      "id_domus": "3866540",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "CHAPINERO OCCIDENTAL",
-      "zonaSlug": "chapinero-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -136,29 +40,125 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 430000000,
+      "area": 72.95,
+      "precioM2": 5894448,
+      "administracion": null,
+      "barrio": "CHAPINERO OCCIDENTAL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-los-cedritos-bogota-3901944",
+      "titulo": "Apartamento en Los Cedritos",
+      "id_domus": "3901944",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "CHAPINERO OCCIDENTAL",
+      "zonaSlug": "chapinero-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 245000000,
+      "area": 35.0,
+      "precioM2": 7000000,
+      "administracion": null,
+      "barrio": "RICAURTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-ricaurte-bogota-3835238",
+      "titulo": "Apartamento en Ricaurte",
+      "id_domus": "3835238",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "CHAPINERO OCCIDENTAL",
+      "zonaSlug": "chapinero-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 235000000,
+      "area": 42.0,
+      "precioM2": 5595238,
+      "administracion": null,
+      "barrio": "CHAPINERO OCCIDENTAL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-a-s-d-bogota-3845007",
+      "titulo": "Apartamento en A.S.D",
+      "id_domus": "3845007",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "CHAPINERO OCCIDENTAL",
+      "zonaSlug": "chapinero-occidental",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-5",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 295000000,
-      "area": 53.0,
-      "precioM2": 5566038,
+      "precio": 285000000,
+      "area": 57.0,
+      "precioM2": 5000000,
       "administracion": null,
-      "barrio": "PRIMAVERA OCCIDENTAL",
+      "barrio": "CHAPINERO OCCIDENTAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 0,
+      "banos": 2,
+      "parqueaderos": 1,
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-primavera-occidental-bogota-3913968",
-      "titulo": "Apartamento en Primavera Occidental",
-      "id_domus": "3913968",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-ciudad-techo-bogota-3866540",
+      "titulo": "Apartamento en Ciudad Techo",
+      "id_domus": "3866540",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -206,23 +206,23 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 350000000,
-      "area": 50.0,
-      "precioM2": 7000000,
+      "precio": 529000000,
+      "area": 92.0,
+      "precioM2": 5750000,
       "administracion": null,
-      "barrio": "SANTA BARBARA CENTRAL",
+      "barrio": "MODELIA OCCIDENTAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
+      "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1,
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-santa-barbara-central-bogota-3627894",
-      "titulo": "Apartamento en Santa Barbara Central",
-      "id_domus": "3627894",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-modelia-occidental-bogota-3782244",
+      "titulo": "Apartamento en Modelia Occidental",
+      "id_domus": "3782244",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -238,23 +238,23 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 517000000,
-      "area": 117.0,
-      "precioM2": 4418803,
+      "precio": 2250000000,
+      "area": 305.0,
+      "precioM2": 7377049,
       "administracion": null,
-      "barrio": "ESTRELLA DEL NORTE",
+      "barrio": "CHICÓ NORTE",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2,
+      "banos": 4,
+      "parqueaderos": 3,
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-estrella-del-norte-bogota-3904045",
-      "titulo": "Apartamento en Estrella Del Norte",
-      "id_domus": "3904045",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-chico-norte-bogota-3878648",
+      "titulo": "Apartamento en Chicó Norte",
+      "id_domus": "3878648",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -265,38 +265,6 @@
     },
     {
       "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1390000000,
-      "area": 171.0,
-      "precioM2": 8128655,
-      "administracion": null,
-      "barrio": "SANTA BIBIANA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-santa-bibiana-bogota-3914205",
-      "titulo": "Apartamento en Santa Bibiana",
-      "id_domus": "3914205",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "CHAPINERO OCCIDENTAL",
-      "zonaSlug": "chapinero-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -680,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-22",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -703,6 +671,38 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-usaquen-bogota-3917166",
       "titulo": "Apartamento en Usaquen",
       "id_domus": "3917166",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "CHAPINERO OCCIDENTAL",
+      "zonaSlug": "chapinero-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-22",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1350000000,
+      "area": 230.0,
+      "precioM2": 5869565,
+      "administracion": null,
+      "barrio": "LOS CEDROS",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 4,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-los-cedros-bogota-3810940",
+      "titulo": "Apartamento en Los Cedros",
+      "id_domus": "3810940",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
