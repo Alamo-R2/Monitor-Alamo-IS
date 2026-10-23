@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 17:46",
+  "generado": "2026.OCT.23 01:13",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Casa",
-      "precio": 850000000,
-      "area": 154.0,
-      "precioM2": 5519481,
-      "administracion": null,
-      "barrio": "PRIMAVERA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/casa-en-venta-en-primavera-bogota-3456013",
-      "titulo": "Casa en Primavera",
-      "id_domus": "3456013",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "PRIMAVERA",
-      "zonaSlug": "primavera",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -95,6 +63,38 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/bodega-en-venta-en-primavera-bogota-2829732",
       "titulo": "Bodega en Primavera",
       "id_domus": "2829732",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "PRIMAVERA",
+      "zonaSlug": "primavera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Casa",
+      "precio": 850000000,
+      "area": 154.0,
+      "precioM2": 5519481,
+      "administracion": null,
+      "barrio": "PRIMAVERA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/casa-en-venta-en-primavera-bogota-3456013",
+      "titulo": "Casa en Primavera",
+      "id_domus": "3456013",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
