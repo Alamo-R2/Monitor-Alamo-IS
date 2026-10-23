@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "MONTEBLANCO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.18 19:46",
+  "generado": "2026.OCT.23 20:43",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 550000,
+      "area": 40.0,
+      "precioM2": 13750,
+      "administracion": null,
+      "barrio": "EL VIRREY",
+      "upl": "Cuenca del Tunjuelo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-virrey-bogota/192122888",
+      "titulo": "Apartamento en Arriendo en El virrey, Bogotá",
+      "id_domus": "192122888",
+      "fechaPublicacion": "2025-03-10",
+      "lat": 4.5011897,
+      "lon": -74.1154946,
+      "location_type": "exacta",
+      "zonaConsulta": "MONTEBLANCO",
+      "zonaSlug": "monteblanco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
