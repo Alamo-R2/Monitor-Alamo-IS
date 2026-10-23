@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 9,
   "zona": "INGEMAR I",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.17 19:45",
+  "generado": "2026.OCT.23 05:30",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -206,38 +206,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 410000000,
-      "area": 46.0,
-      "precioM2": 8913043,
-      "administracion": 300000,
-      "barrio": "INGEMAR I",
-      "upl": "Cerros Orientales",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-alto-bogota/193385663",
-      "titulo": "Apartamento en Venta en Chapinero Alto, Bogotá",
-      "id_domus": "193385663",
-      "fechaPublicacion": "2026-02-11",
-      "lat": 4.637762292061,
-      "lon": -74.05592355085,
-      "location_type": "exacta",
-      "zonaConsulta": "INGEMAR I",
-      "zonaSlug": "ingemar-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 2800000000,
       "area": 287.0,
       "precioM2": 9756098,
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],

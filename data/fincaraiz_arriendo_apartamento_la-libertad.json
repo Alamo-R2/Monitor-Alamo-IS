@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.22 20:54",
+  "generado": "2026.OCT.23 05:30",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -47,6 +47,38 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 1100000,
+      "area": 42.0,
+      "precioM2": 26190,
+      "administracion": 192100.0,
+      "barrio": "LA LIBERTAD",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-libertad-bogota/194443884",
+      "titulo": "Apartamento en Arriendo en La libertad, Bogotá",
+      "id_domus": "194443884",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.6272827,
+      "lon": -74.1924636,
+      "location_type": "exacta",
+      "zonaConsulta": "LA LIBERTAD",
+      "zonaSlug": "la-libertad",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1100000,
       "area": 47.0,
       "precioM2": 23404,
       "administracion": null,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-10-13",
       "lat": 4.6757344,
       "lon": -74.0776405,
-      "location_type": "exacta",
-      "zonaConsulta": "LA LIBERTAD",
-      "zonaSlug": "la-libertad",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1100000,
-      "area": 42.0,
-      "precioM2": 26190,
-      "administracion": 192100.0,
-      "barrio": "LA LIBERTAD",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-libertad-bogota/194443884",
-      "titulo": "Apartamento en Arriendo en La libertad, Bogotá",
-      "id_domus": "194443884",
-      "fechaPublicacion": "2026-10-22",
-      "lat": 4.6272827,
-      "lon": -74.1924636,
       "location_type": "exacta",
       "zonaConsulta": "LA LIBERTAD",
       "zonaSlug": "la-libertad",

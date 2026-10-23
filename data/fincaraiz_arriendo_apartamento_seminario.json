@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.19 21:47",
+  "generado": "2026.OCT.23 05:30",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -142,6 +142,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 21600000,
+      "area": 246.0,
+      "precioM2": 87805,
+      "administracion": null,
+      "barrio": "SEMINARIO",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 4,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-reservado-bogota/194408868",
+      "titulo": "Apartamento en Arriendo en Chicó Reservado, Bogotá",
+      "id_domus": "194408868",
+      "fechaPublicacion": "2026-10-15",
+      "lat": 4.674226,
+      "lon": -74.0424355,
+      "location_type": "exacta",
+      "zonaConsulta": "SEMINARIO",
+      "zonaSlug": "seminario",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 14000000,
       "area": 242.0,
       "precioM2": 57851,
@@ -162,38 +194,6 @@
       "fechaPublicacion": "2025-12-11",
       "lat": 4.6787625,
       "lon": -74.0392678,
-      "location_type": "exacta",
-      "zonaConsulta": "SEMINARIO",
-      "zonaSlug": "seminario",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 5950000,
-      "area": 75.0,
-      "precioM2": 79333,
-      "administracion": null,
-      "barrio": "SEMINARIO",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 2,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-reservado-bogota/193712213",
-      "titulo": "Apartamento en Arriendo en Chicó Reservado, Bogotá",
-      "id_domus": "193712213",
-      "fechaPublicacion": "2026-05-05",
-      "lat": 4.6786255,
-      "lon": -74.0403189,
       "location_type": "exacta",
       "zonaConsulta": "SEMINARIO",
       "zonaSlug": "seminario",
@@ -238,38 +238,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 15000000,
-      "area": 320.0,
-      "precioM2": 46875,
-      "administracion": 3000000.0,
-      "barrio": "EL CHICO",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 3,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-chico-bogota/193756535",
-      "titulo": "Apartamento en Arriendo en El chico, Bogotá",
-      "id_domus": "193756535",
-      "fechaPublicacion": "2026-05-15",
-      "lat": 4.673899037146,
-      "lon": -74.042539230568,
-      "location_type": "exacta",
-      "zonaConsulta": "SEMINARIO",
-      "zonaSlug": "seminario",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 6800000,
       "area": 88.0,
       "precioM2": 77273,
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -456,71 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 21600000,
-      "area": 246.0,
-      "precioM2": 87805,
-      "administracion": null,
-      "barrio": "SEMINARIO",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 4,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-reservado-bogota/194408868",
-      "titulo": "Apartamento en Arriendo en Chicó Reservado, Bogotá",
-      "id_domus": "194408868",
-      "fechaPublicacion": "2026-10-15",
-      "lat": 4.674226,
-      "lon": -74.0424355,
-      "location_type": "exacta",
-      "zonaConsulta": "SEMINARIO",
-      "zonaSlug": "seminario",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 15700000,
-      "area": 541.0,
-      "precioM2": 29020,
-      "administracion": 3800000.0,
-      "barrio": "EL REFUGIO",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 6,
-      "parqueaderos": 4,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-refugio-bogota/193625179",
-      "titulo": "Apartamento en Arriendo en El refugio, Bogotá",
-      "id_domus": "193625179",
-      "fechaPublicacion": "2026-04-13",
-      "lat": 4.6688847,
-      "lon": -74.0409594,
-      "location_type": "exacta",
-      "zonaConsulta": "SEMINARIO",
-      "zonaSlug": "seminario",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -648,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -672,6 +576,102 @@
       "titulo": "Apartamento en Arriendo en Chicó Reservado, Bogotá",
       "id_domus": "194161878",
       "fechaPublicacion": "2026-08-25",
+      "lat": 4.677102432902,
+      "lon": -74.040749526602,
+      "location_type": "exacta",
+      "zonaConsulta": "SEMINARIO",
+      "zonaSlug": "seminario",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 40000000,
+      "area": 396.0,
+      "precioM2": 101010,
+      "administracion": 6300000.0,
+      "barrio": "EL CHICO",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 4,
+      "parqueaderos": 2,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-chico-bogota/194186880",
+      "titulo": "Apartamento en Arriendo en El chico, Bogotá",
+      "id_domus": "194186880",
+      "fechaPublicacion": "2026-08-31",
+      "lat": 4.674226,
+      "lon": -74.0424355,
+      "location_type": "exacta",
+      "zonaConsulta": "SEMINARIO",
+      "zonaSlug": "seminario",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 10500000,
+      "area": 230.0,
+      "precioM2": 45652,
+      "administracion": 4000000.0,
+      "barrio": "SEMINARIO",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 4,
+      "parqueaderos": 3,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-bogota/194243352",
+      "titulo": "Apartamento en Arriendo en Chico, Bogotá",
+      "id_domus": "194243352",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.6765614,
+      "lon": -74.041148,
+      "location_type": "exacta",
+      "zonaConsulta": "SEMINARIO",
+      "zonaSlug": "seminario",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 14000000,
+      "area": 270.0,
+      "precioM2": 51852,
+      "administracion": 3200000.0,
+      "barrio": "SEMINARIO",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-reservado-bogota/194188429",
+      "titulo": "Apartamento en Arriendo en Chicó Reservado, Bogotá",
+      "id_domus": "194188429",
+      "fechaPublicacion": "2026-08-31",
       "lat": 4.677102432902,
       "lon": -74.040749526602,
       "location_type": "exacta",

@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 3,
   "zona": "SIBERIA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.19 21:47",
+  "generado": "2026.OCT.23 05:30",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 5000000,
-      "area": 93.0,
-      "precioM2": 53763,
-      "administracion": null,
-      "barrio": "INGEMAR",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 2,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ingemar-bogota/194073092",
-      "titulo": "Apartamento en Arriendo en Ingemar, Bogotá",
-      "id_domus": "194073092",
-      "fechaPublicacion": "2026-08-04",
-      "lat": 4.6418269,
-      "lon": -74.0569842,
-      "location_type": "exacta",
-      "zonaConsulta": "SIBERIA",
-      "zonaSlug": "siberia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -72,17 +40,17 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 4700000,
+      "precio": 4400000,
       "area": 104.0,
-      "precioM2": 45192,
+      "precioM2": 42308,
       "administracion": 1172000.0,
-      "barrio": "CASTILLA",
+      "barrio": "SIBERIA",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -92,8 +60,8 @@
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/194362180",
-      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-castillo-bogota/194362180",
+      "titulo": "Apartamento en Arriendo en El castillo, Bogotá",
       "id_domus": "194362180",
       "fechaPublicacion": "2026-10-06",
       "lat": 4.641762024091,
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
