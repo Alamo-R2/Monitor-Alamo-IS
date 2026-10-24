@@ -1,7 +1,7 @@
 {
-  "generado": "2026-10-24T06:53:52",
-  "generado_humano": "2026.OCT.24 06:53",
-  "grupo_actual": "barrios_res",
+  "generado": "2026-10-24T11:55:30",
+  "generado_humano": "2026.OCT.24 11:55",
+  "grupo_actual": "barrios",
   "ciudad": "bogota",
   "datasets": [
     {
@@ -12314,13 +12314,13 @@
       "clave": "venta_oficina_cataluna",
       "etiqueta": "Venta - Oficina - CATALUNA",
       "archivo": "venta_oficina_cataluna.json",
-      "total": 57,
+      "total": 60,
       "operacion": "venta",
       "tipo": "oficina",
       "zona": "CATALUNA",
       "slug": "cataluna",
       "origen": "barrio",
-      "segundos": 7.4
+      "segundos": 9.4
     },
     {
       "clave": "arriendo_oficina_cataluna",
@@ -12332,31 +12332,31 @@
       "zona": "CATALUNA",
       "slug": "cataluna",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 9.0
     },
     {
       "clave": "venta_bodega_cataluna",
       "etiqueta": "Venta - Bodega - CATALUNA",
       "archivo": "venta_bodega_cataluna.json",
-      "total": 52,
+      "total": 53,
       "operacion": "venta",
       "tipo": "bodega",
       "zona": "CATALUNA",
       "slug": "cataluna",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_bodega_cataluna",
       "etiqueta": "Arriendo - Bodega - CATALUNA",
       "archivo": "arriendo_bodega_cataluna.json",
-      "total": 59,
+      "total": 54,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "CATALUNA",
       "slug": "cataluna",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 8.9
     },
     {
       "clave": "venta_edificio_cataluna",
@@ -12368,31 +12368,31 @@
       "zona": "CATALUNA",
       "slug": "cataluna",
       "origen": "barrio",
-      "segundos": 7.1
+      "segundos": 11.1
     },
     {
       "clave": "arriendo_edificio_cataluna",
       "etiqueta": "Arriendo - Edificio - CATALUNA",
       "archivo": "arriendo_edificio_cataluna.json",
-      "total": 50,
+      "total": 49,
       "operacion": "arriendo",
       "tipo": "edificio",
       "zona": "CATALUNA",
       "slug": "cataluna",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 8.9
     },
     {
       "clave": "venta_local_cataluna",
       "etiqueta": "Venta - Local - CATALUNA",
       "archivo": "venta_local_cataluna.json",
-      "total": 51,
+      "total": 48,
       "operacion": "venta",
       "tipo": "local",
       "zona": "CATALUNA",
       "slug": "cataluna",
       "origen": "barrio",
-      "segundos": 7.2
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_local_cataluna",
@@ -12404,31 +12404,31 @@
       "zona": "CATALUNA",
       "slug": "cataluna",
       "origen": "barrio",
-      "segundos": 4.5
+      "segundos": 6.4
     },
     {
       "clave": "venta_lote_cataluna",
       "etiqueta": "Venta - Lote - CATALUNA",
       "archivo": "venta_lote_cataluna.json",
-      "total": 50,
+      "total": 49,
       "operacion": "venta",
       "tipo": "lote",
       "zona": "CATALUNA",
       "slug": "cataluna",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 9.0
     },
     {
       "clave": "arriendo_lote_cataluna",
       "etiqueta": "Arriendo - Lote - CATALUNA",
       "archivo": "arriendo_lote_cataluna.json",
-      "total": 50,
+      "total": 44,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "CATALUNA",
       "slug": "cataluna",
       "origen": "barrio",
-      "segundos": 7.2
+      "segundos": 8.8
     },
     {
       "clave": "venta_oficina_chapinero-central",
@@ -13034,25 +13034,25 @@
       "clave": "venta_oficina_el-paraiso",
       "etiqueta": "Venta - Oficina - EL PARAISO",
       "archivo": "venta_oficina_el-paraiso.json",
-      "total": 50,
+      "total": 51,
       "operacion": "venta",
       "tipo": "oficina",
       "zona": "EL PARAISO",
       "slug": "el-paraiso",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 9.1
     },
     {
       "clave": "arriendo_oficina_el-paraiso",
       "etiqueta": "Arriendo - Oficina - EL PARAISO",
       "archivo": "arriendo_oficina_el-paraiso.json",
-      "total": 50,
+      "total": 49,
       "operacion": "arriendo",
       "tipo": "oficina",
       "zona": "EL PARAISO",
       "slug": "el-paraiso",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 8.9
     },
     {
       "clave": "venta_bodega_el-paraiso",
@@ -13064,7 +13064,7 @@
       "zona": "EL PARAISO",
       "slug": "el-paraiso",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_bodega_el-paraiso",
@@ -13076,7 +13076,7 @@
       "zona": "EL PARAISO",
       "slug": "el-paraiso",
       "origen": "barrio",
-      "segundos": 4.5
+      "segundos": 6.3
     },
     {
       "clave": "venta_edificio_el-paraiso",
@@ -13088,55 +13088,55 @@
       "zona": "EL PARAISO",
       "slug": "el-paraiso",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_edificio_el-paraiso",
       "etiqueta": "Arriendo - Edificio - EL PARAISO",
       "archivo": "arriendo_edificio_el-paraiso.json",
-      "total": 50,
+      "total": 48,
       "operacion": "arriendo",
       "tipo": "edificio",
       "zona": "EL PARAISO",
       "slug": "el-paraiso",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 8.9
     },
     {
       "clave": "venta_local_el-paraiso",
       "etiqueta": "Venta - Local - EL PARAISO",
       "archivo": "venta_local_el-paraiso.json",
-      "total": 32,
+      "total": 38,
       "operacion": "venta",
       "tipo": "local",
       "zona": "EL PARAISO",
       "slug": "el-paraiso",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_local_el-paraiso",
       "etiqueta": "Arriendo - Local - EL PARAISO",
       "archivo": "arriendo_local_el-paraiso.json",
-      "total": 63,
+      "total": 50,
       "operacion": "arriendo",
       "tipo": "local",
       "zona": "EL PARAISO",
       "slug": "el-paraiso",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 8.8
     },
     {
       "clave": "venta_lote_el-paraiso",
       "etiqueta": "Venta - Lote - EL PARAISO",
       "archivo": "venta_lote_el-paraiso.json",
-      "total": 8,
+      "total": 49,
       "operacion": "venta",
       "tipo": "lote",
       "zona": "EL PARAISO",
       "slug": "el-paraiso",
       "origen": "barrio",
-      "segundos": 6.8
+      "segundos": 9.1
     },
     {
       "clave": "arriendo_lote_el-paraiso",
@@ -13148,7 +13148,7 @@
       "zona": "EL PARAISO",
       "slug": "el-paraiso",
       "origen": "barrio",
-      "segundos": 6.8
+      "segundos": 8.8
     },
     {
       "clave": "venta_oficina_el-refugio",
@@ -15080,31 +15080,31 @@
       "zona": "MARLY",
       "slug": "marly",
       "origen": "barrio",
-      "segundos": 7.6
+      "segundos": 8.7
     },
     {
       "clave": "arriendo_oficina_marly",
       "etiqueta": "Arriendo - Oficina - MARLY",
       "archivo": "arriendo_oficina_marly.json",
-      "total": 19,
+      "total": 15,
       "operacion": "arriendo",
       "tipo": "oficina",
       "zona": "MARLY",
       "slug": "marly",
       "origen": "barrio",
-      "segundos": 7.1
+      "segundos": 8.9
     },
     {
       "clave": "venta_bodega_marly",
       "etiqueta": "Venta - Bodega - MARLY",
       "archivo": "venta_bodega_marly.json",
-      "total": 52,
+      "total": 53,
       "operacion": "venta",
       "tipo": "bodega",
       "zona": "MARLY",
       "slug": "marly",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_bodega_marly",
@@ -15116,7 +15116,7 @@
       "zona": "MARLY",
       "slug": "marly",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 8.7
     },
     {
       "clave": "venta_edificio_marly",
@@ -15128,67 +15128,67 @@
       "zona": "MARLY",
       "slug": "marly",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_edificio_marly",
       "etiqueta": "Arriendo - Edificio - MARLY",
       "archivo": "arriendo_edificio_marly.json",
-      "total": 50,
+      "total": 49,
       "operacion": "arriendo",
       "tipo": "edificio",
       "zona": "MARLY",
       "slug": "marly",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 8.9
     },
     {
       "clave": "venta_local_marly",
       "etiqueta": "Venta - Local - MARLY",
       "archivo": "venta_local_marly.json",
-      "total": 13,
+      "total": 14,
       "operacion": "venta",
       "tipo": "local",
       "zona": "MARLY",
       "slug": "marly",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_local_marly",
       "etiqueta": "Arriendo - Local - MARLY",
       "archivo": "arriendo_local_marly.json",
-      "total": 18,
+      "total": 16,
       "operacion": "arriendo",
       "tipo": "local",
       "zona": "MARLY",
       "slug": "marly",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 9.0
     },
     {
       "clave": "venta_lote_marly",
       "etiqueta": "Venta - Lote - MARLY",
       "archivo": "venta_lote_marly.json",
-      "total": 50,
+      "total": 49,
       "operacion": "venta",
       "tipo": "lote",
       "zona": "MARLY",
       "slug": "marly",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_lote_marly",
       "etiqueta": "Arriendo - Lote - MARLY",
       "archivo": "arriendo_lote_marly.json",
-      "total": 50,
+      "total": 44,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "MARLY",
       "slug": "marly",
       "origen": "barrio",
-      "segundos": 7.1
+      "segundos": 9.0
     },
     {
       "clave": "venta_oficina_palermo",
@@ -15206,25 +15206,25 @@
       "clave": "arriendo_oficina_palermo",
       "etiqueta": "Arriendo - Oficina - PALERMO",
       "archivo": "arriendo_oficina_palermo.json",
-      "total": 11,
+      "total": 13,
       "operacion": "arriendo",
       "tipo": "oficina",
       "zona": "PALERMO",
       "slug": "palermo",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.7
     },
     {
       "clave": "venta_bodega_palermo",
       "etiqueta": "Venta - Bodega - PALERMO",
       "archivo": "venta_bodega_palermo.json",
-      "total": 52,
+      "total": 53,
       "operacion": "venta",
       "tipo": "bodega",
       "zona": "PALERMO",
       "slug": "palermo",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_bodega_palermo",
@@ -15236,13 +15236,13 @@
       "zona": "PALERMO",
       "slug": "palermo",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 9.0
     },
     {
       "clave": "venta_edificio_palermo",
       "etiqueta": "Venta - Edificio - PALERMO",
       "archivo": "venta_edificio_palermo.json",
-      "total": 49,
+      "total": 46,
       "operacion": "venta",
       "tipo": "edificio",
       "zona": "PALERMO",
@@ -15284,7 +15284,7 @@
       "zona": "PALERMO",
       "slug": "palermo",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.7
     },
     {
       "clave": "venta_lote_palermo",
@@ -15296,19 +15296,19 @@
       "zona": "PALERMO",
       "slug": "palermo",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_lote_palermo",
       "etiqueta": "Arriendo - Lote - PALERMO",
       "archivo": "arriendo_lote_palermo.json",
-      "total": 46,
+      "total": 44,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "PALERMO",
       "slug": "palermo",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.9
     },
     {
       "clave": "venta_oficina_paramo-i-rural",
@@ -15434,49 +15434,49 @@
       "clave": "venta_oficina_pardo-rubio",
       "etiqueta": "Venta - Oficina - PARDO RUBIO",
       "archivo": "venta_oficina_pardo-rubio.json",
-      "total": 0,
+      "total": 3,
       "operacion": "venta",
       "tipo": "oficina",
       "zona": "PARDO RUBIO",
       "slug": "pardo-rubio",
       "origen": "barrio",
-      "segundos": 4.3
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_oficina_pardo-rubio",
       "etiqueta": "Arriendo - Oficina - PARDO RUBIO",
       "archivo": "arriendo_oficina_pardo-rubio.json",
-      "total": 8,
+      "total": 9,
       "operacion": "arriendo",
       "tipo": "oficina",
       "zona": "PARDO RUBIO",
       "slug": "pardo-rubio",
       "origen": "barrio",
-      "segundos": 6.8
+      "segundos": 8.8
     },
     {
       "clave": "venta_bodega_pardo-rubio",
       "etiqueta": "Venta - Bodega - PARDO RUBIO",
       "archivo": "venta_bodega_pardo-rubio.json",
-      "total": 52,
+      "total": 53,
       "operacion": "venta",
       "tipo": "bodega",
       "zona": "PARDO RUBIO",
       "slug": "pardo-rubio",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_bodega_pardo-rubio",
       "etiqueta": "Arriendo - Bodega - PARDO RUBIO",
       "archivo": "arriendo_bodega_pardo-rubio.json",
-      "total": 61,
+      "total": 54,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "PARDO RUBIO",
       "slug": "pardo-rubio",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 8.9
     },
     {
       "clave": "venta_edificio_pardo-rubio",
@@ -15488,7 +15488,7 @@
       "zona": "PARDO RUBIO",
       "slug": "pardo-rubio",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_edificio_pardo-rubio",
@@ -15500,55 +15500,55 @@
       "zona": "PARDO RUBIO",
       "slug": "pardo-rubio",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 8.9
     },
     {
       "clave": "venta_local_pardo-rubio",
       "etiqueta": "Venta - Local - PARDO RUBIO",
       "archivo": "venta_local_pardo-rubio.json",
-      "total": 8,
+      "total": 7,
       "operacion": "venta",
       "tipo": "local",
       "zona": "PARDO RUBIO",
       "slug": "pardo-rubio",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 8.7
     },
     {
       "clave": "arriendo_local_pardo-rubio",
       "etiqueta": "Arriendo - Local - PARDO RUBIO",
       "archivo": "arriendo_local_pardo-rubio.json",
-      "total": 13,
+      "total": 15,
       "operacion": "arriendo",
       "tipo": "local",
       "zona": "PARDO RUBIO",
       "slug": "pardo-rubio",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 8.8
     },
     {
       "clave": "venta_lote_pardo-rubio",
       "etiqueta": "Venta - Lote - PARDO RUBIO",
       "archivo": "venta_lote_pardo-rubio.json",
-      "total": 50,
+      "total": 49,
       "operacion": "venta",
       "tipo": "lote",
       "zona": "PARDO RUBIO",
       "slug": "pardo-rubio",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_lote_pardo-rubio",
       "etiqueta": "Arriendo - Lote - PARDO RUBIO",
       "archivo": "arriendo_lote_pardo-rubio.json",
-      "total": 50,
+      "total": 44,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "PARDO RUBIO",
       "slug": "pardo-rubio",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 8.9
     },
     {
       "clave": "venta_oficina_pardo-rubio-i",
@@ -107720,7 +107720,7 @@
       "zona": "LA MAGDALENA",
       "slug": "la-magdalena",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_oficina_la-magdalena",
@@ -107744,7 +107744,7 @@
       "zona": "LA MAGDALENA",
       "slug": "la-magdalena",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 9.0
     },
     {
       "clave": "arriendo_bodega_la-magdalena",
@@ -107762,7 +107762,7 @@
       "clave": "venta_edificio_la-magdalena",
       "etiqueta": "Venta - Edificio - LA MAGDALENA",
       "archivo": "venta_edificio_la-magdalena.json",
-      "total": 43,
+      "total": 44,
       "operacion": "venta",
       "tipo": "edificio",
       "zona": "LA MAGDALENA",
@@ -107780,19 +107780,19 @@
       "zona": "LA MAGDALENA",
       "slug": "la-magdalena",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.9
     },
     {
       "clave": "venta_local_la-magdalena",
       "etiqueta": "Venta - Local - LA MAGDALENA",
       "archivo": "venta_local_la-magdalena.json",
-      "total": 50,
+      "total": 49,
       "operacion": "venta",
       "tipo": "local",
       "zona": "LA MAGDALENA",
       "slug": "la-magdalena",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_local_la-magdalena",
@@ -107822,25 +107822,25 @@
       "clave": "arriendo_lote_la-magdalena",
       "etiqueta": "Arriendo - Lote - LA MAGDALENA",
       "archivo": "arriendo_lote_la-magdalena.json",
-      "total": 13,
+      "total": 12,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "LA MAGDALENA",
       "slug": "la-magdalena",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.9
     },
     {
       "clave": "venta_oficina_sagrado-corazon",
       "etiqueta": "Venta - Oficina - SAGRADO CORAZON",
       "archivo": "venta_oficina_sagrado-corazon.json",
-      "total": 27,
+      "total": 29,
       "operacion": "venta",
       "tipo": "oficina",
       "zona": "SAGRADO CORAZON",
       "slug": "sagrado-corazon",
       "origen": "barrio",
-      "segundos": 9.4
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_oficina_sagrado-corazon",
@@ -107864,7 +107864,7 @@
       "zona": "SAGRADO CORAZON",
       "slug": "sagrado-corazon",
       "origen": "barrio",
-      "segundos": 6.5
+      "segundos": 6.4
     },
     {
       "clave": "arriendo_bodega_sagrado-corazon",
@@ -107876,7 +107876,7 @@
       "zona": "SAGRADO CORAZON",
       "slug": "sagrado-corazon",
       "origen": "barrio",
-      "segundos": 6.4
+      "segundos": 6.2
     },
     {
       "clave": "venta_edificio_sagrado-corazon",
@@ -107888,7 +107888,7 @@
       "zona": "SAGRADO CORAZON",
       "slug": "sagrado-corazon",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_edificio_sagrado-corazon",
@@ -107900,19 +107900,19 @@
       "zona": "SAGRADO CORAZON",
       "slug": "sagrado-corazon",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 9.0
     },
     {
       "clave": "venta_local_sagrado-corazon",
       "etiqueta": "Venta - Local - SAGRADO CORAZON",
       "archivo": "venta_local_sagrado-corazon.json",
-      "total": 18,
+      "total": 19,
       "operacion": "venta",
       "tipo": "local",
       "zona": "SAGRADO CORAZON",
       "slug": "sagrado-corazon",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.7
     },
     {
       "clave": "arriendo_local_sagrado-corazon",
@@ -107930,25 +107930,25 @@
       "clave": "venta_lote_sagrado-corazon",
       "etiqueta": "Venta - Lote - SAGRADO CORAZON",
       "archivo": "venta_lote_sagrado-corazon.json",
-      "total": 46,
+      "total": 49,
       "operacion": "venta",
       "tipo": "lote",
       "zona": "SAGRADO CORAZON",
       "slug": "sagrado-corazon",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_lote_sagrado-corazon",
       "etiqueta": "Arriendo - Lote - SAGRADO CORAZON",
       "archivo": "arriendo_lote_sagrado-corazon.json",
-      "total": 45,
+      "total": 44,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "SAGRADO CORAZON",
       "slug": "sagrado-corazon",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "venta_oficina_samper",
@@ -115987,6 +115987,126 @@
       "tipo": "lote",
       "zona": "VERACRUZ",
       "slug": "veracruz",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "venta_oficina_parque-nacional",
+      "etiqueta": "Venta - Oficina - PARQUE NACIONAL",
+      "archivo": "venta_oficina_parque-nacional.json",
+      "total": 6,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "PARQUE NACIONAL",
+      "slug": "parque-nacional",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "arriendo_oficina_parque-nacional",
+      "etiqueta": "Arriendo - Oficina - PARQUE NACIONAL",
+      "archivo": "arriendo_oficina_parque-nacional.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "PARQUE NACIONAL",
+      "slug": "parque-nacional",
+      "origen": "barrio",
+      "segundos": 6.6
+    },
+    {
+      "clave": "venta_bodega_parque-nacional",
+      "etiqueta": "Venta - Bodega - PARQUE NACIONAL",
+      "archivo": "venta_bodega_parque-nacional.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "PARQUE NACIONAL",
+      "slug": "parque-nacional",
+      "origen": "barrio",
+      "segundos": 6.3
+    },
+    {
+      "clave": "arriendo_bodega_parque-nacional",
+      "etiqueta": "Arriendo - Bodega - PARQUE NACIONAL",
+      "archivo": "arriendo_bodega_parque-nacional.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "PARQUE NACIONAL",
+      "slug": "parque-nacional",
+      "origen": "barrio",
+      "segundos": 6.3
+    },
+    {
+      "clave": "venta_edificio_parque-nacional",
+      "etiqueta": "Venta - Edificio - PARQUE NACIONAL",
+      "archivo": "venta_edificio_parque-nacional.json",
+      "total": 48,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "PARQUE NACIONAL",
+      "slug": "parque-nacional",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "arriendo_edificio_parque-nacional",
+      "etiqueta": "Arriendo - Edificio - PARQUE NACIONAL",
+      "archivo": "arriendo_edificio_parque-nacional.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "PARQUE NACIONAL",
+      "slug": "parque-nacional",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "venta_local_parque-nacional",
+      "etiqueta": "Venta - Local - PARQUE NACIONAL",
+      "archivo": "venta_local_parque-nacional.json",
+      "total": 7,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "PARQUE NACIONAL",
+      "slug": "parque-nacional",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "arriendo_local_parque-nacional",
+      "etiqueta": "Arriendo - Local - PARQUE NACIONAL",
+      "archivo": "arriendo_local_parque-nacional.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "PARQUE NACIONAL",
+      "slug": "parque-nacional",
+      "origen": "barrio",
+      "segundos": 6.3
+    },
+    {
+      "clave": "venta_lote_parque-nacional",
+      "etiqueta": "Venta - Lote - PARQUE NACIONAL",
+      "archivo": "venta_lote_parque-nacional.json",
+      "total": 49,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "PARQUE NACIONAL",
+      "slug": "parque-nacional",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "arriendo_lote_parque-nacional",
+      "etiqueta": "Arriendo - Lote - PARQUE NACIONAL",
+      "archivo": "arriendo_lote_parque-nacional.json",
+      "total": 44,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "PARQUE NACIONAL",
+      "slug": "parque-nacional",
       "origen": "barrio",
       "segundos": 8.9
     }

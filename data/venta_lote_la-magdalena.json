@@ -5,74 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "lote",
-  "generado": "2026.OCT.12 16:38",
+  "generado": "2026.OCT.24 11:55",
   "inmuebles": [
     {
-      "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "lote",
-      "tipoPortal": "Lote",
-      "precio": 1900000000,
-      "area": 200.0,
-      "precioM2": 9500000,
-      "administracion": null,
-      "barrio": "LA MAGDALENA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": null,
-      "parqueaderos": null,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-na/2671-M5804898",
-      "titulo": "Lote en Venta, La Calera, Bogotá D.C.",
-      "id_domus": "2671-M5804898",
-      "fechaPublicacion": null,
-      "lat": 4.660269,
-      "lon": -74.00704,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MAGDALENA",
-      "zonaSlug": "la-magdalena",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "lote",
-      "tipoPortal": "Lote",
-      "precio": 735000000,
-      "area": 1865.0,
-      "precioM2": 394102,
-      "administracion": null,
-      "barrio": "LA MAGDALENA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": null,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-na/2671-M5843426",
-      "titulo": "Lote en Venta, La Calera, Bogotá D.C.",
-      "id_domus": "2671-M5843426",
-      "fechaPublicacion": null,
-      "lat": 4.768747,
-      "lon": -73.960008,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MAGDALENA",
-      "zonaSlug": "la-magdalena",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +104,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-15",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 735000000,
+      "area": 1865.0,
+      "precioM2": 394102,
+      "administracion": null,
+      "barrio": "LA MAGDALENA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-na/2671-M5843426",
+      "titulo": "Lote en Venta, La Calera, Bogotá D.C.",
+      "id_domus": "2671-M5843426",
+      "fechaPublicacion": null,
+      "lat": 4.768747,
+      "lon": -73.960008,
+      "location_type": "exacta",
+      "zonaConsulta": "LA MAGDALENA",
+      "zonaSlug": "la-magdalena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 1900000000,
+      "area": 200.0,
+      "precioM2": 9500000,
+      "administracion": null,
+      "barrio": "LA MAGDALENA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-na/2671-M5804898",
+      "titulo": "Lote en Venta, La Calera, Bogotá D.C.",
+      "id_domus": "2671-M5804898",
+      "fechaPublicacion": null,
+      "lat": 4.660269,
+      "lon": -74.00704,
+      "location_type": "exacta",
+      "zonaConsulta": "LA MAGDALENA",
+      "zonaSlug": "la-magdalena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
