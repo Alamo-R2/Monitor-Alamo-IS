@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 7,
   "zona": "LAS DOS AVENIDAS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.22 20:54",
+  "generado": "2026.OCT.24 19:53",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -169,6 +169,38 @@
     },
     {
       "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1500000,
+      "area": 37.0,
+      "precioM2": 40541,
+      "administracion": null,
+      "barrio": "CASTILLA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/194448706",
+      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
+      "id_domus": "194448706",
+      "fechaPublicacion": "2026-10-23",
+      "lat": 4.6341381,
+      "lon": -74.1462195,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS DOS AVENIDAS",
+      "zonaSlug": "las-dos-avenidas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],

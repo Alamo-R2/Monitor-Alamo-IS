@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 11,
   "zona": "HIPOTECHO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.22 20:54",
+  "generado": "2026.OCT.24 19:53",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2650000,
-      "area": 102.0,
-      "precioM2": 25980,
-      "administracion": 250000.0,
-      "barrio": "HIPOTECHO",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nueva-marsella-bogota/194408278",
-      "titulo": "Apartamento en Arriendo en Nueva Marsella, Bogotá",
-      "id_domus": "194408278",
-      "fechaPublicacion": "2026-10-15",
-      "lat": 4.6283341,
-      "lon": -74.1346134,
-      "location_type": "exacta",
-      "zonaConsulta": "HIPOTECHO",
-      "zonaSlug": "hipotecho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +40,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2650000,
+      "area": 102.0,
+      "precioM2": 25980,
+      "administracion": 250000.0,
+      "barrio": "HIPOTECHO",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nueva-marsella-bogota/194408278",
+      "titulo": "Apartamento en Arriendo en Nueva Marsella, Bogotá",
+      "id_domus": "194408278",
+      "fechaPublicacion": "2026-10-15",
+      "lat": 4.6283341,
+      "lon": -74.1346134,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO",
+      "zonaSlug": "hipotecho",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2200000,
+      "area": 75.0,
+      "precioM2": 29333,
+      "administracion": null,
+      "barrio": "HIPOTECHO",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nueva-marsella-bogota/194448266",
+      "titulo": "Apartamento en Arriendo en Nueva Marsella, Bogotá",
+      "id_domus": "194448266",
+      "fechaPublicacion": "2026-10-23",
+      "lat": 4.6260052,
+      "lon": -74.1330894,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO",
+      "zonaSlug": "hipotecho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],

@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 16,
+  "total": 19,
   "zona": "EL VERVENAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.20 20:57",
+  "generado": "2026.OCT.24 19:53",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1642000,
+      "area": 57.0,
+      "precioM2": 28807,
+      "administracion": 308000.0,
+      "barrio": "EL VERVENAL",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-zona-norte-bogota/194450851",
+      "titulo": "Apartamento en Arriendo en Zona norte, Bogotá",
+      "id_domus": "194450851",
+      "fechaPublicacion": "2026-10-23",
+      "lat": 4.7626423,
+      "lon": -74.0399851,
+      "location_type": "exacta",
+      "zonaConsulta": "EL VERVENAL",
+      "zonaSlug": "el-vervenal",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -89,7 +121,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 2,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-verbenal-san-antonio-bogota/194375669",
@@ -104,7 +136,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 57.0,
+      "precioM2": 28070,
+      "administracion": null,
+      "barrio": "TIBABITA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-tibabita-bogota/194432527",
+      "titulo": "Apartamento en Arriendo en Tibabita, Bogotá",
+      "id_domus": "194432527",
+      "fechaPublicacion": "2026-10-20",
+      "lat": 4.7667459,
+      "lon": -74.0325299,
+      "location_type": "exacta",
+      "zonaConsulta": "EL VERVENAL",
+      "zonaSlug": "el-vervenal",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +296,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 65.0,
+      "precioM2": 30769,
+      "administracion": null,
+      "barrio": "TIBABITA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-tibabita-bogota/194438281",
+      "titulo": "Apartamento en Arriendo en Tibabita, Bogotá",
+      "id_domus": "194438281",
+      "fechaPublicacion": "2026-10-21",
+      "lat": 4.7694142752639,
+      "lon": -74.030554738744,
+      "location_type": "exacta",
+      "zonaConsulta": "EL VERVENAL",
+      "zonaSlug": "el-vervenal",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],

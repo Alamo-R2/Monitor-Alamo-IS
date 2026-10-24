@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.20 00:46",
+  "generado": "2026.OCT.24 19:53",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,10 +14,42 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 385000000,
+      "area": 62.0,
+      "precioM2": 6209677,
+      "administracion": null,
+      "barrio": "ESTRELLA DEL NORTE",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-estrella-del-norte-bogota/194170221",
+      "titulo": "Apartamento en Venta en Estrella del norte, Bogotá",
+      "id_domus": "194170221",
+      "fechaPublicacion": "2026-08-26",
+      "lat": 4.7390963,
+      "lon": -74.0447816,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTRELLA DEL NORTE",
+      "zonaSlug": "estrella-del-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 410000000,
       "area": 75.0,
       "precioM2": 5466667,
-      "administracion": 380000,
+      "administracion": 380000.0,
       "barrio": "ESTRELLA DEL NORTE",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -40,39 +72,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 619900000,
-      "area": 166.0,
-      "precioM2": 3734337,
-      "administracion": 460000,
-      "barrio": "LAS ORQUIDEAS",
+      "precio": 299000000,
+      "area": 51.0,
+      "precioM2": 5862745,
+      "administracion": null,
+      "barrio": "ESTRELLA DEL NORTE",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 4,
+      "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-orquideas-bogota/194063239",
-      "titulo": "Apartamento en Venta en Las orquideas, Bogotá",
-      "id_domus": "194063239",
-      "fechaPublicacion": "2026-08-01",
-      "lat": 4.741360617215,
-      "lon": -74.046186615734,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-toberin-bogota/194414312",
+      "titulo": "Apartamento en Venta en Toberin, Bogotá",
+      "id_domus": "194414312",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.7392382,
+      "lon": -74.0460761,
       "location_type": "exacta",
       "zonaConsulta": "ESTRELLA DEL NORTE",
       "zonaSlug": "estrella-del-norte",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -81,7 +113,7 @@
       "precio": 380000000,
       "area": 60.0,
       "precioM2": 6333333,
-      "administracion": 434000,
+      "administracion": 434000.0,
       "barrio": "ESTRELLA DEL NORTE",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -104,38 +136,6 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 359500000,
-      "area": 68.0,
-      "precioM2": 5286765,
-      "administracion": 445000,
-      "barrio": "LAS ORQUIDEAS",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-orquideas-bogota/194284868",
-      "titulo": "Apartamento en Venta en Las orquideas, Bogotá",
-      "id_domus": "194284868",
-      "fechaPublicacion": "2026-09-20",
-      "lat": 4.740898583005,
-      "lon": -74.040463417768,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTRELLA DEL NORTE",
-      "zonaSlug": "estrella-del-norte",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-5",
       "operacion": [
         "Venta"
@@ -145,7 +145,7 @@
       "precio": 490000000,
       "area": 87.0,
       "precioM2": 5632184,
-      "administracion": 70000,
+      "administracion": 70000.0,
       "barrio": "ESTRELLA DEL NORTE",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -174,42 +174,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 650000000,
-      "area": 109.0,
-      "precioM2": 5963303,
-      "administracion": 600000,
-      "barrio": "ESTRELLA DEL NORTE",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villas-del-mediterraneo-bogota/193837950",
-      "titulo": "Apartamento en Venta en Villas del mediterraneo, Bogotá",
-      "id_domus": "193837950",
-      "fechaPublicacion": "2026-06-03",
-      "lat": 4.7370564,
-      "lon": -74.037771,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTRELLA DEL NORTE",
-      "zonaSlug": "estrella-del-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 517000000,
       "area": 117.0,
       "precioM2": 4418803,
-      "administracion": 795000,
+      "administracion": 795000.0,
       "barrio": "ESTRELLA DEL NORTE",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -241,7 +209,7 @@
       "precio": 320000000,
       "area": 55.0,
       "precioM2": 5818182,
-      "administracion": 286000,
+      "administracion": 286000.0,
       "barrio": "ESTRELLA DEL NORTE",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -264,39 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 990000000,
-      "area": 198.0,
-      "precioM2": 5000000,
-      "administracion": 720000,
-      "barrio": "ESTRELLA DEL NORTE",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-estrella-del-norte-bogota/193321873",
-      "titulo": "Apartamento en Venta en Estrella del norte, Bogotá",
-      "id_domus": "193321873",
-      "fechaPublicacion": "2026-01-26",
-      "lat": 4.6068824,
-      "lon": -74.071837,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTRELLA DEL NORTE",
-      "zonaSlug": "estrella-del-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -305,7 +241,7 @@
       "precio": 517000000,
       "area": 116.0,
       "precioM2": 4456897,
-      "administracion": 818000,
+      "administracion": 818000.0,
       "barrio": "ESTRELLA DEL NORTE",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -337,7 +273,7 @@
       "precio": 320000000,
       "area": 54.0,
       "precioM2": 5925926,
-      "administracion": 285000,
+      "administracion": 285000.0,
       "barrio": "ESTRELLA DEL NORTE",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -369,7 +305,7 @@
       "precio": 520000000,
       "area": 116.0,
       "precioM2": 4482759,
-      "administracion": 995000,
+      "administracion": 995000.0,
       "barrio": "ESTRELLA DEL NORTE",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -401,7 +337,7 @@
       "precio": 650000000,
       "area": 108.0,
       "precioM2": 6018519,
-      "administracion": 550000,
+      "administracion": 550000.0,
       "barrio": "ESTRELLA DEL NORTE",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -424,7 +360,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 619900000,
+      "area": 166.0,
+      "precioM2": 3734337,
+      "administracion": 460000.0,
+      "barrio": "LAS ORQUIDEAS",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-orquideas-bogota/194063239",
+      "titulo": "Apartamento en Venta en Las orquideas, Bogotá",
+      "id_domus": "194063239",
+      "fechaPublicacion": "2026-08-01",
+      "lat": 4.741360617215,
+      "lon": -74.046186615734,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTRELLA DEL NORTE",
+      "zonaSlug": "estrella-del-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -433,7 +401,7 @@
       "precio": 360000000,
       "area": 67.0,
       "precioM2": 5373134,
-      "administracion": 299000,
+      "administracion": 299000.0,
       "barrio": "ESTRELLA DEL NORTE",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -465,7 +433,7 @@
       "precio": 385000000,
       "area": 64.0,
       "precioM2": 6015625,
-      "administracion": 510000,
+      "administracion": 510000.0,
       "barrio": "CEDRITOS",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -488,71 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 328000000,
-      "area": 62.0,
-      "precioM2": 5290323,
-      "administracion": 490000,
-      "barrio": "ESTRELLA DEL NORTE",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-magdala-bogota/193718791",
-      "titulo": "Apartamento en Venta en Villa magdala, Bogotá",
-      "id_domus": "193718791",
-      "fechaPublicacion": "2026-05-07",
-      "lat": 4.739405,
-      "lon": -74.044418,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTRELLA DEL NORTE",
-      "zonaSlug": "estrella-del-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 430000000,
-      "area": 74.0,
-      "precioM2": 5810811,
-      "administracion": 440000,
-      "barrio": "ESTRELLA DEL NORTE",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota-dc-bogota/194260202",
-      "titulo": "Apartamento en Venta en Bogotá, d.c., Bogotá",
-      "id_domus": "194260202",
-      "fechaPublicacion": "2026-09-15",
-      "lat": 4.7381666,
-      "lon": -74.0373832,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTRELLA DEL NORTE",
-      "zonaSlug": "estrella-del-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -561,7 +465,7 @@
       "precio": 365000000,
       "area": 68.0,
       "precioM2": 5367647,
-      "administracion": 290000,
+      "administracion": 290000.0,
       "barrio": "LAS ORQUIDEAS",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -584,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -593,7 +497,7 @@
       "precio": 3950000000,
       "area": 650.0,
       "precioM2": 6076923,
-      "administracion": 3138000,
+      "administracion": 3138000.0,
       "barrio": "LOS ROSALES",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -616,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -625,7 +529,7 @@
       "precio": 490000000,
       "area": 105.0,
       "precioM2": 4666667,
-      "administracion": 600000,
+      "administracion": 600000.0,
       "barrio": "LA LIBERIA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -648,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -657,7 +561,7 @@
       "precio": 280000000,
       "area": 63.0,
       "precioM2": 4444444,
-      "administracion": 80000,
+      "administracion": 80000.0,
       "barrio": "ESTRELLA DEL NORTE",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
@@ -674,6 +578,102 @@
       "fechaPublicacion": "2026-07-27",
       "lat": 4.7407502795069,
       "lon": -74.040857233809,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTRELLA DEL NORTE",
+      "zonaSlug": "estrella-del-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 370000000,
+      "area": 78.0,
+      "precioM2": 4743590,
+      "administracion": null,
+      "barrio": "LAS ORQUIDEAS",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-orquideas-bogota/194254321",
+      "titulo": "Apartamento en Venta en Las orquideas, Bogotá",
+      "id_domus": "194254321",
+      "fechaPublicacion": "2026-09-14",
+      "lat": 4.742323,
+      "lon": -74.046876,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTRELLA DEL NORTE",
+      "zonaSlug": "estrella-del-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 390000000,
+      "area": 68.0,
+      "precioM2": 5735294,
+      "administracion": 205000.0,
+      "barrio": "ESTRELLA DEL NORTE",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-magdala-bogota/194109174",
+      "titulo": "Apartamento en Venta en Villa magdala, Bogotá",
+      "id_domus": "194109174",
+      "fechaPublicacion": "2026-08-12",
+      "lat": 4.7401754,
+      "lon": -74.0460543,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTRELLA DEL NORTE",
+      "zonaSlug": "estrella-del-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 650000000,
+      "area": 108.0,
+      "precioM2": 6018519,
+      "administracion": 550000.0,
+      "barrio": "ESTRELLA DEL NORTE",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villas-del-mediterraneo-bogota/194306263",
+      "titulo": "Apartamento en Venta en Villas del mediterraneo, Bogotá",
+      "id_domus": "194306263",
+      "fechaPublicacion": "2026-09-23",
+      "lat": 4.737281,
+      "lon": -74.037667,
       "location_type": "exacta",
       "zonaConsulta": "ESTRELLA DEL NORTE",
       "zonaSlug": "estrella-del-norte",
