@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "DIANA TURBAY",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.18 13:39",
+  "generado": "2026.OCT.24 00:06",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -137,6 +137,38 @@
     },
     {
       "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1000000,
+      "area": 58.0,
+      "precioM2": 17241,
+      "administracion": null,
+      "barrio": "EL TUNO",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-tuno-bogota/194425563",
+      "titulo": "Apartamento en Arriendo en El tuno, Bogotá",
+      "id_domus": "194425563",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.5474892,
+      "lon": -74.1086227,
+      "location_type": "exacta",
+      "zonaConsulta": "DIANA TURBAY",
+      "zonaSlug": "diana-turbay",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],

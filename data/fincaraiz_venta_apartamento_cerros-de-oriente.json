@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.21 14:44",
+  "generado": "2026.OCT.24 00:06",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 130000000,
+      "area": 52.0,
+      "precioM2": 2500000,
+      "administracion": null,
+      "barrio": "SAN AGUSTIN",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-agustin-bogota/193364762",
+      "titulo": "Apartamento en Venta en San agustin, Bogotá",
+      "id_domus": "193364762",
+      "fechaPublicacion": "2026-02-05",
+      "lat": 4.550282184291,
+      "lon": -74.106145973367,
+      "location_type": "exacta",
+      "zonaConsulta": "CERROS DE ORIENTE",
+      "zonaSlug": "cerros-de-oriente",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 160000000,
       "area": 44.0,
       "precioM2": 3636364,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -162,38 +194,6 @@
       "fechaPublicacion": "2026-09-08",
       "lat": 4.5520675016505,
       "lon": -74.106940627098,
-      "location_type": "exacta",
-      "zonaConsulta": "CERROS DE ORIENTE",
-      "zonaSlug": "cerros-de-oriente",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 130000000,
-      "area": 52.0,
-      "precioM2": 2500000,
-      "administracion": null,
-      "barrio": "CERROS DE ORIENTE",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cerros-de-oriente-bogota/193364762",
-      "titulo": "Apartamento en Venta en Cerros de oriente, Bogotá",
-      "id_domus": "193364762",
-      "fechaPublicacion": "2026-02-05",
-      "lat": 4.550282184291,
-      "lon": -74.106145973367,
       "location_type": "exacta",
       "zonaConsulta": "CERROS DE ORIENTE",
       "zonaSlug": "cerros-de-oriente",

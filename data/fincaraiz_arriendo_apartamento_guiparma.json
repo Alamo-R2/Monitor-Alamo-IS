@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "GUIPARMA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.18 13:39",
+  "generado": "2026.OCT.24 00:06",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,10 +14,42 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 42.0,
-      "precioM2": 28571,
+      "precio": 1250000,
+      "area": 49.0,
+      "precioM2": 25510,
       "administracion": null,
+      "barrio": "MOLINOS DEL SUR",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-molinos-del-sur-bogota/194425770",
+      "titulo": "Apartamento en Arriendo en Molinos del sur, Bogotá",
+      "id_domus": "194425770",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.56119843971,
+      "lon": -74.118172747138,
+      "location_type": "exacta",
+      "zonaConsulta": "GUIPARMA",
+      "zonaSlug": "guiparma",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1106500,
+      "area": 42.0,
+      "precioM2": 26345,
+      "administracion": 93500.0,
       "barrio": "GUIPARMA",
       "upl": "Rafael Uribe",
       "ciudad": "Bogotá",
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],

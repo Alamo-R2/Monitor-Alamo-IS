@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-23T21:51:19",
-  "generado_humano": "2026.OCT.23 21:51",
+  "generado": "2026-10-24T00:06:34",
+  "generado_humano": "2026.OCT.24 00:06",
   "grupo_actual": "barrios_res",
   "ciudad": "bogota",
   "datasets": [
@@ -46706,13 +46706,13 @@
       "clave": "fincaraiz_venta_apartamento_granjas-de-santa-sofia",
       "etiqueta": "Venta - Apartamento - GRANJAS DE SANTA SOFIA",
       "archivo": "fincaraiz_venta_apartamento_granjas-de-santa-sofia.json",
-      "total": 4,
+      "total": 5,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "GRANJAS DE SANTA SOFIA",
       "slug": "granjas-de-santa-sofia",
       "origen": "barrio",
-      "segundos": 8.5
+      "segundos": 8.2
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_granjas-de-santa-sofia",
@@ -46724,19 +46724,19 @@
       "zona": "GRANJAS DE SANTA SOFIA",
       "slug": "granjas-de-santa-sofia",
       "origen": "barrio",
-      "segundos": 5.6
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_granjas-san-pablo",
       "etiqueta": "Venta - Apartamento - GRANJAS SAN PABLO",
       "archivo": "fincaraiz_venta_apartamento_granjas-san-pablo.json",
-      "total": 10,
+      "total": 11,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "GRANJAS SAN PABLO",
       "slug": "granjas-san-pablo",
       "origen": "barrio",
-      "segundos": 8.1
+      "segundos": 8.3
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_granjas-san-pablo",
@@ -46748,7 +46748,7 @@
       "zona": "GRANJAS SAN PABLO",
       "slug": "granjas-san-pablo",
       "origen": "barrio",
-      "segundos": 5.5
+      "segundos": 5.2
     },
     {
       "clave": "fincaraiz_venta_apartamento_gustavo-restrepo",
@@ -46760,31 +46760,31 @@
       "zona": "GUSTAVO RESTREPO",
       "slug": "gustavo-restrepo",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.0
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_gustavo-restrepo",
       "etiqueta": "Arriendo - Apartamento - GUSTAVO RESTREPO",
       "archivo": "fincaraiz_arriendo_apartamento_gustavo-restrepo.json",
-      "total": 8,
+      "total": 6,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "GUSTAVO RESTREPO",
       "slug": "gustavo-restrepo",
       "origen": "barrio",
-      "segundos": 8.1
+      "segundos": 8.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_hospital-san-carlos",
       "etiqueta": "Venta - Apartamento - HOSPITAL SAN CARLOS",
       "archivo": "fincaraiz_venta_apartamento_hospital-san-carlos.json",
-      "total": 3,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "HOSPITAL SAN CARLOS",
       "slug": "hospital-san-carlos",
       "origen": "barrio",
-      "segundos": 8.2
+      "segundos": 6.3
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_hospital-san-carlos",
@@ -46796,7 +46796,7 @@
       "zona": "HOSPITAL SAN CARLOS",
       "slug": "hospital-san-carlos",
       "origen": "barrio",
-      "segundos": 16.2
+      "segundos": 5.5
     },
     {
       "clave": "fincaraiz_venta_apartamento_ingles",
@@ -46832,7 +46832,7 @@
       "zona": "LAS LOMAS",
       "slug": "las-lomas",
       "origen": "barrio",
-      "segundos": 6.1
+      "segundos": 5.8
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_las-lomas",
@@ -46844,7 +46844,7 @@
       "zona": "LAS LOMAS",
       "slug": "las-lomas",
       "origen": "barrio",
-      "segundos": 5.2
+      "segundos": 5.5
     },
     {
       "clave": "fincaraiz_venta_apartamento_marco-fidel-suarez",
@@ -46856,7 +46856,7 @@
       "zona": "MARCO FIDEL SUAREZ",
       "slug": "marco-fidel-suarez",
       "origen": "barrio",
-      "segundos": 9.6
+      "segundos": 8.0
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_marco-fidel-suarez",
@@ -46868,7 +46868,7 @@
       "zona": "MARCO FIDEL SUAREZ",
       "slug": "marco-fidel-suarez",
       "origen": "barrio",
-      "segundos": 8.1
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_quiroga",
@@ -46904,19 +46904,19 @@
       "zona": "QUIROGA CENTRAL",
       "slug": "quiroga-central",
       "origen": "barrio",
-      "segundos": 7.7
+      "segundos": 8.3
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_quiroga-central",
       "etiqueta": "Arriendo - Apartamento - QUIROGA CENTRAL",
       "archivo": "fincaraiz_arriendo_apartamento_quiroga-central.json",
-      "total": 3,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "QUIROGA CENTRAL",
       "slug": "quiroga-central",
       "origen": "barrio",
-      "segundos": 8.0
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_quiroga-i",
@@ -47024,7 +47024,7 @@
       "zona": "SAN JORGE SUR",
       "slug": "san-jorge-sur",
       "origen": "barrio",
-      "segundos": 7.9
+      "segundos": 7.7
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_san-jorge-sur",
@@ -47036,7 +47036,7 @@
       "zona": "SAN JORGE SUR",
       "slug": "san-jorge-sur",
       "origen": "barrio",
-      "segundos": 5.3
+      "segundos": 5.8
     },
     {
       "clave": "ciencuadras_venta_apartamento_chapinero-norte",
@@ -48776,19 +48776,19 @@
       "zona": "SAN LUIS",
       "slug": "san-luis",
       "origen": "barrio",
-      "segundos": 7.6
+      "segundos": 7.9
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_san-luis",
       "etiqueta": "Arriendo - Apartamento - SAN LUIS",
       "archivo": "fincaraiz_arriendo_apartamento_san-luis.json",
-      "total": 21,
+      "total": 19,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "SAN LUIS",
       "slug": "san-luis",
       "origen": "barrio",
-      "segundos": 7.8
+      "segundos": 7.9
     },
     {
       "clave": "fincaraiz_venta_apartamento_santa-lucia",
@@ -48800,19 +48800,19 @@
       "zona": "SANTA LUCIA",
       "slug": "santa-lucia",
       "origen": "barrio",
-      "segundos": 9.6
+      "segundos": 8.1
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_santa-lucia",
       "etiqueta": "Arriendo - Apartamento - SANTA LUCIA",
       "archivo": "fincaraiz_arriendo_apartamento_santa-lucia.json",
-      "total": 3,
+      "total": 4,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "SANTA LUCIA",
       "slug": "santa-lucia",
       "origen": "barrio",
-      "segundos": 8.5
+      "segundos": 8.0
     },
     {
       "clave": "fincaraiz_venta_apartamento_tunal-oriental",
@@ -48872,7 +48872,7 @@
       "zona": "CANADA O GUIRA",
       "slug": "canada-o-guira",
       "origen": "barrio",
-      "segundos": 5.8
+      "segundos": 5.7
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_canada-o-guira",
@@ -48884,7 +48884,7 @@
       "zona": "CANADA O GUIRA",
       "slug": "canada-o-guira",
       "origen": "barrio",
-      "segundos": 5.3
+      "segundos": 5.4
     },
     {
       "clave": "fincaraiz_venta_apartamento_cerros-de-oriente",
@@ -48896,7 +48896,7 @@
       "zona": "CERROS DE ORIENTE",
       "slug": "cerros-de-oriente",
       "origen": "barrio",
-      "segundos": 7.8
+      "segundos": 8.1
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_cerros-de-oriente",
@@ -48920,7 +48920,7 @@
       "zona": "DIANA TURBAY ARRAYANES",
       "slug": "diana-turbay-arrayanes",
       "origen": "barrio",
-      "segundos": 5.7
+      "segundos": 5.8
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_diana-turbay-arrayanes",
@@ -48968,7 +48968,7 @@
       "zona": "SAN MARTIN SUR",
       "slug": "san-martin-sur",
       "origen": "barrio",
-      "segundos": 6.4
+      "segundos": 5.9
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_san-martin-sur",
@@ -49352,7 +49352,7 @@
       "zona": "GRANADA SUR",
       "slug": "granada-sur",
       "origen": "barrio",
-      "segundos": 7.8
+      "segundos": 8.5
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_granada-sur",
@@ -49364,7 +49364,7 @@
       "zona": "GRANADA SUR",
       "slug": "granada-sur",
       "origen": "barrio",
-      "segundos": 5.2
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_la-gloria-occidental",
@@ -52400,7 +52400,7 @@
       "zona": "EL PLAYON",
       "slug": "el-playon",
       "origen": "barrio",
-      "segundos": 10.2
+      "segundos": 8.3
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_el-playon",
@@ -52412,7 +52412,7 @@
       "zona": "EL PLAYON",
       "slug": "el-playon",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_la-picota",
@@ -52424,7 +52424,7 @@
       "zona": "LA PICOTA",
       "slug": "la-picota",
       "origen": "barrio",
-      "segundos": 11.9
+      "segundos": 8.4
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-picota",
@@ -52436,7 +52436,7 @@
       "zona": "LA PICOTA",
       "slug": "la-picota",
       "origen": "barrio",
-      "segundos": 10.3
+      "segundos": 7.8
     },
     {
       "clave": "fincaraiz_venta_apartamento_marco-fidel-suarez-i",
@@ -52448,7 +52448,7 @@
       "zona": "MARCO FIDEL SUAREZ I",
       "slug": "marco-fidel-suarez-i",
       "origen": "barrio",
-      "segundos": 9.9
+      "segundos": 8.6
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_marco-fidel-suarez-i",
@@ -52460,19 +52460,19 @@
       "zona": "MARCO FIDEL SUAREZ I",
       "slug": "marco-fidel-suarez-i",
       "origen": "barrio",
-      "segundos": 9.3
+      "segundos": 8.1
     },
     {
       "clave": "fincaraiz_venta_apartamento_molinos-del-sur",
       "etiqueta": "Venta - Apartamento - MOLINOS DEL SUR",
       "archivo": "fincaraiz_venta_apartamento_molinos-del-sur.json",
-      "total": 8,
+      "total": 9,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "MOLINOS DEL SUR",
       "slug": "molinos-del-sur",
       "origen": "barrio",
-      "segundos": 10.1
+      "segundos": 7.9
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_molinos-del-sur",
@@ -52484,7 +52484,7 @@
       "zona": "MOLINOS DEL SUR",
       "slug": "molinos-del-sur",
       "origen": "barrio",
-      "segundos": 5.5
+      "segundos": 5.6
     },
     {
       "clave": "fincaraiz_venta_apartamento_san-carlos",
@@ -52496,7 +52496,7 @@
       "zona": "SAN CARLOS",
       "slug": "san-carlos",
       "origen": "barrio",
-      "segundos": 7.2
+      "segundos": 5.6
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_san-carlos",
@@ -52508,7 +52508,7 @@
       "zona": "SAN CARLOS",
       "slug": "san-carlos",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 7.6
     },
     {
       "clave": "fincaraiz_venta_apartamento_tunjuelito",
@@ -52520,19 +52520,19 @@
       "zona": "TUNJUELITO",
       "slug": "tunjuelito",
       "origen": "barrio",
-      "segundos": 10.9
+      "segundos": 8.3
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_tunjuelito",
       "etiqueta": "Arriendo - Apartamento - TUNJUELITO",
       "archivo": "fincaraiz_arriendo_apartamento_tunjuelito.json",
-      "total": 13,
+      "total": 15,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "TUNJUELITO",
       "slug": "tunjuelito",
       "origen": "barrio",
-      "segundos": 9.6
+      "segundos": 7.6
     },
     {
       "clave": "fincaraiz_venta_apartamento_el-carmen",
@@ -53144,7 +53144,7 @@
       "zona": "LA AURORA",
       "slug": "la-aurora",
       "origen": "barrio",
-      "segundos": 9.1
+      "segundos": 8.5
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-aurora",
@@ -53156,7 +53156,7 @@
       "zona": "LA AURORA",
       "slug": "la-aurora",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 7.9
     },
     {
       "clave": "fincaraiz_venta_apartamento_la-esperanza",
@@ -53288,19 +53288,19 @@
       "zona": "LA PAZ",
       "slug": "la-paz",
       "origen": "barrio",
-      "segundos": 11.7
+      "segundos": 9.0
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-paz",
       "etiqueta": "Arriendo - Apartamento - LA PAZ",
       "archivo": "fincaraiz_arriendo_apartamento_la-paz.json",
-      "total": 9,
+      "total": 8,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "LA PAZ",
       "slug": "la-paz",
       "origen": "barrio",
-      "segundos": 11.4
+      "segundos": 8.7
     },
     {
       "clave": "fincaraiz_venta_apartamento_lago-gaitan",
@@ -56264,7 +56264,7 @@
       "zona": "LA CABANA",
       "slug": "la-cabana",
       "origen": "barrio",
-      "segundos": 7.7
+      "segundos": 8.4
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-cabana",
@@ -56276,7 +56276,7 @@
       "zona": "LA CABANA",
       "slug": "la-cabana",
       "origen": "barrio",
-      "segundos": 7.4
+      "segundos": 7.8
     },
     {
       "clave": "fincaraiz_venta_apartamento_la-estrada",
@@ -72056,7 +72056,7 @@
       "zona": "YOMASA",
       "slug": "yomasa",
       "origen": "barrio",
-      "segundos": 5.9
+      "segundos": 5.7
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_yomasa",
@@ -72068,7 +72068,7 @@
       "zona": "YOMASA",
       "slug": "yomasa",
       "origen": "barrio",
-      "segundos": 5.5
+      "segundos": 7.2
     },
     {
       "clave": "fincaraiz_venta_apartamento_barrancas-oriental-i",
@@ -72728,7 +72728,7 @@
       "zona": "JUAN REY SUR",
       "slug": "juan-rey-sur",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 7.5
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_juan-rey-sur",
@@ -72740,7 +72740,7 @@
       "zona": "JUAN REY SUR",
       "slug": "juan-rey-sur",
       "origen": "barrio",
-      "segundos": 5.3
+      "segundos": 5.4
     },
     {
       "clave": "fincaraiz_venta_apartamento_las-violetas",
@@ -74720,7 +74720,7 @@
       "zona": "LA MARICHUELA",
       "slug": "la-marichuela",
       "origen": "barrio",
-      "segundos": 8.1
+      "segundos": 7.7
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-marichuela",
@@ -74732,7 +74732,7 @@
       "zona": "LA MARICHUELA",
       "slug": "la-marichuela",
       "origen": "barrio",
-      "segundos": 7.9
+      "segundos": 7.8
     },
     {
       "clave": "fincaraiz_venta_apartamento_la-requilina-rural",
@@ -74792,7 +74792,7 @@
       "zona": "MONTEBLANCO",
       "slug": "monteblanco",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 8.3
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_monteblanco",
@@ -74804,7 +74804,7 @@
       "zona": "MONTEBLANCO",
       "slug": "monteblanco",
       "origen": "barrio",
-      "segundos": 11.4
+      "segundos": 8.0
     },
     {
       "clave": "fincaraiz_venta_apartamento_tunjuelito-rural",
@@ -78074,13 +78074,13 @@
       "clave": "fincaraiz_venta_apartamento_carmen-del-sol",
       "etiqueta": "Venta - Apartamento - CARMEN DEL SOL",
       "archivo": "fincaraiz_venta_apartamento_carmen-del-sol.json",
-      "total": 9,
+      "total": 8,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "CARMEN DEL SOL",
       "slug": "carmen-del-sol",
       "origen": "barrio",
-      "segundos": 9.2
+      "segundos": 12.6
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_carmen-del-sol",
@@ -78092,19 +78092,19 @@
       "zona": "CARMEN DEL SOL",
       "slug": "carmen-del-sol",
       "origen": "barrio",
-      "segundos": 8.3
+      "segundos": 8.0
     },
     {
       "clave": "fincaraiz_venta_apartamento_danubio",
       "etiqueta": "Venta - Apartamento - DANUBIO",
       "archivo": "fincaraiz_venta_apartamento_danubio.json",
-      "total": 10,
+      "total": 9,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "DANUBIO",
       "slug": "danubio",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.3
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_danubio",
@@ -78116,7 +78116,7 @@
       "zona": "DANUBIO",
       "slug": "danubio",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 7.8
     },
     {
       "clave": "fincaraiz_venta_apartamento_danubio-ii",
@@ -78128,7 +78128,7 @@
       "zona": "DANUBIO II",
       "slug": "danubio-ii",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 5.7
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_danubio-ii",
@@ -78140,7 +78140,7 @@
       "zona": "DANUBIO II",
       "slug": "danubio-ii",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 5.2
     },
     {
       "clave": "fincaraiz_venta_apartamento_diana-turbay",
@@ -78152,19 +78152,19 @@
       "zona": "DIANA TURBAY",
       "slug": "diana-turbay",
       "origen": "barrio",
-      "segundos": 8.1
+      "segundos": 5.5
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_diana-turbay",
       "etiqueta": "Arriendo - Apartamento - DIANA TURBAY",
       "archivo": "fincaraiz_arriendo_apartamento_diana-turbay.json",
-      "total": 5,
+      "total": 6,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "DIANA TURBAY",
       "slug": "diana-turbay",
       "origen": "barrio",
-      "segundos": 13.0
+      "segundos": 7.8
     },
     {
       "clave": "fincaraiz_venta_apartamento_diana-turbay-cultivos",
@@ -78176,7 +78176,7 @@
       "zona": "DIANA TURBAY CULTIVOS",
       "slug": "diana-turbay-cultivos",
       "origen": "barrio",
-      "segundos": 6.5
+      "segundos": 5.8
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_diana-turbay-cultivos",
@@ -78188,13 +78188,13 @@
       "zona": "DIANA TURBAY CULTIVOS",
       "slug": "diana-turbay-cultivos",
       "origen": "barrio",
-      "segundos": 6.6
+      "segundos": 5.7
     },
     {
       "clave": "fincaraiz_venta_apartamento_guiparma",
       "etiqueta": "Venta - Apartamento - GUIPARMA",
       "archivo": "fincaraiz_venta_apartamento_guiparma.json",
-      "total": 14,
+      "total": 15,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "GUIPARMA",
@@ -78206,25 +78206,25 @@
       "clave": "fincaraiz_arriendo_apartamento_guiparma",
       "etiqueta": "Arriendo - Apartamento - GUIPARMA",
       "archivo": "fincaraiz_arriendo_apartamento_guiparma.json",
-      "total": 3,
+      "total": 4,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "GUIPARMA",
       "slug": "guiparma",
       "origen": "barrio",
-      "segundos": 8.2
+      "segundos": 7.7
     },
     {
       "clave": "fincaraiz_venta_apartamento_la-fiscala-norte",
       "etiqueta": "Venta - Apartamento - LA FISCALA NORTE",
       "archivo": "fincaraiz_venta_apartamento_la-fiscala-norte.json",
-      "total": 3,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "LA FISCALA NORTE",
       "slug": "la-fiscala-norte",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 5.9
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-fiscala-norte",
@@ -78236,7 +78236,7 @@
       "zona": "LA FISCALA NORTE",
       "slug": "la-fiscala-norte",
       "origen": "barrio",
-      "segundos": 8.1
+      "segundos": 7.8
     },
     {
       "clave": "fincaraiz_venta_apartamento_la-picota-oriental",
@@ -78248,7 +78248,7 @@
       "zona": "LA PICOTA ORIENTAL",
       "slug": "la-picota-oriental",
       "origen": "barrio",
-      "segundos": 6.1
+      "segundos": 5.8
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-picota-oriental",
@@ -78260,7 +78260,7 @@
       "zona": "LA PICOTA ORIENTAL",
       "slug": "la-picota-oriental",
       "origen": "barrio",
-      "segundos": 5.8
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_la-resurreccion",
@@ -78272,7 +78272,7 @@
       "zona": "LA RESURRECCION",
       "slug": "la-resurreccion",
       "origen": "barrio",
-      "segundos": 5.7
+      "segundos": 5.8
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-resurreccion",
@@ -78284,7 +78284,7 @@
       "zona": "LA RESURRECCION",
       "slug": "la-resurreccion",
       "origen": "barrio",
-      "segundos": 5.5
+      "segundos": 5.4
     },
     {
       "clave": "fincaraiz_venta_apartamento_la-resurreccion-i",
@@ -78296,7 +78296,7 @@
       "zona": "LA RESURRECCION I",
       "slug": "la-resurreccion-i",
       "origen": "barrio",
-      "segundos": 5.9
+      "segundos": 6.1
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-resurreccion-i",
@@ -78308,7 +78308,7 @@
       "zona": "LA RESURRECCION I",
       "slug": "la-resurreccion-i",
       "origen": "barrio",
-      "segundos": 5.5
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_los-arrayanes-ii",
@@ -78320,7 +78320,7 @@
       "zona": "LOS ARRAYANES II",
       "slug": "los-arrayanes-ii",
       "origen": "barrio",
-      "segundos": 6.1
+      "segundos": 10.1
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_los-arrayanes-ii",
@@ -78338,13 +78338,13 @@
       "clave": "fincaraiz_venta_apartamento_los-molinos",
       "etiqueta": "Venta - Apartamento - LOS MOLINOS",
       "archivo": "fincaraiz_venta_apartamento_los-molinos.json",
-      "total": 5,
+      "total": 4,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "LOS MOLINOS",
       "slug": "los-molinos",
       "origen": "barrio",
-      "segundos": 11.0
+      "segundos": 7.9
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_los-molinos",
@@ -78356,7 +78356,7 @@
       "zona": "LOS MOLINOS",
       "slug": "los-molinos",
       "origen": "barrio",
-      "segundos": 7.7
+      "segundos": 7.8
     },
     {
       "clave": "fincaraiz_venta_apartamento_marruecos",
@@ -78368,7 +78368,7 @@
       "zona": "MARRUECOS",
       "slug": "marruecos",
       "origen": "barrio",
-      "segundos": 8.3
+      "segundos": 8.2
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_marruecos",
@@ -78380,7 +78380,7 @@
       "zona": "MARRUECOS",
       "slug": "marruecos",
       "origen": "barrio",
-      "segundos": 5.9
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_palermo-sur",
@@ -78392,7 +78392,7 @@
       "zona": "PALERMO SUR",
       "slug": "palermo-sur",
       "origen": "barrio",
-      "segundos": 5.9
+      "segundos": 5.8
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_palermo-sur",
@@ -78404,19 +78404,19 @@
       "zona": "PALERMO SUR",
       "slug": "palermo-sur",
       "origen": "barrio",
-      "segundos": 5.8
+      "segundos": 5.5
     },
     {
       "clave": "fincaraiz_venta_apartamento_puerto-rico",
       "etiqueta": "Venta - Apartamento - PUERTO RICO",
       "archivo": "fincaraiz_venta_apartamento_puerto-rico.json",
-      "total": 6,
+      "total": 7,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "PUERTO RICO",
       "slug": "puerto-rico",
       "origen": "barrio",
-      "segundos": 8.6
+      "segundos": 8.3
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_puerto-rico",
@@ -78428,19 +78428,19 @@
       "zona": "PUERTO RICO",
       "slug": "puerto-rico",
       "origen": "barrio",
-      "segundos": 6.1
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_san-agustin",
       "etiqueta": "Venta - Apartamento - SAN AGUSTIN",
       "archivo": "fincaraiz_venta_apartamento_san-agustin.json",
-      "total": 5,
+      "total": 4,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "SAN AGUSTIN",
       "slug": "san-agustin",
       "origen": "barrio",
-      "segundos": 8.3
+      "segundos": 8.0
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_san-agustin",
@@ -78464,7 +78464,7 @@
       "zona": "BOLONIA I",
       "slug": "bolonia-i",
       "origen": "barrio",
-      "segundos": 5.4
+      "segundos": 5.8
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_bolonia-i",
@@ -78476,7 +78476,7 @@
       "zona": "BOLONIA I",
       "slug": "bolonia-i",
       "origen": "barrio",
-      "segundos": 5.3
+      "segundos": 5.2
     },
     {
       "clave": "fincaraiz_venta_apartamento_fiscala-alta",
@@ -78488,7 +78488,7 @@
       "zona": "FISCALA ALTA",
       "slug": "fiscala-alta",
       "origen": "barrio",
-      "segundos": 5.2
+      "segundos": 5.8
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_fiscala-alta",
@@ -78512,7 +78512,7 @@
       "zona": "LA BELLEZA",
       "slug": "la-belleza",
       "origen": "barrio",
-      "segundos": 7.8
+      "segundos": 8.3
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-belleza",
@@ -78524,7 +78524,7 @@
       "zona": "LA BELLEZA",
       "slug": "la-belleza",
       "origen": "barrio",
-      "segundos": 5.1
+      "segundos": 5.2
     },
     {
       "clave": "fincaraiz_venta_apartamento_alaska",
@@ -78536,7 +78536,7 @@
       "zona": "ALASKA",
       "slug": "alaska",
       "origen": "barrio",
-      "segundos": 5.8
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_alaska",
@@ -78548,19 +78548,19 @@
       "zona": "ALASKA",
       "slug": "alaska",
       "origen": "barrio",
-      "segundos": 5.5
+      "segundos": 5.8
     },
     {
       "clave": "fincaraiz_venta_apartamento_barranquillita",
       "etiqueta": "Venta - Apartamento - BARRANQUILLITA",
       "archivo": "fincaraiz_venta_apartamento_barranquillita.json",
-      "total": 3,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "BARRANQUILLITA",
       "slug": "barranquillita",
       "origen": "barrio",
-      "segundos": 8.3
+      "segundos": 6.2
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_barranquillita",
@@ -78572,19 +78572,19 @@
       "zona": "BARRANQUILLITA",
       "slug": "barranquillita",
       "origen": "barrio",
-      "segundos": 5.4
+      "segundos": 6.2
     },
     {
       "clave": "fincaraiz_venta_apartamento_bolonia",
       "etiqueta": "Venta - Apartamento - BOLONIA",
       "archivo": "fincaraiz_venta_apartamento_bolonia.json",
-      "total": 0,
+      "total": 3,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "BOLONIA",
       "slug": "bolonia",
       "origen": "barrio",
-      "segundos": 5.3
+      "segundos": 8.3
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_bolonia",
@@ -78596,7 +78596,7 @@
       "zona": "BOLONIA",
       "slug": "bolonia",
       "origen": "barrio",
-      "segundos": 5.2
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_chapinerito",
@@ -78608,7 +78608,7 @@
       "zona": "CHAPINERITO",
       "slug": "chapinerito",
       "origen": "barrio",
-      "segundos": 7.8
+      "segundos": 8.8
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_chapinerito",
@@ -78620,19 +78620,19 @@
       "zona": "CHAPINERITO",
       "slug": "chapinerito",
       "origen": "barrio",
-      "segundos": 5.1
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_chuniza",
       "etiqueta": "Venta - Apartamento - CHUNIZA",
       "archivo": "fincaraiz_venta_apartamento_chuniza.json",
-      "total": 3,
+      "total": 6,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "CHUNIZA",
       "slug": "chuniza",
       "origen": "barrio",
-      "segundos": 8.0
+      "segundos": 8.3
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_chuniza",
@@ -78656,7 +78656,7 @@
       "zona": "DUITAMA",
       "slug": "duitama",
       "origen": "barrio",
-      "segundos": 5.8
+      "segundos": 5.9
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_duitama",
@@ -78668,7 +78668,7 @@
       "zona": "DUITAMA",
       "slug": "duitama",
       "origen": "barrio",
-      "segundos": 5.4
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_el-bosque",
@@ -78680,7 +78680,7 @@
       "zona": "EL BOSQUE",
       "slug": "el-bosque",
       "origen": "barrio",
-      "segundos": 7.8
+      "segundos": 8.5
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_el-bosque",
@@ -78692,7 +78692,7 @@
       "zona": "EL BOSQUE",
       "slug": "el-bosque",
       "origen": "barrio",
-      "segundos": 5.1
+      "segundos": 5.4
     },
     {
       "clave": "fincaraiz_venta_apartamento_el-bosque-central",
@@ -78704,7 +78704,7 @@
       "zona": "EL BOSQUE CENTRAL",
       "slug": "el-bosque-central",
       "origen": "barrio",
-      "segundos": 5.1
+      "segundos": 6.2
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_el-bosque-central",
@@ -78716,7 +78716,7 @@
       "zona": "EL BOSQUE CENTRAL",
       "slug": "el-bosque-central",
       "origen": "barrio",
-      "segundos": 5.1
+      "segundos": 5.4
     },
     {
       "clave": "fincaraiz_venta_apartamento_el-bosque-central-i",
@@ -78728,7 +78728,7 @@
       "zona": "EL BOSQUE CENTRAL I",
       "slug": "el-bosque-central-i",
       "origen": "barrio",
-      "segundos": 5.1
+      "segundos": 6.0
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_el-bosque-central-i",
@@ -78740,7 +78740,7 @@
       "zona": "EL BOSQUE CENTRAL I",
       "slug": "el-bosque-central-i",
       "origen": "barrio",
-      "segundos": 5.1
+      "segundos": 6.0
     },
     {
       "clave": "fincaraiz_venta_apartamento_el-curubo",
@@ -78752,7 +78752,7 @@
       "zona": "EL CURUBO",
       "slug": "el-curubo",
       "origen": "barrio",
-      "segundos": 8.3
+      "segundos": 10.6
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_el-curubo",
@@ -78764,7 +78764,7 @@
       "zona": "EL CURUBO",
       "slug": "el-curubo",
       "origen": "barrio",
-      "segundos": 5.5
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_el-nevado",
@@ -78776,7 +78776,7 @@
       "zona": "EL NEVADO",
       "slug": "el-nevado",
       "origen": "barrio",
-      "segundos": 8.4
+      "segundos": 8.1
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_el-nevado",
@@ -78788,7 +78788,7 @@
       "zona": "EL NEVADO",
       "slug": "el-nevado",
       "origen": "barrio",
-      "segundos": 5.3
+      "segundos": 5.2
     },
     {
       "clave": "fincaraiz_venta_apartamento_el-nevado-ii",
@@ -78800,7 +78800,7 @@
       "zona": "EL NEVADO II",
       "slug": "el-nevado-ii",
       "origen": "barrio",
-      "segundos": 6.0
+      "segundos": 5.7
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_el-nevado-ii",
@@ -78812,7 +78812,7 @@
       "zona": "EL NEVADO II",
       "slug": "el-nevado-ii",
       "origen": "barrio",
-      "segundos": 5.3
+      "segundos": 5.4
     },
     {
       "clave": "fincaraiz_venta_apartamento_el-pedregal",
@@ -78824,19 +78824,19 @@
       "zona": "EL PEDREGAL",
       "slug": "el-pedregal",
       "origen": "barrio",
-      "segundos": 5.7
+      "segundos": 5.8
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_el-pedregal",
       "etiqueta": "Arriendo - Apartamento - EL PEDREGAL",
       "archivo": "fincaraiz_arriendo_apartamento_el-pedregal.json",
-      "total": 14,
+      "total": 16,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "EL PEDREGAL",
       "slug": "el-pedregal",
       "origen": "barrio",
-      "segundos": 7.9
+      "segundos": 8.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_el-pedregal-ii",
@@ -78848,7 +78848,7 @@
       "zona": "EL PEDREGAL II",
       "slug": "el-pedregal-ii",
       "origen": "barrio",
-      "segundos": 5.0
+      "segundos": 6.0
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_el-pedregal-ii",
@@ -78860,31 +78860,31 @@
       "zona": "EL PEDREGAL II",
       "slug": "el-pedregal-ii",
       "origen": "barrio",
-      "segundos": 5.4
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_gran-yomasa",
       "etiqueta": "Venta - Apartamento - GRAN YOMASA",
       "archivo": "fincaraiz_venta_apartamento_gran-yomasa.json",
-      "total": 8,
+      "total": 11,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "GRAN YOMASA",
       "slug": "gran-yomasa",
       "origen": "barrio",
-      "segundos": 7.8
+      "segundos": 8.5
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_gran-yomasa",
       "etiqueta": "Arriendo - Apartamento - GRAN YOMASA",
       "archivo": "fincaraiz_arriendo_apartamento_gran-yomasa.json",
-      "total": 4,
+      "total": 3,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "GRAN YOMASA",
       "slug": "gran-yomasa",
       "origen": "barrio",
-      "segundos": 8.1
+      "segundos": 7.8
     },
     {
       "clave": "fincaraiz_venta_apartamento_la-andrea",
@@ -78896,19 +78896,19 @@
       "zona": "LA ANDREA",
       "slug": "la-andrea",
       "origen": "barrio",
-      "segundos": 8.0
+      "segundos": 7.9
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-andrea",
       "etiqueta": "Arriendo - Apartamento - LA ANDREA",
       "archivo": "fincaraiz_arriendo_apartamento_la-andrea.json",
-      "total": 4,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "LA ANDREA",
       "slug": "la-andrea",
       "origen": "barrio",
-      "segundos": 8.1
+      "segundos": 5.4
     },
     {
       "clave": "fincaraiz_venta_apartamento_la-comuna",
@@ -78920,7 +78920,7 @@
       "zona": "LA COMUNA",
       "slug": "la-comuna",
       "origen": "barrio",
-      "segundos": 5.4
+      "segundos": 5.9
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-comuna",
@@ -78932,31 +78932,31 @@
       "zona": "LA COMUNA",
       "slug": "la-comuna",
       "origen": "barrio",
-      "segundos": 5.2
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_la-esperanza-sur",
       "etiqueta": "Venta - Apartamento - LA ESPERANZA SUR",
       "archivo": "fincaraiz_venta_apartamento_la-esperanza-sur.json",
-      "total": 20,
+      "total": 21,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "LA ESPERANZA SUR",
       "slug": "la-esperanza-sur",
       "origen": "barrio",
-      "segundos": 7.9
+      "segundos": 8.2
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-esperanza-sur",
       "etiqueta": "Arriendo - Apartamento - LA ESPERANZA SUR",
       "archivo": "fincaraiz_arriendo_apartamento_la-esperanza-sur.json",
-      "total": 20,
+      "total": 21,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "LA ESPERANZA SUR",
       "slug": "la-esperanza-sur",
       "origen": "barrio",
-      "segundos": 7.8
+      "segundos": 7.9
     },
     {
       "clave": "fincaraiz_venta_apartamento_la-esperanza-sur-i",
@@ -78968,7 +78968,7 @@
       "zona": "LA ESPERANZA SUR I",
       "slug": "la-esperanza-sur-i",
       "origen": "barrio",
-      "segundos": 5.3
+      "segundos": 5.8
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-esperanza-sur-i",
@@ -78980,7 +78980,7 @@
       "zona": "LA ESPERANZA SUR I",
       "slug": "la-esperanza-sur-i",
       "origen": "barrio",
-      "segundos": 5.3
+      "segundos": 5.4
     },
     {
       "clave": "fincaraiz_venta_apartamento_la-fiscala",
@@ -78992,7 +78992,7 @@
       "zona": "LA FISCALA",
       "slug": "la-fiscala",
       "origen": "barrio",
-      "segundos": 5.6
+      "segundos": 5.7
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-fiscala",
@@ -79016,7 +79016,7 @@
       "zona": "LA REFORMA",
       "slug": "la-reforma",
       "origen": "barrio",
-      "segundos": 7.8
+      "segundos": 5.7
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_la-reforma",
@@ -79040,7 +79040,7 @@
       "zona": "LOS OLIVARES",
       "slug": "los-olivares",
       "origen": "barrio",
-      "segundos": 8.3
+      "segundos": 8.2
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_los-olivares",
@@ -79052,7 +79052,7 @@
       "zona": "LOS OLIVARES",
       "slug": "los-olivares",
       "origen": "barrio",
-      "segundos": 5.5
+      "segundos": 5.6
     },
     {
       "clave": "fincaraiz_venta_apartamento_nuevo-san-andres",
@@ -79064,7 +79064,7 @@
       "zona": "NUEVO SAN ANDRES",
       "slug": "nuevo-san-andres",
       "origen": "barrio",
-      "segundos": 5.2
+      "segundos": 5.7
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_nuevo-san-andres",
@@ -79076,7 +79076,7 @@
       "zona": "NUEVO SAN ANDRES",
       "slug": "nuevo-san-andres",
       "origen": "barrio",
-      "segundos": 5.3
+      "segundos": 5.4
     },
     {
       "clave": "fincaraiz_venta_apartamento_pepinitos",
@@ -79112,19 +79112,19 @@
       "zona": "PORVENIR",
       "slug": "porvenir",
       "origen": "barrio",
-      "segundos": 8.0
+      "segundos": 8.6
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_porvenir",
       "etiqueta": "Arriendo - Apartamento - PORVENIR",
       "archivo": "fincaraiz_arriendo_apartamento_porvenir.json",
-      "total": 9,
+      "total": 11,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "PORVENIR",
       "slug": "porvenir",
       "origen": "barrio",
-      "segundos": 7.9
+      "segundos": 8.0
     },
     {
       "clave": "fincaraiz_venta_apartamento_salazar-usme",
@@ -79136,7 +79136,7 @@
       "zona": "SALAZAR USME",
       "slug": "salazar-usme",
       "origen": "barrio",
-      "segundos": 5.4
+      "segundos": 5.5
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_salazar-usme",
@@ -79160,7 +79160,7 @@
       "zona": "SAN FELIPE DE USME",
       "slug": "san-felipe-de-usme",
       "origen": "barrio",
-      "segundos": 5.7
+      "segundos": 5.4
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_san-felipe-de-usme",
@@ -79172,7 +79172,7 @@
       "zona": "SAN FELIPE DE USME",
       "slug": "san-felipe-de-usme",
       "origen": "barrio",
-      "segundos": 5.4
+      "segundos": 5.5
     },
     {
       "clave": "fincaraiz_venta_apartamento_san-felipe-de-usme-rural",
@@ -79184,7 +79184,7 @@
       "zona": "SAN FELIPE DE USME RURAL",
       "slug": "san-felipe-de-usme-rural",
       "origen": "barrio",
-      "segundos": 5.8
+      "segundos": 5.9
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_san-felipe-de-usme-rural",
@@ -79196,7 +79196,7 @@
       "zona": "SAN FELIPE DE USME RURAL",
       "slug": "san-felipe-de-usme-rural",
       "origen": "barrio",
-      "segundos": 5.4
+      "segundos": 5.3
     },
     {
       "clave": "fincaraiz_venta_apartamento_san-juan-bautista",
@@ -79214,13 +79214,13 @@
       "clave": "fincaraiz_arriendo_apartamento_san-juan-bautista",
       "etiqueta": "Arriendo - Apartamento - SAN JUAN BAUTISTA",
       "archivo": "fincaraiz_arriendo_apartamento_san-juan-bautista.json",
-      "total": 4,
+      "total": 3,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "SAN JUAN BAUTISTA",
       "slug": "san-juan-bautista",
       "origen": "barrio",
-      "segundos": 8.1
+      "segundos": 7.8
     },
     {
       "clave": "fincaraiz_venta_apartamento_santa-librada",
@@ -79232,7 +79232,7 @@
       "zona": "SANTA LIBRADA",
       "slug": "santa-librada",
       "origen": "barrio",
-      "segundos": 5.2
+      "segundos": 5.9
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_santa-librada",
@@ -79244,19 +79244,19 @@
       "zona": "SANTA LIBRADA",
       "slug": "santa-librada",
       "origen": "barrio",
-      "segundos": 5.3
+      "segundos": 5.2
     },
     {
       "clave": "fincaraiz_venta_apartamento_santa-librada-norte",
       "etiqueta": "Venta - Apartamento - SANTA LIBRADA NORTE",
       "archivo": "fincaraiz_venta_apartamento_santa-librada-norte.json",
-      "total": 3,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "SANTA LIBRADA NORTE",
       "slug": "santa-librada-norte",
       "origen": "barrio",
-      "segundos": 8.1
+      "segundos": 6.0
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_santa-librada-norte",
@@ -79268,7 +79268,7 @@
       "zona": "SANTA LIBRADA NORTE",
       "slug": "santa-librada-norte",
       "origen": "barrio",
-      "segundos": 5.2
+      "segundos": 5.4
     },
     {
       "clave": "fincaraiz_venta_apartamento_tocaimita-oriental",
@@ -79280,7 +79280,7 @@
       "zona": "TOCAIMITA ORIENTAL",
       "slug": "tocaimita-oriental",
       "origen": "barrio",
-      "segundos": 5.7
+      "segundos": 5.9
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_tocaimita-oriental",
@@ -79292,7 +79292,7 @@
       "zona": "TOCAIMITA ORIENTAL",
       "slug": "tocaimita-oriental",
       "origen": "barrio",
-      "segundos": 5.4
+      "segundos": 5.2
     },
     {
       "clave": "fincaraiz_venta_apartamento_tocaimita-oriental-i",
@@ -79304,7 +79304,7 @@
       "zona": "TOCAIMITA ORIENTAL I",
       "slug": "tocaimita-oriental-i",
       "origen": "barrio",
-      "segundos": 5.8
+      "segundos": 5.6
     },
     {
       "clave": "fincaraiz_arriendo_apartamento_tocaimita-oriental-i",
