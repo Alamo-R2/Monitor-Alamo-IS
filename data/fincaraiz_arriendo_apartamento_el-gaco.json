@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "EL GACO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.18 19:46",
+  "generado": "2026.OCT.24 13:44",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2800000,
+      "area": 70.0,
+      "precioM2": 40000,
+      "administracion": null,
+      "barrio": "GRAN GRANADA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gran-granada-bogota/194442163",
+      "titulo": "Apartamento en Arriendo en Gran granada, Bogotá",
+      "id_domus": "194442163",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.7246883,
+      "lon": -74.1335934,
+      "location_type": "exacta",
+      "zonaConsulta": "EL GACO",
+      "zonaSlug": "el-gaco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2199042,
+      "area": 71.0,
+      "precioM2": 30972,
+      "administracion": 590958.0,
+      "barrio": "EL DORADO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-dorado-bogota/194446429",
+      "titulo": "Apartamento en Arriendo en El dorado, Bogotá",
+      "id_domus": "194446429",
+      "fechaPublicacion": "2026-10-23",
+      "lat": 4.7229434,
+      "lon": -74.1324851,
+      "location_type": "exacta",
+      "zonaConsulta": "EL GACO",
+      "zonaSlug": "el-gaco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -72,15 +136,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1300000,
+      "precio": 1200000,
       "area": 65.0,
-      "precioM2": 20000,
+      "precioM2": 18462,
       "administracion": null,
       "barrio": "LA FAENA",
       "upl": "Engativá",
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -130,38 +194,6 @@
       "fechaPublicacion": "2026-07-03",
       "lat": 4.7237593,
       "lon": -74.1349595,
-      "location_type": "exacta",
-      "zonaConsulta": "EL GACO",
-      "zonaSlug": "el-gaco",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2100000,
-      "area": 55.0,
-      "precioM2": 38182,
-      "administracion": null,
-      "barrio": "GRAN GRANADA",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gran-granada-bogota/194279162",
-      "titulo": "Apartamento en Arriendo en Gran granada, Bogotá",
-      "id_domus": "194279162",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.7225479,
-      "lon": -74.1332293,
       "location_type": "exacta",
       "zonaConsulta": "EL GACO",
       "zonaSlug": "el-gaco",

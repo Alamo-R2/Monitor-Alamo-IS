@@ -1,110 +1,14 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 11,
   "zona": "AEROPUERTO EL DORADO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.18 19:46",
+  "generado": "2026.OCT.24 13:44",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 25.0,
-      "precioM2": 12400000,
-      "administracion": 167000.0,
-      "barrio": "AEROPUERTO EL DORADO",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194072080",
-      "titulo": "Apartamento en Venta en Bogotá",
-      "id_domus": "194072080",
-      "fechaPublicacion": "2026-08-04",
-      "lat": 4.686533,
-      "lon": -74.124656,
-      "location_type": "exacta",
-      "zonaConsulta": "AEROPUERTO EL DORADO",
-      "zonaSlug": "aeropuerto-el-dorado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 300000000,
-      "area": 28.0,
-      "precioM2": 10714286,
-      "administracion": 166900.0,
-      "barrio": "AEROPUERTO EL DORADO",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/194135640",
-      "titulo": "Apartamento en Venta en Fontibon, Bogotá",
-      "id_domus": "194135640",
-      "fechaPublicacion": "2026-08-19",
-      "lat": 4.686533,
-      "lon": -74.124656,
-      "location_type": "exacta",
-      "zonaConsulta": "AEROPUERTO EL DORADO",
-      "zonaSlug": "aeropuerto-el-dorado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 250000000,
-      "area": 28.0,
-      "precioM2": 8928571,
-      "administracion": 166900.0,
-      "barrio": "AEROPUERTO EL DORADO",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194318936",
-      "titulo": "Apartamento en Venta en Bogotá",
-      "id_domus": "194318936",
-      "fechaPublicacion": "2026-09-25",
-      "lat": 4.686392,
-      "lon": -74.125115,
-      "location_type": "exacta",
-      "zonaConsulta": "AEROPUERTO EL DORADO",
-      "zonaSlug": "aeropuerto-el-dorado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +40,167 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 215000000,
+      "area": 45.0,
+      "precioM2": 4777778,
+      "administracion": 201365.0,
+      "barrio": "AEROPUERTO EL DORADO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194426936",
+      "titulo": "Apartamento en Venta en Bogotá",
+      "id_domus": "194426936",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.6966482,
+      "lon": -74.1344685,
+      "location_type": "exacta",
+      "zonaConsulta": "AEROPUERTO EL DORADO",
+      "zonaSlug": "aeropuerto-el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 310000000,
+      "area": 25.0,
+      "precioM2": 12400000,
+      "administracion": 167000.0,
+      "barrio": "AEROPUERTO EL DORADO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194072080",
+      "titulo": "Apartamento en Venta en Bogotá",
+      "id_domus": "194072080",
+      "fechaPublicacion": "2026-08-04",
+      "lat": 4.686533,
+      "lon": -74.124656,
+      "location_type": "exacta",
+      "zonaConsulta": "AEROPUERTO EL DORADO",
+      "zonaSlug": "aeropuerto-el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 300000000,
+      "area": 28.0,
+      "precioM2": 10714286,
+      "administracion": 166900.0,
+      "barrio": "AEROPUERTO EL DORADO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/194135640",
+      "titulo": "Apartamento en Venta en Fontibon, Bogotá",
+      "id_domus": "194135640",
+      "fechaPublicacion": "2026-08-19",
+      "lat": 4.686533,
+      "lon": -74.124656,
+      "location_type": "exacta",
+      "zonaConsulta": "AEROPUERTO EL DORADO",
+      "zonaSlug": "aeropuerto-el-dorado",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 28.0,
+      "precioM2": 8571429,
+      "administracion": 166900.0,
+      "barrio": "AEROPUERTO EL DORADO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194318936",
+      "titulo": "Apartamento en Venta en Bogotá",
+      "id_domus": "194318936",
+      "fechaPublicacion": "2026-09-25",
+      "lat": 4.686392,
+      "lon": -74.125115,
+      "location_type": "exacta",
+      "zonaConsulta": "AEROPUERTO EL DORADO",
+      "zonaSlug": "aeropuerto-el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 345000000,
+      "area": 68.0,
+      "precioM2": 5073529,
+      "administracion": null,
+      "barrio": "AEROPUERTO EL DORADO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194451239",
+      "titulo": "Apartamento en Venta en Bogotá",
+      "id_domus": "194451239",
+      "fechaPublicacion": "2026-10-24",
+      "lat": 4.693884735934,
+      "lon": -74.15007207887,
+      "location_type": "exacta",
+      "zonaConsulta": "AEROPUERTO EL DORADO",
+      "zonaSlug": "aeropuerto-el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],

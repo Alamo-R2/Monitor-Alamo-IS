@@ -1,14 +1,78 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 9,
   "zona": "TUNJUELITO RURAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 05:09",
+  "generado": "2026.OCT.24 13:44",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 12000000,
+      "area": 245.0,
+      "precioM2": 48980,
+      "administracion": 2311000.0,
+      "barrio": "LA CAROLINA",
+      "upl": "Cuenca del Tunjuelo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-carolina-bogota/194172892",
+      "titulo": "Apartamento en Arriendo en La carolina, Bogotá",
+      "id_domus": "194172892",
+      "fechaPublicacion": "2026-08-27",
+      "lat": 4.7075991275803,
+      "lon": -74.039312922648,
+      "location_type": "exacta",
+      "zonaConsulta": "TUNJUELITO RURAL",
+      "zonaSlug": "tunjuelito-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 90.0,
+      "precioM2": 22222,
+      "administracion": null,
+      "barrio": "PRADO VERANIEGO",
+      "upl": "Cuenca del Tunjuelo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-prado-veraniego-bogota/194215101",
+      "titulo": "Apartamento en Arriendo en Prado veraniego, Bogotá",
+      "id_domus": "194215101",
+      "fechaPublicacion": "2026-09-05",
+      "lat": 4.716492,
+      "lon": -74.065412,
+      "location_type": "exacta",
+      "zonaConsulta": "TUNJUELITO RURAL",
+      "zonaSlug": "tunjuelito-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -24,7 +88,7 @@
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -56,7 +120,7 @@
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -88,7 +152,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 4,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -120,7 +184,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -152,7 +216,7 @@
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -184,7 +248,7 @@
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -216,7 +280,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -226,102 +290,6 @@
       "fechaPublicacion": "2026-09-29",
       "lat": 4.6737468,
       "lon": -74.0599517,
-      "location_type": "exacta",
-      "zonaConsulta": "TUNJUELITO RURAL",
-      "zonaSlug": "tunjuelito-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3650000,
-      "area": 70.0,
-      "precioM2": 52143,
-      "administracion": null,
-      "barrio": "CEDRITOS",
-      "upl": "Cuenca del Tunjuelo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cedritos-bogota/194343981",
-      "titulo": "Apartamento en Arriendo en Cedritos, Bogotá",
-      "id_domus": "194343981",
-      "fechaPublicacion": "2026-10-01",
-      "lat": 4.7264162,
-      "lon": -74.0451686,
-      "location_type": "exacta",
-      "zonaConsulta": "TUNJUELITO RURAL",
-      "zonaSlug": "tunjuelito-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4200000,
-      "area": 82.0,
-      "precioM2": 51220,
-      "administracion": null,
-      "barrio": "PASADENA",
-      "upl": "Cuenca del Tunjuelo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 2,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-pasadena-bogota/194342388",
-      "titulo": "Apartamento en Arriendo en Pasadena, Bogotá",
-      "id_domus": "194342388",
-      "fechaPublicacion": "2026-10-01",
-      "lat": 4.6941326,
-      "lon": -74.063576,
-      "location_type": "exacta",
-      "zonaConsulta": "TUNJUELITO RURAL",
-      "zonaSlug": "tunjuelito-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3750000,
-      "area": 77.0,
-      "precioM2": 48701,
-      "administracion": null,
-      "barrio": "LA CALLEJA",
-      "upl": "Cuenca del Tunjuelo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 2,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-calleja-bogota/194354762",
-      "titulo": "Apartamento en Arriendo en La Calleja, Bogotá",
-      "id_domus": "194354762",
-      "fechaPublicacion": "2026-10-04",
-      "lat": 4.7056622,
-      "lon": -74.0422382,
       "location_type": "exacta",
       "zonaConsulta": "TUNJUELITO RURAL",
       "zonaSlug": "tunjuelito-rural",

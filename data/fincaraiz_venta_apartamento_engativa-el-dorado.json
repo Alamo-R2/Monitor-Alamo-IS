@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 18,
+  "total": 21,
   "zona": "ENGATIVA EL DORADO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.18 19:46",
+  "generado": "2026.OCT.24 13:44",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 390000000,
-      "area": 72.0,
-      "precioM2": 5416667,
-      "administracion": 412000.0,
-      "barrio": "GRAN GRANADA",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194334195",
-      "titulo": "Apartamento en Venta en Gran granada, Bogotá",
-      "id_domus": "194334195",
-      "fechaPublicacion": "2026-09-29",
-      "lat": 4.7231869,
-      "lon": -74.1298992,
-      "location_type": "exacta",
-      "zonaConsulta": "ENGATIVA EL DORADO",
-      "zonaSlug": "engativa-el-dorado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +104,103 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 390000000,
+      "area": 72.0,
+      "precioM2": 5416667,
+      "administracion": 412000.0,
+      "barrio": "GRAN GRANADA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194334195",
+      "titulo": "Apartamento en Venta en Gran granada, Bogotá",
+      "id_domus": "194334195",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.7231869,
+      "lon": -74.1298992,
+      "location_type": "exacta",
+      "zonaConsulta": "ENGATIVA EL DORADO",
+      "zonaSlug": "engativa-el-dorado",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 59.0,
+      "precioM2": 4237288,
+      "administracion": 299500.0,
+      "barrio": "ENGATIVA EL DORADO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194429209",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194429209",
+      "fechaPublicacion": "2026-10-20",
+      "lat": 4.7220627,
+      "lon": -74.1299464,
+      "location_type": "exacta",
+      "zonaConsulta": "ENGATIVA EL DORADO",
+      "zonaSlug": "engativa-el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 440000000,
+      "area": 70.0,
+      "precioM2": 6285714,
+      "administracion": 470300.0,
+      "barrio": "ENGATIVA EL DORADO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194427724",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194427724",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.723039367135,
+      "lon": -74.129368591402,
+      "location_type": "exacta",
+      "zonaConsulta": "ENGATIVA EL DORADO",
+      "zonaSlug": "engativa-el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -168,71 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 400000000,
-      "area": 70.0,
-      "precioM2": 5714286,
-      "administracion": null,
-      "barrio": "VILLAS DE GRANADA",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villas-de-granada-bogota/194400660",
-      "titulo": "Apartamento en Venta en Villas de Granada, Bogotá",
-      "id_domus": "194400660",
-      "fechaPublicacion": "2026-10-14",
-      "lat": 4.7232042198966,
-      "lon": -74.129873514175,
-      "location_type": "exacta",
-      "zonaConsulta": "ENGATIVA EL DORADO",
-      "zonaSlug": "engativa-el-dorado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 550000000,
-      "area": 83.0,
-      "precioM2": 6626506,
-      "administracion": 670000.0,
+      "precio": 350000000,
+      "area": 66.0,
+      "precioM2": 5303030,
+      "administracion": 250000.0,
       "barrio": "GRAN GRANADA",
       "upl": "Engativá",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4.0,
+      "parqueaderos": null,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194201538",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194438178",
       "titulo": "Apartamento en Venta en Gran granada, Bogotá",
-      "id_domus": "194201538",
-      "fechaPublicacion": "2026-09-02",
-      "lat": 4.722527397322,
-      "lon": -74.131689315039,
+      "id_domus": "194438178",
+      "fechaPublicacion": "2026-10-21",
+      "lat": 4.722356244327,
+      "lon": -74.130051580318,
       "location_type": "exacta",
       "zonaConsulta": "ENGATIVA EL DORADO",
       "zonaSlug": "engativa-el-dorado",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 66.0,
+      "precioM2": 3787879,
+      "administracion": 200000.0,
+      "barrio": "GRAN GRANADA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194441500",
+      "titulo": "Apartamento en Venta en Gran granada, Bogotá",
+      "id_domus": "194441500",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.7220922091733,
+      "lon": -74.129637479782,
+      "location_type": "exacta",
+      "zonaConsulta": "ENGATIVA EL DORADO",
+      "zonaSlug": "engativa-el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +392,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 650000000,
+      "area": 110.0,
+      "precioM2": 5909091,
+      "administracion": 670000.0,
+      "barrio": "GRAN GRANADA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194427825",
+      "titulo": "Apartamento en Venta en Gran granada, Bogotá",
+      "id_domus": "194427825",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.7240950213499,
+      "lon": -74.130974831034,
+      "location_type": "exacta",
+      "zonaConsulta": "ENGATIVA EL DORADO",
+      "zonaSlug": "engativa-el-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
