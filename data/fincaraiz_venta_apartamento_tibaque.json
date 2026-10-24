@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.23 14:30",
+  "generado": "2026.OCT.24 05:09",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 355000000,
-      "area": 67.0,
-      "precioM2": 5298507,
-      "administracion": 383000,
-      "barrio": "SAN CRISTOBAL NORTE",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-cristobal-norte-bogota/193358413",
-      "titulo": "Apartamento en Venta en San cristobal norte, Bogotá",
-      "id_domus": "193358413",
-      "fechaPublicacion": "2026-02-04",
-      "lat": 4.5600789,
-      "lon": -74.0685347,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBAQUE",
-      "zonaSlug": "tibaque",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-08-07",
       "lat": 4.5545412,
       "lon": -74.0828318,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBAQUE",
+      "zonaSlug": "tibaque",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 355000000,
+      "area": 67.0,
+      "precioM2": 5298507,
+      "administracion": 383000,
+      "barrio": "SAN CRISTOBAL NORTE",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-cristobal-norte-bogota/193358413",
+      "titulo": "Apartamento en Venta en San cristobal norte, Bogotá",
+      "id_domus": "193358413",
+      "fechaPublicacion": "2026-02-04",
+      "lat": 4.5600789,
+      "lon": -74.0685347,
       "location_type": "exacta",
       "zonaConsulta": "TIBAQUE",
       "zonaSlug": "tibaque",
