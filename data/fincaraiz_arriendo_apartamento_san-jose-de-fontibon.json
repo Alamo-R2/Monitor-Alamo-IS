@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "SAN JOSE DE FONTIBON",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.18 23:45",
+  "generado": "2026.OCT.24 17:03",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 84.0,
+      "precioM2": 21429,
+      "administracion": null,
+      "barrio": "SAN JOSE DE FONTIBON",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/194447508",
+      "titulo": "Apartamento en Arriendo en Fontibon, Bogotá",
+      "id_domus": "194447508",
+      "fechaPublicacion": "2026-10-23",
+      "lat": 4.6832959,
+      "lon": -74.132036,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN JOSE DE FONTIBON",
+      "zonaSlug": "san-jose-de-fontibon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],

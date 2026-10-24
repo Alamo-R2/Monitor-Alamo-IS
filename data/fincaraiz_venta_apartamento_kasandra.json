@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 12,
+  "total": 14,
   "zona": "KASANDRA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.18 23:45",
+  "generado": "2026.OCT.24 17:03",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -206,6 +206,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 190000000,
+      "area": 46.0,
+      "precioM2": 4130435,
+      "administracion": 152300.0,
+      "barrio": "KASANDRA",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194426944",
+      "titulo": "Apartamento en Venta en Bogotá",
+      "id_domus": "194426944",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.693051,
+      "lon": -74.1681218,
+      "location_type": "exacta",
+      "zonaConsulta": "KASANDRA",
+      "zonaSlug": "kasandra",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 215000000,
       "area": 45.0,
       "precioM2": 4777778,
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 212000000,
+      "area": 48.0,
+      "precioM2": 4416667,
+      "administracion": 183000.0,
+      "barrio": "ZONA FRANCA",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-zona-franca-bogota/194446056",
+      "titulo": "Apartamento en Venta en Zona franca, Bogotá",
+      "id_domus": "194446056",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.6947877,
+      "lon": -74.1684935,
+      "location_type": "exacta",
+      "zonaConsulta": "KASANDRA",
+      "zonaSlug": "kasandra",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],

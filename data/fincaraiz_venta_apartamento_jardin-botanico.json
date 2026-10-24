@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.22 05:32",
+  "generado": "2026.OCT.24 17:03",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 720000000,
+      "area": 114.0,
+      "precioM2": 6315789,
+      "administracion": 150000.0,
+      "barrio": "NORMANDIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/194445514",
+      "titulo": "Apartamento en Venta en Normandia, Bogotá",
+      "id_domus": "194445514",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.6642185,
+      "lon": -74.1090997,
+      "location_type": "exacta",
+      "zonaConsulta": "JARDIN BOTANICO",
+      "zonaSlug": "jardin-botanico",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 727000000,
       "area": 48.0,
       "precioM2": 15145833,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -162,38 +194,6 @@
       "fechaPublicacion": "2026-01-29",
       "lat": 4.65607001663,
       "lon": -74.100130030001,
-      "location_type": "exacta",
-      "zonaConsulta": "JARDIN BOTANICO",
-      "zonaSlug": "jardin-botanico",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1350000000,
-      "area": 300.0,
-      "precioM2": 4500000,
-      "administracion": 100000.0,
-      "barrio": "JARDIN BOTANICO",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 6,
-      "banos": 4,
-      "parqueaderos": 6.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194105169",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194105169",
-      "fechaPublicacion": "2026-08-11",
-      "lat": 4.6674936419421,
-      "lon": -74.105294513074,
       "location_type": "exacta",
       "zonaConsulta": "JARDIN BOTANICO",
       "zonaSlug": "jardin-botanico",

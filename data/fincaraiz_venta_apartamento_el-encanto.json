@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 20,
+  "total": 21,
   "zona": "EL ENCANTO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.22 00:17",
+  "generado": "2026.OCT.24 17:03",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -398,9 +398,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 545000000,
+      "precio": 530000000,
       "area": 76.0,
-      "precioM2": 7171053,
+      "precioM2": 6973684,
       "administracion": 450000.0,
       "barrio": "EL ENCANTO",
       "upl": "Tabora",
@@ -425,6 +425,38 @@
     },
     {
       "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 460000000,
+      "area": 66.0,
+      "precioM2": 6969697,
+      "administracion": 362000.0,
+      "barrio": "EL ENCANTO",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194450084",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194450084",
+      "fechaPublicacion": "2026-10-23",
+      "lat": 4.676604,
+      "lon": -74.10735099,
+      "location_type": "exacta",
+      "zonaConsulta": "EL ENCANTO",
+      "zonaSlug": "el-encanto",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],

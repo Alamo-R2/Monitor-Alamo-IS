@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 15,
+  "total": 13,
   "zona": "PARQUE POPULAR SALITRE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.22 05:32",
+  "generado": "2026.OCT.24 17:03",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -174,6 +174,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1688000,
+      "area": 30.0,
+      "precioM2": 56267,
+      "administracion": 165000.0,
+      "barrio": "PARQUE POPULAR SALITRE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194443209",
+      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
+      "id_domus": "194443209",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.6687415,
+      "lon": -74.0848872,
+      "location_type": "exacta",
+      "zonaConsulta": "PARQUE POPULAR SALITRE",
+      "zonaSlug": "parque-popular-salitre",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1685000,
       "area": 31.0,
       "precioM2": 54355,
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -226,38 +258,6 @@
       "fechaPublicacion": "2023-01-04",
       "lat": 4.6726913452148,
       "lon": -74.088088989258,
-      "location_type": "exacta",
-      "zonaConsulta": "PARQUE POPULAR SALITRE",
-      "zonaSlug": "parque-popular-salitre",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1900000,
-      "area": 26.0,
-      "precioM2": 73077,
-      "administracion": null,
-      "barrio": "PARQUE POPULAR SALITRE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194357931",
-      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
-      "id_domus": "194357931",
-      "fechaPublicacion": "2026-10-05",
-      "lat": 4.6687928,
-      "lon": -74.0848985,
       "location_type": "exacta",
       "zonaConsulta": "PARQUE POPULAR SALITRE",
       "zonaSlug": "parque-popular-salitre",
@@ -334,70 +334,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 29.0,
-      "precioM2": 62069,
-      "administracion": null,
-      "barrio": "JOSE JOAQUIN VARGAS",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-jose-joaquin-vargas-bogota/194338233",
-      "titulo": "Apartamento en Arriendo en Jose joaquin vargas, Bogotá",
-      "id_domus": "194338233",
-      "fechaPublicacion": "2026-09-30",
-      "lat": 4.6687928,
-      "lon": -74.0848985,
-      "location_type": "exacta",
-      "zonaConsulta": "PARQUE POPULAR SALITRE",
-      "zonaSlug": "parque-popular-salitre",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1760000,
-      "area": 30.0,
-      "precioM2": 58667,
-      "administracion": null,
-      "barrio": "PARQUE POPULAR SALITRE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-balcones-del-salitre-bogota/194324298",
-      "titulo": "Apartamento en Arriendo en Balcones del salitre, Bogotá",
-      "id_domus": "194324298",
-      "fechaPublicacion": "2026-09-28",
-      "lat": 4.668948852769,
-      "lon": -74.084642619865,
-      "location_type": "exacta",
-      "zonaConsulta": "PARQUE POPULAR SALITRE",
-      "zonaSlug": "parque-popular-salitre",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1723300,
       "area": 30.0,
       "precioM2": 57443,
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],

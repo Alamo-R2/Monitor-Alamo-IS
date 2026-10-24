@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.18 23:45",
+  "generado": "2026.OCT.24 17:03",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1300000000,
-      "area": 122.0,
-      "precioM2": 10655738,
-      "administracion": 680000.0,
+      "precio": 360000000,
+      "area": 60.0,
+      "precioM2": 6000000,
+      "administracion": 340290.0,
       "barrio": "FERROCAJA FONTIBON",
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 5,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-occidental-bogota/193364794",
-      "titulo": "Apartamento en Venta en Ciudad Salitre Occidental, Bogotá",
-      "id_domus": "193364794",
-      "fechaPublicacion": "2026-02-05",
-      "lat": 4.6727144,
-      "lon": -74.1237289,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/194184494",
+      "titulo": "Apartamento en Venta en Fontibon, Bogotá",
+      "id_domus": "194184494",
+      "fechaPublicacion": "2026-08-30",
+      "lat": 4.6677925,
+      "lon": -74.1310978,
       "location_type": "exacta",
       "zonaConsulta": "FERROCAJA FONTIBON",
       "zonaSlug": "ferrocaja-fontibon",
@@ -41,6 +41,38 @@
     },
     {
       "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 450000000,
+      "area": 69.0,
+      "precioM2": 6521739,
+      "administracion": 400000.0,
+      "barrio": "MODELIA OCCIDENTAL",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-modelia-occidental-bogota/194233386",
+      "titulo": "Apartamento en Venta en Modelia Occidental, Bogotá",
+      "id_domus": "194233386",
+      "fechaPublicacion": "2026-09-09",
+      "lat": 4.6716319,
+      "lon": -74.126581,
+      "location_type": "exacta",
+      "zonaConsulta": "FERROCAJA FONTIBON",
+      "zonaSlug": "ferrocaja-fontibon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -185,7 +217,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 4,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/194355263",
@@ -200,7 +232,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 270000000,
+      "area": 57.0,
+      "precioM2": 4736842,
+      "administracion": null,
+      "barrio": "FERROCAJA FONTIBON",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-parques-de-salamanca-bogota/193912876",
+      "titulo": "Apartamento en Venta en Parques de salamanca, Bogotá",
+      "id_domus": "193912876",
+      "fechaPublicacion": "2026-06-24",
+      "lat": 4.6767984,
+      "lon": -74.134783,
+      "location_type": "exacta",
+      "zonaConsulta": "FERROCAJA FONTIBON",
+      "zonaSlug": "ferrocaja-fontibon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 64.0,
+      "precioM2": 5468750,
+      "administracion": 300000.0,
+      "barrio": "MODELIA",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-modelia-bogota/194440332",
+      "titulo": "Apartamento en Venta en Modelia, Bogotá",
+      "id_domus": "194440332",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.670977482885,
+      "lon": -74.129000824936,
+      "location_type": "exacta",
+      "zonaConsulta": "FERROCAJA FONTIBON",
+      "zonaSlug": "ferrocaja-fontibon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -232,71 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 628000000,
-      "area": 94.0,
-      "precioM2": 6680851,
-      "administracion": null,
-      "barrio": "FERROCAJA FONTIBON",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-hayuelos-bogota/194102497",
-      "titulo": "Apartamento en Venta en Hayuelos, Bogotá",
-      "id_domus": "194102497",
-      "fechaPublicacion": "2026-08-11",
-      "lat": 4.6665568994862,
-      "lon": -74.13330555024,
-      "location_type": "exacta",
-      "zonaConsulta": "FERROCAJA FONTIBON",
-      "zonaSlug": "ferrocaja-fontibon",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 298000000,
-      "area": 57.0,
-      "precioM2": 5228070,
-      "administracion": 250000.0,
-      "barrio": "FERROCAJA FONTIBON",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-hayuelos-bogota/194188926",
-      "titulo": "Apartamento en Venta en Hayuelos, Bogotá",
-      "id_domus": "194188926",
-      "fechaPublicacion": "2026-08-31",
-      "lat": 4.6662403903089,
-      "lon": -74.134433517474,
-      "location_type": "exacta",
-      "zonaConsulta": "FERROCAJA FONTIBON",
-      "zonaSlug": "ferrocaja-fontibon",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -354,38 +386,6 @@
       "fechaPublicacion": "2026-09-03",
       "lat": 4.6969622,
       "lon": -74.1637669,
-      "location_type": "exacta",
-      "zonaConsulta": "FERROCAJA FONTIBON",
-      "zonaSlug": "ferrocaja-fontibon",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 530000000,
-      "area": 109.0,
-      "precioM2": 4862385,
-      "administracion": null,
-      "barrio": "CAPELLANIA",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-capellania-bogota/194311388",
-      "titulo": "Apartamento en Venta en Capellania, Bogotá",
-      "id_domus": "194311388",
-      "fechaPublicacion": "2026-09-24",
-      "lat": 4.6682601,
-      "lon": -74.1339058,
       "location_type": "exacta",
       "zonaConsulta": "FERROCAJA FONTIBON",
       "zonaSlug": "ferrocaja-fontibon",
@@ -494,6 +494,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 549500000,
+      "area": 86.0,
+      "precioM2": 6389535,
+      "administracion": 440000.0,
+      "barrio": "MODELIA",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-modelia-bogota/194416219",
+      "titulo": "Apartamento en Venta en Modelia, Bogotá",
+      "id_domus": "194416219",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.672424,
+      "lon": -74.1283176,
+      "location_type": "exacta",
+      "zonaConsulta": "FERROCAJA FONTIBON",
+      "zonaSlug": "ferrocaja-fontibon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 390000000,
       "area": 64.0,
       "precioM2": 6093750,
@@ -520,7 +552,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 485000000,
+      "area": 88.0,
+      "precioM2": 5511364,
+      "administracion": 200000.0,
+      "barrio": "MODELIA",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-modelia-bogota/194267399",
+      "titulo": "Apartamento en Venta en Modelia, Bogotá",
+      "id_domus": "194267399",
+      "fechaPublicacion": "2026-09-16",
+      "lat": 4.6708073,
+      "lon": -74.1298315,
+      "location_type": "exacta",
+      "zonaConsulta": "FERROCAJA FONTIBON",
+      "zonaSlug": "ferrocaja-fontibon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -552,39 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 360000000,
-      "area": 60.0,
-      "precioM2": 6000000,
-      "administracion": 340290.0,
-      "barrio": "FERROCAJA FONTIBON",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/194184494",
-      "titulo": "Apartamento en Venta en Fontibon, Bogotá",
-      "id_domus": "194184494",
-      "fechaPublicacion": "2026-08-30",
-      "lat": 4.6677925,
-      "lon": -74.1310978,
-      "location_type": "exacta",
-      "zonaConsulta": "FERROCAJA FONTIBON",
-      "zonaSlug": "ferrocaja-fontibon",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -610,38 +642,6 @@
       "fechaPublicacion": "2026-08-30",
       "lat": 4.6744261,
       "lon": -74.1351233,
-      "location_type": "exacta",
-      "zonaConsulta": "FERROCAJA FONTIBON",
-      "zonaSlug": "ferrocaja-fontibon",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 370000000,
-      "area": 65.0,
-      "precioM2": 5692308,
-      "administracion": 286100.0,
-      "barrio": "FERROCAJA FONTIBON",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-hayuelos-bogota/194235975",
-      "titulo": "Apartamento en Venta en Hayuelos, Bogotá",
-      "id_domus": "194235975",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.6744508,
-      "lon": -74.1350754,
       "location_type": "exacta",
       "zonaConsulta": "FERROCAJA FONTIBON",
       "zonaSlug": "ferrocaja-fontibon",
