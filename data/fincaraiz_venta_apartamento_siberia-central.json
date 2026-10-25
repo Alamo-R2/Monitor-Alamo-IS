@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 6,
   "zona": "SIBERIA CENTRAL",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.23 05:30",
+  "generado": "2026.OCT.25 05:26",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,38 +110,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 270000000,
-      "area": 39.0,
-      "precioM2": 6923077,
-      "administracion": 387000,
-      "barrio": "SIBERIA CENTRAL",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-alto-bogota/193252323",
-      "titulo": "Apartamento en Venta en Chapinero Alto, Bogotá",
-      "id_domus": "193252323",
-      "fechaPublicacion": "2026-01-07",
-      "lat": 4.6300864418088,
-      "lon": -74.062303303204,
-      "location_type": "exacta",
-      "zonaConsulta": "SIBERIA CENTRAL",
-      "zonaSlug": "siberia-central",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 2200000000,
       "area": 260.0,
       "precioM2": 8461538,
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],

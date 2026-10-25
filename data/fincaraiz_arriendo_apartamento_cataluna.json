@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.23 05:30",
+  "generado": "2026.OCT.25 05:26",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1723000,
-      "area": 40.0,
-      "precioM2": 43075,
-      "administracion": 377000.0,
-      "barrio": "CATALUNA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/7930630",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "7930630",
-      "fechaPublicacion": "2023-02-20",
-      "lat": 4.62928295135498,
-      "lon": -74.0654678344727,
-      "location_type": "exacta",
-      "zonaConsulta": "CATALUNA",
-      "zonaSlug": "cataluna",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-10-20",
       "lat": 4.6313406,
       "lon": -74.0636783,
+      "location_type": "exacta",
+      "zonaConsulta": "CATALUNA",
+      "zonaSlug": "cataluna",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1623000,
+      "area": 40.0,
+      "precioM2": 40575,
+      "administracion": 377000.0,
+      "barrio": "CATALUNA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/7930630",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "7930630",
+      "fechaPublicacion": "2023-02-20",
+      "lat": 4.62928295135498,
+      "lon": -74.0654678344727,
       "location_type": "exacta",
       "zonaConsulta": "CATALUNA",
       "zonaSlug": "cataluna",
@@ -142,6 +142,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1450000,
+      "area": 28.0,
+      "precioM2": 51786,
+      "administracion": 553000.0,
+      "barrio": "CATALUNA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/193972526",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "193972526",
+      "fechaPublicacion": "2026-07-09",
+      "lat": 4.6284875,
+      "lon": -74.0646645,
+      "location_type": "exacta",
+      "zonaConsulta": "CATALUNA",
+      "zonaSlug": "cataluna",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2576000,
       "area": 50.0,
       "precioM2": 51520,
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3500000,
+      "area": 50.0,
+      "precioM2": 70000,
+      "administracion": null,
+      "barrio": "CATALUNA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194446660",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194446660",
+      "fechaPublicacion": "2026-10-23",
+      "lat": 4.6312384,
+      "lon": -74.062754,
+      "location_type": "exacta",
+      "zonaConsulta": "CATALUNA",
+      "zonaSlug": "cataluna",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -488,39 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1450000,
-      "area": 28.0,
-      "precioM2": 51786,
-      "administracion": 553000.0,
-      "barrio": "CATALUNA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/193972526",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "193972526",
-      "fechaPublicacion": "2026-07-09",
-      "lat": 4.6284875,
-      "lon": -74.0646645,
-      "location_type": "exacta",
-      "zonaConsulta": "CATALUNA",
-      "zonaSlug": "cataluna",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-10-08",
       "lat": 4.6318061,
       "lon": -74.0639903,
-      "location_type": "exacta",
-      "zonaConsulta": "CATALUNA",
-      "zonaSlug": "cataluna",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2240000,
-      "area": 32.0,
-      "precioM2": 70000,
-      "administracion": null,
-      "barrio": "PARDO RUBIO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-pardo-rubio-bogota/193992491",
-      "titulo": "Apartamento en Arriendo en Pardo rubio, Bogotá",
-      "id_domus": "193992491",
-      "fechaPublicacion": "2026-07-15",
-      "lat": 4.6309854991492,
-      "lon": -74.064361539496,
       "location_type": "exacta",
       "zonaConsulta": "CATALUNA",
       "zonaSlug": "cataluna",

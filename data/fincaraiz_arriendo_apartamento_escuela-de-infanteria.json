@@ -5,10 +5,74 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.19 21:47",
+  "generado": "2026.OCT.25 05:26",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3100000,
+      "area": 32.0,
+      "precioM2": 96875,
+      "administracion": 400000.0,
+      "barrio": "ESCUELA DE INFANTERIA",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-paula-bogota/194409728",
+      "titulo": "Apartamento en Arriendo en Santa Paula, Bogotá",
+      "id_domus": "194409728",
+      "fechaPublicacion": "2026-10-15",
+      "lat": 4.688883742638,
+      "lon": -74.041612946448,
+      "location_type": "exacta",
+      "zonaConsulta": "ESCUELA DE INFANTERIA",
+      "zonaSlug": "escuela-de-infanteria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4000000,
+      "area": 70.0,
+      "precioM2": 57143,
+      "administracion": null,
+      "barrio": "ESCUELA DE INFANTERIA",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-paula-bogota/194354503",
+      "titulo": "Apartamento en Arriendo en Santa Paula, Bogotá",
+      "id_domus": "194354503",
+      "fechaPublicacion": "2026-10-04",
+      "lat": 4.686808006226,
+      "lon": -74.043354873566,
+      "location_type": "exacta",
+      "zonaConsulta": "ESCUELA DE INFANTERIA",
+      "zonaSlug": "escuela-de-infanteria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -130,70 +194,6 @@
       "fechaPublicacion": "2026-05-19",
       "lat": 4.6815153,
       "lon": -74.0426174,
-      "location_type": "exacta",
-      "zonaConsulta": "ESCUELA DE INFANTERIA",
-      "zonaSlug": "escuela-de-infanteria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3500000,
-      "area": 60.0,
-      "precioM2": 58333,
-      "administracion": null,
-      "barrio": "CHICO NORTE",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/194312105",
-      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
-      "id_domus": "194312105",
-      "fechaPublicacion": "2026-09-24",
-      "lat": 4.6831005,
-      "lon": -74.0448106,
-      "location_type": "exacta",
-      "zonaConsulta": "ESCUELA DE INFANTERIA",
-      "zonaSlug": "escuela-de-infanteria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3100000,
-      "area": 32.0,
-      "precioM2": 96875,
-      "administracion": 400000.0,
-      "barrio": "ESCUELA DE INFANTERIA",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-paula-bogota/194409728",
-      "titulo": "Apartamento en Arriendo en Santa Paula, Bogotá",
-      "id_domus": "194409728",
-      "fechaPublicacion": "2026-10-15",
-      "lat": 4.688883742638,
-      "lon": -74.041612946448,
       "location_type": "exacta",
       "zonaConsulta": "ESCUELA DE INFANTERIA",
       "zonaSlug": "escuela-de-infanteria",
@@ -398,38 +398,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3800000,
-      "area": 113.0,
-      "precioM2": 33628,
-      "administracion": 1200000.0,
-      "barrio": "RINCON DEL CHICO",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-rincon-del-chico-bogota/194145686",
-      "titulo": "Apartamento en Arriendo en Rincon del chico, Bogotá",
-      "id_domus": "194145686",
-      "fechaPublicacion": "2026-08-21",
-      "lat": 4.685650004393,
-      "lon": -74.044019977583,
-      "location_type": "exacta",
-      "zonaConsulta": "ESCUELA DE INFANTERIA",
-      "zonaSlug": "escuela-de-infanteria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 2750000,
       "area": 47.0,
       "precioM2": 58511,
@@ -456,39 +424,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 9000000,
-      "area": 125.0,
-      "precioM2": 72000,
-      "administracion": null,
-      "barrio": "CHICO NORTE",
+      "precio": 4300000,
+      "area": 106.0,
+      "precioM2": 40566,
+      "administracion": 585400.0,
+      "barrio": "ESCUELA DE INFANTERIA",
       "upl": "Chapinero",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
+      "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1.0,
+      "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/194237039",
-      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
-      "id_domus": "194237039",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.6813996749172,
-      "lon": -74.043199126338,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-paula-bogota/194445057",
+      "titulo": "Apartamento en Arriendo en Santa Paula, Bogotá",
+      "id_domus": "194445057",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.6868483,
+      "lon": -74.0430957,
       "location_type": "exacta",
       "zonaConsulta": "ESCUELA DE INFANTERIA",
       "zonaSlug": "escuela-de-infanteria",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -520,39 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3500000,
-      "area": 110.0,
-      "precioM2": 31818,
-      "administracion": 1300000.0,
-      "barrio": "CHICO NORTE",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/194000787",
-      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
-      "id_domus": "194000787",
-      "fechaPublicacion": "2026-07-16",
-      "lat": 4.6841943,
-      "lon": -74.0459577,
-      "location_type": "exacta",
-      "zonaConsulta": "ESCUELA DE INFANTERIA",
-      "zonaSlug": "escuela-de-infanteria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -648,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -674,6 +610,70 @@
       "fechaPublicacion": "2026-09-04",
       "lat": 4.6847128,
       "lon": -74.0457827,
+      "location_type": "exacta",
+      "zonaConsulta": "ESCUELA DE INFANTERIA",
+      "zonaSlug": "escuela-de-infanteria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4400000,
+      "area": 110.0,
+      "precioM2": 40000,
+      "administracion": null,
+      "barrio": "SANTA ANA",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-ana-bogota/193963218",
+      "titulo": "Apartamento en Arriendo en Santa Ana, Bogotá",
+      "id_domus": "193963218",
+      "fechaPublicacion": "2026-07-07",
+      "lat": 4.685809428192,
+      "lon": -74.03569146713,
+      "location_type": "exacta",
+      "zonaConsulta": "ESCUELA DE INFANTERIA",
+      "zonaSlug": "escuela-de-infanteria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 7500000,
+      "area": 170.0,
+      "precioM2": 44118,
+      "administracion": null,
+      "barrio": "ESCUELA DE INFANTERIA",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-zona-norte-bogota/194399260",
+      "titulo": "Apartamento en Arriendo en Zona norte, Bogotá",
+      "id_domus": "194399260",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.6862812,
+      "lon": -74.0439157,
       "location_type": "exacta",
       "zonaConsulta": "ESCUELA DE INFANTERIA",
       "zonaSlug": "escuela-de-infanteria",

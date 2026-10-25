@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.23 05:30",
+  "generado": "2026.OCT.25 05:26",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 8000000,
+      "area": 206.0,
+      "precioM2": 38835,
+      "administracion": null,
+      "barrio": "LOS ROSALES",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-rosales-bogota/194373771",
+      "titulo": "Apartamento en Arriendo en Los rosales, Bogotá",
+      "id_domus": "194373771",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.6503807,
+      "lon": -74.0493934,
+      "location_type": "exacta",
+      "zonaConsulta": "INGEMAR ORIENTAL I",
+      "zonaSlug": "ingemar-oriental-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -34,38 +66,6 @@
       "fechaPublicacion": "2026-08-14",
       "lat": 4.649977462669,
       "lon": -74.050217975886,
-      "location_type": "exacta",
-      "zonaConsulta": "INGEMAR ORIENTAL I",
-      "zonaSlug": "ingemar-oriental-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 12000000,
-      "area": 220.0,
-      "precioM2": 54545,
-      "administracion": null,
-      "barrio": "LOS ROSALES",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 3.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-rosales-bogota/194310776",
-      "titulo": "Apartamento en Arriendo en Los rosales, Bogotá",
-      "id_domus": "194310776",
-      "fechaPublicacion": "2026-09-24",
-      "lat": 4.649947040687,
-      "lon": -74.051294398816,
       "location_type": "exacta",
       "zonaConsulta": "INGEMAR ORIENTAL I",
       "zonaSlug": "ingemar-oriental-i",
@@ -174,38 +174,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 8000000,
-      "area": 206.0,
-      "precioM2": 38835,
-      "administracion": null,
-      "barrio": "LOS ROSALES",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-rosales-bogota/194373771",
-      "titulo": "Apartamento en Arriendo en Los rosales, Bogotá",
-      "id_domus": "194373771",
-      "fechaPublicacion": "2026-10-08",
-      "lat": 4.6503807,
-      "lon": -74.0493934,
-      "location_type": "exacta",
-      "zonaConsulta": "INGEMAR ORIENTAL I",
-      "zonaSlug": "ingemar-oriental-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 10500000,
       "area": 264.0,
       "precioM2": 39773,
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -546,6 +514,38 @@
       "fechaPublicacion": "2026-03-09",
       "lat": 4.6500968,
       "lon": -74.0502653,
+      "location_type": "exacta",
+      "zonaConsulta": "INGEMAR ORIENTAL I",
+      "zonaSlug": "ingemar-oriental-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 12000000,
+      "area": 220.0,
+      "precioM2": 54545,
+      "administracion": null,
+      "barrio": "LOS ROSALES",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-rosales-bogota/194310776",
+      "titulo": "Apartamento en Arriendo en Los rosales, Bogotá",
+      "id_domus": "194310776",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.649947040687,
+      "lon": -74.051294398816,
       "location_type": "exacta",
       "zonaConsulta": "INGEMAR ORIENTAL I",
       "zonaSlug": "ingemar-oriental-i",
