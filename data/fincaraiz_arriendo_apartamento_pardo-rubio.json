@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.25 05:26",
+  "generado": "2026.OCT.25 23:39",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -366,6 +366,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1750000,
+      "area": 45.0,
+      "precioM2": 38889,
+      "administracion": null,
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-central-bogota/194347204",
+      "titulo": "Apartamento en Arriendo en Chapinero central, Bogotá",
+      "id_domus": "194347204",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.631231,
+      "lon": -74.063617,
+      "location_type": "exacta",
+      "zonaConsulta": "PARDO RUBIO",
+      "zonaSlug": "pardo-rubio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1800000,
       "area": 56.0,
       "precioM2": 32143,
@@ -392,15 +424,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3200000,
+      "precio": 3000000,
       "area": 67.0,
-      "precioM2": 47761,
+      "precioM2": 44776,
       "administracion": null,
       "barrio": "PARDO RUBIO",
       "upl": "Centro Histórico",
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-07-31",
       "lat": 4.6312384,
       "lon": -74.062754,
-      "location_type": "exacta",
-      "zonaConsulta": "PARDO RUBIO",
-      "zonaSlug": "pardo-rubio",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4200000,
-      "area": 61.0,
-      "precioM2": 68852,
-      "administracion": null,
-      "barrio": "BOSQUE CALDERON",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosque-calderon-bogota/194055240",
-      "titulo": "Apartamento en Arriendo en Bosque calderon, Bogotá",
-      "id_domus": "194055240",
-      "fechaPublicacion": "2026-07-30",
-      "lat": 4.6382800138734,
-      "lon": -74.06179003141,
       "location_type": "exacta",
       "zonaConsulta": "PARDO RUBIO",
       "zonaSlug": "pardo-rubio",
