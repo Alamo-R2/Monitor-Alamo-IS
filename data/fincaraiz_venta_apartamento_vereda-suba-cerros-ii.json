@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "VEREDA SUBA CERROS II",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.20 20:57",
+  "generado": "2026.OCT.25 17:24",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,9 +14,41 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 823700000,
-      "area": 77.0,
-      "precioM2": 10697403,
+      "precio": 1190000000,
+      "area": 144.0,
+      "precioM2": 8263889,
+      "administracion": 950000.0,
+      "barrio": "VEREDA SUBA CERROS II",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-altos-de-la-colina-bogota/194453496",
+      "titulo": "Apartamento en Venta en Altos de la Colina, Bogotá",
+      "id_domus": "194453496",
+      "fechaPublicacion": "2026-10-24",
+      "lat": 4.7569175,
+      "lon": -74.0661305,
+      "location_type": "exacta",
+      "zonaConsulta": "VEREDA SUBA CERROS II",
+      "zonaSlug": "vereda-suba-cerros-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 736300000,
+      "area": 65.0,
+      "precioM2": 11327692,
       "administracion": null,
       "barrio": "VEREDA SUBA CERROS II",
       "upl": "Britalia",
@@ -28,9 +60,9 @@
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/nuvo-club-residencial-apartamento-en-venta-en-prados-de-la-sabana-bogota/193167254",
-      "titulo": "Nuvó club residencial, Apartamento en Venta en Prados de la Sabana, Bogotá",
-      "id_domus": "193167254",
+      "sourceLink": "https://www.fincaraiz.com.co/nuvo-club-residencial-apartamento-en-venta-en-prados-de-la-sabana-bogota/193167259",
+      "titulo": "NUVÓ CLUB RESIDENCIAL, Apartamento en Venta en Prados de la Sabana, Bogotá",
+      "id_domus": "193167259",
       "fechaPublicacion": "2025-12-04",
       "lat": 4.7588372600471,
       "lon": -74.066886471794,
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
