@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.25 05:26",
+  "generado": "2026.OCT.25 20:12",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3300000,
+      "area": 68.0,
+      "precioM2": 48529,
+      "administracion": 1100000.0,
+      "barrio": "SANTA BARBARA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-bogota/194442098",
+      "titulo": "Apartamento en Arriendo en Santa Barbara, Bogotá",
+      "id_domus": "194442098",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.7029673,
+      "lon": -74.0469259,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA BARBARA OCCIDENTAL",
+      "zonaSlug": "santa-barbara-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-10-22",
       "lat": 4.698675,
       "lon": -74.042458,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA BARBARA OCCIDENTAL",
-      "zonaSlug": "santa-barbara-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 8700000,
-      "area": 147.0,
-      "precioM2": 59184,
-      "administracion": null,
-      "barrio": "COUNTRY CLUB",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-country-club-bogota/193837427",
-      "titulo": "Apartamento en Arriendo en Country club, Bogotá",
-      "id_domus": "193837427",
-      "fechaPublicacion": "2026-06-03",
-      "lat": 4.7048558152494,
-      "lon": -74.044482707977,
       "location_type": "exacta",
       "zonaConsulta": "SANTA BARBARA OCCIDENTAL",
       "zonaSlug": "santa-barbara-occidental",
@@ -302,70 +302,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 12000000,
-      "area": 280.0,
-      "precioM2": 42857,
-      "administracion": null,
-      "barrio": "SANTA BARBARA OCCIDENTAL",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 3.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-occidental-bogota/194180338",
-      "titulo": "Apartamento en Arriendo en Santa barbara occidental, Bogotá",
-      "id_domus": "194180338",
-      "fechaPublicacion": "2026-08-28",
-      "lat": 4.698568445024,
-      "lon": -74.044348967282,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA BARBARA OCCIDENTAL",
-      "zonaSlug": "santa-barbara-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3300000,
-      "area": 68.0,
-      "precioM2": 48529,
-      "administracion": 1100000.0,
-      "barrio": "SANTA BARBARA",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-bogota/194442098",
-      "titulo": "Apartamento en Arriendo en Santa Barbara, Bogotá",
-      "id_domus": "194442098",
-      "fechaPublicacion": "2026-10-22",
-      "lat": 4.7029673,
-      "lon": -74.0469259,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA BARBARA OCCIDENTAL",
-      "zonaSlug": "santa-barbara-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 4500000,
       "area": 71.0,
       "precioM2": 63380,
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +392,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4300000,
+      "area": 68.0,
+      "precioM2": 63235,
+      "administracion": null,
+      "barrio": "SANTA BARBARA OCCIDENTAL",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-occidental-bogota/194423435",
+      "titulo": "Apartamento en Arriendo en Santa barbara occidental, Bogotá",
+      "id_domus": "194423435",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.7051075152316,
+      "lon": -74.031806661302,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA BARBARA OCCIDENTAL",
+      "zonaSlug": "santa-barbara-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-07-24",
       "lat": 4.6991509,
       "lon": -74.0518031,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA BARBARA OCCIDENTAL",
+      "zonaSlug": "santa-barbara-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 5900000,
+      "area": 90.0,
+      "precioM2": 65556,
+      "administracion": null,
+      "barrio": "SANTA BARBARA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-bogota/194372104",
+      "titulo": "Apartamento en Arriendo en Santa Barbara, Bogotá",
+      "id_domus": "194372104",
+      "fechaPublicacion": "2026-10-07",
+      "lat": 4.7023363,
+      "lon": -74.0520439,
       "location_type": "exacta",
       "zonaConsulta": "SANTA BARBARA OCCIDENTAL",
       "zonaSlug": "santa-barbara-occidental",
