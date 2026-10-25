@@ -1,10 +1,75 @@
 {
   "ok": true,
-  "total": 0,
+  "total": 2,
   "zona": "VILLA DEL MAR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.25 07:18",
-  "inmuebles": []
+  "generado": "2026.OCT.25 14:50",
+  "inmuebles": [
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 271000000,
+      "area": 48.0,
+      "precioM2": 5645833,
+      "administracion": null,
+      "barrio": "VILLA DEL MAR",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-cr-brisas-de-tierragrata-bogota-3833240",
+      "titulo": "Apartamento en Villa Del Mar",
+      "id_domus": "3833240",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "VILLA DEL MAR",
+      "zonaSlug": "villa-del-mar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 266000000,
+      "area": 48.0,
+      "precioM2": 5541667,
+      "administracion": null,
+      "barrio": "VILLA DEL MAR",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-villa-del-mar-bogota-3921989",
+      "titulo": "Apartamento en Villa Del Mar",
+      "id_domus": "3921989",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "VILLA DEL MAR",
+      "zonaSlug": "villa-del-mar",
+      "origenZona": "barrio"
+    }
+  ]
 }
