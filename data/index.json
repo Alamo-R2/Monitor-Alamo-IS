@@ -1,7 +1,7 @@
 {
-  "generado": "2026-10-25T07:18:04",
-  "generado_humano": "2026.OCT.25 07:18",
-  "grupo_actual": "barrios_res",
+  "generado": "2026-10-25T12:26:57",
+  "generado_humano": "2026.OCT.25 12:26",
+  "grupo_actual": "barrios",
   "ciudad": "bogota",
   "datasets": [
     {
@@ -16634,13 +16634,13 @@
       "clave": "venta_oficina_sucre",
       "etiqueta": "Venta - Oficina - SUCRE",
       "archivo": "venta_oficina_sucre.json",
-      "total": 9,
+      "total": 12,
       "operacion": "venta",
       "tipo": "oficina",
       "zona": "SUCRE",
       "slug": "sucre",
       "origen": "barrio",
-      "segundos": 6.8
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_oficina_sucre",
@@ -16652,19 +16652,19 @@
       "zona": "SUCRE",
       "slug": "sucre",
       "origen": "barrio",
-      "segundos": 7.3
+      "segundos": 8.9
     },
     {
       "clave": "venta_bodega_sucre",
       "etiqueta": "Venta - Bodega - SUCRE",
       "archivo": "venta_bodega_sucre.json",
-      "total": 52,
+      "total": 55,
       "operacion": "venta",
       "tipo": "bodega",
       "zona": "SUCRE",
       "slug": "sucre",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 9.1
     },
     {
       "clave": "arriendo_bodega_sucre",
@@ -16676,79 +16676,79 @@
       "zona": "SUCRE",
       "slug": "sucre",
       "origen": "barrio",
-      "segundos": 4.5
+      "segundos": 6.4
     },
     {
       "clave": "venta_edificio_sucre",
       "etiqueta": "Venta - Edificio - SUCRE",
       "archivo": "venta_edificio_sucre.json",
-      "total": 50,
+      "total": 49,
       "operacion": "venta",
       "tipo": "edificio",
       "zona": "SUCRE",
       "slug": "sucre",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_edificio_sucre",
       "etiqueta": "Arriendo - Edificio - SUCRE",
       "archivo": "arriendo_edificio_sucre.json",
-      "total": 50,
+      "total": 49,
       "operacion": "arriendo",
       "tipo": "edificio",
       "zona": "SUCRE",
       "slug": "sucre",
       "origen": "barrio",
-      "segundos": 7.0
+      "segundos": 9.0
     },
     {
       "clave": "venta_local_sucre",
       "etiqueta": "Venta - Local - SUCRE",
       "archivo": "venta_local_sucre.json",
-      "total": 15,
+      "total": 21,
       "operacion": "venta",
       "tipo": "local",
       "zona": "SUCRE",
       "slug": "sucre",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_local_sucre",
       "etiqueta": "Arriendo - Local - SUCRE",
       "archivo": "arriendo_local_sucre.json",
-      "total": 4,
+      "total": 5,
       "operacion": "arriendo",
       "tipo": "local",
       "zona": "SUCRE",
       "slug": "sucre",
       "origen": "barrio",
-      "segundos": 7.1
+      "segundos": 8.8
     },
     {
       "clave": "venta_lote_sucre",
       "etiqueta": "Venta - Lote - SUCRE",
       "archivo": "venta_lote_sucre.json",
-      "total": 50,
+      "total": 45,
       "operacion": "venta",
       "tipo": "lote",
       "zona": "SUCRE",
       "slug": "sucre",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_lote_sucre",
       "etiqueta": "Arriendo - Lote - SUCRE",
       "archivo": "arriendo_lote_sucre.json",
-      "total": 50,
+      "total": 44,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "SUCRE",
       "slug": "sucre",
       "origen": "barrio",
-      "segundos": 6.9
+      "segundos": 8.9
     },
     {
       "clave": "venta_oficina_estoril",
@@ -38978,7 +38978,7 @@
       "clave": "venta_oficina_comuneros",
       "etiqueta": "Venta - Oficina - COMUNEROS",
       "archivo": "venta_oficina_comuneros.json",
-      "total": 54,
+      "total": 56,
       "operacion": "venta",
       "tipo": "oficina",
       "zona": "COMUNEROS",
@@ -38990,13 +38990,13 @@
       "clave": "arriendo_oficina_comuneros",
       "etiqueta": "Arriendo - Oficina - COMUNEROS",
       "archivo": "arriendo_oficina_comuneros.json",
-      "total": 59,
+      "total": 65,
       "operacion": "arriendo",
       "tipo": "oficina",
       "zona": "COMUNEROS",
       "slug": "comuneros",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 9.1
     },
     {
       "clave": "venta_bodega_comuneros",
@@ -39014,13 +39014,13 @@
       "clave": "arriendo_bodega_comuneros",
       "etiqueta": "Arriendo - Bodega - COMUNEROS",
       "archivo": "arriendo_bodega_comuneros.json",
-      "total": 7,
+      "total": 3,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "COMUNEROS",
       "slug": "comuneros",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "venta_edificio_comuneros",
@@ -39038,7 +39038,7 @@
       "clave": "arriendo_edificio_comuneros",
       "etiqueta": "Arriendo - Edificio - COMUNEROS",
       "archivo": "arriendo_edificio_comuneros.json",
-      "total": 50,
+      "total": 49,
       "operacion": "arriendo",
       "tipo": "edificio",
       "zona": "COMUNEROS",
@@ -39050,25 +39050,25 @@
       "clave": "venta_local_comuneros",
       "etiqueta": "Venta - Local - COMUNEROS",
       "archivo": "venta_local_comuneros.json",
-      "total": 54,
+      "total": 49,
       "operacion": "venta",
       "tipo": "local",
       "zona": "COMUNEROS",
       "slug": "comuneros",
       "origen": "barrio",
-      "segundos": 9.3
+      "segundos": 9.0
     },
     {
       "clave": "arriendo_local_comuneros",
       "etiqueta": "Arriendo - Local - COMUNEROS",
       "archivo": "arriendo_local_comuneros.json",
-      "total": 0,
+      "total": 55,
       "operacion": "arriendo",
       "tipo": "local",
       "zona": "COMUNEROS",
       "slug": "comuneros",
       "origen": "barrio",
-      "segundos": 6.4
+      "segundos": 9.1
     },
     {
       "clave": "venta_lote_comuneros",
@@ -39080,31 +39080,31 @@
       "zona": "COMUNEROS",
       "slug": "comuneros",
       "origen": "barrio",
-      "segundos": 6.4
+      "segundos": 6.5
     },
     {
       "clave": "arriendo_lote_comuneros",
       "etiqueta": "Arriendo - Lote - COMUNEROS",
       "archivo": "arriendo_lote_comuneros.json",
-      "total": 50,
+      "total": 44,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "COMUNEROS",
       "slug": "comuneros",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 9.0
     },
     {
       "clave": "venta_oficina_estacion-central",
       "etiqueta": "Venta - Oficina - ESTACION CENTRAL",
       "archivo": "venta_oficina_estacion-central.json",
-      "total": 50,
+      "total": 0,
       "operacion": "venta",
       "tipo": "oficina",
       "zona": "ESTACION CENTRAL",
       "slug": "estacion-central",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 6.3
     },
     {
       "clave": "arriendo_oficina_estacion-central",
@@ -39128,19 +39128,19 @@
       "zona": "ESTACION CENTRAL",
       "slug": "estacion-central",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_bodega_estacion-central",
       "etiqueta": "Arriendo - Bodega - ESTACION CENTRAL",
       "archivo": "arriendo_bodega_estacion-central.json",
-      "total": 40,
+      "total": 32,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "ESTACION CENTRAL",
       "slug": "estacion-central",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.9
     },
     {
       "clave": "venta_edificio_estacion-central",
@@ -39158,25 +39158,25 @@
       "clave": "arriendo_edificio_estacion-central",
       "etiqueta": "Arriendo - Edificio - ESTACION CENTRAL",
       "archivo": "arriendo_edificio_estacion-central.json",
-      "total": 50,
+      "total": 44,
       "operacion": "arriendo",
       "tipo": "edificio",
       "zona": "ESTACION CENTRAL",
       "slug": "estacion-central",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 9.1
     },
     {
       "clave": "venta_local_estacion-central",
       "etiqueta": "Venta - Local - ESTACION CENTRAL",
       "archivo": "venta_local_estacion-central.json",
-      "total": 46,
+      "total": 6,
       "operacion": "venta",
       "tipo": "local",
       "zona": "ESTACION CENTRAL",
       "slug": "estacion-central",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_local_estacion-central",
@@ -39200,7 +39200,7 @@
       "zona": "ESTACION CENTRAL",
       "slug": "estacion-central",
       "origen": "barrio",
-      "segundos": 6.3
+      "segundos": 6.4
     },
     {
       "clave": "arriendo_lote_estacion-central",
@@ -39212,7 +39212,7 @@
       "zona": "ESTACION CENTRAL",
       "slug": "estacion-central",
       "origen": "barrio",
-      "segundos": 6.4
+      "segundos": 6.3
     },
     {
       "clave": "venta_oficina_florida",
@@ -106754,13 +106754,13 @@
       "clave": "venta_oficina_santa-teresita",
       "etiqueta": "Venta - Oficina - SANTA TERESITA",
       "archivo": "venta_oficina_santa-teresita.json",
-      "total": 50,
+      "total": 52,
       "operacion": "venta",
       "tipo": "oficina",
       "zona": "SANTA TERESITA",
       "slug": "santa-teresita",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 10.7
     },
     {
       "clave": "arriendo_oficina_santa-teresita",
@@ -106772,7 +106772,7 @@
       "zona": "SANTA TERESITA",
       "slug": "santa-teresita",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 6.4
     },
     {
       "clave": "venta_bodega_santa-teresita",
@@ -106784,7 +106784,7 @@
       "zona": "SANTA TERESITA",
       "slug": "santa-teresita",
       "origen": "barrio",
-      "segundos": 6.1
+      "segundos": 6.3
     },
     {
       "clave": "arriendo_bodega_santa-teresita",
@@ -106796,7 +106796,7 @@
       "zona": "SANTA TERESITA",
       "slug": "santa-teresita",
       "origen": "barrio",
-      "segundos": 6.1
+      "segundos": 6.4
     },
     {
       "clave": "venta_edificio_santa-teresita",
@@ -106808,7 +106808,7 @@
       "zona": "SANTA TERESITA",
       "slug": "santa-teresita",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_edificio_santa-teresita",
@@ -106820,7 +106820,7 @@
       "zona": "SANTA TERESITA",
       "slug": "santa-teresita",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 9.1
     },
     {
       "clave": "venta_local_santa-teresita",
@@ -106832,7 +106832,7 @@
       "zona": "SANTA TERESITA",
       "slug": "santa-teresita",
       "origen": "barrio",
-      "segundos": 6.1
+      "segundos": 6.4
     },
     {
       "clave": "arriendo_local_santa-teresita",
@@ -106844,7 +106844,7 @@
       "zona": "SANTA TERESITA",
       "slug": "santa-teresita",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 6.4
     },
     {
       "clave": "venta_lote_santa-teresita",
@@ -106856,7 +106856,7 @@
       "zona": "SANTA TERESITA",
       "slug": "santa-teresita",
       "origen": "barrio",
-      "segundos": 8.6
+      "segundos": 9.3
     },
     {
       "clave": "arriendo_lote_santa-teresita",
@@ -106868,7 +106868,7 @@
       "zona": "SANTA TERESITA",
       "slug": "santa-teresita",
       "origen": "barrio",
-      "segundos": 6.3
+      "segundos": 6.4
     },
     {
       "clave": "venta_oficina_el-salitre",
@@ -107360,55 +107360,55 @@
       "zona": "ARMENIA",
       "slug": "armenia",
       "origen": "barrio",
-      "segundos": 6.1
+      "segundos": 6.3
     },
     {
       "clave": "arriendo_oficina_armenia",
       "etiqueta": "Arriendo - Oficina - ARMENIA",
       "archivo": "arriendo_oficina_armenia.json",
-      "total": 4,
+      "total": 3,
       "operacion": "arriendo",
       "tipo": "oficina",
       "zona": "ARMENIA",
       "slug": "armenia",
       "origen": "barrio",
-      "segundos": 8.6
+      "segundos": 8.8
     },
     {
       "clave": "venta_bodega_armenia",
       "etiqueta": "Venta - Bodega - ARMENIA",
       "archivo": "venta_bodega_armenia.json",
-      "total": 52,
+      "total": 55,
       "operacion": "venta",
       "tipo": "bodega",
       "zona": "ARMENIA",
       "slug": "armenia",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_bodega_armenia",
       "etiqueta": "Arriendo - Bodega - ARMENIA",
       "archivo": "arriendo_bodega_armenia.json",
-      "total": 0,
+      "total": 54,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "ARMENIA",
       "slug": "armenia",
       "origen": "barrio",
-      "segundos": 6.1
+      "segundos": 9.0
     },
     {
       "clave": "venta_edificio_armenia",
       "etiqueta": "Venta - Edificio - ARMENIA",
       "archivo": "venta_edificio_armenia.json",
-      "total": 46,
+      "total": 48,
       "operacion": "venta",
       "tipo": "edificio",
       "zona": "ARMENIA",
       "slug": "armenia",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_edificio_armenia",
@@ -107420,19 +107420,19 @@
       "zona": "ARMENIA",
       "slug": "armenia",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 8.9
     },
     {
       "clave": "venta_local_armenia",
       "etiqueta": "Venta - Local - ARMENIA",
       "archivo": "venta_local_armenia.json",
-      "total": 54,
+      "total": 49,
       "operacion": "venta",
       "tipo": "local",
       "zona": "ARMENIA",
       "slug": "armenia",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 9.1
     },
     {
       "clave": "arriendo_local_armenia",
@@ -107444,7 +107444,7 @@
       "zona": "ARMENIA",
       "slug": "armenia",
       "origen": "barrio",
-      "segundos": 6.1
+      "segundos": 6.5
     },
     {
       "clave": "venta_lote_armenia",
@@ -107456,19 +107456,19 @@
       "zona": "ARMENIA",
       "slug": "armenia",
       "origen": "barrio",
-      "segundos": 6.1
+      "segundos": 6.3
     },
     {
       "clave": "arriendo_lote_armenia",
       "etiqueta": "Arriendo - Lote - ARMENIA",
       "archivo": "arriendo_lote_armenia.json",
-      "total": 45,
+      "total": 44,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "ARMENIA",
       "slug": "armenia",
       "origen": "barrio",
-      "segundos": 8.7
+      "segundos": 9.1
     },
     {
       "clave": "venta_oficina_estrella",
@@ -116109,6 +116109,366 @@
       "slug": "parque-nacional",
       "origen": "barrio",
       "segundos": 8.9
+    },
+    {
+      "clave": "venta_oficina_colseguros",
+      "etiqueta": "Venta - Oficina - COLSEGUROS",
+      "archivo": "venta_oficina_colseguros.json",
+      "total": 56,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "COLSEGUROS",
+      "slug": "colseguros",
+      "origen": "barrio",
+      "segundos": 9.0
+    },
+    {
+      "clave": "arriendo_oficina_colseguros",
+      "etiqueta": "Arriendo - Oficina - COLSEGUROS",
+      "archivo": "arriendo_oficina_colseguros.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "COLSEGUROS",
+      "slug": "colseguros",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "venta_bodega_colseguros",
+      "etiqueta": "Venta - Bodega - COLSEGUROS",
+      "archivo": "venta_bodega_colseguros.json",
+      "total": 55,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "COLSEGUROS",
+      "slug": "colseguros",
+      "origen": "barrio",
+      "segundos": 9.0
+    },
+    {
+      "clave": "arriendo_bodega_colseguros",
+      "etiqueta": "Arriendo - Bodega - COLSEGUROS",
+      "archivo": "arriendo_bodega_colseguros.json",
+      "total": 54,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "COLSEGUROS",
+      "slug": "colseguros",
+      "origen": "barrio",
+      "segundos": 9.0
+    },
+    {
+      "clave": "venta_edificio_colseguros",
+      "etiqueta": "Venta - Edificio - COLSEGUROS",
+      "archivo": "venta_edificio_colseguros.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "COLSEGUROS",
+      "slug": "colseguros",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "arriendo_edificio_colseguros",
+      "etiqueta": "Arriendo - Edificio - COLSEGUROS",
+      "archivo": "arriendo_edificio_colseguros.json",
+      "total": 49,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "COLSEGUROS",
+      "slug": "colseguros",
+      "origen": "barrio",
+      "segundos": 9.0
+    },
+    {
+      "clave": "venta_local_colseguros",
+      "etiqueta": "Venta - Local - COLSEGUROS",
+      "archivo": "venta_local_colseguros.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "COLSEGUROS",
+      "slug": "colseguros",
+      "origen": "barrio",
+      "segundos": 6.3
+    },
+    {
+      "clave": "arriendo_local_colseguros",
+      "etiqueta": "Arriendo - Local - COLSEGUROS",
+      "archivo": "arriendo_local_colseguros.json",
+      "total": 55,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "COLSEGUROS",
+      "slug": "colseguros",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "venta_lote_colseguros",
+      "etiqueta": "Venta - Lote - COLSEGUROS",
+      "archivo": "venta_lote_colseguros.json",
+      "total": 45,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "COLSEGUROS",
+      "slug": "colseguros",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "arriendo_lote_colseguros",
+      "etiqueta": "Arriendo - Lote - COLSEGUROS",
+      "archivo": "arriendo_lote_colseguros.json",
+      "total": 44,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "COLSEGUROS",
+      "slug": "colseguros",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "venta_oficina_el-liston",
+      "etiqueta": "Venta - Oficina - EL LISTON",
+      "archivo": "venta_oficina_el-liston.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "EL LISTON",
+      "slug": "el-liston",
+      "origen": "barrio",
+      "segundos": 6.4
+    },
+    {
+      "clave": "arriendo_oficina_el-liston",
+      "etiqueta": "Arriendo - Oficina - EL LISTON",
+      "archivo": "arriendo_oficina_el-liston.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "EL LISTON",
+      "slug": "el-liston",
+      "origen": "barrio",
+      "segundos": 6.4
+    },
+    {
+      "clave": "venta_bodega_el-liston",
+      "etiqueta": "Venta - Bodega - EL LISTON",
+      "archivo": "venta_bodega_el-liston.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "EL LISTON",
+      "slug": "el-liston",
+      "origen": "barrio",
+      "segundos": 9.2
+    },
+    {
+      "clave": "arriendo_bodega_el-liston",
+      "etiqueta": "Arriendo - Bodega - EL LISTON",
+      "archivo": "arriendo_bodega_el-liston.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "EL LISTON",
+      "slug": "el-liston",
+      "origen": "barrio",
+      "segundos": 9.0
+    },
+    {
+      "clave": "venta_edificio_el-liston",
+      "etiqueta": "Venta - Edificio - EL LISTON",
+      "archivo": "venta_edificio_el-liston.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "EL LISTON",
+      "slug": "el-liston",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "arriendo_edificio_el-liston",
+      "etiqueta": "Arriendo - Edificio - EL LISTON",
+      "archivo": "arriendo_edificio_el-liston.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "EL LISTON",
+      "slug": "el-liston",
+      "origen": "barrio",
+      "segundos": 9.0
+    },
+    {
+      "clave": "venta_local_el-liston",
+      "etiqueta": "Venta - Local - EL LISTON",
+      "archivo": "venta_local_el-liston.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "EL LISTON",
+      "slug": "el-liston",
+      "origen": "barrio",
+      "segundos": 6.4
+    },
+    {
+      "clave": "arriendo_local_el-liston",
+      "etiqueta": "Arriendo - Local - EL LISTON",
+      "archivo": "arriendo_local_el-liston.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "EL LISTON",
+      "slug": "el-liston",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "venta_lote_el-liston",
+      "etiqueta": "Venta - Lote - EL LISTON",
+      "archivo": "venta_lote_el-liston.json",
+      "total": 6,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "EL LISTON",
+      "slug": "el-liston",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "arriendo_lote_el-liston",
+      "etiqueta": "Arriendo - Lote - EL LISTON",
+      "archivo": "arriendo_lote_el-liston.json",
+      "total": 5,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "EL LISTON",
+      "slug": "el-liston",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "venta_oficina_el-progreso",
+      "etiqueta": "Venta - Oficina - EL PROGRESO",
+      "archivo": "venta_oficina_el-progreso.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "EL PROGRESO",
+      "slug": "el-progreso",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "arriendo_oficina_el-progreso",
+      "etiqueta": "Arriendo - Oficina - EL PROGRESO",
+      "archivo": "arriendo_oficina_el-progreso.json",
+      "total": 49,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "EL PROGRESO",
+      "slug": "el-progreso",
+      "origen": "barrio",
+      "segundos": 9.0
+    },
+    {
+      "clave": "venta_bodega_el-progreso",
+      "etiqueta": "Venta - Bodega - EL PROGRESO",
+      "archivo": "venta_bodega_el-progreso.json",
+      "total": 3,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "EL PROGRESO",
+      "slug": "el-progreso",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "arriendo_bodega_el-progreso",
+      "etiqueta": "Arriendo - Bodega - EL PROGRESO",
+      "archivo": "arriendo_bodega_el-progreso.json",
+      "total": 7,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "EL PROGRESO",
+      "slug": "el-progreso",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "venta_edificio_el-progreso",
+      "etiqueta": "Venta - Edificio - EL PROGRESO",
+      "archivo": "venta_edificio_el-progreso.json",
+      "total": 48,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "EL PROGRESO",
+      "slug": "el-progreso",
+      "origen": "barrio",
+      "segundos": 9.0
+    },
+    {
+      "clave": "arriendo_edificio_el-progreso",
+      "etiqueta": "Arriendo - Edificio - EL PROGRESO",
+      "archivo": "arriendo_edificio_el-progreso.json",
+      "total": 49,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "EL PROGRESO",
+      "slug": "el-progreso",
+      "origen": "barrio",
+      "segundos": 8.9
+    },
+    {
+      "clave": "venta_local_el-progreso",
+      "etiqueta": "Venta - Local - EL PROGRESO",
+      "archivo": "venta_local_el-progreso.json",
+      "total": 38,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "EL PROGRESO",
+      "slug": "el-progreso",
+      "origen": "barrio",
+      "segundos": 9.0
+    },
+    {
+      "clave": "arriendo_local_el-progreso",
+      "etiqueta": "Arriendo - Local - EL PROGRESO",
+      "archivo": "arriendo_local_el-progreso.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "EL PROGRESO",
+      "slug": "el-progreso",
+      "origen": "barrio",
+      "segundos": 6.3
+    },
+    {
+      "clave": "venta_lote_el-progreso",
+      "etiqueta": "Venta - Lote - EL PROGRESO",
+      "archivo": "venta_lote_el-progreso.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "EL PROGRESO",
+      "slug": "el-progreso",
+      "origen": "barrio",
+      "segundos": 6.3
+    },
+    {
+      "clave": "arriendo_lote_el-progreso",
+      "etiqueta": "Arriendo - Lote - EL PROGRESO",
+      "archivo": "arriendo_lote_el-progreso.json",
+      "total": 5,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "EL PROGRESO",
+      "slug": "el-progreso",
+      "origen": "barrio",
+      "segundos": 8.8
     }
   ],
   "consolidados": {
