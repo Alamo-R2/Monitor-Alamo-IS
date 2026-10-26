@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.22 20:54",
+  "generado": "2026.OCT.26 05:30",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1625000,
-      "area": 41.0,
-      "precioM2": 39634,
-      "administracion": 217800.0,
-      "barrio": "PUENTE ARANDA",
+      "precio": 1700000,
+      "area": 30.0,
+      "precioM2": 56667,
+      "administracion": null,
+      "barrio": "CORREDOR FERREO DEL SUR",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
       "banos": 1.0,
       "parqueaderos": null,
-      "estrato": 4,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-puente-aranda-bogota/194397023",
-      "titulo": "Apartamento en Arriendo en Puente aranda, Bogotá",
-      "id_domus": "194397023",
-      "fechaPublicacion": "2026-10-13",
-      "lat": 4.621377319387,
-      "lon": -74.096985223748,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-zona-industrial-bogota/194442739",
+      "titulo": "Apartamento en Arriendo en Zona industrial, Bogotá",
+      "id_domus": "194442739",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.6210523,
+      "lon": -74.0974202,
       "location_type": "exacta",
       "zonaConsulta": "CORREDOR FERREO DEL SUR",
       "zonaSlug": "corredor-ferreo-del-sur",
@@ -174,38 +174,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1700000,
-      "area": 30.0,
-      "precioM2": 56667,
-      "administracion": null,
-      "barrio": "CORREDOR FERREO DEL SUR",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-zona-industrial-bogota/194442739",
-      "titulo": "Apartamento en Arriendo en Zona industrial, Bogotá",
-      "id_domus": "194442739",
-      "fechaPublicacion": "2026-10-22",
-      "lat": 4.6210523,
-      "lon": -74.0974202,
-      "location_type": "exacta",
-      "zonaConsulta": "CORREDOR FERREO DEL SUR",
-      "zonaSlug": "corredor-ferreo-del-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 2210000,
       "area": 84.0,
       "precioM2": 26310,
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -354,6 +322,38 @@
       "fechaPublicacion": "2026-10-01",
       "lat": 4.5950412,
       "lon": -74.1670747,
+      "location_type": "exacta",
+      "zonaConsulta": "CORREDOR FERREO DEL SUR",
+      "zonaSlug": "corredor-ferreo-del-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 78.0,
+      "precioM2": 25641,
+      "administracion": null,
+      "barrio": "LA CAMELIA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-camelia-bogota/194446642",
+      "titulo": "Apartamento en Arriendo en La camelia, Bogotá",
+      "id_domus": "194446642",
+      "fechaPublicacion": "2026-10-23",
+      "lat": 4.6148123,
+      "lon": -74.1166804,
       "location_type": "exacta",
       "zonaConsulta": "CORREDOR FERREO DEL SUR",
       "zonaSlug": "corredor-ferreo-del-sur",
@@ -462,6 +462,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1625000,
+      "area": 41.0,
+      "precioM2": 39634,
+      "administracion": 217800.0,
+      "barrio": "PUENTE ARANDA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-puente-aranda-bogota/194397023",
+      "titulo": "Apartamento en Arriendo en Puente aranda, Bogotá",
+      "id_domus": "194397023",
+      "fechaPublicacion": "2026-10-13",
+      "lat": 4.621377319387,
+      "lon": -74.096985223748,
+      "location_type": "exacta",
+      "zonaConsulta": "CORREDOR FERREO DEL SUR",
+      "zonaSlug": "corredor-ferreo-del-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1500000,
       "area": 30.0,
       "precioM2": 50000,
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-06-02",
       "lat": 4.6214563,
       "lon": -74.0971016,
-      "location_type": "exacta",
-      "zonaConsulta": "CORREDOR FERREO DEL SUR",
-      "zonaSlug": "corredor-ferreo-del-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 45.0,
-      "precioM2": 40000,
-      "administracion": null,
-      "barrio": "INDUSTRIAL CENTENARIO",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2.0,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-industrial-centenario-bogota/194283066",
-      "titulo": "Apartamento en Arriendo en Industrial centenario, Bogotá",
-      "id_domus": "194283066",
-      "fechaPublicacion": "2026-09-19",
-      "lat": 4.621158216438,
-      "lon": -74.097178007521,
       "location_type": "exacta",
       "zonaConsulta": "CORREDOR FERREO DEL SUR",
       "zonaSlug": "corredor-ferreo-del-sur",

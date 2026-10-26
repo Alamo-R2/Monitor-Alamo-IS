@@ -1,14 +1,78 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "TEJAR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.23 00:14",
+  "generado": "2026.OCT.26 05:30",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 55.0,
+      "precioM2": 4545455,
+      "administracion": null,
+      "barrio": "TEJAR",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tejar-bogota/192598917",
+      "titulo": "Apartamento en Venta en Tejar, Bogotá",
+      "id_domus": "192598917",
+      "fechaPublicacion": "2025-07-03",
+      "lat": 4.6043326,
+      "lon": -74.1277394,
+      "location_type": "exacta",
+      "zonaConsulta": "TEJAR",
+      "zonaSlug": "tejar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 275000000,
+      "area": 43.0,
+      "precioM2": 6395349,
+      "administracion": 100000.0,
+      "barrio": "TEJAR",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-zona-occidental-bogota/194453535",
+      "titulo": "Apartamento en Venta en Zona occidental, Bogotá",
+      "id_domus": "194453535",
+      "fechaPublicacion": "2026-10-24",
+      "lat": 4.60711,
+      "lon": -74.1298021,
+      "location_type": "exacta",
+      "zonaConsulta": "TEJAR",
+      "zonaSlug": "tejar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +162,6 @@
       "fechaPublicacion": "2025-08-27",
       "lat": 4.6030377,
       "lon": -74.1286695,
-      "location_type": "exacta",
-      "zonaConsulta": "TEJAR",
-      "zonaSlug": "tejar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 250000000,
-      "area": 55.0,
-      "precioM2": 4545455,
-      "administracion": null,
-      "barrio": "TEJAR",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tejar-bogota/192598917",
-      "titulo": "Apartamento en Venta en Tejar, Bogotá",
-      "id_domus": "192598917",
-      "fechaPublicacion": "2025-07-03",
-      "lat": 4.6043326,
-      "lon": -74.1277394,
       "location_type": "exacta",
       "zonaConsulta": "TEJAR",
       "zonaSlug": "tejar",
