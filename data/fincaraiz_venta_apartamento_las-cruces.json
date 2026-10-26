@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 14,
+  "total": 15,
   "zona": "LAS CRUCES",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.26 05:30",
+  "generado": "2026.OCT.26 21:58",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -398,6 +398,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 525000000,
+      "area": 103.0,
+      "precioM2": 5097087,
+      "administracion": 236256.0,
+      "barrio": "LAS CRUCES",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-cruces-bogota/194459392",
+      "titulo": "Apartamento en Venta en Las cruces, Bogotá",
+      "id_domus": "194459392",
+      "fechaPublicacion": "2026-10-26",
+      "lat": 4.5896162,
+      "lon": -74.0851618,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS CRUCES",
+      "zonaSlug": "las-cruces",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 325597000,
       "area": 56.0,
       "precioM2": 5814232,
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 11,
   "zona": "SAN BERNARDO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.26 16:20",
+  "generado": "2026.OCT.26 21:58",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -297,6 +297,38 @@
     },
     {
       "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 525000000,
+      "area": 103.0,
+      "precioM2": 5097087,
+      "administracion": 236256.0,
+      "barrio": "LAS CRUCES",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-cruces-bogota/194459392",
+      "titulo": "Apartamento en Venta en Las cruces, Bogotá",
+      "id_domus": "194459392",
+      "fechaPublicacion": "2026-10-26",
+      "lat": 4.5896162,
+      "lon": -74.0851618,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN BERNARDO",
+      "zonaSlug": "san-bernardo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],

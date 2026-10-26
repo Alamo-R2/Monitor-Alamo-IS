@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.21 14:44",
+  "generado": "2026.OCT.26 21:58",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1750000000,
+      "area": 149.0,
+      "precioM2": 11744966,
+      "administracion": null,
+      "barrio": "EL VIRREY",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-virrey-bogota/191654676",
+      "titulo": "Apartamento en  Venta en El Virrey, Bogotá",
+      "id_domus": "191654676",
+      "fechaPublicacion": "2024-11-06",
+      "lat": 4.5024977,
+      "lon": -74.1115165,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS MERCEDES",
+      "zonaSlug": "las-mercedes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2025-12-26",
       "lat": 4.752582225368,
       "lon": -74.103205350276,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS MERCEDES",
-      "zonaSlug": "las-mercedes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1750000000,
-      "area": 149.0,
-      "precioM2": 11744966,
-      "administracion": null,
-      "barrio": "EL VIRREY",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-virrey-bogota/191654676",
-      "titulo": "Apartamento en  Venta en El Virrey, Bogotá",
-      "id_domus": "191654676",
-      "fechaPublicacion": "2024-11-06",
-      "lat": 4.5024977,
-      "lon": -74.1115165,
       "location_type": "exacta",
       "zonaConsulta": "LAS MERCEDES",
       "zonaSlug": "las-mercedes",
