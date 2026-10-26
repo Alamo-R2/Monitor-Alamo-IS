@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.21 05:27",
+  "generado": "2026.OCT.26 16:20",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1450000,
+      "area": 35.0,
+      "precioM2": 41429,
+      "administracion": null,
+      "barrio": "LA FRAGUA",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-fragua-bogota/194282603",
+      "titulo": "Apartamento en Arriendo en La fragua, Bogotá",
+      "id_domus": "194282603",
+      "fechaPublicacion": "2026-09-19",
+      "lat": 4.591159,
+      "lon": -74.107717,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTANDER",
+      "zonaSlug": "santander",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,71 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1195000,
-      "area": 42.0,
-      "precioM2": 28452,
-      "administracion": 212900.0,
-      "barrio": "LA FRAGUA",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-fragua-bogota/194255134",
-      "titulo": "Apartamento en Arriendo en La fragua, Bogotá",
-      "id_domus": "194255134",
-      "fechaPublicacion": "2026-09-14",
-      "lat": 4.5944568,
-      "lon": -74.1109444,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTANDER",
-      "zonaSlug": "santander",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1450000,
-      "area": 35.0,
-      "precioM2": 41429,
-      "administracion": null,
-      "barrio": "LA FRAGUA",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-fragua-bogota/194282633",
-      "titulo": "Apartamento en Arriendo en La fragua, Bogotá",
-      "id_domus": "194282633",
-      "fechaPublicacion": "2026-09-19",
-      "lat": 4.590914,
-      "lon": -74.109522,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTANDER",
-      "zonaSlug": "santander",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -188,12 +156,44 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-fragua-bogota/194282603",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-fragua-bogota/194282633",
       "titulo": "Apartamento en Arriendo en La fragua, Bogotá",
-      "id_domus": "194282603",
+      "id_domus": "194282633",
       "fechaPublicacion": "2026-09-19",
-      "lat": 4.591159,
-      "lon": -74.107717,
+      "lat": 4.590914,
+      "lon": -74.109522,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTANDER",
+      "zonaSlug": "santander",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1195000,
+      "area": 42.0,
+      "precioM2": 28452,
+      "administracion": 212900.0,
+      "barrio": "SANTANDER",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santander-bogota/194442603",
+      "titulo": "Apartamento en Arriendo en Santander, Bogotá",
+      "id_domus": "194442603",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.5944568,
+      "lon": -74.1109444,
       "location_type": "exacta",
       "zonaConsulta": "SANTANDER",
       "zonaSlug": "santander",
