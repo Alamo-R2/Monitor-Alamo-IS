@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.25 20:12",
+  "generado": "2026.OCT.27 01:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 580000000,
-      "area": 57.0,
-      "precioM2": 10175439,
-      "administracion": 880000.0,
-      "barrio": "PASADENA",
+      "precio": 1200000000,
+      "area": 148.0,
+      "precioM2": 8108108,
+      "administracion": 932000.0,
+      "barrio": "ESTORIL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pasadena-bogota/193912153",
-      "titulo": "Apartamento en Venta en Pasadena, Bogotá",
-      "id_domus": "193912153",
-      "fechaPublicacion": "2026-06-24",
-      "lat": 4.688181,
-      "lon": -74.0604435,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-navarra-bogota/193624314",
+      "titulo": "Apartamento en Venta en Chicó Navarra, Bogotá",
+      "id_domus": "193624314",
+      "fechaPublicacion": "2026-04-13",
+      "lat": 4.6882855,
+      "lon": -74.0563453,
       "location_type": "exacta",
       "zonaConsulta": "ESTORIL",
       "zonaSlug": "estoril",
@@ -41,6 +41,38 @@
     },
     {
       "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1880000000,
+      "area": 156.0,
+      "precioM2": 12051282,
+      "administracion": null,
+      "barrio": "PASADENA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pasadena-bogota/194311612",
+      "titulo": "Apartamento en Venta en Pasadena, Bogotá",
+      "id_domus": "194311612",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.6925585,
+      "lon": -74.0608558,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTORIL",
+      "zonaSlug": "estoril",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -258,38 +290,6 @@
       "fechaPublicacion": "2026-10-22",
       "lat": 4.6929782898553,
       "lon": -74.060937741347,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTORIL",
-      "zonaSlug": "estoril",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000000,
-      "area": 148.0,
-      "precioM2": 8108108,
-      "administracion": 932000.0,
-      "barrio": "ESTORIL",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-navarra-bogota/193624314",
-      "titulo": "Apartamento en Venta en Chicó Navarra, Bogotá",
-      "id_domus": "193624314",
-      "fechaPublicacion": "2026-04-13",
-      "lat": 4.6882855,
-      "lon": -74.0563453,
       "location_type": "exacta",
       "zonaConsulta": "ESTORIL",
       "zonaSlug": "estoril",
@@ -494,38 +494,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1880000000,
-      "area": 156.0,
-      "precioM2": 12051282,
-      "administracion": null,
-      "barrio": "PASADENA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 3.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pasadena-bogota/194311612",
-      "titulo": "Apartamento en Venta en Pasadena, Bogotá",
-      "id_domus": "194311612",
-      "fechaPublicacion": "2026-09-24",
-      "lat": 4.6925585,
-      "lon": -74.0608558,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTORIL",
-      "zonaSlug": "estoril",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1220000000,
       "area": 155.0,
       "precioM2": 7870968,
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,15 +616,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 768000000,
+      "precio": 744000000,
       "area": 82.0,
-      "precioM2": 9365854,
+      "precioM2": 9073171,
       "administracion": 1134000.0,
       "barrio": "ESTORIL",
       "upl": "Barrios Unidos",
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-10-15",
       "lat": 4.6895666,
       "lon": -74.0558647,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTORIL",
+      "zonaSlug": "estoril",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2400000000,
+      "area": 147.0,
+      "precioM2": 16326531,
+      "administracion": 1300000.0,
+      "barrio": "ESTORIL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-navarra-bogota/193872103",
+      "titulo": "Apartamento en Venta en Chicó Navarra, Bogotá",
+      "id_domus": "193872103",
+      "fechaPublicacion": "2026-06-12",
+      "lat": 4.6926767410613,
+      "lon": -74.05503988266,
       "location_type": "exacta",
       "zonaConsulta": "ESTORIL",
       "zonaSlug": "estoril",

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 10,
   "zona": "MOLINOS DEL SUR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 00:06",
+  "generado": "2026.OCT.27 01:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,26 +46,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 200000000,
+      "precio": 180000000,
       "area": 45.0,
-      "precioM2": 4444444,
-      "administracion": 150000.0,
+      "precioM2": 4000000,
+      "administracion": 113611.0,
       "barrio": "MOLINOS DEL SUR",
       "upl": "Tunjuelito",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-molinos-del-sur-bogota/194365879",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-molinos-del-sur-bogota/194453322",
       "titulo": "Apartamento en Venta en Molinos del sur, Bogotá",
-      "id_domus": "194365879",
-      "fechaPublicacion": "2026-10-06",
-      "lat": 4.5588183,
-      "lon": -74.1176985,
+      "id_domus": "194453322",
+      "fechaPublicacion": "2026-10-24",
+      "lat": 4.5592092,
+      "lon": -74.1172934,
       "location_type": "exacta",
       "zonaConsulta": "MOLINOS DEL SUR",
       "zonaSlug": "molinos-del-sur",
@@ -73,38 +73,6 @@
     },
     {
       "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 165000000,
-      "area": 50.0,
-      "precioM2": 3300000,
-      "administracion": 128000.0,
-      "barrio": "MOLINOS DEL SUR",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-molinos-del-sur-bogota/191878752",
-      "titulo": "Apartamento en  Venta en Molinos del sur, Bogotá",
-      "id_domus": "191878752",
-      "fechaPublicacion": "2025-01-15",
-      "lat": 4.559241,
-      "lon": -74.1172682,
-      "location_type": "exacta",
-      "zonaConsulta": "MOLINOS DEL SUR",
-      "zonaSlug": "molinos-del-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +232,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 200000000,
+      "area": 45.0,
+      "precioM2": 4444444,
+      "administracion": 150000.0,
+      "barrio": "MOLINOS DEL SUR",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-molinos-del-sur-bogota/194365879",
+      "titulo": "Apartamento en Venta en Molinos del sur, Bogotá",
+      "id_domus": "194365879",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.5588183,
+      "lon": -74.1176985,
+      "location_type": "exacta",
+      "zonaConsulta": "MOLINOS DEL SUR",
+      "zonaSlug": "molinos-del-sur",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 165000000,
+      "area": 50.0,
+      "precioM2": 3300000,
+      "administracion": 128000.0,
+      "barrio": "MOLINOS DEL SUR",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-molinos-del-sur-bogota/191878752",
+      "titulo": "Apartamento en  Venta en Molinos del sur, Bogotá",
+      "id_domus": "191878752",
+      "fechaPublicacion": "2025-01-15",
+      "lat": 4.559241,
+      "lon": -74.1172682,
+      "location_type": "exacta",
+      "zonaConsulta": "MOLINOS DEL SUR",
+      "zonaSlug": "molinos-del-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],

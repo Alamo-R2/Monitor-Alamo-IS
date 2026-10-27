@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 5,
   "zona": "CAMPO EUCARISTICO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 17:03",
+  "generado": "2026.OCT.27 01:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,38 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 610000000,
-      "area": 116.0,
-      "precioM2": 5258621,
-      "administracion": 100000.0,
-      "barrio": "CAMPO EUCARISTICO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salitre-greco-bogota/193336997",
-      "titulo": "Apartamento en Venta en Salitre Greco, Bogotá",
-      "id_domus": "193336997",
-      "fechaPublicacion": "2026-01-29",
-      "lat": 4.65607001663,
-      "lon": -74.100130030001,
-      "location_type": "exacta",
-      "zonaConsulta": "CAMPO EUCARISTICO",
-      "zonaSlug": "campo-eucaristico",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 605000000,
       "area": 80.0,
       "precioM2": 7562500,
@@ -104,39 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 550000000,
-      "area": 79.0,
-      "precioM2": 6962025,
-      "administracion": 427000.0,
-      "barrio": "EL SALITRE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-salitre-bogota/194419500",
-      "titulo": "Apartamento en Venta en El salitre, Bogotá",
-      "id_domus": "194419500",
-      "fechaPublicacion": "2026-10-17",
-      "lat": 4.6553451,
-      "lon": -74.0983658,
-      "location_type": "exacta",
-      "zonaConsulta": "CAMPO EUCARISTICO",
-      "zonaSlug": "campo-eucaristico",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +104,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 610000000,
+      "area": 116.0,
+      "precioM2": 5258621,
+      "administracion": 100000.0,
+      "barrio": "CAMPO EUCARISTICO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salitre-greco-bogota/193336997",
+      "titulo": "Apartamento en Venta en Salitre Greco, Bogotá",
+      "id_domus": "193336997",
+      "fechaPublicacion": "2026-01-29",
+      "lat": 4.65607001663,
+      "lon": -74.100130030001,
+      "location_type": "exacta",
+      "zonaConsulta": "CAMPO EUCARISTICO",
+      "zonaSlug": "campo-eucaristico",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],

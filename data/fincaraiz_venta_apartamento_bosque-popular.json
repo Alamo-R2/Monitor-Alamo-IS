@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "BOSQUE POPULAR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 17:03",
+  "generado": "2026.OCT.27 01:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 950000000,
+      "area": 144.0,
+      "precioM2": 6597222,
+      "administracion": 999000.0,
+      "barrio": "BOSQUE POPULAR",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-alto-bogota/194460410",
+      "titulo": "Apartamento en Venta en Chapinero Alto, Bogotá",
+      "id_domus": "194460410",
+      "fechaPublicacion": "2026-10-26",
+      "lat": 4.6735786,
+      "lon": -74.0989237,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSQUE POPULAR",
+      "zonaSlug": "bosque-popular",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 520000000,
       "area": 84.0,
       "precioM2": 6190476,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],

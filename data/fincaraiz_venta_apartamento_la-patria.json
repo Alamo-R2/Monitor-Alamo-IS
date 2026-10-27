@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "LA PATRIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.21 20:57",
+  "generado": "2026.OCT.27 01:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -23,7 +23,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 2.0,
       "estrato": 4,
       "antiguedad": null,
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 300000000,
+      "area": 20.0,
+      "precioM2": 15000000,
+      "administracion": null,
+      "barrio": "LA PATRIA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": null,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barrios-unidos-bogota/194452531",
+      "titulo": "Apartamento en Venta en Barrios Unidos, Bogotá",
+      "id_domus": "194452531",
+      "fechaPublicacion": "2026-10-24",
+      "lat": 4.679139,
+      "lon": -74.0622026,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PATRIA",
+      "zonaSlug": "la-patria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 620000000,
       "area": 75.0,
       "precioM2": 8266667,
@@ -55,7 +87,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 3,
+      "banos": 3.0,
       "parqueaderos": 2.0,
       "estrato": 4,
       "antiguedad": null,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -87,7 +119,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -119,7 +151,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
