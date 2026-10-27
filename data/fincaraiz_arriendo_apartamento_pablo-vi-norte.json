@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.27 10:06",
+  "generado": "2026.OCT.27 19:03",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4147800,
+      "area": 86.0,
+      "precioM2": 48230,
+      "administracion": 502200.0,
+      "barrio": "PABLO VI NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quirinal-bogota/194311374",
+      "titulo": "Apartamento en Arriendo en Quirinal, Bogotá",
+      "id_domus": "194311374",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.653005089915,
+      "lon": -74.087195663754,
+      "location_type": "exacta",
+      "zonaConsulta": "PABLO VI NORTE",
+      "zonaSlug": "pablo-vi-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-10-21",
       "lat": 4.6516466,
       "lon": -74.0862342,
-      "location_type": "exacta",
-      "zonaConsulta": "PABLO VI NORTE",
-      "zonaSlug": "pablo-vi-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4147800,
-      "area": 86.0,
-      "precioM2": 48230,
-      "administracion": 502200.0,
-      "barrio": "PABLO VI NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quirinal-bogota/194311374",
-      "titulo": "Apartamento en Arriendo en Quirinal, Bogotá",
-      "id_domus": "194311374",
-      "fechaPublicacion": "2026-09-24",
-      "lat": 4.653005089915,
-      "lon": -74.087195663754,
       "location_type": "exacta",
       "zonaConsulta": "PABLO VI NORTE",
       "zonaSlug": "pablo-vi-norte",

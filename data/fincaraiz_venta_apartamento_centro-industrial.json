@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 6,
   "zona": "CENTRO INDUSTRIAL",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.26 05:30",
+  "generado": "2026.OCT.27 19:03",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 750000000,
+      "area": 78.0,
+      "precioM2": 9615385,
+      "administracion": 465000,
+      "barrio": "CENTRO INDUSTRIAL",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-bogota/194457037",
+      "titulo": "Apartamento en Venta en Ciudad salitre, Bogotá",
+      "id_domus": "194457037",
+      "fechaPublicacion": "2026-10-26",
+      "lat": 4.6419372287334,
+      "lon": -74.112374782562,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTRO INDUSTRIAL",
+      "zonaSlug": "centro-industrial",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 750000000,
+      "area": 78.0,
+      "precioM2": 9615385,
+      "administracion": 465000,
+      "barrio": "CENTRO INDUSTRIAL",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-oriental-bogota/194462558",
+      "titulo": "Apartamento en Venta en Ciudad Salitre Oriental, Bogotá",
+      "id_domus": "194462558",
+      "fechaPublicacion": "2026-10-27",
+      "lat": 4.6419372287334,
+      "lon": -74.112374782562,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTRO INDUSTRIAL",
+      "zonaSlug": "centro-industrial",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],

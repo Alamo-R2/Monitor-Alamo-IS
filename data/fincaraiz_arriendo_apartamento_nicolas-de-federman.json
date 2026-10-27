@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.27 10:06",
+  "generado": "2026.OCT.27 19:03",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3200000,
-      "area": 67.0,
-      "precioM2": 47761,
-      "administracion": 282000.0,
-      "barrio": "NICOLAS DE FEDERMAN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nicolas-de-federman-bogota/194264562",
-      "titulo": "Apartamento en Arriendo en Nicolas de federman, Bogotá",
-      "id_domus": "194264562",
-      "fechaPublicacion": "2026-09-16",
-      "lat": 4.649320908193,
-      "lon": -74.080565913618,
-      "location_type": "exacta",
-      "zonaConsulta": "NICOLAS DE FEDERMAN",
-      "zonaSlug": "nicolas-de-federman",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-08-25",
       "lat": 4.6442837,
       "lon": -74.0825734,
+      "location_type": "exacta",
+      "zonaConsulta": "NICOLAS DE FEDERMAN",
+      "zonaSlug": "nicolas-de-federman",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3200000,
+      "area": 67.0,
+      "precioM2": 47761,
+      "administracion": 282000.0,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nicolas-de-federman-bogota/194264562",
+      "titulo": "Apartamento en Arriendo en Nicolas de federman, Bogotá",
+      "id_domus": "194264562",
+      "fechaPublicacion": "2026-09-16",
+      "lat": 4.649320908193,
+      "lon": -74.080565913618,
       "location_type": "exacta",
       "zonaConsulta": "NICOLAS DE FEDERMAN",
       "zonaSlug": "nicolas-de-federman",
