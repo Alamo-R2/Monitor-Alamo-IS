@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "SANTA ROSA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.25 20:12",
+  "generado": "2026.OCT.27 10:06",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -105,6 +105,38 @@
     },
     {
       "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1959200,
+      "area": 36.0,
+      "precioM2": 54422,
+      "administracion": 240800.0,
+      "barrio": "SANTA ROSA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-morato-bogota/194460051",
+      "titulo": "Apartamento en Arriendo en Morato, Bogotá",
+      "id_domus": "194460051",
+      "fechaPublicacion": "2026-10-26",
+      "lat": 4.6950184,
+      "lon": -74.0736443,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA ROSA",
+      "zonaSlug": "santa-rosa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],

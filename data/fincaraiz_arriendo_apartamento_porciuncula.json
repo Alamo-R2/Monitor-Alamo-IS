@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.25 05:26",
+  "generado": "2026.OCT.27 10:06",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,9 +14,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2550000,
-      "area": 37.0,
-      "precioM2": 68919,
+      "precio": 2200000,
+      "area": 25.0,
+      "precioM2": 88000,
       "administracion": null,
       "barrio": "PORCIUNCULA",
       "upl": "Barrios Unidos",
@@ -28,12 +28,12 @@
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194210370",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194210370",
-      "fechaPublicacion": "2026-09-04",
-      "lat": 4.657589,
-      "lon": -74.0594969,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-lago-bogota/194430764",
+      "titulo": "Apartamento en Arriendo en El Lago, Bogotá",
+      "id_domus": "194430764",
+      "fechaPublicacion": "2026-10-20",
+      "lat": 4.6569354798456,
+      "lon": -74.057168640388,
       "location_type": "exacta",
       "zonaConsulta": "PORCIUNCULA",
       "zonaSlug": "porciuncula",
@@ -46,26 +46,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 25000000,
-      "area": 360.0,
-      "precioM2": 69444,
-      "administracion": null,
-      "barrio": "EL NOGAL",
+      "precio": 7100000,
+      "area": 114.0,
+      "precioM2": 62281,
+      "administracion": 1400000.0,
+      "barrio": "LOS ROSALES",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 4,
-      "banos": 6,
-      "parqueaderos": 6.0,
-      "estrato": 5,
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-nogal-bogota/194084626",
-      "titulo": "Apartamento en Arriendo en El nogal, Bogotá",
-      "id_domus": "194084626",
-      "fechaPublicacion": "2026-08-06",
-      "lat": 4.658574,
-      "lon": -74.054286,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-rosales-bogota/194426006",
+      "titulo": "Apartamento en Arriendo en Los rosales, Bogotá",
+      "id_domus": "194426006",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.6577444,
+      "lon": -74.052623,
       "location_type": "exacta",
       "zonaConsulta": "PORCIUNCULA",
       "zonaSlug": "porciuncula",
@@ -142,6 +142,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2550000,
+      "area": 37.0,
+      "precioM2": 68919,
+      "administracion": null,
+      "barrio": "PORCIUNCULA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194210370",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194210370",
+      "fechaPublicacion": "2026-09-04",
+      "lat": 4.657589,
+      "lon": -74.0594969,
+      "location_type": "exacta",
+      "zonaConsulta": "PORCIUNCULA",
+      "zonaSlug": "porciuncula",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 16000000,
       "area": 412.0,
       "precioM2": 38835,
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,71 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2200000,
-      "area": 25.0,
-      "precioM2": 88000,
-      "administracion": null,
-      "barrio": "PORCIUNCULA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-lago-bogota/194430764",
-      "titulo": "Apartamento en Arriendo en El Lago, Bogotá",
-      "id_domus": "194430764",
-      "fechaPublicacion": "2026-10-20",
-      "lat": 4.6569354798456,
-      "lon": -74.057168640388,
-      "location_type": "exacta",
-      "zonaConsulta": "PORCIUNCULA",
-      "zonaSlug": "porciuncula",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2750000,
-      "area": 15.0,
-      "precioM2": 183333,
-      "administracion": null,
-      "barrio": "EL NOGAL",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-nogal-bogota/194222758",
-      "titulo": "Apartamento en Arriendo en El nogal, Bogotá",
-      "id_domus": "194222758",
-      "fechaPublicacion": "2026-09-07",
-      "lat": 4.6592509563278,
-      "lon": -74.053389746558,
-      "location_type": "exacta",
-      "zonaConsulta": "PORCIUNCULA",
-      "zonaSlug": "porciuncula",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -610,6 +578,38 @@
       "fechaPublicacion": "2026-02-06",
       "lat": 4.657589,
       "lon": -74.0594969,
+      "location_type": "exacta",
+      "zonaConsulta": "PORCIUNCULA",
+      "zonaSlug": "porciuncula",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2750000,
+      "area": 15.0,
+      "precioM2": 183333,
+      "administracion": null,
+      "barrio": "EL NOGAL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-nogal-bogota/194222758",
+      "titulo": "Apartamento en Arriendo en El nogal, Bogotá",
+      "id_domus": "194222758",
+      "fechaPublicacion": "2026-09-07",
+      "lat": 4.6592509563278,
+      "lon": -74.053389746558,
       "location_type": "exacta",
       "zonaConsulta": "PORCIUNCULA",
       "zonaSlug": "porciuncula",
@@ -654,26 +654,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2770000,
-      "area": 26.0,
-      "precioM2": 106538,
-      "administracion": null,
-      "barrio": "QUINTA CAMACHO",
+      "precio": 12000000,
+      "area": 240.0,
+      "precioM2": 50000,
+      "administracion": 2164000.0,
+      "barrio": "LOS ROSALES",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 3.0,
+      "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-camacho-bogota/194180111",
-      "titulo": "Apartamento en Arriendo en Quinta camacho, Bogotá",
-      "id_domus": "194180111",
-      "fechaPublicacion": "2026-08-28",
-      "lat": 4.657589,
-      "lon": -74.0594969,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-rosales-bogota/194429911",
+      "titulo": "Apartamento en Arriendo en Los rosales, Bogotá",
+      "id_domus": "194429911",
+      "fechaPublicacion": "2026-10-20",
+      "lat": 4.6563473,
+      "lon": -74.053745,
       "location_type": "exacta",
       "zonaConsulta": "PORCIUNCULA",
       "zonaSlug": "porciuncula",

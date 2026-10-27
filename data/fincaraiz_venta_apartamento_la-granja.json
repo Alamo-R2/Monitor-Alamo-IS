@@ -5,74 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.22 00:17",
+  "generado": "2026.OCT.27 10:06",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 365000000,
-      "area": 63.0,
-      "precioM2": 5793651,
-      "administracion": 200000.0,
-      "barrio": "LA GRANJA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-granja-bogota/194355502",
-      "titulo": "Apartamento en Venta en La granja, Bogotá",
-      "id_domus": "194355502",
-      "fechaPublicacion": "2026-10-04",
-      "lat": 4.6977637,
-      "lon": -74.0968336,
-      "location_type": "exacta",
-      "zonaConsulta": "LA GRANJA",
-      "zonaSlug": "la-granja",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 335000000,
-      "area": 60.0,
-      "precioM2": 5583333,
-      "administracion": 120000.0,
-      "barrio": "TABORA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tabora-bogota/193973607",
-      "titulo": "Apartamento en Venta en Tabora, Bogotá",
-      "id_domus": "193973607",
-      "fechaPublicacion": "2026-07-09",
-      "lat": 4.6934465,
-      "lon": -74.0990361,
-      "location_type": "exacta",
-      "zonaConsulta": "LA GRANJA",
-      "zonaSlug": "la-granja",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -104,30 +40,30 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 320000000,
-      "area": 60.0,
-      "precioM2": 5333333,
-      "administracion": 145000.0,
+      "precio": 365000000,
+      "area": 63.0,
+      "precioM2": 5793651,
+      "administracion": 200000.0,
       "barrio": "LA GRANJA",
       "upl": "Tabora",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": null,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194321700",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194321700",
-      "fechaPublicacion": "2026-09-26",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-granja-bogota/194355502",
+      "titulo": "Apartamento en Venta en La granja, Bogotá",
+      "id_domus": "194355502",
+      "fechaPublicacion": "2026-10-04",
       "lat": 4.6977637,
       "lon": -74.0968336,
       "location_type": "exacta",
@@ -136,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -232,15 +168,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 520000000,
+      "precio": 495000000,
       "area": 92.0,
-      "precioM2": 5652174,
+      "precioM2": 5380435,
       "administracion": 242000.0,
       "barrio": "LA GRANJA",
       "upl": "Tabora",
@@ -264,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +264,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 421109094,
+      "area": 60.0,
+      "precioM2": 7018485,
+      "administracion": 47994791.0,
+      "barrio": "LA GRANJA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/193066287",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "193066287",
+      "fechaPublicacion": "2025-11-05",
+      "lat": 4.6968957,
+      "lon": -74.0966808,
+      "location_type": "exacta",
+      "zonaConsulta": "LA GRANJA",
+      "zonaSlug": "la-granja",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,39 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 320000000,
-      "area": 45.0,
-      "precioM2": 7111111,
-      "administracion": 350000.0,
-      "barrio": "LA GRANJA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/193856775",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "193856775",
-      "fechaPublicacion": "2026-06-09",
-      "lat": 4.6989917157872,
-      "lon": -74.098329352989,
-      "location_type": "exacta",
-      "zonaConsulta": "LA GRANJA",
-      "zonaSlug": "la-granja",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +488,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 320000000,
+      "area": 60.0,
+      "precioM2": 5333333,
+      "administracion": 145000.0,
+      "barrio": "LA GRANJA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194321700",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194321700",
+      "fechaPublicacion": "2026-09-26",
+      "lat": 4.6977637,
+      "lon": -74.0968336,
+      "location_type": "exacta",
+      "zonaConsulta": "LA GRANJA",
+      "zonaSlug": "la-granja",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-09-23",
       "lat": 4.6991143,
       "lon": -74.1012386,
+      "location_type": "exacta",
+      "zonaConsulta": "LA GRANJA",
+      "zonaSlug": "la-granja",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 198000000,
+      "area": 48.0,
+      "precioM2": 4125000,
+      "administracion": null,
+      "barrio": "LA GRANJA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194145913",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194145913",
+      "fechaPublicacion": "2026-08-21",
+      "lat": 4.7021135,
+      "lon": -74.0993252,
       "location_type": "exacta",
       "zonaConsulta": "LA GRANJA",
       "zonaSlug": "la-granja",

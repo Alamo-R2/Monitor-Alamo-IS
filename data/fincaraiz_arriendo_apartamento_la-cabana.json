@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "LA CABANA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 17:03",
+  "generado": "2026.OCT.27 10:06",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4000000,
+      "area": 250.0,
+      "precioM2": 16000,
+      "administracion": null,
+      "barrio": "LA CABANA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194411256",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194411256",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.6731779,
+      "lon": -74.1040225,
+      "location_type": "exacta",
+      "zonaConsulta": "LA CABANA",
+      "zonaSlug": "la-cabana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -82,7 +114,7 @@
       "area": 53.0,
       "precioM2": 33962,
       "administracion": null,
-      "barrio": "ALAMOS",
+      "barrio": "METROPOLIS",
       "upl": "Tabora",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -92,8 +124,8 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-alamos-bogota/194309252",
-      "titulo": "Apartamento en Arriendo en Alamos, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-metropolis-bogota/194309252",
+      "titulo": "Apartamento en Arriendo en Metropolis, Bogotá",
       "id_domus": "194309252",
       "fechaPublicacion": "2026-09-24",
       "lat": 4.6769722,
@@ -104,32 +136,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 4000000,
-      "area": 250.0,
-      "precioM2": 16000,
+      "precio": 3100000,
+      "area": 65.0,
+      "precioM2": 47692,
       "administracion": null,
-      "barrio": "LA CABANA",
+      "barrio": "NORMANDIA",
       "upl": "Tabora",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
+      "banos": 2,
+      "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194411256",
-      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
-      "id_domus": "194411256",
-      "fechaPublicacion": "2026-10-16",
-      "lat": 4.6731779,
-      "lon": -74.1040225,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-normandia-bogota/194453887",
+      "titulo": "Apartamento en Arriendo en Normandia, Bogotá",
+      "id_domus": "194453887",
+      "fechaPublicacion": "2026-10-25",
+      "lat": 4.676242,
+      "lon": -74.103654,
       "location_type": "exacta",
       "zonaConsulta": "LA CABANA",
       "zonaSlug": "la-cabana",

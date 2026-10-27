@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 7,
   "zona": "PARIS GAITAN",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.22 00:17",
+  "generado": "2026.OCT.27 10:06",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,38 +110,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1250000,
-      "area": 30.0,
-      "precioM2": 41667,
-      "administracion": 120000.0,
-      "barrio": "PARIS GAITAN",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194436017",
-      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
-      "id_domus": "194436017",
-      "fechaPublicacion": "2026-10-21",
-      "lat": 4.7091269,
-      "lon": -74.0962887,
-      "location_type": "exacta",
-      "zonaConsulta": "PARIS GAITAN",
-      "zonaSlug": "paris-gaitan",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 7580000,
       "area": 198.0,
       "precioM2": 38283,
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],

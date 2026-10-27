@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.27 01:04",
+  "generado": "2026.OCT.27 10:06",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -430,6 +430,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 560000000,
+      "area": 55.0,
+      "precioM2": 10181818,
+      "administracion": 338000.0,
+      "barrio": "JULIO FLOREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-floresta-bogota/194461862",
+      "titulo": "Apartamento en Venta en La Floresta, Bogotá",
+      "id_domus": "194461862",
+      "fechaPublicacion": "2026-10-27",
+      "lat": 4.697307613574,
+      "lon": -74.069014716231,
+      "location_type": "exacta",
+      "zonaConsulta": "JULIO FLOREZ",
+      "zonaSlug": "julio-florez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 460000000,
       "area": 56.0,
       "precioM2": 8214286,
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-08-05",
       "lat": 4.688161767408,
       "lon": -74.078326436727,
-      "location_type": "exacta",
-      "zonaConsulta": "JULIO FLOREZ",
-      "zonaSlug": "julio-florez",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 320000000,
-      "area": 62.0,
-      "precioM2": 5161290,
-      "administracion": 522000.0,
-      "barrio": "JULIO FLOREZ",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/193999335",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "193999335",
-      "fechaPublicacion": "2026-07-16",
-      "lat": 4.688579,
-      "lon": -74.0775485,
       "location_type": "exacta",
       "zonaConsulta": "JULIO FLOREZ",
       "zonaSlug": "julio-florez",
