@@ -1,7 +1,7 @@
 {
-  "generado": "2026-10-28T12:10:17",
-  "generado_humano": "2026.OCT.28 12:10",
-  "grupo_actual": "barrios_res",
+  "generado": "2026-10-28T13:55:27",
+  "generado_humano": "2026.OCT.28 13:55",
+  "grupo_actual": "barrios",
   "ciudad": "bogota",
   "datasets": [
     {
@@ -36698,49 +36698,49 @@
       "clave": "venta_oficina_sena",
       "etiqueta": "Venta - Oficina - SENA",
       "archivo": "venta_oficina_sena.json",
-      "total": 56,
+      "total": 55,
       "operacion": "venta",
       "tipo": "oficina",
       "zona": "SENA",
       "slug": "sena",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 9.1
     },
     {
       "clave": "arriendo_oficina_sena",
       "etiqueta": "Arriendo - Oficina - SENA",
       "archivo": "arriendo_oficina_sena.json",
-      "total": 59,
+      "total": 65,
       "operacion": "arriendo",
       "tipo": "oficina",
       "zona": "SENA",
       "slug": "sena",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.8
     },
     {
       "clave": "venta_bodega_sena",
       "etiqueta": "Venta - Bodega - SENA",
       "archivo": "venta_bodega_sena.json",
-      "total": 52,
+      "total": 51,
       "operacion": "venta",
       "tipo": "bodega",
       "zona": "SENA",
       "slug": "sena",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.7
     },
     {
       "clave": "arriendo_bodega_sena",
       "etiqueta": "Arriendo - Bodega - SENA",
       "archivo": "arriendo_bodega_sena.json",
-      "total": 55,
+      "total": 51,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "SENA",
       "slug": "sena",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.7
     },
     {
       "clave": "venta_edificio_sena",
@@ -36752,31 +36752,31 @@
       "zona": "SENA",
       "slug": "sena",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_edificio_sena",
       "etiqueta": "Arriendo - Edificio - SENA",
       "archivo": "arriendo_edificio_sena.json",
-      "total": 50,
+      "total": 48,
       "operacion": "arriendo",
       "tipo": "edificio",
       "zona": "SENA",
       "slug": "sena",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "venta_local_sena",
       "etiqueta": "Venta - Local - SENA",
       "archivo": "venta_local_sena.json",
-      "total": 53,
+      "total": 51,
       "operacion": "venta",
       "tipo": "local",
       "zona": "SENA",
       "slug": "sena",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.7
     },
     {
       "clave": "arriendo_local_sena",
@@ -36788,31 +36788,31 @@
       "zona": "SENA",
       "slug": "sena",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.7
     },
     {
       "clave": "venta_lote_sena",
       "etiqueta": "Venta - Lote - SENA",
       "archivo": "venta_lote_sena.json",
-      "total": 51,
+      "total": 46,
       "operacion": "venta",
       "tipo": "lote",
       "zona": "SENA",
       "slug": "sena",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_lote_sena",
       "etiqueta": "Arriendo - Lote - SENA",
       "archivo": "arriendo_lote_sena.json",
-      "total": 50,
+      "total": 43,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "SENA",
       "slug": "sena",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.7
     },
     {
       "clave": "venta_oficina_villa-mayor-oriental",
@@ -43706,13 +43706,13 @@
       "clave": "venta_oficina_santa-isabel-sur",
       "etiqueta": "Venta - Oficina - SANTA ISABEL SUR",
       "archivo": "venta_oficina_santa-isabel-sur.json",
-      "total": 0,
+      "total": 10,
       "operacion": "venta",
       "tipo": "oficina",
       "zona": "SANTA ISABEL SUR",
       "slug": "santa-isabel-sur",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 8.9
     },
     {
       "clave": "arriendo_oficina_santa-isabel-sur",
@@ -43724,7 +43724,7 @@
       "zona": "SANTA ISABEL SUR",
       "slug": "santa-isabel-sur",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.6
     },
     {
       "clave": "venta_bodega_santa-isabel-sur",
@@ -43736,13 +43736,13 @@
       "zona": "SANTA ISABEL SUR",
       "slug": "santa-isabel-sur",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 6.1
     },
     {
       "clave": "arriendo_bodega_santa-isabel-sur",
       "etiqueta": "Arriendo - Bodega - SANTA ISABEL SUR",
       "archivo": "arriendo_bodega_santa-isabel-sur.json",
-      "total": 4,
+      "total": 5,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "SANTA ISABEL SUR",
@@ -43766,7 +43766,7 @@
       "clave": "arriendo_edificio_santa-isabel-sur",
       "etiqueta": "Arriendo - Edificio - SANTA ISABEL SUR",
       "archivo": "arriendo_edificio_santa-isabel-sur.json",
-      "total": 50,
+      "total": 49,
       "operacion": "arriendo",
       "tipo": "edificio",
       "zona": "SANTA ISABEL SUR",
@@ -43784,7 +43784,7 @@
       "zona": "SANTA ISABEL SUR",
       "slug": "santa-isabel-sur",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 6.1
     },
     {
       "clave": "arriendo_local_santa-isabel-sur",
@@ -43820,7 +43820,7 @@
       "zona": "SANTA ISABEL SUR",
       "slug": "santa-isabel-sur",
       "origen": "barrio",
-      "segundos": 6.2
+      "segundos": 6.1
     },
     {
       "clave": "fincaraiz_venta_apartamento_la-alameda",
@@ -54488,43 +54488,43 @@
       "zona": "SANTA MATILDE",
       "slug": "santa-matilde",
       "origen": "barrio",
-      "segundos": 9.2
+      "segundos": 8.7
     },
     {
       "clave": "arriendo_oficina_santa-matilde",
       "etiqueta": "Arriendo - Oficina - SANTA MATILDE",
       "archivo": "arriendo_oficina_santa-matilde.json",
-      "total": 51,
+      "total": 49,
       "operacion": "arriendo",
       "tipo": "oficina",
       "zona": "SANTA MATILDE",
       "slug": "santa-matilde",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.7
     },
     {
       "clave": "venta_bodega_santa-matilde",
       "etiqueta": "Venta - Bodega - SANTA MATILDE",
       "archivo": "venta_bodega_santa-matilde.json",
-      "total": 28,
+      "total": 30,
       "operacion": "venta",
       "tipo": "bodega",
       "zona": "SANTA MATILDE",
       "slug": "santa-matilde",
       "origen": "barrio",
-      "segundos": 8.8
+      "segundos": 8.6
     },
     {
       "clave": "arriendo_bodega_santa-matilde",
       "etiqueta": "Arriendo - Bodega - SANTA MATILDE",
       "archivo": "arriendo_bodega_santa-matilde.json",
-      "total": 14,
+      "total": 19,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "SANTA MATILDE",
       "slug": "santa-matilde",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.6
     },
     {
       "clave": "venta_edificio_santa-matilde",
@@ -54536,19 +54536,19 @@
       "zona": "SANTA MATILDE",
       "slug": "santa-matilde",
       "origen": "barrio",
-      "segundos": 9.0
+      "segundos": 8.8
     },
     {
       "clave": "arriendo_edificio_santa-matilde",
       "etiqueta": "Arriendo - Edificio - SANTA MATILDE",
       "archivo": "arriendo_edificio_santa-matilde.json",
-      "total": 50,
+      "total": 48,
       "operacion": "arriendo",
       "tipo": "edificio",
       "zona": "SANTA MATILDE",
       "slug": "santa-matilde",
       "origen": "barrio",
-      "segundos": 8.9
+      "segundos": 8.7
     },
     {
       "clave": "venta_local_santa-matilde",
@@ -54572,19 +54572,19 @@
       "zona": "SANTA MATILDE",
       "slug": "santa-matilde",
       "origen": "barrio",
-      "segundos": 6.7
+      "segundos": 6.2
     },
     {
       "clave": "venta_lote_santa-matilde",
       "etiqueta": "Venta - Lote - SANTA MATILDE",
       "archivo": "venta_lote_santa-matilde.json",
-      "total": 7,
+      "total": 6,
       "operacion": "venta",
       "tipo": "lote",
       "zona": "SANTA MATILDE",
       "slug": "santa-matilde",
       "origen": "barrio",
-      "segundos": 9.1
+      "segundos": 8.6
     },
     {
       "clave": "arriendo_lote_santa-matilde",
@@ -54596,7 +54596,7 @@
       "zona": "SANTA MATILDE",
       "slug": "santa-matilde",
       "origen": "barrio",
-      "segundos": 9.2
+      "segundos": 6.1
     },
     {
       "clave": "venta_oficina_veraguas",
@@ -54608,67 +54608,67 @@
       "zona": "VERAGUAS",
       "slug": "veraguas",
       "origen": "barrio",
-      "segundos": 12.1
+      "segundos": 6.2
     },
     {
       "clave": "arriendo_oficina_veraguas",
       "etiqueta": "Arriendo - Oficina - VERAGUAS",
       "archivo": "arriendo_oficina_veraguas.json",
-      "total": 62,
+      "total": 65,
       "operacion": "arriendo",
       "tipo": "oficina",
       "zona": "VERAGUAS",
       "slug": "veraguas",
       "origen": "barrio",
-      "segundos": 26.1
+      "segundos": 8.8
     },
     {
       "clave": "venta_bodega_veraguas",
       "etiqueta": "Venta - Bodega - VERAGUAS",
       "archivo": "venta_bodega_veraguas.json",
-      "total": 0,
+      "total": 4,
       "operacion": "venta",
       "tipo": "bodega",
       "zona": "VERAGUAS",
       "slug": "veraguas",
       "origen": "barrio",
-      "segundos": 48.0
+      "segundos": 8.6
     },
     {
       "clave": "arriendo_bodega_veraguas",
       "etiqueta": "Arriendo - Bodega - VERAGUAS",
       "archivo": "arriendo_bodega_veraguas.json",
-      "total": 0,
+      "total": 5,
       "operacion": "arriendo",
       "tipo": "bodega",
       "zona": "VERAGUAS",
       "slug": "veraguas",
       "origen": "barrio",
-      "segundos": 48.0
+      "segundos": 8.8
     },
     {
       "clave": "venta_edificio_veraguas",
       "etiqueta": "Venta - Edificio - VERAGUAS",
       "archivo": "venta_edificio_veraguas.json",
-      "total": 0,
+      "total": 50,
       "operacion": "venta",
       "tipo": "edificio",
       "zona": "VERAGUAS",
       "slug": "veraguas",
       "origen": "barrio",
-      "segundos": 48.0
+      "segundos": 8.7
     },
     {
       "clave": "arriendo_edificio_veraguas",
       "etiqueta": "Arriendo - Edificio - VERAGUAS",
       "archivo": "arriendo_edificio_veraguas.json",
-      "total": 0,
+      "total": 49,
       "operacion": "arriendo",
       "tipo": "edificio",
       "zona": "VERAGUAS",
       "slug": "veraguas",
       "origen": "barrio",
-      "segundos": 48.0
+      "segundos": 8.8
     },
     {
       "clave": "venta_local_veraguas",
@@ -54680,43 +54680,43 @@
       "zona": "VERAGUAS",
       "slug": "veraguas",
       "origen": "barrio",
-      "segundos": 14.3
+      "segundos": 6.2
     },
     {
       "clave": "arriendo_local_veraguas",
       "etiqueta": "Arriendo - Local - VERAGUAS",
       "archivo": "arriendo_local_veraguas.json",
-      "total": 0,
+      "total": 14,
       "operacion": "arriendo",
       "tipo": "local",
       "zona": "VERAGUAS",
       "slug": "veraguas",
       "origen": "barrio",
-      "segundos": 14.4
+      "segundos": 8.8
     },
     {
       "clave": "venta_lote_veraguas",
       "etiqueta": "Venta - Lote - VERAGUAS",
       "archivo": "venta_lote_veraguas.json",
-      "total": 0,
+      "total": 46,
       "operacion": "venta",
       "tipo": "lote",
       "zona": "VERAGUAS",
       "slug": "veraguas",
       "origen": "barrio",
-      "segundos": 46.7
+      "segundos": 8.7
     },
     {
       "clave": "arriendo_lote_veraguas",
       "etiqueta": "Arriendo - Lote - VERAGUAS",
       "archivo": "arriendo_lote_veraguas.json",
-      "total": 0,
+      "total": 43,
       "operacion": "arriendo",
       "tipo": "lote",
       "zona": "VERAGUAS",
       "slug": "veraguas",
       "origen": "barrio",
-      "segundos": 4.3
+      "segundos": 8.7
     },
     {
       "clave": "venta_oficina_alcala",
@@ -117309,6 +117309,486 @@
       "slug": "san-victorino",
       "origen": "barrio",
       "segundos": 6.4
+    },
+    {
+      "clave": "venta_oficina_usatama",
+      "etiqueta": "Venta - Oficina - USATAMA",
+      "archivo": "venta_oficina_usatama.json",
+      "total": 55,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "USATAMA",
+      "slug": "usatama",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "arriendo_oficina_usatama",
+      "etiqueta": "Arriendo - Oficina - USATAMA",
+      "archivo": "arriendo_oficina_usatama.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "USATAMA",
+      "slug": "usatama",
+      "origen": "barrio",
+      "segundos": 6.3
+    },
+    {
+      "clave": "venta_bodega_usatama",
+      "etiqueta": "Venta - Bodega - USATAMA",
+      "archivo": "venta_bodega_usatama.json",
+      "total": 51,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "USATAMA",
+      "slug": "usatama",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "arriendo_bodega_usatama",
+      "etiqueta": "Arriendo - Bodega - USATAMA",
+      "archivo": "arriendo_bodega_usatama.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "USATAMA",
+      "slug": "usatama",
+      "origen": "barrio",
+      "segundos": 6.3
+    },
+    {
+      "clave": "venta_edificio_usatama",
+      "etiqueta": "Venta - Edificio - USATAMA",
+      "archivo": "venta_edificio_usatama.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "USATAMA",
+      "slug": "usatama",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "arriendo_edificio_usatama",
+      "etiqueta": "Arriendo - Edificio - USATAMA",
+      "archivo": "arriendo_edificio_usatama.json",
+      "total": 48,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "USATAMA",
+      "slug": "usatama",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "venta_local_usatama",
+      "etiqueta": "Venta - Local - USATAMA",
+      "archivo": "venta_local_usatama.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "USATAMA",
+      "slug": "usatama",
+      "origen": "barrio",
+      "segundos": 6.1
+    },
+    {
+      "clave": "arriendo_local_usatama",
+      "etiqueta": "Arriendo - Local - USATAMA",
+      "archivo": "arriendo_local_usatama.json",
+      "total": 57,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "USATAMA",
+      "slug": "usatama",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "venta_lote_usatama",
+      "etiqueta": "Venta - Lote - USATAMA",
+      "archivo": "venta_lote_usatama.json",
+      "total": 46,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "USATAMA",
+      "slug": "usatama",
+      "origen": "barrio",
+      "segundos": 8.6
+    },
+    {
+      "clave": "arriendo_lote_usatama",
+      "etiqueta": "Arriendo - Lote - USATAMA",
+      "archivo": "arriendo_lote_usatama.json",
+      "total": 43,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "USATAMA",
+      "slug": "usatama",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "venta_oficina_voto-nacional",
+      "etiqueta": "Venta - Oficina - VOTO NACIONAL",
+      "archivo": "venta_oficina_voto-nacional.json",
+      "total": 7,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "VOTO NACIONAL",
+      "slug": "voto-nacional",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "arriendo_oficina_voto-nacional",
+      "etiqueta": "Arriendo - Oficina - VOTO NACIONAL",
+      "archivo": "arriendo_oficina_voto-nacional.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "VOTO NACIONAL",
+      "slug": "voto-nacional",
+      "origen": "barrio",
+      "segundos": 6.1
+    },
+    {
+      "clave": "venta_bodega_voto-nacional",
+      "etiqueta": "Venta - Bodega - VOTO NACIONAL",
+      "archivo": "venta_bodega_voto-nacional.json",
+      "total": 51,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "VOTO NACIONAL",
+      "slug": "voto-nacional",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "arriendo_bodega_voto-nacional",
+      "etiqueta": "Arriendo - Bodega - VOTO NACIONAL",
+      "archivo": "arriendo_bodega_voto-nacional.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "VOTO NACIONAL",
+      "slug": "voto-nacional",
+      "origen": "barrio",
+      "segundos": 6.2
+    },
+    {
+      "clave": "venta_edificio_voto-nacional",
+      "etiqueta": "Venta - Edificio - VOTO NACIONAL",
+      "archivo": "venta_edificio_voto-nacional.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "VOTO NACIONAL",
+      "slug": "voto-nacional",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "arriendo_edificio_voto-nacional",
+      "etiqueta": "Arriendo - Edificio - VOTO NACIONAL",
+      "archivo": "arriendo_edificio_voto-nacional.json",
+      "total": 48,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "VOTO NACIONAL",
+      "slug": "voto-nacional",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "venta_local_voto-nacional",
+      "etiqueta": "Venta - Local - VOTO NACIONAL",
+      "archivo": "venta_local_voto-nacional.json",
+      "total": 7,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "VOTO NACIONAL",
+      "slug": "voto-nacional",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "arriendo_local_voto-nacional",
+      "etiqueta": "Arriendo - Local - VOTO NACIONAL",
+      "archivo": "arriendo_local_voto-nacional.json",
+      "total": 57,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "VOTO NACIONAL",
+      "slug": "voto-nacional",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "venta_lote_voto-nacional",
+      "etiqueta": "Venta - Lote - VOTO NACIONAL",
+      "archivo": "venta_lote_voto-nacional.json",
+      "total": 46,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "VOTO NACIONAL",
+      "slug": "voto-nacional",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "arriendo_lote_voto-nacional",
+      "etiqueta": "Arriendo - Lote - VOTO NACIONAL",
+      "archivo": "arriendo_lote_voto-nacional.json",
+      "total": 43,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "VOTO NACIONAL",
+      "slug": "voto-nacional",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "venta_oficina_buenos-aires",
+      "etiqueta": "Venta - Oficina - BUENOS AIRES",
+      "archivo": "venta_oficina_buenos-aires.json",
+      "total": 55,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "BUENOS AIRES",
+      "slug": "buenos-aires",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "arriendo_oficina_buenos-aires",
+      "etiqueta": "Arriendo - Oficina - BUENOS AIRES",
+      "archivo": "arriendo_oficina_buenos-aires.json",
+      "total": 65,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "BUENOS AIRES",
+      "slug": "buenos-aires",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "venta_bodega_buenos-aires",
+      "etiqueta": "Venta - Bodega - BUENOS AIRES",
+      "archivo": "venta_bodega_buenos-aires.json",
+      "total": 51,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "BUENOS AIRES",
+      "slug": "buenos-aires",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "arriendo_bodega_buenos-aires",
+      "etiqueta": "Arriendo - Bodega - BUENOS AIRES",
+      "archivo": "arriendo_bodega_buenos-aires.json",
+      "total": 51,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "BUENOS AIRES",
+      "slug": "buenos-aires",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "venta_edificio_buenos-aires",
+      "etiqueta": "Venta - Edificio - BUENOS AIRES",
+      "archivo": "venta_edificio_buenos-aires.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "BUENOS AIRES",
+      "slug": "buenos-aires",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "arriendo_edificio_buenos-aires",
+      "etiqueta": "Arriendo - Edificio - BUENOS AIRES",
+      "archivo": "arriendo_edificio_buenos-aires.json",
+      "total": 50,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "BUENOS AIRES",
+      "slug": "buenos-aires",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "venta_local_buenos-aires",
+      "etiqueta": "Venta - Local - BUENOS AIRES",
+      "archivo": "venta_local_buenos-aires.json",
+      "total": 51,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "BUENOS AIRES",
+      "slug": "buenos-aires",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "arriendo_local_buenos-aires",
+      "etiqueta": "Arriendo - Local - BUENOS AIRES",
+      "archivo": "arriendo_local_buenos-aires.json",
+      "total": 57,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "BUENOS AIRES",
+      "slug": "buenos-aires",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "venta_lote_buenos-aires",
+      "etiqueta": "Venta - Lote - BUENOS AIRES",
+      "archivo": "venta_lote_buenos-aires.json",
+      "total": 46,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "BUENOS AIRES",
+      "slug": "buenos-aires",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "arriendo_lote_buenos-aires",
+      "etiqueta": "Arriendo - Lote - BUENOS AIRES",
+      "archivo": "arriendo_lote_buenos-aires.json",
+      "total": 43,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "BUENOS AIRES",
+      "slug": "buenos-aires",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "venta_oficina_calvo-sur",
+      "etiqueta": "Venta - Oficina - CALVO SUR",
+      "archivo": "venta_oficina_calvo-sur.json",
+      "total": 10,
+      "operacion": "venta",
+      "tipo": "oficina",
+      "zona": "CALVO SUR",
+      "slug": "calvo-sur",
+      "origen": "barrio",
+      "segundos": 8.6
+    },
+    {
+      "clave": "arriendo_oficina_calvo-sur",
+      "etiqueta": "Arriendo - Oficina - CALVO SUR",
+      "archivo": "arriendo_oficina_calvo-sur.json",
+      "total": 11,
+      "operacion": "arriendo",
+      "tipo": "oficina",
+      "zona": "CALVO SUR",
+      "slug": "calvo-sur",
+      "origen": "barrio",
+      "segundos": 8.6
+    },
+    {
+      "clave": "venta_bodega_calvo-sur",
+      "etiqueta": "Venta - Bodega - CALVO SUR",
+      "archivo": "venta_bodega_calvo-sur.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "bodega",
+      "zona": "CALVO SUR",
+      "slug": "calvo-sur",
+      "origen": "barrio",
+      "segundos": 6.2
+    },
+    {
+      "clave": "arriendo_bodega_calvo-sur",
+      "etiqueta": "Arriendo - Bodega - CALVO SUR",
+      "archivo": "arriendo_bodega_calvo-sur.json",
+      "total": 5,
+      "operacion": "arriendo",
+      "tipo": "bodega",
+      "zona": "CALVO SUR",
+      "slug": "calvo-sur",
+      "origen": "barrio",
+      "segundos": 8.6
+    },
+    {
+      "clave": "venta_edificio_calvo-sur",
+      "etiqueta": "Venta - Edificio - CALVO SUR",
+      "archivo": "venta_edificio_calvo-sur.json",
+      "total": 50,
+      "operacion": "venta",
+      "tipo": "edificio",
+      "zona": "CALVO SUR",
+      "slug": "calvo-sur",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "arriendo_edificio_calvo-sur",
+      "etiqueta": "Arriendo - Edificio - CALVO SUR",
+      "archivo": "arriendo_edificio_calvo-sur.json",
+      "total": 48,
+      "operacion": "arriendo",
+      "tipo": "edificio",
+      "zona": "CALVO SUR",
+      "slug": "calvo-sur",
+      "origen": "barrio",
+      "segundos": 8.7
+    },
+    {
+      "clave": "venta_local_calvo-sur",
+      "etiqueta": "Venta - Local - CALVO SUR",
+      "archivo": "venta_local_calvo-sur.json",
+      "total": 34,
+      "operacion": "venta",
+      "tipo": "local",
+      "zona": "CALVO SUR",
+      "slug": "calvo-sur",
+      "origen": "barrio",
+      "segundos": 8.6
+    },
+    {
+      "clave": "arriendo_local_calvo-sur",
+      "etiqueta": "Arriendo - Local - CALVO SUR",
+      "archivo": "arriendo_local_calvo-sur.json",
+      "total": 3,
+      "operacion": "arriendo",
+      "tipo": "local",
+      "zona": "CALVO SUR",
+      "slug": "calvo-sur",
+      "origen": "barrio",
+      "segundos": 8.8
+    },
+    {
+      "clave": "venta_lote_calvo-sur",
+      "etiqueta": "Venta - Lote - CALVO SUR",
+      "archivo": "venta_lote_calvo-sur.json",
+      "total": 0,
+      "operacion": "venta",
+      "tipo": "lote",
+      "zona": "CALVO SUR",
+      "slug": "calvo-sur",
+      "origen": "barrio",
+      "segundos": 6.1
+    },
+    {
+      "clave": "arriendo_lote_calvo-sur",
+      "etiqueta": "Arriendo - Lote - CALVO SUR",
+      "archivo": "arriendo_lote_calvo-sur.json",
+      "total": 0,
+      "operacion": "arriendo",
+      "tipo": "lote",
+      "zona": "CALVO SUR",
+      "slug": "calvo-sur",
+      "origen": "barrio",
+      "segundos": 6.2
     }
   ],
   "consolidados": {
