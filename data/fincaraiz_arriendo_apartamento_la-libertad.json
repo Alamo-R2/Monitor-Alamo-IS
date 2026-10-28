@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "LA LIBERTAD",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.28 06:24",
+  "generado": "2026.OCT.28 21:56",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -137,6 +137,38 @@
     },
     {
       "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 24.0,
+      "precioM2": 83333,
+      "administracion": null,
+      "barrio": "LA CASTELLANA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-castellana-bogota/194467500",
+      "titulo": "Apartamento en Arriendo en La castellana, Bogotá",
+      "id_domus": "194467500",
+      "fechaPublicacion": "2026-10-28",
+      "lat": 4.678069,
+      "lon": -74.077296,
+      "location_type": "exacta",
+      "zonaConsulta": "LA LIBERTAD",
+      "zonaSlug": "la-libertad",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],

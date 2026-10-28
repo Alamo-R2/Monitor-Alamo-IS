@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 8,
   "zona": "ARBOLEDA SANTA TERESITA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 05:09",
+  "generado": "2026.OCT.28 21:56",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -201,6 +201,38 @@
     },
     {
       "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 220000000,
+      "area": 41.0,
+      "precioM2": 5365854,
+      "administracion": null,
+      "barrio": "ARBOLEDA SANTA TERESITA",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-juan-rey-bogota/194465852",
+      "titulo": "Apartamento en Venta en Juan rey, Bogotá",
+      "id_domus": "194465852",
+      "fechaPublicacion": "2026-10-27",
+      "lat": 4.5259421677882,
+      "lon": -74.087623357773,
+      "location_type": "exacta",
+      "zonaConsulta": "ARBOLEDA SANTA TERESITA",
+      "zonaSlug": "arboleda-santa-teresita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],

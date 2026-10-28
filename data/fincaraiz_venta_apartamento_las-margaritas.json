@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.28 16:19",
+  "generado": "2026.OCT.28 21:56",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 630000000,
-      "area": 143.0,
-      "precioM2": 4405594,
-      "administracion": 630000.0,
-      "barrio": "CEDRITOS",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/193381479",
-      "titulo": "Apartamento en Venta en Cedritos, Bogotá",
-      "id_domus": "193381479",
-      "fechaPublicacion": "2026-02-10",
-      "lat": 4.732867,
-      "lon": -74.0439929,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS MARGARITAS",
-      "zonaSlug": "las-margaritas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-09-11",
       "lat": 4.7292086,
       "lon": -74.0472555,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS MARGARITAS",
+      "zonaSlug": "las-margaritas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 630000000,
+      "area": 143.0,
+      "precioM2": 4405594,
+      "administracion": 630000.0,
+      "barrio": "CEDRITOS",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/193381479",
+      "titulo": "Apartamento en Venta en Cedritos, Bogotá",
+      "id_domus": "193381479",
+      "fechaPublicacion": "2026-02-10",
+      "lat": 4.732867,
+      "lon": -74.0439929,
       "location_type": "exacta",
       "zonaConsulta": "LAS MARGARITAS",
       "zonaSlug": "las-margaritas",

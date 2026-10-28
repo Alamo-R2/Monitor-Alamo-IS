@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 14,
+  "total": 13,
   "zona": "EL TRIANGULO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.26 21:58",
+  "generado": "2026.OCT.28 21:56",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -334,38 +334,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 220000000,
-      "area": 60.0,
-      "precioM2": 3666667,
-      "administracion": 108000,
-      "barrio": "CASTILLA",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194446062",
-      "titulo": "Apartamento en Venta en Castilla, Bogotá",
-      "id_domus": "194446062",
-      "fechaPublicacion": "2026-10-22",
-      "lat": 4.6368271,
-      "lon": -74.1482215,
-      "location_type": "exacta",
-      "zonaConsulta": "EL TRIANGULO",
-      "zonaSlug": "el-triangulo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 230000000,
       "area": 42.0,
       "precioM2": 5476190,
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
