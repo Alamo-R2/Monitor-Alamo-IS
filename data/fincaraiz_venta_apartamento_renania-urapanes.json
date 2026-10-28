@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.23 00:14",
+  "generado": "2026.OCT.28 16:19",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 253000000,
+      "area": 45.0,
+      "precioM2": 5622222,
+      "administracion": 161509.0,
+      "barrio": "RENANIA URAPANES",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-renania-urapanes-bogota/194314524",
+      "titulo": "Apartamento en Venta en Renania urapanes, Bogotá",
+      "id_domus": "194314524",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.6054723,
+      "lon": -74.1463121,
+      "location_type": "exacta",
+      "zonaConsulta": "RENANIA URAPANES",
+      "zonaSlug": "renania-urapanes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,39 +72,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 253000000,
-      "area": 45.0,
-      "precioM2": 5622222,
-      "administracion": 161509.0,
+      "precio": 225000000,
+      "area": 52.0,
+      "precioM2": 4326923,
+      "administracion": 285000.0,
       "barrio": "RENANIA URAPANES",
       "upl": "Kennedy",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
+      "habitaciones": 3,
+      "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-renania-urapanes-bogota/194314524",
-      "titulo": "Apartamento en Venta en Renania urapanes, Bogotá",
-      "id_domus": "194314524",
-      "fechaPublicacion": "2026-09-24",
-      "lat": 4.6054723,
-      "lon": -74.1463121,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boita-et-i-bogota/193847445",
+      "titulo": "Apartamento en Venta en Boita et. i, Bogotá",
+      "id_domus": "193847445",
+      "fechaPublicacion": "2026-06-05",
+      "lat": 4.602476,
+      "lon": -74.147991,
       "location_type": "exacta",
       "zonaConsulta": "RENANIA URAPANES",
       "zonaSlug": "renania-urapanes",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -210,7 +242,7 @@
       "area": 68.0,
       "precioM2": 5588235,
       "administracion": 236900.0,
-      "barrio": "RENANIA URAPANES",
+      "barrio": "SANTA CATALINA",
       "upl": "Kennedy",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -220,8 +252,8 @@
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nueva-delicias-bogota/194432276",
-      "titulo": "Apartamento en Venta en Nueva Delicias, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-catalina-bogota/194432276",
+      "titulo": "Apartamento en Venta en Santa catalina, Bogotá",
       "id_domus": "194432276",
       "fechaPublicacion": "2026-10-20",
       "lat": 4.603122,
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -290,38 +322,6 @@
       "fechaPublicacion": "2025-02-11",
       "lat": 4.603816016858,
       "lon": -74.149255023407,
-      "location_type": "exacta",
-      "zonaConsulta": "RENANIA URAPANES",
-      "zonaSlug": "renania-urapanes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 225000000,
-      "area": 52.0,
-      "precioM2": 4326923,
-      "administracion": 285000.0,
-      "barrio": "RENANIA URAPANES",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boita-et-i-bogota/193847445",
-      "titulo": "Apartamento en Venta en Boita et. i, Bogotá",
-      "id_domus": "193847445",
-      "fechaPublicacion": "2026-06-05",
-      "lat": 4.602476,
-      "lon": -74.147991,
       "location_type": "exacta",
       "zonaConsulta": "RENANIA URAPANES",
       "zonaSlug": "renania-urapanes",

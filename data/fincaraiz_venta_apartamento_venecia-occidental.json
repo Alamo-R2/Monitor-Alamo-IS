@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.27 01:04",
+  "generado": "2026.OCT.28 16:19",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 290000000,
+      "area": 62.0,
+      "precioM2": 4677419,
+      "administracion": null,
+      "barrio": "VENECIA",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-venecia-bogota/194163715",
+      "titulo": "Apartamento en Venta en Venecia, Bogotá",
+      "id_domus": "194163715",
+      "fechaPublicacion": "2026-08-25",
+      "lat": 4.5888245,
+      "lon": -74.14112,
+      "location_type": "exacta",
+      "zonaConsulta": "VENECIA OCCIDENTAL",
+      "zonaSlug": "venecia-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 175000000,
       "area": 65.0,
       "precioM2": 2692308,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -162,38 +194,6 @@
       "fechaPublicacion": "2026-03-25",
       "lat": 4.5914667,
       "lon": -74.1432511,
-      "location_type": "exacta",
-      "zonaConsulta": "VENECIA OCCIDENTAL",
-      "zonaSlug": "venecia-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 290000000,
-      "area": 62.0,
-      "precioM2": 4677419,
-      "administracion": null,
-      "barrio": "VENECIA",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-venecia-bogota/194163715",
-      "titulo": "Apartamento en Venta en Venecia, Bogotá",
-      "id_domus": "194163715",
-      "fechaPublicacion": "2026-08-25",
-      "lat": 4.5888245,
-      "lon": -74.14112,
       "location_type": "exacta",
       "zonaConsulta": "VENECIA OCCIDENTAL",
       "zonaSlug": "venecia-occidental",

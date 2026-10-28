@@ -1,14 +1,78 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "PROVIVIENDA NORTE",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.26 05:30",
+  "generado": "2026.OCT.28 16:19",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 290000000,
+      "area": 76.0,
+      "precioM2": 3815789,
+      "administracion": 280000,
+      "barrio": "PROVIVIENDA NORTE",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-claudia-bogota/194032207",
+      "titulo": "Apartamento en Venta en Villa claudia, Bogotá",
+      "id_domus": "194032207",
+      "fechaPublicacion": "2026-07-24",
+      "lat": 4.6147539,
+      "lon": -74.1271713,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA NORTE",
+      "zonaSlug": "provivienda-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 340000000,
+      "area": 42.0,
+      "precioM2": 8095238,
+      "administracion": 205000,
+      "barrio": "MONTEVIDEO",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2.0,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-montevideo-bogota/194458198",
+      "titulo": "Apartamento en Venta en Montevideo, Bogotá",
+      "id_domus": "194458198",
+      "fechaPublicacion": "2026-10-26",
+      "lat": 4.6170475580306,
+      "lon": -74.127509403197,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA NORTE",
+      "zonaSlug": "provivienda-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -40,39 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 290000000,
-      "area": 76.0,
-      "precioM2": 3815789,
-      "administracion": 280000,
-      "barrio": "PROVIVIENDA NORTE",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 4,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-claudia-bogota/194032207",
-      "titulo": "Apartamento en Venta en Villa claudia, Bogotá",
-      "id_domus": "194032207",
-      "fechaPublicacion": "2026-07-24",
-      "lat": 4.6147539,
-      "lon": -74.1271713,
-      "location_type": "exacta",
-      "zonaConsulta": "PROVIVIENDA NORTE",
-      "zonaSlug": "provivienda-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
