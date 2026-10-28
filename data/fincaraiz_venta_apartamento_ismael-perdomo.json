@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 20,
+  "total": 21,
   "zona": "ISMAEL PERDOMO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.22 14:54",
+  "generado": "2026.OCT.28 00:48",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 225000000,
+      "area": 59.0,
+      "precioM2": 3813559,
+      "administracion": 160000.0,
+      "barrio": "ISMAEL PERDOMO",
+      "upl": "Arborizadora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ismael-perdomo-bogota/194255073",
+      "titulo": "Apartamento en Venta en Ismael perdomo, Bogotá",
+      "id_domus": "194255073",
+      "fechaPublicacion": "2026-09-14",
+      "lat": 4.5880809,
+      "lon": -74.1620832,
+      "location_type": "exacta",
+      "zonaConsulta": "ISMAEL PERDOMO",
+      "zonaSlug": "ismael-perdomo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-10-19",
       "lat": 4.5844825977713,
       "lon": -74.159785356579,
-      "location_type": "exacta",
-      "zonaConsulta": "ISMAEL PERDOMO",
-      "zonaSlug": "ismael-perdomo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 225000000,
-      "area": 59.0,
-      "precioM2": 3813559,
-      "administracion": 160000.0,
-      "barrio": "ISMAEL PERDOMO",
-      "upl": "Arborizadora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ismael-perdomo-bogota/194255073",
-      "titulo": "Apartamento en Venta en Ismael perdomo, Bogotá",
-      "id_domus": "194255073",
-      "fechaPublicacion": "2026-09-14",
-      "lat": 4.5880809,
-      "lon": -74.1620832,
       "location_type": "exacta",
       "zonaConsulta": "ISMAEL PERDOMO",
       "zonaSlug": "ismael-perdomo",
@@ -558,6 +558,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 295000000,
+      "area": 62.0,
+      "precioM2": 4758065,
+      "administracion": null,
+      "barrio": "ISMAEL PERDOMO",
+      "upl": "Arborizadora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ismael-perdomo-bogota/194333772",
+      "titulo": "Apartamento en Venta en Ismael perdomo, Bogotá",
+      "id_domus": "194333772",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.585727465857,
+      "lon": -74.162034125671,
+      "location_type": "exacta",
+      "zonaConsulta": "ISMAEL PERDOMO",
+      "zonaSlug": "ismael-perdomo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 278000000,
       "area": 55.0,
       "precioM2": 5054545,
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
