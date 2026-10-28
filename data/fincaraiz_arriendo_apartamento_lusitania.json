@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 18,
+  "total": 19,
   "zona": "LUSITANIA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.26 05:30",
+  "generado": "2026.OCT.28 06:24",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -526,6 +526,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2700000,
+      "area": 60.0,
+      "precioM2": 45000,
+      "administracion": null,
+      "barrio": "LUSITANIA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lusitania-bogota/194463986",
+      "titulo": "Apartamento en Arriendo en Lusitania, Bogotá",
+      "id_domus": "194463986",
+      "fechaPublicacion": "2026-10-27",
+      "lat": 4.6329267,
+      "lon": -74.1238103,
+      "location_type": "exacta",
+      "zonaConsulta": "LUSITANIA",
+      "zonaSlug": "lusitania",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1600000,
       "area": 28.0,
       "precioM2": 57143,
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],

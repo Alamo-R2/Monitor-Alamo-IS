@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 19:53",
+  "generado": "2026.OCT.28 06:24",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,38 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1250000,
-      "area": 40.0,
-      "precioM2": 31250,
-      "administracion": null,
-      "barrio": "LAS DOS AVENIDAS",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nueva-castilla-bogota/194347686",
-      "titulo": "Apartamento en Arriendo en Nueva Castilla, Bogotá",
-      "id_domus": "194347686",
-      "fechaPublicacion": "2026-10-02",
-      "lat": 4.630387,
-      "lon": -74.1376756,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS DOS AVENIDAS",
-      "zonaSlug": "las-dos-avenidas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1800000,
       "area": 50.0,
       "precioM2": 36000,
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -168,39 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1500000,
-      "area": 37.0,
-      "precioM2": 40541,
-      "administracion": null,
-      "barrio": "CASTILLA",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-castilla-bogota/194448706",
-      "titulo": "Apartamento en Arriendo en Castilla, Bogotá",
-      "id_domus": "194448706",
-      "fechaPublicacion": "2026-10-23",
-      "lat": 4.6341381,
-      "lon": -74.1462195,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS DOS AVENIDAS",
-      "zonaSlug": "las-dos-avenidas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -226,6 +162,70 @@
       "fechaPublicacion": "2026-10-21",
       "lat": 4.6341381,
       "lon": -74.1462195,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS DOS AVENIDAS",
+      "zonaSlug": "las-dos-avenidas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1550000,
+      "area": 60.0,
+      "precioM2": 25833,
+      "administracion": 470000.0,
+      "barrio": "MANDALAY",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-mandalay-bogota/194464420",
+      "titulo": "Apartamento en Arriendo en Mandalay, Bogotá",
+      "id_domus": "194464420",
+      "fechaPublicacion": "2026-10-27",
+      "lat": 4.6301709,
+      "lon": -74.1399367,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS DOS AVENIDAS",
+      "zonaSlug": "las-dos-avenidas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1250000,
+      "area": 40.0,
+      "precioM2": 31250,
+      "administracion": null,
+      "barrio": "LAS DOS AVENIDAS",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nueva-castilla-bogota/194347686",
+      "titulo": "Apartamento en Arriendo en Nueva Castilla, Bogotá",
+      "id_domus": "194347686",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.630387,
+      "lon": -74.1376756,
       "location_type": "exacta",
       "zonaConsulta": "LAS DOS AVENIDAS",
       "zonaSlug": "las-dos-avenidas",

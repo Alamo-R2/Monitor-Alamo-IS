@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.22 20:54",
+  "generado": "2026.OCT.28 06:24",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1450000,
+      "area": 60.0,
+      "precioM2": 24167,
+      "administracion": null,
+      "barrio": "TIMIZA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-timiza-bogota/194444359",
+      "titulo": "Apartamento en Arriendo en Timiza, Bogotá",
+      "id_domus": "194444359",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.6208116,
+      "lon": -74.148446,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD KENNEDY CENTRAL",
+      "zonaSlug": "ciudad-kennedy-central",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1400000,
       "area": 60.0,
       "precioM2": 23333,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,15 +168,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 980000,
-      "area": 58.0,
-      "precioM2": 16897,
+      "precio": 1750000,
+      "area": 50.0,
+      "precioM2": 35000,
       "administracion": null,
       "barrio": "CIUDAD KENNEDY CENTRAL",
       "upl": "Kennedy",
@@ -152,48 +184,16 @@
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
-      "parqueaderos": 1.0,
+      "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-bogota/194331854",
-      "titulo": "Apartamento en Arriendo en Kennedy, Bogotá",
-      "id_domus": "194331854",
-      "fechaPublicacion": "2026-09-29",
-      "lat": 4.6206569,
-      "lon": -74.1402114,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD KENNEDY CENTRAL",
-      "zonaSlug": "ciudad-kennedy-central",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1700000,
-      "area": 41.0,
-      "precioM2": 41463,
-      "administracion": null,
-      "barrio": "EL REDIL",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-redil-bogota/194425855",
-      "titulo": "Apartamento en Arriendo en El redil, Bogotá",
-      "id_domus": "194425855",
-      "fechaPublicacion": "2026-10-19",
-      "lat": 4.622582,
-      "lon": -74.13903,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-central-bogota/194463860",
+      "titulo": "Apartamento en Arriendo en Kennedy Central, Bogotá",
+      "id_domus": "194463860",
+      "fechaPublicacion": "2026-10-27",
+      "lat": 4.628379,
+      "lon": -74.139516,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD KENNEDY CENTRAL",
       "zonaSlug": "ciudad-kennedy-central",
@@ -201,38 +201,6 @@
     },
     {
       "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1250000,
-      "area": 40.0,
-      "precioM2": 31250,
-      "administracion": null,
-      "barrio": "CIUDAD KENNEDY CENTRAL",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nueva-castilla-bogota/194347686",
-      "titulo": "Apartamento en Arriendo en Nueva Castilla, Bogotá",
-      "id_domus": "194347686",
-      "fechaPublicacion": "2026-10-02",
-      "lat": 4.630387,
-      "lon": -74.1376756,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD KENNEDY CENTRAL",
-      "zonaSlug": "ciudad-kennedy-central",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -546,6 +514,38 @@
       "fechaPublicacion": "2025-01-16",
       "lat": 4.6248683504949,
       "lon": -74.145228824854,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD KENNEDY CENTRAL",
+      "zonaSlug": "ciudad-kennedy-central",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2200000,
+      "area": 90.0,
+      "precioM2": 24444,
+      "administracion": null,
+      "barrio": "CIUDAD KENNEDY CENTRAL",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-kennedy-central-bogota/194457660",
+      "titulo": "Apartamento en Arriendo en Kennedy Central, Bogotá",
+      "id_domus": "194457660",
+      "fechaPublicacion": "2026-10-26",
+      "lat": 4.6224298,
+      "lon": -74.1432583,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD KENNEDY CENTRAL",
       "zonaSlug": "ciudad-kennedy-central",
