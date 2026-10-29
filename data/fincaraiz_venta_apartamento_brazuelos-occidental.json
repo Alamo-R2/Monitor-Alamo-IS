@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 05:09",
+  "generado": "2026.OCT.29 01:23",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1500000000,
+      "area": 150.0,
+      "precioM2": 10000000,
+      "administracion": 2200000.0,
+      "barrio": "LOS ROSALES",
+      "upl": "Cuenca del Tunjuelo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-rosales-bogota/193959515",
+      "titulo": "Apartamento en Venta en Los rosales, Bogotá",
+      "id_domus": "193959515",
+      "fechaPublicacion": "2026-07-06",
+      "lat": 4.496996307191,
+      "lon": -74.122850016748,
+      "location_type": "exacta",
+      "zonaConsulta": "BRAZUELOS OCCIDENTAL",
+      "zonaSlug": "brazuelos-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2025-11-02",
       "lat": 4.494873996124,
       "lon": -74.122235668683,
-      "location_type": "exacta",
-      "zonaConsulta": "BRAZUELOS OCCIDENTAL",
-      "zonaSlug": "brazuelos-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1500000000,
-      "area": 150.0,
-      "precioM2": 10000000,
-      "administracion": 2200000.0,
-      "barrio": "LOS ROSALES",
-      "upl": "Cuenca del Tunjuelo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 4,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-rosales-bogota/193959515",
-      "titulo": "Apartamento en Venta en Los rosales, Bogotá",
-      "id_domus": "193959515",
-      "fechaPublicacion": "2026-07-06",
-      "lat": 4.496996307191,
-      "lon": -74.122850016748,
       "location_type": "exacta",
       "zonaConsulta": "BRAZUELOS OCCIDENTAL",
       "zonaSlug": "brazuelos-occidental",
