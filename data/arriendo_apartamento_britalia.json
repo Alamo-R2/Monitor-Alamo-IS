@@ -1,78 +1,14 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 5,
   "zona": "Britalia",
   "origen": "upl",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.28 15:36",
+  "generado": "2026.OCT.29 15:43",
   "inmuebles": [
     {
-      "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2700000,
-      "area": 90.0,
-      "precioM2": 30000,
-      "administracion": 300000.0,
-      "barrio": "BRITALIA",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 5,
-      "banos": 4,
-      "parqueaderos": 1,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-britalia-5-habitaciones-4-banos-1-garajes/496-M2458296",
-      "titulo": "Apartamento en Arriendo, BRITALIA, Bogotá D.C.",
-      "id_domus": "496-M2458296",
-      "fechaPublicacion": null,
-      "lat": 4.750153541564941,
-      "lon": -74.0553207397461,
-      "location_type": "exacta",
-      "zonaConsulta": "Britalia",
-      "zonaSlug": "britalia",
-      "origenZona": "upl"
-    },
-    {
       "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1700000,
-      "area": 66.0,
-      "precioM2": 25758,
-      "administracion": 10000.0,
-      "barrio": "BRITALIA",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-gran-britalia-et.-i-2-habitaciones-2-banos-1-garajes/2259-M5031025",
-      "titulo": "Apartamento en Arriendo, BRITALIA SUR, Bogotá D.C.",
-      "id_domus": "2259-M5031025",
-      "fechaPublicacion": null,
-      "lat": 4.624396800994873,
-      "lon": -74.16944122314453,
-      "location_type": "exacta",
-      "zonaConsulta": "Britalia",
-      "zonaSlug": "britalia",
-      "origenZona": "upl"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +40,39 @@
       "origenZona": "upl"
     },
     {
-      "id": "MI-5",
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2700000,
+      "area": 90.0,
+      "precioM2": 30000,
+      "administracion": 300000.0,
+      "barrio": "BRITALIA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 5,
+      "banos": 4,
+      "parqueaderos": 1,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-britalia-5-habitaciones-4-banos-1-garajes/496-M2458296",
+      "titulo": "Apartamento en Arriendo, BRITALIA, Bogotá D.C.",
+      "id_domus": "496-M2458296",
+      "fechaPublicacion": null,
+      "lat": 4.750153541564941,
+      "lon": -74.0553207397461,
+      "location_type": "exacta",
+      "zonaConsulta": "Britalia",
+      "zonaSlug": "britalia",
+      "origenZona": "upl"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -136,39 +104,7 @@
       "origenZona": "upl"
     },
     {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1750000,
-      "area": 56.0,
-      "precioM2": 31250,
-      "administracion": 301000.0,
-      "barrio": "BRITALIA",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-cjr-pietra-santa-3-habitaciones-2-banos-1-garajes/MC4987328",
-      "titulo": "Apartamento en Arriendo, BRITALIA NORTE   170 y Alredores, Bogotá D.C.",
-      "id_domus": "MC4987328",
-      "fechaPublicacion": null,
-      "lat": 4.7494626,
-      "lon": -74.057846,
-      "location_type": "exacta",
-      "zonaConsulta": "Britalia",
-      "zonaSlug": "britalia",
-      "origenZona": "upl"
-    },
-    {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -200,39 +136,7 @@
       "origenZona": "upl"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2006551,
-      "area": 48.0,
-      "precioM2": 41803,
-      "administracion": 425469.0,
-      "barrio": "BRITALIA",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-san-cipriano-2-habitaciones-2-banos/MC6963319",
-      "titulo": "Apartamento en Arriendo, BRITALIA NORTE   Cedritos, Bogotá D.C.",
-      "id_domus": "MC6963319",
-      "fechaPublicacion": null,
-      "lat": 4.745328,
-      "lon": -74.04928,
-      "location_type": "exacta",
-      "zonaConsulta": "Britalia",
-      "zonaSlug": "britalia",
-      "origenZona": "upl"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
