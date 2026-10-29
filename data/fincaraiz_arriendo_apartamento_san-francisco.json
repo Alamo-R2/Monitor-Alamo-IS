@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.28 00:48",
+  "generado": "2026.OCT.29 11:09",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 100.0,
+      "precioM2": 20000,
+      "administracion": null,
+      "barrio": "SAN RAFAEL",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-rafael-bogota/194444874",
+      "titulo": "Apartamento en Arriendo en San rafael, Bogotá",
+      "id_domus": "194444874",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.621135,
+      "lon": -74.112114,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FRANCISCO",
+      "zonaSlug": "san-francisco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 12000000,
       "area": 300.0,
       "precioM2": 40000,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-10-19",
       "lat": 4.6206516,
       "lon": -74.1118169,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN FRANCISCO",
-      "zonaSlug": "san-francisco",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2000000,
-      "area": 100.0,
-      "precioM2": 20000,
-      "administracion": null,
-      "barrio": "SAN RAFAEL",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-rafael-bogota/194444874",
-      "titulo": "Apartamento en Arriendo en San rafael, Bogotá",
-      "id_domus": "194444874",
-      "fechaPublicacion": "2026-10-22",
-      "lat": 4.621135,
-      "lon": -74.112114,
       "location_type": "exacta",
       "zonaConsulta": "SAN FRANCISCO",
       "zonaSlug": "san-francisco",
