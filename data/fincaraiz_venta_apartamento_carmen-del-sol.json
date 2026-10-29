@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 00:06",
+  "generado": "2026.OCT.29 19:19",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,70 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 185000000,
-      "area": 49.0,
-      "precioM2": 3775510,
-      "administracion": 166700.0,
-      "barrio": "CARMEN DEL SOL",
-      "upl": "Rafael Uribe",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-20-de-julio-bogota/194014764",
-      "titulo": "Apartamento en Venta en 20 de julio, Bogotá",
-      "id_domus": "194014764",
-      "fechaPublicacion": "2026-07-21",
-      "lat": 4.5653631,
-      "lon": -74.1155683,
-      "location_type": "exacta",
-      "zonaConsulta": "CARMEN DEL SOL",
-      "zonaSlug": "carmen-del-sol",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 220000000,
-      "area": 49.0,
-      "precioM2": 4489796,
-      "administracion": 170000.0,
-      "barrio": "MARCO FIDEL SUAREZ",
-      "upl": "Rafael Uribe",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-marco-fidel-suarez-bogota/194018933",
-      "titulo": "Apartamento en Venta en Marco fidel suarez, Bogotá",
-      "id_domus": "194018933",
-      "fechaPublicacion": "2026-07-22",
-      "lat": 4.5653487,
-      "lon": -74.115453,
-      "location_type": "exacta",
-      "zonaConsulta": "CARMEN DEL SOL",
-      "zonaSlug": "carmen-del-sol",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 180000000,
       "area": 49.0,
       "precioM2": 3673469,
@@ -136,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -258,6 +194,70 @@
       "fechaPublicacion": "2025-12-01",
       "lat": 4.5649903,
       "lon": -74.1125591,
+      "location_type": "exacta",
+      "zonaConsulta": "CARMEN DEL SOL",
+      "zonaSlug": "carmen-del-sol",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 185000000,
+      "area": 49.0,
+      "precioM2": 3775510,
+      "administracion": 166700.0,
+      "barrio": "CARMEN DEL SOL",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-20-de-julio-bogota/194014764",
+      "titulo": "Apartamento en Venta en 20 de julio, Bogotá",
+      "id_domus": "194014764",
+      "fechaPublicacion": "2026-07-21",
+      "lat": 4.5653631,
+      "lon": -74.1155683,
+      "location_type": "exacta",
+      "zonaConsulta": "CARMEN DEL SOL",
+      "zonaSlug": "carmen-del-sol",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 220000000,
+      "area": 49.0,
+      "precioM2": 4489796,
+      "administracion": 170000.0,
+      "barrio": "MARCO FIDEL SUAREZ",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-marco-fidel-suarez-bogota/194018933",
+      "titulo": "Apartamento en Venta en Marco fidel suarez, Bogotá",
+      "id_domus": "194018933",
+      "fechaPublicacion": "2026-07-22",
+      "lat": 4.5653487,
+      "lon": -74.115453,
       "location_type": "exacta",
       "zonaConsulta": "CARMEN DEL SOL",
       "zonaSlug": "carmen-del-sol",

@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 00:06",
+  "generado": "2026.OCT.29 19:19",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1100000000,
+      "area": 97.0,
+      "precioM2": 11340206,
+      "administracion": null,
+      "barrio": "EL NEVADO",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-nevado-bogota/194473130",
+      "titulo": "Apartamento en Venta en El nevado, Bogotá",
+      "id_domus": "194473130",
+      "fechaPublicacion": "2026-10-29",
+      "lat": 4.5303943010623,
+      "lon": -74.112437894067,
+      "location_type": "exacta",
+      "zonaConsulta": "EL NEVADO",
+      "zonaSlug": "el-nevado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2025-11-08",
       "lat": 4.5287401741627,
       "lon": -74.11584019661,
-      "location_type": "exacta",
-      "zonaConsulta": "EL NEVADO",
-      "zonaSlug": "el-nevado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1100000000,
-      "area": 97.0,
-      "precioM2": 11340206,
-      "administracion": null,
-      "barrio": "EL NEVADO",
-      "upl": "Rafael Uribe",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-nevado-bogota/193821295",
-      "titulo": "Apartamento en Venta en El nevado, Bogotá",
-      "id_domus": "193821295",
-      "fechaPublicacion": "2026-05-30",
-      "lat": 4.5303943010623,
-      "lon": -74.112437894067,
       "location_type": "exacta",
       "zonaConsulta": "EL NEVADO",
       "zonaSlug": "el-nevado",

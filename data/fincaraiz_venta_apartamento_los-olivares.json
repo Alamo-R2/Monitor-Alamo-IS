@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 00:06",
+  "generado": "2026.OCT.29 19:19",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2900000000,
+      "area": 335.0,
+      "precioM2": 8656716,
+      "administracion": 2800000,
+      "barrio": "LOS ROSALES",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 4.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-rosales-bogota/191491603",
+      "titulo": "Apartamento en  Venta en Los rosales, Bogotá",
+      "id_domus": "191491603",
+      "fechaPublicacion": "2024-09-26",
+      "lat": 4.5122773414887,
+      "lon": -74.106377371692,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS OLIVARES",
+      "zonaSlug": "los-olivares",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-10-11",
       "lat": 4.511491464734,
       "lon": -74.10391336361,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS OLIVARES",
-      "zonaSlug": "los-olivares",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2900000000,
-      "area": 335.0,
-      "precioM2": 8656716,
-      "administracion": 2800000,
-      "barrio": "LOS ROSALES",
-      "upl": "Rafael Uribe",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 5,
-      "parqueaderos": 4.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-rosales-bogota/191491603",
-      "titulo": "Apartamento en  Venta en Los rosales, Bogotá",
-      "id_domus": "191491603",
-      "fechaPublicacion": "2024-09-26",
-      "lat": 4.5122773414887,
-      "lon": -74.106377371692,
       "location_type": "exacta",
       "zonaConsulta": "LOS OLIVARES",
       "zonaSlug": "los-olivares",
