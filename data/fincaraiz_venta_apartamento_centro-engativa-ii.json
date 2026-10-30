@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 13:44",
+  "generado": "2026.OCT.30 11:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -216,7 +216,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1.0,
+      "parqueaderos": null,
       "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -526,38 +526,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 258000000,
-      "area": 48.0,
-      "precioM2": 5375000,
-      "administracion": 166900.0,
-      "barrio": "VILLA GLADYS",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-gladys-bogota/194143700",
-      "titulo": "Apartamento en Venta en Villa gladys, Bogotá",
-      "id_domus": "194143700",
-      "fechaPublicacion": "2026-08-21",
-      "lat": 4.7066289,
-      "lon": -74.1339669,
-      "location_type": "exacta",
-      "zonaConsulta": "CENTRO ENGATIVA II",
-      "zonaSlug": "centro-engativa-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 165000000,
       "area": 45.0,
       "precioM2": 3666667,
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-07-27",
       "lat": 4.7098563322369,
       "lon": -74.136288532496,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTRO ENGATIVA II",
+      "zonaSlug": "centro-engativa-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 210000000,
+      "area": 51.0,
+      "precioM2": 4117647,
+      "administracion": 113000.0,
+      "barrio": "CENTRO ENGATIVA II",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/193784386",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "193784386",
+      "fechaPublicacion": "2026-05-22",
+      "lat": 4.7132896,
+      "lon": -74.1351038,
       "location_type": "exacta",
       "zonaConsulta": "CENTRO ENGATIVA II",
       "zonaSlug": "centro-engativa-ii",

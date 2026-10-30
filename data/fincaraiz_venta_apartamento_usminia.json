@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "USMINIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 13:44",
+  "generado": "2026.OCT.30 11:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 140000000,
+      "area": null,
+      "precioM2": null,
+      "administracion": 110000.0,
+      "barrio": "USMINIA",
+      "upl": "Usme - Entrenubes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-usminia-bogota/194471307",
+      "titulo": "Apartamento en Venta en Usminia, Bogotá",
+      "id_domus": "194471307",
+      "fechaPublicacion": "2026-10-28",
+      "lat": 4.495222,
+      "lon": -74.113379,
+      "location_type": "exacta",
+      "zonaConsulta": "USMINIA",
+      "zonaSlug": "usminia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1095000000,
       "area": 164.0,
       "precioM2": 6676829,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],

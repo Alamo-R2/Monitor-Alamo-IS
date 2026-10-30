@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 13:44",
+  "generado": "2026.OCT.30 11:04",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 239000000,
+      "area": 49.0,
+      "precioM2": 4877551,
+      "administracion": 190000.0,
+      "barrio": "VILLAS DE ALCALA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194464645",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194464645",
+      "fechaPublicacion": "2026-10-27",
+      "lat": 4.7179663,
+      "lon": -74.1279158,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLAS DE ALCALA",
+      "zonaSlug": "villas-de-alcala",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,47 +104,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 59.0,
-      "precioM2": 5254237,
-      "administracion": 255000.0,
-      "barrio": "VILLA GLADYS",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-gladys-bogota/194164055",
-      "titulo": "Apartamento en Venta en Villa gladys, Bogotá",
-      "id_domus": "194164055",
-      "fechaPublicacion": "2026-08-25",
-      "lat": 4.714364434925,
-      "lon": -74.128061716504,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLAS DE ALCALA",
-      "zonaSlug": "villas-de-alcala",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-4",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 318000000,
+      "precio": 310000000,
       "area": 64.0,
-      "precioM2": 4968750,
+      "precioM2": 4843750,
       "administracion": 250000.0,
       "barrio": "VILLAS DE GRANADA",
       "upl": "Engativá",
@@ -174,9 +174,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 428000000,
+      "precio": 425000000,
       "area": 77.0,
-      "precioM2": 5558442,
+      "precioM2": 5519481,
       "administracion": 444000.0,
       "barrio": "GRAN GRANADA",
       "upl": "Engativá",
@@ -201,38 +201,6 @@
     },
     {
       "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 59.0,
-      "precioM2": 5254237,
-      "administracion": 276000.0,
-      "barrio": "VILLA GLADYS",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-gladys-bogota/194164057",
-      "titulo": "Apartamento en Venta en Villa gladys, Bogotá",
-      "id_domus": "194164057",
-      "fechaPublicacion": "2026-08-25",
-      "lat": 4.714213686396,
-      "lon": -74.128232958786,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLAS DE ALCALA",
-      "zonaSlug": "villas-de-alcala",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,39 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 285000000,
-      "area": 55.0,
-      "precioM2": 5181818,
-      "administracion": null,
-      "barrio": "VILLAS DE GRANADA",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villas-de-granada-bogota/194004457",
-      "titulo": "Apartamento en Venta en Villas de Granada, Bogotá",
-      "id_domus": "194004457",
-      "fechaPublicacion": "2026-07-17",
-      "lat": 4.7144673,
-      "lon": -74.1281891,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLAS DE ALCALA",
-      "zonaSlug": "villas-de-alcala",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +424,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 285000000,
+      "area": 58.0,
+      "precioM2": 4913793,
+      "administracion": null,
+      "barrio": "VILLAS DE GRANADA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villas-de-granada-bogota/194437483",
+      "titulo": "Apartamento en Venta en Villas de Granada, Bogotá",
+      "id_domus": "194437483",
+      "fechaPublicacion": "2026-10-21",
+      "lat": 4.7169239769565,
+      "lon": -74.129372896096,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLAS DE ALCALA",
+      "zonaSlug": "villas-de-alcala",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -514,6 +482,38 @@
       "fechaPublicacion": "2026-10-12",
       "lat": 4.7144673,
       "lon": -74.1281891,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLAS DE ALCALA",
+      "zonaSlug": "villas-de-alcala",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 49.0,
+      "precioM2": 4897959,
+      "administracion": 286000.0,
+      "barrio": "GRAN GRANADA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194095761",
+      "titulo": "Apartamento en Venta en Gran granada, Bogotá",
+      "id_domus": "194095761",
+      "fechaPublicacion": "2026-08-10",
+      "lat": 4.7176875,
+      "lon": -74.1302734,
       "location_type": "exacta",
       "zonaConsulta": "VILLAS DE ALCALA",
       "zonaSlug": "villas-de-alcala",
@@ -590,38 +590,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 259785000,
-      "area": 50.0,
-      "precioM2": 5195700,
-      "administracion": 150000.0,
-      "barrio": "VILLAS DE ALCALA",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-centro-bogota/194399340",
-      "titulo": "Apartamento en Venta en Engativa centro, Bogotá",
-      "id_domus": "194399340",
-      "fechaPublicacion": "2026-10-14",
-      "lat": 4.717763925305,
-      "lon": -74.12925244967,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLAS DE ALCALA",
-      "zonaSlug": "villas-de-alcala",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 263000000,
       "area": 50.0,
       "precioM2": 5260000,
@@ -642,6 +610,38 @@
       "fechaPublicacion": "2026-09-23",
       "lat": 4.7191984,
       "lon": -74.1284013,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLAS DE ALCALA",
+      "zonaSlug": "villas-de-alcala",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 340000000,
+      "area": 60.0,
+      "precioM2": 5666667,
+      "administracion": null,
+      "barrio": "GRAN GRANADA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194458723",
+      "titulo": "Apartamento en Venta en Gran granada, Bogotá",
+      "id_domus": "194458723",
+      "fechaPublicacion": "2026-10-26",
+      "lat": 4.72102,
+      "lon": -74.133537,
       "location_type": "exacta",
       "zonaConsulta": "VILLAS DE ALCALA",
       "zonaSlug": "villas-de-alcala",
