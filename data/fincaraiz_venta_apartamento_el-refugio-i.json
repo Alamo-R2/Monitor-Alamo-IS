@@ -5,74 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 05:09",
+  "generado": "2026.OCT.30 01:24",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000000,
-      "area": 160.0,
-      "precioM2": 7500000,
-      "administracion": null,
-      "barrio": "EL REFUGIO I",
-      "upl": "Usme - Entrenubes",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-alto-bogota/194442229",
-      "titulo": "Apartamento en Venta en Chicó Alto, Bogotá",
-      "id_domus": "194442229",
-      "fechaPublicacion": "2026-10-22",
-      "lat": 4.6695147,
-      "lon": -74.0425763,
-      "location_type": "exacta",
-      "zonaConsulta": "EL REFUGIO I",
-      "zonaSlug": "el-refugio-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3200000000,
-      "area": 382.0,
-      "precioM2": 8376963,
-      "administracion": 2788000.0,
-      "barrio": "EL REFUGIO",
-      "upl": "Usme - Entrenubes",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 4,
-      "parqueaderos": 4.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-refugio-bogota/191871262",
-      "titulo": "Apartamento en Venta en El refugio, Bogotá",
-      "id_domus": "191871262",
-      "fechaPublicacion": "2025-01-13",
-      "lat": 4.6690461,
-      "lon": -74.043025,
-      "location_type": "exacta",
-      "zonaConsulta": "EL REFUGIO I",
-      "zonaSlug": "el-refugio-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +40,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000000,
+      "area": 181.0,
+      "precioM2": 8839779,
+      "administracion": 1940000.0,
+      "barrio": "EL REFUGIO I",
+      "upl": "Usme - Entrenubes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-alto-bogota/194214708",
+      "titulo": "Apartamento en Venta en Chicó Alto, Bogotá",
+      "id_domus": "194214708",
+      "fechaPublicacion": "2026-09-05",
+      "lat": 4.668663,
+      "lon": -74.043063,
+      "location_type": "exacta",
+      "zonaConsulta": "EL REFUGIO I",
+      "zonaSlug": "el-refugio-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -130,6 +98,38 @@
       "fechaPublicacion": "2023-10-30",
       "lat": 4.6687559,
       "lon": -74.0423662,
+      "location_type": "exacta",
+      "zonaConsulta": "EL REFUGIO I",
+      "zonaSlug": "el-refugio-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000000,
+      "area": 160.0,
+      "precioM2": 7500000,
+      "administracion": null,
+      "barrio": "EL REFUGIO I",
+      "upl": "Usme - Entrenubes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 5,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-alto-bogota/194442229",
+      "titulo": "Apartamento en Venta en Chicó Alto, Bogotá",
+      "id_domus": "194442229",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.6695147,
+      "lon": -74.0425763,
       "location_type": "exacta",
       "zonaConsulta": "EL REFUGIO I",
       "zonaSlug": "el-refugio-i",
@@ -174,38 +174,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1900000000,
-      "area": 279.0,
-      "precioM2": 6810036,
-      "administracion": 1698000.0,
-      "barrio": "EL REFUGIO I",
-      "upl": "Usme - Entrenubes",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 3.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cajica/192806058",
-      "titulo": "Apartamento en Venta en Cajicá",
-      "id_domus": "192806058",
-      "fechaPublicacion": "2025-08-29",
-      "lat": 4.6694680936108,
-      "lon": -74.042450919865,
-      "location_type": "exacta",
-      "zonaConsulta": "EL REFUGIO I",
-      "zonaSlug": "el-refugio-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1400000000,
       "area": 266.0,
       "precioM2": 5263158,
@@ -232,103 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1930000000,
-      "area": 273.0,
-      "precioM2": 7069597,
-      "administracion": 2500000.0,
-      "barrio": "EL REFUGIO I",
-      "upl": "Usme - Entrenubes",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 3.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-refugio-i-bogota/194051805",
-      "titulo": "Apartamento en Venta en El refugio i, Bogotá",
-      "id_domus": "194051805",
-      "fechaPublicacion": "2026-07-29",
-      "lat": 4.630164582518,
-      "lon": -74.063117480575,
-      "location_type": "exacta",
-      "zonaConsulta": "EL REFUGIO I",
-      "zonaSlug": "el-refugio-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2600000000,
-      "area": 361.0,
-      "precioM2": 7202216,
-      "administracion": 2500000.0,
-      "barrio": "EL REFUGIO I",
-      "upl": "Usme - Entrenubes",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 3.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-alto-bogota/193298132",
-      "titulo": "Apartamento en Venta en Chicó Alto, Bogotá",
-      "id_domus": "193298132",
-      "fechaPublicacion": "2026-01-21",
-      "lat": 4.6679122610367,
-      "lon": -74.043312543431,
-      "location_type": "exacta",
-      "zonaConsulta": "EL REFUGIO I",
-      "zonaSlug": "el-refugio-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2900000000,
-      "area": 331.0,
-      "precioM2": 8761329,
-      "administracion": 2920000.0,
-      "barrio": "EL REFUGIO I",
-      "upl": "Usme - Entrenubes",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 3.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-alto-bogota/194438953",
-      "titulo": "Apartamento en Venta en Chicó Alto, Bogotá",
-      "id_domus": "194438953",
-      "fechaPublicacion": "2026-10-21",
-      "lat": 4.6688917,
-      "lon": -74.0430846,
-      "location_type": "exacta",
-      "zonaConsulta": "EL REFUGIO I",
-      "zonaSlug": "el-refugio-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -616,39 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 5350000000,
-      "area": 450.0,
-      "precioM2": 11888889,
-      "administracion": 4300000.0,
-      "barrio": "EL REFUGIO I",
-      "upl": "Usme - Entrenubes",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 5,
-      "parqueaderos": 4.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-alto-bogota/194344333",
-      "titulo": "Apartamento en Venta en Chicó Alto, Bogotá",
-      "id_domus": "194344333",
-      "fechaPublicacion": "2026-10-01",
-      "lat": 4.6688205373116,
-      "lon": -74.04344472981,
-      "location_type": "exacta",
-      "zonaConsulta": "EL REFUGIO I",
-      "zonaSlug": "el-refugio-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +514,166 @@
       "fechaPublicacion": "2026-03-19",
       "lat": 4.6686628,
       "lon": -74.043063,
+      "location_type": "exacta",
+      "zonaConsulta": "EL REFUGIO I",
+      "zonaSlug": "el-refugio-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1750000000,
+      "area": 205.0,
+      "precioM2": 8536585,
+      "administracion": 1900000.0,
+      "barrio": "EL REFUGIO",
+      "upl": "Usme - Entrenubes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 3.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-refugio-bogota/194081927",
+      "titulo": "Apartamento en Venta en El refugio, Bogotá",
+      "id_domus": "194081927",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.6688847,
+      "lon": -74.0409594,
+      "location_type": "exacta",
+      "zonaConsulta": "EL REFUGIO I",
+      "zonaSlug": "el-refugio-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2300000000,
+      "area": 388.0,
+      "precioM2": 5927835,
+      "administracion": 2904000.0,
+      "barrio": "EL REFUGIO",
+      "upl": "Usme - Entrenubes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 5,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-refugio-bogota/193341243",
+      "titulo": "Apartamento en Venta en El refugio, Bogotá",
+      "id_domus": "193341243",
+      "fechaPublicacion": "2026-01-30",
+      "lat": 4.6689999,
+      "lon": -74.041453,
+      "location_type": "exacta",
+      "zonaConsulta": "EL REFUGIO I",
+      "zonaSlug": "el-refugio-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4000000000,
+      "area": 445.0,
+      "precioM2": 8988764,
+      "administracion": 3082000.0,
+      "barrio": "EL REFUGIO",
+      "upl": "Usme - Entrenubes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 3.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-refugio-bogota/191412024",
+      "titulo": "Apartamento en  Venta en El refugio, Bogotá",
+      "id_domus": "191412024",
+      "fechaPublicacion": "2024-09-17",
+      "lat": 4.6692029075888,
+      "lon": -74.041642622375,
+      "location_type": "exacta",
+      "zonaConsulta": "EL REFUGIO I",
+      "zonaSlug": "el-refugio-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3400000000,
+      "area": 385.0,
+      "precioM2": 8831169,
+      "administracion": 3500000.0,
+      "barrio": "EL REFUGIO I",
+      "upl": "Usme - Entrenubes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 4.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-alto-bogota/193918903",
+      "titulo": "Apartamento en Venta en Chicó Alto, Bogotá",
+      "id_domus": "193918903",
+      "fechaPublicacion": "2026-06-25",
+      "lat": 4.6690594,
+      "lon": -74.0404117,
+      "location_type": "exacta",
+      "zonaConsulta": "EL REFUGIO I",
+      "zonaSlug": "el-refugio-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2400000000,
+      "area": 355.0,
+      "precioM2": 6760563,
+      "administracion": 3500000.0,
+      "barrio": "EL REFUGIO",
+      "upl": "Usme - Entrenubes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-refugio-bogota/194040611",
+      "titulo": "Apartamento en Venta en El refugio, Bogotá",
+      "id_domus": "194040611",
+      "fechaPublicacion": "2026-07-27",
+      "lat": 4.6684236,
+      "lon": -74.0430709,
       "location_type": "exacta",
       "zonaConsulta": "EL REFUGIO I",
       "zonaSlug": "el-refugio-i",

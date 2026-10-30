@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 7,
   "zona": "EL PINAR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 05:09",
+  "generado": "2026.OCT.30 01:24",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 220000000,
-      "area": 49.0,
-      "precioM2": 4489796,
-      "administracion": null,
-      "barrio": "MARCO FIDEL SUAREZ",
-      "upl": "Usme - Entrenubes",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-marco-fidel-suarez-bogota/193204214",
-      "titulo": "Apartamento en Venta en Marco fidel suarez, Bogotá",
-      "id_domus": "193204214",
-      "fechaPublicacion": "2025-12-15",
-      "lat": 4.538892393251,
-      "lon": -74.085084094706,
-      "location_type": "exacta",
-      "zonaConsulta": "EL PINAR",
-      "zonaSlug": "el-pinar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 300000000,
+      "area": 61.0,
+      "precioM2": 4918033,
+      "administracion": 210000.0,
+      "barrio": "EL PINAR",
+      "upl": "Usme - Entrenubes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-pinar-bogota/10665545",
+      "titulo": "Apartamento en Venta en El pinar, Bogotá",
+      "id_domus": "10665545",
+      "fechaPublicacion": "2024-03-06",
+      "lat": 4.747473272541,
+      "lon": -74.085081860572,
+      "location_type": "exacta",
+      "zonaConsulta": "EL PINAR",
+      "zonaSlug": "el-pinar",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 220000000,
+      "area": 49.0,
+      "precioM2": 4489796,
+      "administracion": null,
+      "barrio": "MARCO FIDEL SUAREZ",
+      "upl": "Usme - Entrenubes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-marco-fidel-suarez-bogota/193204214",
+      "titulo": "Apartamento en Venta en Marco fidel suarez, Bogotá",
+      "id_domus": "193204214",
+      "fechaPublicacion": "2025-12-15",
+      "lat": 4.538892393251,
+      "lon": -74.085084094706,
+      "location_type": "exacta",
+      "zonaConsulta": "EL PINAR",
+      "zonaSlug": "el-pinar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 345000000,
+      "area": 73.0,
+      "precioM2": 4726027,
+      "administracion": null,
+      "barrio": "EL PINAR",
+      "upl": "Usme - Entrenubes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-pinar-bogota/194452189",
+      "titulo": "Apartamento en Venta en El pinar, Bogotá",
+      "id_domus": "194452189",
+      "fechaPublicacion": "2026-10-24",
+      "lat": 4.7490462,
+      "lon": -74.0859964,
+      "location_type": "exacta",
+      "zonaConsulta": "EL PINAR",
+      "zonaSlug": "el-pinar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
