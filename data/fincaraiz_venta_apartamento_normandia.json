@@ -1,14 +1,78 @@
 {
   "ok": true,
-  "total": 20,
+  "total": 21,
   "zona": "NORMANDIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 17:03",
+  "generado": "2026.OCT.30 18:54",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 420000000,
+      "area": 61.0,
+      "precioM2": 6885246,
+      "administracion": 86000.0,
+      "barrio": "NORMANDIA",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/194344122",
+      "titulo": "Apartamento en Venta en Normandia, Bogotá",
+      "id_domus": "194344122",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.6679345,
+      "lon": -74.1046129,
+      "location_type": "exacta",
+      "zonaConsulta": "NORMANDIA",
+      "zonaSlug": "normandia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1570000000,
+      "area": 128.0,
+      "precioM2": 12265625,
+      "administracion": null,
+      "barrio": "NORMANDIA",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/navarra-apartamento-en-venta-en-engativa-bogota/192126238",
+      "titulo": "NAVARRA, Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "192126238",
+      "fechaPublicacion": "2025-03-11",
+      "lat": 4.6654219563723,
+      "lon": -74.108341635474,
+      "location_type": "exacta",
+      "zonaConsulta": "NORMANDIA",
+      "zonaSlug": "normandia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -40,16 +104,16 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 500000000,
-      "area": 96.0,
-      "precioM2": 5208333,
-      "administracion": null,
+      "precio": 480000000,
+      "area": 77.0,
+      "precioM2": 6233766,
+      "administracion": 260000.0,
       "barrio": "NORMANDIA",
       "upl": "Salitre",
       "ciudad": "Bogotá",
@@ -57,79 +121,15 @@
       "habitaciones": 3,
       "banos": 3,
       "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/194117726",
-      "titulo": "Apartamento en Venta en Normandia, Bogotá",
-      "id_domus": "194117726",
-      "fechaPublicacion": "2026-08-14",
-      "lat": 4.6685200000001,
-      "lon": -74.10703,
-      "location_type": "exacta",
-      "zonaConsulta": "NORMANDIA",
-      "zonaSlug": "normandia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 261000000,
-      "area": 23.0,
-      "precioM2": 11347826,
-      "administracion": null,
-      "barrio": "NORMANDIA",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/193366936",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/194192886",
       "titulo": "Apartamento en Venta en Normandia, Bogotá",
-      "id_domus": "193366936",
-      "fechaPublicacion": "2026-02-06",
-      "lat": 4.668876,
-      "lon": -74.111056,
-      "location_type": "exacta",
-      "zonaConsulta": "NORMANDIA",
-      "zonaSlug": "normandia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1570000000,
-      "area": 128.0,
-      "precioM2": 12265625,
-      "administracion": null,
-      "barrio": "NORMANDIA",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/navarra-apartamento-en-venta-en-engativa-bogota/192126238",
-      "titulo": "NAVARRA, Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "192126238",
-      "fechaPublicacion": "2025-03-11",
-      "lat": 4.6654219563723,
-      "lon": -74.108341635474,
+      "id_domus": "194192886",
+      "fechaPublicacion": "2026-09-01",
+      "lat": 4.6848888,
+      "lon": -74.0992245,
       "location_type": "exacta",
       "zonaConsulta": "NORMANDIA",
       "zonaSlug": "normandia",
@@ -174,38 +174,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 420000000,
-      "area": 61.0,
-      "precioM2": 6885246,
-      "administracion": 86000.0,
-      "barrio": "NORMANDIA",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/194344122",
-      "titulo": "Apartamento en Venta en Normandia, Bogotá",
-      "id_domus": "194344122",
-      "fechaPublicacion": "2026-10-01",
-      "lat": 4.6679345,
-      "lon": -74.1046129,
-      "location_type": "exacta",
-      "zonaConsulta": "NORMANDIA",
-      "zonaSlug": "normandia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 670000000,
       "area": 69.0,
       "precioM2": 9710145,
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,103 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 500000000,
+      "area": 96.0,
+      "precioM2": 5208333,
+      "administracion": null,
+      "barrio": "NORMANDIA",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/194117726",
+      "titulo": "Apartamento en Venta en Normandia, Bogotá",
+      "id_domus": "194117726",
+      "fechaPublicacion": "2026-08-14",
+      "lat": 4.6685200000001,
+      "lon": -74.10703,
+      "location_type": "exacta",
+      "zonaConsulta": "NORMANDIA",
+      "zonaSlug": "normandia",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 261000000,
+      "area": 23.0,
+      "precioM2": 11347826,
+      "administracion": null,
+      "barrio": "NORMANDIA",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/193366936",
+      "titulo": "Apartamento en Venta en Normandia, Bogotá",
+      "id_domus": "193366936",
+      "fechaPublicacion": "2026-02-06",
+      "lat": 4.668876,
+      "lon": -74.111056,
+      "location_type": "exacta",
+      "zonaConsulta": "NORMANDIA",
+      "zonaSlug": "normandia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 685000000,
+      "area": 192.0,
+      "precioM2": 3567708,
+      "administracion": null,
+      "barrio": "NORMANDIA OCCIDENTAL",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-occidental-bogota/192768597",
+      "titulo": "Apartamento en Venta en Normandia occidental, Bogotá",
+      "id_domus": "192768597",
+      "fechaPublicacion": "2025-08-19",
+      "lat": 4.6669534958691,
+      "lon": -74.10976623374,
+      "location_type": "exacta",
+      "zonaConsulta": "NORMANDIA",
+      "zonaSlug": "normandia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -488,15 +552,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 560000000,
+      "precio": 550000000,
       "area": 62.0,
-      "precioM2": 9032258,
+      "precioM2": 8870968,
       "administracion": 442000.0,
       "barrio": "NORMANDIA",
       "upl": "Salitre",
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -584,16 +648,16 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 450000000,
-      "area": 72.0,
-      "precioM2": 6250000,
-      "administracion": null,
+      "precio": 315000000,
+      "area": 57.0,
+      "precioM2": 5526316,
+      "administracion": 357000.0,
       "barrio": "NORMANDIA",
       "upl": "Salitre",
       "ciudad": "Bogotá",
@@ -604,44 +668,12 @@
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/193192956",
-      "titulo": "Apartamento en Venta en Normandia, Bogotá",
-      "id_domus": "193192956",
-      "fechaPublicacion": "2025-12-11",
-      "lat": 4.6717643,
-      "lon": -74.1078043,
-      "location_type": "exacta",
-      "zonaConsulta": "NORMANDIA",
-      "zonaSlug": "normandia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 599580000,
-      "area": 66.0,
-      "precioM2": 9084545,
-      "administracion": null,
-      "barrio": "NORMANDIA",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/192884223",
-      "titulo": "Apartamento en Venta en Normandia, Bogotá",
-      "id_domus": "192884223",
-      "fechaPublicacion": "2025-09-17",
-      "lat": 4.6696822,
-      "lon": -74.1041147,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/193936081",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "193936081",
+      "fechaPublicacion": "2026-06-30",
+      "lat": 4.6721548,
+      "lon": -74.1066967,
       "location_type": "exacta",
       "zonaConsulta": "NORMANDIA",
       "zonaSlug": "normandia",

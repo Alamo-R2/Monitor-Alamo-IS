@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "VILLA CARMENZA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 17:03",
+  "generado": "2026.OCT.30 18:54",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1150000,
+      "area": 30.0,
+      "precioM2": 38333,
+      "administracion": null,
+      "barrio": "VILLA CARMENZA",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/194424978",
+      "titulo": "Apartamento en Arriendo en Fontibon, Bogotá",
+      "id_domus": "194424978",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.68390941838,
+      "lon": -74.150809028256,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA CARMENZA",
+      "zonaSlug": "villa-carmenza",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,32 +104,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1150000,
-      "area": 30.0,
-      "precioM2": 38333,
-      "administracion": null,
+      "precio": 1550000,
+      "area": 48.0,
+      "precioM2": 32292,
+      "administracion": 160000.0,
       "barrio": "VILLA CARMENZA",
       "upl": "Fontibón",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
+      "habitaciones": 2,
       "banos": 1,
-      "parqueaderos": null,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/194424978",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/194468860",
       "titulo": "Apartamento en Arriendo en Fontibon, Bogotá",
-      "id_domus": "194424978",
-      "fechaPublicacion": "2026-10-19",
-      "lat": 4.68390941838,
-      "lon": -74.150809028256,
+      "id_domus": "194468860",
+      "fechaPublicacion": "2026-10-28",
+      "lat": 4.6806276,
+      "lon": -74.1501314,
       "location_type": "exacta",
       "zonaConsulta": "VILLA CARMENZA",
       "zonaSlug": "villa-carmenza",

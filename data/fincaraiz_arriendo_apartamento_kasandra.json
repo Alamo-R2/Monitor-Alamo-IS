@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 8,
   "zona": "KASANDRA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 17:03",
+  "generado": "2026.OCT.30 18:54",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -142,6 +142,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1290000,
+      "area": 44.0,
+      "precioM2": 29318,
+      "administracion": 210000.0,
+      "barrio": "KASANDRA",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/194466093",
+      "titulo": "Apartamento en Arriendo en Fontibon, Bogotá",
+      "id_domus": "194466093",
+      "fechaPublicacion": "2026-10-27",
+      "lat": 4.6947875,
+      "lon": -74.1684936,
+      "location_type": "exacta",
+      "zonaConsulta": "KASANDRA",
+      "zonaSlug": "kasandra",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1200000,
       "area": 42.0,
       "precioM2": 28571,
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],

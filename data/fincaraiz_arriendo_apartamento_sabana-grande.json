@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "SABANA GRANDE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 17:03",
+  "generado": "2026.OCT.30 18:54",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1250000,
+      "area": 50.0,
+      "precioM2": 25000,
+      "administracion": null,
+      "barrio": "ZONA FRANCA",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-zona-franca-bogota/194469262",
+      "titulo": "Apartamento en Arriendo en Zona franca, Bogotá",
+      "id_domus": "194469262",
+      "fechaPublicacion": "2026-10-28",
+      "lat": 4.6719199,
+      "lon": -74.1557957,
+      "location_type": "exacta",
+      "zonaConsulta": "SABANA GRANDE",
+      "zonaSlug": "sabana-grande",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1500000,
       "area": 42.0,
       "precioM2": 35714,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,15 +168,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1700000,
-      "area": 42.0,
-      "precioM2": 40476,
+      "precio": 1250000,
+      "area": 40.0,
+      "precioM2": 31250,
       "administracion": null,
       "barrio": "SABANA GRANDE",
       "upl": "Fontibón",
@@ -153,15 +185,15 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 4,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-hayuelos-bogota/194325215",
-      "titulo": "Apartamento en Arriendo en Hayuelos, Bogotá",
-      "id_domus": "194325215",
-      "fechaPublicacion": "2026-09-28",
-      "lat": 4.6651406,
-      "lon": -74.1440065,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/194454800",
+      "titulo": "Apartamento en Arriendo en Fontibon, Bogotá",
+      "id_domus": "194454800",
+      "fechaPublicacion": "2026-10-25",
+      "lat": 4.6659793,
+      "lon": -74.1532416,
       "location_type": "exacta",
       "zonaConsulta": "SABANA GRANDE",
       "zonaSlug": "sabana-grande",

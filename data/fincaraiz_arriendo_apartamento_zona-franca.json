@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 17:03",
+  "generado": "2026.OCT.30 18:54",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1250000,
+      "area": 50.0,
+      "precioM2": 25000,
+      "administracion": null,
+      "barrio": "ZONA FRANCA",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-zona-franca-bogota/194469262",
+      "titulo": "Apartamento en Arriendo en Zona franca, Bogotá",
+      "id_domus": "194469262",
+      "fechaPublicacion": "2026-10-28",
+      "lat": 4.6719199,
+      "lon": -74.1557957,
+      "location_type": "exacta",
+      "zonaConsulta": "ZONA FRANCA",
+      "zonaSlug": "zona-franca",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1500000,
       "area": 42.0,
       "precioM2": 35714,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-09-09",
       "lat": 4.6821033,
       "lon": -74.1574159,
-      "location_type": "exacta",
-      "zonaConsulta": "ZONA FRANCA",
-      "zonaSlug": "zona-franca",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 47.0,
-      "precioM2": 25532,
-      "administracion": null,
-      "barrio": "ZONA FRANCA",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/7842186",
-      "titulo": "Apartamento en Arriendo en Fontibon, Bogotá",
-      "id_domus": "7842186",
-      "fechaPublicacion": "2023-01-05",
-      "lat": 4.6821460723877,
-      "lon": -74.1578216552734,
       "location_type": "exacta",
       "zonaConsulta": "ZONA FRANCA",
       "zonaSlug": "zona-franca",
