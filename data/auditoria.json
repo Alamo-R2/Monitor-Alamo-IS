@@ -1,15 +1,15 @@
 {
-  "generado": "2026.OCT.30 13:56",
+  "generado": "2026.OCT.31 13:29",
   "busquedas": 80,
-  "con_cero": 56,
+  "con_cero": 38,
   "por_tipo": {
     "oficina": {
       "n": 16,
-      "cero": 11
+      "cero": 6
     },
     "bodega": {
       "n": 16,
-      "cero": 16
+      "cero": 14
     },
     "edificio": {
       "n": 16,
@@ -17,15 +17,12 @@
     },
     "local": {
       "n": 16,
-      "cero": 13
+      "cero": 6
     },
     "lote": {
       "n": 16,
-      "cero": 16
+      "cero": 12
     }
   },
-  "alertas": [
-    "tipo 'bodega' dio 0 en las 16 busquedas del bloque (revisar slug/tipo)",
-    "tipo 'lote' dio 0 en las 16 busquedas del bloque (revisar slug/tipo)"
-  ]
+  "alertas": []
 }

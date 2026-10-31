@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "lote",
-  "generado": "2026.OCT.13 14:55",
+  "generado": "2026.OCT.31 13:29",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "lote",
-      "tipoPortal": "Lote",
-      "precio": 3217000000,
-      "area": 540.0,
-      "precioM2": 5957407,
-      "administracion": 0,
-      "barrio": "SAN DIEGO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": null,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-san-diego/10457-M6521053",
-      "titulo": "Lote en Venta, CENTRO INTERNACIONAL, Bogotá D.C.",
-      "id_domus": "10457-M6521053",
-      "fechaPublicacion": null,
-      "lat": 4.614526271820068,
-      "lon": -74.07003784179688,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN DIEGO",
-      "zonaSlug": "san-diego",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": null,
       "lat": 4.616678237915039,
       "lon": -74.07321166992188,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN DIEGO",
+      "zonaSlug": "san-diego",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "lote",
+      "tipoPortal": "Lote",
+      "precio": 3217000000,
+      "area": 540.0,
+      "precioM2": 5957407,
+      "administracion": 0,
+      "barrio": "SAN DIEGO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-lote-bogota-san-diego/10457-M6521053",
+      "titulo": "Lote en Venta, CENTRO INTERNACIONAL, Bogotá D.C.",
+      "id_domus": "10457-M6521053",
+      "fechaPublicacion": null,
+      "lat": 4.614526271820068,
+      "lon": -74.07003784179688,
       "location_type": "exacta",
       "zonaConsulta": "SAN DIEGO",
       "zonaSlug": "san-diego",
