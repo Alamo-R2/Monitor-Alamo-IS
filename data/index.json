@@ -1,7 +1,7 @@
 {
-  "generado": "2026-10-31T14:54:35",
-  "generado_humano": "2026.OCT.31 14:54",
-  "grupo_actual": "diario",
+  "generado": "2026-10-31T16:00:33",
+  "generado_humano": "2026.OCT.31 16:00",
+  "grupo_actual": "cada10",
   "ciudad": "bogota",
   "datasets": [
     {
@@ -25754,13 +25754,13 @@
       "clave": "venta_apartamento_tabora",
       "etiqueta": "Venta - Apartamento - Tabora",
       "archivo": "venta_apartamento_tabora.json",
-      "total": 7,
+      "total": 8,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Tabora",
       "slug": "tabora",
       "origen": "upl",
-      "segundos": 9.1
+      "segundos": 10.7
     },
     {
       "clave": "arriendo_apartamento_tabora",
@@ -25784,37 +25784,37 @@
       "zona": "Bosa",
       "slug": "bosa",
       "origen": "upl",
-      "segundos": 9.1
+      "segundos": 9.3
     },
     {
       "clave": "arriendo_apartamento_bosa",
       "etiqueta": "Arriendo - Apartamento - Bosa",
       "archivo": "arriendo_apartamento_bosa.json",
-      "total": 40,
+      "total": 26,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Bosa",
       "slug": "bosa",
       "origen": "upl",
-      "segundos": 9.0
+      "segundos": 9.4
     },
     {
       "clave": "venta_apartamento_tintal",
       "etiqueta": "Venta - Apartamento - Tintal",
       "archivo": "venta_apartamento_tintal.json",
-      "total": 52,
+      "total": 55,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Tintal",
       "slug": "tintal",
       "origen": "upl",
-      "segundos": 8.9
+      "segundos": 9.1
     },
     {
       "clave": "arriendo_apartamento_tintal",
       "etiqueta": "Arriendo - Apartamento - Tintal",
       "archivo": "arriendo_apartamento_tintal.json",
-      "total": 42,
+      "total": 50,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Tintal",
@@ -25826,25 +25826,25 @@
       "clave": "venta_apartamento_kennedy",
       "etiqueta": "Venta - Apartamento - Kennedy",
       "archivo": "venta_apartamento_kennedy.json",
-      "total": 50,
+      "total": 52,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Kennedy",
       "slug": "kennedy",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 9.5
     },
     {
       "clave": "arriendo_apartamento_kennedy",
       "etiqueta": "Arriendo - Apartamento - Kennedy",
       "archivo": "arriendo_apartamento_kennedy.json",
-      "total": 46,
+      "total": 49,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Kennedy",
       "slug": "kennedy",
       "origen": "upl",
-      "segundos": 8.9
+      "segundos": 9.8
     },
     {
       "clave": "venta_apartamento_patio-bonito",
@@ -25856,19 +25856,19 @@
       "zona": "Patio Bonito",
       "slug": "patio-bonito",
       "origen": "upl",
-      "segundos": 6.4
+      "segundos": 6.6
     },
     {
       "clave": "arriendo_apartamento_patio-bonito",
       "etiqueta": "Arriendo - Apartamento - Patio Bonito",
       "archivo": "arriendo_apartamento_patio-bonito.json",
-      "total": 65,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Patio Bonito",
       "slug": "patio-bonito",
       "origen": "upl",
-      "segundos": 9.0
+      "segundos": 6.6
     },
     {
       "clave": "venta_apartamento_eden",
@@ -25880,25 +25880,25 @@
       "zona": "Eden",
       "slug": "eden",
       "origen": "upl",
-      "segundos": 6.4
+      "segundos": 7.1
     },
     {
       "clave": "arriendo_apartamento_eden",
       "etiqueta": "Arriendo - Apartamento - Eden",
       "archivo": "arriendo_apartamento_eden.json",
-      "total": 65,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Eden",
       "slug": "eden",
       "origen": "upl",
-      "segundos": 9.0
+      "segundos": 7.3
     },
     {
       "clave": "venta_apartamento_porvenir",
       "etiqueta": "Venta - Apartamento - Porvenir",
       "archivo": "venta_apartamento_porvenir.json",
-      "total": 51,
+      "total": 8,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Porvenir",
@@ -25910,13 +25910,13 @@
       "clave": "arriendo_apartamento_porvenir",
       "etiqueta": "Arriendo - Apartamento - Porvenir",
       "archivo": "arriendo_apartamento_porvenir.json",
-      "total": 18,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Porvenir",
       "slug": "porvenir",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 6.6
     },
     {
       "clave": "venta_apartamento_arborizadora",
@@ -25928,122 +25928,134 @@
       "zona": "Arborizadora",
       "slug": "arborizadora",
       "origen": "upl",
-      "segundos": 6.3
+      "segundos": 6.4
     },
     {
       "clave": "arriendo_apartamento_arborizadora",
       "etiqueta": "Arriendo - Apartamento - Arborizadora",
       "archivo": "arriendo_apartamento_arborizadora.json",
-      "total": 65,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Arborizadora",
       "slug": "arborizadora",
       "origen": "upl",
-      "segundos": 9.1
+      "segundos": 7.2
     },
     {
       "clave": "venta_apartamento_lucero",
       "etiqueta": "Venta - Apartamento - Lucero",
       "archivo": "venta_apartamento_lucero.json",
-      "total": 65,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Lucero",
       "slug": "lucero",
       "origen": "upl",
-      "segundos": 9.1
+      "segundos": 7.0
     },
     {
       "clave": "arriendo_apartamento_lucero",
       "etiqueta": "Arriendo - Apartamento - Lucero",
       "archivo": "arriendo_apartamento_lucero.json",
-      "total": 65,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Lucero",
       "slug": "lucero",
       "origen": "upl",
-      "segundos": 9.0
+      "segundos": 7.5
     },
     {
       "clave": "venta_apartamento_tunjuelito",
       "etiqueta": "Venta - Apartamento - Tunjuelito",
       "archivo": "venta_apartamento_tunjuelito.json",
-      "total": 20,
+      "total": 51,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Tunjuelito",
       "slug": "tunjuelito",
       "origen": "upl",
-      "segundos": 9.0
+      "segundos": 9.4
     },
     {
       "clave": "arriendo_apartamento_tunjuelito",
       "etiqueta": "Arriendo - Apartamento - Tunjuelito",
       "archivo": "arriendo_apartamento_tunjuelito.json",
-      "total": 3,
+      "total": 32,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Tunjuelito",
       "slug": "tunjuelito",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 9.2
     },
     {
       "clave": "venta_apartamento_rafael-uribe",
       "etiqueta": "Venta - Apartamento - Rafael Uribe",
       "archivo": "venta_apartamento_rafael-uribe.json",
-      "total": 34,
+      "total": 51,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Rafael Uribe",
       "slug": "rafael-uribe",
       "origen": "upl",
-      "segundos": 8.9
+      "segundos": 9.2
     },
     {
       "clave": "arriendo_apartamento_rafael-uribe",
       "etiqueta": "Arriendo - Apartamento - Rafael Uribe",
       "archivo": "arriendo_apartamento_rafael-uribe.json",
-      "total": 4,
+      "total": 34,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Rafael Uribe",
       "slug": "rafael-uribe",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 9.2
     },
     {
       "clave": "venta_apartamento_usme-entrenubes",
       "etiqueta": "Venta - Apartamento - Usme Entrenubes",
       "archivo": "venta_apartamento_usme-entrenubes.json",
-      "total": 50,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Usme Entrenubes",
       "slug": "usme-entrenubes",
       "origen": "upl",
-      "segundos": 9.1
+      "segundos": 7.6
     },
     {
       "clave": "arriendo_apartamento_usme-entrenubes",
       "etiqueta": "Arriendo - Apartamento - Usme Entrenubes",
       "archivo": "arriendo_apartamento_usme-entrenubes.json",
-      "total": 17,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Usme Entrenubes",
       "slug": "usme-entrenubes",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 6.9
     },
     {
       "clave": "venta_apartamento_san-cristobal",
       "etiqueta": "Venta - Apartamento - San Cristobal",
       "archivo": "venta_apartamento_san-cristobal.json",
-      "total": 49,
+      "total": 15,
       "operacion": "venta",
+      "tipo": "apartamento",
+      "zona": "San Cristobal",
+      "slug": "san-cristobal",
+      "origen": "upl",
+      "segundos": 9.2
+    },
+    {
+      "clave": "arriendo_apartamento_san-cristobal",
+      "etiqueta": "Arriendo - Apartamento - San Cristobal",
+      "archivo": "arriendo_apartamento_san-cristobal.json",
+      "total": 5,
+      "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "San Cristobal",
       "slug": "san-cristobal",
@@ -26051,64 +26063,52 @@
       "segundos": 8.9
     },
     {
-      "clave": "arriendo_apartamento_san-cristobal",
-      "etiqueta": "Arriendo - Apartamento - San Cristobal",
-      "archivo": "arriendo_apartamento_san-cristobal.json",
-      "total": 19,
-      "operacion": "arriendo",
-      "tipo": "apartamento",
-      "zona": "San Cristobal",
-      "slug": "san-cristobal",
-      "origen": "upl",
-      "segundos": 8.8
-    },
-    {
       "clave": "venta_apartamento_sumapaz",
       "etiqueta": "Venta - Apartamento - Sumapaz",
       "archivo": "venta_apartamento_sumapaz.json",
-      "total": 65,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Sumapaz",
       "slug": "sumapaz",
       "origen": "upl",
-      "segundos": 9.0
+      "segundos": 7.3
     },
     {
       "clave": "arriendo_apartamento_sumapaz",
       "etiqueta": "Arriendo - Apartamento - Sumapaz",
       "archivo": "arriendo_apartamento_sumapaz.json",
-      "total": 65,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Sumapaz",
       "slug": "sumapaz",
       "origen": "upl",
-      "segundos": 9.0
+      "segundos": 7.0
     },
     {
       "clave": "venta_apartamento_cuenca-del-tunjuelo",
       "etiqueta": "Venta - Apartamento - Cuenca del Tunjuelo",
       "archivo": "venta_apartamento_cuenca-del-tunjuelo.json",
-      "total": 65,
+      "total": 0,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Cuenca del Tunjuelo",
       "slug": "cuenca-del-tunjuelo",
       "origen": "upl",
-      "segundos": 9.0
+      "segundos": 7.0
     },
     {
       "clave": "arriendo_apartamento_cuenca-del-tunjuelo",
       "etiqueta": "Arriendo - Apartamento - Cuenca del Tunjuelo",
       "archivo": "arriendo_apartamento_cuenca-del-tunjuelo.json",
-      "total": 65,
+      "total": 0,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Cuenca del Tunjuelo",
       "slug": "cuenca-del-tunjuelo",
       "origen": "upl",
-      "segundos": 9.1
+      "segundos": 7.1
     },
     {
       "clave": "venta_apartamento_cerros-orientales",
@@ -26120,7 +26120,7 @@
       "zona": "Cerros Orientales",
       "slug": "cerros-orientales",
       "origen": "upl",
-      "segundos": 8.8
+      "segundos": 9.4
     },
     {
       "clave": "arriendo_apartamento_cerros-orientales",
@@ -26132,7 +26132,7 @@
       "zona": "Cerros Orientales",
       "slug": "cerros-orientales",
       "origen": "upl",
-      "segundos": 8.7
+      "segundos": 8.8
     },
     {
       "clave": "venta_oficina_santa-teresa-de-suba",
@@ -120199,8 +120199,5 @@
   },
   "tipos": "tipos.json",
   "historial": "historial.json",
-  "noticias": {
-    "archivo": "noticias.json",
-    "total": 17
-  }
+  "noticias": null
 }

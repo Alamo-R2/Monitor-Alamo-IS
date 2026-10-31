@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 8,
   "zona": "Tabora",
   "origen": "upl",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.21 15:54",
+  "generado": "2026.OCT.31 16:00",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 233000000,
+      "area": 38.0,
+      "precioM2": 6131579,
+      "administracion": 120000.0,
+      "barrio": "SANTA CATALINA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-santa-catalina-1-habitaciones-1-banos/3553-M7171329",
+      "titulo": "Apartamento en Venta, TABORA, Bogotá D.C.",
+      "id_domus": "3553-M7171329",
+      "fechaPublicacion": null,
+      "lat": 4.650898456573486,
+      "lon": -74.13951110839844,
+      "location_type": "exacta",
+      "zonaConsulta": "Tabora",
+      "zonaSlug": "tabora",
+      "origenZona": "upl"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -34,38 +66,6 @@
       "fechaPublicacion": null,
       "lat": 4.698322772979736,
       "lon": -74.10578155517578,
-      "location_type": "exacta",
-      "zonaConsulta": "Tabora",
-      "zonaSlug": "tabora",
-      "origenZona": "upl"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 62.0,
-      "precioM2": 5000000,
-      "administracion": 10000.0,
-      "barrio": "TABORA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-3-habitaciones-2-banos/18222-M6821565",
-      "titulo": "Apartamento en Venta, TABORA, Bogotá D.C.",
-      "id_domus": "18222-M6821565",
-      "fechaPublicacion": null,
-      "lat": 4.695308685302734,
-      "lon": -74.10218811035156,
       "location_type": "exacta",
       "zonaConsulta": "Tabora",
       "zonaSlug": "tabora",
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 310000000,
+      "area": 62.0,
+      "precioM2": 5000000,
+      "administracion": 10000.0,
+      "barrio": "TABORA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-3-habitaciones-2-banos/18222-M6821565",
+      "titulo": "Apartamento en Venta, TABORA, Bogotá D.C.",
+      "id_domus": "18222-M6821565",
+      "fechaPublicacion": null,
+      "lat": 4.695308685302734,
+      "lon": -74.10218811035156,
+      "location_type": "exacta",
+      "zonaConsulta": "Tabora",
+      "zonaSlug": "tabora",
+      "origenZona": "upl"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 270000000,
       "area": 68.0,
       "precioM2": 3970588,
@@ -136,7 +168,7 @@
       "origenZona": "upl"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "upl"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "upl"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
