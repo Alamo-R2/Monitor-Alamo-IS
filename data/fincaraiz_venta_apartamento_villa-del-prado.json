@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 20,
+  "total": 19,
   "zona": "VILLA DEL PRADO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.25 23:39",
+  "generado": "2026.OCT.31 01:08",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,26 +46,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 450000000,
+      "precio": 390000000,
       "area": 70.0,
-      "precioM2": 6428571,
-      "administracion": 486000.0,
-      "barrio": "BRITALIA",
+      "precioM2": 5571429,
+      "administracion": null,
+      "barrio": "VILLA DEL PRADO",
       "upl": "Britalia",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1.0,
+      "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-britalia-bogota/193558437",
-      "titulo": "Apartamento en Venta en Britalia, Bogotá",
-      "id_domus": "193558437",
-      "fechaPublicacion": "2026-03-24",
-      "lat": 4.7526533,
-      "lon": -74.056469,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-del-prado-bogota/194478021",
+      "titulo": "Apartamento en Venta en Villa del prado, Bogotá",
+      "id_domus": "194478021",
+      "fechaPublicacion": "2026-10-29",
+      "lat": 4.7542867,
+      "lon": -74.0509535,
       "location_type": "exacta",
       "zonaConsulta": "VILLA DEL PRADO",
       "zonaSlug": "villa-del-prado",
@@ -110,38 +110,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 380000000,
-      "area": 71.0,
-      "precioM2": 5352113,
-      "administracion": 376900.0,
-      "barrio": "VILLA DEL PRADO",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-del-prado-bogota/194408231",
-      "titulo": "Apartamento en Venta en Villa del prado, Bogotá",
-      "id_domus": "194408231",
-      "fechaPublicacion": "2026-10-15",
-      "lat": 4.7536940905348,
-      "lon": -74.045537597314,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA DEL PRADO",
-      "zonaSlug": "villa-del-prado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 230000000,
       "area": 26.0,
       "precioM2": 8846154,
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -232,39 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 450000000,
-      "area": 53.0,
-      "precioM2": 8490566,
-      "administracion": null,
-      "barrio": "VILLA DEL PRADO",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-del-prado-bogota/193747659",
-      "titulo": "Apartamento en Venta en Villa del prado, Bogotá",
-      "id_domus": "193747659",
-      "fechaPublicacion": "2026-05-13",
-      "lat": 4.7539895,
-      "lon": -74.0536523,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA DEL PRADO",
-      "zonaSlug": "villa-del-prado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -616,32 +552,64 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 325000000,
-      "area": 60.0,
-      "precioM2": 5416667,
-      "administracion": 374000.0,
-      "barrio": "BRITALIA",
+      "precio": 370000000,
+      "area": 66.0,
+      "precioM2": 5606061,
+      "administracion": 334500.0,
+      "barrio": "VILLA DEL PRADO",
       "upl": "Britalia",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": null,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-del-prado-bogota/194481034",
+      "titulo": "Apartamento en Venta en Villa del prado, Bogotá",
+      "id_domus": "194481034",
+      "fechaPublicacion": "2026-10-29",
+      "lat": 4.7562132,
+      "lon": -74.0493199,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA DEL PRADO",
+      "zonaSlug": "villa-del-prado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 380000000,
+      "area": 71.0,
+      "precioM2": 5352113,
+      "administracion": 376900.0,
+      "barrio": "VILLA DEL PRADO",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-britalia-bogota/193712356",
-      "titulo": "Apartamento en Venta en Britalia, Bogotá",
-      "id_domus": "193712356",
-      "fechaPublicacion": "2026-05-05",
-      "lat": 4.7528853,
-      "lon": -74.0575852,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-del-prado-bogota/194408231",
+      "titulo": "Apartamento en Venta en Villa del prado, Bogotá",
+      "id_domus": "194408231",
+      "fechaPublicacion": "2026-10-15",
+      "lat": 4.7536940905348,
+      "lon": -74.045537597314,
       "location_type": "exacta",
       "zonaConsulta": "VILLA DEL PRADO",
       "zonaSlug": "villa-del-prado",

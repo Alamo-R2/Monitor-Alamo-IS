@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.24 19:53",
+  "generado": "2026.OCT.31 01:08",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 390000000,
+      "area": 72.0,
+      "precioM2": 5416667,
+      "administracion": 467000,
+      "barrio": "VILLA ALSACIA",
+      "upl": "Tintal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-alsacia-bogota/10538431",
+      "titulo": "Apartamento en venta en Villa alsacia, Bogotá",
+      "id_domus": "10538431",
+      "fechaPublicacion": "2024-02-03",
+      "lat": 4.6403726,
+      "lon": -74.1353892,
+      "location_type": "exacta",
+      "zonaConsulta": "BAVARIA",
+      "zonaSlug": "bavaria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 950000000,
       "area": 162.0,
       "precioM2": 5864198,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2025-04-11",
       "lat": 4.636691014579,
       "lon": -74.137071969051,
-      "location_type": "exacta",
-      "zonaConsulta": "BAVARIA",
-      "zonaSlug": "bavaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 390000000,
-      "area": 72.0,
-      "precioM2": 5416667,
-      "administracion": 467000,
-      "barrio": "VILLA ALSACIA",
-      "upl": "Tintal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-alsacia-bogota/10538431",
-      "titulo": "Apartamento en venta en Villa alsacia, Bogotá",
-      "id_domus": "10538431",
-      "fechaPublicacion": "2024-02-03",
-      "lat": 4.6403726,
-      "lon": -74.1353892,
       "location_type": "exacta",
       "zonaConsulta": "BAVARIA",
       "zonaSlug": "bavaria",
