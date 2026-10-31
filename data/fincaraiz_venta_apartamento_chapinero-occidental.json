@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.27 19:03",
+  "generado": "2026.OCT.31 18:00",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -17,7 +17,7 @@
       "precio": 221900000,
       "area": 24.0,
       "precioM2": 9245833,
-      "administracion": 220000,
+      "administracion": 220000.0,
       "barrio": "CHAPINERO OCCIDENTAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -49,7 +49,7 @@
       "precio": 670000000,
       "area": 110.0,
       "precioM2": 6090909,
-      "administracion": 360000,
+      "administracion": 360000.0,
       "barrio": "GALERIAS",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -81,7 +81,7 @@
       "precio": 335000000,
       "area": 41.0,
       "precioM2": 8170732,
-      "administracion": 450000,
+      "administracion": 450000.0,
       "barrio": "CHAPINERO OCCIDENTAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -113,7 +113,7 @@
       "precio": 440000000,
       "area": 106.0,
       "precioM2": 4150943,
-      "administracion": 375000,
+      "administracion": 375000.0,
       "barrio": "CHAPINERO OCCIDENTAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -145,7 +145,7 @@
       "precio": 355000000,
       "area": 46.0,
       "precioM2": 7717391,
-      "administracion": 498000,
+      "administracion": 498000.0,
       "barrio": "CHAPINERO OCCIDENTAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -177,7 +177,7 @@
       "precio": 440000000,
       "area": 106.0,
       "precioM2": 4150943,
-      "administracion": 375000,
+      "administracion": 375000.0,
       "barrio": "CHAPINERO OCCIDENTAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -209,7 +209,7 @@
       "precio": 440000000,
       "area": 106.0,
       "precioM2": 4150943,
-      "administracion": 376500,
+      "administracion": 376500.0,
       "barrio": "LA ESPERANZA",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -241,7 +241,7 @@
       "precio": 260000000,
       "area": 34.0,
       "precioM2": 7647059,
-      "administracion": 225200,
+      "administracion": 225200.0,
       "barrio": "CHAPINERO CENTRAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -270,10 +270,42 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 550000000,
+      "area": 117.0,
+      "precioM2": 4700855,
+      "administracion": null,
+      "barrio": "CHAPINERO OCCIDENTAL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194472429",
+      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
+      "id_domus": "194472429",
+      "fechaPublicacion": "2026-10-28",
+      "lat": 4.6465093,
+      "lon": -74.0680497,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO OCCIDENTAL",
+      "zonaSlug": "chapinero-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 385000000,
       "area": 46.0,
       "precioM2": 8369565,
-      "administracion": 316900,
+      "administracion": 316900.0,
       "barrio": "CHAPINERO CENTRAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -305,7 +337,7 @@
       "precio": 330000000,
       "area": 77.0,
       "precioM2": 4285714,
-      "administracion": 110000,
+      "administracion": 110000.0,
       "barrio": "CHAPINERO OCCIDENTAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -337,7 +369,7 @@
       "precio": 320000000,
       "area": 35.0,
       "precioM2": 9142857,
-      "administracion": 360000,
+      "administracion": 360000.0,
       "barrio": "CHAPINERO OCCIDENTAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -369,7 +401,7 @@
       "precio": 280000000,
       "area": 25.0,
       "precioM2": 11200000,
-      "administracion": 250000,
+      "administracion": 250000.0,
       "barrio": "SAN LUIS",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -392,39 +424,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 270000000,
-      "area": 25.0,
-      "precioM2": 10800000,
-      "administracion": 337000,
+      "precio": 470000000,
+      "area": 54.0,
+      "precioM2": 8703704,
+      "administracion": 425000.0,
       "barrio": "CHAPINERO OCCIDENTAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/192429571",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194056021",
       "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "192429571",
-      "fechaPublicacion": "2025-05-21",
-      "lat": 4.642016,
-      "lon": -74.066513,
+      "id_domus": "194056021",
+      "fechaPublicacion": "2026-07-30",
+      "lat": 4.6412558760449,
+      "lon": -74.065653913306,
       "location_type": "exacta",
       "zonaConsulta": "CHAPINERO OCCIDENTAL",
       "zonaSlug": "chapinero-occidental",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 35.0,
+      "precioM2": 10000000,
+      "administracion": 359000.0,
+      "barrio": "CHAPINERO OCCIDENTAL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/193470928",
+      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
+      "id_domus": "193470928",
+      "fechaPublicacion": "2026-03-06",
+      "lat": 4.6452143,
+      "lon": -74.0651751,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO OCCIDENTAL",
+      "zonaSlug": "chapinero-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -433,7 +497,7 @@
       "precio": 500000000,
       "area": 80.0,
       "precioM2": 6250000,
-      "administracion": 650000,
+      "administracion": 650000.0,
       "barrio": "SAN LUIS",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -465,7 +529,7 @@
       "precio": 300000000,
       "area": 46.0,
       "precioM2": 6521739,
-      "administracion": 100000,
+      "administracion": 100000.0,
       "barrio": "CHAPINERO OCCIDENTAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -497,7 +561,7 @@
       "precio": 360000000,
       "area": 37.0,
       "precioM2": 9729730,
-      "administracion": 290000,
+      "administracion": 290000.0,
       "barrio": "CHAPINERO OCCIDENTAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -520,39 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 265000000,
-      "area": 30.0,
-      "precioM2": 8833333,
-      "administracion": 250000,
-      "barrio": "CHAPINERO OCCIDENTAL",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194331492",
-      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "194331492",
-      "fechaPublicacion": "2026-09-29",
-      "lat": 4.6472814,
-      "lon": -74.0664536,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO OCCIDENTAL",
-      "zonaSlug": "chapinero-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -561,7 +593,7 @@
       "precio": 215000000,
       "area": 18.0,
       "precioM2": 11944444,
-      "administracion": 223000,
+      "administracion": 223000.0,
       "barrio": "CHAPINERO OCCIDENTAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -593,7 +625,7 @@
       "precio": 343000000,
       "area": 32.0,
       "precioM2": 10718750,
-      "administracion": 346000,
+      "administracion": 346000.0,
       "barrio": "CHAPINERO OCCIDENTAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -625,7 +657,7 @@
       "precio": 220000000,
       "area": 20.0,
       "precioM2": 11000000,
-      "administracion": 270000,
+      "administracion": 270000.0,
       "barrio": "CHAPINERO OCCIDENTAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-09-27",
       "lat": 4.6461578,
       "lon": -74.0675248,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO OCCIDENTAL",
-      "zonaSlug": "chapinero-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 380000000,
-      "area": 42.0,
-      "precioM2": 9047619,
-      "administracion": 427000,
-      "barrio": "CHAPINERO OCCIDENTAL",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194309903",
-      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "194309903",
-      "fechaPublicacion": "2026-09-24",
-      "lat": 4.6462001,
-      "lon": -74.0649524,
       "location_type": "exacta",
       "zonaConsulta": "CHAPINERO OCCIDENTAL",
       "zonaSlug": "chapinero-occidental",

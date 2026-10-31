@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.31 01:08",
+  "generado": "2026.OCT.31 18:00",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000,
+      "area": 50.0,
+      "precioM2": 52000,
+      "administracion": 438000.0,
+      "barrio": "CEDRITOS",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cedritos-bogota/194222729",
+      "titulo": "Apartamento en Arriendo en Cedritos, Bogotá",
+      "id_domus": "194222729",
+      "fechaPublicacion": "2026-09-07",
+      "lat": 4.7267778,
+      "lon": -74.0398131,
+      "location_type": "exacta",
+      "zonaConsulta": "CAOBOS SALAZAR",
+      "zonaSlug": "caobos-salazar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-10-15",
       "lat": 4.7305185,
       "lon": -74.0367801,
-      "location_type": "exacta",
-      "zonaConsulta": "CAOBOS SALAZAR",
-      "zonaSlug": "caobos-salazar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2600000,
-      "area": 50.0,
-      "precioM2": 52000,
-      "administracion": 438000.0,
-      "barrio": "CEDRITOS",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cedritos-bogota/194222729",
-      "titulo": "Apartamento en Arriendo en Cedritos, Bogotá",
-      "id_domus": "194222729",
-      "fechaPublicacion": "2026-09-07",
-      "lat": 4.7267778,
-      "lon": -74.0398131,
       "location_type": "exacta",
       "zonaConsulta": "CAOBOS SALAZAR",
       "zonaSlug": "caobos-salazar",
