@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.25 20:12",
+  "generado": "2026.OCT.31 21:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,38 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 242000000,
-      "area": 54.0,
-      "precioM2": 4481481,
-      "administracion": 257000.0,
-      "barrio": "VILLA ELISA",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/194277597",
-      "titulo": "Apartamento en Venta en Suba, Bogotá",
-      "id_domus": "194277597",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.7359289,
-      "lon": -74.0865835,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA ELISA",
-      "zonaSlug": "villa-elisa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 260000000,
       "area": 55.0,
       "precioM2": 4727273,
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-09-28",
       "lat": 4.7366214,
       "lon": -74.0894775,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ELISA",
+      "zonaSlug": "villa-elisa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 325000000,
+      "area": 65.0,
+      "precioM2": 5000000,
+      "administracion": 306000.0,
+      "barrio": "LAS FLORES",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-flores-bogota/193575381",
+      "titulo": "Apartamento en Venta en Las flores, Bogotá",
+      "id_domus": "193575381",
+      "fechaPublicacion": "2026-03-28",
+      "lat": 4.7386746,
+      "lon": -74.0891442,
       "location_type": "exacta",
       "zonaConsulta": "VILLA ELISA",
       "zonaSlug": "villa-elisa",
@@ -142,6 +142,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 242000000,
+      "area": 54.0,
+      "precioM2": 4481481,
+      "administracion": 257000.0,
+      "barrio": "VILLA ELISA",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/194277597",
+      "titulo": "Apartamento en Venta en Suba, Bogotá",
+      "id_domus": "194277597",
+      "fechaPublicacion": "2026-09-18",
+      "lat": 4.7359289,
+      "lon": -74.0865835,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ELISA",
+      "zonaSlug": "villa-elisa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 275000000,
       "area": 63.0,
       "precioM2": 4365079,
@@ -168,15 +200,47 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 230000000,
+      "precio": 250000000,
+      "area": 59.0,
+      "precioM2": 4237288,
+      "administracion": 150000.0,
+      "barrio": "VILLA ELISA",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-elisa-bogota/194472647",
+      "titulo": "Apartamento en Venta en Villa elisa, Bogotá",
+      "id_domus": "194472647",
+      "fechaPublicacion": "2026-10-28",
+      "lat": 4.7329069,
+      "lon": -74.0909417,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ELISA",
+      "zonaSlug": "villa-elisa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 190000000,
       "area": 46.0,
-      "precioM2": 5000000,
+      "precioM2": 4130435,
       "administracion": 150000.0,
       "barrio": "VILLA ELISA",
       "upl": "Rincón de Suba",
@@ -188,8 +252,8 @@
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-elisa-bogota/194099833",
-      "titulo": "Apartamento en Venta en Villa elisa, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-comercial-centro-suba-bogota/194099833",
+      "titulo": "Apartamento en Venta en Centro Comercial Centro Suba, Bogotá",
       "id_domus": "194099833",
       "fechaPublicacion": "2026-08-11",
       "lat": 4.7329068952545,
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 59.0,
+      "precioM2": 4237288,
+      "administracion": 150000.0,
+      "barrio": "VILLA ELISA",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-elisa-bogota/194472644",
+      "titulo": "Apartamento en Venta en Villa elisa, Bogotá",
+      "id_domus": "194472644",
+      "fechaPublicacion": "2026-10-28",
+      "lat": 4.7329069,
+      "lon": -74.0909417,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA ELISA",
+      "zonaSlug": "villa-elisa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -328,15 +424,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 350000000,
+      "precio": 330000000,
       "area": 52.0,
-      "precioM2": 6730769,
+      "precioM2": 6346154,
       "administracion": 297000.0,
       "barrio": "VILLA ELISA",
       "upl": "Rincón de Suba",
@@ -360,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -392,39 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 59.0,
-      "precioM2": 5254237,
-      "administracion": 305000.0,
-      "barrio": "LAS FLORES",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-flores-bogota/193791779",
-      "titulo": "Apartamento en Venta en Las flores, Bogotá",
-      "id_domus": "193791779",
-      "fechaPublicacion": "2026-05-25",
-      "lat": 4.7386746,
-      "lon": -74.0891442,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA ELISA",
-      "zonaSlug": "villa-elisa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -456,39 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 65.0,
-      "precioM2": 4769231,
-      "administracion": 306000.0,
-      "barrio": "LAS FLORES",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-flores-bogota/193575381",
-      "titulo": "Apartamento en Venta en Las flores, Bogotá",
-      "id_domus": "193575381",
-      "fechaPublicacion": "2026-03-28",
-      "lat": 4.7386746,
-      "lon": -74.0891442,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA ELISA",
-      "zonaSlug": "villa-elisa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-08-29",
       "lat": 4.737722787418,
       "lon": -74.085537639486,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA ELISA",
-      "zonaSlug": "villa-elisa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 261400000,
-      "area": 63.0,
-      "precioM2": 4149206,
-      "administracion": 215848.0,
-      "barrio": "VILLA ELISA",
-      "upl": "Rincón de Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/194423184",
-      "titulo": "Apartamento en Venta en Suba, Bogotá",
-      "id_domus": "194423184",
-      "fechaPublicacion": "2026-10-19",
-      "lat": 4.7361584,
-      "lon": -74.0850772,
       "location_type": "exacta",
       "zonaConsulta": "VILLA ELISA",
       "zonaSlug": "villa-elisa",

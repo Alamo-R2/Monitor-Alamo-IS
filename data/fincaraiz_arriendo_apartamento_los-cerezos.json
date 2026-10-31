@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "LOS CEREZOS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.27 10:06",
+  "generado": "2026.OCT.31 21:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1540000,
+      "area": 40.0,
+      "precioM2": 38500,
+      "administracion": 110000.0,
+      "barrio": "LOS CEREZOS",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-cerezos-bogota/194488142",
+      "titulo": "Apartamento en Arriendo en Los cerezos, Bogotá",
+      "id_domus": "194488142",
+      "fechaPublicacion": "2026-10-31",
+      "lat": 4.706490391263,
+      "lon": -74.101392847533,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS CEREZOS",
+      "zonaSlug": "los-cerezos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 9500000,
       "area": 124.0,
       "precioM2": 76613,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -92,12 +124,12 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194340610",
-      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-cerezos-bogota/194340610",
+      "titulo": "Apartamento en Arriendo en Los cerezos, Bogotá",
       "id_domus": "194340610",
       "fechaPublicacion": "2026-10-01",
-      "lat": 4.7081901,
-      "lon": -74.0963338,
+      "lat": 4.7084516,
+      "lon": -74.0970407,
       "location_type": "exacta",
       "zonaConsulta": "LOS CEREZOS",
       "zonaSlug": "los-cerezos",
