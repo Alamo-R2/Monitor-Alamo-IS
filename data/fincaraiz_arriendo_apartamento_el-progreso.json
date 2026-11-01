@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.25 23:39",
+  "generado": "2026.NOV.01 06:57",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1390000,
+      "area": 60.0,
+      "precioM2": 23167,
+      "administracion": null,
+      "barrio": "EL PROGRESO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-progreso-bogota/194201817",
+      "titulo": "Apartamento en Arriendo en El progreso, Bogotá",
+      "id_domus": "194201817",
+      "fechaPublicacion": "2026-09-02",
+      "lat": 4.5991764,
+      "lon": -74.0923001,
+      "location_type": "exacta",
+      "zonaConsulta": "EL PROGRESO",
+      "zonaSlug": "el-progreso",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-10-19",
       "lat": 4.6013595,
       "lon": -74.089531,
-      "location_type": "exacta",
-      "zonaConsulta": "EL PROGRESO",
-      "zonaSlug": "el-progreso",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1420000,
-      "area": 60.0,
-      "precioM2": 23667,
-      "administracion": null,
-      "barrio": "EL PROGRESO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-progreso-bogota/194201817",
-      "titulo": "Apartamento en Arriendo en El progreso, Bogotá",
-      "id_domus": "194201817",
-      "fechaPublicacion": "2026-09-02",
-      "lat": 4.5991764,
-      "lon": -74.0923001,
       "location_type": "exacta",
       "zonaConsulta": "EL PROGRESO",
       "zonaSlug": "el-progreso",

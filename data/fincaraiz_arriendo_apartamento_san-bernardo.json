@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 7,
   "zona": "SAN BERNARDO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.26 21:58",
+  "generado": "2026.NOV.01 06:57",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1950000,
+      "area": 122.0,
+      "precioM2": 15984,
+      "administracion": null,
+      "barrio": "EDUARDO SANTOS",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-eduardo-santos-bogota/194477260",
+      "titulo": "Apartamento en Arriendo en Eduardo santos, Bogotá",
+      "id_domus": "194477260",
+      "fechaPublicacion": "2026-10-29",
+      "lat": 4.595414667668,
+      "lon": -74.086193271953,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN BERNARDO",
+      "zonaSlug": "san-bernardo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -34,38 +66,6 @@
       "fechaPublicacion": "2026-10-23",
       "lat": 4.627227,
       "lon": -74.2032581,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN BERNARDO",
-      "zonaSlug": "san-bernardo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3200000,
-      "area": 75.0,
-      "precioM2": 42667,
-      "administracion": null,
-      "barrio": "SAN BERNARDO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-bernardo-bogota/194425180",
-      "titulo": "Apartamento en Arriendo en San bernardo, Bogotá",
-      "id_domus": "194425180",
-      "fechaPublicacion": "2026-10-19",
-      "lat": 4.59166,
-      "lon": -74.087515,
       "location_type": "exacta",
       "zonaConsulta": "SAN BERNARDO",
       "zonaSlug": "san-bernardo",
@@ -142,38 +142,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1950000,
-      "area": 122.0,
-      "precioM2": 15984,
-      "administracion": null,
-      "barrio": "EDUARDO SANTOS",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-eduardo-santos-bogota/194440162",
-      "titulo": "Apartamento en Arriendo en Eduardo santos, Bogotá",
-      "id_domus": "194440162",
-      "fechaPublicacion": "2026-10-21",
-      "lat": 4.595414667668,
-      "lon": -74.086193271953,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN BERNARDO",
-      "zonaSlug": "san-bernardo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 900000,
       "area": 56.0,
       "precioM2": 16071,
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -252,10 +220,10 @@
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-bernardo-bogota/193861005",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-bernardo-bogota/194474938",
       "titulo": "Apartamento en Arriendo en San bernardo, Bogotá",
-      "id_domus": "193861005",
-      "fechaPublicacion": "2026-06-10",
+      "id_domus": "194474938",
+      "fechaPublicacion": "2026-10-29",
       "lat": 4.591371,
       "lon": -74.087404,
       "location_type": "exacta",
