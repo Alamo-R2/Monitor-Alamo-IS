@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "VITELMA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.27 01:04",
+  "generado": "2026.NOV.01 16:29",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,9 +14,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 120000000,
+      "precio": 121000000,
       "area": 23.0,
-      "precioM2": 5217391,
+      "precioM2": 5260870,
       "administracion": 140000.0,
       "barrio": "SAN CRISTOBAL SUR",
       "upl": "Centro Histórico",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1200000000,
+      "area": 120.0,
+      "precioM2": 10000000,
+      "administracion": 1000000.0,
+      "barrio": "VITELMA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-poblado-bogota/194483715",
+      "titulo": "Apartamento en Venta en El Poblado, Bogotá",
+      "id_domus": "194483715",
+      "fechaPublicacion": "2026-10-30",
+      "lat": 4.574248,
+      "lon": -74.0775645,
+      "location_type": "exacta",
+      "zonaConsulta": "VITELMA",
+      "zonaSlug": "vitelma",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 155000000,
       "area": 29.0,
       "precioM2": 5344828,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],

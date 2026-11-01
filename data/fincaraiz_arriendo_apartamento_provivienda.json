@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.28 16:19",
+  "generado": "2026.NOV.01 16:29",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2500000,
+      "area": 130.0,
+      "precioM2": 19231,
+      "administracion": null,
+      "barrio": "PROVIVIENDA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-carvajal-bogota/194472338",
+      "titulo": "Apartamento en Arriendo en Carvajal, Bogotá",
+      "id_domus": "194472338",
+      "fechaPublicacion": "2026-10-28",
+      "lat": 4.6151426,
+      "lon": -74.1379427,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA",
+      "zonaSlug": "provivienda",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2000000,
       "area": 98.0,
       "precioM2": 20408,
@@ -104,7 +136,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1650000,
+      "area": 115.0,
+      "precioM2": 14348,
+      "administracion": 250000.0,
+      "barrio": "PROVIVIENDA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-carvajal-bogota/194487924",
+      "titulo": "Apartamento en Arriendo en Carvajal, Bogotá",
+      "id_domus": "194487924",
+      "fechaPublicacion": "2026-10-31",
+      "lat": 4.6099696,
+      "lon": -74.1390839,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA",
+      "zonaSlug": "provivienda",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -194,70 +258,6 @@
       "fechaPublicacion": "2026-09-12",
       "lat": 4.608352093309,
       "lon": -74.133843804772,
-      "location_type": "exacta",
-      "zonaConsulta": "PROVIVIENDA",
-      "zonaSlug": "provivienda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1650000,
-      "area": 115.0,
-      "precioM2": 14348,
-      "administracion": 250000.0,
-      "barrio": "PROVIVIENDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-carvajal-bogota/194437301",
-      "titulo": "Apartamento en Arriendo en Carvajal, Bogotá",
-      "id_domus": "194437301",
-      "fechaPublicacion": "2026-10-21",
-      "lat": 4.6099696,
-      "lon": -74.1390839,
-      "location_type": "exacta",
-      "zonaConsulta": "PROVIVIENDA",
-      "zonaSlug": "provivienda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1500000,
-      "area": 59.0,
-      "precioM2": 25424,
-      "administracion": null,
-      "barrio": "PROVIVIENDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-carvajal-bogota/194345908",
-      "titulo": "Apartamento en Arriendo en Carvajal, Bogotá",
-      "id_domus": "194345908",
-      "fechaPublicacion": "2026-10-01",
-      "lat": 4.6117877,
-      "lon": -74.1326844,
       "location_type": "exacta",
       "zonaConsulta": "PROVIVIENDA",
       "zonaSlug": "provivienda",

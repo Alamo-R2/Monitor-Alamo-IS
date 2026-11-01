@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 11,
+  "total": 12,
   "zona": "VOTO NACIONAL",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.26 05:30",
+  "generado": "2026.NOV.01 16:29",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -302,6 +302,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 265000000,
+      "area": 32.0,
+      "precioM2": 8281250,
+      "administracion": null,
+      "barrio": "SAN VICTORINO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-victorino-bogota/194484570",
+      "titulo": "Apartamento en Venta en San victorino, Bogotá",
+      "id_domus": "194484570",
+      "fechaPublicacion": "2026-10-30",
+      "lat": 4.6072879362069,
+      "lon": -74.082508203953,
+      "location_type": "exacta",
+      "zonaConsulta": "VOTO NACIONAL",
+      "zonaSlug": "voto-nacional",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 520000000,
       "area": 81.0,
       "precioM2": 6419753,
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],

@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.28 16:19",
+  "generado": "2026.NOV.01 16:29",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 68.0,
-      "precioM2": 4852941,
-      "administracion": 150000.0,
-      "barrio": "PROVIVIENDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-central-bogota/193279322",
-      "titulo": "Apartamento en Venta en Kennedy Central, Bogotá",
-      "id_domus": "193279322",
-      "fechaPublicacion": "2026-01-15",
-      "lat": 4.6186952,
-      "lon": -74.1397102,
-      "location_type": "exacta",
-      "zonaConsulta": "PROVIVIENDA",
-      "zonaSlug": "provivienda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-09-16",
       "lat": 4.6169186,
       "lon": -74.1393044,
+      "location_type": "exacta",
+      "zonaConsulta": "PROVIVIENDA",
+      "zonaSlug": "provivienda",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 330000000,
+      "area": 68.0,
+      "precioM2": 4852941,
+      "administracion": 150000.0,
+      "barrio": "PROVIVIENDA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-central-bogota/193279322",
+      "titulo": "Apartamento en Venta en Kennedy Central, Bogotá",
+      "id_domus": "193279322",
+      "fechaPublicacion": "2026-01-15",
+      "lat": 4.6186952,
+      "lon": -74.1397102,
       "location_type": "exacta",
       "zonaConsulta": "PROVIVIENDA",
       "zonaSlug": "provivienda",

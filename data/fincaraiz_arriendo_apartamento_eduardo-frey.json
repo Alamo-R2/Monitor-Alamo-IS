@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "EDUARDO FREY",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.26 16:20",
+  "generado": "2026.NOV.01 16:29",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -137,6 +137,38 @@
     },
     {
       "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1763200,
+      "area": 66.0,
+      "precioM2": 26715,
+      "administracion": null,
+      "barrio": "LIBERTADOR",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-libertador-bogota/194489236",
+      "titulo": "Apartamento en Arriendo en Libertador, Bogotá",
+      "id_domus": "194489236",
+      "fechaPublicacion": "2026-11-01",
+      "lat": 4.5883347,
+      "lon": -74.116527,
+      "location_type": "exacta",
+      "zonaConsulta": "EDUARDO FREY",
+      "zonaSlug": "eduardo-frey",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
