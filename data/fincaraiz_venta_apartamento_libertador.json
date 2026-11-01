@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 20,
+  "total": 21,
   "zona": "LIBERTADOR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.26 16:20",
+  "generado": "2026.NOV.01 21:25",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -23,7 +23,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
@@ -55,7 +55,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
@@ -79,6 +79,38 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 230000000,
+      "area": 35.0,
+      "precioM2": 6571429,
+      "administracion": 171000.0,
+      "barrio": "LIBERTADOR",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": null,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-libertador-bogota/194463223",
+      "titulo": "Apartamento en Venta en Libertador, Bogotá",
+      "id_domus": "194463223",
+      "fechaPublicacion": "2026-10-27",
+      "lat": 4.5889987055353,
+      "lon": -74.114915072929,
+      "location_type": "exacta",
+      "zonaConsulta": "LIBERTADOR",
+      "zonaSlug": "libertador",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 230000000,
       "area": 47.0,
       "precioM2": 4893617,
       "administracion": 330000.0,
@@ -87,7 +119,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -119,7 +151,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -151,7 +183,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -183,7 +215,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -215,7 +247,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -247,7 +279,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -279,7 +311,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 2,
       "antiguedad": null,
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -311,7 +343,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -343,7 +375,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -375,7 +407,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -407,7 +439,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -439,7 +471,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -471,7 +503,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -503,7 +535,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -535,7 +567,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -567,7 +599,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -584,7 +616,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 317000000,
+      "area": 57.0,
+      "precioM2": 5561404,
+      "administracion": null,
+      "barrio": "LIBERTADOR",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-libertador-bogota/191928045",
+      "titulo": "Apartamento en  Venta en Libertador, Bogotá",
+      "id_domus": "191928045",
+      "fechaPublicacion": "2025-01-27",
+      "lat": 4.5876966433668,
+      "lon": -74.115751651576,
+      "location_type": "exacta",
+      "zonaConsulta": "LIBERTADOR",
+      "zonaSlug": "libertador",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -599,7 +663,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
@@ -610,38 +674,6 @@
       "fechaPublicacion": "2026-10-24",
       "lat": 4.5855028284336,
       "lon": -74.115456275118,
-      "location_type": "exacta",
-      "zonaConsulta": "LIBERTADOR",
-      "zonaSlug": "libertador",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 280000000,
-      "area": 52.0,
-      "precioM2": 5384615,
-      "administracion": 110000.0,
-      "barrio": "LIBERTADOR",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-libertador-bogota/194329468",
-      "titulo": "Apartamento en Venta en Libertador, Bogotá",
-      "id_domus": "194329468",
-      "fechaPublicacion": "2026-09-29",
-      "lat": 4.585567,
-      "lon": -74.115467,
       "location_type": "exacta",
       "zonaConsulta": "LIBERTADOR",
       "zonaSlug": "libertador",

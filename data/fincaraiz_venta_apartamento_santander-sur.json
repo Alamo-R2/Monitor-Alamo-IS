@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 12,
   "zona": "SANTANDER SUR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.26 16:20",
+  "generado": "2026.NOV.01 21:25",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 350000000,
-      "area": 60.0,
-      "precioM2": 5833333,
-      "administracion": null,
-      "barrio": "RESTREPO",
+      "precio": 230000000,
+      "area": 35.0,
+      "precioM2": 6571429,
+      "administracion": 171000.0,
+      "barrio": "LIBERTADOR",
       "upl": "Restrepo",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
+      "habitaciones": 2,
+      "banos": null,
+      "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/194343753",
-      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
-      "id_domus": "194343753",
-      "fechaPublicacion": "2026-10-01",
-      "lat": 4.5907617,
-      "lon": -74.1113718,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-libertador-bogota/194463223",
+      "titulo": "Apartamento en Venta en Libertador, Bogotá",
+      "id_domus": "194463223",
+      "fechaPublicacion": "2026-10-27",
+      "lat": 4.5889987055353,
+      "lon": -74.114915072929,
       "location_type": "exacta",
       "zonaConsulta": "SANTANDER SUR",
       "zonaSlug": "santander-sur",
@@ -55,7 +55,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -87,7 +87,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 60.0,
+      "precioM2": 5833333,
+      "administracion": null,
+      "barrio": "RESTREPO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/194343753",
+      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
+      "id_domus": "194343753",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.5907617,
+      "lon": -74.1113718,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTANDER SUR",
+      "zonaSlug": "santander-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 328800000,
       "area": 52.0,
       "precioM2": 6323077,
@@ -119,7 +151,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": 2.0,
       "estrato": 3,
       "antiguedad": null,
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -151,7 +183,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -183,7 +215,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": 2.0,
       "estrato": 3,
       "antiguedad": null,
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -215,7 +247,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -247,7 +279,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
+      "banos": 2.0,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -279,7 +311,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -311,7 +343,7 @@
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 1,
+      "banos": 1.0,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
@@ -322,6 +354,38 @@
       "fechaPublicacion": "2026-05-29",
       "lat": 4.5899218156827,
       "lon": -74.113091610452,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTANDER SUR",
+      "zonaSlug": "santander-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 317000000,
+      "area": 57.0,
+      "precioM2": 5561404,
+      "administracion": null,
+      "barrio": "LIBERTADOR",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-libertador-bogota/191928045",
+      "titulo": "Apartamento en  Venta en Libertador, Bogotá",
+      "id_domus": "191928045",
+      "fechaPublicacion": "2025-01-27",
+      "lat": 4.5876966433668,
+      "lon": -74.115751651576,
       "location_type": "exacta",
       "zonaConsulta": "SANTANDER SUR",
       "zonaSlug": "santander-sur",

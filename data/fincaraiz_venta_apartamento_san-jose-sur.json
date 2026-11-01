@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.26 16:20",
+  "generado": "2026.NOV.01 21:25",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 255000000,
-      "area": 25.0,
-      "precioM2": 10200000,
-      "administracion": 143000.0,
-      "barrio": "SAN JOSE SUR",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-veracruz-bogota/193192173",
-      "titulo": "Apartamento en Venta en La veracruz, Bogotá",
-      "id_domus": "193192173",
-      "fechaPublicacion": "2025-12-11",
-      "lat": 4.576229,
-      "lon": -74.1029491,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN JOSE SUR",
-      "zonaSlug": "san-jose-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2025-09-03",
       "lat": 4.5795799,
       "lon": -74.0988353,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN JOSE SUR",
+      "zonaSlug": "san-jose-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 255000000,
+      "area": 25.0,
+      "precioM2": 10200000,
+      "administracion": 143000.0,
+      "barrio": "SAN JOSE SUR",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-veracruz-bogota/193192173",
+      "titulo": "Apartamento en Venta en La veracruz, Bogotá",
+      "id_domus": "193192173",
+      "fechaPublicacion": "2025-12-11",
+      "lat": 4.576229,
+      "lon": -74.1029491,
       "location_type": "exacta",
       "zonaConsulta": "SAN JOSE SUR",
       "zonaSlug": "san-jose-sur",

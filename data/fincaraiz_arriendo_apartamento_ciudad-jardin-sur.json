@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 6,
   "zona": "CIUDAD JARDIN SUR",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.26 21:58",
+  "generado": "2026.NOV.01 21:25",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000,
+      "area": 50.0,
+      "precioM2": 28000,
+      "administracion": null,
+      "barrio": "CIUDAD JARDIN SUR",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-jardin-sur-bogota/193978213",
+      "titulo": "Apartamento en Arriendo en Ciudad jardin sur, Bogotá",
+      "id_domus": "193978213",
+      "fechaPublicacion": "2026-07-10",
+      "lat": 4.607006,
+      "lon": -74.074822,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD JARDIN SUR",
+      "zonaSlug": "ciudad-jardin-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -24,7 +56,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -56,7 +88,7 @@
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -88,7 +120,7 @@
       "direccion": "",
       "habitaciones": 1,
       "banos": 1,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -104,7 +136,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 90.0,
+      "precioM2": 17778,
+      "administracion": null,
+      "barrio": "RESTREPO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-restrepo-bogota/194475788",
+      "titulo": "Apartamento en Arriendo en Restrepo, Bogotá",
+      "id_domus": "194475788",
+      "fechaPublicacion": "2026-10-29",
+      "lat": 4.581145,
+      "lon": -74.103078,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD JARDIN SUR",
+      "zonaSlug": "ciudad-jardin-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -120,7 +184,7 @@
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",

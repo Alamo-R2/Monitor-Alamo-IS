@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.26 16:20",
+  "generado": "2026.NOV.01 21:25",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 530000000,
+      "area": 84.0,
+      "precioM2": 6309524,
+      "administracion": null,
+      "barrio": "SAN RAFAEL",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-rafael-bogota/193724189",
+      "titulo": "Apartamento en Venta en San rafael, Bogotá",
+      "id_domus": "193724189",
+      "fechaPublicacion": "2026-05-08",
+      "lat": 4.618651985479,
+      "lon": -74.115420716868,
+      "location_type": "exacta",
+      "zonaConsulta": "COLON",
+      "zonaSlug": "colon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-08-19",
       "lat": 4.622605058654,
       "lon": -74.112186643347,
-      "location_type": "exacta",
-      "zonaConsulta": "COLON",
-      "zonaSlug": "colon",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 530000000,
-      "area": 84.0,
-      "precioM2": 6309524,
-      "administracion": null,
-      "barrio": "SAN RAFAEL",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-rafael-bogota/193724189",
-      "titulo": "Apartamento en Venta en San rafael, Bogotá",
-      "id_domus": "193724189",
-      "fechaPublicacion": "2026-05-08",
-      "lat": 4.618651985479,
-      "lon": -74.115420716868,
       "location_type": "exacta",
       "zonaConsulta": "COLON",
       "zonaSlug": "colon",
