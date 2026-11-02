@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 06:57",
+  "generado": "2026.NOV.02 01:05",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2242100,
-      "area": 50.0,
-      "precioM2": 44842,
-      "administracion": 357900.0,
-      "barrio": "ATENAS",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-colina-campestre-bogota/194459626",
-      "titulo": "Apartamento en Arriendo en Colina Campestre, Bogotá",
-      "id_domus": "194459626",
-      "fechaPublicacion": "2026-10-26",
-      "lat": 4.7287686740443,
-      "lon": -74.065336690654,
-      "location_type": "exacta",
-      "zonaConsulta": "ATENAS",
-      "zonaSlug": "atenas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-03-10",
       "lat": 4.7278950796137,
       "lon": -74.064108294017,
+      "location_type": "exacta",
+      "zonaConsulta": "ATENAS",
+      "zonaSlug": "atenas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2242100,
+      "area": 50.0,
+      "precioM2": 44842,
+      "administracion": 357900.0,
+      "barrio": "ATENAS",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-colina-campestre-bogota/194459626",
+      "titulo": "Apartamento en Arriendo en Colina Campestre, Bogotá",
+      "id_domus": "194459626",
+      "fechaPublicacion": "2026-10-26",
+      "lat": 4.7287686740443,
+      "lon": -74.065336690654,
       "location_type": "exacta",
       "zonaConsulta": "ATENAS",
       "zonaSlug": "atenas",
@@ -142,70 +142,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 4348000,
-      "area": 97.0,
-      "precioM2": 44825,
-      "administracion": 652000.0,
-      "barrio": "ATENAS",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": null,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-colina-campestre-bogota/194226165",
-      "titulo": "Apartamento en Arriendo en Colina Campestre, Bogotá",
-      "id_domus": "194226165",
-      "fechaPublicacion": "2026-09-08",
-      "lat": 4.7319944,
-      "lon": -74.0721723,
-      "location_type": "exacta",
-      "zonaConsulta": "ATENAS",
-      "zonaSlug": "atenas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 8000000,
-      "area": 195.0,
-      "precioM2": 41026,
-      "administracion": null,
-      "barrio": "ATENAS",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 4,
-      "parqueaderos": 2.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-colina-campestre-bogota/194243141",
-      "titulo": "Apartamento en Arriendo en Colina Campestre, Bogotá",
-      "id_domus": "194243141",
-      "fechaPublicacion": "2026-09-11",
-      "lat": 4.732397248177,
-      "lon": -74.074921415056,
-      "location_type": "exacta",
-      "zonaConsulta": "ATENAS",
-      "zonaSlug": "atenas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 3792000,
       "area": 114.0,
       "precioM2": 33263,
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -386,6 +322,70 @@
       "fechaPublicacion": "2026-09-22",
       "lat": 4.7327439,
       "lon": -74.0746042,
+      "location_type": "exacta",
+      "zonaConsulta": "ATENAS",
+      "zonaSlug": "atenas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4348000,
+      "area": 97.0,
+      "precioM2": 44825,
+      "administracion": 652000.0,
+      "barrio": "ATENAS",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": null,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-colina-campestre-bogota/194226165",
+      "titulo": "Apartamento en Arriendo en Colina Campestre, Bogotá",
+      "id_domus": "194226165",
+      "fechaPublicacion": "2026-09-08",
+      "lat": 4.7319944,
+      "lon": -74.0721723,
+      "location_type": "exacta",
+      "zonaConsulta": "ATENAS",
+      "zonaSlug": "atenas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 8000000,
+      "area": 195.0,
+      "precioM2": 41026,
+      "administracion": null,
+      "barrio": "ATENAS",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-colina-campestre-bogota/194243141",
+      "titulo": "Apartamento en Arriendo en Colina Campestre, Bogotá",
+      "id_domus": "194243141",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.732397248177,
+      "lon": -74.074921415056,
       "location_type": "exacta",
       "zonaConsulta": "ATENAS",
       "zonaSlug": "atenas",
