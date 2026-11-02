@@ -1,416 +1,6 @@
 [
   {
     "grupo": "barrios",
-    "generado": "2026.AGO.29 02:52",
-    "iso": "2026-08-29T02:52:32",
-    "total": 1060,
-    "segundos_total": 478.7,
-    "datasets": [
-      {
-        "clave": "venta_apartamento_lech-walesa",
-        "total": 65,
-        "segundos": 7.4
-      },
-      {
-        "clave": "arriendo_apartamento_lech-walesa",
-        "total": 65,
-        "segundos": 7.1
-      },
-      {
-        "clave": "venta_casa_lech-walesa",
-        "total": 65,
-        "segundos": 7.3
-      },
-      {
-        "clave": "arriendo_casa_lech-walesa",
-        "total": 55,
-        "segundos": 7.2
-      },
-      {
-        "clave": "venta_apartamento_lisboa",
-        "total": 51,
-        "segundos": 7.3
-      },
-      {
-        "clave": "arriendo_apartamento_lisboa",
-        "total": 46,
-        "segundos": 7.5
-      },
-      {
-        "clave": "venta_casa_lisboa",
-        "total": 42,
-        "segundos": 7.1
-      },
-      {
-        "clave": "arriendo_casa_lisboa",
-        "total": 11,
-        "segundos": 7.1
-      },
-      {
-        "clave": "venta_apartamento_nueva-tibabuyes",
-        "total": 4,
-        "segundos": 7.1
-      },
-      {
-        "clave": "arriendo_apartamento_nueva-tibabuyes",
-        "total": 4,
-        "segundos": 7.0
-      },
-      {
-        "clave": "venta_casa_nueva-tibabuyes",
-        "total": 0,
-        "segundos": 4.6
-      },
-      {
-        "clave": "arriendo_casa_nueva-tibabuyes",
-        "total": 0,
-        "segundos": 4.5
-      },
-      {
-        "clave": "venta_apartamento_rincon-de-santa-ines",
-        "total": 24,
-        "segundos": 7.0
-      },
-      {
-        "clave": "arriendo_apartamento_rincon-de-santa-ines",
-        "total": 7,
-        "segundos": 7.0
-      },
-      {
-        "clave": "venta_casa_rincon-de-santa-ines",
-        "total": 0,
-        "segundos": 4.6
-      },
-      {
-        "clave": "arriendo_casa_rincon-de-santa-ines",
-        "total": 0,
-        "segundos": 4.5
-      },
-      {
-        "clave": "venta_apartamento_sabana-de-tibabuyes",
-        "total": 13,
-        "segundos": 7.0
-      },
-      {
-        "clave": "arriendo_apartamento_sabana-de-tibabuyes",
-        "total": 0,
-        "segundos": 4.5
-      },
-      {
-        "clave": "venta_casa_sabana-de-tibabuyes",
-        "total": 0,
-        "segundos": 4.4
-      },
-      {
-        "clave": "arriendo_casa_sabana-de-tibabuyes",
-        "total": 7,
-        "segundos": 6.9
-      },
-      {
-        "clave": "venta_apartamento_sabana-de-tibabuyes-norte",
-        "total": 13,
-        "segundos": 7.1
-      },
-      {
-        "clave": "arriendo_apartamento_sabana-de-tibabuyes-norte",
-        "total": 0,
-        "segundos": 4.6
-      },
-      {
-        "clave": "venta_casa_sabana-de-tibabuyes-norte",
-        "total": 0,
-        "segundos": 4.5
-      },
-      {
-        "clave": "arriendo_casa_sabana-de-tibabuyes-norte",
-        "total": 8,
-        "segundos": 6.9
-      },
-      {
-        "clave": "venta_apartamento_san-carlos-de-suba",
-        "total": 0,
-        "segundos": 4.6
-      },
-      {
-        "clave": "arriendo_apartamento_san-carlos-de-suba",
-        "total": 3,
-        "segundos": 6.9
-      },
-      {
-        "clave": "venta_casa_san-carlos-de-suba",
-        "total": 0,
-        "segundos": 4.6
-      },
-      {
-        "clave": "arriendo_casa_san-carlos-de-suba",
-        "total": 0,
-        "segundos": 4.4
-      },
-      {
-        "clave": "venta_apartamento_san-pedro",
-        "total": 0,
-        "segundos": 4.4
-      },
-      {
-        "clave": "arriendo_apartamento_san-pedro",
-        "total": 54,
-        "segundos": 6.9
-      },
-      {
-        "clave": "venta_casa_san-pedro",
-        "total": 9,
-        "segundos": 7.1
-      },
-      {
-        "clave": "arriendo_casa_san-pedro",
-        "total": 0,
-        "segundos": 4.5
-      },
-      {
-        "clave": "venta_apartamento_san-pedro-rural",
-        "total": 0,
-        "segundos": 4.4
-      },
-      {
-        "clave": "arriendo_apartamento_san-pedro-rural",
-        "total": 54,
-        "segundos": 7.0
-      },
-      {
-        "clave": "venta_casa_san-pedro-rural",
-        "total": 9,
-        "segundos": 7.1
-      },
-      {
-        "clave": "arriendo_casa_san-pedro-rural",
-        "total": 0,
-        "segundos": 4.7
-      },
-      {
-        "clave": "venta_apartamento_santa-cecilia",
-        "total": 15,
-        "segundos": 7.0
-      },
-      {
-        "clave": "arriendo_apartamento_santa-cecilia",
-        "total": 24,
-        "segundos": 7.2
-      },
-      {
-        "clave": "venta_casa_santa-cecilia",
-        "total": 38,
-        "segundos": 7.2
-      },
-      {
-        "clave": "arriendo_casa_santa-cecilia",
-        "total": 3,
-        "segundos": 7.2
-      },
-      {
-        "clave": "venta_apartamento_santa-cecilia-de-suba-i",
-        "total": 0,
-        "segundos": 4.6
-      },
-      {
-        "clave": "arriendo_apartamento_santa-cecilia-de-suba-i",
-        "total": 3,
-        "segundos": 6.9
-      },
-      {
-        "clave": "venta_casa_santa-cecilia-de-suba-i",
-        "total": 0,
-        "segundos": 4.7
-      },
-      {
-        "clave": "arriendo_casa_santa-cecilia-de-suba-i",
-        "total": 0,
-        "segundos": 4.4
-      },
-      {
-        "clave": "venta_apartamento_santa-cecilia-de-suba-i-rural",
-        "total": 0,
-        "segundos": 4.3
-      },
-      {
-        "clave": "arriendo_apartamento_santa-cecilia-de-suba-i-rural",
-        "total": 3,
-        "segundos": 6.8
-      },
-      {
-        "clave": "venta_casa_santa-cecilia-de-suba-i-rural",
-        "total": 0,
-        "segundos": 4.6
-      },
-      {
-        "clave": "arriendo_casa_santa-cecilia-de-suba-i-rural",
-        "total": 0,
-        "segundos": 4.4
-      },
-      {
-        "clave": "venta_apartamento_santa-cecilia-de-suba-ii",
-        "total": 0,
-        "segundos": 4.4
-      },
-      {
-        "clave": "arriendo_apartamento_santa-cecilia-de-suba-ii",
-        "total": 3,
-        "segundos": 6.9
-      },
-      {
-        "clave": "venta_casa_santa-cecilia-de-suba-ii",
-        "total": 0,
-        "segundos": 4.5
-      },
-      {
-        "clave": "arriendo_casa_santa-cecilia-de-suba-ii",
-        "total": 0,
-        "segundos": 4.5
-      },
-      {
-        "clave": "venta_apartamento_santa-rita-de-suba",
-        "total": 0,
-        "segundos": 4.3
-      },
-      {
-        "clave": "arriendo_apartamento_santa-rita-de-suba",
-        "total": 0,
-        "segundos": 4.4
-      },
-      {
-        "clave": "venta_casa_santa-rita-de-suba",
-        "total": 0,
-        "segundos": 4.3
-      },
-      {
-        "clave": "arriendo_casa_santa-rita-de-suba",
-        "total": 0,
-        "segundos": 4.4
-      },
-      {
-        "clave": "venta_apartamento_tibabuyes",
-        "total": 50,
-        "segundos": 7.1
-      },
-      {
-        "clave": "arriendo_apartamento_tibabuyes",
-        "total": 4,
-        "segundos": 7.1
-      },
-      {
-        "clave": "venta_casa_tibabuyes",
-        "total": 14,
-        "segundos": 7.0
-      },
-      {
-        "clave": "arriendo_casa_tibabuyes",
-        "total": 0,
-        "segundos": 4.4
-      },
-      {
-        "clave": "venta_apartamento_tibabuyes-ii",
-        "total": 50,
-        "segundos": 7.1
-      },
-      {
-        "clave": "arriendo_apartamento_tibabuyes-ii",
-        "total": 4,
-        "segundos": 7.0
-      },
-      {
-        "clave": "venta_casa_tibabuyes-ii",
-        "total": 14,
-        "segundos": 6.9
-      },
-      {
-        "clave": "arriendo_casa_tibabuyes-ii",
-        "total": 0,
-        "segundos": 4.7
-      },
-      {
-        "clave": "venta_apartamento_tibabuyes-ii-rural",
-        "total": 50,
-        "segundos": 7.0
-      },
-      {
-        "clave": "arriendo_apartamento_tibabuyes-ii-rural",
-        "total": 4,
-        "segundos": 7.0
-      },
-      {
-        "clave": "venta_casa_tibabuyes-ii-rural",
-        "total": 14,
-        "segundos": 7.1
-      },
-      {
-        "clave": "arriendo_casa_tibabuyes-ii-rural",
-        "total": 0,
-        "segundos": 4.5
-      },
-      {
-        "clave": "venta_apartamento_tibabuyes-occidental",
-        "total": 50,
-        "segundos": 7.0
-      },
-      {
-        "clave": "arriendo_apartamento_tibabuyes-occidental",
-        "total": 4,
-        "segundos": 7.1
-      },
-      {
-        "clave": "venta_casa_tibabuyes-occidental",
-        "total": 14,
-        "segundos": 7.1
-      },
-      {
-        "clave": "arriendo_casa_tibabuyes-occidental",
-        "total": 0,
-        "segundos": 4.5
-      },
-      {
-        "clave": "venta_apartamento_tibabuyes-universal",
-        "total": 0,
-        "segundos": 4.5
-      },
-      {
-        "clave": "arriendo_apartamento_tibabuyes-universal",
-        "total": 4,
-        "segundos": 6.9
-      },
-      {
-        "clave": "venta_casa_tibabuyes-universal",
-        "total": 14,
-        "segundos": 7.2
-      },
-      {
-        "clave": "arriendo_casa_tibabuyes-universal",
-        "total": 0,
-        "segundos": 4.7
-      },
-      {
-        "clave": "venta_apartamento_toscana",
-        "total": 11,
-        "segundos": 7.9
-      },
-      {
-        "clave": "arriendo_apartamento_toscana",
-        "total": 0,
-        "segundos": 4.5
-      },
-      {
-        "clave": "venta_casa_toscana",
-        "total": 6,
-        "segundos": 8.1
-      },
-      {
-        "clave": "arriendo_casa_toscana",
-        "total": 55,
-        "segundos": 8.5
-      }
-    ],
-    "variaciones": {}
-  },
-  {
-    "grupo": "barrios",
     "generado": "2026.AGO.29 03:02",
     "iso": "2026-08-29T03:02:12",
     "total": 1941,
@@ -303308,6 +302898,416 @@
         "clave": "ciencuadras_arriendo_apartamento_toscana",
         "total": 7,
         "segundos": 7.9
+      }
+    ],
+    "variaciones": {}
+  },
+  {
+    "grupo": "barrios",
+    "generado": "2026.NOV.02 16:58",
+    "iso": "2026-11-02T16:58:46",
+    "total": 943,
+    "segundos_total": 624.0,
+    "datasets": [
+      {
+        "clave": "venta_oficina_la-fraguita",
+        "total": 0,
+        "segundos": 11.9
+      },
+      {
+        "clave": "arriendo_oficina_la-fraguita",
+        "total": 0,
+        "segundos": 7.9
+      },
+      {
+        "clave": "venta_bodega_la-fraguita",
+        "total": 0,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_bodega_la-fraguita",
+        "total": 0,
+        "segundos": 7.2
+      },
+      {
+        "clave": "venta_edificio_la-fraguita",
+        "total": 50,
+        "segundos": 9.1
+      },
+      {
+        "clave": "arriendo_edificio_la-fraguita",
+        "total": 49,
+        "segundos": 9.1
+      },
+      {
+        "clave": "venta_local_la-fraguita",
+        "total": 0,
+        "segundos": 6.6
+      },
+      {
+        "clave": "arriendo_local_la-fraguita",
+        "total": 0,
+        "segundos": 6.4
+      },
+      {
+        "clave": "venta_lote_la-fraguita",
+        "total": 0,
+        "segundos": 6.5
+      },
+      {
+        "clave": "arriendo_lote_la-fraguita",
+        "total": 0,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_oficina_la-hortua",
+        "total": 0,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_oficina_la-hortua",
+        "total": 0,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_bodega_la-hortua",
+        "total": 0,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_bodega_la-hortua",
+        "total": 0,
+        "segundos": 7.1
+      },
+      {
+        "clave": "venta_edificio_la-hortua",
+        "total": 50,
+        "segundos": 9.0
+      },
+      {
+        "clave": "arriendo_edificio_la-hortua",
+        "total": 49,
+        "segundos": 9.1
+      },
+      {
+        "clave": "venta_local_la-hortua",
+        "total": 0,
+        "segundos": 6.5
+      },
+      {
+        "clave": "arriendo_local_la-hortua",
+        "total": 0,
+        "segundos": 6.5
+      },
+      {
+        "clave": "venta_lote_la-hortua",
+        "total": 0,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_lote_la-hortua",
+        "total": 0,
+        "segundos": 7.2
+      },
+      {
+        "clave": "venta_oficina_libertador",
+        "total": 0,
+        "segundos": 7.3
+      },
+      {
+        "clave": "arriendo_oficina_libertador",
+        "total": 0,
+        "segundos": 6.9
+      },
+      {
+        "clave": "venta_bodega_libertador",
+        "total": 0,
+        "segundos": 6.7
+      },
+      {
+        "clave": "arriendo_bodega_libertador",
+        "total": 0,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_edificio_libertador",
+        "total": 49,
+        "segundos": 9.1
+      },
+      {
+        "clave": "arriendo_edificio_libertador",
+        "total": 49,
+        "segundos": 8.9
+      },
+      {
+        "clave": "venta_local_libertador",
+        "total": 0,
+        "segundos": 6.5
+      },
+      {
+        "clave": "arriendo_local_libertador",
+        "total": 0,
+        "segundos": 6.7
+      },
+      {
+        "clave": "venta_lote_libertador",
+        "total": 0,
+        "segundos": 6.9
+      },
+      {
+        "clave": "arriendo_lote_libertador",
+        "total": 0,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_oficina_murillo-toro",
+        "total": 0,
+        "segundos": 7.2
+      },
+      {
+        "clave": "arriendo_oficina_murillo-toro",
+        "total": 0,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_bodega_murillo-toro",
+        "total": 0,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_bodega_murillo-toro",
+        "total": 0,
+        "segundos": 7.1
+      },
+      {
+        "clave": "venta_edificio_murillo-toro",
+        "total": 50,
+        "segundos": 9.7
+      },
+      {
+        "clave": "arriendo_edificio_murillo-toro",
+        "total": 49,
+        "segundos": 9.0
+      },
+      {
+        "clave": "venta_local_murillo-toro",
+        "total": 0,
+        "segundos": 6.6
+      },
+      {
+        "clave": "arriendo_local_murillo-toro",
+        "total": 0,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_lote_murillo-toro",
+        "total": 3,
+        "segundos": 9.2
+      },
+      {
+        "clave": "arriendo_lote_murillo-toro",
+        "total": 0,
+        "segundos": 6.9
+      },
+      {
+        "clave": "venta_oficina_narino-sur",
+        "total": 0,
+        "segundos": 6.9
+      },
+      {
+        "clave": "arriendo_oficina_narino-sur",
+        "total": 0,
+        "segundos": 7.4
+      },
+      {
+        "clave": "venta_bodega_narino-sur",
+        "total": 0,
+        "segundos": 7.2
+      },
+      {
+        "clave": "arriendo_bodega_narino-sur",
+        "total": 0,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_edificio_narino-sur",
+        "total": 49,
+        "segundos": 9.4
+      },
+      {
+        "clave": "arriendo_edificio_narino-sur",
+        "total": 49,
+        "segundos": 9.1
+      },
+      {
+        "clave": "venta_local_narino-sur",
+        "total": 0,
+        "segundos": 6.7
+      },
+      {
+        "clave": "arriendo_local_narino-sur",
+        "total": 0,
+        "segundos": 6.9
+      },
+      {
+        "clave": "venta_lote_narino-sur",
+        "total": 0,
+        "segundos": 6.7
+      },
+      {
+        "clave": "arriendo_lote_narino-sur",
+        "total": 0,
+        "segundos": 7.1
+      },
+      {
+        "clave": "venta_oficina_olaya",
+        "total": 0,
+        "segundos": 7.2
+      },
+      {
+        "clave": "arriendo_oficina_olaya",
+        "total": 0,
+        "segundos": 6.6
+      },
+      {
+        "clave": "venta_bodega_olaya",
+        "total": 15,
+        "segundos": 9.1
+      },
+      {
+        "clave": "arriendo_bodega_olaya",
+        "total": 4,
+        "segundos": 9.8
+      },
+      {
+        "clave": "venta_edificio_olaya",
+        "total": 50,
+        "segundos": 9.0
+      },
+      {
+        "clave": "arriendo_edificio_olaya",
+        "total": 49,
+        "segundos": 9.5
+      },
+      {
+        "clave": "venta_local_olaya",
+        "total": 9,
+        "segundos": 9.2
+      },
+      {
+        "clave": "arriendo_local_olaya",
+        "total": 10,
+        "segundos": 9.0
+      },
+      {
+        "clave": "venta_lote_olaya",
+        "total": 0,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_lote_olaya",
+        "total": 0,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_oficina_policarpa",
+        "total": 0,
+        "segundos": 6.8
+      },
+      {
+        "clave": "arriendo_oficina_policarpa",
+        "total": 0,
+        "segundos": 7.5
+      },
+      {
+        "clave": "venta_bodega_policarpa",
+        "total": 0,
+        "segundos": 6.4
+      },
+      {
+        "clave": "arriendo_bodega_policarpa",
+        "total": 3,
+        "segundos": 9.4
+      },
+      {
+        "clave": "venta_edificio_policarpa",
+        "total": 50,
+        "segundos": 9.1
+      },
+      {
+        "clave": "arriendo_edificio_policarpa",
+        "total": 49,
+        "segundos": 9.0
+      },
+      {
+        "clave": "venta_local_policarpa",
+        "total": 0,
+        "segundos": 6.7
+      },
+      {
+        "clave": "arriendo_local_policarpa",
+        "total": 5,
+        "segundos": 9.0
+      },
+      {
+        "clave": "venta_lote_policarpa",
+        "total": 0,
+        "segundos": 7.3
+      },
+      {
+        "clave": "arriendo_lote_policarpa",
+        "total": 0,
+        "segundos": 6.7
+      },
+      {
+        "clave": "venta_oficina_restrepo",
+        "total": 0,
+        "segundos": 6.7
+      },
+      {
+        "clave": "arriendo_oficina_restrepo",
+        "total": 10,
+        "segundos": 9.3
+      },
+      {
+        "clave": "venta_bodega_restrepo",
+        "total": 18,
+        "segundos": 9.3
+      },
+      {
+        "clave": "arriendo_bodega_restrepo",
+        "total": 9,
+        "segundos": 8.9
+      },
+      {
+        "clave": "venta_edificio_restrepo",
+        "total": 36,
+        "segundos": 9.1
+      },
+      {
+        "clave": "arriendo_edificio_restrepo",
+        "total": 49,
+        "segundos": 9.0
+      },
+      {
+        "clave": "venta_local_restrepo",
+        "total": 28,
+        "segundos": 9.1
+      },
+      {
+        "clave": "arriendo_local_restrepo",
+        "total": 50,
+        "segundos": 9.1
+      },
+      {
+        "clave": "venta_lote_restrepo",
+        "total": 3,
+        "segundos": 9.1
+      },
+      {
+        "clave": "arriendo_lote_restrepo",
+        "total": 0,
+        "segundos": 7.4
       }
     ],
     "variaciones": {}
