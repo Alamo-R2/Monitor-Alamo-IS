@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 13,
+  "total": 14,
   "zona": "CLUB DE LOS LAGARTOS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 00:32",
+  "generado": "2026.NOV.02 22:30",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,38 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2000000,
-      "area": 56.0,
-      "precioM2": 35714,
-      "administracion": null,
-      "barrio": "CLUB DE LOS LAGARTOS",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-suba-bogota/194480808",
-      "titulo": "Apartamento en Arriendo en Suba, Bogotá",
-      "id_domus": "194480808",
-      "fechaPublicacion": "2026-10-29",
-      "lat": 4.7169123,
-      "lon": -74.0890656,
-      "location_type": "exacta",
-      "zonaConsulta": "CLUB DE LOS LAGARTOS",
-      "zonaSlug": "club-de-los-lagartos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 7900000,
       "area": 200.0,
       "precioM2": 39500,
@@ -104,32 +72,64 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 970000,
-      "area": 54.0,
-      "precioM2": 17963,
-      "administracion": 130000.0,
+      "precio": 2000000,
+      "area": 56.0,
+      "precioM2": 35714,
+      "administracion": null,
       "barrio": "CLUB DE LOS LAGARTOS",
       "upl": "Niza",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": null,
+      "parqueaderos": 1.0,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-club-de-los-lagartos-bogota/192004988",
-      "titulo": "Apartamento en  Arriendo en Club de los lagartos, Bogotá",
-      "id_domus": "192004988",
-      "fechaPublicacion": "2025-02-11",
-      "lat": 4.7163129,
-      "lon": -74.0933898,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-suba-bogota/194480808",
+      "titulo": "Apartamento en Arriendo en Suba, Bogotá",
+      "id_domus": "194480808",
+      "fechaPublicacion": "2026-10-29",
+      "lat": 4.7169123,
+      "lon": -74.0890656,
+      "location_type": "exacta",
+      "zonaConsulta": "CLUB DE LOS LAGARTOS",
+      "zonaSlug": "club-de-los-lagartos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3091700,
+      "area": 90.0,
+      "precioM2": 34352,
+      "administracion": 558300.0,
+      "barrio": "CLUB DE LOS LAGARTOS",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-club-los-lagartos-bogota/194492353",
+      "titulo": "Apartamento en Arriendo en Club los lagartos, Bogotá",
+      "id_domus": "194492353",
+      "fechaPublicacion": "2026-11-02",
+      "lat": 4.7008664270004,
+      "lon": -74.086500868,
       "location_type": "exacta",
       "zonaConsulta": "CLUB DE LOS LAGARTOS",
       "zonaSlug": "club-de-los-lagartos",
@@ -137,70 +137,6 @@
     },
     {
       "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 8900000,
-      "area": 178.0,
-      "precioM2": 50000,
-      "administracion": 1846697.0,
-      "barrio": "CLUB DE LOS LAGARTOS",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 2.0,
-      "estrato": 6.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cerros-de-niza-bogota/194208883",
-      "titulo": "Apartamento en Arriendo en Cerros de Niza, Bogotá",
-      "id_domus": "194208883",
-      "fechaPublicacion": "2026-09-04",
-      "lat": 4.7101866,
-      "lon": -74.080895,
-      "location_type": "exacta",
-      "zonaConsulta": "CLUB DE LOS LAGARTOS",
-      "zonaSlug": "club-de-los-lagartos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1100000,
-      "area": 62.0,
-      "precioM2": 17742,
-      "administracion": null,
-      "barrio": "METROPOLIS",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-metropolis-bogota/194256082",
-      "titulo": "Apartamento en Arriendo en Metropolis, Bogotá",
-      "id_domus": "194256082",
-      "fechaPublicacion": "2026-09-15",
-      "lat": 4.7185795,
-      "lon": -74.090529,
-      "location_type": "exacta",
-      "zonaConsulta": "CLUB DE LOS LAGARTOS",
-      "zonaSlug": "club-de-los-lagartos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -418,6 +354,102 @@
       "fechaPublicacion": "2026-10-28",
       "lat": 4.7137326,
       "lon": -74.0873156,
+      "location_type": "exacta",
+      "zonaConsulta": "CLUB DE LOS LAGARTOS",
+      "zonaSlug": "club-de-los-lagartos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 970000,
+      "area": 54.0,
+      "precioM2": 17963,
+      "administracion": 130000.0,
+      "barrio": "CLUB DE LOS LAGARTOS",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-club-de-los-lagartos-bogota/192004988",
+      "titulo": "Apartamento en  Arriendo en Club de los lagartos, Bogotá",
+      "id_domus": "192004988",
+      "fechaPublicacion": "2025-02-11",
+      "lat": 4.7163129,
+      "lon": -74.0933898,
+      "location_type": "exacta",
+      "zonaConsulta": "CLUB DE LOS LAGARTOS",
+      "zonaSlug": "club-de-los-lagartos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 8900000,
+      "area": 178.0,
+      "precioM2": 50000,
+      "administracion": 1846697.0,
+      "barrio": "CLUB DE LOS LAGARTOS",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 6.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cerros-de-niza-bogota/194208883",
+      "titulo": "Apartamento en Arriendo en Cerros de Niza, Bogotá",
+      "id_domus": "194208883",
+      "fechaPublicacion": "2026-09-04",
+      "lat": 4.7101866,
+      "lon": -74.080895,
+      "location_type": "exacta",
+      "zonaConsulta": "CLUB DE LOS LAGARTOS",
+      "zonaSlug": "club-de-los-lagartos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1100000,
+      "area": 62.0,
+      "precioM2": 17742,
+      "administracion": null,
+      "barrio": "METROPOLIS",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-metropolis-bogota/194256082",
+      "titulo": "Apartamento en Arriendo en Metropolis, Bogotá",
+      "id_domus": "194256082",
+      "fechaPublicacion": "2026-09-15",
+      "lat": 4.7185795,
+      "lon": -74.090529,
       "location_type": "exacta",
       "zonaConsulta": "CLUB DE LOS LAGARTOS",
       "zonaSlug": "club-de-los-lagartos",

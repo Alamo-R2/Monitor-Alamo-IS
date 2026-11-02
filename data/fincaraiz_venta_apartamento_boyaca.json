@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.27 10:06",
+  "generado": "2026.NOV.02 22:30",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 430000000,
-      "area": 64.0,
-      "precioM2": 6718750,
-      "administracion": 365000.0,
-      "barrio": "BOYACA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-del-lago-bogota/194349995",
-      "titulo": "Apartamento en Venta en Santa Maria del Lago, Bogotá",
-      "id_domus": "194349995",
-      "fechaPublicacion": "2026-10-02",
-      "lat": 4.6882285,
-      "lon": -74.0948737,
-      "location_type": "exacta",
-      "zonaConsulta": "BOYACA",
-      "zonaSlug": "boyaca",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -57,7 +25,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boyaca-real-bogota/194376059",
@@ -72,32 +40,64 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 480000000,
+      "area": 77.0,
+      "precioM2": 6233766,
+      "administracion": 260000.0,
+      "barrio": "NORMANDIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/194192886",
+      "titulo": "Apartamento en Venta en Normandia, Bogotá",
+      "id_domus": "194192886",
+      "fechaPublicacion": "2026-09-01",
+      "lat": 4.6848888,
+      "lon": -74.0992245,
+      "location_type": "exacta",
+      "zonaConsulta": "BOYACA",
+      "zonaSlug": "boyaca",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-3",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 298000000,
-      "area": 42.0,
-      "precioM2": 7095238,
-      "administracion": null,
-      "barrio": "TABORA",
+      "precio": 350000000,
+      "area": 57.0,
+      "precioM2": 6140351,
+      "administracion": 255000.0,
+      "barrio": "BOYACA",
       "upl": "Tabora",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tabora-bogota/194325955",
-      "titulo": "Apartamento en Venta en Tabora, Bogotá",
-      "id_domus": "194325955",
-      "fechaPublicacion": "2026-09-28",
-      "lat": 4.6913967,
-      "lon": -74.0992143,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boyaca-real-bogota/193289547",
+      "titulo": "Apartamento en Venta en Boyaca Real, Bogotá",
+      "id_domus": "193289547",
+      "fechaPublicacion": "2026-01-19",
+      "lat": 4.6812238304513,
+      "lon": -74.100225,
       "location_type": "exacta",
       "zonaConsulta": "BOYACA",
       "zonaSlug": "boyaca",
@@ -121,7 +121,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-del-lago-bogota/194342881",
@@ -142,9 +142,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 490000000,
+      "precio": 470000000,
       "area": 59.0,
-      "precioM2": 8305085,
+      "precioM2": 7966102,
       "administracion": 370000.0,
       "barrio": "BOYACA",
       "upl": "Tabora",
@@ -153,7 +153,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194416232",
@@ -185,7 +185,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194215049",
@@ -217,7 +217,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194403352",
@@ -249,7 +249,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194428561",
@@ -270,38 +270,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 525000000,
-      "area": 67.0,
-      "precioM2": 7835821,
-      "administracion": 366000.0,
-      "barrio": "BOYACA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boyaca-real-bogota/194331751",
-      "titulo": "Apartamento en Venta en Boyaca Real, Bogotá",
-      "id_domus": "194331751",
-      "fechaPublicacion": "2026-09-29",
-      "lat": 4.6824448,
-      "lon": -74.0989592,
-      "location_type": "exacta",
-      "zonaConsulta": "BOYACA",
-      "zonaSlug": "boyaca",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 285000000,
       "area": 36.0,
       "precioM2": 7916667,
@@ -313,7 +281,7 @@
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boyaca-real-bogota/193618390",
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -345,7 +313,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tabora-bogota/192927450",
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -377,7 +345,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boyaca-real-bogota/194188575",
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -409,7 +377,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194123406",
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -441,7 +409,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-del-lago-bogota/192673069",
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -473,7 +441,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boyaca-real-bogota/194144384",
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -505,7 +473,7 @@
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/193366310",
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -537,7 +505,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boyaca-bogota/194146425",
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -569,7 +537,7 @@
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/193906823",
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -601,7 +569,7 @@
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boyaca-real-bogota/193618411",
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -633,7 +601,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194369707",
@@ -648,16 +616,16 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 350000000,
-      "area": 57.0,
-      "precioM2": 6140351,
-      "administracion": 255000.0,
+      "precio": 390000000,
+      "area": 50.0,
+      "precioM2": 7800000,
+      "administracion": 293000.0,
       "barrio": "BOYACA",
       "upl": "Tabora",
       "ciudad": "Bogotá",
@@ -665,15 +633,47 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boyaca-real-bogota/193289547",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boyaca-real-bogota/193860364",
       "titulo": "Apartamento en Venta en Boyaca Real, Bogotá",
-      "id_domus": "193289547",
-      "fechaPublicacion": "2026-01-19",
-      "lat": 4.6812238304513,
-      "lon": -74.100225,
+      "id_domus": "193860364",
+      "fechaPublicacion": "2026-06-10",
+      "lat": 4.682258895916,
+      "lon": -74.098904679575,
+      "location_type": "exacta",
+      "zonaConsulta": "BOYACA",
+      "zonaSlug": "boyaca",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 298000000,
+      "area": 42.0,
+      "precioM2": 7095238,
+      "administracion": null,
+      "barrio": "TABORA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tabora-bogota/194325955",
+      "titulo": "Apartamento en Venta en Tabora, Bogotá",
+      "id_domus": "194325955",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.6913967,
+      "lon": -74.0992143,
       "location_type": "exacta",
       "zonaConsulta": "BOYACA",
       "zonaSlug": "boyaca",
