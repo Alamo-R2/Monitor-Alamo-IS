@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.27 01:04",
+  "generado": "2026.NOV.02 12:55",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 620000000,
+      "area": 75.0,
+      "precioM2": 8266667,
+      "administracion": 620000.0,
+      "barrio": "LA CASTELLANA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3.0,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-castellana-bogota/193723255",
+      "titulo": "Apartamento en Venta en La castellana, Bogotá",
+      "id_domus": "193723255",
+      "fechaPublicacion": "2026-05-08",
+      "lat": 4.6791522665341,
+      "lon": -74.062213182187,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PATRIA",
+      "zonaSlug": "la-patria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-10-24",
       "lat": 4.679139,
       "lon": -74.0622026,
-      "location_type": "exacta",
-      "zonaConsulta": "LA PATRIA",
-      "zonaSlug": "la-patria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 620000000,
-      "area": 75.0,
-      "precioM2": 8266667,
-      "administracion": 620000.0,
-      "barrio": "LA CASTELLANA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3.0,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-castellana-bogota/193723255",
-      "titulo": "Apartamento en Venta en La castellana, Bogotá",
-      "id_domus": "193723255",
-      "fechaPublicacion": "2026-05-08",
-      "lat": 4.6791522665341,
-      "lon": -74.062213182187,
       "location_type": "exacta",
       "zonaConsulta": "LA PATRIA",
       "zonaSlug": "la-patria",

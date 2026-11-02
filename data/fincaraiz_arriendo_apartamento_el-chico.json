@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.31 18:00",
+  "generado": "2026.NOV.02 12:55",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 10500000,
-      "area": 170.0,
-      "precioM2": 61765,
-      "administracion": null,
-      "barrio": "EL VIRREY",
+      "precio": 14000000,
+      "area": 185.0,
+      "precioM2": 75676,
+      "administracion": 1922000.0,
+      "barrio": "LA CABRERA",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 4,
+      "habitaciones": 2,
       "banos": 3,
       "parqueaderos": 2,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-virrey-bogota/193809012",
-      "titulo": "Apartamento en Arriendo en El Virrey, Bogotá",
-      "id_domus": "193809012",
-      "fechaPublicacion": "2026-05-27",
-      "lat": 4.6728513,
-      "lon": -74.0526081,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-cabrera-bogota/10868133",
+      "titulo": "Apartamento en Arriendo en La cabrera, Bogotá",
+      "id_domus": "10868133",
+      "fechaPublicacion": "2024-05-09",
+      "lat": 4.6718067,
+      "lon": -74.0461002,
       "location_type": "exacta",
       "zonaConsulta": "EL CHICO",
       "zonaSlug": "el-chico",
@@ -46,26 +46,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3700000,
-      "area": 61.0,
-      "precioM2": 60656,
-      "administracion": 880000.0,
-      "barrio": "CHICO NORTE",
+      "precio": 7100000,
+      "area": 110.0,
+      "precioM2": 64545,
+      "administracion": null,
+      "barrio": "EL CHICO",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1,
+      "banos": 2,
+      "parqueaderos": 2,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/194073931",
-      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
-      "id_domus": "194073931",
-      "fechaPublicacion": "2026-08-04",
-      "lat": 4.6782,
-      "lon": -74.056172,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-chico-bogota/194489086",
+      "titulo": "Apartamento en Arriendo en El chico, Bogotá",
+      "id_domus": "194489086",
+      "fechaPublicacion": "2026-10-31",
+      "lat": 4.6782732948156,
+      "lon": -74.044547080994,
       "location_type": "exacta",
       "zonaConsulta": "EL CHICO",
       "zonaSlug": "el-chico",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 24600000,
+      "area": 300.0,
+      "precioM2": 82000,
+      "administracion": null,
+      "barrio": "EL CHICO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 4,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-chico-bogota/194489141",
+      "titulo": "Apartamento en Arriendo en El chico, Bogotá",
+      "id_domus": "194489141",
+      "fechaPublicacion": "2026-10-31",
+      "lat": 4.679855870602,
+      "lon": -74.051027297974,
+      "location_type": "exacta",
+      "zonaConsulta": "EL CHICO",
+      "zonaSlug": "el-chico",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -162,38 +194,6 @@
       "fechaPublicacion": "2026-08-12",
       "lat": 4.685936455934,
       "lon": -74.045143739341,
-      "location_type": "exacta",
-      "zonaConsulta": "EL CHICO",
-      "zonaSlug": "el-chico",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 13300000,
-      "area": 220.0,
-      "precioM2": 60455,
-      "administracion": null,
-      "barrio": "EL CHICO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 2,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-reservado-bogota/194341350",
-      "titulo": "Apartamento en Arriendo en Chicó Reservado, Bogotá",
-      "id_domus": "194341350",
-      "fechaPublicacion": "2026-10-01",
-      "lat": 4.6712585915229,
-      "lon": -74.04815196991,
       "location_type": "exacta",
       "zonaConsulta": "EL CHICO",
       "zonaSlug": "el-chico",
@@ -334,38 +334,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 14000000,
-      "area": 185.0,
-      "precioM2": 75676,
-      "administracion": 1922000.0,
-      "barrio": "LA CABRERA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 2,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-cabrera-bogota/10868133",
-      "titulo": "Apartamento en Arriendo en La cabrera, Bogotá",
-      "id_domus": "10868133",
-      "fechaPublicacion": "2024-05-09",
-      "lat": 4.6718067,
-      "lon": -74.0461002,
-      "location_type": "exacta",
-      "zonaConsulta": "EL CHICO",
-      "zonaSlug": "el-chico",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 5250000,
       "area": 56.0,
       "precioM2": 93750,
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-10-05",
       "lat": 4.6787099981116,
       "lon": -74.057490031262,
+      "location_type": "exacta",
+      "zonaConsulta": "EL CHICO",
+      "zonaSlug": "el-chico",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 7500000,
+      "area": 112.0,
+      "precioM2": 66964,
+      "administracion": null,
+      "barrio": "EL CHICO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-chico-bogota/193726928",
+      "titulo": "Apartamento en Arriendo en El chico, Bogotá",
+      "id_domus": "193726928",
+      "fechaPublicacion": "2026-05-08",
+      "lat": 4.6741119,
+      "lon": -74.0493188,
       "location_type": "exacta",
       "zonaConsulta": "EL CHICO",
       "zonaSlug": "el-chico",

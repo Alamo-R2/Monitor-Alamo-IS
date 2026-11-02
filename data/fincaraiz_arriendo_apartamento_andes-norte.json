@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 9,
   "zona": "ANDES NORTE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 00:32",
+  "generado": "2026.NOV.02 12:55",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,38 +78,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1400000,
-      "area": 32.0,
-      "precioM2": 43750,
-      "administracion": 350000.0,
-      "barrio": "ANDES NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-floresta-bogota/194445121",
-      "titulo": "Apartamento en Arriendo en La Floresta, Bogotá",
-      "id_domus": "194445121",
-      "fechaPublicacion": "2026-10-22",
-      "lat": 4.6905219,
-      "lon": -74.066459,
-      "location_type": "exacta",
-      "zonaConsulta": "ANDES NORTE",
-      "zonaSlug": "andes-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 2200000,
       "area": 39.0,
       "precioM2": 56410,
@@ -136,71 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3500000,
-      "area": 113.0,
-      "precioM2": 30973,
-      "administracion": 500000.0,
-      "barrio": "PUENTE LARGO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-puente-largo-bogota/194427180",
-      "titulo": "Apartamento en Arriendo en Puente largo, Bogotá",
-      "id_domus": "194427180",
-      "fechaPublicacion": "2026-10-19",
-      "lat": 4.691749,
-      "lon": -74.0659227,
-      "location_type": "exacta",
-      "zonaConsulta": "ANDES NORTE",
-      "zonaSlug": "andes-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1770000,
-      "area": 32.0,
-      "precioM2": 55312,
-      "administracion": 330000.0,
-      "barrio": "ANDES NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-floresta-bogota/194232822",
-      "titulo": "Apartamento en Arriendo en La Floresta, Bogotá",
-      "id_domus": "194232822",
-      "fechaPublicacion": "2026-09-09",
-      "lat": 4.6958609,
-      "lon": -74.0688298,
-      "location_type": "exacta",
-      "zonaConsulta": "ANDES NORTE",
-      "zonaSlug": "andes-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -322,6 +226,70 @@
       "fechaPublicacion": "2026-09-15",
       "lat": 4.696307,
       "lon": -74.0691708,
+      "location_type": "exacta",
+      "zonaConsulta": "ANDES NORTE",
+      "zonaSlug": "andes-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3500000,
+      "area": 113.0,
+      "precioM2": 30973,
+      "administracion": 500000.0,
+      "barrio": "PUENTE LARGO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-puente-largo-bogota/194427180",
+      "titulo": "Apartamento en Arriendo en Puente largo, Bogotá",
+      "id_domus": "194427180",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.691749,
+      "lon": -74.0659227,
+      "location_type": "exacta",
+      "zonaConsulta": "ANDES NORTE",
+      "zonaSlug": "andes-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1770000,
+      "area": 32.0,
+      "precioM2": 55312,
+      "administracion": 330000.0,
+      "barrio": "ANDES NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-floresta-bogota/194232822",
+      "titulo": "Apartamento en Arriendo en La Floresta, Bogotá",
+      "id_domus": "194232822",
+      "fechaPublicacion": "2026-09-09",
+      "lat": 4.6958609,
+      "lon": -74.0688298,
       "location_type": "exacta",
       "zonaConsulta": "ANDES NORTE",
       "zonaSlug": "andes-norte",
