@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "GRAN COLOMBIANO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.28 00:48",
+  "generado": "2026.NOV.03 17:27",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 206000000,
+      "area": 50.0,
+      "precioM2": 4120000,
+      "administracion": 74626,
+      "barrio": "LOS LAURELES",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-laureles-bogota/194469521",
+      "titulo": "Apartamento en Venta en Los laureles, Bogotá",
+      "id_domus": "194469521",
+      "fechaPublicacion": "2026-10-28",
+      "lat": 4.6120625,
+      "lon": -74.2024933,
+      "location_type": "exacta",
+      "zonaConsulta": "GRAN COLOMBIANO",
+      "zonaSlug": "gran-colombiano",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 289999999,
       "area": 49.0,
       "precioM2": 5918367,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
