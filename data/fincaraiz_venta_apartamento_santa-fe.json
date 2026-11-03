@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 16:29",
+  "generado": "2026.NOV.03 07:20",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1300000000,
-      "area": 112.0,
-      "precioM2": 11607143,
-      "administracion": 850000.0,
-      "barrio": "TEUSAQUILLO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/192517854",
-      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
-      "id_domus": "192517854",
-      "fechaPublicacion": "2025-06-11",
-      "lat": 4.621811503175,
-      "lon": -74.076878428459,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA FE",
-      "zonaSlug": "santa-fe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-09-15",
       "lat": 4.6081387,
       "lon": -74.0820165,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA FE",
+      "zonaSlug": "santa-fe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1300000000,
+      "area": 112.0,
+      "precioM2": 11607143,
+      "administracion": 850000.0,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/192517854",
+      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
+      "id_domus": "192517854",
+      "fechaPublicacion": "2025-06-11",
+      "lat": 4.621811503175,
+      "lon": -74.076878428459,
       "location_type": "exacta",
       "zonaConsulta": "SANTA FE",
       "zonaSlug": "santa-fe",
@@ -238,6 +238,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 127.0,
+      "precioM2": 1968504,
+      "administracion": null,
+      "barrio": "SANTA FE",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-fe-bogota/194493656",
+      "titulo": "Apartamento en Venta en Santa fe, Bogotá",
+      "id_domus": "194493656",
+      "fechaPublicacion": "2026-11-02",
+      "lat": 4.6156842,
+      "lon": -74.0773972,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA FE",
+      "zonaSlug": "santa-fe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 594000000,
       "area": 126.0,
       "precioM2": 4714286,
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-10-07",
       "lat": 4.610526,
       "lon": -74.065822,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA FE",
-      "zonaSlug": "santa-fe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 317900000,
-      "area": 30.0,
-      "precioM2": 10596667,
-      "administracion": 256200.0,
-      "barrio": "SAMPER MENDOZA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-samper-mendoza-bogota/194186917",
-      "titulo": "Apartamento en Venta en Samper mendoza, Bogotá",
-      "id_domus": "194186917",
-      "fechaPublicacion": "2026-08-31",
-      "lat": 4.617062623423,
-      "lon": -74.079968992938,
       "location_type": "exacta",
       "zonaConsulta": "SANTA FE",
       "zonaSlug": "santa-fe",

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 14,
+  "total": 11,
   "zona": "CIUDAD UNIVERSITARIA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.27 19:03",
+  "generado": "2026.NOV.03 07:20",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -50,7 +50,7 @@
       "area": 92.0,
       "precioM2": 34783,
       "administracion": 175000.0,
-      "barrio": "CIUDAD UNIVERSITARIA",
+      "barrio": "NICOLAS DE FEDERMAN",
       "upl": "Teusaquillo",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -60,8 +60,8 @@
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nuevo-campin-bogota/194163242",
-      "titulo": "Apartamento en Arriendo en Nuevo Campin, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nicolas-de-federman-bogota/194163242",
+      "titulo": "Apartamento en Arriendo en Nicolas de federman, Bogotá",
       "id_domus": "194163242",
       "fechaPublicacion": "2026-08-25",
       "lat": 4.6442837,
@@ -78,41 +78,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 4340000,
-      "area": 121.0,
-      "precioM2": 35868,
-      "administracion": 560000.0,
-      "barrio": "RAFAEL NUÑEZ",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 3.0,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-rafael-nunez-bogota/194357070",
-      "titulo": "Apartamento en Arriendo en Rafael Nuñez, Bogotá",
-      "id_domus": "194357070",
-      "fechaPublicacion": "2026-10-05",
-      "lat": 4.6412154073594,
-      "lon": -74.088621139526,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD UNIVERSITARIA",
-      "zonaSlug": "ciudad-universitaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2600000,
+      "precio": 2500000,
       "area": 30.0,
-      "precioM2": 86667,
+      "precioM2": 83333,
       "administracion": 306000.0,
       "barrio": "QUINTA PAREDES",
       "upl": "Teusaquillo",
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -232,39 +200,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3270000,
-      "area": 136.0,
-      "precioM2": 24044,
-      "administracion": null,
-      "barrio": "CIUDAD UNIVERSITARIA",
+      "precio": 2433600,
+      "area": 40.0,
+      "precioM2": 60840,
+      "administracion": 366400.0,
+      "barrio": "QUINTA PAREDES",
       "upl": "Teusaquillo",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 3.0,
-      "parqueaderos": 1.0,
+      "habitaciones": 1.0,
+      "banos": 1.0,
+      "parqueaderos": null,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nuevo-campin-bogota/194409481",
-      "titulo": "Apartamento en Arriendo en Nuevo Campin, Bogotá",
-      "id_domus": "194409481",
-      "fechaPublicacion": "2026-10-15",
-      "lat": 4.6433084,
-      "lon": -74.0812825,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-paredes-bogota/194325871",
+      "titulo": "Apartamento en Arriendo en Quinta paredes, Bogotá",
+      "id_domus": "194325871",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.6338741,
+      "lon": -74.0895806,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD UNIVERSITARIA",
       "zonaSlug": "ciudad-universitaria",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3200300,
+      "area": 65.0,
+      "precioM2": 49235,
+      "administracion": 299700.0,
+      "barrio": "EL RECUERDO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-recuerdo-bogota/194220040",
+      "titulo": "Apartamento en Arriendo en El recuerdo, Bogotá",
+      "id_domus": "194220040",
+      "fechaPublicacion": "2026-09-07",
+      "lat": 4.6340761,
+      "lon": -74.0895001,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD UNIVERSITARIA",
+      "zonaSlug": "ciudad-universitaria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -328,39 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3700000,
-      "area": 105.0,
-      "precioM2": 35238,
-      "administracion": 853000.0,
-      "barrio": "BELALCAZAR",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2.0,
-      "banos": 2.0,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-belalcazar-bogota/194441428",
-      "titulo": "Apartamento en Arriendo en Belalcazar, Bogotá",
-      "id_domus": "194441428",
-      "fechaPublicacion": "2026-10-22",
-      "lat": 4.6379079,
-      "lon": -74.078539,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD UNIVERSITARIA",
-      "zonaSlug": "ciudad-universitaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -386,70 +354,6 @@
       "fechaPublicacion": "2026-10-21",
       "lat": 4.6448597,
       "lon": -74.0833925,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD UNIVERSITARIA",
-      "zonaSlug": "ciudad-universitaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3133600,
-      "area": 40.0,
-      "precioM2": 78340,
-      "administracion": 366400.0,
-      "barrio": "QUINTA PAREDES",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quinta-paredes-bogota/194325871",
-      "titulo": "Apartamento en Arriendo en Quinta paredes, Bogotá",
-      "id_domus": "194325871",
-      "fechaPublicacion": "2026-09-28",
-      "lat": 4.6338741,
-      "lon": -74.0895806,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD UNIVERSITARIA",
-      "zonaSlug": "ciudad-universitaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3200300,
-      "area": 65.0,
-      "precioM2": 49235,
-      "administracion": 299700.0,
-      "barrio": "EL RECUERDO",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-recuerdo-bogota/194220040",
-      "titulo": "Apartamento en Arriendo en El recuerdo, Bogotá",
-      "id_domus": "194220040",
-      "fechaPublicacion": "2026-09-07",
-      "lat": 4.6340761,
-      "lon": -74.0895001,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD UNIVERSITARIA",
       "zonaSlug": "ciudad-universitaria",

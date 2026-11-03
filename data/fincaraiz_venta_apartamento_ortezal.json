@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 11,
   "zona": "ORTEZAL",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 21:25",
+  "generado": "2026.NOV.03 07:20",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,26 +46,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 280000000,
-      "area": 30.0,
-      "precioM2": 9333333,
-      "administracion": null,
+      "precio": 550000000,
+      "area": 69.0,
+      "precioM2": 7971014,
+      "administracion": 580000.0,
       "barrio": "QUINTA PAREDES",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": null,
-      "banos": null,
-      "parqueaderos": null,
+      "habitaciones": 2.0,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
       "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quinta-paredes-bogota/194078417",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quinta-paredes-bogota/194492611",
       "titulo": "Apartamento en Venta en Quinta paredes, Bogotá",
-      "id_domus": "194078417",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.6299468,
-      "lon": -74.0947546,
+      "id_domus": "194492611",
+      "fechaPublicacion": "2026-11-02",
+      "lat": 4.6300895,
+      "lon": -74.0949385,
       "location_type": "exacta",
       "zonaConsulta": "ORTEZAL",
       "zonaSlug": "ortezal",
@@ -206,6 +206,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 280000000,
+      "area": 30.0,
+      "precioM2": 9333333,
+      "administracion": null,
+      "barrio": "QUINTA PAREDES",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quinta-paredes-bogota/194078417",
+      "titulo": "Apartamento en Venta en Quinta paredes, Bogotá",
+      "id_domus": "194078417",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.6299468,
+      "lon": -74.0947546,
+      "location_type": "exacta",
+      "zonaConsulta": "ORTEZAL",
+      "zonaSlug": "ortezal",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 649900000,
       "area": 168.0,
       "precioM2": 3868452,
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
