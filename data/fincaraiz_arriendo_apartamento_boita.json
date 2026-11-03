@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 7,
   "zona": "BOITA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.28 06:24",
+  "generado": "2026.NOV.03 22:38",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1330000,
+      "area": 60.0,
+      "precioM2": 22167,
+      "administracion": null,
+      "barrio": "BOITA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-boita-et-i-bogota/194169331",
+      "titulo": "Apartamento en Arriendo en Boita et. i, Bogotá",
+      "id_domus": "194169331",
+      "fechaPublicacion": "2026-08-26",
+      "lat": 4.6013723,
+      "lon": -74.1523867,
+      "location_type": "exacta",
+      "zonaConsulta": "BOITA",
+      "zonaSlug": "boita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1221900,
       "area": 43.0,
       "precioM2": 28416,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-10-05",
       "lat": 4.6947681,
       "lon": -74.1685129,
-      "location_type": "exacta",
-      "zonaConsulta": "BOITA",
-      "zonaSlug": "boita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1330000,
-      "area": 60.0,
-      "precioM2": 22167,
-      "administracion": null,
-      "barrio": "BOITA",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-boita-et-i-bogota/194169331",
-      "titulo": "Apartamento en Arriendo en Boita et. i, Bogotá",
-      "id_domus": "194169331",
-      "fechaPublicacion": "2026-08-26",
-      "lat": 4.6013723,
-      "lon": -74.1523867,
       "location_type": "exacta",
       "zonaConsulta": "BOITA",
       "zonaSlug": "boita",
@@ -226,38 +226,6 @@
       "fechaPublicacion": "2026-10-21",
       "lat": 4.6950995,
       "lon": -74.1675295,
-      "location_type": "exacta",
-      "zonaConsulta": "BOITA",
-      "zonaSlug": "boita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1630000,
-      "area": 70.0,
-      "precioM2": 23286,
-      "administracion": null,
-      "barrio": "BOITA",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-boita-et-i-bogota/194026437",
-      "titulo": "Apartamento en Arriendo en Boita et. i, Bogotá",
-      "id_domus": "194026437",
-      "fechaPublicacion": "2026-07-23",
-      "lat": 4.601486,
-      "lon": -74.15269,
       "location_type": "exacta",
       "zonaConsulta": "BOITA",
       "zonaSlug": "boita",

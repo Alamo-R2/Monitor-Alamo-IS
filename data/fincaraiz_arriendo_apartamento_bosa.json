@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.03 17:27",
+  "generado": "2026.NOV.03 22:38",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 949900,
+      "area": 48.0,
+      "precioM2": 19790,
+      "administracion": null,
+      "barrio": "BOSA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-bernardino-xxii-bogota/194295250",
+      "titulo": "Apartamento en Arriendo en San Bernardino xxii, Bogotá",
+      "id_domus": "194295250",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.6225594,
+      "lon": -74.2121422,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSA",
+      "zonaSlug": "bosa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -34,38 +66,6 @@
       "fechaPublicacion": "2026-09-09",
       "lat": 4.6310098,
       "lon": -74.188276,
-      "location_type": "exacta",
-      "zonaConsulta": "BOSA",
-      "zonaSlug": "bosa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1100000,
-      "area": 43.0,
-      "precioM2": 25581,
-      "administracion": 100000.0,
-      "barrio": "LA INDEPENDENCIA",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-independencia-bogota/194212829",
-      "titulo": "Apartamento en Arriendo en La independencia, Bogotá",
-      "id_domus": "194212829",
-      "fechaPublicacion": "2026-09-04",
-      "lat": 4.6208808,
-      "lon": -74.1964107,
       "location_type": "exacta",
       "zonaConsulta": "BOSA",
       "zonaSlug": "bosa",
@@ -239,6 +239,38 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 1100000,
+      "area": 42.0,
+      "precioM2": 26190,
+      "administracion": null,
+      "barrio": "BOSA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-la-libertad-bogota/194386529",
+      "titulo": "Apartamento en Arriendo en Bosa La Libertad, Bogotá",
+      "id_domus": "194386529",
+      "fechaPublicacion": "2026-10-10",
+      "lat": 4.626314,
+      "lon": -74.188896,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSA",
+      "zonaSlug": "bosa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1100000,
       "area": 85.0,
       "precioM2": 12941,
       "administracion": null,
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-08-19",
       "lat": 4.6377233,
       "lon": -74.1894317,
-      "location_type": "exacta",
-      "zonaConsulta": "BOSA",
-      "zonaSlug": "bosa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 987000,
-      "area": 43.0,
-      "precioM2": 22953,
-      "administracion": 113000.0,
-      "barrio": "BOSA",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-bogota/194374771",
-      "titulo": "Apartamento en Arriendo en Bosa, Bogotá",
-      "id_domus": "194374771",
-      "fechaPublicacion": "2026-10-08",
-      "lat": 4.6283549,
-      "lon": -74.1409573,
       "location_type": "exacta",
       "zonaConsulta": "BOSA",
       "zonaSlug": "bosa",

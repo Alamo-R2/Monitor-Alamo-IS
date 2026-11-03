@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 17,
+  "total": 19,
   "zona": "VILLAS DEL PROGRESO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.28 06:24",
+  "generado": "2026.NOV.03 22:38",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 200000000,
-      "area": 55.0,
-      "precioM2": 3636364,
-      "administracion": 80000.0,
-      "barrio": "BOSA",
-      "upl": "Edén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2.0,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/194270159",
-      "titulo": "Apartamento en Venta en Bosa, Bogotá",
-      "id_domus": "194270159",
-      "fechaPublicacion": "2026-09-16",
-      "lat": 4.6253314,
-      "lon": -74.2019167,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLAS DEL PROGRESO",
-      "zonaSlug": "villas-del-progreso",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-07-03",
       "lat": 4.626210727745,
       "lon": -74.204420158984,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLAS DEL PROGRESO",
+      "zonaSlug": "villas-del-progreso",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 200000000,
+      "area": 55.0,
+      "precioM2": 3636364,
+      "administracion": 80000.0,
+      "barrio": "BOSA",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/194270159",
+      "titulo": "Apartamento en Venta en Bosa, Bogotá",
+      "id_domus": "194270159",
+      "fechaPublicacion": "2026-09-16",
+      "lat": 4.6253314,
+      "lon": -74.2019167,
       "location_type": "exacta",
       "zonaConsulta": "VILLAS DEL PROGRESO",
       "zonaSlug": "villas-del-progreso",
@@ -366,6 +366,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 155000000,
+      "area": 36.0,
+      "precioM2": 4305556,
+      "administracion": 89000.0,
+      "barrio": "BOSA",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/194470824",
+      "titulo": "Apartamento en Venta en Bosa, Bogotá",
+      "id_domus": "194470824",
+      "fechaPublicacion": "2026-10-28",
+      "lat": 4.6267886,
+      "lon": -74.2045422,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLAS DEL PROGRESO",
+      "zonaSlug": "villas-del-progreso",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 150000000,
       "area": 44.0,
       "precioM2": 3409091,
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 167000000,
+      "area": 46.0,
+      "precioM2": 3630435,
+      "administracion": 82000.0,
+      "barrio": "VILLAS DEL PROGRESO",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villas-del-progreso-bogota/194468667",
+      "titulo": "Apartamento en Venta en Villas del progreso, Bogotá",
+      "id_domus": "194468667",
+      "fechaPublicacion": "2026-10-28",
+      "lat": 4.63717,
+      "lon": -74.171556,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLAS DEL PROGRESO",
+      "zonaSlug": "villas-del-progreso",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],

@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 13,
+  "total": 14,
   "zona": "CAMPO VERDE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.28 16:19",
+  "generado": "2026.NOV.03 22:38",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 949900,
+      "area": 48.0,
+      "precioM2": 19790,
+      "administracion": null,
+      "barrio": "CAMPO VERDE",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-bernardino-xxii-bogota/194295250",
+      "titulo": "Apartamento en Arriendo en San Bernardino xxii, Bogotá",
+      "id_domus": "194295250",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.6225594,
+      "lon": -74.2121422,
+      "location_type": "exacta",
+      "zonaConsulta": "CAMPO VERDE",
+      "zonaSlug": "campo-verde",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,16 +104,16 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 902000,
+      "precio": 914100,
       "area": 47.0,
-      "precioM2": 19191,
-      "administracion": 98000.0,
+      "precioM2": 19449,
+      "administracion": 85900.0,
       "barrio": "BOSA",
       "upl": "Edén",
       "ciudad": "Bogotá",
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-10-27",
       "lat": 4.6261338,
       "lon": -74.2070525,
-      "location_type": "exacta",
-      "zonaConsulta": "CAMPO VERDE",
-      "zonaSlug": "campo-verde",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 900000,
-      "area": 47.0,
-      "precioM2": 19149,
-      "administracion": null,
-      "barrio": "BOSA",
-      "upl": "Edén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-bogota/194437481",
-      "titulo": "Apartamento en Arriendo en Bosa, Bogotá",
-      "id_domus": "194437481",
-      "fechaPublicacion": "2026-10-21",
-      "lat": 4.6301435,
-      "lon": -74.2094216,
       "location_type": "exacta",
       "zonaConsulta": "CAMPO VERDE",
       "zonaSlug": "campo-verde",
@@ -206,6 +206,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 853000,
+      "area": 47.0,
+      "precioM2": 18149,
+      "administracion": 47000.0,
+      "barrio": "BOSA",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bosa-bogota/194476923",
+      "titulo": "Apartamento en Arriendo en Bosa, Bogotá",
+      "id_domus": "194476923",
+      "fechaPublicacion": "2026-10-29",
+      "lat": 4.6244392,
+      "lon": -74.2072113,
+      "location_type": "exacta",
+      "zonaConsulta": "CAMPO VERDE",
+      "zonaSlug": "campo-verde",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 900000,
+      "area": 35.0,
+      "precioM2": 25714,
+      "administracion": null,
+      "barrio": "CAMPO VERDE",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/194473805",
+      "titulo": "Apartamento en Arriendo en Bogotá",
+      "id_domus": "194473805",
+      "fechaPublicacion": "2026-10-29",
+      "lat": 4.6238334,
+      "lon": -74.2115108,
+      "location_type": "exacta",
+      "zonaConsulta": "CAMPO VERDE",
+      "zonaSlug": "campo-verde",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1200000,
       "area": 60.0,
       "precioM2": 20000,
@@ -232,39 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 949900,
-      "area": 48.0,
-      "precioM2": 19790,
-      "administracion": null,
-      "barrio": "CAMPO VERDE",
-      "upl": "Edén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-bernardino-xxii-bogota/194295250",
-      "titulo": "Apartamento en Arriendo en San Bernardino xxii, Bogotá",
-      "id_domus": "194295250",
-      "fechaPublicacion": "2026-09-22",
-      "lat": 4.6225594,
-      "lon": -74.2121422,
-      "location_type": "exacta",
-      "zonaConsulta": "CAMPO VERDE",
-      "zonaSlug": "campo-verde",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],

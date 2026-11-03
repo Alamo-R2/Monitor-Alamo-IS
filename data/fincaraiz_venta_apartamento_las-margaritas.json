@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 06:57",
+  "generado": "2026.NOV.03 22:38",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 520000000,
-      "area": 83.0,
-      "precioM2": 6265060,
-      "administracion": 575000.0,
-      "barrio": "CEDRITOS",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/194377245",
-      "titulo": "Apartamento en Venta en Cedritos, Bogotá",
-      "id_domus": "194377245",
-      "fechaPublicacion": "2026-10-08",
-      "lat": 4.7296928,
-      "lon": -74.0446925,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS MARGARITAS",
-      "zonaSlug": "las-margaritas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-10-23",
       "lat": 4.7337448,
       "lon": -74.0447036,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS MARGARITAS",
+      "zonaSlug": "las-margaritas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 520000000,
+      "area": 83.0,
+      "precioM2": 6265060,
+      "administracion": 575000.0,
+      "barrio": "CEDRITOS",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/194377245",
+      "titulo": "Apartamento en Venta en Cedritos, Bogotá",
+      "id_domus": "194377245",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.7296928,
+      "lon": -74.0446925,
       "location_type": "exacta",
       "zonaConsulta": "LAS MARGARITAS",
       "zonaSlug": "las-margaritas",
@@ -206,70 +206,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 450000000,
-      "area": 76.0,
-      "precioM2": 5921053,
-      "administracion": 748000.0,
-      "barrio": "CEDRITOS",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/193779430",
-      "titulo": "Apartamento en Venta en Cedritos, Bogotá",
-      "id_domus": "193779430",
-      "fechaPublicacion": "2026-05-21",
-      "lat": 4.7292086,
-      "lon": -74.0472555,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS MARGARITAS",
-      "zonaSlug": "las-margaritas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 770000000,
-      "area": 124.0,
-      "precioM2": 6209677,
-      "administracion": null,
-      "barrio": "LAS MARGARITAS",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-margaritas-bogota/193935849",
-      "titulo": "Apartamento en Venta en Las margaritas, Bogotá",
-      "id_domus": "193935849",
-      "fechaPublicacion": "2026-06-30",
-      "lat": 4.731992876498,
-      "lon": -74.046039094239,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS MARGARITAS",
-      "zonaSlug": "las-margaritas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 220000000,
       "area": 57.0,
       "precioM2": 3859649,
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +264,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 667000000,
+      "area": 115.0,
+      "precioM2": 5800000,
+      "administracion": 635608.0,
+      "barrio": "VERBENAL SAN ANTONIO",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194498895",
+      "titulo": "Apartamento en Venta en Bogotá",
+      "id_domus": "194498895",
+      "fechaPublicacion": "2026-11-03",
+      "lat": 4.7314886626606,
+      "lon": -74.049073170695,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS MARGARITAS",
+      "zonaSlug": "las-margaritas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,39 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 650000000,
-      "area": 115.0,
-      "precioM2": 5652174,
-      "administracion": 568000.0,
-      "barrio": "CEDRITOS",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/194460350",
-      "titulo": "Apartamento en Venta en Cedritos, Bogotá",
-      "id_domus": "194460350",
-      "fechaPublicacion": "2026-10-26",
-      "lat": 4.729739,
-      "lon": -74.0491964,
-      "location_type": "exacta",
-      "zonaConsulta": "LAS MARGARITAS",
-      "zonaSlug": "las-margaritas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +552,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 450000000,
+      "area": 90.0,
+      "precioM2": 5000000,
+      "administracion": null,
+      "barrio": "CEDRITOS",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/194498824",
+      "titulo": "Apartamento en Venta en Cedritos, Bogotá",
+      "id_domus": "194498824",
+      "fechaPublicacion": "2026-11-03",
+      "lat": 4.7288922,
+      "lon": -74.0457299,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS MARGARITAS",
+      "zonaSlug": "las-margaritas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-06-04",
       "lat": 4.7419883769697,
       "lon": -74.088677893906,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS MARGARITAS",
+      "zonaSlug": "las-margaritas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 260000000,
+      "area": 50.0,
+      "precioM2": 5200000,
+      "administracion": 85900.0,
+      "barrio": "LAS MARGARITAS",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-margaritas-bogota/193151104",
+      "titulo": "Apartamento en Venta en Las margaritas, Bogotá",
+      "id_domus": "193151104",
+      "fechaPublicacion": "2025-11-28",
+      "lat": 4.627834881515,
+      "lon": -74.175068844237,
       "location_type": "exacta",
       "zonaConsulta": "LAS MARGARITAS",
       "zonaSlug": "las-margaritas",

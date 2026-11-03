@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 8,
   "zona": "PASTRANA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.28 16:19",
+  "generado": "2026.NOV.03 22:38",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 229000000,
+      "area": 61.0,
+      "precioM2": 3754098,
+      "administracion": 96000.0,
+      "barrio": "PASTRANA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-casa-blanca-bogota/194488517",
+      "titulo": "Apartamento en Venta en Casa Blanca, Bogotá",
+      "id_domus": "194488517",
+      "fechaPublicacion": "2026-10-31",
+      "lat": 4.6180469019963,
+      "lon": -74.168426254097,
+      "location_type": "exacta",
+      "zonaConsulta": "PASTRANA",
+      "zonaSlug": "pastrana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 145000000,
       "area": 35.0,
       "precioM2": 4142857,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,15 +136,47 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 180000000,
+      "precio": 230000000,
+      "area": 60.0,
+      "precioM2": 3833333,
+      "administracion": 95000.0,
+      "barrio": "PASTRANA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-casa-blanca-bogota/194492743",
+      "titulo": "Apartamento en Venta en Casa Blanca, Bogotá",
+      "id_domus": "194492743",
+      "fechaPublicacion": "2026-11-02",
+      "lat": 4.6169992098631,
+      "lon": -74.166619777679,
+      "location_type": "exacta",
+      "zonaConsulta": "PASTRANA",
+      "zonaSlug": "pastrana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 190000000,
       "area": 50.0,
-      "precioM2": 3600000,
+      "precioM2": 3800000,
       "administracion": null,
       "barrio": "PASTRANA",
       "upl": "Bosa",
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],

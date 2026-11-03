@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 7,
   "zona": "BOSA NOVA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.28 06:24",
+  "generado": "2026.NOV.03 22:38",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -156,6 +156,38 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-la-libertad-bogota/194469007",
+      "titulo": "Apartamento en Venta en Bosa La Libertad, Bogotá",
+      "id_domus": "194469007",
+      "fechaPublicacion": "2026-10-28",
+      "lat": 4.6181285,
+      "lon": -74.1897692,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSA NOVA",
+      "zonaSlug": "bosa-nova",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 197000000,
+      "area": 51.0,
+      "precioM2": 3862745,
+      "administracion": 96482.0,
+      "barrio": "BOSA NOVA",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-porvenir-bogota/194081531",
       "titulo": "Apartamento en Venta en El porvenir, Bogotá",
       "id_domus": "194081531",
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],

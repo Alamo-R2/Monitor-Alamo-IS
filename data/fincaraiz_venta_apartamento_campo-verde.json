@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.28 16:19",
+  "generado": "2026.NOV.03 22:38",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -25,7 +25,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 2.0,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-el-recreo-bogota/194186795",
@@ -57,7 +57,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": 1.0,
-      "estrato": 2.0,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/194368557",
@@ -89,7 +89,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 2.0,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/193683398",
@@ -121,7 +121,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/acanto-apartamento-en-venta-en-san-bernardino-xxii-bogota/193220855",
@@ -153,7 +153,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 2.0,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/194422681",
@@ -185,7 +185,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": 1.0,
-      "estrato": 1.0,
+      "estrato": 1,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-campo-verde-bogota/194281997",
@@ -217,7 +217,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 2.0,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/proyectos-vivienda/florecer-apartamentos-en-venta-en-san-bernardino-xxii-bogota/7926017",
@@ -249,7 +249,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 2.0,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-campo-verde-bogota/191459341",
@@ -270,6 +270,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 165000000,
+      "area": 47.0,
+      "precioM2": 3510638,
+      "administracion": 85000.0,
+      "barrio": "CAMPO VERDE",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-san-bernardino-bogota/194480856",
+      "titulo": "Apartamento en Venta en Bosa San Bernardino, Bogotá",
+      "id_domus": "194480856",
+      "fechaPublicacion": "2026-10-29",
+      "lat": 4.6243331,
+      "lon": -74.2110644,
+      "location_type": "exacta",
+      "zonaConsulta": "CAMPO VERDE",
+      "zonaSlug": "campo-verde",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 170000000,
       "area": 47.0,
       "precioM2": 3617021,
@@ -281,7 +313,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 2.0,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/194074360",
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -313,7 +345,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 2.0,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/alborada-apartamento-en-venta-en-san-bernardino-xxii-bogota/193645278",
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -345,7 +377,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 2.0,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/193459928",
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -377,7 +409,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 2.0,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-campo-verde-bogota/194281938",
@@ -392,7 +424,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 167000000,
+      "area": 48.0,
+      "precioM2": 3479167,
+      "administracion": null,
+      "barrio": "CAMPO VERDE",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-bernardino-xxii-bogota/194262811",
+      "titulo": "Apartamento en Venta en San Bernardino xxii, Bogotá",
+      "id_domus": "194262811",
+      "fechaPublicacion": "2026-09-16",
+      "lat": 4.6206168,
+      "lon": -74.2126953,
+      "location_type": "exacta",
+      "zonaConsulta": "CAMPO VERDE",
+      "zonaSlug": "campo-verde",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -409,7 +473,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/193350851",
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -441,7 +505,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 2.0,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-campo-verde-bogota/194086468",
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -473,7 +537,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 2.0,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-san-bernardino-bogota/194033371",
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -505,7 +569,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 2.0,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/193918665",
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -537,7 +601,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 1.0,
+      "estrato": 1,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-campo-verde-bogota/194086686",
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -569,7 +633,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 2.0,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-campo-verde-bogota/193464964",
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -601,7 +665,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 1.0,
+      "estrato": 1,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-bogota/193907776",
@@ -610,70 +674,6 @@
       "fechaPublicacion": "2026-06-23",
       "lat": 4.6249597,
       "lon": -74.2063765,
-      "location_type": "exacta",
-      "zonaConsulta": "CAMPO VERDE",
-      "zonaSlug": "campo-verde",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 203000000,
-      "area": 53.0,
-      "precioM2": 3830189,
-      "administracion": 73840.0,
-      "barrio": "CAMPO VERDE",
-      "upl": "Edén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-campo-verde-bogota/194387413",
-      "titulo": "Apartamento en Venta en Campo verde, Bogotá",
-      "id_domus": "194387413",
-      "fechaPublicacion": "2026-10-10",
-      "lat": 4.6323448,
-      "lon": -74.2046568,
-      "location_type": "exacta",
-      "zonaConsulta": "CAMPO VERDE",
-      "zonaSlug": "campo-verde",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 160000000,
-      "area": 47.0,
-      "precioM2": 3404255,
-      "administracion": null,
-      "barrio": "CAMPO VERDE",
-      "upl": "Edén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-campo-verde-bogota/193970126",
-      "titulo": "Apartamento en Venta en Campo verde, Bogotá",
-      "id_domus": "193970126",
-      "fechaPublicacion": "2026-07-08",
-      "lat": 4.6285094,
-      "lon": -74.2116554,
       "location_type": "exacta",
       "zonaConsulta": "CAMPO VERDE",
       "zonaSlug": "campo-verde",

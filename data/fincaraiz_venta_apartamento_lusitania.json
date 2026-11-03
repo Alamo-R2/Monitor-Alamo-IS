@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 16:29",
+  "generado": "2026.NOV.03 22:38",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 340000000,
+      "area": 38.0,
+      "precioM2": 8947368,
+      "administracion": 235000.0,
+      "barrio": "LUSITANIA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-comercial-outlet-factory-bogota/194493305",
+      "titulo": "Apartamento en Venta en Centro Comercial Outlet Factory, Bogotá",
+      "id_domus": "194493305",
+      "fechaPublicacion": "2026-11-02",
+      "lat": 4.6305687,
+      "lon": -74.1215376,
+      "location_type": "exacta",
+      "zonaConsulta": "LUSITANIA",
+      "zonaSlug": "lusitania",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -25,7 +57,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lusitania-bogota/194395198",
@@ -34,38 +66,6 @@
       "fechaPublicacion": "2026-10-13",
       "lat": 4.6321204,
       "lon": -74.1245368,
-      "location_type": "exacta",
-      "zonaConsulta": "LUSITANIA",
-      "zonaSlug": "lusitania",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 315000000,
-      "area": 40.0,
-      "precioM2": 7875000,
-      "administracion": 180000.0,
-      "barrio": "SALAZAR GOMEZ",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salazar-gomez-bogota/194115061",
-      "titulo": "Apartamento en Venta en Salazar gomez, Bogotá",
-      "id_domus": "194115061",
-      "fechaPublicacion": "2026-08-13",
-      "lat": 4.6291748348374,
-      "lon": -74.122148364062,
       "location_type": "exacta",
       "zonaConsulta": "LUSITANIA",
       "zonaSlug": "lusitania",
@@ -89,7 +89,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-comercial-outlet-factory-bogota/193487114",
@@ -121,7 +121,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salazar-gomez-bogota/193572531",
@@ -153,7 +153,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-alsacia-bogota/192409920",
@@ -185,7 +185,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-comercial-outlet-factory-bogota/194254974",
@@ -217,7 +217,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-marsella-bogota/194321194",
@@ -249,7 +249,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-marsella-bogota/194246705",
@@ -270,6 +270,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 315000000,
+      "area": 40.0,
+      "precioM2": 7875000,
+      "administracion": 180000.0,
+      "barrio": "SALAZAR GOMEZ",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salazar-gomez-bogota/194115061",
+      "titulo": "Apartamento en Venta en Salazar gomez, Bogotá",
+      "id_domus": "194115061",
+      "fechaPublicacion": "2026-08-13",
+      "lat": 4.6291748348374,
+      "lon": -74.122148364062,
+      "location_type": "exacta",
+      "zonaConsulta": "LUSITANIA",
+      "zonaSlug": "lusitania",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 245000000,
       "area": 38.0,
       "precioM2": 6447368,
@@ -281,7 +313,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/193177971",
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -313,7 +345,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-comercial-outlet-factory-bogota/194417189",
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -345,7 +377,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-marsella-bogota/191289041",
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -377,7 +409,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-marsella-bogota/191381969",
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -409,7 +441,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salazar-gomez-bogota/194321579",
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -441,7 +473,7 @@
       "habitaciones": 3,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-marsella-bogota/194380579",
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -473,7 +505,7 @@
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salazar-gomez-bogota/194113889",
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -505,7 +537,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-alsacia-bogota/194136447",
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -537,7 +569,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/viena-apartamento-en-venta-en-marsella-bogota/192411456",
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -569,7 +601,7 @@
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salazar-gomez-bogota/193249173",
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -601,7 +633,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salazar-gomez-bogota/193845960",
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -633,7 +665,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-igualdad-bogota/194013827",
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-07-21",
       "lat": 4.6330092,
       "lon": -74.1211285,
-      "location_type": "exacta",
-      "zonaConsulta": "LUSITANIA",
-      "zonaSlug": "lusitania",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 245000000,
-      "area": 38.0,
-      "precioM2": 6447368,
-      "administracion": 231000.0,
-      "barrio": "LUSITANIA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-comercial-outlet-factory-bogota/194078207",
-      "titulo": "Apartamento en Venta en Centro Comercial Outlet Factory, Bogotá",
-      "id_domus": "194078207",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.62946,
-      "lon": -74.1218993,
       "location_type": "exacta",
       "zonaConsulta": "LUSITANIA",
       "zonaSlug": "lusitania",
