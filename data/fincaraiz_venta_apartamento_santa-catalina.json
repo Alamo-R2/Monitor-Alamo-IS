@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 11,
+  "total": 13,
   "zona": "SANTA CATALINA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.28 16:19",
+  "generado": "2026.NOV.04 07:02",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 210000000,
+      "area": 45.0,
+      "precioM2": 4666667,
+      "administracion": 130000.0,
+      "barrio": "SANTA CATALINA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-catalina-bogota/194485079",
+      "titulo": "Apartamento en Venta en Santa catalina, Bogotá",
+      "id_domus": "194485079",
+      "fechaPublicacion": "2026-10-30",
+      "lat": 4.603842,
+      "lon": -74.147662,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CATALINA",
+      "zonaSlug": "santa-catalina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,103 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 251000000,
-      "area": 39.0,
-      "precioM2": 6435897,
-      "administracion": 136500.0,
-      "barrio": "SANTA CATALINA",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-catalina-bogota/193243181",
-      "titulo": "Apartamento en Venta en Santa catalina, Bogotá",
-      "id_domus": "193243181",
-      "fechaPublicacion": "2026-01-02",
-      "lat": 4.6457227687356,
-      "lon": -74.144582748413,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA CATALINA",
-      "zonaSlug": "santa-catalina",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 250000000,
-      "area": 54.0,
-      "precioM2": 4629630,
-      "administracion": null,
-      "barrio": "BOITA",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boita-bogota/10107094",
-      "titulo": "Apartamento en Venta en Boita, Bogotá",
-      "id_domus": "10107094",
-      "fechaPublicacion": "2023-05-25",
-      "lat": 4.6069967,
-      "lon": -74.1544646,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA CATALINA",
-      "zonaSlug": "santa-catalina",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 260000000,
-      "area": 57.0,
-      "precioM2": 4561404,
-      "administracion": null,
-      "barrio": "BOITA",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boita-bogota/193816377",
-      "titulo": "Apartamento en Venta en Boita, Bogotá",
-      "id_domus": "193816377",
-      "fechaPublicacion": "2026-05-29",
-      "lat": 4.604775158039,
-      "lon": -74.149681159365,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA CATALINA",
-      "zonaSlug": "santa-catalina",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -354,6 +290,134 @@
       "fechaPublicacion": "2026-07-21",
       "lat": 4.6450613,
       "lon": -74.1432039,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CATALINA",
+      "zonaSlug": "santa-catalina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 253000000,
+      "area": 45.0,
+      "precioM2": 5622222,
+      "administracion": 161509.0,
+      "barrio": "SANTA CATALINA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-bogota/194472277",
+      "titulo": "Apartamento en Venta en Kennedy, Bogotá",
+      "id_domus": "194472277",
+      "fechaPublicacion": "2026-10-28",
+      "lat": 4.6053123,
+      "lon": -74.1528545,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CATALINA",
+      "zonaSlug": "santa-catalina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 251000000,
+      "area": 39.0,
+      "precioM2": 6435897,
+      "administracion": 136500.0,
+      "barrio": "SANTA CATALINA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-catalina-bogota/193243181",
+      "titulo": "Apartamento en Venta en Santa catalina, Bogotá",
+      "id_domus": "193243181",
+      "fechaPublicacion": "2026-01-02",
+      "lat": 4.6457227687356,
+      "lon": -74.144582748413,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CATALINA",
+      "zonaSlug": "santa-catalina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 54.0,
+      "precioM2": 4629630,
+      "administracion": null,
+      "barrio": "BOITA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boita-bogota/10107094",
+      "titulo": "Apartamento en Venta en Boita, Bogotá",
+      "id_domus": "10107094",
+      "fechaPublicacion": "2023-05-25",
+      "lat": 4.6069967,
+      "lon": -74.1544646,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA CATALINA",
+      "zonaSlug": "santa-catalina",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 260000000,
+      "area": 57.0,
+      "precioM2": 4561404,
+      "administracion": null,
+      "barrio": "BOITA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-boita-bogota/193816377",
+      "titulo": "Apartamento en Venta en Boita, Bogotá",
+      "id_domus": "193816377",
+      "fechaPublicacion": "2026-05-29",
+      "lat": 4.604775158039,
+      "lon": -74.149681159365,
       "location_type": "exacta",
       "zonaConsulta": "SANTA CATALINA",
       "zonaSlug": "santa-catalina",

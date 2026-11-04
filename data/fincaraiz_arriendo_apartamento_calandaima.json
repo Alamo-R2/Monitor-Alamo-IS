@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.28 16:19",
+  "generado": "2026.NOV.04 07:02",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1099200,
+      "area": 51.0,
+      "precioM2": 21553,
+      "administracion": 100800,
+      "barrio": "CALANDAIMA",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-tierra-buena-bogota/194443968",
+      "titulo": "Apartamento en Arriendo en Tierra Buena, Bogotá",
+      "id_domus": "194443968",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.6497379,
+      "lon": -74.1662304,
+      "location_type": "exacta",
+      "zonaConsulta": "CALANDAIMA",
+      "zonaSlug": "calandaima",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-08-27",
       "lat": 4.6440428,
       "lon": -74.1653664,
-      "location_type": "exacta",
-      "zonaConsulta": "CALANDAIMA",
-      "zonaSlug": "calandaima",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1099200,
-      "area": 51.0,
-      "precioM2": 21553,
-      "administracion": 100800,
-      "barrio": "CALANDAIMA",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-tierra-buena-bogota/194443968",
-      "titulo": "Apartamento en Arriendo en Tierra Buena, Bogotá",
-      "id_domus": "194443968",
-      "fechaPublicacion": "2026-10-22",
-      "lat": 4.6497379,
-      "lon": -74.1662304,
       "location_type": "exacta",
       "zonaConsulta": "CALANDAIMA",
       "zonaSlug": "calandaima",
