@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.02 01:05",
+  "generado": "2026.NOV.04 17:40",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 550000000,
-      "area": 201.0,
-      "precioM2": 2736318,
-      "administracion": 1.0,
+      "precio": 240000000,
+      "area": 56.0,
+      "precioM2": 4285714,
+      "administracion": null,
       "barrio": "SAN CRISTOBAL SUR",
       "upl": "San Cristóbal",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": null,
+      "parqueaderos": null,
+      "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/casa-en-venta-en-san-cristobal-sur-bogota/194164795",
-      "titulo": "Casa en Venta en San cristobal sur, Bogotá",
-      "id_domus": "194164795",
-      "fechaPublicacion": "2026-08-25",
-      "lat": 4.5761673,
-      "lon": -74.0864984,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-cristobal-sur-bogota/194072832",
+      "titulo": "Apartamento en Venta en San cristobal sur, Bogotá",
+      "id_domus": "194072832",
+      "fechaPublicacion": "2026-08-04",
+      "lat": 4.558298762216,
+      "lon": -74.08191531621,
       "location_type": "exacta",
       "zonaConsulta": "SAN CRISTOBAL SUR",
       "zonaSlug": "san-cristobal-sur",
@@ -142,70 +142,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 438000000,
-      "area": 133.0,
-      "precioM2": 3293233,
-      "administracion": null,
-      "barrio": "SAN CRISTOBAL SUR",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-cristobal-sur-bogota/194136762",
-      "titulo": "Apartamento en Venta en San cristobal sur, Bogotá",
-      "id_domus": "194136762",
-      "fechaPublicacion": "2026-08-19",
-      "lat": 4.5761566007721,
-      "lon": -74.086251640751,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN CRISTOBAL SUR",
-      "zonaSlug": "san-cristobal-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 240000000,
-      "area": 56.0,
-      "precioM2": 4285714,
-      "administracion": null,
-      "barrio": "SAN CRISTOBAL SUR",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-cristobal-sur-bogota/194072832",
-      "titulo": "Apartamento en Venta en San cristobal sur, Bogotá",
-      "id_domus": "194072832",
-      "fechaPublicacion": "2026-08-04",
-      "lat": 4.558298762216,
-      "lon": -74.08191531621,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN CRISTOBAL SUR",
-      "zonaSlug": "san-cristobal-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 190000000,
       "area": 49.0,
       "precioM2": 3877551,
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +200,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 550000000,
+      "area": 201.0,
+      "precioM2": 2736318,
+      "administracion": 1.0,
+      "barrio": "SAN CRISTOBAL SUR",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/casa-en-venta-en-san-cristobal-sur-bogota/194164795",
+      "titulo": "Casa en Venta en San cristobal sur, Bogotá",
+      "id_domus": "194164795",
+      "fechaPublicacion": "2026-08-25",
+      "lat": 4.5761673,
+      "lon": -74.0864984,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN CRISTOBAL SUR",
+      "zonaSlug": "san-cristobal-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,15 +424,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 121000000,
+      "precio": 123000000,
       "area": 23.0,
-      "precioM2": 5260870,
+      "precioM2": 5347826,
       "administracion": 140000.0,
       "barrio": "SAN CRISTOBAL SUR",
       "upl": "San Cristóbal",
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -514,6 +482,38 @@
       "fechaPublicacion": "2026-10-08",
       "lat": 4.5761673,
       "lon": -74.0864984,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN CRISTOBAL SUR",
+      "zonaSlug": "san-cristobal-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 438000000,
+      "area": 133.0,
+      "precioM2": 3293233,
+      "administracion": null,
+      "barrio": "SAN CRISTOBAL SUR",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-cristobal-sur-bogota/194136762",
+      "titulo": "Apartamento en Venta en San cristobal sur, Bogotá",
+      "id_domus": "194136762",
+      "fechaPublicacion": "2026-08-19",
+      "lat": 4.5761566007721,
+      "lon": -74.086251640751,
       "location_type": "exacta",
       "zonaConsulta": "SAN CRISTOBAL SUR",
       "zonaSlug": "san-cristobal-sur",
