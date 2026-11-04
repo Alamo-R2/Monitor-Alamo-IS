@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 5,
   "zona": "HORIZONTES NORTE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.31 01:08",
+  "generado": "2026.NOV.04 23:02",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1023000,
+      "area": 20.0,
+      "precioM2": 51150,
+      "administracion": 177000.0,
+      "barrio": "EL REDIL",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-redil-bogota/194488469",
+      "titulo": "Apartamento en Arriendo en El redil, Bogotá",
+      "id_domus": "194488469",
+      "fechaPublicacion": "2026-10-31",
+      "lat": 4.7531791,
+      "lon": -74.0241447,
+      "location_type": "exacta",
+      "zonaConsulta": "HORIZONTES NORTE",
+      "zonaSlug": "horizontes-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -98,6 +130,38 @@
       "fechaPublicacion": "2026-10-13",
       "lat": 4.7620939,
       "lon": -74.0270141,
+      "location_type": "exacta",
+      "zonaConsulta": "HORIZONTES NORTE",
+      "zonaSlug": "horizontes-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000,
+      "area": 50.0,
+      "precioM2": 28000,
+      "administracion": null,
+      "barrio": "HORIZONTES NORTE",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-horizontes-norte-bogota/194502261",
+      "titulo": "Apartamento en Arriendo en Horizontes norte, Bogotá",
+      "id_domus": "194502261",
+      "fechaPublicacion": "2026-11-04",
+      "lat": 4.7635735,
+      "lon": -74.0253093,
       "location_type": "exacta",
       "zonaConsulta": "HORIZONTES NORTE",
       "zonaSlug": "horizontes-norte",

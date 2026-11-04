@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "EL MOCHUELO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.29 11:09",
+  "generado": "2026.NOV.04 23:02",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 4150000000,
+      "area": 407.0,
+      "precioM2": 10196560,
+      "administracion": 2126000.0,
+      "barrio": "EL MOCHUELO",
+      "upl": "Cuenca del Tunjuelo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 3.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-mochuelo-bogota/194477887",
+      "titulo": "Apartamento en Venta en El mochuelo, Bogotá",
+      "id_domus": "194477887",
+      "fechaPublicacion": "2026-10-29",
+      "lat": 4.6910150666055,
+      "lon": -74.041843414307,
+      "location_type": "exacta",
+      "zonaConsulta": "EL MOCHUELO",
+      "zonaSlug": "el-mochuelo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1170000000,
       "area": 170.0,
       "precioM2": 6882353,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
