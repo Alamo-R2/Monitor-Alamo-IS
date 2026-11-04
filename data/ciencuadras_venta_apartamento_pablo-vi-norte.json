@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.04 13:50",
+  "generado": "2026.NOV.04 21:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -13,24 +13,24 @@
         "Venta"
       ],
       "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 575000000,
-      "area": 46.87,
-      "precioM2": 12267975,
+      "tipoPortal": "Casa",
+      "precio": 1900000000,
+      "area": 261.0,
+      "precioM2": 7279693,
       "administracion": null,
-      "barrio": "LA SOLEDAD",
+      "barrio": "BANCO CENTRAL",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 0,
+      "habitaciones": 5,
+      "banos": 6,
+      "parqueaderos": 3,
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-la-soledad-bogota-3926265",
-      "titulo": "Apartamento en La Soledad",
-      "id_domus": "3926265",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/casa-en-venta-en-banco-central-bogota-3916585",
+      "titulo": "Casa en Banco Central",
+      "id_domus": "3916585",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -238,11 +238,11 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 227000000,
-      "area": 28.0,
-      "precioM2": 8107143,
+      "precio": 575000000,
+      "area": 46.87,
+      "precioM2": 12267975,
       "administracion": null,
-      "barrio": "PABLO VI NORTE",
+      "barrio": "LA SOLEDAD",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -252,9 +252,9 @@
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-chapinero-sur-occidental-bogota-3904226",
-      "titulo": "Apartamento en Chapinero Sur Occidental",
-      "id_domus": "3904226",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-la-soledad-bogota-3926265",
+      "titulo": "Apartamento en La Soledad",
+      "id_domus": "3926265",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -333,6 +333,38 @@
         "Venta"
       ],
       "tipo": "apartamento",
+      "tipoPortal": "Edificio",
+      "precio": 2400000000,
+      "area": 293.75,
+      "precioM2": 8170213,
+      "administracion": null,
+      "barrio": "QUESADA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 16,
+      "banos": 6,
+      "parqueaderos": 0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/edificio-en-venta-en-quesada-bogota-3935376",
+      "titulo": "Edificio en Quesada",
+      "id_domus": "3935376",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "PABLO VI NORTE",
+      "zonaSlug": "pablo-vi-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
       "tipoPortal": "Casa",
       "precio": 1500000000,
       "area": 195.0,
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +680,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-22",
       "operacion": [
         "Venta"
       ],
@@ -680,7 +712,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-22",
+      "id": "MI-23",
       "operacion": [
         "Venta"
       ],
@@ -703,38 +735,6 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/casa-en-venta-en-nicolas-de-federman-bogota-2780468",
       "titulo": "Casa en Nicolas De Federman",
       "id_domus": "2780468",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "PABLO VI NORTE",
-      "zonaSlug": "pablo-vi-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-23",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 450000000,
-      "area": 100.0,
-      "precioM2": 4500000,
-      "administracion": null,
-      "barrio": "LA SOLEDAD",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-venta-en-la-soledad-bogota-3601866",
-      "titulo": "Apartamento en La Soledad",
-      "id_domus": "3601866",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
