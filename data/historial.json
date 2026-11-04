@@ -1,88 +1,5 @@
 [
   {
-    "grupo": "cada5",
-    "generado": "2026.AGO.30 14:40",
-    "iso": "2026-08-30T14:40:57",
-    "total": 446,
-    "segundos_total": 79.7,
-    "datasets": [
-      {
-        "clave": "venta_apartamento_restrepo",
-        "total": 50,
-        "segundos": 7.2
-      },
-      {
-        "clave": "arriendo_apartamento_restrepo",
-        "total": 20,
-        "segundos": 6.9
-      },
-      {
-        "clave": "venta_apartamento_salitre",
-        "total": 53,
-        "segundos": 7.1
-      },
-      {
-        "clave": "arriendo_apartamento_salitre",
-        "total": 54,
-        "segundos": 6.8
-      },
-      {
-        "clave": "venta_apartamento_torca",
-        "total": 51,
-        "segundos": 6.7
-      },
-      {
-        "clave": "arriendo_apartamento_torca",
-        "total": 50,
-        "segundos": 6.8
-      },
-      {
-        "clave": "venta_apartamento_suba",
-        "total": 55,
-        "segundos": 6.8
-      },
-      {
-        "clave": "arriendo_apartamento_suba",
-        "total": 52,
-        "segundos": 6.7
-      },
-      {
-        "clave": "venta_apartamento_rincon-de-suba",
-        "total": 6,
-        "segundos": 6.7
-      },
-      {
-        "clave": "arriendo_apartamento_rincon-de-suba",
-        "total": 0,
-        "segundos": 4.3
-      },
-      {
-        "clave": "venta_apartamento_tibabuyes",
-        "total": 50,
-        "segundos": 6.9
-      },
-      {
-        "clave": "arriendo_apartamento_tibabuyes",
-        "total": 5,
-        "segundos": 6.8
-      }
-    ],
-    "variaciones": {
-      "venta_apartamento_restrepo": 0,
-      "arriendo_apartamento_restrepo": -4,
-      "venta_apartamento_salitre": 2,
-      "arriendo_apartamento_salitre": 0,
-      "venta_apartamento_torca": 0,
-      "arriendo_apartamento_torca": 0,
-      "venta_apartamento_suba": 3,
-      "arriendo_apartamento_suba": -1,
-      "venta_apartamento_rincon-de-suba": 0,
-      "arriendo_apartamento_rincon-de-suba": 0,
-      "venta_apartamento_tibabuyes": 0,
-      "arriendo_apartamento_tibabuyes": 0
-    }
-  },
-  {
     "grupo": "municipios",
     "generado": "2026.AGO.30 15:32",
     "iso": "2026-08-30T15:32:39",
@@ -307709,5 +307626,148 @@
       }
     ],
     "variaciones": {}
+  },
+  {
+    "grupo": "diario",
+    "generado": "2026.NOV.04 16:40",
+    "iso": "2026-11-04T16:40:33",
+    "total": 1016,
+    "segundos_total": 195.5,
+    "datasets": [
+      {
+        "clave": "venta_apartamento_centro-historico",
+        "total": 0,
+        "segundos": 6.7
+      },
+      {
+        "clave": "arriendo_apartamento_centro-historico",
+        "total": 3,
+        "segundos": 8.8
+      },
+      {
+        "clave": "venta_apartamento_teusaquillo",
+        "total": 53,
+        "segundos": 9.0
+      },
+      {
+        "clave": "arriendo_apartamento_teusaquillo",
+        "total": 54,
+        "segundos": 9.2
+      },
+      {
+        "clave": "venta_apartamento_puente-aranda",
+        "total": 54,
+        "segundos": 9.1
+      },
+      {
+        "clave": "arriendo_apartamento_puente-aranda",
+        "total": 54,
+        "segundos": 8.9
+      },
+      {
+        "clave": "venta_apartamento_barrios-unidos",
+        "total": 51,
+        "segundos": 8.9
+      },
+      {
+        "clave": "arriendo_apartamento_barrios-unidos",
+        "total": 51,
+        "segundos": 9.5
+      },
+      {
+        "clave": "venta_apartamento_chapinero",
+        "total": 57,
+        "segundos": 9.0
+      },
+      {
+        "clave": "arriendo_apartamento_chapinero",
+        "total": 65,
+        "segundos": 8.9
+      },
+      {
+        "clave": "venta_apartamento_britalia",
+        "total": 50,
+        "segundos": 8.8
+      },
+      {
+        "clave": "arriendo_apartamento_britalia",
+        "total": 6,
+        "segundos": 8.9
+      },
+      {
+        "clave": "venta_apartamento_toberin",
+        "total": 48,
+        "segundos": 8.9
+      },
+      {
+        "clave": "arriendo_apartamento_toberin",
+        "total": 23,
+        "segundos": 8.7
+      },
+      {
+        "clave": "venta_apartamento_usaquen",
+        "total": 64,
+        "segundos": 9.3
+      },
+      {
+        "clave": "arriendo_apartamento_usaquen",
+        "total": 62,
+        "segundos": 8.9
+      },
+      {
+        "clave": "venta_apartamento_niza",
+        "total": 57,
+        "segundos": 9.0
+      },
+      {
+        "clave": "arriendo_apartamento_niza",
+        "total": 54,
+        "segundos": 9.0
+      },
+      {
+        "clave": "venta_apartamento_fontibon",
+        "total": 57,
+        "segundos": 8.9
+      },
+      {
+        "clave": "arriendo_apartamento_fontibon",
+        "total": 52,
+        "segundos": 8.9
+      },
+      {
+        "clave": "venta_apartamento_engativa",
+        "total": 52,
+        "segundos": 9.3
+      },
+      {
+        "clave": "arriendo_apartamento_engativa",
+        "total": 49,
+        "segundos": 8.9
+      }
+    ],
+    "variaciones": {
+      "venta_apartamento_centro-historico": 0,
+      "arriendo_apartamento_centro-historico": 0,
+      "venta_apartamento_teusaquillo": 1,
+      "arriendo_apartamento_teusaquillo": 2,
+      "venta_apartamento_puente-aranda": 1,
+      "arriendo_apartamento_puente-aranda": 2,
+      "venta_apartamento_barrios-unidos": 0,
+      "arriendo_apartamento_barrios-unidos": 1,
+      "venta_apartamento_chapinero": -2,
+      "arriendo_apartamento_chapinero": 1,
+      "venta_apartamento_britalia": 0,
+      "arriendo_apartamento_britalia": -2,
+      "venta_apartamento_toberin": 0,
+      "arriendo_apartamento_toberin": 1,
+      "venta_apartamento_usaquen": -1,
+      "arriendo_apartamento_usaquen": 4,
+      "venta_apartamento_niza": 0,
+      "arriendo_apartamento_niza": -1,
+      "venta_apartamento_fontibon": 2,
+      "arriendo_apartamento_fontibon": 0,
+      "venta_apartamento_engativa": 0,
+      "arriendo_apartamento_engativa": 0
+    }
   }
 ]
