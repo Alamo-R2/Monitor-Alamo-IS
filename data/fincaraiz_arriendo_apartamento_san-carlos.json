@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.02 12:55",
+  "generado": "2026.NOV.05 22:58",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3450000,
+      "area": 58.0,
+      "precioM2": 59483,
+      "administracion": 667000.0,
+      "barrio": "SANTA BARBARA OCCIDENTAL",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-occidental-bogota/193604655",
+      "titulo": "Apartamento en Arriendo en Santa barbara occidental, Bogotá",
+      "id_domus": "193604655",
+      "fechaPublicacion": "2026-04-08",
+      "lat": 4.570482195975,
+      "lon": -74.129560462342,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN CARLOS",
+      "zonaSlug": "san-carlos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-02-05",
       "lat": 4.628685,
       "lon": -74.165484,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN CARLOS",
-      "zonaSlug": "san-carlos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3450000,
-      "area": 58.0,
-      "precioM2": 59483,
-      "administracion": 667000.0,
-      "barrio": "SANTA BARBARA OCCIDENTAL",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-occidental-bogota/193604655",
-      "titulo": "Apartamento en Arriendo en Santa barbara occidental, Bogotá",
-      "id_domus": "193604655",
-      "fechaPublicacion": "2026-04-08",
-      "lat": 4.570482195975,
-      "lon": -74.129560462342,
       "location_type": "exacta",
       "zonaConsulta": "SAN CARLOS",
       "zonaSlug": "san-carlos",

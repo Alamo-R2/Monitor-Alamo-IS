@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "MARCO FIDEL SUAREZ I",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.02 12:55",
+  "generado": "2026.NOV.05 22:58",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1000000,
+      "area": 51.0,
+      "precioM2": 19608,
+      "administracion": null,
+      "barrio": "MARCO FIDEL SUAREZ",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-marco-fidel-suarez-bogota/194501962",
+      "titulo": "Apartamento en Arriendo en Marco fidel suarez, Bogotá",
+      "id_domus": "194501962",
+      "fechaPublicacion": "2026-11-04",
+      "lat": 4.566164507794,
+      "lon": -74.115316445993,
+      "location_type": "exacta",
+      "zonaConsulta": "MARCO FIDEL SUAREZ I",
+      "zonaSlug": "marco-fidel-suarez-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],

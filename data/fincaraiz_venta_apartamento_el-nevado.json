@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.29 19:19",
+  "generado": "2026.NOV.05 22:58",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 220000000,
+      "area": 52.0,
+      "precioM2": 4230769,
+      "administracion": null,
+      "barrio": "EL NEVADO",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-usme-bogota/193076804",
+      "titulo": "Apartamento en Venta en Usme, Bogotá",
+      "id_domus": "193076804",
+      "fechaPublicacion": "2025-11-08",
+      "lat": 4.5287401741627,
+      "lon": -74.11584019661,
+      "location_type": "exacta",
+      "zonaConsulta": "EL NEVADO",
+      "zonaSlug": "el-nevado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-09-23",
       "lat": 4.528922370881,
       "lon": -74.115602771805,
-      "location_type": "exacta",
-      "zonaConsulta": "EL NEVADO",
-      "zonaSlug": "el-nevado",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 220000000,
-      "area": 52.0,
-      "precioM2": 4230769,
-      "administracion": null,
-      "barrio": "EL NEVADO",
-      "upl": "Rafael Uribe",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-usme-bogota/193076804",
-      "titulo": "Apartamento en Venta en Usme, Bogotá",
-      "id_domus": "193076804",
-      "fechaPublicacion": "2025-11-08",
-      "lat": 4.5287401741627,
-      "lon": -74.11584019661,
       "location_type": "exacta",
       "zonaConsulta": "EL NEVADO",
       "zonaSlug": "el-nevado",
