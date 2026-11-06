@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "SANTA MONICA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.30 11:04",
+  "generado": "2026.NOV.06 16:59",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 952000000,
+      "area": 133.0,
+      "precioM2": 7157895,
+      "administracion": 1250000,
+      "barrio": "SANTA MONICA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-monica-bogota/193442150",
+      "titulo": "Apartamento en Venta en Santa monica, Bogotá",
+      "id_domus": "193442150",
+      "fechaPublicacion": "2026-02-26",
+      "lat": 4.7023363,
+      "lon": -74.0520439,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA MONICA",
+      "zonaSlug": "santa-monica",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 450000000,
       "area": 85.0,
       "precioM2": 5294118,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 310000000,
+      "area": 60.0,
+      "precioM2": 5166667,
+      "administracion": 286600,
+      "barrio": "SANTA MONICA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-toberin-bogota/194499347",
+      "titulo": "Apartamento en Venta en Toberin, Bogotá",
+      "id_domus": "194499347",
+      "fechaPublicacion": "2026-11-03",
+      "lat": 4.7478862,
+      "lon": -74.0384593,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA MONICA",
+      "zonaSlug": "santa-monica",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -130,38 +194,6 @@
       "fechaPublicacion": "2026-05-05",
       "lat": 4.746029840198,
       "lon": -74.037763305957,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA MONICA",
-      "zonaSlug": "santa-monica",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 952000000,
-      "area": 133.0,
-      "precioM2": 7157895,
-      "administracion": 1250000,
-      "barrio": "SANTA MONICA",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-monica-bogota/193442150",
-      "titulo": "Apartamento en Venta en Santa monica, Bogotá",
-      "id_domus": "193442150",
-      "fechaPublicacion": "2026-02-26",
-      "lat": 4.7023363,
-      "lon": -74.0520439,
       "location_type": "exacta",
       "zonaConsulta": "SANTA MONICA",
       "zonaSlug": "santa-monica",

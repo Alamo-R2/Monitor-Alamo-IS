@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.30 11:04",
+  "generado": "2026.NOV.06 16:59",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 260000000,
+      "area": 75.0,
+      "precioM2": 3466667,
+      "administracion": 245700.0,
+      "barrio": "CIUDADELA COLSUBSIDIO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/191955913",
+      "titulo": "Apartamento en  Venta en Engativá, Bogotá",
+      "id_domus": "191955913",
+      "fechaPublicacion": "2025-02-01",
+      "lat": 4.7188465,
+      "lon": -74.1196262,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDADELA COLSUBSIDIO",
+      "zonaSlug": "ciudadela-colsubsidio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 368000000,
       "area": 70.0,
       "precioM2": 5257143,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,103 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 338000000,
-      "area": 58.0,
-      "precioM2": 5827586,
-      "administracion": 170000.0,
-      "barrio": "EL CORTIJO",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-cortijo-bogota/194347843",
-      "titulo": "Apartamento en Venta en El cortijo, Bogotá",
-      "id_domus": "194347843",
-      "fechaPublicacion": "2026-10-02",
-      "lat": 4.720956885592,
-      "lon": -74.119040357936,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDADELA COLSUBSIDIO",
-      "zonaSlug": "ciudadela-colsubsidio",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 290000000,
-      "area": 53.0,
-      "precioM2": 5471698,
-      "administracion": 240000.0,
-      "barrio": "CIUDADELA COLSUBSIDIO",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudadela-colsubsidio-bogota/192950916",
-      "titulo": "Apartamento en Venta en Ciudadela colsubsidio, Bogotá",
-      "id_domus": "192950916",
-      "fechaPublicacion": "2025-10-05",
-      "lat": 4.7245939602238,
-      "lon": -74.116188474602,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDADELA COLSUBSIDIO",
-      "zonaSlug": "ciudadela-colsubsidio",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 260000000,
-      "area": 75.0,
-      "precioM2": 3466667,
-      "administracion": 245700.0,
-      "barrio": "CIUDADELA COLSUBSIDIO",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/191955913",
-      "titulo": "Apartamento en  Venta en Engativá, Bogotá",
-      "id_domus": "191955913",
-      "fechaPublicacion": "2025-02-01",
-      "lat": 4.7188465,
-      "lon": -74.1196262,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDADELA COLSUBSIDIO",
-      "zonaSlug": "ciudadela-colsubsidio",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -264,15 +200,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 310000000,
+      "precio": 300000000,
       "area": 48.0,
-      "precioM2": 6458333,
+      "precioM2": 6250000,
       "administracion": 212000.0,
       "barrio": "CIUDADELA COLSUBSIDIO",
       "upl": "Engativá",
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -328,103 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 260000000,
-      "area": 53.0,
-      "precioM2": 4905660,
-      "administracion": 231100.0,
-      "barrio": "CIUDADELA COLSUBSIDIO",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194169125",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194169125",
-      "fechaPublicacion": "2026-08-26",
-      "lat": 4.7337352,
-      "lon": -74.1172191,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDADELA COLSUBSIDIO",
-      "zonaSlug": "ciudadela-colsubsidio",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 355000000,
-      "area": 57.0,
-      "precioM2": 6228070,
-      "administracion": 287000.0,
-      "barrio": "CIUDADELA COLSUBSIDIO",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194375830",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194375830",
-      "fechaPublicacion": "2026-10-08",
-      "lat": 4.7194615,
-      "lon": -74.118343,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDADELA COLSUBSIDIO",
-      "zonaSlug": "ciudadela-colsubsidio",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 721000000,
-      "area": 129.0,
-      "precioM2": 5589147,
-      "administracion": null,
-      "barrio": "LA CALLEJA",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-calleja-bogota/194435940",
-      "titulo": "Apartamento en Venta en La Calleja, Bogotá",
-      "id_domus": "194435940",
-      "fechaPublicacion": "2026-10-21",
-      "lat": 4.7230275,
-      "lon": -74.1119255,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDADELA COLSUBSIDIO",
-      "zonaSlug": "ciudadela-colsubsidio",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 273000000,
+      "area": 49.0,
+      "precioM2": 5571429,
+      "administracion": 180000.0,
+      "barrio": "CIUDADELA COLSUBSIDIO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudadela-colsubsidio-bogota/194513857",
+      "titulo": "Apartamento en Venta en Ciudadela colsubsidio, Bogotá",
+      "id_domus": "194513857",
+      "fechaPublicacion": "2026-11-06",
+      "lat": 4.7316372,
+      "lon": -74.118497,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDADELA COLSUBSIDIO",
+      "zonaSlug": "ciudadela-colsubsidio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +488,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 338000000,
+      "area": 58.0,
+      "precioM2": 5827586,
+      "administracion": 170000.0,
+      "barrio": "EL CORTIJO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-cortijo-bogota/194347843",
+      "titulo": "Apartamento en Venta en El cortijo, Bogotá",
+      "id_domus": "194347843",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.720956885592,
+      "lon": -74.119040357936,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDADELA COLSUBSIDIO",
+      "zonaSlug": "ciudadela-colsubsidio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +552,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 290000000,
+      "area": 53.0,
+      "precioM2": 5471698,
+      "administracion": 240000.0,
+      "barrio": "CIUDADELA COLSUBSIDIO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudadela-colsubsidio-bogota/192950916",
+      "titulo": "Apartamento en Venta en Ciudadela colsubsidio, Bogotá",
+      "id_domus": "192950916",
+      "fechaPublicacion": "2025-10-05",
+      "lat": 4.7245939602238,
+      "lon": -74.116188474602,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDADELA COLSUBSIDIO",
+      "zonaSlug": "ciudadela-colsubsidio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 340000000,
+      "area": 71.0,
+      "precioM2": 4788732,
+      "administracion": 367000.0,
+      "barrio": "BOLIVIA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bolivia-bogota/194509709",
+      "titulo": "Apartamento en Venta en Bolivia, Bogotá",
+      "id_domus": "194509709",
+      "fechaPublicacion": "2026-11-05",
+      "lat": 4.718542,
+      "lon": -74.1162528,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDADELA COLSUBSIDIO",
+      "zonaSlug": "ciudadela-colsubsidio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-09-05",
       "lat": 4.7209791,
       "lon": -74.1196976,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDADELA COLSUBSIDIO",
+      "zonaSlug": "ciudadela-colsubsidio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 330000000,
+      "area": 57.0,
+      "precioM2": 5789474,
+      "administracion": 307000.0,
+      "barrio": "CIUDADELA COLSUBSIDIO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ub-ciudadela-colsubsidio-bogota/194490884",
+      "titulo": "Apartamento en Venta en Ub. ciudadela colsubsidio, Bogotá",
+      "id_domus": "194490884",
+      "fechaPublicacion": "2026-11-01",
+      "lat": 4.7207313765002,
+      "lon": -74.119402076326,
       "location_type": "exacta",
       "zonaConsulta": "CIUDADELA COLSUBSIDIO",
       "zonaSlug": "ciudadela-colsubsidio",

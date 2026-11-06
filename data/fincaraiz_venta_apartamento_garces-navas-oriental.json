@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.30 11:04",
+  "generado": "2026.NOV.06 16:59",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 300000000,
+      "area": 68.0,
+      "precioM2": 4411765,
+      "administracion": 272000.0,
+      "barrio": "GARCES NAVAS ORIENTAL",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194437337",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194437337",
+      "fechaPublicacion": "2026-10-21",
+      "lat": 4.7143975,
+      "lon": -74.1147774,
+      "location_type": "exacta",
+      "zonaConsulta": "GARCES NAVAS ORIENTAL",
+      "zonaSlug": "garces-navas-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,103 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 250000000,
-      "area": 58.0,
-      "precioM2": 4310345,
-      "administracion": 160000.0,
-      "barrio": "BOCHICA",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bochica-bogota/193324834",
-      "titulo": "Apartamento en Venta en Bochica, Bogotá",
-      "id_domus": "193324834",
-      "fechaPublicacion": "2026-01-26",
-      "lat": 4.7126572,
-      "lon": -74.1149555,
-      "location_type": "exacta",
-      "zonaConsulta": "GARCES NAVAS ORIENTAL",
-      "zonaSlug": "garces-navas-oriental",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 300000000,
-      "area": 68.0,
-      "precioM2": 4411765,
-      "administracion": null,
-      "barrio": "GARCES NAVAS ORIENTAL",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/193293898",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "193293898",
-      "fechaPublicacion": "2026-01-20",
-      "lat": 4.7145816,
-      "lon": -74.1152769,
-      "location_type": "exacta",
-      "zonaConsulta": "GARCES NAVAS ORIENTAL",
-      "zonaSlug": "garces-navas-oriental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 299000000,
-      "area": 67.0,
-      "precioM2": 4462687,
-      "administracion": 320000.0,
-      "barrio": "GARCES NAVAS ORIENTAL",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194386515",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194386515",
-      "fechaPublicacion": "2026-10-10",
-      "lat": 4.7144045,
-      "lon": -74.1151191,
-      "location_type": "exacta",
-      "zonaConsulta": "GARCES NAVAS ORIENTAL",
-      "zonaSlug": "garces-navas-oriental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +264,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 58.0,
+      "precioM2": 4310345,
+      "administracion": 160000.0,
+      "barrio": "BOCHICA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bochica-bogota/193324834",
+      "titulo": "Apartamento en Venta en Bochica, Bogotá",
+      "id_domus": "193324834",
+      "fechaPublicacion": "2026-01-26",
+      "lat": 4.7126572,
+      "lon": -74.1149555,
+      "location_type": "exacta",
+      "zonaConsulta": "GARCES NAVAS ORIENTAL",
+      "zonaSlug": "garces-navas-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -337,7 +305,39 @@
       "precio": 300000000,
       "area": 68.0,
       "precioM2": 4411765,
-      "administracion": 272000.0,
+      "administracion": null,
+      "barrio": "GARCES NAVAS ORIENTAL",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/193293898",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "193293898",
+      "fechaPublicacion": "2026-01-20",
+      "lat": 4.7145816,
+      "lon": -74.1152769,
+      "location_type": "exacta",
+      "zonaConsulta": "GARCES NAVAS ORIENTAL",
+      "zonaSlug": "garces-navas-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 299000000,
+      "area": 67.0,
+      "precioM2": 4462687,
+      "administracion": 320000.0,
       "barrio": "GARCES NAVAS ORIENTAL",
       "upl": "Engativá",
       "ciudad": "Bogotá",
@@ -348,12 +348,12 @@
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194437337",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194386515",
       "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194437337",
-      "fechaPublicacion": "2026-10-21",
-      "lat": 4.7143975,
-      "lon": -74.1147774,
+      "id_domus": "194386515",
+      "fechaPublicacion": "2026-10-10",
+      "lat": 4.7144045,
+      "lon": -74.1151191,
       "location_type": "exacta",
       "zonaConsulta": "GARCES NAVAS ORIENTAL",
       "zonaSlug": "garces-navas-oriental",

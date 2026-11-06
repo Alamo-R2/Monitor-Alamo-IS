@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "EL MADRIGAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.02 22:30",
+  "generado": "2026.NOV.06 16:59",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 76.0,
+      "precioM2": 23684,
+      "administracion": null,
+      "barrio": "EL MADRIGAL",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villas-del-madrigal-bogota/194496441",
+      "titulo": "Apartamento en Arriendo en Villas del madrigal, Bogotá",
+      "id_domus": "194496441",
+      "fechaPublicacion": "2026-11-03",
+      "lat": 4.7079708,
+      "lon": -74.1090286,
+      "location_type": "exacta",
+      "zonaConsulta": "EL MADRIGAL",
+      "zonaSlug": "el-madrigal",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 950000,
       "area": 17.0,
       "precioM2": 55882,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],

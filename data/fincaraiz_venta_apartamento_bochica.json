@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.02 22:30",
+  "generado": "2026.NOV.06 16:59",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 300000000,
+      "area": 68.0,
+      "precioM2": 4411765,
+      "administracion": 272000.0,
+      "barrio": "BOCHICA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194437337",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194437337",
+      "fechaPublicacion": "2026-10-21",
+      "lat": 4.7143975,
+      "lon": -74.1147774,
+      "location_type": "exacta",
+      "zonaConsulta": "BOCHICA",
+      "zonaSlug": "bochica",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -34,38 +66,6 @@
       "fechaPublicacion": "2026-10-27",
       "lat": 4.715114992445,
       "lon": -74.111721950635,
-      "location_type": "exacta",
-      "zonaConsulta": "BOCHICA",
-      "zonaSlug": "bochica",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 258000000,
-      "area": 53.0,
-      "precioM2": 4867925,
-      "administracion": 159813.0,
-      "barrio": "BOCHICA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194318343",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194318343",
-      "fechaPublicacion": "2026-09-25",
-      "lat": 4.7172139,
-      "lon": -74.1065126,
       "location_type": "exacta",
       "zonaConsulta": "BOCHICA",
       "zonaSlug": "bochica",
@@ -334,6 +334,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 230000000,
+      "area": 52.0,
+      "precioM2": 4423077,
+      "administracion": 230000000.0,
+      "barrio": "BOCHICA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194485631",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194485631",
+      "fechaPublicacion": "2026-10-30",
+      "lat": 4.7115309,
+      "lon": -74.1067571,
+      "location_type": "exacta",
+      "zonaConsulta": "BOCHICA",
+      "zonaSlug": "bochica",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 195000000,
       "area": 36.0,
       "precioM2": 5416667,
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,15 +520,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 335000000,
+      "precio": 340000000,
       "area": 65.0,
-      "precioM2": 5153846,
+      "precioM2": 5230769,
       "administracion": 283000.0,
       "barrio": "BOCHICA",
       "upl": "Puente Aranda",
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-09-30",
       "lat": 4.716587315647,
       "lon": -74.10745891468,
-      "location_type": "exacta",
-      "zonaConsulta": "BOCHICA",
-      "zonaSlug": "bochica",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 180000000,
-      "area": 32.0,
-      "precioM2": 5625000,
-      "administracion": 77000.0,
-      "barrio": "BOCHICA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194485426",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194485426",
-      "fechaPublicacion": "2026-10-30",
-      "lat": 4.7152828,
-      "lon": -74.111171,
       "location_type": "exacta",
       "zonaConsulta": "BOCHICA",
       "zonaSlug": "bochica",
