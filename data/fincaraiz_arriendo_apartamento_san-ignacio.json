@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 6,
   "zona": "SAN IGNACIO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.02 22:30",
+  "generado": "2026.NOV.06 22:28",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2200000,
+      "area": 29.0,
+      "precioM2": 75862,
+      "administracion": null,
+      "barrio": "SAN IGNACIO",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194245324",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194245324",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.6773267,
+      "lon": -74.1136839,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN IGNACIO",
+      "zonaSlug": "san-ignacio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 3200000,
       "area": 92.0,
       "precioM2": 34783,
@@ -104,71 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4500000,
-      "area": 86.0,
-      "precioM2": 52326,
-      "administracion": null,
-      "barrio": "SAN IGNACIO",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194083122",
-      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
-      "id_domus": "194083122",
-      "fechaPublicacion": "2026-08-06",
-      "lat": 4.673172,
-      "lon": -74.1147224,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN IGNACIO",
-      "zonaSlug": "san-ignacio",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3200000,
-      "area": 72.0,
-      "precioM2": 44444,
-      "administracion": null,
-      "barrio": "SAN IGNACIO",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-ignacio-bogota/194430326",
-      "titulo": "Apartamento en Arriendo en San ignacio, Bogotá",
-      "id_domus": "194430326",
-      "fechaPublicacion": "2026-10-20",
-      "lat": 4.673172671491,
-      "lon": -74.114724397659,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN IGNACIO",
-      "zonaSlug": "san-ignacio",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
