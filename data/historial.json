@@ -1,88 +1,5 @@
 [
   {
-    "grupo": "cada5",
-    "generado": "2026.SEP.05 13:15",
-    "iso": "2026-09-05T13:15:01",
-    "total": 438,
-    "segundos_total": 79.4,
-    "datasets": [
-      {
-        "clave": "venta_apartamento_restrepo",
-        "total": 50,
-        "segundos": 7.2
-      },
-      {
-        "clave": "arriendo_apartamento_restrepo",
-        "total": 19,
-        "segundos": 7.0
-      },
-      {
-        "clave": "venta_apartamento_salitre",
-        "total": 52,
-        "segundos": 7.1
-      },
-      {
-        "clave": "arriendo_apartamento_salitre",
-        "total": 56,
-        "segundos": 7.0
-      },
-      {
-        "clave": "venta_apartamento_torca",
-        "total": 50,
-        "segundos": 7.0
-      },
-      {
-        "clave": "arriendo_apartamento_torca",
-        "total": 51,
-        "segundos": 7.0
-      },
-      {
-        "clave": "venta_apartamento_suba",
-        "total": 55,
-        "segundos": 6.9
-      },
-      {
-        "clave": "arriendo_apartamento_suba",
-        "total": 50,
-        "segundos": 7.0
-      },
-      {
-        "clave": "venta_apartamento_rincon-de-suba",
-        "total": 6,
-        "segundos": 6.9
-      },
-      {
-        "clave": "arriendo_apartamento_rincon-de-suba",
-        "total": 0,
-        "segundos": 4.5
-      },
-      {
-        "clave": "venta_apartamento_tibabuyes",
-        "total": 49,
-        "segundos": 7.1
-      },
-      {
-        "clave": "arriendo_apartamento_tibabuyes",
-        "total": 0,
-        "segundos": 4.7
-      }
-    ],
-    "variaciones": {
-      "venta_apartamento_restrepo": 0,
-      "arriendo_apartamento_restrepo": -1,
-      "venta_apartamento_salitre": -1,
-      "arriendo_apartamento_salitre": 2,
-      "venta_apartamento_torca": -1,
-      "arriendo_apartamento_torca": 1,
-      "venta_apartamento_suba": 0,
-      "arriendo_apartamento_suba": -2,
-      "venta_apartamento_rincon-de-suba": 0,
-      "arriendo_apartamento_rincon-de-suba": 0,
-      "venta_apartamento_tibabuyes": -1,
-      "arriendo_apartamento_tibabuyes": -5
-    }
-  },
-  {
     "grupo": "barrios",
     "generado": "2026.SEP.06 11:36",
     "iso": "2026-09-06T11:36:08",
@@ -315884,6 +315801,416 @@
         "clave": "ciencuadras_arriendo_apartamento_la-orquidea-de-usme",
         "total": 0,
         "segundos": 4.0
+      }
+    ],
+    "variaciones": {}
+  },
+  {
+    "grupo": "barrios",
+    "generado": "2026.NOV.07 13:50",
+    "iso": "2026-11-07T13:50:47",
+    "total": 819,
+    "segundos_total": 426.6,
+    "datasets": [
+      {
+        "clave": "venta_oficina_santa-lucia",
+        "total": 0,
+        "segundos": 5.9
+      },
+      {
+        "clave": "arriendo_oficina_santa-lucia",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_bodega_santa-lucia",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_bodega_santa-lucia",
+        "total": 6,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_edificio_santa-lucia",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_edificio_santa-lucia",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_santa-lucia",
+        "total": 4,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_local_santa-lucia",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_lote_santa-lucia",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "arriendo_lote_santa-lucia",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_oficina_tunal-oriental",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_oficina_tunal-oriental",
+        "total": 0,
+        "segundos": 5.2
+      },
+      {
+        "clave": "venta_bodega_tunal-oriental",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_bodega_tunal-oriental",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_edificio_tunal-oriental",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_edificio_tunal-oriental",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_tunal-oriental",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_local_tunal-oriental",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "venta_lote_tunal-oriental",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "arriendo_lote_tunal-oriental",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_oficina_veinte-de-julio",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_oficina_veinte-de-julio",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_bodega_veinte-de-julio",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "arriendo_bodega_veinte-de-julio",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_edificio_veinte-de-julio",
+        "total": 49,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_edificio_veinte-de-julio",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_veinte-de-julio",
+        "total": 3,
+        "segundos": 6.8
+      },
+      {
+        "clave": "arriendo_local_veinte-de-julio",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_lote_veinte-de-julio",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_lote_veinte-de-julio",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_oficina_ciudad-jardin-sur",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "arriendo_oficina_ciudad-jardin-sur",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_bodega_ciudad-jardin-sur",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "arriendo_bodega_ciudad-jardin-sur",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_edificio_ciudad-jardin-sur",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_edificio_ciudad-jardin-sur",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_ciudad-jardin-sur",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "arriendo_local_ciudad-jardin-sur",
+        "total": 4,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_lote_ciudad-jardin-sur",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "arriendo_lote_ciudad-jardin-sur",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_oficina_la-hortua",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "arriendo_oficina_la-hortua",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_bodega_la-hortua",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_bodega_la-hortua",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_edificio_la-hortua",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_edificio_la-hortua",
+        "total": 49,
+        "segundos": 6.9
+      },
+      {
+        "clave": "venta_local_la-hortua",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "arriendo_local_la-hortua",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_lote_la-hortua",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "arriendo_lote_la-hortua",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_oficina_narino-sur",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "arriendo_oficina_narino-sur",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_bodega_narino-sur",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "arriendo_bodega_narino-sur",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "venta_edificio_narino-sur",
+        "total": 49,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_edificio_narino-sur",
+        "total": 49,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_narino-sur",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "arriendo_local_narino-sur",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_lote_narino-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_lote_narino-sur",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "venta_oficina_san-bernardo",
+        "total": 3,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_oficina_san-bernardo",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_bodega_san-bernardo",
+        "total": 3,
+        "segundos": 6.9
+      },
+      {
+        "clave": "arriendo_bodega_san-bernardo",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "venta_edificio_san-bernardo",
+        "total": 47,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_edificio_san-bernardo",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_san-bernardo",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_local_san-bernardo",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_lote_san-bernardo",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_lote_san-bernardo",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_oficina_sociego",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_oficina_sociego",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "venta_bodega_sociego",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_bodega_sociego",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_edificio_sociego",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_edificio_sociego",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_sociego",
+        "total": 3,
+        "segundos": 6.9
+      },
+      {
+        "clave": "arriendo_local_sociego",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "venta_lote_sociego",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_lote_sociego",
+        "total": 0,
+        "segundos": 4.7
       }
     ],
     "variaciones": {}

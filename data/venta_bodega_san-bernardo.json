@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "bodega",
-  "generado": "2026.NOV.03 14:56",
+  "generado": "2026.NOV.07 13:50",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "bodega",
+      "tipoPortal": "Bodega",
+      "precio": 950000000,
+      "area": 631.0,
+      "precioM2": 1505547,
+      "administracion": null,
+      "barrio": "SAN BERNARDO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": 3.0,
+      "parqueaderos": 0.0,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-san-bernardo-3-banos/20859-M6024327",
+      "titulo": "Bodega en Venta, San Bernardo, Bogotá D.C.",
+      "id_domus": "20859-M6024327",
+      "fechaPublicacion": null,
+      "lat": 4.59134,
+      "lon": -74.0839,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN BERNARDO",
+      "zonaSlug": "san-bernardo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": null,
       "lat": 4.587868099,
       "lon": -74.08928633,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN BERNARDO",
-      "zonaSlug": "san-bernardo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "bodega",
-      "tipoPortal": "Bodega",
-      "precio": 950000000,
-      "area": 631.0,
-      "precioM2": 1505547,
-      "administracion": null,
-      "barrio": "SAN BERNARDO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": 3.0,
-      "parqueaderos": 0.0,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-bodega-bogota-san-bernardo-3-banos/20859-M6024327",
-      "titulo": "Bodega en Venta, San Bernardo, Bogotá D.C.",
-      "id_domus": "20859-M6024327",
-      "fechaPublicacion": null,
-      "lat": 4.59134,
-      "lon": -74.0839,
       "location_type": "exacta",
       "zonaConsulta": "SAN BERNARDO",
       "zonaSlug": "san-bernardo",
