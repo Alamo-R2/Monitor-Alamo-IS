@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 6,
   "zona": "ALTAMIRA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.03 20:47",
+  "generado": "2026.NOV.07 12:30",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,11 +14,11 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 42.0,
-      "precioM2": 28571,
+      "precio": 980000,
+      "area": 52.0,
+      "precioM2": 18846,
       "administracion": null,
-      "barrio": "ALTAMIRA",
+      "barrio": "LA VICTORIA",
       "upl": "San Cristóbal",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -28,9 +28,9 @@
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-la-gloria-bogota-3884766",
-      "titulo": "Apartamento en La Gloria",
-      "id_domus": "3884766",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-la-victoria-bogota-3928886",
+      "titulo": "Apartamento en La Victoria",
+      "id_domus": "3928886",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -41,38 +41,6 @@
     },
     {
       "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 650000,
-      "area": 50.0,
-      "precioM2": 13000,
-      "administracion": null,
-      "barrio": "LOS LIBERTADORES",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-los-libertadores-bogota-3864025",
-      "titulo": "Apartamento en Los Libertadores",
-      "id_domus": "3864025",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "ALTAMIRA",
-      "zonaSlug": "altamira",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -168,29 +136,29 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 52.0,
-      "precioM2": 23077,
+      "precio": 650000,
+      "area": 50.0,
+      "precioM2": 13000,
       "administracion": null,
-      "barrio": "LA VICTORIA",
+      "barrio": "LOS LIBERTADORES",
       "upl": "San Cristóbal",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
+      "habitaciones": 2,
+      "banos": 1,
       "parqueaderos": 0,
       "estrato": null,
       "antiguedad": null,
       "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-la-victoria-bogota-3928886",
-      "titulo": "Apartamento en La Victoria",
-      "id_domus": "3928886",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-los-libertadores-bogota-3864025",
+      "titulo": "Apartamento en Los Libertadores",
+      "id_domus": "3864025",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
