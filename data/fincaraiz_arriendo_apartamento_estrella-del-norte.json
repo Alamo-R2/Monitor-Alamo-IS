@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "ESTRELLA DEL NORTE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.31 21:04",
+  "generado": "2026.NOV.07 06:40",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2288000,
+      "area": 61.0,
+      "precioM2": 37508,
+      "administracion": 312000.0,
+      "barrio": "ESTRELLA DEL NORTE",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-estrella-del-norte-bogota/194512762",
+      "titulo": "Apartamento en Arriendo en Estrella del norte, Bogotá",
+      "id_domus": "194512762",
+      "fechaPublicacion": "2026-11-06",
+      "lat": 4.7401479,
+      "lon": -74.0458555,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTRELLA DEL NORTE",
+      "zonaSlug": "estrella-del-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2231000,
       "area": 79.0,
       "precioM2": 28241,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
