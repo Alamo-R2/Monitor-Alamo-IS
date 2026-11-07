@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.07 06:40",
+  "generado": "2026.NOV.07 15:57",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 235000000,
+      "area": 42.0,
+      "precioM2": 5595238,
+      "administracion": null,
+      "barrio": "USAQUEN",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-usaquen-bogota/194280480",
+      "titulo": "Apartamento en Venta en Usaquen, Bogotá",
+      "id_domus": "194280480",
+      "fechaPublicacion": "2026-09-18",
+      "lat": 4.7757226,
+      "lon": -74.0447945,
+      "location_type": "exacta",
+      "zonaConsulta": "CASABLANCA SUBA URBANO",
+      "zonaSlug": "casablanca-suba-urbano",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -34,38 +66,6 @@
       "fechaPublicacion": "2026-10-21",
       "lat": 4.8107233,
       "lon": -74.0451375,
-      "location_type": "exacta",
-      "zonaConsulta": "CASABLANCA SUBA URBANO",
-      "zonaSlug": "casablanca-suba-urbano",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 492000000,
-      "area": 63.0,
-      "precioM2": 7809524,
-      "administracion": 600000.0,
-      "barrio": "CASABLANCA SUBA URBANO",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lagos-de-torca-bogota/194030124",
-      "titulo": "Apartamento en Venta en Lagos de Torca, Bogotá",
-      "id_domus": "194030124",
-      "fechaPublicacion": "2026-07-24",
-      "lat": 4.7784426,
-      "lon": -74.0459331,
       "location_type": "exacta",
       "zonaConsulta": "CASABLANCA SUBA URBANO",
       "zonaSlug": "casablanca-suba-urbano",
@@ -462,38 +462,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 235000000,
-      "area": 42.0,
-      "precioM2": 5595238,
-      "administracion": null,
-      "barrio": "USAQUEN",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-usaquen-bogota/194280480",
-      "titulo": "Apartamento en Venta en Usaquen, Bogotá",
-      "id_domus": "194280480",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.7757226,
-      "lon": -74.0447945,
-      "location_type": "exacta",
-      "zonaConsulta": "CASABLANCA SUBA URBANO",
-      "zonaSlug": "casablanca-suba-urbano",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 739000000,
       "area": 91.0,
       "precioM2": 8120879,
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2025-07-08",
       "lat": 4.7784426,
       "lon": -74.0459331,
+      "location_type": "exacta",
+      "zonaConsulta": "CASABLANCA SUBA URBANO",
+      "zonaSlug": "casablanca-suba-urbano",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 690000000,
+      "area": 77.0,
+      "precioM2": 8961039,
+      "administracion": null,
+      "barrio": "CASABLANCA SUBA URBANO",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 5.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lagos-de-torca-bogota/194429473",
+      "titulo": "Apartamento en Venta en Lagos de Torca, Bogotá",
+      "id_domus": "194429473",
+      "fechaPublicacion": "2026-10-20",
+      "lat": 4.7818091,
+      "lon": -74.0420047,
       "location_type": "exacta",
       "zonaConsulta": "CASABLANCA SUBA URBANO",
       "zonaSlug": "casablanca-suba-urbano",
