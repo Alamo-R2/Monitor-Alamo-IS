@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "MODELO SUR",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.02 01:05",
+  "generado": "2026.NOV.08 21:25",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -105,6 +105,38 @@
     },
     {
       "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 68.0,
+      "precioM2": 23529,
+      "administracion": null,
+      "barrio": "CALVO SUR",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-calvo-sur-bogota/194411744",
+      "titulo": "Apartamento en Arriendo en Calvo sur, Bogotá",
+      "id_domus": "194411744",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.5832988765,
+      "lon": -74.0864700079,
+      "location_type": "exacta",
+      "zonaConsulta": "MODELO SUR",
+      "zonaSlug": "modelo-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],

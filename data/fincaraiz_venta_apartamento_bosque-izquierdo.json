@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.04 23:02",
+  "generado": "2026.NOV.08 21:25",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 325000000,
-      "area": 32.0,
-      "precioM2": 10156250,
-      "administracion": 342000.0,
-      "barrio": "BOSQUE IZQUIERDO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosque-izquierdo-bogota/194289755",
-      "titulo": "Apartamento en Venta en Bosque izquierdo, Bogotá",
-      "id_domus": "194289755",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.608178797461,
-      "lon": -74.06902017727,
-      "location_type": "exacta",
-      "zonaConsulta": "BOSQUE IZQUIERDO",
-      "zonaSlug": "bosque-izquierdo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-09-03",
       "lat": 4.6116031,
       "lon": -74.066175,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSQUE IZQUIERDO",
+      "zonaSlug": "bosque-izquierdo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 345000000,
+      "area": 44.0,
+      "precioM2": 7840909,
+      "administracion": 489000.0,
+      "barrio": "LA MACARENA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-macarena-bogota/10146620",
+      "titulo": "Apartamento en Venta en La macarena, Bogotá",
+      "id_domus": "10146620",
+      "fechaPublicacion": "2023-07-05",
+      "lat": 4.6128477,
+      "lon": -74.0650889,
       "location_type": "exacta",
       "zonaConsulta": "BOSQUE IZQUIERDO",
       "zonaSlug": "bosque-izquierdo",
@@ -238,38 +238,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1443898063,
-      "area": 86.0,
-      "precioM2": 16789512,
-      "administracion": null,
-      "barrio": "BOSQUE IZQUIERDO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosque-izquierdo-bogota/193120683",
-      "titulo": "Apartamento en Venta en Bosque izquierdo, Bogotá",
-      "id_domus": "193120683",
-      "fechaPublicacion": "2025-11-20",
-      "lat": 4.611103,
-      "lon": -74.067221,
-      "location_type": "exacta",
-      "zonaConsulta": "BOSQUE IZQUIERDO",
-      "zonaSlug": "bosque-izquierdo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 720000000,
       "area": 60.0,
       "precioM2": 12000000,
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -322,6 +290,38 @@
       "fechaPublicacion": "2026-09-24",
       "lat": 4.610526,
       "lon": -74.065822,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSQUE IZQUIERDO",
+      "zonaSlug": "bosque-izquierdo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 325000000,
+      "area": 32.0,
+      "precioM2": 10156250,
+      "administracion": 342000.0,
+      "barrio": "BOSQUE IZQUIERDO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosque-izquierdo-bogota/194289755",
+      "titulo": "Apartamento en Venta en Bosque izquierdo, Bogotá",
+      "id_domus": "194289755",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.608178797461,
+      "lon": -74.06902017727,
       "location_type": "exacta",
       "zonaConsulta": "BOSQUE IZQUIERDO",
       "zonaSlug": "bosque-izquierdo",
@@ -494,38 +494,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 345000000,
-      "area": 44.0,
-      "precioM2": 7840909,
-      "administracion": 489000.0,
-      "barrio": "LA MACARENA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-macarena-bogota/10146620",
-      "titulo": "Apartamento en Venta en La macarena, Bogotá",
-      "id_domus": "10146620",
-      "fechaPublicacion": "2023-07-05",
-      "lat": 4.6128477,
-      "lon": -74.0650889,
-      "location_type": "exacta",
-      "zonaConsulta": "BOSQUE IZQUIERDO",
-      "zonaSlug": "bosque-izquierdo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 697846936,
       "area": 56.0,
       "precioM2": 12461552,
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2025-11-20",
       "lat": 4.611103,
       "lon": -74.067221,
+      "location_type": "exacta",
+      "zonaConsulta": "BOSQUE IZQUIERDO",
+      "zonaSlug": "bosque-izquierdo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1065000000,
+      "area": 131.0,
+      "precioM2": 8129771,
+      "administracion": 1326000.0,
+      "barrio": "BOSQUE IZQUIERDO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 1,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-internacional-bogota/194136793",
+      "titulo": "Apartamento en Venta en Centro Internacional, Bogotá",
+      "id_domus": "194136793",
+      "fechaPublicacion": "2026-08-19",
+      "lat": 4.6125599,
+      "lon": -74.067509,
       "location_type": "exacta",
       "zonaConsulta": "BOSQUE IZQUIERDO",
       "zonaSlug": "bosque-izquierdo",

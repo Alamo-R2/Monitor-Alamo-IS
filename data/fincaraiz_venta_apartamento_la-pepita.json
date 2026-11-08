@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 16:29",
+  "generado": "2026.NOV.08 21:25",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -47,8 +47,8 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 350000000,
-      "area": 70.81,
-      "precioM2": 4942805,
+      "area": 70.0,
+      "precioM2": 5000000,
       "administracion": 55000.0,
       "barrio": "RICAURTE",
       "upl": "Centro Histórico",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 683000000,
+      "area": 97.0,
+      "precioM2": 7041237,
+      "administracion": 932000.0,
+      "barrio": "ANTIGUO COUNTRY",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-antiguo-country-bogota/193191050",
+      "titulo": "Apartamento en Venta en Antiguo country, Bogotá",
+      "id_domus": "193191050",
+      "fechaPublicacion": "2025-12-11",
+      "lat": 4.6035044,
+      "lon": -74.0890959,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PEPITA",
+      "zonaSlug": "la-pepita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-02-18",
       "lat": 4.6016778540494,
       "lon": -74.092638265425,
-      "location_type": "exacta",
-      "zonaConsulta": "LA PEPITA",
-      "zonaSlug": "la-pepita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 683000000,
-      "area": 97.0,
-      "precioM2": 7041237,
-      "administracion": 932000.0,
-      "barrio": "ANTIGUO COUNTRY",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-antiguo-country-bogota/193191050",
-      "titulo": "Apartamento en Venta en Antiguo country, Bogotá",
-      "id_domus": "193191050",
-      "fechaPublicacion": "2025-12-11",
-      "lat": 4.6035044,
-      "lon": -74.0890959,
       "location_type": "exacta",
       "zonaConsulta": "LA PEPITA",
       "zonaSlug": "la-pepita",
