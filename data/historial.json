@@ -1,148 +1,5 @@
 [
   {
-    "grupo": "diario",
-    "generado": "2026.SEP.09 13:15",
-    "iso": "2026-09-09T13:15:09",
-    "total": 946,
-    "segundos_total": 154.6,
-    "datasets": [
-      {
-        "clave": "venta_apartamento_centro-historico",
-        "total": 9,
-        "segundos": 8.3
-      },
-      {
-        "clave": "arriendo_apartamento_centro-historico",
-        "total": 4,
-        "segundos": 6.9
-      },
-      {
-        "clave": "venta_apartamento_teusaquillo",
-        "total": 52,
-        "segundos": 7.1
-      },
-      {
-        "clave": "arriendo_apartamento_teusaquillo",
-        "total": 50,
-        "segundos": 6.9
-      },
-      {
-        "clave": "venta_apartamento_puente-aranda",
-        "total": 50,
-        "segundos": 6.9
-      },
-      {
-        "clave": "arriendo_apartamento_puente-aranda",
-        "total": 50,
-        "segundos": 6.9
-      },
-      {
-        "clave": "venta_apartamento_barrios-unidos",
-        "total": 38,
-        "segundos": 6.9
-      },
-      {
-        "clave": "arriendo_apartamento_barrios-unidos",
-        "total": 34,
-        "segundos": 7.0
-      },
-      {
-        "clave": "venta_apartamento_chapinero",
-        "total": 56,
-        "segundos": 7.0
-      },
-      {
-        "clave": "arriendo_apartamento_chapinero",
-        "total": 57,
-        "segundos": 7.0
-      },
-      {
-        "clave": "venta_apartamento_britalia",
-        "total": 50,
-        "segundos": 7.0
-      },
-      {
-        "clave": "arriendo_apartamento_britalia",
-        "total": 10,
-        "segundos": 6.8
-      },
-      {
-        "clave": "venta_apartamento_toberin",
-        "total": 50,
-        "segundos": 6.9
-      },
-      {
-        "clave": "arriendo_apartamento_toberin",
-        "total": 34,
-        "segundos": 6.9
-      },
-      {
-        "clave": "venta_apartamento_usaquen",
-        "total": 54,
-        "segundos": 7.1
-      },
-      {
-        "clave": "arriendo_apartamento_usaquen",
-        "total": 52,
-        "segundos": 6.9
-      },
-      {
-        "clave": "venta_apartamento_niza",
-        "total": 52,
-        "segundos": 7.0
-      },
-      {
-        "clave": "arriendo_apartamento_niza",
-        "total": 51,
-        "segundos": 7.0
-      },
-      {
-        "clave": "venta_apartamento_fontibon",
-        "total": 50,
-        "segundos": 7.1
-      },
-      {
-        "clave": "arriendo_apartamento_fontibon",
-        "total": 51,
-        "segundos": 7.0
-      },
-      {
-        "clave": "venta_apartamento_engativa",
-        "total": 50,
-        "segundos": 7.0
-      },
-      {
-        "clave": "arriendo_apartamento_engativa",
-        "total": 42,
-        "segundos": 7.0
-      }
-    ],
-    "variaciones": {
-      "venta_apartamento_centro-historico": 0,
-      "arriendo_apartamento_centro-historico": 1,
-      "venta_apartamento_teusaquillo": 0,
-      "arriendo_apartamento_teusaquillo": 0,
-      "venta_apartamento_puente-aranda": -1,
-      "arriendo_apartamento_puente-aranda": 0,
-      "venta_apartamento_barrios-unidos": 0,
-      "arriendo_apartamento_barrios-unidos": 0,
-      "venta_apartamento_chapinero": 2,
-      "arriendo_apartamento_chapinero": 2,
-      "venta_apartamento_britalia": 0,
-      "arriendo_apartamento_britalia": -1,
-      "venta_apartamento_toberin": 0,
-      "arriendo_apartamento_toberin": -1,
-      "venta_apartamento_usaquen": -3,
-      "arriendo_apartamento_usaquen": 0,
-      "venta_apartamento_niza": 0,
-      "arriendo_apartamento_niza": 0,
-      "venta_apartamento_fontibon": 0,
-      "arriendo_apartamento_fontibon": 0,
-      "venta_apartamento_engativa": -1,
-      "arriendo_apartamento_engativa": -1
-    }
-  },
-  {
     "grupo": "barrios",
     "generado": "2026.SEP.10 12:09",
     "iso": "2026-09-10T12:09:41",
@@ -319252,6 +319109,416 @@
         "clave": "ciencuadras_arriendo_apartamento_tibabita",
         "total": 0,
         "segundos": 4.1
+      }
+    ],
+    "variaciones": {}
+  },
+  {
+    "grupo": "barrios",
+    "generado": "2026.NOV.08 14:11",
+    "iso": "2026-11-08T14:11:34",
+    "total": 818,
+    "segundos_total": 439.4,
+    "datasets": [
+      {
+        "clave": "venta_oficina_barcelona-sur",
+        "total": 0,
+        "segundos": 5.2
+      },
+      {
+        "clave": "arriendo_oficina_barcelona-sur",
+        "total": 0,
+        "segundos": 5.1
+      },
+      {
+        "clave": "venta_bodega_barcelona-sur",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "arriendo_bodega_barcelona-sur",
+        "total": 0,
+        "segundos": 5.5
+      },
+      {
+        "clave": "venta_edificio_barcelona-sur",
+        "total": 50,
+        "segundos": 7.5
+      },
+      {
+        "clave": "arriendo_edificio_barcelona-sur",
+        "total": 45,
+        "segundos": 7.1
+      },
+      {
+        "clave": "venta_local_barcelona-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_local_barcelona-sur",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_lote_barcelona-sur",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "arriendo_lote_barcelona-sur",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_oficina_canada-o-guira",
+        "total": 0,
+        "segundos": 5.1
+      },
+      {
+        "clave": "arriendo_oficina_canada-o-guira",
+        "total": 0,
+        "segundos": 5.1
+      },
+      {
+        "clave": "venta_bodega_canada-o-guira",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_bodega_canada-o-guira",
+        "total": 0,
+        "segundos": 5.1
+      },
+      {
+        "clave": "venta_edificio_canada-o-guira",
+        "total": 50,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_edificio_canada-o-guira",
+        "total": 45,
+        "segundos": 7.1
+      },
+      {
+        "clave": "venta_local_canada-o-guira",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_local_canada-o-guira",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_lote_canada-o-guira",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "arriendo_lote_canada-o-guira",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "venta_oficina_cerros-de-oriente",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "arriendo_oficina_cerros-de-oriente",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "venta_bodega_cerros-de-oriente",
+        "total": 0,
+        "segundos": 5.2
+      },
+      {
+        "clave": "arriendo_bodega_cerros-de-oriente",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "venta_edificio_cerros-de-oriente",
+        "total": 50,
+        "segundos": 7.2
+      },
+      {
+        "clave": "arriendo_edificio_cerros-de-oriente",
+        "total": 45,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_cerros-de-oriente",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_local_cerros-de-oriente",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_lote_cerros-de-oriente",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "arriendo_lote_cerros-de-oriente",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_oficina_diana-turbay-arrayanes",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "arriendo_oficina_diana-turbay-arrayanes",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "venta_bodega_diana-turbay-arrayanes",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "arriendo_bodega_diana-turbay-arrayanes",
+        "total": 0,
+        "segundos": 5.1
+      },
+      {
+        "clave": "venta_edificio_diana-turbay-arrayanes",
+        "total": 50,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_edificio_diana-turbay-arrayanes",
+        "total": 45,
+        "segundos": 7.2
+      },
+      {
+        "clave": "venta_local_diana-turbay-arrayanes",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_local_diana-turbay-arrayanes",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "venta_lote_diana-turbay-arrayanes",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "arriendo_lote_diana-turbay-arrayanes",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "venta_oficina_las-guacamayas-iii",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "arriendo_oficina_las-guacamayas-iii",
+        "total": 0,
+        "segundos": 5.1
+      },
+      {
+        "clave": "venta_bodega_las-guacamayas-iii",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "arriendo_bodega_las-guacamayas-iii",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "venta_edificio_las-guacamayas-iii",
+        "total": 50,
+        "segundos": 7.2
+      },
+      {
+        "clave": "arriendo_edificio_las-guacamayas-iii",
+        "total": 45,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_las-guacamayas-iii",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_local_las-guacamayas-iii",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_lote_las-guacamayas-iii",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "arriendo_lote_las-guacamayas-iii",
+        "total": 0,
+        "segundos": 5.4
+      },
+      {
+        "clave": "venta_oficina_las-lomas",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "arriendo_oficina_las-lomas",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_bodega_las-lomas",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_bodega_las-lomas",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "venta_edificio_las-lomas",
+        "total": 50,
+        "segundos": 7.4
+      },
+      {
+        "clave": "arriendo_edificio_las-lomas",
+        "total": 48,
+        "segundos": 7.1
+      },
+      {
+        "clave": "venta_local_las-lomas",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_local_las-lomas",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_lote_las-lomas",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_lote_las-lomas",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "venta_oficina_san-isidro",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_oficina_san-isidro",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "venta_bodega_san-isidro",
+        "total": 5,
+        "segundos": 7.3
+      },
+      {
+        "clave": "arriendo_bodega_san-isidro",
+        "total": 9,
+        "segundos": 6.9
+      },
+      {
+        "clave": "venta_edificio_san-isidro",
+        "total": 45,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_edificio_san-isidro",
+        "total": 49,
+        "segundos": 7.1
+      },
+      {
+        "clave": "venta_local_san-isidro",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "arriendo_local_san-isidro",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_lote_san-isidro",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_lote_san-isidro",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "venta_oficina_san-luis",
+        "total": 8,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_oficina_san-luis",
+        "total": 8,
+        "segundos": 7.4
+      },
+      {
+        "clave": "venta_bodega_san-luis",
+        "total": 3,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_bodega_san-luis",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_edificio_san-luis",
+        "total": 45,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_edificio_san-luis",
+        "total": 48,
+        "segundos": 7.1
+      },
+      {
+        "clave": "venta_local_san-luis",
+        "total": 4,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_local_san-luis",
+        "total": 21,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_lote_san-luis",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_lote_san-luis",
+        "total": 0,
+        "segundos": 5.0
       }
     ],
     "variaciones": {}
