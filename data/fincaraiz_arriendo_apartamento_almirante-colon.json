@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 00:32",
+  "generado": "2026.NOV.08 00:57",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,70 +78,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 9978000,
-      "area": 316.0,
-      "precioM2": 31576,
-      "administracion": 3022000.0,
-      "barrio": "ALMIRANTE COLON",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 3.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cerros-de-niza-bogota/194242820",
-      "titulo": "Apartamento en Arriendo en Cerros de Niza, Bogotá",
-      "id_domus": "194242820",
-      "fechaPublicacion": "2026-09-11",
-      "lat": 4.713074376207,
-      "lon": -74.083183414342,
-      "location_type": "exacta",
-      "zonaConsulta": "ALMIRANTE COLON",
-      "zonaSlug": "almirante-colon",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1100000,
-      "area": 62.0,
-      "precioM2": 17742,
-      "administracion": null,
-      "barrio": "METROPOLIS",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-metropolis-bogota/194256082",
-      "titulo": "Apartamento en Arriendo en Metropolis, Bogotá",
-      "id_domus": "194256082",
-      "fechaPublicacion": "2026-09-15",
-      "lat": 4.7185795,
-      "lon": -74.090529,
-      "location_type": "exacta",
-      "zonaConsulta": "ALMIRANTE COLON",
-      "zonaSlug": "almirante-colon",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 9928000,
       "area": 267.0,
       "precioM2": 37184,
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -258,6 +194,70 @@
       "fechaPublicacion": "2026-10-28",
       "lat": 4.7137326,
       "lon": -74.0873156,
+      "location_type": "exacta",
+      "zonaConsulta": "ALMIRANTE COLON",
+      "zonaSlug": "almirante-colon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 9978000,
+      "area": 316.0,
+      "precioM2": 31576,
+      "administracion": 3022000.0,
+      "barrio": "ALMIRANTE COLON",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 3.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cerros-de-niza-bogota/194242820",
+      "titulo": "Apartamento en Arriendo en Cerros de Niza, Bogotá",
+      "id_domus": "194242820",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.713074376207,
+      "lon": -74.083183414342,
+      "location_type": "exacta",
+      "zonaConsulta": "ALMIRANTE COLON",
+      "zonaSlug": "almirante-colon",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1100000,
+      "area": 62.0,
+      "precioM2": 17742,
+      "administracion": null,
+      "barrio": "METROPOLIS",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-metropolis-bogota/194256082",
+      "titulo": "Apartamento en Arriendo en Metropolis, Bogotá",
+      "id_domus": "194256082",
+      "fechaPublicacion": "2026-09-15",
+      "lat": 4.7185795,
+      "lon": -74.090529,
       "location_type": "exacta",
       "zonaConsulta": "ALMIRANTE COLON",
       "zonaSlug": "almirante-colon",

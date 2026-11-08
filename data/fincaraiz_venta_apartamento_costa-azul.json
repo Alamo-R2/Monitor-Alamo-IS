@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "COSTA AZUL",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.OCT.31 21:04",
+  "generado": "2026.NOV.08 00:57",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 460000000,
+      "area": 68.0,
+      "precioM2": 6764706,
+      "administracion": 474000,
+      "barrio": "COSTA AZUL",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-colina-campestre-bogota/194505470",
+      "titulo": "Apartamento en Venta en Colina Campestre, Bogotá",
+      "id_domus": "194505470",
+      "fechaPublicacion": "2026-11-04",
+      "lat": 4.737375,
+      "lon": -74.096227,
+      "location_type": "exacta",
+      "zonaConsulta": "COSTA AZUL",
+      "zonaSlug": "costa-azul",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 175000000,
       "area": 35.0,
       "precioM2": 5000000,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
