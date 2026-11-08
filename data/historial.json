@@ -1,88 +1,5 @@
 [
   {
-    "grupo": "cada5",
-    "generado": "2026.SEP.10 14:03",
-    "iso": "2026-09-10T14:03:41",
-    "total": 434,
-    "segundos_total": 102.0,
-    "datasets": [
-      {
-        "clave": "venta_apartamento_restrepo",
-        "total": 51,
-        "segundos": 9.1
-      },
-      {
-        "clave": "arriendo_apartamento_restrepo",
-        "total": 17,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_apartamento_salitre",
-        "total": 52,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_apartamento_salitre",
-        "total": 53,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_apartamento_torca",
-        "total": 50,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_apartamento_torca",
-        "total": 51,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_apartamento_suba",
-        "total": 52,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_apartamento_suba",
-        "total": 51,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_apartamento_rincon-de-suba",
-        "total": 7,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_apartamento_rincon-de-suba",
-        "total": 0,
-        "segundos": 6.4
-      },
-      {
-        "clave": "venta_apartamento_tibabuyes",
-        "total": 50,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_apartamento_tibabuyes",
-        "total": 0,
-        "segundos": 6.3
-      }
-    ],
-    "variaciones": {
-      "venta_apartamento_restrepo": 1,
-      "arriendo_apartamento_restrepo": -2,
-      "venta_apartamento_salitre": 0,
-      "arriendo_apartamento_salitre": -3,
-      "venta_apartamento_torca": 0,
-      "arriendo_apartamento_torca": 0,
-      "venta_apartamento_suba": -3,
-      "arriendo_apartamento_suba": 1,
-      "venta_apartamento_rincon-de-suba": 1,
-      "arriendo_apartamento_rincon-de-suba": 0,
-      "venta_apartamento_tibabuyes": 1,
-      "arriendo_apartamento_tibabuyes": 0
-    }
-  },
-  {
     "grupo": "barrios",
     "generado": "2026.SEP.11 12:07",
     "iso": "2026-09-11T12:07:39",
@@ -319919,6 +319836,436 @@
         "clave": "fincaraiz_arriendo_apartamento_florida",
         "total": 21,
         "segundos": 7.8
+      }
+    ],
+    "variaciones": {}
+  },
+  {
+    "grupo": "barrios_res",
+    "generado": "2026.NOV.08 19:20",
+    "iso": "2026-11-08T19:20:46",
+    "total": 330,
+    "segundos_total": 438.0,
+    "datasets": [
+      {
+        "clave": "ciencuadras_venta_apartamento_tibabita-el-rosario",
+        "total": 21,
+        "segundos": 8.5
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_tibabita-el-rosario",
+        "total": 7,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_tibabita-i",
+        "total": 21,
+        "segundos": 8.3
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_tibabita-i",
+        "total": 7,
+        "segundos": 8.1
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_tibabita-rural",
+        "total": 21,
+        "segundos": 8.7
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_tibabita-rural",
+        "total": 7,
+        "segundos": 7.8
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_tibabita-rural-i",
+        "total": 21,
+        "segundos": 8.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_tibabita-rural-i",
+        "total": 7,
+        "segundos": 8.1
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_verbenal-san-antonio",
+        "total": 21,
+        "segundos": 8.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_verbenal-san-antonio",
+        "total": 7,
+        "segundos": 7.8
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_barajas-norte",
+        "total": 21,
+        "segundos": 8.1
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_barajas-norte",
+        "total": 7,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_canaima",
+        "total": 0,
+        "segundos": 7.8
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_canaima",
+        "total": 7,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_casablanca-suba",
+        "total": 20,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_casablanca-suba",
+        "total": 7,
+        "segundos": 7.7
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_casablanca-suba-i",
+        "total": 20,
+        "segundos": 8.1
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_casablanca-suba-i",
+        "total": 7,
+        "segundos": 8.1
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_casablanca-suba-ii",
+        "total": 20,
+        "segundos": 8.3
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_casablanca-suba-ii",
+        "total": 7,
+        "segundos": 8.1
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_casablanca-suba-otono",
+        "total": 20,
+        "segundos": 8.1
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_casablanca-suba-otono",
+        "total": 7,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_casablanca-suba-urbano",
+        "total": 20,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_casablanca-suba-urbano",
+        "total": 7,
+        "segundos": 8.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_casablanca-suba-urbano-i",
+        "total": 20,
+        "segundos": 8.4
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_casablanca-suba-urbano-i",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_casablanca-suba-urbano-ii",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_casablanca-suba-urbano-ii",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_chorillos",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_chorillos",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_conejera",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_conejera",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_guaymaral",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_guaymaral",
+        "total": 0,
+        "segundos": 4.1
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_la-candelaria",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_la-candelaria",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_la-lomita",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_la-lomita",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_las-mercedes-i",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_las-mercedes-i",
+        "total": 0,
+        "segundos": 4.1
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_las-mercedes-suba-rural",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_las-mercedes-suba-rural",
+        "total": 0,
+        "segundos": 4.1
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_mirandela",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_mirandela",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_nuestra-senora-del-rosario",
+        "total": 0,
+        "segundos": 4.1
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_nuestra-senora-del-rosario",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_san-jose-de-bavaria",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_san-jose-de-bavaria",
+        "total": 0,
+        "segundos": 4.1
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_torca-i",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_torca-i",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_tuna-alta",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_tuna-alta",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_tuna-rural",
+        "total": 0,
+        "segundos": 4.1
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_tuna-rural",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_villa-hermosa",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_villa-hermosa",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_tibabita",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_tibabita",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_tibabita-el-rosario",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_tibabita-el-rosario",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_tibabita-rural",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_tibabita-rural",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_torca",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_torca",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_torca-ii",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_torca-ii",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_torca-rural-i",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_torca-rural-i",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_torca-rural-ii",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_torca-rural-ii",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_betania",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_betania",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_la-union",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_la-union",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_la-union-urbano",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_la-union-urbano",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_nazareth",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_nazareth",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_nazareth-urbano",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_nazareth-urbano",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_san-juan",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_san-juan",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_san-juan-urbano",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_san-juan-urbano",
+        "total": 0,
+        "segundos": 4.0
       }
     ],
     "variaciones": {}
