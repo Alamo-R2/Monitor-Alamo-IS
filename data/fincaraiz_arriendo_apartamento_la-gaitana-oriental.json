@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 00:32",
+  "generado": "2026.NOV.08 06:50",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 75.0,
+      "precioM2": 24000,
+      "administracion": null,
+      "barrio": "LA GAITANA ORIENTAL",
+      "upl": "Tibabuyes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-gaitana-oriental-bogota/194399850",
+      "titulo": "Apartamento en Arriendo en La gaitana oriental, Bogotá",
+      "id_domus": "194399850",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.74371,
+      "lon": -74.1077374,
+      "location_type": "exacta",
+      "zonaConsulta": "LA GAITANA ORIENTAL",
+      "zonaSlug": "la-gaitana-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-10-26",
       "lat": 4.7397112,
       "lon": -74.1072916,
-      "location_type": "exacta",
-      "zonaConsulta": "LA GAITANA ORIENTAL",
-      "zonaSlug": "la-gaitana-oriental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 75.0,
-      "precioM2": 24000,
-      "administracion": null,
-      "barrio": "LA GAITANA ORIENTAL",
-      "upl": "Tibabuyes",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-gaitana-oriental-bogota/194399850",
-      "titulo": "Apartamento en Arriendo en La gaitana oriental, Bogotá",
-      "id_domus": "194399850",
-      "fechaPublicacion": "2026-10-14",
-      "lat": 4.74371,
-      "lon": -74.1077374,
       "location_type": "exacta",
       "zonaConsulta": "LA GAITANA ORIENTAL",
       "zonaSlug": "la-gaitana-oriental",

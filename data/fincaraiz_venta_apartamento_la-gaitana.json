@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 00:32",
+  "generado": "2026.NOV.08 06:50",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 298000000,
+      "area": 64.0,
+      "precioM2": 4656250,
+      "administracion": null,
+      "barrio": "VILLA MARIA",
+      "upl": "Tibabuyes",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-maria-bogota/194427063",
+      "titulo": "Apartamento en Venta en Villa maria, Bogotá",
+      "id_domus": "194427063",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.737516424962,
+      "lon": -74.106234905359,
+      "location_type": "exacta",
+      "zonaConsulta": "LA GAITANA",
+      "zonaSlug": "la-gaitana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 209500000,
       "area": 54.0,
       "precioM2": 3879630,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-10-19",
       "lat": 4.7462233,
       "lon": -74.1084872,
-      "location_type": "exacta",
-      "zonaConsulta": "LA GAITANA",
-      "zonaSlug": "la-gaitana",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 298000000,
-      "area": 64.0,
-      "precioM2": 4656250,
-      "administracion": null,
-      "barrio": "VILLA MARIA",
-      "upl": "Tibabuyes",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-maria-bogota/194427063",
-      "titulo": "Apartamento en Venta en Villa maria, Bogotá",
-      "id_domus": "194427063",
-      "fechaPublicacion": "2026-10-19",
-      "lat": 4.737516424962,
-      "lon": -74.106234905359,
       "location_type": "exacta",
       "zonaConsulta": "LA GAITANA",
       "zonaSlug": "la-gaitana",
