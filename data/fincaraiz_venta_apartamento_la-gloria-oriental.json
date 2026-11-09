@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.06 07:28",
+  "generado": "2026.NOV.09 13:30",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 220000000,
+      "area": 49.0,
+      "precioM2": 4489796,
+      "administracion": 170000.0,
+      "barrio": "LA GLORIA ORIENTAL",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-20-de-julio-bogota/193822566",
+      "titulo": "Apartamento en Venta en 20 de julio, Bogotá",
+      "id_domus": "193822566",
+      "fechaPublicacion": "2026-05-31",
+      "lat": 4.5456704,
+      "lon": -74.093183,
+      "location_type": "exacta",
+      "zonaConsulta": "LA GLORIA ORIENTAL",
+      "zonaSlug": "la-gloria-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-10-22",
       "lat": 4.5440086,
       "lon": -74.0889378,
-      "location_type": "exacta",
-      "zonaConsulta": "LA GLORIA ORIENTAL",
-      "zonaSlug": "la-gloria-oriental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 220000000,
-      "area": 49.0,
-      "precioM2": 4489796,
-      "administracion": 170000.0,
-      "barrio": "LA GLORIA ORIENTAL",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-20-de-julio-bogota/193822566",
-      "titulo": "Apartamento en Venta en 20 de julio, Bogotá",
-      "id_domus": "193822566",
-      "fechaPublicacion": "2026-05-31",
-      "lat": 4.5456704,
-      "lon": -74.093183,
       "location_type": "exacta",
       "zonaConsulta": "LA GLORIA ORIENTAL",
       "zonaSlug": "la-gloria-oriental",
