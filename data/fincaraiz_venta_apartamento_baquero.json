@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.02 22:30",
+  "generado": "2026.NOV.09 23:12",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 890000000,
+      "area": 100.0,
+      "precioM2": 8900000,
+      "administracion": 625000.0,
+      "barrio": "BAQUERO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-campin-bogota/193357053",
+      "titulo": "Apartamento en Venta en El campin, Bogotá",
+      "id_domus": "193357053",
+      "fechaPublicacion": "2026-02-04",
+      "lat": 4.65162,
+      "lon": -74.07122,
+      "location_type": "exacta",
+      "zonaConsulta": "BAQUERO",
+      "zonaSlug": "baquero",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 360000000,
       "area": 77.0,
       "precioM2": 4675325,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-10-26",
       "lat": 4.6518836,
       "lon": -74.070468,
-      "location_type": "exacta",
-      "zonaConsulta": "BAQUERO",
-      "zonaSlug": "baquero",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 890000000,
-      "area": 100.0,
-      "precioM2": 8900000,
-      "administracion": 625000.0,
-      "barrio": "BAQUERO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-campin-bogota/193357053",
-      "titulo": "Apartamento en Venta en El campin, Bogotá",
-      "id_domus": "193357053",
-      "fechaPublicacion": "2026-02-04",
-      "lat": 4.65162,
-      "lon": -74.07122,
       "location_type": "exacta",
       "zonaConsulta": "BAQUERO",
       "zonaSlug": "baquero",

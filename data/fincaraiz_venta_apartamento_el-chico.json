@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.07 21:08",
+  "generado": "2026.NOV.09 23:12",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1130000000,
+      "area": 230.0,
+      "precioM2": 4913043,
+      "administracion": 1841147.0,
+      "barrio": "LA CABRERA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-cabrera-bogota/193596788",
+      "titulo": "Apartamento en Venta en La cabrera, Bogotá",
+      "id_domus": "193596788",
+      "fechaPublicacion": "2026-04-06",
+      "lat": 4.6731711,
+      "lon": -74.0496773,
+      "location_type": "exacta",
+      "zonaConsulta": "EL CHICO",
+      "zonaSlug": "el-chico",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,39 +72,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 4200000000,
-      "area": 315.0,
-      "precioM2": 13333333,
-      "administracion": 3000000.0,
-      "barrio": "LA CABRERA",
+      "precio": 599900000,
+      "area": 55.0,
+      "precioM2": 10907273,
+      "administracion": 720000.0,
+      "barrio": "EL VIRREY",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 4.0,
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-cabrera-bogota/193148041",
-      "titulo": "Apartamento en Venta en La cabrera, Bogotá",
-      "id_domus": "193148041",
-      "fechaPublicacion": "2025-11-27",
-      "lat": 4.6718957,
-      "lon": -74.0524569,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-virrey-bogota/194500099",
+      "titulo": "Apartamento en Venta en El Virrey, Bogotá",
+      "id_domus": "194500099",
+      "fechaPublicacion": "2026-11-03",
+      "lat": 4.6765464,
+      "lon": -74.0566737,
       "location_type": "exacta",
       "zonaConsulta": "EL CHICO",
       "zonaSlug": "el-chico",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-04-09",
       "lat": 4.6730931,
       "lon": -74.0487873,
-      "location_type": "exacta",
-      "zonaConsulta": "EL CHICO",
-      "zonaSlug": "el-chico",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1700000000,
-      "area": 176.0,
-      "precioM2": 9659091,
-      "administracion": 980000.0,
-      "barrio": "EL REFUGIO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-refugio-bogota/193085229",
-      "titulo": "Apartamento en Venta en El refugio, Bogotá",
-      "id_domus": "193085229",
-      "fechaPublicacion": "2025-11-11",
-      "lat": 4.67018927083,
-      "lon": -74.04420375824,
       "location_type": "exacta",
       "zonaConsulta": "EL CHICO",
       "zonaSlug": "el-chico",
@@ -366,38 +366,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2400000000,
-      "area": 220.0,
-      "precioM2": 10909091,
-      "administracion": null,
-      "barrio": "EL CHICO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 3.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-chico-bogota/194336888",
-      "titulo": "Apartamento en Venta en El chico, Bogotá",
-      "id_domus": "194336888",
-      "fechaPublicacion": "2026-09-30",
-      "lat": 4.673886380472,
-      "lon": -74.046687015354,
-      "location_type": "exacta",
-      "zonaConsulta": "EL CHICO",
-      "zonaSlug": "el-chico",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 3000000000,
       "area": 189.0,
       "precioM2": 15873016,
@@ -424,39 +392,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 900000000,
-      "area": 104.0,
-      "precioM2": 8653846,
-      "administracion": 1200000.0,
-      "barrio": "CHICO NORTE",
+      "precio": 1350000000,
+      "area": 180.0,
+      "precioM2": 7500000,
+      "administracion": 2470000.0,
+      "barrio": "EL CHICO",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 3,
       "parqueaderos": 2.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-norte-bogota/193755875",
-      "titulo": "Apartamento en Venta en Chico norte, Bogotá",
-      "id_domus": "193755875",
-      "fechaPublicacion": "2026-05-15",
-      "lat": 4.6741818,
-      "lon": -74.0488425,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-chico-bogota/194084476",
+      "titulo": "Apartamento en Arriendo en El chico, Bogotá",
+      "id_domus": "194084476",
+      "fechaPublicacion": "2026-08-06",
+      "lat": 4.6778828335404,
+      "lon": -74.048046789462,
       "location_type": "exacta",
       "zonaConsulta": "EL CHICO",
       "zonaSlug": "el-chico",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-08-25",
       "lat": 4.6697973,
       "lon": -74.0446728,
+      "location_type": "exacta",
+      "zonaConsulta": "EL CHICO",
+      "zonaSlug": "el-chico",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 265000000,
+      "area": 18.0,
+      "precioM2": 14722222,
+      "administracion": null,
+      "barrio": "EL CHICO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-chico-bogota/194173262",
+      "titulo": "Apartamento en Venta en El chico, Bogotá",
+      "id_domus": "194173262",
+      "fechaPublicacion": "2026-08-27",
+      "lat": 4.677312315757,
+      "lon": -74.053089448276,
       "location_type": "exacta",
       "zonaConsulta": "EL CHICO",
       "zonaSlug": "el-chico",

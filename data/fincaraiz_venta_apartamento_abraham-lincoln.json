@@ -1,10 +1,75 @@
 {
   "ok": true,
-  "total": 0,
+  "total": 2,
   "zona": "ABRAHAM LINCOLN",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.05 07:29",
-  "inmuebles": []
+  "generado": "2026.NOV.09 23:12",
+  "inmuebles": [
+    {
+      "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 200000000,
+      "area": 47.0,
+      "precioM2": 4255319,
+      "administracion": 150000,
+      "barrio": "TUNJUELITO",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tunjuelito-bogota/194505485",
+      "titulo": "Apartamento en Venta en Tunjuelito, Bogotá",
+      "id_domus": "194505485",
+      "fechaPublicacion": "2026-11-04",
+      "lat": 4.5565,
+      "lon": -74.12247,
+      "location_type": "exacta",
+      "zonaConsulta": "ABRAHAM LINCOLN",
+      "zonaSlug": "abraham-lincoln",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 245000000,
+      "area": 57.0,
+      "precioM2": 4298246,
+      "administracion": 80000,
+      "barrio": "ABRAHAM LINCOLN",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-abraham-lincoln-bogota/192444992",
+      "titulo": "Apartamento en Venta en Abraham lincoln, Bogotá",
+      "id_domus": "192444992",
+      "fechaPublicacion": "2025-05-23",
+      "lat": 4.55794001676,
+      "lon": -74.123570022231,
+      "location_type": "exacta",
+      "zonaConsulta": "ABRAHAM LINCOLN",
+      "zonaSlug": "abraham-lincoln",
+      "origenZona": "barrio"
+    }
+  ]
 }

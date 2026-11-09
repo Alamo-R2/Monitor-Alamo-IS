@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "ISLA DEL SOL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.03 22:38",
+  "generado": "2026.NOV.09 23:12",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1220000,
+      "area": 39.0,
+      "precioM2": 31282,
+      "administracion": null,
+      "barrio": "MADELENA",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-madelena-bogota/194520273",
+      "titulo": "Apartamento en Arriendo en Madelena, Bogotá",
+      "id_domus": "194520273",
+      "fechaPublicacion": "2026-11-08",
+      "lat": 4.5877764,
+      "lon": -74.1568726,
+      "location_type": "exacta",
+      "zonaConsulta": "ISLA DEL SOL",
+      "zonaSlug": "isla-del-sol",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1250000,
       "area": 48.0,
       "precioM2": 26042,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
