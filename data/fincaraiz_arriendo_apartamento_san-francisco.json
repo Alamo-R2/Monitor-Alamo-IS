@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.05 07:29",
+  "generado": "2026.NOV.09 01:16",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 110.0,
+      "precioM2": 16364,
+      "administracion": null,
+      "barrio": "PUENTE ARANDA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-puente-aranda-bogota/194412376",
+      "titulo": "Apartamento en Arriendo en Puente aranda, Bogotá",
+      "id_domus": "194412376",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.6202482,
+      "lon": -74.1074472,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FRANCISCO",
+      "zonaSlug": "san-francisco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,15 +72,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2100000,
+      "precio": 2000000,
       "area": 100.0,
-      "precioM2": 21000,
+      "precioM2": 20000,
       "administracion": null,
       "barrio": "GORGONZOLA",
       "upl": "Puente Aranda",
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-10-29",
       "lat": 4.6206516,
       "lon": -74.1118169,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN FRANCISCO",
-      "zonaSlug": "san-francisco",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 110.0,
-      "precioM2": 16364,
-      "administracion": null,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-puente-aranda-bogota/194412376",
-      "titulo": "Apartamento en Arriendo en Puente aranda, Bogotá",
-      "id_domus": "194412376",
-      "fechaPublicacion": "2026-10-16",
-      "lat": 4.6202482,
-      "lon": -74.1074472,
       "location_type": "exacta",
       "zonaConsulta": "SAN FRANCISCO",
       "zonaSlug": "san-francisco",

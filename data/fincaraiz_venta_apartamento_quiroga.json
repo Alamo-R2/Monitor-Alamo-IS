@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 21:25",
+  "generado": "2026.NOV.09 01:16",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 250000000,
-      "area": 47.0,
-      "precioM2": 5319149,
-      "administracion": 230000.0,
-      "barrio": "OLAYA",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-olaya-bogota/191879851",
-      "titulo": "Apartamento en  Venta en Olaya, Bogotá",
-      "id_domus": "191879851",
-      "fechaPublicacion": "2025-01-15",
-      "lat": 4.5808687,
-      "lon": -74.1100482,
-      "location_type": "exacta",
-      "zonaConsulta": "QUIROGA",
-      "zonaSlug": "quiroga",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-08-20",
       "lat": 4.583933,
       "lon": -74.1142086,
+      "location_type": "exacta",
+      "zonaConsulta": "QUIROGA",
+      "zonaSlug": "quiroga",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 47.0,
+      "precioM2": 5319149,
+      "administracion": 230000.0,
+      "barrio": "OLAYA",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-olaya-bogota/191879851",
+      "titulo": "Apartamento en  Venta en Olaya, Bogotá",
+      "id_domus": "191879851",
+      "fechaPublicacion": "2025-01-15",
+      "lat": 4.5808687,
+      "lon": -74.1100482,
       "location_type": "exacta",
       "zonaConsulta": "QUIROGA",
       "zonaSlug": "quiroga",

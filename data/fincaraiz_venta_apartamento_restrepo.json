@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 21:25",
+  "generado": "2026.NOV.09 01:16",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 60.0,
+      "precioM2": 5833333,
+      "administracion": null,
+      "barrio": "RESTREPO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/194343753",
+      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
+      "id_domus": "194343753",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.5907617,
+      "lon": -74.1113718,
+      "location_type": "exacta",
+      "zonaConsulta": "RESTREPO",
+      "zonaSlug": "restrepo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -34,38 +66,6 @@
       "fechaPublicacion": "2026-08-05",
       "lat": 4.5919617,
       "lon": -74.1025435,
-      "location_type": "exacta",
-      "zonaConsulta": "RESTREPO",
-      "zonaSlug": "restrepo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 280000000,
-      "area": 43.0,
-      "precioM2": 6511628,
-      "administracion": null,
-      "barrio": "RESTREPO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/192767865",
-      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
-      "id_domus": "192767865",
-      "fechaPublicacion": "2025-08-19",
-      "lat": 4.5827126,
-      "lon": -74.1029279,
       "location_type": "exacta",
       "zonaConsulta": "RESTREPO",
       "zonaSlug": "restrepo",
@@ -110,38 +110,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 269000000,
-      "area": 44.0,
-      "precioM2": 6113636,
-      "administracion": 210000.0,
-      "barrio": "RESTREPO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/194244410",
-      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
-      "id_domus": "194244410",
-      "fechaPublicacion": "2026-09-11",
-      "lat": 4.5909797,
-      "lon": -74.1027586,
-      "location_type": "exacta",
-      "zonaConsulta": "RESTREPO",
-      "zonaSlug": "restrepo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 330000000,
       "area": 58.0,
       "precioM2": 5689655,
@@ -168,71 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 290000000,
-      "area": 65.0,
-      "precioM2": 4461538,
-      "administracion": null,
-      "barrio": "RESTREPO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/191914429",
-      "titulo": "Apartamento en  Venta en Restrepo, Bogotá",
-      "id_domus": "191914429",
-      "fechaPublicacion": "2025-01-23",
-      "lat": 4.5858189324661,
-      "lon": -74.098850708707,
-      "location_type": "exacta",
-      "zonaConsulta": "RESTREPO",
-      "zonaSlug": "restrepo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 355000000,
-      "area": 59.0,
-      "precioM2": 6016949,
-      "administracion": 260000.0,
-      "barrio": "RESTREPO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/193734420",
-      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
-      "id_domus": "193734420",
-      "fechaPublicacion": "2026-05-11",
-      "lat": 4.5900603,
-      "lon": -74.103441,
-      "location_type": "exacta",
-      "zonaConsulta": "RESTREPO",
-      "zonaSlug": "restrepo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -552,15 +456,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 310000000,
+      "precio": 305000000,
       "area": 62.0,
-      "precioM2": 5000000,
+      "precioM2": 4919355,
       "administracion": 171000.0,
       "barrio": "RESTREPO",
       "upl": "Restrepo",
@@ -572,7 +476,7 @@
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-antonio-nariño-bogota/194122845",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-antonio-narino-bogota/194122845",
       "titulo": "Apartamento en Venta en Antonio nariño, Bogotá",
       "id_domus": "194122845",
       "fechaPublicacion": "2026-08-15",
@@ -584,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -616,39 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 350000000,
-      "area": 60.0,
-      "precioM2": 5833333,
-      "administracion": null,
-      "barrio": "RESTREPO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/194343753",
-      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
-      "id_domus": "194343753",
-      "fechaPublicacion": "2026-10-01",
-      "lat": 4.5907617,
-      "lon": -74.1113718,
-      "location_type": "exacta",
-      "zonaConsulta": "RESTREPO",
-      "zonaSlug": "restrepo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +546,134 @@
       "fechaPublicacion": "2026-08-15",
       "lat": 4.5849175000199,
       "lon": -74.104659564541,
+      "location_type": "exacta",
+      "zonaConsulta": "RESTREPO",
+      "zonaSlug": "restrepo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 320000000,
+      "area": 47.0,
+      "precioM2": 6808511,
+      "administracion": 144000.0,
+      "barrio": "RESTREPO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/194290368",
+      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
+      "id_domus": "194290368",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.5826606,
+      "lon": -74.1028867,
+      "location_type": "exacta",
+      "zonaConsulta": "RESTREPO",
+      "zonaSlug": "restrepo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 269000000,
+      "area": 44.0,
+      "precioM2": 6113636,
+      "administracion": 210000.0,
+      "barrio": "RESTREPO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/194244410",
+      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
+      "id_domus": "194244410",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.5909797,
+      "lon": -74.1027586,
+      "location_type": "exacta",
+      "zonaConsulta": "RESTREPO",
+      "zonaSlug": "restrepo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 255000000,
+      "area": 42.0,
+      "precioM2": 6071429,
+      "administracion": null,
+      "barrio": "RESTREPO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/194373752",
+      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
+      "id_domus": "194373752",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.605538791328,
+      "lon": -74.079151132181,
+      "location_type": "exacta",
+      "zonaConsulta": "RESTREPO",
+      "zonaSlug": "restrepo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 600000000,
+      "area": 180.0,
+      "precioM2": 3333333,
+      "administracion": null,
+      "barrio": "RESTREPO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 6,
+      "banos": 4,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/192436608",
+      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
+      "id_domus": "192436608",
+      "fechaPublicacion": "2025-05-22",
+      "lat": 4.5874808,
+      "lon": -74.1005408,
       "location_type": "exacta",
       "zonaConsulta": "RESTREPO",
       "zonaSlug": "restrepo",

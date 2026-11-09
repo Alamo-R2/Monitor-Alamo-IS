@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 10,
   "zona": "BATALLON CALDAS",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 21:25",
+  "generado": "2026.NOV.09 01:16",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,10 +46,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 585000000,
-      "area": 69.0,
-      "precioM2": 8478261,
-      "administracion": 483000.0,
+      "precio": 582000000,
+      "area": 87.0,
+      "precioM2": 6689655,
+      "administracion": 695000.0,
       "barrio": "QUINTA PAREDES",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
@@ -60,12 +60,12 @@
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quinta-paredes-bogota/194122516",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quinta-paredes-bogota/194520344",
       "titulo": "Apartamento en Venta en Quinta paredes, Bogotá",
-      "id_domus": "194122516",
-      "fechaPublicacion": "2026-08-15",
-      "lat": 4.630310201417,
-      "lon": -74.098131781159,
+      "id_domus": "194520344",
+      "fechaPublicacion": "2026-11-08",
+      "lat": 4.6330818,
+      "lon": -74.0979999,
       "location_type": "exacta",
       "zonaConsulta": "BATALLON CALDAS",
       "zonaSlug": "batallon-caldas",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 535000000,
+      "area": 82.0,
+      "precioM2": 6524390,
+      "administracion": 475851.0,
+      "barrio": "GRAN AMERICA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-america-bogota/194511241",
+      "titulo": "Apartamento en Venta en Gran america, Bogotá",
+      "id_domus": "194511241",
+      "fechaPublicacion": "2026-11-05",
+      "lat": 4.6331553661305,
+      "lon": -74.097510881066,
+      "location_type": "exacta",
+      "zonaConsulta": "BATALLON CALDAS",
+      "zonaSlug": "batallon-caldas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -258,6 +290,38 @@
       "fechaPublicacion": "2026-10-29",
       "lat": 4.6332551,
       "lon": -74.0972813,
+      "location_type": "exacta",
+      "zonaConsulta": "BATALLON CALDAS",
+      "zonaSlug": "batallon-caldas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 585000000,
+      "area": 69.0,
+      "precioM2": 8478261,
+      "administracion": 483000.0,
+      "barrio": "QUINTA PAREDES",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quinta-paredes-bogota/194122516",
+      "titulo": "Apartamento en Venta en Quinta paredes, Bogotá",
+      "id_domus": "194122516",
+      "fechaPublicacion": "2026-08-15",
+      "lat": 4.630310201417,
+      "lon": -74.098131781159,
       "location_type": "exacta",
       "zonaConsulta": "BATALLON CALDAS",
       "zonaSlug": "batallon-caldas",

@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 21:25",
+  "generado": "2026.NOV.09 01:16",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1535000,
+      "area": 41.0,
+      "precioM2": 37439,
+      "administracion": 190400.0,
+      "barrio": "PUENTE ARANDA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-puente-aranda-bogota/194397023",
+      "titulo": "Apartamento en Arriendo en Puente aranda, Bogotá",
+      "id_domus": "194397023",
+      "fechaPublicacion": "2026-10-13",
+      "lat": 4.621377319387,
+      "lon": -74.096985223748,
+      "location_type": "exacta",
+      "zonaConsulta": "INDUSTRIAL CENTENARIO",
+      "zonaSlug": "industrial-centenario",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -32,38 +64,6 @@
       "titulo": "Apartamento en Arriendo en Corredor ferreo del sur, Bogotá",
       "id_domus": "194397167",
       "fechaPublicacion": "2026-10-13",
-      "lat": 4.6210523,
-      "lon": -74.0974202,
-      "location_type": "exacta",
-      "zonaConsulta": "INDUSTRIAL CENTENARIO",
-      "zonaSlug": "industrial-centenario",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1500000,
-      "area": 30.0,
-      "precioM2": 50000,
-      "administracion": null,
-      "barrio": "CORREDOR FERREO DEL SUR",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-corredor-ferreo-del-sur-bogota/194372284",
-      "titulo": "Apartamento en Arriendo en Corredor ferreo del sur, Bogotá",
-      "id_domus": "194372284",
-      "fechaPublicacion": "2026-10-07",
       "lat": 4.6210523,
       "lon": -74.0974202,
       "location_type": "exacta",
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 46.0,
+      "precioM2": 39130,
+      "administracion": null,
+      "barrio": "INDUSTRIAL CENTENARIO",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-industrial-centenario-bogota/194506532",
+      "titulo": "Apartamento en Arriendo en Industrial centenario, Bogotá",
+      "id_domus": "194506532",
+      "fechaPublicacion": "2026-11-04",
+      "lat": 4.620526262848,
+      "lon": -74.09773305715,
+      "location_type": "exacta",
+      "zonaConsulta": "INDUSTRIAL CENTENARIO",
+      "zonaSlug": "industrial-centenario",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1550000,
       "area": 40.0,
       "precioM2": 38750,
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,71 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1700000,
-      "area": 40.0,
-      "precioM2": 42500,
-      "administracion": null,
-      "barrio": "INDUSTRIAL CENTENARIO",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-zona-industrial-bogota/194376993",
-      "titulo": "Apartamento en Arriendo en Zona industrial, Bogotá",
-      "id_domus": "194376993",
-      "fechaPublicacion": "2026-10-08",
-      "lat": 4.6198173,
-      "lon": -74.0985851,
-      "location_type": "exacta",
-      "zonaConsulta": "INDUSTRIAL CENTENARIO",
-      "zonaSlug": "industrial-centenario",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-11",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1625000,
-      "area": 41.0,
-      "precioM2": 39634,
-      "administracion": 217800.0,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-puente-aranda-bogota/194397023",
-      "titulo": "Apartamento en Arriendo en Puente aranda, Bogotá",
-      "id_domus": "194397023",
-      "fechaPublicacion": "2026-10-13",
-      "lat": 4.621377319387,
-      "lon": -74.096985223748,
-      "location_type": "exacta",
-      "zonaConsulta": "INDUSTRIAL CENTENARIO",
-      "zonaSlug": "industrial-centenario",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -552,15 +520,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1400000,
+      "precio": 1300000,
       "area": 30.0,
-      "precioM2": 46667,
+      "precioM2": 43333,
       "administracion": null,
       "barrio": "CORREDOR FERREO DEL SUR",
       "upl": "Puente Aranda",
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -610,6 +578,38 @@
       "fechaPublicacion": "2026-09-19",
       "lat": 4.620462,
       "lon": -74.097765,
+      "location_type": "exacta",
+      "zonaConsulta": "INDUSTRIAL CENTENARIO",
+      "zonaSlug": "industrial-centenario",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 40.0,
+      "precioM2": 40000,
+      "administracion": null,
+      "barrio": "INDUSTRIAL CENTENARIO",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-industrial-centenario-bogota/194495750",
+      "titulo": "Apartamento en Arriendo en Industrial centenario, Bogotá",
+      "id_domus": "194495750",
+      "fechaPublicacion": "2026-11-03",
+      "lat": 4.621377319387,
+      "lon": -74.096985223748,
       "location_type": "exacta",
       "zonaConsulta": "INDUSTRIAL CENTENARIO",
       "zonaSlug": "industrial-centenario",

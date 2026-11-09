@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 21:25",
+  "generado": "2026.NOV.09 01:16",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 285740000,
-      "area": 44.0,
-      "precioM2": 6494091,
-      "administracion": null,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/193612231",
-      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
-      "id_domus": "193612231",
-      "fechaPublicacion": "2026-04-09",
-      "lat": 4.618957,
-      "lon": -74.1001925,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS EJIDOS",
-      "zonaSlug": "los-ejidos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -104,17 +72,17 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 41.0,
-      "precioM2": 8048780,
-      "administracion": null,
-      "barrio": "LOS EJIDOS",
+      "precio": 375000000,
+      "area": 46.0,
+      "precioM2": 8152174,
+      "administracion": 244000.0,
+      "barrio": "INDUSTRIAL CENTENARIO",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -124,12 +92,44 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-andresito-bogota/193527450",
-      "titulo": "Apartamento en Venta en San Andresito, Bogotá",
-      "id_domus": "193527450",
-      "fechaPublicacion": "2026-03-17",
-      "lat": 4.620463,
-      "lon": -74.0977595,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-industrial-centenario-bogota/194514018",
+      "titulo": "Apartamento en Venta en Industrial centenario, Bogotá",
+      "id_domus": "194514018",
+      "fechaPublicacion": "2026-11-06",
+      "lat": 4.620526262848,
+      "lon": -74.09773305715,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS EJIDOS",
+      "zonaSlug": "los-ejidos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 285740000,
+      "area": 44.0,
+      "precioM2": 6494091,
+      "administracion": null,
+      "barrio": "PUENTE ARANDA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/193612231",
+      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
+      "id_domus": "193612231",
+      "fechaPublicacion": "2026-04-09",
+      "lat": 4.618957,
+      "lon": -74.1001925,
       "location_type": "exacta",
       "zonaConsulta": "LOS EJIDOS",
       "zonaSlug": "los-ejidos",
@@ -137,38 +137,6 @@
     },
     {
       "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 300000000,
-      "area": 40.0,
-      "precioM2": 7500000,
-      "administracion": 200000.0,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/194330486",
-      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
-      "id_domus": "194330486",
-      "fechaPublicacion": "2026-09-29",
-      "lat": 4.620463,
-      "lon": -74.0977595,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS EJIDOS",
-      "zonaSlug": "los-ejidos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -386,6 +354,38 @@
       "fechaPublicacion": "2026-05-25",
       "lat": 4.6205175342,
       "lon": -74.0977567434,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS EJIDOS",
+      "zonaSlug": "los-ejidos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 330000000,
+      "area": 41.0,
+      "precioM2": 8048780,
+      "administracion": null,
+      "barrio": "LOS EJIDOS",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-andresito-bogota/193527450",
+      "titulo": "Apartamento en Venta en San Andresito, Bogotá",
+      "id_domus": "193527450",
+      "fechaPublicacion": "2026-03-17",
+      "lat": 4.620463,
+      "lon": -74.0977595,
       "location_type": "exacta",
       "zonaConsulta": "LOS EJIDOS",
       "zonaSlug": "los-ejidos",
@@ -590,6 +590,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 300000000,
+      "area": 40.0,
+      "precioM2": 7500000,
+      "administracion": 200000.0,
+      "barrio": "PUENTE ARANDA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/194330486",
+      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
+      "id_domus": "194330486",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.620463,
+      "lon": -74.0977595,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS EJIDOS",
+      "zonaSlug": "los-ejidos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 370000000,
       "area": 46.0,
       "precioM2": 8043478,
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2025-07-22",
       "lat": 4.6207503,
       "lon": -74.0982699,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS EJIDOS",
-      "zonaSlug": "los-ejidos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 42.0,
-      "precioM2": 7380952,
-      "administracion": 190000.0,
-      "barrio": "LOS EJIDOS",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-andresito-bogota/194104670",
-      "titulo": "Apartamento en Venta en San Andresito, Bogotá",
-      "id_domus": "194104670",
-      "fechaPublicacion": "2026-08-11",
-      "lat": 4.6204801053,
-      "lon": -74.0977527201,
       "location_type": "exacta",
       "zonaConsulta": "LOS EJIDOS",
       "zonaSlug": "los-ejidos",

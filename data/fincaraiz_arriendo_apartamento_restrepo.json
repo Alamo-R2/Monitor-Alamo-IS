@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 18,
+  "total": 16,
   "zona": "RESTREPO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 21:25",
+  "generado": "2026.NOV.09 01:16",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,9 +14,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1500000,
+      "precio": 1450000,
       "area": 45.0,
-      "precioM2": 33333,
+      "precioM2": 32222,
       "administracion": null,
       "barrio": "RESTREPO",
       "upl": "Restrepo",
@@ -206,74 +206,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1400000,
-      "area": 65.0,
-      "precioM2": 21538,
-      "administracion": null,
-      "barrio": "RESTREPO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-restrepo-bogota/194116318",
-      "titulo": "Apartamento en Arriendo en Restrepo, Bogotá",
-      "id_domus": "194116318",
-      "fechaPublicacion": "2026-08-14",
-      "lat": 4.5828745941481,
-      "lon": -74.102822545508,
-      "location_type": "exacta",
-      "zonaConsulta": "RESTREPO",
-      "zonaSlug": "restrepo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1150000,
-      "area": 25.0,
-      "precioM2": 46000,
-      "administracion": null,
-      "barrio": "RESTREPO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-restrepo-bogota/194079764",
-      "titulo": "Apartamento en Arriendo en Restrepo, Bogotá",
-      "id_domus": "194079764",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.5825986,
-      "lon": -74.1028349,
-      "location_type": "exacta",
-      "zonaConsulta": "RESTREPO",
-      "zonaSlug": "restrepo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1500000,
+      "precio": 1360200,
       "area": 39.0,
-      "precioM2": 38462,
-      "administracion": null,
+      "precioM2": 34877,
+      "administracion": 139800.0,
       "barrio": "MONTE CARLO",
       "upl": "Restrepo",
       "ciudad": "Bogotá",
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -328,39 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3000000,
-      "area": 180.0,
-      "precioM2": 16667,
-      "administracion": null,
-      "barrio": "RESTREPO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 6,
-      "banos": 4,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-restrepo-bogota/194238845",
-      "titulo": "Apartamento en Arriendo en Restrepo, Bogotá",
-      "id_domus": "194238845",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.5874808,
-      "lon": -74.1005408,
-      "location_type": "exacta",
-      "zonaConsulta": "RESTREPO",
-      "zonaSlug": "restrepo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +392,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-13",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1700000,
+      "area": 70.0,
+      "precioM2": 24286,
+      "administracion": null,
+      "barrio": "RESTREPO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-restrepo-bogota/194492344",
+      "titulo": "Apartamento en Arriendo en Restrepo, Bogotá",
+      "id_domus": "194492344",
+      "fechaPublicacion": "2026-11-02",
+      "lat": 4.5881461546221,
+      "lon": -74.09999370575,
+      "location_type": "exacta",
+      "zonaConsulta": "RESTREPO",
+      "zonaSlug": "restrepo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],

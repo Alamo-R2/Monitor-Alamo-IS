@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 8,
   "zona": "MONTES",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 21:25",
+  "generado": "2026.NOV.09 01:16",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1430000,
+      "area": 50.0,
+      "precioM2": 28600,
+      "administracion": null,
+      "barrio": "EL JAZMIN",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-jazmin-bogota/194516803",
+      "titulo": "Apartamento en Arriendo en El jazmin, Bogotá",
+      "id_domus": "194516803",
+      "fechaPublicacion": "2026-11-06",
+      "lat": 4.6127105,
+      "lon": -74.1141204,
+      "location_type": "exacta",
+      "zonaConsulta": "MONTES",
+      "zonaSlug": "montes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1800000,
       "area": 50.0,
       "precioM2": 36000,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1000000,
+      "area": 35.0,
+      "precioM2": 28571,
+      "administracion": null,
+      "barrio": "MONTES",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-villa-ines-bogota/194512663",
+      "titulo": "Apartamento en Arriendo en Villa ines, Bogotá",
+      "id_domus": "194512663",
+      "fechaPublicacion": "2026-11-06",
+      "lat": 4.6077909,
+      "lon": -74.114402,
+      "location_type": "exacta",
+      "zonaConsulta": "MONTES",
+      "zonaSlug": "montes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -146,7 +210,7 @@
       "area": 50.0,
       "precioM2": 36000,
       "administracion": null,
-      "barrio": "MONTES",
+      "barrio": "LA CAMELIA",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -156,8 +220,8 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-montes-bogota/194289403",
-      "titulo": "Apartamento en Arriendo en Montes, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-camelia-bogota/194289403",
+      "titulo": "Apartamento en Arriendo en La camelia, Bogotá",
       "id_domus": "194289403",
       "fechaPublicacion": "2026-09-21",
       "lat": 4.6107128,
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -194,38 +258,6 @@
       "fechaPublicacion": "2026-10-23",
       "lat": 4.6110187,
       "lon": -74.1165153,
-      "location_type": "exacta",
-      "zonaConsulta": "MONTES",
-      "zonaSlug": "montes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2000000,
-      "area": 72.0,
-      "precioM2": 27778,
-      "administracion": null,
-      "barrio": "MONTES",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-jazmin-bogota/194465966",
-      "titulo": "Apartamento en Arriendo en Jazmin, Bogotá",
-      "id_domus": "194465966",
-      "fechaPublicacion": "2026-10-27",
-      "lat": 4.611156,
-      "lon": -74.1143872,
       "location_type": "exacta",
       "zonaConsulta": "MONTES",
       "zonaSlug": "montes",

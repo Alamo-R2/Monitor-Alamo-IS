@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.01 21:25",
+  "generado": "2026.NOV.09 01:16",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 356000000,
+      "area": 65.0,
+      "precioM2": 5476923,
+      "administracion": 265000.0,
+      "barrio": "GRANJAS SAN PABLO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-granjas-san-pablo-bogota/193891487",
+      "titulo": "Apartamento en Venta en Granjas san pablo, Bogotá",
+      "id_domus": "193891487",
+      "fechaPublicacion": "2026-06-18",
+      "lat": 4.587743,
+      "lon": -74.121813,
+      "location_type": "exacta",
+      "zonaConsulta": "INGLES",
+      "zonaSlug": "ingles",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 355000000,
       "area": 67.0,
       "precioM2": 5298507,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,71 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 339000000,
-      "area": 69.0,
-      "precioM2": 4913043,
-      "administracion": 400000.0,
-      "barrio": "BRAVO PAEZ",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bravo-paez-bogota/193964858",
-      "titulo": "Apartamento en Venta en Bravo paez, Bogotá",
-      "id_domus": "193964858",
-      "fechaPublicacion": "2026-07-07",
-      "lat": 4.5877099,
-      "lon": -74.1218473,
-      "location_type": "exacta",
-      "zonaConsulta": "INGLES",
-      "zonaSlug": "ingles",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 355000000,
-      "area": 66.0,
-      "precioM2": 5378788,
-      "administracion": null,
-      "barrio": "INGLES",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ingles-bogota/194386199",
-      "titulo": "Apartamento en Venta en Ingles, Bogotá",
-      "id_domus": "194386199",
-      "fechaPublicacion": "2026-10-10",
-      "lat": 4.5834212598593,
-      "lon": -74.124327563382,
-      "location_type": "exacta",
-      "zonaConsulta": "INGLES",
-      "zonaSlug": "ingles",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,103 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 358345000,
-      "area": 55.0,
-      "precioM2": 6515364,
-      "administracion": null,
-      "barrio": "VILLA MAYOR",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-mayor-bogota/192774981",
-      "titulo": "Apartamento en Venta en Villa mayor, Bogotá",
-      "id_domus": "192774981",
-      "fechaPublicacion": "2025-08-21",
-      "lat": 4.5877727,
-      "lon": -74.1259044,
-      "location_type": "exacta",
-      "zonaConsulta": "INGLES",
-      "zonaSlug": "ingles",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 356000000,
-      "area": 65.0,
-      "precioM2": 5476923,
-      "administracion": 265000.0,
-      "barrio": "BRAVO PAEZ",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bravo-paez-bogota/194194245",
-      "titulo": "Apartamento en Venta en Bravo paez, Bogotá",
-      "id_domus": "194194245",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.587743,
-      "lon": -74.121813,
-      "location_type": "exacta",
-      "zonaConsulta": "INGLES",
-      "zonaSlug": "ingles",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 255000000,
-      "area": 46.0,
-      "precioM2": 5543478,
-      "administracion": null,
-      "barrio": "INGLES",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ingles-bogota/194419152",
-      "titulo": "Apartamento en Venta en Ingles, Bogotá",
-      "id_domus": "194419152",
-      "fechaPublicacion": "2026-10-17",
-      "lat": 4.583160848775,
-      "lon": -74.124600472275,
-      "location_type": "exacta",
-      "zonaConsulta": "INGLES",
-      "zonaSlug": "ingles",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +456,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-15",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 339000000,
+      "area": 69.0,
+      "precioM2": 4913043,
+      "administracion": 400000.0,
+      "barrio": "BRAVO PAEZ",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bravo-paez-bogota/193964858",
+      "titulo": "Apartamento en Venta en Bravo paez, Bogotá",
+      "id_domus": "193964858",
+      "fechaPublicacion": "2026-07-07",
+      "lat": 4.5877099,
+      "lon": -74.1218473,
+      "location_type": "exacta",
+      "zonaConsulta": "INGLES",
+      "zonaSlug": "ingles",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +578,102 @@
       "fechaPublicacion": "2024-11-26",
       "lat": 4.5820428,
       "lon": -74.1214956,
+      "location_type": "exacta",
+      "zonaConsulta": "INGLES",
+      "zonaSlug": "ingles",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 44.0,
+      "precioM2": 5454545,
+      "administracion": null,
+      "barrio": "INGLES",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ingles-bogota/194421162",
+      "titulo": "Apartamento en Venta en Ingles, Bogotá",
+      "id_domus": "194421162",
+      "fechaPublicacion": "2026-10-18",
+      "lat": 4.5830414257247,
+      "lon": -74.124565589441,
+      "location_type": "exacta",
+      "zonaConsulta": "INGLES",
+      "zonaSlug": "ingles",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 280000000,
+      "area": 53.0,
+      "precioM2": 5283019,
+      "administracion": 100000.0,
+      "barrio": "INGLES",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ingles-bogota/192179723",
+      "titulo": "Apartamento en  Venta en Ingles, Bogotá",
+      "id_domus": "192179723",
+      "fechaPublicacion": "2025-03-21",
+      "lat": 4.5820428,
+      "lon": -74.1214956,
+      "location_type": "exacta",
+      "zonaConsulta": "INGLES",
+      "zonaSlug": "ingles",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 380000000,
+      "area": 57.0,
+      "precioM2": 6666667,
+      "administracion": null,
+      "barrio": "INGLES",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ingles-bogota/194402653",
+      "titulo": "Apartamento en Venta en Ingles, Bogotá",
+      "id_domus": "194402653",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.5837887447027,
+      "lon": -74.124681308107,
       "location_type": "exacta",
       "zonaConsulta": "INGLES",
       "zonaSlug": "ingles",

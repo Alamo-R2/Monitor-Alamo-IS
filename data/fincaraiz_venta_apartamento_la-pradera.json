@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.03 17:27",
+  "generado": "2026.NOV.09 01:16",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 580000000,
-      "area": 90.0,
-      "precioM2": 6444444,
-      "administracion": 507000.0,
+      "precio": 270000000,
+      "area": 58.0,
+      "precioM2": 4655172,
+      "administracion": 263000.0,
       "barrio": "LA PRADERA",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194423021",
-      "titulo": "Apartamento en Venta en Américas Central, Bogotá",
-      "id_domus": "194423021",
-      "fechaPublicacion": "2026-10-19",
-      "lat": 4.6258569,
-      "lon": -74.124242,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-pradera-bogota/194493176",
+      "titulo": "Apartamento en Venta en La pradera, Bogotá",
+      "id_domus": "194493176",
+      "fechaPublicacion": "2026-11-02",
+      "lat": 4.6216425,
+      "lon": -74.1209848,
       "location_type": "exacta",
       "zonaConsulta": "LA PRADERA",
       "zonaSlug": "la-pradera",
@@ -78,38 +78,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 320000000,
-      "area": 38.0,
-      "precioM2": 8421053,
-      "administracion": 230000.0,
-      "barrio": "LA PRADERA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-comercial-outlet-factory-bogota/193487114",
-      "titulo": "Apartamento en Venta en Centro Comercial Outlet Factory, Bogotá",
-      "id_domus": "193487114",
-      "fechaPublicacion": "2026-03-10",
-      "lat": 4.6298744241047,
-      "lon": -74.121408053345,
-      "location_type": "exacta",
-      "zonaConsulta": "LA PRADERA",
-      "zonaSlug": "la-pradera",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 300000000,
       "area": 34.0,
       "precioM2": 8823529,
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -288,6 +256,38 @@
       "titulo": "Apartamento en Venta en Américas Central, Bogotá",
       "id_domus": "194385104",
       "fechaPublicacion": "2026-10-10",
+      "lat": 4.6258569,
+      "lon": -74.124242,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PRADERA",
+      "zonaSlug": "la-pradera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 580000000,
+      "area": 90.0,
+      "precioM2": 6444444,
+      "administracion": 507000.0,
+      "barrio": "LA PRADERA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194423021",
+      "titulo": "Apartamento en Venta en Américas Central, Bogotá",
+      "id_domus": "194423021",
+      "fechaPublicacion": "2026-10-19",
       "lat": 4.6258569,
       "lon": -74.124242,
       "location_type": "exacta",
@@ -334,26 +334,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 270000000,
-      "area": 58.0,
-      "precioM2": 4655172,
-      "administracion": 263000.0,
+      "precio": 550000000,
+      "area": 74.0,
+      "precioM2": 7432432,
+      "administracion": 426000.0,
       "barrio": "LA PRADERA",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": null,
+      "parqueaderos": 1.0,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-pradera-bogota/194493176",
-      "titulo": "Apartamento en Venta en La pradera, Bogotá",
-      "id_domus": "194493176",
-      "fechaPublicacion": "2026-11-02",
-      "lat": 4.6216425,
-      "lon": -74.1209848,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/191349711",
+      "titulo": "Apartamento en  Venta en Bogotá",
+      "id_domus": "191349711",
+      "fechaPublicacion": "2024-09-07",
+      "lat": 4.6260694,
+      "lon": -74.1238469,
       "location_type": "exacta",
       "zonaConsulta": "LA PRADERA",
       "zonaSlug": "la-pradera",
@@ -361,38 +361,6 @@
     },
     {
       "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 245000000,
-      "area": 38.0,
-      "precioM2": 6447368,
-      "administracion": 231000.0,
-      "barrio": "LA PRADERA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-comercial-outlet-factory-bogota/194417189",
-      "titulo": "Apartamento en Venta en Centro Comercial Outlet Factory, Bogotá",
-      "id_domus": "194417189",
-      "fechaPublicacion": "2026-10-17",
-      "lat": 4.6294813830235,
-      "lon": -74.121899305934,
-      "location_type": "exacta",
-      "zonaConsulta": "LA PRADERA",
-      "zonaSlug": "la-pradera",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,15 +456,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 270000000,
+      "precio": 300000000,
       "area": 51.0,
-      "precioM2": 5294118,
+      "precioM2": 5882353,
       "administracion": 380000.0,
       "barrio": "HIPOTECHO OCCIDENTAL",
       "upl": "Puente Aranda",
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -546,6 +514,38 @@
       "fechaPublicacion": "2026-08-13",
       "lat": 4.6299514,
       "lon": -74.1211515,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PRADERA",
+      "zonaSlug": "la-pradera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 320000000,
+      "area": 38.0,
+      "precioM2": 8421053,
+      "administracion": 230000.0,
+      "barrio": "LA PRADERA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-comercial-outlet-factory-bogota/193487114",
+      "titulo": "Apartamento en Venta en Centro Comercial Outlet Factory, Bogotá",
+      "id_domus": "193487114",
+      "fechaPublicacion": "2026-03-10",
+      "lat": 4.6298744241047,
+      "lon": -74.121408053345,
       "location_type": "exacta",
       "zonaConsulta": "LA PRADERA",
       "zonaSlug": "la-pradera",

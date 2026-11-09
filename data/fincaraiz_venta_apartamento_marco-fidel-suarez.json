@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 14,
+  "total": 13,
   "zona": "MARCO FIDEL SUAREZ",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.05 22:58",
+  "generado": "2026.NOV.09 01:16",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -47,6 +47,38 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 210000000,
+      "area": 46.0,
+      "precioM2": 4565217,
+      "administracion": 188000.0,
+      "barrio": "MARCO FIDEL SUAREZ",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tunal-bogota/194239037",
+      "titulo": "Apartamento en Venta en El Tunal, Bogotá",
+      "id_domus": "194239037",
+      "fechaPublicacion": "2026-09-10",
+      "lat": 4.5691699,
+      "lon": -74.1261023,
+      "location_type": "exacta",
+      "zonaConsulta": "MARCO FIDEL SUAREZ",
+      "zonaSlug": "marco-fidel-suarez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 210000000,
       "area": 49.0,
       "precioM2": 4285714,
       "administracion": 180000.0,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-10-30",
       "lat": 4.5680972,
       "lon": -74.1204119,
-      "location_type": "exacta",
-      "zonaConsulta": "MARCO FIDEL SUAREZ",
-      "zonaSlug": "marco-fidel-suarez",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 185000000,
-      "area": 49.0,
-      "precioM2": 3775510,
-      "administracion": 166700.0,
-      "barrio": "MARCO FIDEL SUAREZ",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-20-de-julio-bogota/194014764",
-      "titulo": "Apartamento en Venta en 20 de julio, Bogotá",
-      "id_domus": "194014764",
-      "fechaPublicacion": "2026-07-21",
-      "lat": 4.5653631,
-      "lon": -74.1155683,
       "location_type": "exacta",
       "zonaConsulta": "MARCO FIDEL SUAREZ",
       "zonaSlug": "marco-fidel-suarez",
@@ -366,38 +366,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 210000000,
-      "area": 46.0,
-      "precioM2": 4565217,
-      "administracion": 188000.0,
-      "barrio": "MARCO FIDEL SUAREZ",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tunal-bogota/194239037",
-      "titulo": "Apartamento en Venta en El Tunal, Bogotá",
-      "id_domus": "194239037",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.5691699,
-      "lon": -74.1261023,
-      "location_type": "exacta",
-      "zonaConsulta": "MARCO FIDEL SUAREZ",
-      "zonaSlug": "marco-fidel-suarez",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 220000000,
       "area": 49.0,
       "precioM2": 4489796,
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],

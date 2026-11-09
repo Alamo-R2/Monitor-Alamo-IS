@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 11,
   "zona": "GRANJAS SAN PABLO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.05 22:58",
+  "generado": "2026.NOV.09 01:16",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -238,6 +238,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 349000000,
+      "area": 60.0,
+      "precioM2": 5816667,
+      "administracion": 330000.0,
+      "barrio": "QUIROGA SUR",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quiroga-sur-bogota/194519735",
+      "titulo": "Apartamento en Venta en Quiroga sur, Bogotá",
+      "id_domus": "194519735",
+      "fechaPublicacion": "2026-11-07",
+      "lat": 4.5757502,
+      "lon": -74.1186826,
+      "location_type": "exacta",
+      "zonaConsulta": "GRANJAS SAN PABLO",
+      "zonaSlug": "granjas-san-pablo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 146000000,
       "area": 30.0,
       "precioM2": 4866667,
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
