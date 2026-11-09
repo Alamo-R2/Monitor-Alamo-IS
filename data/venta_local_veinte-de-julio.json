@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "local",
-  "generado": "2026.NOV.07 13:50",
+  "generado": "2026.NOV.09 17:19",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "local",
+      "tipoPortal": "Local Comercial",
+      "precio": 3100000000,
+      "area": 635.0,
+      "precioM2": 4881890,
+      "administracion": 0,
+      "barrio": "VEINTE DE JULIO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": null,
+      "banos": null,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-san-jose/10457-M6564494",
+      "titulo": "Local Comercial en Venta, VEINTE DE JULIO, Bogotá D.C.",
+      "id_domus": "10457-M6564494",
+      "fechaPublicacion": null,
+      "lat": 4.581021785736084,
+      "lon": -74.10204315185547,
+      "location_type": "exacta",
+      "zonaConsulta": "VEINTE DE JULIO",
+      "zonaSlug": "veinte-de-julio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": null,
       "lat": 4.567905902862549,
       "lon": -74.09846496582031,
-      "location_type": "exacta",
-      "zonaConsulta": "VEINTE DE JULIO",
-      "zonaSlug": "veinte-de-julio",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "local",
-      "tipoPortal": "Local Comercial",
-      "precio": 3100000000,
-      "area": 635.0,
-      "precioM2": 4881890,
-      "administracion": 0,
-      "barrio": "VEINTE DE JULIO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": null,
-      "banos": null,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "metrocuadrado",
-      "sourceLink": "https://www.metrocuadrado.com/inmueble/venta-local-comercial-bogota-san-jose/10457-M6564494",
-      "titulo": "Local Comercial en Venta, VEINTE DE JULIO, Bogotá D.C.",
-      "id_domus": "10457-M6564494",
-      "fechaPublicacion": null,
-      "lat": 4.581021785736084,
-      "lon": -74.10204315185547,
       "location_type": "exacta",
       "zonaConsulta": "VEINTE DE JULIO",
       "zonaSlug": "veinte-de-julio",
