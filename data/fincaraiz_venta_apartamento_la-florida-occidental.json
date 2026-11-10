@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.08 21:25",
+  "generado": "2026.NOV.10 22:36",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 590000000,
+      "area": 91.0,
+      "precioM2": 6483516,
+      "administracion": 330000.0,
+      "barrio": "CENTRO NARINO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-narino-bogota/193717306",
+      "titulo": "Apartamento en Venta en Centro narino, Bogotá",
+      "id_domus": "193717306",
+      "fechaPublicacion": "2026-05-06",
+      "lat": 4.6269626,
+      "lon": -74.0907904,
+      "location_type": "exacta",
+      "zonaConsulta": "LA FLORIDA OCCIDENTAL",
+      "zonaSlug": "la-florida-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 420000000,
       "area": 113.0,
       "precioM2": 3716814,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2025-10-24",
       "lat": 4.6257275,
       "lon": -74.0826228,
-      "location_type": "exacta",
-      "zonaConsulta": "LA FLORIDA OCCIDENTAL",
-      "zonaSlug": "la-florida-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 590000000,
-      "area": 91.0,
-      "precioM2": 6483516,
-      "administracion": 330000.0,
-      "barrio": "CENTRO NARINO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-narino-bogota/193717306",
-      "titulo": "Apartamento en Venta en Centro narino, Bogotá",
-      "id_domus": "193717306",
-      "fechaPublicacion": "2026-05-06",
-      "lat": 4.6269626,
-      "lon": -74.0907904,
       "location_type": "exacta",
       "zonaConsulta": "LA FLORIDA OCCIDENTAL",
       "zonaSlug": "la-florida-occidental",

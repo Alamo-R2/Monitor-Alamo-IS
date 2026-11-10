@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.10 07:51",
+  "generado": "2026.NOV.10 22:36",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 515000000,
-      "area": 105.0,
-      "precioM2": 4904762,
-      "administracion": 150000.0,
-      "barrio": "CAMPIN",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-campin-bogota/194400687",
-      "titulo": "Apartamento en Venta en Campin, Bogotá",
-      "id_domus": "194400687",
-      "fechaPublicacion": "2026-10-14",
-      "lat": 4.651788,
-      "lon": -74.0751845,
-      "location_type": "exacta",
-      "zonaConsulta": "QUINTA MUTIS",
-      "zonaSlug": "quinta-mutis",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-06-09",
       "lat": 4.6518975,
       "lon": -74.0760604,
+      "location_type": "exacta",
+      "zonaConsulta": "QUINTA MUTIS",
+      "zonaSlug": "quinta-mutis",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 515000000,
+      "area": 105.0,
+      "precioM2": 4904762,
+      "administracion": 150000.0,
+      "barrio": "CAMPIN",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-campin-bogota/194400687",
+      "titulo": "Apartamento en Venta en Campin, Bogotá",
+      "id_domus": "194400687",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.651788,
+      "lon": -74.0751845,
       "location_type": "exacta",
       "zonaConsulta": "QUINTA MUTIS",
       "zonaSlug": "quinta-mutis",

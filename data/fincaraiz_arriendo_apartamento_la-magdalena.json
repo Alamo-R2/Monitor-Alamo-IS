@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 10,
   "zona": "LA MAGDALENA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.08 16:24",
+  "generado": "2026.NOV.10 22:36",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2900000,
+      "area": 58.0,
+      "precioM2": 50000,
+      "administracion": null,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-teusaquillo-bogota/194066642",
+      "titulo": "Apartamento en Arriendo en Teusaquillo, Bogotá",
+      "id_domus": "194066642",
+      "fechaPublicacion": "2026-08-03",
+      "lat": 4.6254073488486,
+      "lon": -74.071810244699,
+      "location_type": "exacta",
+      "zonaConsulta": "LA MAGDALENA",
+      "zonaSlug": "la-magdalena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1500000,
       "area": 32.0,
       "precioM2": 46875,
@@ -72,39 +104,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 33.0,
-      "precioM2": 54545,
-      "administracion": null,
-      "barrio": "CHAPINERO CENTRAL",
+      "precio": 3400000,
+      "area": 64.0,
+      "precioM2": 53125,
+      "administracion": 420000.0,
+      "barrio": "SAGRADO CORAZON",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
+      "banos": 2,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-central-bogota/193896654",
-      "titulo": "Apartamento en Arriendo en Chapinero central, Bogotá",
-      "id_domus": "193896654",
-      "fechaPublicacion": "2026-06-19",
-      "lat": 4.62874,
-      "lon": -74.069416,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-sagrado-corazon-bogota/194527058",
+      "titulo": "Apartamento en Arriendo en Sagrado corazon, Bogotá",
+      "id_domus": "194527058",
+      "fechaPublicacion": "2026-11-09",
+      "lat": 4.6269200204997,
+      "lon": -74.06847996361,
       "location_type": "exacta",
       "zonaConsulta": "LA MAGDALENA",
       "zonaSlug": "la-magdalena",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -258,6 +290,38 @@
       "fechaPublicacion": "2026-09-18",
       "lat": 4.626908,
       "lon": -74.071032,
+      "location_type": "exacta",
+      "zonaConsulta": "LA MAGDALENA",
+      "zonaSlug": "la-magdalena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 33.0,
+      "precioM2": 54545,
+      "administracion": null,
+      "barrio": "CHAPINERO CENTRAL",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-central-bogota/193896654",
+      "titulo": "Apartamento en Arriendo en Chapinero central, Bogotá",
+      "id_domus": "193896654",
+      "fechaPublicacion": "2026-06-19",
+      "lat": 4.62874,
+      "lon": -74.069416,
       "location_type": "exacta",
       "zonaConsulta": "LA MAGDALENA",
       "zonaSlug": "la-magdalena",
