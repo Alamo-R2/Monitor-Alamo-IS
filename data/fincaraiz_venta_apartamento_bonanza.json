@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 13,
+  "total": 12,
   "zona": "BONANZA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.02 22:30",
+  "generado": "2026.NOV.10 07:51",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 430000000,
+      "area": 64.0,
+      "precioM2": 6718750,
+      "administracion": 365000.0,
+      "barrio": "BONANZA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-del-lago-bogota/194349995",
+      "titulo": "Apartamento en Venta en Santa Maria del Lago, Bogotá",
+      "id_domus": "194349995",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.6882285,
+      "lon": -74.0948737,
+      "location_type": "exacta",
+      "zonaConsulta": "BONANZA",
+      "zonaSlug": "bonanza",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -64,38 +96,6 @@
       "titulo": "Apartamento en Venta en Engativá, Bogotá",
       "id_domus": "194416232",
       "fechaPublicacion": "2026-10-16",
-      "lat": 4.6882285,
-      "lon": -74.0948737,
-      "location_type": "exacta",
-      "zonaConsulta": "BONANZA",
-      "zonaSlug": "bonanza",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 670000000,
-      "area": 94.0,
-      "precioM2": 7127660,
-      "administracion": 570000.0,
-      "barrio": "BONANZA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194428561",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194428561",
-      "fechaPublicacion": "2026-10-20",
       "lat": 4.6882285,
       "lon": -74.0948737,
       "location_type": "exacta",
@@ -270,9 +270,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 350000000,
+      "precio": 330000000,
       "area": 55.0,
-      "precioM2": 6363636,
+      "precioM2": 6000000,
       "administracion": 290000.0,
       "barrio": "BONANZA",
       "upl": "Tabora",
@@ -297,38 +297,6 @@
     },
     {
       "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 430000000,
-      "area": 64.0,
-      "precioM2": 6718750,
-      "administracion": 365000.0,
-      "barrio": "BONANZA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-del-lago-bogota/194349995",
-      "titulo": "Apartamento en Venta en Santa Maria del Lago, Bogotá",
-      "id_domus": "194349995",
-      "fechaPublicacion": "2026-10-02",
-      "lat": 4.6882285,
-      "lon": -74.0948737,
-      "location_type": "exacta",
-      "zonaConsulta": "BONANZA",
-      "zonaSlug": "bonanza",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 14,
+  "total": 15,
   "zona": "FLORENCIA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.02 22:30",
+  "generado": "2026.NOV.10 07:51",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1600000,
-      "area": 54.0,
-      "precioM2": 29630,
-      "administracion": null,
+      "precio": 1800000,
+      "area": 67.0,
+      "precioM2": 26866,
+      "administracion": 212900.0,
       "barrio": "FLORENCIA",
       "upl": "Tabora",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 1,
+      "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/194490136",
-      "titulo": "Apartamento en Arriendo en Bogotá",
-      "id_domus": "194490136",
-      "fechaPublicacion": "2026-11-01",
-      "lat": 4.6951142,
-      "lon": -74.1057765,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194521282",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194521282",
+      "fechaPublicacion": "2026-11-08",
+      "lat": 4.7005513,
+      "lon": -74.1091685,
       "location_type": "exacta",
       "zonaConsulta": "FLORENCIA",
       "zonaSlug": "florencia",
@@ -142,6 +142,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1700000,
+      "area": 60.0,
+      "precioM2": 28333,
+      "administracion": null,
+      "barrio": "FLORENCIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-boyaca-real-bogota/194510596",
+      "titulo": "Apartamento en Arriendo en Boyaca Real, Bogotá",
+      "id_domus": "194510596",
+      "fechaPublicacion": "2026-11-05",
+      "lat": 4.6997411,
+      "lon": -74.1040188,
+      "location_type": "exacta",
+      "zonaConsulta": "FLORENCIA",
+      "zonaSlug": "florencia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2300000,
       "area": 63.0,
       "precioM2": 36508,
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1900000,
+      "area": 65.0,
+      "precioM2": 29231,
+      "administracion": null,
+      "barrio": "FLORENCIA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-zarzamora-bogota/194516669",
+      "titulo": "Apartamento en Arriendo en Zarzamora, Bogotá",
+      "id_domus": "194516669",
+      "fechaPublicacion": "2026-11-06",
+      "lat": 4.6972801,
+      "lon": -74.1080112,
+      "location_type": "exacta",
+      "zonaConsulta": "FLORENCIA",
+      "zonaSlug": "florencia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -328,39 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1600000,
-      "area": 50.0,
-      "precioM2": 32000,
-      "administracion": null,
-      "barrio": "FLORENCIA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-rosita-bogota/193908883",
-      "titulo": "Apartamento en Arriendo en Santa Rosita, Bogotá",
-      "id_domus": "193908883",
-      "fechaPublicacion": "2026-06-23",
-      "lat": 4.702801,
-      "lon": -74.108385,
-      "location_type": "exacta",
-      "zonaConsulta": "FLORENCIA",
-      "zonaSlug": "florencia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],

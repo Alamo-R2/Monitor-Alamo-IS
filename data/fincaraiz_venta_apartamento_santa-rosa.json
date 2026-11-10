@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.08 06:50",
+  "generado": "2026.NOV.10 07:51",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -24,7 +24,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -56,7 +56,7 @@
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -88,7 +88,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -120,7 +120,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -142,6 +142,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 650000000,
+      "area": 110.0,
+      "precioM2": 5909091,
+      "administracion": 300000.0,
+      "barrio": "SANTA ROSA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pontevedra-bogota/194383088",
+      "titulo": "Apartamento en Venta en Pontevedra, Bogotá",
+      "id_domus": "194383088",
+      "fechaPublicacion": "2026-10-09",
+      "lat": 4.6995684,
+      "lon": -74.0772605,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA ROSA",
+      "zonaSlug": "santa-rosa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 779000000,
       "area": 91.0,
       "precioM2": 8560440,
@@ -152,7 +184,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -184,7 +216,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -216,7 +248,7 @@
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -248,7 +280,7 @@
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -280,7 +312,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -296,7 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 598000000,
+      "area": 110.0,
+      "precioM2": 5436364,
+      "administracion": 300000.0,
+      "barrio": "SANTA ROSA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pontevedra-bogota/194527643",
+      "titulo": "Apartamento en Venta en Pontevedra, Bogotá",
+      "id_domus": "194527643",
+      "fechaPublicacion": "2026-11-09",
+      "lat": 4.6997278,
+      "lon": -74.0770041,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA ROSA",
+      "zonaSlug": "santa-rosa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -312,7 +376,7 @@
       "direccion": "",
       "habitaciones": 5,
       "banos": 3,
-      "parqueaderos": 5,
+      "parqueaderos": 5.0,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -344,7 +408,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -376,7 +440,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -392,39 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000000,
-      "area": 200.0,
-      "precioM2": 6000000,
-      "administracion": 700000.0,
-      "barrio": "SANTA ROSA",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 2,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pontevedra-bogota/194204813",
-      "titulo": "Apartamento en Venta en Pontevedra, Bogotá",
-      "id_domus": "194204813",
-      "fechaPublicacion": "2026-09-03",
-      "lat": 4.6949101,
-      "lon": -74.0820942,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA ROSA",
-      "zonaSlug": "santa-rosa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -440,7 +472,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -450,38 +482,6 @@
       "fechaPublicacion": "2026-06-15",
       "lat": 4.6954144,
       "lon": -74.0786895,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA ROSA",
-      "zonaSlug": "santa-rosa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 650000000,
-      "area": 110.0,
-      "precioM2": 5909091,
-      "administracion": 300000.0,
-      "barrio": "SANTA ROSA",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pontevedra-bogota/194383088",
-      "titulo": "Apartamento en Venta en Pontevedra, Bogotá",
-      "id_domus": "194383088",
-      "fechaPublicacion": "2026-10-09",
-      "lat": 4.6995684,
-      "lon": -74.0772605,
       "location_type": "exacta",
       "zonaConsulta": "SANTA ROSA",
       "zonaSlug": "santa-rosa",
@@ -504,7 +504,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -536,7 +536,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -568,7 +568,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -600,7 +600,7 @@
       "direccion": "",
       "habitaciones": 3,
       "banos": 3,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -632,7 +632,7 @@
       "direccion": "",
       "habitaciones": 1,
       "banos": 2,
-      "parqueaderos": 1,
+      "parqueaderos": 1.0,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
@@ -664,7 +664,7 @@
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
-      "parqueaderos": 2,
+      "parqueaderos": 2.0,
       "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",

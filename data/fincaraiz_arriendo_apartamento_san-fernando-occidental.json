@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 7,
   "zona": "SAN FERNANDO OCCIDENTAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.02 22:30",
+  "generado": "2026.NOV.10 07:51",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -50,7 +50,7 @@
       "area": 69.0,
       "precioM2": 47826,
       "administracion": null,
-      "barrio": "SAN FERNANDO OCCIDENTAL",
+      "barrio": "SAN FERNANDO",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -60,8 +60,8 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194481783",
-      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-fernando-bogota/194481783",
+      "titulo": "Apartamento en Arriendo en San fernando, Bogotá",
       "id_domus": "194481783",
       "fechaPublicacion": "2026-10-29",
       "lat": 4.6771529531661,
@@ -73,38 +73,6 @@
     },
     {
       "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2350000,
-      "area": 62.0,
-      "precioM2": 37903,
-      "administracion": null,
-      "barrio": "METROPOLIS",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-metropolis-bogota/194372166",
-      "titulo": "Apartamento en Arriendo en Metropolis, Bogotá",
-      "id_domus": "194372166",
-      "fechaPublicacion": "2026-10-07",
-      "lat": 4.6775956,
-      "lon": -74.0819695,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN FERNANDO OCCIDENTAL",
-      "zonaSlug": "san-fernando-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +104,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 69.0,
+      "precioM2": 26087,
+      "administracion": null,
+      "barrio": "SAN FERNANDO OCCIDENTAL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-fernando-occidental-bogota/194511015",
+      "titulo": "Apartamento en Arriendo en San fernando occidental, Bogotá",
+      "id_domus": "194511015",
+      "fechaPublicacion": "2026-11-05",
+      "lat": 4.6745684,
+      "lon": -74.0789141,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FERNANDO OCCIDENTAL",
+      "zonaSlug": "san-fernando-occidental",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 105.0,
+      "precioM2": 19048,
+      "administracion": null,
+      "barrio": "SAN FERNANDO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-fernando-bogota/194508873",
+      "titulo": "Apartamento en Arriendo en San fernando, Bogotá",
+      "id_domus": "194508873",
+      "fechaPublicacion": "2026-11-05",
+      "lat": 4.6716044,
+      "lon": -74.0804257,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FERNANDO OCCIDENTAL",
+      "zonaSlug": "san-fernando-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],

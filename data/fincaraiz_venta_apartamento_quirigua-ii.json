@@ -1,78 +1,14 @@
 {
   "ok": true,
-  "total": 16,
+  "total": 14,
   "zona": "QUIRIGUA II",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.02 22:30",
+  "generado": "2026.NOV.10 07:51",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 64.0,
-      "precioM2": 5156250,
-      "administracion": 250000.0,
-      "barrio": "VILLAS DE GRANADA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villas-de-granada-bogota/194236883",
-      "titulo": "Apartamento en Venta en Villas de Granada, Bogotá",
-      "id_domus": "194236883",
-      "fechaPublicacion": "2026-09-10",
-      "lat": 4.7072598,
-      "lon": -74.1094635,
-      "location_type": "exacta",
-      "zonaConsulta": "QUIRIGUA II",
-      "zonaSlug": "quirigua-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 260000000,
-      "area": 50.0,
-      "precioM2": 5200000,
-      "administracion": 156000.0,
-      "barrio": "GRAN GRANADA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194471879",
-      "titulo": "Apartamento en Venta en Gran granada, Bogotá",
-      "id_domus": "194471879",
-      "fechaPublicacion": "2026-10-28",
-      "lat": 4.7072598,
-      "lon": -74.1094635,
-      "location_type": "exacta",
-      "zonaConsulta": "QUIRIGUA II",
-      "zonaSlug": "quirigua-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -104,15 +40,79 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 330000000,
+      "area": 64.0,
+      "precioM2": 5156250,
+      "administracion": 250000.0,
+      "barrio": "VILLAS DE GRANADA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villas-de-granada-bogota/194236883",
+      "titulo": "Apartamento en Venta en Villas de Granada, Bogotá",
+      "id_domus": "194236883",
+      "fechaPublicacion": "2026-09-10",
+      "lat": 4.7072598,
+      "lon": -74.1094635,
+      "location_type": "exacta",
+      "zonaConsulta": "QUIRIGUA II",
+      "zonaSlug": "quirigua-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 260000000,
+      "area": 50.0,
+      "precioM2": 5200000,
+      "administracion": 156000.0,
+      "barrio": "GRAN GRANADA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-gran-granada-bogota/194471879",
+      "titulo": "Apartamento en Venta en Gran granada, Bogotá",
+      "id_domus": "194471879",
+      "fechaPublicacion": "2026-10-28",
+      "lat": 4.7072598,
+      "lon": -74.1094635,
+      "location_type": "exacta",
+      "zonaConsulta": "QUIRIGUA II",
+      "zonaSlug": "quirigua-ii",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-4",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 300000000,
+      "precio": 310000000,
       "area": 63.0,
-      "precioM2": 4761905,
+      "precioM2": 4920635,
       "administracion": 400000.0,
       "barrio": "QUIRIGUA II",
       "upl": "Tabora",
@@ -270,38 +270,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 369600000,
-      "area": 66.0,
-      "precioM2": 5600000,
-      "administracion": 288000.0,
-      "barrio": "QUIRIGUA II",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194337373",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194337373",
-      "fechaPublicacion": "2026-09-30",
-      "lat": 4.7072598,
-      "lon": -74.1094635,
-      "location_type": "exacta",
-      "zonaConsulta": "QUIRIGUA II",
-      "zonaSlug": "quirigua-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 350000000,
       "area": 61.0,
       "precioM2": 5737705,
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -360,39 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 740000000,
-      "area": 120.0,
-      "precioM2": 6166667,
-      "administracion": 500000.0,
-      "barrio": "NORMANDIA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-normandia-bogota/194192472",
-      "titulo": "Apartamento en Venta en Normandia, Bogotá",
-      "id_domus": "194192472",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.7072598,
-      "lon": -74.1094635,
-      "location_type": "exacta",
-      "zonaConsulta": "QUIRIGUA II",
-      "zonaSlug": "quirigua-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],

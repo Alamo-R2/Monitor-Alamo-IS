@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.06 16:59",
+  "generado": "2026.NOV.10 07:51",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 210000000,
+      "area": 47.0,
+      "precioM2": 4468085,
+      "administracion": 133000.0,
+      "barrio": "VILLA GLADYS",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-gladys-bogota/193923972",
+      "titulo": "Apartamento en Venta en Villa gladys, Bogotá",
+      "id_domus": "193923972",
+      "fechaPublicacion": "2026-06-26",
+      "lat": 4.7072598,
+      "lon": -74.1094635,
+      "location_type": "exacta",
+      "zonaConsulta": "EL MADRIGAL",
+      "zonaSlug": "el-madrigal",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -64,38 +96,6 @@
       "titulo": "Apartamento en Venta en Gran granada, Bogotá",
       "id_domus": "194471879",
       "fechaPublicacion": "2026-10-28",
-      "lat": 4.7072598,
-      "lon": -74.1094635,
-      "location_type": "exacta",
-      "zonaConsulta": "EL MADRIGAL",
-      "zonaSlug": "el-madrigal",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 210000000,
-      "area": 47.0,
-      "precioM2": 4468085,
-      "administracion": 133000.0,
-      "barrio": "VILLA GLADYS",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-gladys-bogota/193923972",
-      "titulo": "Apartamento en Venta en Villa gladys, Bogotá",
-      "id_domus": "193923972",
-      "fechaPublicacion": "2026-06-26",
       "lat": 4.7072598,
       "lon": -74.1094635,
       "location_type": "exacta",
