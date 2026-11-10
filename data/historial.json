@@ -1,148 +1,5 @@
 [
   {
-    "grupo": "diario",
-    "generado": "2026.SEP.15 13:58",
-    "iso": "2026-09-15T13:58:17",
-    "total": 957,
-    "segundos_total": 197.5,
-    "datasets": [
-      {
-        "clave": "venta_apartamento_centro-historico",
-        "total": 7,
-        "segundos": 10.1
-      },
-      {
-        "clave": "arriendo_apartamento_centro-historico",
-        "total": 4,
-        "segundos": 8.8
-      },
-      {
-        "clave": "venta_apartamento_teusaquillo",
-        "total": 50,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_apartamento_teusaquillo",
-        "total": 53,
-        "segundos": 8.8
-      },
-      {
-        "clave": "venta_apartamento_puente-aranda",
-        "total": 51,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_apartamento_puente-aranda",
-        "total": 50,
-        "segundos": 9.1
-      },
-      {
-        "clave": "venta_apartamento_barrios-unidos",
-        "total": 37,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_apartamento_barrios-unidos",
-        "total": 31,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_apartamento_chapinero",
-        "total": 54,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_apartamento_chapinero",
-        "total": 63,
-        "segundos": 8.8
-      },
-      {
-        "clave": "venta_apartamento_britalia",
-        "total": 51,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_apartamento_britalia",
-        "total": 9,
-        "segundos": 8.8
-      },
-      {
-        "clave": "venta_apartamento_toberin",
-        "total": 50,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_apartamento_toberin",
-        "total": 35,
-        "segundos": 8.8
-      },
-      {
-        "clave": "venta_apartamento_usaquen",
-        "total": 57,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_apartamento_usaquen",
-        "total": 52,
-        "segundos": 9.0
-      },
-      {
-        "clave": "venta_apartamento_niza",
-        "total": 53,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_apartamento_niza",
-        "total": 51,
-        "segundos": 9.2
-      },
-      {
-        "clave": "venta_apartamento_fontibon",
-        "total": 54,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_apartamento_fontibon",
-        "total": 51,
-        "segundos": 9.0
-      },
-      {
-        "clave": "venta_apartamento_engativa",
-        "total": 50,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_apartamento_engativa",
-        "total": 44,
-        "segundos": 9.1
-      }
-    ],
-    "variaciones": {
-      "venta_apartamento_centro-historico": 0,
-      "arriendo_apartamento_centro-historico": 0,
-      "venta_apartamento_teusaquillo": -1,
-      "arriendo_apartamento_teusaquillo": 0,
-      "venta_apartamento_puente-aranda": 0,
-      "arriendo_apartamento_puente-aranda": 0,
-      "venta_apartamento_barrios-unidos": -1,
-      "arriendo_apartamento_barrios-unidos": 1,
-      "venta_apartamento_chapinero": -2,
-      "arriendo_apartamento_chapinero": -2,
-      "venta_apartamento_britalia": 0,
-      "arriendo_apartamento_britalia": 0,
-      "venta_apartamento_toberin": 0,
-      "arriendo_apartamento_toberin": 1,
-      "venta_apartamento_usaquen": 1,
-      "arriendo_apartamento_usaquen": -1,
-      "venta_apartamento_niza": -1,
-      "arriendo_apartamento_niza": 0,
-      "venta_apartamento_fontibon": 2,
-      "arriendo_apartamento_fontibon": 0,
-      "venta_apartamento_engativa": 0,
-      "arriendo_apartamento_engativa": -2
-    }
-  },
-  {
     "grupo": "cada5",
     "generado": "2026.SEP.15 14:38",
     "iso": "2026-09-15T14:38:19",
@@ -324972,6 +324829,416 @@
         "clave": "ciencuadras_arriendo_apartamento_florida",
         "total": 0,
         "segundos": 4.0
+      }
+    ],
+    "variaciones": {}
+  },
+  {
+    "grupo": "barrios",
+    "generado": "2026.NOV.10 15:29",
+    "iso": "2026-11-10T15:29:34",
+    "total": 805,
+    "segundos_total": 399.5,
+    "datasets": [
+      {
+        "clave": "venta_oficina_altos-del-zuque",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_oficina_altos-del-zuque",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_bodega_altos-del-zuque",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "arriendo_bodega_altos-del-zuque",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_edificio_altos-del-zuque",
+        "total": 50,
+        "segundos": 6.8
+      },
+      {
+        "clave": "arriendo_edificio_altos-del-zuque",
+        "total": 50,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_local_altos-del-zuque",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "arriendo_local_altos-del-zuque",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "venta_lote_altos-del-zuque",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_lote_altos-del-zuque",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_oficina_atenas",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "arriendo_oficina_atenas",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_bodega_atenas",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_bodega_atenas",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_edificio_atenas",
+        "total": 50,
+        "segundos": 6.8
+      },
+      {
+        "clave": "arriendo_edificio_atenas",
+        "total": 50,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_local_atenas",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "arriendo_local_atenas",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "venta_lote_atenas",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_lote_atenas",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_oficina_bellavista-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_oficina_bellavista-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_bodega_bellavista-sur",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_bodega_bellavista-sur",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "venta_edificio_bellavista-sur",
+        "total": 50,
+        "segundos": 6.8
+      },
+      {
+        "clave": "arriendo_edificio_bellavista-sur",
+        "total": 50,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_local_bellavista-sur",
+        "total": 0,
+        "segundos": 4.2
+      },
+      {
+        "clave": "arriendo_local_bellavista-sur",
+        "total": 0,
+        "segundos": 4.1
+      },
+      {
+        "clave": "venta_lote_bellavista-sur",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "arriendo_lote_bellavista-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_oficina_bello-horizonte",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_oficina_bello-horizonte",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_bodega_bello-horizonte",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "arriendo_bodega_bello-horizonte",
+        "total": 0,
+        "segundos": 4.2
+      },
+      {
+        "clave": "venta_edificio_bello-horizonte",
+        "total": 50,
+        "segundos": 6.8
+      },
+      {
+        "clave": "arriendo_edificio_bello-horizonte",
+        "total": 48,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_local_bello-horizonte",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "arriendo_local_bello-horizonte",
+        "total": 0,
+        "segundos": 4.2
+      },
+      {
+        "clave": "venta_lote_bello-horizonte",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_lote_bello-horizonte",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "venta_oficina_bosque-de-los-alpes",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "arriendo_oficina_bosque-de-los-alpes",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_bodega_bosque-de-los-alpes",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "arriendo_bodega_bosque-de-los-alpes",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "venta_edificio_bosque-de-los-alpes",
+        "total": 50,
+        "segundos": 6.8
+      },
+      {
+        "clave": "arriendo_edificio_bosque-de-los-alpes",
+        "total": 50,
+        "segundos": 6.9
+      },
+      {
+        "clave": "venta_local_bosque-de-los-alpes",
+        "total": 0,
+        "segundos": 4.1
+      },
+      {
+        "clave": "arriendo_local_bosque-de-los-alpes",
+        "total": 0,
+        "segundos": 4.2
+      },
+      {
+        "clave": "venta_lote_bosque-de-los-alpes",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "arriendo_lote_bosque-de-los-alpes",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "venta_oficina_buenos-aires",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_oficina_buenos-aires",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_bodega_buenos-aires",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_bodega_buenos-aires",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_edificio_buenos-aires",
+        "total": 49,
+        "segundos": 6.7
+      },
+      {
+        "clave": "arriendo_edificio_buenos-aires",
+        "total": 50,
+        "segundos": 6.7
+      },
+      {
+        "clave": "venta_local_buenos-aires",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "arriendo_local_buenos-aires",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_lote_buenos-aires",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_lote_buenos-aires",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_oficina_calvo-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_oficina_calvo-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_bodega_calvo-sur",
+        "total": 0,
+        "segundos": 4.2
+      },
+      {
+        "clave": "arriendo_bodega_calvo-sur",
+        "total": 5,
+        "segundos": 6.7
+      },
+      {
+        "clave": "venta_edificio_calvo-sur",
+        "total": 50,
+        "segundos": 6.8
+      },
+      {
+        "clave": "arriendo_edificio_calvo-sur",
+        "total": 50,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_local_calvo-sur",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "arriendo_local_calvo-sur",
+        "total": 3,
+        "segundos": 6.9
+      },
+      {
+        "clave": "venta_lote_calvo-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_lote_calvo-sur",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "venta_oficina_chiguaza-urbano",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_oficina_chiguaza-urbano",
+        "total": 0,
+        "segundos": 5.1
+      },
+      {
+        "clave": "venta_bodega_chiguaza-urbano",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "arriendo_bodega_chiguaza-urbano",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_edificio_chiguaza-urbano",
+        "total": 50,
+        "segundos": 6.8
+      },
+      {
+        "clave": "arriendo_edificio_chiguaza-urbano",
+        "total": 50,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_local_chiguaza-urbano",
+        "total": 0,
+        "segundos": 4.2
+      },
+      {
+        "clave": "arriendo_local_chiguaza-urbano",
+        "total": 0,
+        "segundos": 4.2
+      },
+      {
+        "clave": "venta_lote_chiguaza-urbano",
+        "total": 0,
+        "segundos": 5.7
+      },
+      {
+        "clave": "arriendo_lote_chiguaza-urbano",
+        "total": 0,
+        "segundos": 4.4
       }
     ],
     "variaciones": {}
