@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "Tabora",
   "origen": "upl",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.OCT.31 16:00",
+  "generado": "2026.NOV.11 18:32",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4415000,
+      "area": 78.0,
+      "precioM2": 56603,
+      "administracion": 1885000,
+      "barrio": "TABORA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 2,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "metrocuadrado",
+      "sourceLink": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-rosales-2-habitaciones-2-banos-2-garajes/2671-M7144956",
+      "titulo": "Apartamento en Arriendo, Rosales, Bogotá D.C.",
+      "id_domus": "2671-M7144956",
+      "fechaPublicacion": null,
+      "lat": 4.69203,
+      "lon": -74.09806,
+      "location_type": "exacta",
+      "zonaConsulta": "Tabora",
+      "zonaSlug": "tabora",
+      "origenZona": "upl"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "upl"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "upl"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
