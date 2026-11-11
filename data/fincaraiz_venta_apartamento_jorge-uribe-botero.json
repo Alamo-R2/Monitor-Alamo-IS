@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 11,
   "zona": "JORGE URIBE BOTERO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.03 22:38",
+  "generado": "2026.NOV.11 17:30",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 290000000,
+      "area": 52.0,
+      "precioM2": 5576923,
+      "administracion": null,
+      "barrio": "JORGE URIBE BOTERO",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-chicala-bogota/194506257",
+      "titulo": "Apartamento en Venta en Bosa Chicala, Bogotá",
+      "id_domus": "194506257",
+      "fechaPublicacion": "2026-11-04",
+      "lat": 4.6249333,
+      "lon": -74.1806888,
+      "location_type": "exacta",
+      "zonaConsulta": "JORGE URIBE BOTERO",
+      "zonaSlug": "jorge-uribe-botero",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 194000000,
       "area": 50.0,
       "precioM2": 3880000,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-10-19",
       "lat": 4.6214804479068,
       "lon": -74.181083442328,
-      "location_type": "exacta",
-      "zonaConsulta": "JORGE URIBE BOTERO",
-      "zonaSlug": "jorge-uribe-botero",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 185000000,
-      "area": 48.0,
-      "precioM2": 3854167,
-      "administracion": 121600.0,
-      "barrio": "JORGE URIBE BOTERO",
-      "upl": "Edén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-danubio-azul-bogota/193610721",
-      "titulo": "Apartamento en Venta en Danubio azul, Bogotá",
-      "id_domus": "193610721",
-      "fechaPublicacion": "2026-04-09",
-      "lat": 4.6215138,
-      "lon": -74.1811734,
       "location_type": "exacta",
       "zonaConsulta": "JORGE URIBE BOTERO",
       "zonaSlug": "jorge-uribe-botero",
@@ -320,6 +320,38 @@
       "titulo": "Apartamento en Venta en Bosa, Bogotá",
       "id_domus": "193905456",
       "fechaPublicacion": "2026-06-22",
+      "lat": 4.6215138,
+      "lon": -74.1811734,
+      "location_type": "exacta",
+      "zonaConsulta": "JORGE URIBE BOTERO",
+      "zonaSlug": "jorge-uribe-botero",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 185000000,
+      "area": 48.0,
+      "precioM2": 3854167,
+      "administracion": 121600.0,
+      "barrio": "JORGE URIBE BOTERO",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-danubio-azul-bogota/193610721",
+      "titulo": "Apartamento en Venta en Danubio azul, Bogotá",
+      "id_domus": "193610721",
+      "fechaPublicacion": "2026-04-09",
       "lat": 4.6215138,
       "lon": -74.1811734,
       "location_type": "exacta",

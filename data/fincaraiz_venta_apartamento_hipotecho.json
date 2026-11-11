@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.07 06:40",
+  "generado": "2026.NOV.11 17:30",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 490000000,
-      "area": 120.0,
-      "precioM2": 4083333,
-      "administracion": null,
-      "barrio": "LAS AMERICAS",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-americas-bogota/194387173",
-      "titulo": "Apartamento en Venta en Las americas, Bogotá",
-      "id_domus": "194387173",
-      "fechaPublicacion": "2026-10-10",
-      "lat": 4.6278189,
-      "lon": -74.1344153,
-      "location_type": "exacta",
-      "zonaConsulta": "HIPOTECHO",
-      "zonaSlug": "hipotecho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-09-05",
       "lat": 4.6268339,
       "lon": -74.1313365,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO",
+      "zonaSlug": "hipotecho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 490000000,
+      "area": 120.0,
+      "precioM2": 4083333,
+      "administracion": null,
+      "barrio": "LAS AMERICAS",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-americas-bogota/194387173",
+      "titulo": "Apartamento en Venta en Las americas, Bogotá",
+      "id_domus": "194387173",
+      "fechaPublicacion": "2026-10-10",
+      "lat": 4.6278189,
+      "lon": -74.1344153,
       "location_type": "exacta",
       "zonaConsulta": "HIPOTECHO",
       "zonaSlug": "hipotecho",
@@ -142,70 +142,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 265000000,
-      "area": 42.0,
-      "precioM2": 6309524,
-      "administracion": 145000000.0,
-      "barrio": "HIPOTECHO",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-alsacia-bogota/194366083",
-      "titulo": "Apartamento en Venta en Ciudad alsacia, Bogotá",
-      "id_domus": "194366083",
-      "fechaPublicacion": "2026-10-06",
-      "lat": 4.630387,
-      "lon": -74.1376756,
-      "location_type": "exacta",
-      "zonaConsulta": "HIPOTECHO",
-      "zonaSlug": "hipotecho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 355000000,
-      "area": 63.0,
-      "precioM2": 5634921,
-      "administracion": 290000000.0,
-      "barrio": "HIPOTECHO",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nueva-castilla-bogota/194442356",
-      "titulo": "Apartamento en Venta en Nueva Castilla, Bogotá",
-      "id_domus": "194442356",
-      "fechaPublicacion": "2026-10-22",
-      "lat": 4.630387,
-      "lon": -74.1376756,
-      "location_type": "exacta",
-      "zonaConsulta": "HIPOTECHO",
-      "zonaSlug": "hipotecho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 330000000,
       "area": 56.0,
       "precioM2": 5892857,
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -360,39 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 550000000,
-      "area": 77.0,
-      "precioM2": 7142857,
-      "administracion": null,
-      "barrio": "HIPOTECHO",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-hipotecho-bogota/192294703",
-      "titulo": "Apartamento en Venta en Hipotecho, Bogotá",
-      "id_domus": "192294703",
-      "fechaPublicacion": "2025-04-22",
-      "lat": 4.6227848,
-      "lon": -74.1307461,
-      "location_type": "exacta",
-      "zonaConsulta": "HIPOTECHO",
-      "zonaSlug": "hipotecho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -456,39 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 490000000,
-      "area": 64.0,
-      "precioM2": 7656250,
-      "administracion": null,
-      "barrio": "HIPOTECHO",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-hipotecho-bogota/192170092",
-      "titulo": "Apartamento en Venta en Hipotecho, Bogotá",
-      "id_domus": "192170092",
-      "fechaPublicacion": "2025-03-19",
-      "lat": 4.6207142,
-      "lon": -74.1310374,
-      "location_type": "exacta",
-      "zonaConsulta": "HIPOTECHO",
-      "zonaSlug": "hipotecho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -672,6 +544,134 @@
       "titulo": "Apartamento en Venta en Nueva Castilla, Bogotá",
       "id_domus": "194485762",
       "fechaPublicacion": "2026-10-30",
+      "lat": 4.630387,
+      "lon": -74.1376756,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO",
+      "zonaSlug": "hipotecho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 281000000,
+      "area": 47.0,
+      "precioM2": 5978723,
+      "administracion": 139600.0,
+      "barrio": "HIPOTECHO",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nueva-castilla-bogota/194343993",
+      "titulo": "Apartamento en Venta en Nueva Castilla, Bogotá",
+      "id_domus": "194343993",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.630387,
+      "lon": -74.1376756,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO",
+      "zonaSlug": "hipotecho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 385000000,
+      "area": 51.0,
+      "precioM2": 7549020,
+      "administracion": 274000.0,
+      "barrio": "TECHO",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-techo-bogota/194311712",
+      "titulo": "Apartamento en Venta en Techo, Bogotá",
+      "id_domus": "194311712",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.6256266,
+      "lon": -74.1366217,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO",
+      "zonaSlug": "hipotecho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 150000000,
+      "area": 34.0,
+      "precioM2": 4411765,
+      "administracion": 90711.0,
+      "barrio": "HIPOTECHO",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-bogota/193866207",
+      "titulo": "Apartamento en Venta en Kennedy, Bogotá",
+      "id_domus": "193866207",
+      "fechaPublicacion": "2026-06-11",
+      "lat": 4.630387,
+      "lon": -74.1376756,
+      "location_type": "exacta",
+      "zonaConsulta": "HIPOTECHO",
+      "zonaSlug": "hipotecho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 221000000,
+      "area": 40.0,
+      "precioM2": 5525000,
+      "administracion": 132771.0,
+      "barrio": "EL VERGEL ORIENTAL",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-vergel-oriental-bogota/193888944",
+      "titulo": "Apartamento en Venta en El vergel oriental, Bogotá",
+      "id_domus": "193888944",
+      "fechaPublicacion": "2026-06-18",
       "lat": 4.630387,
       "lon": -74.1376756,
       "location_type": "exacta",
