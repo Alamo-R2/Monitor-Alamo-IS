@@ -1,148 +1,5 @@
 [
   {
-    "grupo": "diario",
-    "generado": "2026.SEP.18 13:15",
-    "iso": "2026-09-18T13:15:07",
-    "total": 946,
-    "segundos_total": 194.6,
-    "datasets": [
-      {
-        "clave": "venta_apartamento_centro-historico",
-        "total": 6,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_apartamento_centro-historico",
-        "total": 5,
-        "segundos": 8.7
-      },
-      {
-        "clave": "venta_apartamento_teusaquillo",
-        "total": 50,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_apartamento_teusaquillo",
-        "total": 53,
-        "segundos": 9.0
-      },
-      {
-        "clave": "venta_apartamento_puente-aranda",
-        "total": 50,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_apartamento_puente-aranda",
-        "total": 51,
-        "segundos": 8.8
-      },
-      {
-        "clave": "venta_apartamento_barrios-unidos",
-        "total": 38,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_apartamento_barrios-unidos",
-        "total": 29,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_apartamento_chapinero",
-        "total": 54,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_apartamento_chapinero",
-        "total": 63,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_apartamento_britalia",
-        "total": 50,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_apartamento_britalia",
-        "total": 7,
-        "segundos": 8.7
-      },
-      {
-        "clave": "venta_apartamento_toberin",
-        "total": 50,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_apartamento_toberin",
-        "total": 34,
-        "segundos": 8.8
-      },
-      {
-        "clave": "venta_apartamento_usaquen",
-        "total": 55,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_apartamento_usaquen",
-        "total": 54,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_apartamento_niza",
-        "total": 53,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_apartamento_niza",
-        "total": 51,
-        "segundos": 8.8
-      },
-      {
-        "clave": "venta_apartamento_fontibon",
-        "total": 54,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_apartamento_fontibon",
-        "total": 50,
-        "segundos": 8.8
-      },
-      {
-        "clave": "venta_apartamento_engativa",
-        "total": 50,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_apartamento_engativa",
-        "total": 39,
-        "segundos": 8.9
-      }
-    ],
-    "variaciones": {
-      "venta_apartamento_centro-historico": 0,
-      "arriendo_apartamento_centro-historico": -1,
-      "venta_apartamento_teusaquillo": 0,
-      "arriendo_apartamento_teusaquillo": 2,
-      "venta_apartamento_puente-aranda": -1,
-      "arriendo_apartamento_puente-aranda": 1,
-      "venta_apartamento_barrios-unidos": 0,
-      "arriendo_apartamento_barrios-unidos": 0,
-      "venta_apartamento_chapinero": -2,
-      "arriendo_apartamento_chapinero": 4,
-      "venta_apartamento_britalia": 0,
-      "arriendo_apartamento_britalia": -1,
-      "venta_apartamento_toberin": 0,
-      "arriendo_apartamento_toberin": 0,
-      "venta_apartamento_usaquen": -1,
-      "arriendo_apartamento_usaquen": 0,
-      "venta_apartamento_niza": 1,
-      "arriendo_apartamento_niza": 0,
-      "venta_apartamento_fontibon": 1,
-      "arriendo_apartamento_fontibon": 0,
-      "venta_apartamento_engativa": 0,
-      "arriendo_apartamento_engativa": -2
-    }
-  },
-  {
     "grupo": "municipios",
     "generado": "2026.SEP.18 15:16",
     "iso": "2026-09-18T15:16:26",
@@ -327115,6 +326972,816 @@
         "clave": "fincaraiz_arriendo_apartamento_ciudad-kennedy-sur",
         "total": 21,
         "segundos": 7.2
+      }
+    ],
+    "variaciones": {}
+  },
+  {
+    "grupo": "barrios_res",
+    "generado": "2026.NOV.11 08:52",
+    "iso": "2026-11-11T08:52:38",
+    "total": 647,
+    "segundos_total": 867.4,
+    "datasets": [
+      {
+        "clave": "ciencuadras_venta_apartamento_san-luis",
+        "total": 20,
+        "segundos": 8.3
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_san-luis",
+        "total": 20,
+        "segundos": 7.8
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_santa-lucia",
+        "total": 0,
+        "segundos": 8.8
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_santa-lucia",
+        "total": 7,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_tunal-oriental",
+        "total": 20,
+        "segundos": 8.3
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_tunal-oriental",
+        "total": 7,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_veinte-de-julio",
+        "total": 20,
+        "segundos": 8.3
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_veinte-de-julio",
+        "total": 7,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_ciudad-jardin-sur",
+        "total": 19,
+        "segundos": 8.1
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_ciudad-jardin-sur",
+        "total": 7,
+        "segundos": 8.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_la-hortua",
+        "total": 20,
+        "segundos": 8.3
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_la-hortua",
+        "total": 7,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_narino-sur",
+        "total": 0,
+        "segundos": 7.8
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_narino-sur",
+        "total": 7,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_san-bernardo",
+        "total": 26,
+        "segundos": 8.2
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_san-bernardo",
+        "total": 7,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_sociego",
+        "total": 0,
+        "segundos": 7.7
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_sociego",
+        "total": 7,
+        "segundos": 8.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_barcelona-sur",
+        "total": 20,
+        "segundos": 8.2
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_barcelona-sur",
+        "total": 7,
+        "segundos": 7.8
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_canada-o-guira",
+        "total": 20,
+        "segundos": 8.2
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_canada-o-guira",
+        "total": 7,
+        "segundos": 8.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_cerros-de-oriente",
+        "total": 0,
+        "segundos": 7.8
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_cerros-de-oriente",
+        "total": 7,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_diana-turbay-arrayanes",
+        "total": 20,
+        "segundos": 7.8
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_diana-turbay-arrayanes",
+        "total": 7,
+        "segundos": 8.5
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_las-guacamayas-iii",
+        "total": 20,
+        "segundos": 8.1
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_las-guacamayas-iii",
+        "total": 7,
+        "segundos": 7.8
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_las-lomas",
+        "total": 3,
+        "segundos": 7.7
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_las-lomas",
+        "total": 16,
+        "segundos": 7.8
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_san-isidro",
+        "total": 0,
+        "segundos": 8.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_san-isidro",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_san-luis",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_san-luis",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_san-martin-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_san-martin-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_sosiego-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_sosiego-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_veinte-de-julio",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_veinte-de-julio",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_aguas-claras",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_aguas-claras",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_aguas-claras-i",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_aguas-claras-i",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_altamira",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_altamira",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_altos-del-poblado",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_altos-del-poblado",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_altos-del-zipa",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_altos-del-zipa",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_altos-del-zuque",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_altos-del-zuque",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_atenas",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_atenas",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_bellavista-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_bellavista-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_bello-horizonte",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_bello-horizonte",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_bosque-de-los-alpes",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_bosque-de-los-alpes",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_buenos-aires",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_buenos-aires",
+        "total": 0,
+        "segundos": 4.2
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_calvo-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_calvo-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_chiguaza-urbano",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_chiguaza-urbano",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_ciudad-berna",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_ciudad-berna",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_colmena-i-los-pinares",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_colmena-i-los-pinares",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_cordoba",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_cordoba",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_el-dorado",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_el-dorado",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_el-triangulo",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_el-triangulo",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_el-triangulo-i",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_el-triangulo-i",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_el-triangulo-ii",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_el-triangulo-ii",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_granada-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_granada-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_hoya-san-cristobal",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_hoya-san-cristobal",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_la-gloria-occidental",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_la-gloria-occidental",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_la-gloria-oriental",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_la-gloria-oriental",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_la-maria",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_la-maria",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_la-victoria",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_la-victoria",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_las-brisas",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_las-brisas",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_las-cruces",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_las-cruces",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_las-gaviotas",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_las-gaviotas",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_las-guacamayas-i",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_las-guacamayas-i",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_las-guacamayas-ii",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_las-guacamayas-ii",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_las-guacamayas-iv",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_las-guacamayas-iv",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_las-mercedes",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_las-mercedes",
+        "total": 7,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_los-alpes",
+        "total": 23,
+        "segundos": 8.1
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_los-alpes",
+        "total": 7,
+        "segundos": 8.2
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_los-laureles-sur-oriental-i",
+        "total": 20,
+        "segundos": 8.3
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_los-laureles-sur-oriental-i",
+        "total": 7,
+        "segundos": 8.6
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_modelo-sur",
+        "total": 0,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_modelo-sur",
+        "total": 7,
+        "segundos": 8.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_molino-rural",
+        "total": 20,
+        "segundos": 8.2
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_molino-rural",
+        "total": 7,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_molinos-de-oriente",
+        "total": 20,
+        "segundos": 8.6
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_molinos-de-oriente",
+        "total": 7,
+        "segundos": 7.9
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_monte-carlo",
+        "total": 26,
+        "segundos": 8.9
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_monte-carlo",
+        "total": 7,
+        "segundos": 8.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_montebello",
+        "total": 20,
+        "segundos": 8.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_montebello",
+        "total": 7,
+        "segundos": 8.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_moralba",
+        "total": 26,
+        "segundos": 8.1
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_moralba",
+        "total": 7,
+        "segundos": 7.8
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_nueva-gloria",
+        "total": 20,
+        "segundos": 8.6
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_nueva-gloria",
+        "total": 7,
+        "segundos": 7.8
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_policarpa",
+        "total": 20,
+        "segundos": 8.1
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_policarpa",
+        "total": 7,
+        "segundos": 7.8
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_primero-de-mayo",
+        "total": 26,
+        "segundos": 8.1
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_primero-de-mayo",
+        "total": 7,
+        "segundos": 7.8
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_puente-colorado",
+        "total": 0,
+        "segundos": 8.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_puente-colorado",
+        "total": 7,
+        "segundos": 8.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_quindio",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_quindio",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_quinta-ramos",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_quinta-ramos",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_ramajal",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_ramajal",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_ramirez",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_ramirez",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_san-blas",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_san-blas",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_san-blas-ii",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_san-blas-ii",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_san-cristobal-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_san-cristobal-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_san-javier",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_san-javier",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_san-jose-sur-oriental",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_san-jose-sur-oriental",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_san-pedro",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_san-pedro",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_san-vicente",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_san-vicente",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_santa-ana-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_santa-ana-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_santa-ines-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_santa-ines-sur",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_santa-ines-sur-ii",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_santa-ines-sur-ii",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_venta_apartamento_suramerica",
+        "total": 0,
+        "segundos": 4.0
+      },
+      {
+        "clave": "ciencuadras_arriendo_apartamento_suramerica",
+        "total": 0,
+        "segundos": 4.0
       }
     ],
     "variaciones": {}
