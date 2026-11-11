@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.03 17:27",
+  "generado": "2026.NOV.11 07:18",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 280000000,
-      "area": 84.0,
-      "precioM2": 3333333,
-      "administracion": null,
-      "barrio": "LA ESTACION BOSA",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-estacion-bosa-bogota/192869447",
-      "titulo": "Apartamento en Venta en La estacion bosa, Bogotá",
-      "id_domus": "192869447",
-      "fechaPublicacion": "2025-09-13",
-      "lat": 4.597239617536,
-      "lon": -74.179082361133,
-      "location_type": "exacta",
-      "zonaConsulta": "GUALOCHE",
-      "zonaSlug": "gualoche",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-10-28",
       "lat": 4.5962024,
       "lon": -74.1825707,
+      "location_type": "exacta",
+      "zonaConsulta": "GUALOCHE",
+      "zonaSlug": "gualoche",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 280000000,
+      "area": 84.0,
+      "precioM2": 3333333,
+      "administracion": null,
+      "barrio": "LA ESTACION BOSA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-estacion-bosa-bogota/192869447",
+      "titulo": "Apartamento en Venta en La estacion bosa, Bogotá",
+      "id_domus": "192869447",
+      "fechaPublicacion": "2025-09-13",
+      "lat": 4.597239617536,
+      "lon": -74.179082361133,
       "location_type": "exacta",
       "zonaConsulta": "GUALOCHE",
       "zonaSlug": "gualoche",
