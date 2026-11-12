@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 5,
   "zona": "PARQUE NACIONAL",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.08 16:24",
+  "generado": "2026.NOV.12 17:47",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 390000000,
+      "area": 77.0,
+      "precioM2": 5064935,
+      "administracion": 320000,
+      "barrio": "PARQUE NACIONAL",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tunja/194543045",
+      "titulo": "Apartamento en Venta en Tunja",
+      "id_domus": "194543045",
+      "fechaPublicacion": "2026-11-11",
+      "lat": 4.624335,
+      "lon": -74.063644,
+      "location_type": "exacta",
+      "zonaConsulta": "PARQUE NACIONAL",
+      "zonaSlug": "parque-nacional",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 755000000,
+      "area": 150.0,
+      "precioM2": 5033333,
+      "administracion": 562600,
+      "barrio": "PARQUE NACIONAL",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194533726",
+      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
+      "id_domus": "194533726",
+      "fechaPublicacion": "2026-11-10",
+      "lat": 4.62513,
+      "lon": -74.066601,
+      "location_type": "exacta",
+      "zonaConsulta": "PARQUE NACIONAL",
+      "zonaSlug": "parque-nacional",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
