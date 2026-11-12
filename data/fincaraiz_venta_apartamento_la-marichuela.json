@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 7,
   "zona": "LA MARICHUELA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.06 07:28",
+  "generado": "2026.NOV.12 22:55",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 204000000,
+      "area": 52.0,
+      "precioM2": 3923077,
+      "administracion": 140000,
+      "barrio": "MONTEBLANCO",
+      "upl": "Cuenca del Tunjuelo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-monteblanco-bogota/194228668",
+      "titulo": "Apartamento en Venta en Monteblanco, Bogotá",
+      "id_domus": "194228668",
+      "fechaPublicacion": "2026-09-08",
+      "lat": 4.5092251,
+      "lon": -74.1170251,
+      "location_type": "exacta",
+      "zonaConsulta": "LA MARICHUELA",
+      "zonaSlug": "la-marichuela",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -25,7 +57,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-jose-bogota/194154043",
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -57,7 +89,7 @@
       "habitaciones": 3,
       "banos": 3,
       "parqueaderos": 2.0,
-      "estrato": 6,
+      "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-rosales-bogota/10524343",
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -89,7 +121,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 2,
+      "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-marichuela-bogota/194343221",
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -121,7 +153,7 @@
       "habitaciones": 3,
       "banos": 3,
       "parqueaderos": 3.0,
-      "estrato": 6,
+      "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-marichuela-bogota/191059322",
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -153,7 +185,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 2,
+      "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-de-cafam-bogota/192814488",
@@ -168,32 +200,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 207000000,
-      "area": 52.0,
-      "precioM2": 3980769,
-      "administracion": 140000,
-      "barrio": "MONTEBLANCO",
+      "precio": 165000000,
+      "area": 55.0,
+      "precioM2": 3000000,
+      "administracion": 135000,
+      "barrio": "LA MARICHUELA",
       "upl": "Cuenca del Tunjuelo",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": null,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-monteblanco-bogota/194228668",
-      "titulo": "Apartamento en Venta en Monteblanco, Bogotá",
-      "id_domus": "194228668",
-      "fechaPublicacion": "2026-09-08",
-      "lat": 4.5092251,
-      "lon": -74.1170251,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-marichuela-bogota/194544316",
+      "titulo": "Apartamento en Venta en Marichuela, Bogotá",
+      "id_domus": "194544316",
+      "fechaPublicacion": "2026-11-11",
+      "lat": 4.509992,
+      "lon": -74.1200324,
       "location_type": "exacta",
       "zonaConsulta": "LA MARICHUELA",
       "zonaSlug": "la-marichuela",
