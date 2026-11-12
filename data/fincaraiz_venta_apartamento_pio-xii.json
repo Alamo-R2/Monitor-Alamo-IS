@@ -5,10 +5,74 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.07 06:40",
+  "generado": "2026.NOV.11 23:46",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 275000000,
+      "area": 62.0,
+      "precioM2": 4435484,
+      "administracion": null,
+      "barrio": "CASTILLA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194290391",
+      "titulo": "Apartamento en Venta en Castilla, Bogotá",
+      "id_domus": "194290391",
+      "fechaPublicacion": "2026-09-21",
+      "lat": 4.6361894,
+      "lon": -74.1512245,
+      "location_type": "exacta",
+      "zonaConsulta": "PIO XII",
+      "zonaSlug": "pio-xii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 251000000,
+      "area": 65.0,
+      "precioM2": 3861538,
+      "administracion": 235000.0,
+      "barrio": "CASTILLA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/193513335",
+      "titulo": "Apartamento en Venta en Castilla, Bogotá",
+      "id_domus": "193513335",
+      "fechaPublicacion": "2026-03-15",
+      "lat": 4.635611,
+      "lon": -74.1474854,
+      "location_type": "exacta",
+      "zonaConsulta": "PIO XII",
+      "zonaSlug": "pio-xii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -130,70 +194,6 @@
       "fechaPublicacion": "2024-03-07",
       "lat": 4.6367834,
       "lon": -74.1482217,
-      "location_type": "exacta",
-      "zonaConsulta": "PIO XII",
-      "zonaSlug": "pio-xii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 245000000,
-      "area": 57.0,
-      "precioM2": 4298246,
-      "administracion": 156000.0,
-      "barrio": "TINTALA",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tintala-bogota/194366059",
-      "titulo": "Apartamento en Venta en Tintala, Bogotá",
-      "id_domus": "194366059",
-      "fechaPublicacion": "2026-10-06",
-      "lat": 4.6359249,
-      "lon": -74.1504573,
-      "location_type": "exacta",
-      "zonaConsulta": "PIO XII",
-      "zonaSlug": "pio-xii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 275000000,
-      "area": 62.0,
-      "precioM2": 4435484,
-      "administracion": null,
-      "barrio": "CASTILLA",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194290391",
-      "titulo": "Apartamento en Venta en Castilla, Bogotá",
-      "id_domus": "194290391",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.6361894,
-      "lon": -74.1512245,
       "location_type": "exacta",
       "zonaConsulta": "PIO XII",
       "zonaSlug": "pio-xii",
@@ -270,6 +270,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 57.0,
+      "precioM2": 4210526,
+      "administracion": 150000.0,
+      "barrio": "CASTILLA",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194506204",
+      "titulo": "Apartamento en Venta en Castilla, Bogotá",
+      "id_domus": "194506204",
+      "fechaPublicacion": "2026-11-04",
+      "lat": 4.63598,
+      "lon": -74.1501436,
+      "location_type": "exacta",
+      "zonaConsulta": "PIO XII",
+      "zonaSlug": "pio-xii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 320000000,
       "area": 60.0,
       "precioM2": 5333333,
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -514,38 +546,6 @@
       "fechaPublicacion": "2026-10-15",
       "lat": 4.635853,
       "lon": -74.1505539,
-      "location_type": "exacta",
-      "zonaConsulta": "PIO XII",
-      "zonaSlug": "pio-xii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 251000000,
-      "area": 65.0,
-      "precioM2": 3861538,
-      "administracion": 235000.0,
-      "barrio": "CASTILLA",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/193513335",
-      "titulo": "Apartamento en Venta en Castilla, Bogotá",
-      "id_domus": "193513335",
-      "fechaPublicacion": "2026-03-15",
-      "lat": 4.635611,
-      "lon": -74.1474854,
       "location_type": "exacta",
       "zonaConsulta": "PIO XII",
       "zonaSlug": "pio-xii",
@@ -622,41 +622,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 320000000,
-      "area": 60.0,
-      "precioM2": 5333333,
-      "administracion": 265000.0,
-      "barrio": "CASTILLA",
-      "upl": "Kennedy",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194515457",
-      "titulo": "Apartamento en Venta en Castilla, Bogotá",
-      "id_domus": "194515457",
-      "fechaPublicacion": "2026-11-06",
-      "lat": 4.6383060827432,
-      "lon": -74.147409834632,
-      "location_type": "exacta",
-      "zonaConsulta": "PIO XII",
-      "zonaSlug": "pio-xii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 215000000,
+      "precio": 210000000,
       "area": 59.0,
-      "precioM2": 3644068,
+      "precioM2": 3559322,
       "administracion": 124000.0,
       "barrio": "CASTILLA",
       "upl": "Kennedy",
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-05-23",
       "lat": 4.6367325,
       "lon": -74.148286,
+      "location_type": "exacta",
+      "zonaConsulta": "PIO XII",
+      "zonaSlug": "pio-xii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 215000000,
+      "area": 57.0,
+      "precioM2": 3771930,
+      "administracion": null,
+      "barrio": "PIO XII",
+      "upl": "Kennedy",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pio-xii-bogota/193382035",
+      "titulo": "Apartamento en Venta en Pio xii, Bogotá",
+      "id_domus": "193382035",
+      "fechaPublicacion": "2026-02-10",
+      "lat": 4.6359249,
+      "lon": -74.1504573,
       "location_type": "exacta",
       "zonaConsulta": "PIO XII",
       "zonaSlug": "pio-xii",

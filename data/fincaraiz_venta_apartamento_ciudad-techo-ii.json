@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.07 06:40",
+  "generado": "2026.NOV.11 23:46",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,11 +14,11 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 250000000,
-      "area": 56.0,
-      "precioM2": 4464286,
-      "administracion": 207000.0,
-      "barrio": "VALLADOLID",
+      "precio": 460000000,
+      "area": 62.0,
+      "precioM2": 7419355,
+      "administracion": 285000.0,
+      "barrio": "CASTILLA",
       "upl": "Patio Bonito",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -28,12 +28,12 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-valladolid-bogota/194327859",
-      "titulo": "Apartamento en Venta en Valladolid, Bogotá",
-      "id_domus": "194327859",
-      "fechaPublicacion": "2026-09-28",
-      "lat": 4.6433464,
-      "lon": -74.1498546,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194294747",
+      "titulo": "Apartamento en Venta en Castilla, Bogotá",
+      "id_domus": "194294747",
+      "fechaPublicacion": "2026-09-22",
+      "lat": 4.6429328,
+      "lon": -74.1469341,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD TECHO II",
       "zonaSlug": "ciudad-techo-ii",
@@ -46,26 +46,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 265000000,
-      "area": 42.0,
-      "precioM2": 6309524,
-      "administracion": 130000.0,
+      "precio": 390000000,
+      "area": 65.0,
+      "precioM2": 6000000,
+      "administracion": 255000.0,
       "barrio": "CIUDAD TECHO II",
       "upl": "Patio Bonito",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": null,
+      "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-zona-occidental-bogota/194381762",
-      "titulo": "Apartamento en Venta en Zona occidental, Bogotá",
-      "id_domus": "194381762",
-      "fechaPublicacion": "2026-10-09",
-      "lat": 4.6344583,
-      "lon": -74.1556005,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194342508",
+      "titulo": "Apartamento en Venta en Bogotá",
+      "id_domus": "194342508",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.6412194,
+      "lon": -74.1528782,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD TECHO II",
       "zonaSlug": "ciudad-techo-ii",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 425000000,
+      "area": 60.0,
+      "precioM2": 7083333,
+      "administracion": 280000.0,
+      "barrio": "CIUDAD TECHO II",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194348593",
+      "titulo": "Apartamento en Venta en Bogotá",
+      "id_domus": "194348593",
+      "fechaPublicacion": "2026-10-02",
+      "lat": 4.6410239,
+      "lon": -74.1454981,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD TECHO II",
+      "zonaSlug": "ciudad-techo-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 56.0,
+      "precioM2": 4464286,
+      "administracion": 207000.0,
+      "barrio": "VALLADOLID",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-valladolid-bogota/194327859",
+      "titulo": "Apartamento en Venta en Valladolid, Bogotá",
+      "id_domus": "194327859",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.6433464,
+      "lon": -74.1498546,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD TECHO II",
+      "zonaSlug": "ciudad-techo-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -296,15 +360,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 285000000,
-      "area": 57.0,
-      "precioM2": 5000000,
+      "area": 47.0,
+      "precioM2": 6063830,
       "administracion": 210000.0,
       "barrio": "CIUDAD TECHO II",
       "upl": "Patio Bonito",
@@ -328,15 +392,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 257000000,
+      "precio": 245000000,
       "area": 47.0,
-      "precioM2": 5468085,
+      "precioM2": 5212766,
       "administracion": 143000.0,
       "barrio": "VALLADOLID",
       "upl": "Patio Bonito",
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -610,70 +674,6 @@
       "fechaPublicacion": "2026-10-23",
       "lat": 4.6425249,
       "lon": -74.1449417,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD TECHO II",
-      "zonaSlug": "ciudad-techo-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 480000000,
-      "area": 77.0,
-      "precioM2": 6233766,
-      "administracion": 309000.0,
-      "barrio": "CASTILLA",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194225981",
-      "titulo": "Apartamento en Venta en Castilla, Bogotá",
-      "id_domus": "194225981",
-      "fechaPublicacion": "2026-09-08",
-      "lat": 4.6428274,
-      "lon": -74.1454836,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD TECHO II",
-      "zonaSlug": "ciudad-techo-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 252000000,
-      "area": 44.0,
-      "precioM2": 5727273,
-      "administracion": 130000.0,
-      "barrio": "CIUDAD TECHO II",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-techo-ii-bogota/192754343",
-      "titulo": "Apartamento en Venta en Ciudad techo ii, Bogotá",
-      "id_domus": "192754343",
-      "fechaPublicacion": "2025-08-14",
-      "lat": 4.6343954,
-      "lon": -74.155565,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD TECHO II",
       "zonaSlug": "ciudad-techo-ii",
