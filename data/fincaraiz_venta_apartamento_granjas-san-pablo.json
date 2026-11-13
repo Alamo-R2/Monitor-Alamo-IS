@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 11,
+  "total": 12,
   "zona": "GRANJAS SAN PABLO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.09 01:16",
+  "generado": "2026.NOV.13 07:26",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -206,6 +206,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 215000000,
+      "area": 52.0,
+      "precioM2": 4134615,
+      "administracion": 190000.0,
+      "barrio": "GRANJAS SAN PABLO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-granjas-san-pablo-bogota/194544760",
+      "titulo": "Apartamento en Venta en Granjas san pablo, Bogotá",
+      "id_domus": "194544760",
+      "fechaPublicacion": "2026-11-11",
+      "lat": 4.5699292,
+      "lon": -74.1126503,
+      "location_type": "exacta",
+      "zonaConsulta": "GRANJAS SAN PABLO",
+      "zonaSlug": "granjas-san-pablo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 590000000,
       "area": 84.0,
       "precioM2": 7023810,
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -338,7 +370,7 @@
       "area": 59.0,
       "precioM2": 6949153,
       "administracion": 330000.0,
-      "barrio": "QUIROGA SUR",
+      "barrio": "GRANJAS SAN PABLO",
       "upl": "Restrepo",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -348,8 +380,8 @@
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quiroga-sur-bogota/194510036",
-      "titulo": "Apartamento en Venta en Quiroga sur, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-granjas-san-pablo-bogota/194510036",
+      "titulo": "Apartamento en Venta en Granjas san pablo, Bogotá",
       "id_domus": "194510036",
       "fechaPublicacion": "2026-11-05",
       "lat": 4.5757502,
