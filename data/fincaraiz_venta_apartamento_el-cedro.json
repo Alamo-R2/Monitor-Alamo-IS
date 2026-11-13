@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.10 07:51",
+  "generado": "2026.NOV.13 22:57",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 266000000,
-      "area": 48.0,
-      "precioM2": 5541667,
-      "administracion": null,
-      "barrio": "EL CEDRO",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194526306",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194526306",
-      "fechaPublicacion": "2026-11-09",
-      "lat": 4.7029269205698,
-      "lon": -74.11871868956,
-      "location_type": "exacta",
-      "zonaConsulta": "EL CEDRO",
-      "zonaSlug": "el-cedro",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-11-04",
       "lat": 4.7016999817723,
       "lon": -74.117093601152,
+      "location_type": "exacta",
+      "zonaConsulta": "EL CEDRO",
+      "zonaSlug": "el-cedro",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 266000000,
+      "area": 48.0,
+      "precioM2": 5541667,
+      "administracion": null,
+      "barrio": "EL CEDRO",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194526306",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194526306",
+      "fechaPublicacion": "2026-11-09",
+      "lat": 4.7029269205698,
+      "lon": -74.11871868956,
       "location_type": "exacta",
       "zonaConsulta": "EL CEDRO",
       "zonaSlug": "el-cedro",

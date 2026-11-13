@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.13 07:26",
+  "generado": "2026.NOV.13 22:57",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,26 +46,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 260000000,
-      "area": 60.0,
-      "precioM2": 4333333,
-      "administracion": 30000.0,
-      "barrio": "VENECIA",
+      "precio": 160000000,
+      "area": 63.0,
+      "precioM2": 2539683,
+      "administracion": null,
+      "barrio": "TUNJUELITO",
       "upl": "Tunjuelito",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-venecia-bogota/194146139",
-      "titulo": "Apartamento en Venta en Venecia, Bogotá",
-      "id_domus": "194146139",
-      "fechaPublicacion": "2026-08-21",
-      "lat": 4.5925743,
-      "lon": -74.1419683,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tunal-bogota/194555434",
+      "titulo": "Apartamento en Venta en El Tunal, Bogotá",
+      "id_domus": "194555434",
+      "fechaPublicacion": "2026-11-13",
+      "lat": 4.575752,
+      "lon": -74.1383522,
       "location_type": "exacta",
       "zonaConsulta": "TUNJUELITO",
       "zonaSlug": "tunjuelito",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 52.0,
+      "precioM2": 4807692,
+      "administracion": null,
+      "barrio": "MUZU",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-muzu-bogota/194535438",
+      "titulo": "Apartamento en Venta en Muzu, Bogotá",
+      "id_domus": "194535438",
+      "fechaPublicacion": "2026-11-10",
+      "lat": 4.5853342,
+      "lon": -74.1426039,
+      "location_type": "exacta",
+      "zonaConsulta": "TUNJUELITO",
+      "zonaSlug": "tunjuelito",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -386,38 +418,6 @@
       "fechaPublicacion": "2026-10-19",
       "lat": 4.5808208786339,
       "lon": -74.136312669533,
-      "location_type": "exacta",
-      "zonaConsulta": "TUNJUELITO",
-      "zonaSlug": "tunjuelito",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 250000000,
-      "area": 52.0,
-      "precioM2": 4807692,
-      "administracion": null,
-      "barrio": "MUZU",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-muzu-bogota/194535438",
-      "titulo": "Apartamento en Venta en Muzu, Bogotá",
-      "id_domus": "194535438",
-      "fechaPublicacion": "2026-11-10",
-      "lat": 4.5853342,
-      "lon": -74.1426039,
       "location_type": "exacta",
       "zonaConsulta": "TUNJUELITO",
       "zonaSlug": "tunjuelito",

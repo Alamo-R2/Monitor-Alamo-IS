@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.06 16:59",
+  "generado": "2026.NOV.13 22:57",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 280000000,
+      "area": 43.0,
+      "precioM2": 6511628,
+      "administracion": 200000,
+      "barrio": "SAN ANTONIO URBANO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194038530",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194038530",
+      "fechaPublicacion": "2026-07-27",
+      "lat": 4.7053596318958,
+      "lon": -74.131726888319,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN ANTONIO URBANO",
+      "zonaSlug": "san-antonio-urbano",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-05-21",
       "lat": 4.7054131,
       "lon": -74.1317698,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN ANTONIO URBANO",
-      "zonaSlug": "san-antonio-urbano",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 280000000,
-      "area": 43.0,
-      "precioM2": 6511628,
-      "administracion": 200000,
-      "barrio": "SAN ANTONIO URBANO",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194038530",
-      "titulo": "Apartamento en Venta en Engativá, Bogotá",
-      "id_domus": "194038530",
-      "fechaPublicacion": "2026-07-27",
-      "lat": 4.7053596318958,
-      "lon": -74.131726888319,
       "location_type": "exacta",
       "zonaConsulta": "SAN ANTONIO URBANO",
       "zonaSlug": "san-antonio-urbano",
