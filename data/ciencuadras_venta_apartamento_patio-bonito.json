@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.05 21:20",
+  "generado": "2026.NOV.13 18:23",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Casa",
-      "precio": 375000000,
-      "area": 192.0,
-      "precioM2": 1953125,
-      "administracion": null,
-      "barrio": "PATIO BONITO",
-      "upl": "Patio Bonito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": 0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/casa-en-venta-en-campo-hermoso-bogota-3892329",
-      "titulo": "Casa en Patio Bonito",
-      "id_domus": "3892329",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "PATIO BONITO",
-      "zonaSlug": "patio-bonito",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -95,6 +63,38 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/bodega-en-venta-en-el-paraiso-bogota-3922455",
       "titulo": "Bodega en Patio Bonito",
       "id_domus": "3922455",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "PATIO BONITO",
+      "zonaSlug": "patio-bonito",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Casa",
+      "precio": 375000000,
+      "area": 192.0,
+      "precioM2": 1953125,
+      "administracion": null,
+      "barrio": "PATIO BONITO",
+      "upl": "Patio Bonito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": 0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/casa-en-venta-en-campo-hermoso-bogota-3892329",
+      "titulo": "Casa en Patio Bonito",
+      "id_domus": "3892329",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
