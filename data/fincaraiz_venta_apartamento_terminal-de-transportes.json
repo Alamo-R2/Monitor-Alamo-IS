@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.06 22:28",
+  "generado": "2026.NOV.14 07:07",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 438000000,
-      "area": 65.0,
-      "precioM2": 6738462,
-      "administracion": null,
-      "barrio": "TERMINAL DE TRANSPORTES",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-carlos-lleras-restrepo-manzana-c-bogota/194325033",
-      "titulo": "Apartamento en Venta en Carlos lleras restrepo manzana c, Bogotá",
-      "id_domus": "194325033",
-      "fechaPublicacion": "2026-09-28",
-      "lat": 4.6578628,
-      "lon": -74.1154928,
-      "location_type": "exacta",
-      "zonaConsulta": "TERMINAL DE TRANSPORTES",
-      "zonaSlug": "terminal-de-transportes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 750000000,
+      "area": 92.0,
+      "precioM2": 8152174,
+      "administracion": 515000.0,
+      "barrio": "TERMINAL DE TRANSPORTES",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-occidental-bogota/193878132",
+      "titulo": "Apartamento en Venta en Ciudad Salitre Occidental, Bogotá",
+      "id_domus": "193878132",
+      "fechaPublicacion": "2026-06-15",
+      "lat": 4.6520053,
+      "lon": -74.1117498,
+      "location_type": "exacta",
+      "zonaConsulta": "TERMINAL DE TRANSPORTES",
+      "zonaSlug": "terminal-de-transportes",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 438000000,
+      "area": 65.0,
+      "precioM2": 6738462,
+      "administracion": null,
+      "barrio": "TERMINAL DE TRANSPORTES",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-carlos-lleras-restrepo-manzana-c-bogota/194325033",
+      "titulo": "Apartamento en Venta en Carlos lleras restrepo manzana c, Bogotá",
+      "id_domus": "194325033",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.6578628,
+      "lon": -74.1154928,
+      "location_type": "exacta",
+      "zonaConsulta": "TERMINAL DE TRANSPORTES",
+      "zonaSlug": "terminal-de-transportes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2026-05-15",
       "lat": 4.6547894800486,
       "lon": -74.118007010931,
-      "location_type": "exacta",
-      "zonaConsulta": "TERMINAL DE TRANSPORTES",
-      "zonaSlug": "terminal-de-transportes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 250000000,
-      "area": 28.0,
-      "precioM2": 8928571,
-      "administracion": 165000.0,
-      "barrio": "TERMINAL DE TRANSPORTES",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-bogota/193252311",
-      "titulo": "Apartamento en Venta en Ciudad salitre, Bogotá",
-      "id_domus": "193252311",
-      "fechaPublicacion": "2026-01-07",
-      "lat": 4.6544787,
-      "lon": -74.1179963,
       "location_type": "exacta",
       "zonaConsulta": "TERMINAL DE TRANSPORTES",
       "zonaSlug": "terminal-de-transportes",
@@ -206,70 +206,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 839000000,
-      "area": 72.0,
-      "precioM2": 11652778,
-      "administracion": null,
-      "barrio": "TERMINAL DE TRANSPORTES",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-bogota/194502750",
-      "titulo": "Apartamento en Venta en Ciudad salitre, Bogotá",
-      "id_domus": "194502750",
-      "fechaPublicacion": "2026-11-04",
-      "lat": 4.6549195159886,
-      "lon": -74.113319226408,
-      "location_type": "exacta",
-      "zonaConsulta": "TERMINAL DE TRANSPORTES",
-      "zonaSlug": "terminal-de-transportes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 35.0,
-      "precioM2": 9428571,
-      "administracion": 278000.0,
-      "barrio": "TERMINAL DE TRANSPORTES",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-occidental-bogota/194464510",
-      "titulo": "Apartamento en Venta en Ciudad Salitre Occidental, Bogotá",
-      "id_domus": "194464510",
-      "fechaPublicacion": "2026-10-27",
-      "lat": 4.65631,
-      "lon": -74.112119,
-      "location_type": "exacta",
-      "zonaConsulta": "TERMINAL DE TRANSPORTES",
-      "zonaSlug": "terminal-de-transportes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 250000000,
       "area": 28.0,
       "precioM2": 8928571,
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 28.0,
+      "precioM2": 8928571,
+      "administracion": 165000.0,
+      "barrio": "TERMINAL DE TRANSPORTES",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-bogota/193252311",
+      "titulo": "Apartamento en Venta en Ciudad salitre, Bogotá",
+      "id_domus": "193252311",
+      "fechaPublicacion": "2026-01-07",
+      "lat": 4.6544787,
+      "lon": -74.1179963,
+      "location_type": "exacta",
+      "zonaConsulta": "TERMINAL DE TRANSPORTES",
+      "zonaSlug": "terminal-de-transportes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,39 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 750000000,
-      "area": 92.0,
-      "precioM2": 8152174,
-      "administracion": 515000.0,
-      "barrio": "TERMINAL DE TRANSPORTES",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-occidental-bogota/193878132",
-      "titulo": "Apartamento en Venta en Ciudad Salitre Occidental, Bogotá",
-      "id_domus": "193878132",
-      "fechaPublicacion": "2026-06-15",
-      "lat": 4.6520053,
-      "lon": -74.1117498,
-      "location_type": "exacta",
-      "zonaConsulta": "TERMINAL DE TRANSPORTES",
-      "zonaSlug": "terminal-de-transportes",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +610,70 @@
       "fechaPublicacion": "2026-10-30",
       "lat": 4.6570415,
       "lon": -74.1161594,
+      "location_type": "exacta",
+      "zonaConsulta": "TERMINAL DE TRANSPORTES",
+      "zonaSlug": "terminal-de-transportes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 349000000,
+      "area": 45.0,
+      "precioM2": 7755556,
+      "administracion": 260000.0,
+      "barrio": "TERMINAL DE TRANSPORTES",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-salitre-bogota/194367251",
+      "titulo": "Apartamento en Venta en Ciudad salitre, Bogotá",
+      "id_domus": "194367251",
+      "fechaPublicacion": "2026-10-07",
+      "lat": 4.6526923126955,
+      "lon": -74.113813915604,
+      "location_type": "exacta",
+      "zonaConsulta": "TERMINAL DE TRANSPORTES",
+      "zonaSlug": "terminal-de-transportes",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 830000000,
+      "area": 123.0,
+      "precioM2": 6747967,
+      "administracion": 487000.0,
+      "barrio": "TERMINAL DE TRANSPORTES",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-mosquera/191446284",
+      "titulo": "Apartamento en  Venta en Mosquera",
+      "id_domus": "191446284",
+      "fechaPublicacion": "2024-09-20",
+      "lat": 4.6538621,
+      "lon": -74.1137188,
       "location_type": "exacta",
       "zonaConsulta": "TERMINAL DE TRANSPORTES",
       "zonaSlug": "terminal-de-transportes",

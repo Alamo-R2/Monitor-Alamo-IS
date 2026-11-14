@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 20,
+  "total": 15,
   "zona": "LA GIRALDA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.06 22:28",
+  "generado": "2026.NOV.14 07:07",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 320000000,
+      "area": 44.0,
+      "precioM2": 7272727,
+      "administracion": 225000.0,
+      "barrio": "LA GIRALDA",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-giralda-bogota/193589077",
+      "titulo": "Apartamento en Venta en La giralda, Bogotá",
+      "id_domus": "193589077",
+      "fechaPublicacion": "2026-04-01",
+      "lat": 4.6810694,
+      "lon": -74.1390762,
+      "location_type": "exacta",
+      "zonaConsulta": "LA GIRALDA",
+      "zonaSlug": "la-giralda",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -32,38 +64,6 @@
       "titulo": "Apartamento en Venta en Zona occidental, Bogotá",
       "id_domus": "194357484",
       "fechaPublicacion": "2026-10-05",
-      "lat": 4.676676,
-      "lon": -74.1393615,
-      "location_type": "exacta",
-      "zonaConsulta": "LA GIRALDA",
-      "zonaSlug": "la-giralda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 519000000,
-      "area": 81.0,
-      "precioM2": 6407407,
-      "administracion": 500000.0,
-      "barrio": "LA GIRALDA",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fontibon-bogota/194115250",
-      "titulo": "Apartamento en Venta en Fontibon, Bogotá",
-      "id_domus": "194115250",
-      "fechaPublicacion": "2026-08-13",
       "lat": 4.676676,
       "lon": -74.1393615,
       "location_type": "exacta",
@@ -174,38 +174,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 785000000,
-      "area": 94.0,
-      "precioM2": 8351064,
-      "administracion": 416000.0,
-      "barrio": "LA GIRALDA",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-felicidad-bogota/194064347",
-      "titulo": "Apartamento en Venta en La felicidad, Bogotá",
-      "id_domus": "194064347",
-      "fechaPublicacion": "2026-08-02",
-      "lat": 4.680997398341,
-      "lon": -74.146018125745,
-      "location_type": "exacta",
-      "zonaConsulta": "LA GIRALDA",
-      "zonaSlug": "la-giralda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 239000000,
       "area": 47.0,
       "precioM2": 5085106,
@@ -232,39 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2400000000,
-      "area": 150.0,
-      "precioM2": 16000000,
-      "administracion": 1274000.0,
-      "barrio": "LA GIRALDA",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-navarra-bogota/194280750",
-      "titulo": "Apartamento en Venta en Chicó Navarra, Bogotá",
-      "id_domus": "194280750",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.679336,
-      "lon": -74.143251,
-      "location_type": "exacta",
-      "zonaConsulta": "LA GIRALDA",
-      "zonaSlug": "la-giralda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -328,39 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 320000000,
-      "area": 44.0,
-      "precioM2": 7272727,
-      "administracion": 225000.0,
-      "barrio": "LA GIRALDA",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-giralda-bogota/193589077",
-      "titulo": "Apartamento en Venta en La giralda, Bogotá",
-      "id_domus": "193589077",
-      "fechaPublicacion": "2026-04-01",
-      "lat": 4.6810694,
-      "lon": -74.1390762,
-      "location_type": "exacta",
-      "zonaConsulta": "LA GIRALDA",
-      "zonaSlug": "la-giralda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -578,70 +482,6 @@
       "fechaPublicacion": "2026-06-22",
       "lat": 4.682486,
       "lon": -74.1445174,
-      "location_type": "exacta",
-      "zonaConsulta": "LA GIRALDA",
-      "zonaSlug": "la-giralda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 785000000,
-      "area": 94.0,
-      "precioM2": 8351064,
-      "administracion": 416000.0,
-      "barrio": "LA GIRALDA",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-felicidad-bogota/194064351",
-      "titulo": "Apartamento en Venta en La felicidad, Bogotá",
-      "id_domus": "194064351",
-      "fechaPublicacion": "2026-08-02",
-      "lat": 4.680997398341,
-      "lon": -74.146018125745,
-      "location_type": "exacta",
-      "zonaConsulta": "LA GIRALDA",
-      "zonaSlug": "la-giralda",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 785000000,
-      "area": 94.0,
-      "precioM2": 8351064,
-      "administracion": 416000.0,
-      "barrio": "LA GIRALDA",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-felicidad-bogota/194064348",
-      "titulo": "Apartamento en Venta en La felicidad, Bogotá",
-      "id_domus": "194064348",
-      "fechaPublicacion": "2026-08-02",
-      "lat": 4.680997398341,
-      "lon": -74.146018125745,
       "location_type": "exacta",
       "zonaConsulta": "LA GIRALDA",
       "zonaSlug": "la-giralda",

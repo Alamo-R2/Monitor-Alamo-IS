@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.10 22:36",
+  "generado": "2026.NOV.14 07:07",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 550000000,
-      "area": 87.0,
-      "precioM2": 6321839,
-      "administracion": 361500.0,
-      "barrio": "PABLO VI NORTE",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pablo-vi-norte-bogota/194079906",
-      "titulo": "Apartamento en Venta en Pablo vi norte, Bogotá",
-      "id_domus": "194079906",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.6519268,
-      "lon": -74.0922413,
-      "location_type": "exacta",
-      "zonaConsulta": "EL SALITRE",
-      "zonaSlug": "el-salitre",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-09-09",
       "lat": 4.647391896996,
       "lon": -74.107254899157,
+      "location_type": "exacta",
+      "zonaConsulta": "EL SALITRE",
+      "zonaSlug": "el-salitre",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3100000000,
+      "area": 177.0,
+      "precioM2": 17514124,
+      "administracion": 1400000.0,
+      "barrio": "EL SALITRE",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-salitre-bogota/194330952",
+      "titulo": "Apartamento en Venta en El salitre, Bogotá",
+      "id_domus": "194330952",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.663125022623,
+      "lon": -74.112156636134,
       "location_type": "exacta",
       "zonaConsulta": "EL SALITRE",
       "zonaSlug": "el-salitre",
@@ -270,6 +270,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 550000000,
+      "area": 87.0,
+      "precioM2": 6321839,
+      "administracion": 361500.0,
+      "barrio": "PABLO VI NORTE",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-pablo-vi-norte-bogota/194079906",
+      "titulo": "Apartamento en Venta en Pablo vi norte, Bogotá",
+      "id_domus": "194079906",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.6519268,
+      "lon": -74.0922413,
+      "location_type": "exacta",
+      "zonaConsulta": "EL SALITRE",
+      "zonaSlug": "el-salitre",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 205000000,
       "area": 44.0,
       "precioM2": 4659091,
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -482,38 +514,6 @@
       "fechaPublicacion": "2026-07-10",
       "lat": 4.756846476699,
       "lon": -74.079190694764,
-      "location_type": "exacta",
-      "zonaConsulta": "EL SALITRE",
-      "zonaSlug": "el-salitre",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-16",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3100000000,
-      "area": 177.0,
-      "precioM2": 17514124,
-      "administracion": 1400000.0,
-      "barrio": "EL SALITRE",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 2.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-salitre-bogota/194330952",
-      "titulo": "Apartamento en Venta en El salitre, Bogotá",
-      "id_domus": "194330952",
-      "fechaPublicacion": "2026-09-29",
-      "lat": 4.663125022623,
-      "lon": -74.112156636134,
       "location_type": "exacta",
       "zonaConsulta": "EL SALITRE",
       "zonaSlug": "el-salitre",
