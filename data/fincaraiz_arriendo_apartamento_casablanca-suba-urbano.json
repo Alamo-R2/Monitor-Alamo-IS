@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.14 16:12",
+  "generado": "2026.NOV.14 21:44",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1250000,
+      "area": 45.0,
+      "precioM2": 27778,
+      "administracion": 250000.0,
+      "barrio": "CASABLANCA SUBA URBANO",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lagos-de-torca-bogota/194548880",
+      "titulo": "Apartamento en Arriendo en Lagos de Torca, Bogotá",
+      "id_domus": "194548880",
+      "fechaPublicacion": "2026-11-12",
+      "lat": 4.8109861972273,
+      "lon": -74.044206672131,
+      "location_type": "exacta",
+      "zonaConsulta": "CASABLANCA SUBA URBANO",
+      "zonaSlug": "casablanca-suba-urbano",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,71 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1600000,
-      "area": 43.0,
-      "precioM2": 37209,
-      "administracion": null,
-      "barrio": "GUAYMARAL",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": null,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-guaymaral-bogota/194372399",
-      "titulo": "Apartamento en Arriendo en Guaymaral, Bogotá",
-      "id_domus": "194372399",
-      "fechaPublicacion": "2026-10-07",
-      "lat": 4.8108569,
-      "lon": -74.049554,
-      "location_type": "exacta",
-      "zonaConsulta": "CASABLANCA SUBA URBANO",
-      "zonaSlug": "casablanca-suba-urbano",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1550000,
-      "area": 45.0,
-      "precioM2": 34444,
-      "administracion": null,
-      "barrio": "CASABLANCA SUBA URBANO",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lagos-de-torca-bogota/194499562",
-      "titulo": "Apartamento en Arriendo en Lagos de Torca, Bogotá",
-      "id_domus": "194499562",
-      "fechaPublicacion": "2026-11-03",
-      "lat": 4.811161,
-      "lon": -74.0462533,
-      "location_type": "exacta",
-      "zonaConsulta": "CASABLANCA SUBA URBANO",
-      "zonaSlug": "casablanca-suba-urbano",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +104,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 43.0,
+      "precioM2": 37209,
+      "administracion": null,
+      "barrio": "GUAYMARAL",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": null,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-guaymaral-bogota/194372399",
+      "titulo": "Apartamento en Arriendo en Guaymaral, Bogotá",
+      "id_domus": "194372399",
+      "fechaPublicacion": "2026-10-07",
+      "lat": 4.8108569,
+      "lon": -74.049554,
+      "location_type": "exacta",
+      "zonaConsulta": "CASABLANCA SUBA URBANO",
+      "zonaSlug": "casablanca-suba-urbano",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1550000,
+      "area": 45.0,
+      "precioM2": 34444,
+      "administracion": null,
+      "barrio": "CASABLANCA SUBA URBANO",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lagos-de-torca-bogota/194499562",
+      "titulo": "Apartamento en Arriendo en Lagos de Torca, Bogotá",
+      "id_domus": "194499562",
+      "fechaPublicacion": "2026-11-03",
+      "lat": 4.811161,
+      "lon": -74.0462533,
+      "location_type": "exacta",
+      "zonaConsulta": "CASABLANCA SUBA URBANO",
+      "zonaSlug": "casablanca-suba-urbano",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -354,38 +386,6 @@
       "fechaPublicacion": "2026-07-15",
       "lat": 4.8112880572864,
       "lon": -74.044159282159,
-      "location_type": "exacta",
-      "zonaConsulta": "CASABLANCA SUBA URBANO",
-      "zonaSlug": "casablanca-suba-urbano",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1250000,
-      "area": 45.0,
-      "precioM2": 27778,
-      "administracion": 250000.0,
-      "barrio": "CASABLANCA SUBA URBANO",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lagos-de-torca-bogota/194548880",
-      "titulo": "Apartamento en Arriendo en Lagos de Torca, Bogotá",
-      "id_domus": "194548880",
-      "fechaPublicacion": "2026-11-12",
-      "lat": 4.8109861972273,
-      "lon": -74.044206672131,
       "location_type": "exacta",
       "zonaConsulta": "CASABLANCA SUBA URBANO",
       "zonaSlug": "casablanca-suba-urbano",
