@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.08 16:24",
+  "generado": "2026.NOV.14 16:12",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -17,8 +17,8 @@
       "precio": 489000000,
       "area": 56.0,
       "precioM2": 8732143,
-      "administracion": 365000.0,
-      "barrio": "SAN JOSE DE BAVARIA",
+      "administracion": 360000.0,
+      "barrio": "MIRANDELA",
       "upl": "Britalia",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -28,8 +28,8 @@
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-jose-de-bavaria-bogota/193626884",
-      "titulo": "Apartamento en Venta en San jose de bavaria, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lagos-de-torca-bogota/193626884",
+      "titulo": "Apartamento en Venta en Lagos de Torca, Bogotá",
       "id_domus": "193626884",
       "fechaPublicacion": "2026-04-14",
       "lat": 4.7690285,
@@ -41,6 +41,70 @@
     },
     {
       "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 450000000,
+      "area": 86.0,
+      "precioM2": 5232558,
+      "administracion": 450000.0,
+      "barrio": "MIRANDELA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3.0,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-mirandela-bogota/194168480",
+      "titulo": "Apartamento en Venta en Mirandela, Bogotá",
+      "id_domus": "194168480",
+      "fechaPublicacion": "2026-08-26",
+      "lat": 4.7627773,
+      "lon": -74.0469034,
+      "location_type": "exacta",
+      "zonaConsulta": "MIRANDELA",
+      "zonaSlug": "mirandela",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 360900000,
+      "area": 80.0,
+      "precioM2": 4511250,
+      "administracion": 520700.0,
+      "barrio": "MIRANDELA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3.0,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lagos-de-torca-bogota/194214937",
+      "titulo": "Apartamento en Venta en Lagos de Torca, Bogotá",
+      "id_domus": "194214937",
+      "fechaPublicacion": "2026-09-05",
+      "lat": 4.7664909,
+      "lon": -74.0454347,
+      "location_type": "exacta",
+      "zonaConsulta": "MIRANDELA",
+      "zonaSlug": "mirandela",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -72,15 +136,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 340000000,
+      "precio": 320000000,
       "area": 61.0,
-      "precioM2": 5573770,
+      "precioM2": 5245902,
       "administracion": 338000.0,
       "barrio": "MIRANDELA",
       "upl": "Britalia",
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +200,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 310000000,
+      "area": 42.0,
+      "precioM2": 7380952,
+      "administracion": null,
+      "barrio": "MIRANDELA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-suba-bogota/194032588",
+      "titulo": "Apartamento en Venta en Suba, Bogotá",
+      "id_domus": "194032588",
+      "fechaPublicacion": "2026-07-24",
+      "lat": 4.7673811,
+      "lon": -74.0551578,
+      "location_type": "exacta",
+      "zonaConsulta": "MIRANDELA",
+      "zonaSlug": "mirandela",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +392,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-13",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 340000000,
+      "area": 61.0,
+      "precioM2": 5573770,
+      "administracion": 338000.0,
+      "barrio": "MIRANDELA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-mirandela-bogota/194454100",
+      "titulo": "Apartamento en Venta en Mirandela, Bogotá",
+      "id_domus": "194454100",
+      "fechaPublicacion": "2026-10-25",
+      "lat": 4.7662623,
+      "lon": -74.0480277,
+      "location_type": "exacta",
+      "zonaConsulta": "MIRANDELA",
+      "zonaSlug": "mirandela",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +520,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 310000000,
+      "area": 42.0,
+      "precioM2": 7380952,
+      "administracion": 195000.0,
+      "barrio": "SAN JOSE DE BAVARIA",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-jose-de-bavaria-bogota/194542817",
+      "titulo": "Apartamento en Venta en San jose de bavaria, Bogotá",
+      "id_domus": "194542817",
+      "fechaPublicacion": "2026-11-11",
+      "lat": 4.7673835436023,
+      "lon": -74.055082388824,
+      "location_type": "exacta",
+      "zonaConsulta": "MIRANDELA",
+      "zonaSlug": "mirandela",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -488,192 +648,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 549000000,
-      "area": 56.0,
-      "precioM2": 9803571,
-      "administracion": 350000.0,
-      "barrio": "SAN JOSE DE BAVARIA",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-jose-de-bavaria-bogota/194173788",
-      "titulo": "Apartamento en Venta en San jose de bavaria, Bogotá",
-      "id_domus": "194173788",
-      "fechaPublicacion": "2026-08-27",
-      "lat": 4.7690046,
-      "lon": -74.0564812,
-      "location_type": "exacta",
-      "zonaConsulta": "MIRANDELA",
-      "zonaSlug": "mirandela",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 420000000,
-      "area": 77.0,
-      "precioM2": 5454545,
-      "administracion": 267400.0,
-      "barrio": "MIRANDELA",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lagos-de-torca-bogota/194118356",
-      "titulo": "Apartamento en Venta en Lagos de Torca, Bogotá",
-      "id_domus": "194118356",
-      "fechaPublicacion": "2026-08-14",
-      "lat": 4.7660045220825,
-      "lon": -74.050495107739,
-      "location_type": "exacta",
-      "zonaConsulta": "MIRANDELA",
-      "zonaSlug": "mirandela",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 260000000,
-      "area": 38.0,
-      "precioM2": 6842105,
-      "administracion": 220000.0,
-      "barrio": "MIRANDELA",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lagos-de-torca-bogota/193431619",
-      "titulo": "Apartamento en Venta en Lagos de Torca, Bogotá",
-      "id_domus": "193431619",
-      "fechaPublicacion": "2026-02-24",
-      "lat": 4.7688881,
-      "lon": -74.0574943,
-      "location_type": "exacta",
-      "zonaConsulta": "MIRANDELA",
-      "zonaSlug": "mirandela",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 350000000,
-      "area": 38.0,
-      "precioM2": 9210526,
-      "administracion": 178800.0,
-      "barrio": "MAZUREN",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-mazuren-bogota/193610554",
-      "titulo": "Apartamento en Venta en Mazuren, Bogotá",
-      "id_domus": "193610554",
-      "fechaPublicacion": "2026-04-09",
-      "lat": 4.7692548622307,
-      "lon": -74.056649208069,
-      "location_type": "exacta",
-      "zonaConsulta": "MIRANDELA",
-      "zonaSlug": "mirandela",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 380000000,
-      "area": 42.0,
-      "precioM2": 9047619,
-      "administracion": 220000.0,
-      "barrio": "SAN JOSE DE BAVARIA",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-jose-de-bavaria-bogota/193283751",
-      "titulo": "Apartamento en Venta en San jose de bavaria, Bogotá",
-      "id_domus": "193283751",
-      "fechaPublicacion": "2026-01-16",
-      "lat": 4.7688881,
-      "lon": -74.0574943,
-      "location_type": "exacta",
-      "zonaConsulta": "MIRANDELA",
-      "zonaSlug": "mirandela",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-21",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 480000000,
-      "area": 57.0,
-      "precioM2": 8421053,
-      "administracion": 287000.0,
-      "barrio": "MIRANDELA",
+      "precio": 300000000,
+      "area": 42.0,
+      "precioM2": 7142857,
+      "administracion": 175000.0,
+      "barrio": "SAN JOSE DE BAVARIA",
       "upl": "Britalia",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 4,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lagos-de-torca-bogota/194490012",
-      "titulo": "Apartamento en Venta en Lagos de Torca, Bogotá",
-      "id_domus": "194490012",
-      "fechaPublicacion": "2026-11-01",
-      "lat": 4.769004595214,
-      "lon": -74.056384644439,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-jose-de-bavaria-bogota/194210655",
+      "titulo": "Apartamento en Venta en San jose de bavaria, Bogotá",
+      "id_domus": "194210655",
+      "fechaPublicacion": "2026-09-04",
+      "lat": 4.7670752396819,
+      "lon": -74.054869714143,
       "location_type": "exacta",
       "zonaConsulta": "MIRANDELA",
       "zonaSlug": "mirandela",

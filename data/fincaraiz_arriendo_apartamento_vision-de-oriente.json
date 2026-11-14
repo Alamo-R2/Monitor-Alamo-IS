@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 9,
   "zona": "VISION DE ORIENTE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.14 07:07",
+  "generado": "2026.NOV.14 16:12",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2800000,
+      "area": 56.0,
+      "precioM2": 50000,
+      "administracion": null,
+      "barrio": "VISION DE ORIENTE",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/10301569",
+      "titulo": "Apartamento en arriendo en Fontibon, Bogotá",
+      "id_domus": "10301569",
+      "fechaPublicacion": "2023-11-17",
+      "lat": 4.6503851573023,
+      "lon": -74.131879806519,
+      "location_type": "exacta",
+      "zonaConsulta": "VISION DE ORIENTE",
+      "zonaSlug": "vision-de-oriente",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -34,38 +66,6 @@
       "fechaPublicacion": "2022-07-18",
       "lat": 4.6513911,
       "lon": -74.1353808,
-      "location_type": "exacta",
-      "zonaConsulta": "VISION DE ORIENTE",
-      "zonaSlug": "vision-de-oriente",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2800000,
-      "area": 56.0,
-      "precioM2": 50000,
-      "administracion": 268300.0,
-      "barrio": "VISION DE ORIENTE",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/10301569",
-      "titulo": "Apartamento en arriendo en Fontibon, Bogotá",
-      "id_domus": "10301569",
-      "fechaPublicacion": "2023-11-17",
-      "lat": 4.6503851573023,
-      "lon": -74.131879806519,
       "location_type": "exacta",
       "zonaConsulta": "VISION DE ORIENTE",
       "zonaSlug": "vision-de-oriente",
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1243000,
+      "area": 45.0,
+      "precioM2": 27622,
+      "administracion": 157000.0,
+      "barrio": "EL TINTAL",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-tintal-bogota/194558531",
+      "titulo": "Apartamento en Arriendo en El tintal, Bogotá",
+      "id_domus": "194558531",
+      "fechaPublicacion": "2026-11-13",
+      "lat": 4.6521731,
+      "lon": -74.1370081,
+      "location_type": "exacta",
+      "zonaConsulta": "VISION DE ORIENTE",
+      "zonaSlug": "vision-de-oriente",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1750000,
       "area": 52.0,
       "precioM2": 33654,
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
