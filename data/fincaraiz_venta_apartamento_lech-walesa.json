@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "LECH WALESA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.08 06:50",
+  "generado": "2026.NOV.15 12:20",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 200000000,
+      "area": 53.0,
+      "precioM2": 3773585,
+      "administracion": 120000.0,
+      "barrio": "LAGO DE SUBA",
+      "upl": "Rincón de Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-lago-de-suba-bogota/194532422",
+      "titulo": "Apartamento en Venta en Lago de suba, Bogotá",
+      "id_domus": "194532422",
+      "fechaPublicacion": "2026-11-10",
+      "lat": 4.729121,
+      "lon": -74.0997479,
+      "location_type": "exacta",
+      "zonaConsulta": "LECH WALESA",
+      "zonaSlug": "lech-walesa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
