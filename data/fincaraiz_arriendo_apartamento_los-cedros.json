@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.15 01:23",
+  "generado": "2026.NOV.15 19:29",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,38 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2500000,
-      "area": 50.0,
-      "precioM2": 50000,
-      "administracion": 300000.0,
-      "barrio": "CEDRITOS",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cedritos-bogota/192870595",
-      "titulo": "Apartamento en Arriendo en Cedritos, Bogotá",
-      "id_domus": "192870595",
-      "fechaPublicacion": "2025-09-14",
-      "lat": 4.7277451089454,
-      "lon": -74.044968678713,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS CEDROS",
-      "zonaSlug": "los-cedros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 2900000,
       "area": 52.0,
       "precioM2": 55769,
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2026-11-05",
       "lat": 4.727168,
       "lon": -74.0416849,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS CEDROS",
+      "zonaSlug": "los-cedros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2100000,
+      "area": 50.0,
+      "precioM2": 42000,
+      "administracion": 271750.0,
+      "barrio": "PRADO VERANIEGO",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-prado-veraniego-bogota/194401054",
+      "titulo": "Apartamento en Arriendo en Prado veraniego, Bogotá",
+      "id_domus": "194401054",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.7186369410724,
+      "lon": -74.052349680744,
       "location_type": "exacta",
       "zonaConsulta": "LOS CEDROS",
       "zonaSlug": "los-cedros",
@@ -142,70 +142,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2100000,
-      "area": 50.0,
-      "precioM2": 42000,
-      "administracion": 271750.0,
-      "barrio": "PRADO VERANIEGO",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-prado-veraniego-bogota/194401054",
-      "titulo": "Apartamento en Arriendo en Prado veraniego, Bogotá",
-      "id_domus": "194401054",
-      "fechaPublicacion": "2026-10-14",
-      "lat": 4.7186369410724,
-      "lon": -74.052349680744,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS CEDROS",
-      "zonaSlug": "los-cedros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2400000,
-      "area": 57.0,
-      "precioM2": 42105,
-      "administracion": null,
-      "barrio": "LOS CEDROS",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-nueva-autopista-bogota/194559890",
-      "titulo": "Apartamento en Arriendo en Nueva Autopista, Bogotá",
-      "id_domus": "194559890",
-      "fechaPublicacion": "2026-11-14",
-      "lat": 4.7229868,
-      "lon": -74.0482006,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS CEDROS",
-      "zonaSlug": "los-cedros",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 3500000,
       "area": 70.0,
       "precioM2": 50000,
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +456,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2500000,
+      "area": 50.0,
+      "precioM2": 50000,
+      "administracion": 300000.0,
+      "barrio": "CEDRITOS",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cedritos-bogota/192870595",
+      "titulo": "Apartamento en Arriendo en Cedritos, Bogotá",
+      "id_domus": "192870595",
+      "fechaPublicacion": "2025-09-14",
+      "lat": 4.7277451089454,
+      "lon": -74.044968678713,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS CEDROS",
+      "zonaSlug": "los-cedros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -648,15 +616,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 8500000,
+      "precio": 8300000,
       "area": 200.0,
-      "precioM2": 42500,
+      "precioM2": 41500,
       "administracion": null,
       "barrio": "CEDRITOS",
       "upl": "Niza",
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-10-02",
       "lat": 4.7246776,
       "lon": -74.0416251,
+      "location_type": "exacta",
+      "zonaConsulta": "LOS CEDROS",
+      "zonaSlug": "los-cedros",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 5900000,
+      "area": 120.0,
+      "precioM2": 49167,
+      "administracion": 1100000.0,
+      "barrio": "ALCALA",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-alcala-bogota/194004843",
+      "titulo": "Apartamento en Arriendo en Alcala, Bogotá",
+      "id_domus": "194004843",
+      "fechaPublicacion": "2026-07-17",
+      "lat": 4.7196808,
+      "lon": -74.0490978,
       "location_type": "exacta",
       "zonaConsulta": "LOS CEDROS",
       "zonaSlug": "los-cedros",
