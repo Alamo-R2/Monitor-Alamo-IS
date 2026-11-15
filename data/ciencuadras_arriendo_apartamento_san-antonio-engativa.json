@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 27,
+  "total": 26,
   "zona": "SAN ANTONIO ENGATIVA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.15 13:28",
+  "generado": "2026.NOV.15 20:09",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 50.0,
+      "precioM2": 32000,
+      "administracion": null,
+      "barrio": "REMANSO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": 0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-remanso-bogota-2976045",
+      "titulo": "Apartamento en Remanso",
+      "id_domus": "2976045",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "SAN ANTONIO ENGATIVA",
+      "zonaSlug": "san-antonio-engativa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -223,38 +255,6 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-juan-xxiii-bogota-2439121",
       "titulo": "Apartamento en Juan Xxiii",
       "id_domus": "2439121",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "SAN ANTONIO ENGATIVA",
-      "zonaSlug": "san-antonio-engativa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2200000,
-      "area": 35.44,
-      "precioM2": 62077,
-      "administracion": null,
-      "barrio": "SAN ANTONIO ENGATIVA",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-cjr-veramonte-living-bogota-3939041",
-      "titulo": "Apartamento en Cjr Veramonte Living",
-      "id_domus": "3939041",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -831,38 +831,6 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-las-nieves-bogota-3885472",
       "titulo": "Apartamento en Las Nieves",
       "id_domus": "3885472",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "SAN ANTONIO ENGATIVA",
-      "zonaSlug": "san-antonio-engativa",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-27",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 11594000,
-      "area": 243.81,
-      "precioM2": 47553,
-      "administracion": null,
-      "barrio": "LOS ROSALES",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 5,
-      "banos": 4,
-      "parqueaderos": 2,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-los-rosales-bogota-3903384",
-      "titulo": "Apartamento en Los Rosales",
-      "id_domus": "3903384",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
