@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 26,
+  "total": 25,
   "zona": "EL TINTAL II",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.15 20:09",
+  "generado": "2026.NOV.16 02:35",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 5651000,
+      "area": 135.0,
+      "precioM2": 41859,
+      "administracion": null,
+      "barrio": "EL TINTAL II",
+      "upl": "Fontibón",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 4,
+      "parqueaderos": 2,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-la-colina-campestre-bogota-3640317",
+      "titulo": "Apartamento en La Colina Campestre",
+      "id_domus": "3640317",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "EL TINTAL II",
+      "zonaSlug": "el-tintal-ii",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -223,38 +255,6 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-san-patricio-bogota-3795658",
       "titulo": "Apartamento en San Patricio",
       "id_domus": "3795658",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "EL TINTAL II",
-      "zonaSlug": "el-tintal-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2400000,
-      "area": 41.0,
-      "precioM2": 58537,
-      "administracion": null,
-      "barrio": "JUAN XXIII",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-juan-xxiii-bogota-2439121",
-      "titulo": "Apartamento en Juan Xxiii",
-      "id_domus": "2439121",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
@@ -799,38 +799,6 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-maria-cristina-bogota-3941359",
       "titulo": "Apartamento en María Cristina",
       "id_domus": "3941359",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "EL TINTAL II",
-      "zonaSlug": "el-tintal-ii",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-26",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2626000,
-      "area": 38.2,
-      "precioM2": 68743,
-      "administracion": null,
-      "barrio": "LAS NIEVES",
-      "upl": "Fontibón",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-las-nieves-bogota-3885472",
-      "titulo": "Apartamento en Las Nieves",
-      "id_domus": "3885472",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
