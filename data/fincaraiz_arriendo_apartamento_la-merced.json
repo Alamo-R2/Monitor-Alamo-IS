@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 19,
+  "total": 17,
   "zona": "LA MERCED",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.08 21:25",
+  "generado": "2026.NOV.16 13:13",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4001000,
-      "area": 79.0,
-      "precioM2": 50646,
-      "administracion": 899000.0,
-      "barrio": "LA MERCED",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/194376116",
-      "titulo": "Apartamento en Arriendo en Centro Internacional, Bogotá",
-      "id_domus": "194376116",
-      "fechaPublicacion": "2026-10-08",
-      "lat": 4.621267,
-      "lon": -74.067197,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MERCED",
-      "zonaSlug": "la-merced",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -72,32 +40,64 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4001000,
+      "area": 79.0,
+      "precioM2": 50646,
+      "administracion": 899000.0,
+      "barrio": "LA MERCED",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/194376116",
+      "titulo": "Apartamento en Arriendo en Centro Internacional, Bogotá",
+      "id_domus": "194376116",
+      "fechaPublicacion": "2026-10-08",
+      "lat": 4.621267,
+      "lon": -74.067197,
+      "location_type": "exacta",
+      "zonaConsulta": "LA MERCED",
+      "zonaSlug": "la-merced",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2000000,
-      "area": 30.0,
-      "precioM2": 66667,
+      "precio": 6250000,
+      "area": 76.0,
+      "precioM2": 82237,
       "administracion": null,
-      "barrio": "SAN MARTIN",
+      "barrio": "LA MERCED",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-martin-bogota/192117843",
-      "titulo": "Apartamento en  Arriendo en San martin, Bogotá",
-      "id_domus": "192117843",
-      "fechaPublicacion": "2025-03-09",
-      "lat": 4.6180934,
-      "lon": -74.0659703,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/194555501",
+      "titulo": "Apartamento en Arriendo en Centro Internacional, Bogotá",
+      "id_domus": "194555501",
+      "fechaPublicacion": "2026-11-13",
+      "lat": 4.6193656,
+      "lon": -74.0669961,
       "location_type": "exacta",
       "zonaConsulta": "LA MERCED",
       "zonaSlug": "la-merced",
@@ -142,26 +142,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3800000,
-      "area": 60.0,
-      "precioM2": 63333,
+      "precio": 6250000,
+      "area": 76.0,
+      "precioM2": 82237,
       "administracion": null,
       "barrio": "LA MERCED",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
+      "banos": 3,
+      "parqueaderos": 2.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/194408443",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/194543960",
       "titulo": "Apartamento en Arriendo en Centro Internacional, Bogotá",
-      "id_domus": "194408443",
-      "fechaPublicacion": "2026-10-15",
-      "lat": 4.6215647,
-      "lon": -74.0678895,
+      "id_domus": "194543960",
+      "fechaPublicacion": "2026-11-11",
+      "lat": 4.6193656,
+      "lon": -74.0669961,
       "location_type": "exacta",
       "zonaConsulta": "LA MERCED",
       "zonaSlug": "la-merced",
@@ -206,74 +206,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2300000,
-      "area": 27.0,
-      "precioM2": 85185,
-      "administracion": null,
-      "barrio": "SAN MARTIN",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-martin-bogota/193136409",
-      "titulo": "Apartamento en Arriendo en San martin, Bogotá",
-      "id_domus": "193136409",
-      "fechaPublicacion": "2025-11-25",
-      "lat": 4.6190112,
-      "lon": -74.0664601,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MERCED",
-      "zonaSlug": "la-merced",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1870000,
-      "area": 30.0,
-      "precioM2": 62333,
-      "administracion": 200000.0,
-      "barrio": "LA MERCED",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/194480977",
-      "titulo": "Apartamento en Arriendo en Centro Internacional, Bogotá",
-      "id_domus": "194480977",
-      "fechaPublicacion": "2026-10-29",
-      "lat": 4.6197626,
-      "lon": -74.0652198,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MERCED",
-      "zonaSlug": "la-merced",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3480000,
+      "precio": 3000000,
       "area": 82.0,
-      "precioM2": 42439,
-      "administracion": null,
+      "precioM2": 36585,
+      "administracion": 480000.0,
       "barrio": "LA MERCED",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -488,39 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2800000,
-      "area": 67.0,
-      "precioM2": 41791,
-      "administracion": null,
-      "barrio": "LA MERCED",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/194513889",
-      "titulo": "Apartamento en Arriendo en Centro Internacional, Bogotá",
-      "id_domus": "194513889",
-      "fechaPublicacion": "2026-11-06",
-      "lat": 4.6203826,
-      "lon": -74.0684096,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MERCED",
-      "zonaSlug": "la-merced",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -610,6 +514,38 @@
       "fechaPublicacion": "2025-10-01",
       "lat": 4.618469008533,
       "lon": -74.065976289132,
+      "location_type": "exacta",
+      "zonaConsulta": "LA MERCED",
+      "zonaSlug": "la-merced",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000,
+      "area": 40.0,
+      "precioM2": 65000,
+      "administracion": null,
+      "barrio": "LA MERCED",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-internacional-bogota/194532822",
+      "titulo": "Apartamento en Arriendo en Centro Internacional, Bogotá",
+      "id_domus": "194532822",
+      "fechaPublicacion": "2026-11-10",
+      "lat": 4.6193656,
+      "lon": -74.0669961,
       "location_type": "exacta",
       "zonaConsulta": "LA MERCED",
       "zonaSlug": "la-merced",

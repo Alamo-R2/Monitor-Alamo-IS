@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.14 16:12",
+  "generado": "2026.NOV.16 13:13",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 519000000,
+      "area": 67.0,
+      "precioM2": 7746269,
+      "administracion": 250000.0,
+      "barrio": "SALAZAR GOMEZ",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-comercial-outlet-factory-bogota/194254974",
+      "titulo": "Apartamento en Venta en Centro Comercial Outlet Factory, Bogotá",
+      "id_domus": "194254974",
+      "fechaPublicacion": "2026-09-14",
+      "lat": 4.6330092,
+      "lon": -74.1211285,
+      "location_type": "exacta",
+      "zonaConsulta": "SALAZAR GOMEZ",
+      "zonaSlug": "salazar-gomez",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -194,38 +226,6 @@
       "fechaPublicacion": "2026-08-12",
       "lat": 4.62946,
       "lon": -74.1218993,
-      "location_type": "exacta",
-      "zonaConsulta": "SALAZAR GOMEZ",
-      "zonaSlug": "salazar-gomez",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 519000000,
-      "area": 67.0,
-      "precioM2": 7746269,
-      "administracion": 250000.0,
-      "barrio": "SALAZAR GOMEZ",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-comercial-outlet-factory-bogota/194254974",
-      "titulo": "Apartamento en Venta en Centro Comercial Outlet Factory, Bogotá",
-      "id_domus": "194254974",
-      "fechaPublicacion": "2026-09-14",
-      "lat": 4.6330092,
-      "lon": -74.1211285,
       "location_type": "exacta",
       "zonaConsulta": "SALAZAR GOMEZ",
       "zonaSlug": "salazar-gomez",

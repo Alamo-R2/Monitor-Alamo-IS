@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.10 22:36",
+  "generado": "2026.NOV.16 13:13",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,38 +78,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2400000,
-      "area": 33.0,
-      "precioM2": 72727,
-      "administracion": null,
-      "barrio": "SANTA FE",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-fe-bogota/194309953",
-      "titulo": "Apartamento en Arriendo en Santa fe, Bogotá",
-      "id_domus": "194309953",
-      "fechaPublicacion": "2026-09-24",
-      "lat": 4.6218358,
-      "lon": -74.0693212,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA FE",
-      "zonaSlug": "santa-fe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 3850000,
       "area": 87.0,
       "precioM2": 44253,
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -168,71 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2500000,
-      "area": 46.0,
-      "precioM2": 54348,
-      "administracion": null,
-      "barrio": "LAS NIEVES",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-las-nieves-bogota/194458400",
-      "titulo": "Apartamento en Arriendo en Las nieves, Bogotá",
-      "id_domus": "194458400",
-      "fechaPublicacion": "2026-10-26",
-      "lat": 4.6143123,
-      "lon": -74.0762681,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA FE",
-      "zonaSlug": "santa-fe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2300000,
-      "area": 30.0,
-      "precioM2": 76667,
-      "administracion": null,
-      "barrio": "SANTA FE",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-fe-bogota/193275371",
-      "titulo": "Apartamento en Arriendo en Santa fe, Bogotá",
-      "id_domus": "193275371",
-      "fechaPublicacion": "2026-01-14",
-      "lat": 4.610053,
-      "lon": -74.0704759,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA FE",
-      "zonaSlug": "santa-fe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +200,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2400000,
+      "area": 33.0,
+      "precioM2": 72727,
+      "administracion": null,
+      "barrio": "SANTA FE",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-fe-bogota/194309953",
+      "titulo": "Apartamento en Arriendo en Santa fe, Bogotá",
+      "id_domus": "194309953",
+      "fechaPublicacion": "2026-09-24",
+      "lat": 4.6218358,
+      "lon": -74.0693212,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA FE",
+      "zonaSlug": "santa-fe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -360,15 +296,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1576990,
+      "precio": 1470300,
       "area": 30.0,
-      "precioM2": 52566,
+      "precioM2": 49010,
       "administracion": null,
       "barrio": "EL LISTON",
       "upl": "Centro Histórico",
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -482,6 +418,70 @@
       "fechaPublicacion": "2026-02-20",
       "lat": 4.6182136,
       "lon": -74.0814154,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA FE",
+      "zonaSlug": "santa-fe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2500000,
+      "area": 46.0,
+      "precioM2": 54348,
+      "administracion": null,
+      "barrio": "LAS NIEVES",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-las-nieves-bogota/194458400",
+      "titulo": "Apartamento en Arriendo en Las nieves, Bogotá",
+      "id_domus": "194458400",
+      "fechaPublicacion": "2026-10-26",
+      "lat": 4.6143123,
+      "lon": -74.0762681,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA FE",
+      "zonaSlug": "santa-fe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2300000,
+      "area": 30.0,
+      "precioM2": 76667,
+      "administracion": null,
+      "barrio": "SANTA FE",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-fe-bogota/193275371",
+      "titulo": "Apartamento en Arriendo en Santa fe, Bogotá",
+      "id_domus": "193275371",
+      "fechaPublicacion": "2026-01-14",
+      "lat": 4.610053,
+      "lon": -74.0704759,
       "location_type": "exacta",
       "zonaConsulta": "SANTA FE",
       "zonaSlug": "santa-fe",

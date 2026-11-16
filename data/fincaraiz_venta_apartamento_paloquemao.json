@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.08 21:25",
+  "generado": "2026.NOV.16 13:13",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 36.0,
+      "precioM2": 6666667,
+      "administracion": 144000.0,
+      "barrio": "PALOQUEMAO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-paloquemado-bogota/193068769",
+      "titulo": "Apartamento en Venta en Paloquemado, Bogotá",
+      "id_domus": "193068769",
+      "fechaPublicacion": "2025-11-06",
+      "lat": 4.6151864,
+      "lon": -74.0844927,
+      "location_type": "exacta",
+      "zonaConsulta": "PALOQUEMAO",
+      "zonaSlug": "paloquemao",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,39 +104,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 258000000,
-      "area": 37.0,
-      "precioM2": 6972973,
-      "administracion": 156000.0,
+      "precio": 270000000,
+      "area": 31.0,
+      "precioM2": 8709677,
+      "administracion": 161300.0,
       "barrio": "PALOQUEMAO",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
+      "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-paloquemao-bogota/193494059",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-paloquemao-bogota/194120329",
       "titulo": "Apartamento en Venta en Paloquemao, Bogotá",
-      "id_domus": "193494059",
-      "fechaPublicacion": "2026-03-11",
-      "lat": 4.6147498,
-      "lon": -74.0847377,
+      "id_domus": "194120329",
+      "fechaPublicacion": "2026-08-14",
+      "lat": 4.6121814,
+      "lon": -74.0837087,
       "location_type": "exacta",
       "zonaConsulta": "PALOQUEMAO",
       "zonaSlug": "paloquemao",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 84.0,
+      "precioM2": 4166667,
+      "administracion": 255000.0,
+      "barrio": "PALOQUEMAO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-fason-bogota/194551061",
+      "titulo": "Apartamento en Venta en San Fasón, Bogotá",
+      "id_domus": "194551061",
+      "fechaPublicacion": "2026-11-12",
+      "lat": 4.613935,
+      "lon": -74.083967,
+      "location_type": "exacta",
+      "zonaConsulta": "PALOQUEMAO",
+      "zonaSlug": "paloquemao",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -610,70 +674,6 @@
       "fechaPublicacion": "2026-04-21",
       "lat": 4.6120371665797,
       "lon": -74.083225843099,
-      "location_type": "exacta",
-      "zonaConsulta": "PALOQUEMAO",
-      "zonaSlug": "paloquemao",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 307800000,
-      "area": 35.0,
-      "precioM2": 8794286,
-      "administracion": 155500.0,
-      "barrio": "PALOQUEMAO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-paloquemao-bogota/193603837",
-      "titulo": "Apartamento en Venta en Paloquemao, Bogotá",
-      "id_domus": "193603837",
-      "fechaPublicacion": "2026-04-07",
-      "lat": 4.6115452379855,
-      "lon": -74.083170890808,
-      "location_type": "exacta",
-      "zonaConsulta": "PALOQUEMAO",
-      "zonaSlug": "paloquemao",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 258000000,
-      "area": 37.0,
-      "precioM2": 6972973,
-      "administracion": 156000.0,
-      "barrio": "PALOQUEMAO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-paloquemao-bogota/193494047",
-      "titulo": "Apartamento en Venta en Paloquemao, Bogotá",
-      "id_domus": "193494047",
-      "fechaPublicacion": "2026-03-11",
-      "lat": 4.6147498,
-      "lon": -74.0847377,
       "location_type": "exacta",
       "zonaConsulta": "PALOQUEMAO",
       "zonaSlug": "paloquemao",

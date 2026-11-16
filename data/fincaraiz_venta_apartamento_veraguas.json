@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 21,
+  "total": 20,
   "zona": "VERAGUAS",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.08 21:25",
+  "generado": "2026.NOV.16 13:13",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,9 +78,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 350000000,
+      "precio": 300000000,
       "area": 46.0,
-      "precioM2": 7608696,
+      "precioM2": 6521739,
       "administracion": null,
       "barrio": "SANTA ISABEL",
       "upl": "Centro Histórico",
@@ -105,38 +105,6 @@
     },
     {
       "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 272600000,
-      "area": 58.0,
-      "precioM2": 4700000,
-      "administracion": 51789.0,
-      "barrio": "VERAGUAS",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-veraguas-bogota/194349913",
-      "titulo": "Apartamento en Venta en Veraguas, Bogotá",
-      "id_domus": "194349913",
-      "fechaPublicacion": "2026-10-02",
-      "lat": 4.6000083,
-      "lon": -74.0954035,
-      "location_type": "exacta",
-      "zonaConsulta": "VERAGUAS",
-      "zonaSlug": "veraguas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -168,39 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 222000000,
-      "area": 35.0,
-      "precioM2": 6342857,
-      "administracion": 221000.0,
-      "barrio": "RICAURTE",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ricaurte-bogota/193958101",
-      "titulo": "Apartamento en Venta en Ricaurte, Bogotá",
-      "id_domus": "193958101",
-      "fechaPublicacion": "2026-07-06",
-      "lat": 4.606265,
-      "lon": -74.0968844,
-      "location_type": "exacta",
-      "zonaConsulta": "VERAGUAS",
-      "zonaSlug": "veraguas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -264,39 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 272600000,
-      "area": 58.0,
-      "precioM2": 4700000,
-      "administracion": 51000.0,
-      "barrio": "SANTA ISABEL",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-isabel-bogota/194471674",
-      "titulo": "Apartamento en Venta en Santa isabel, Bogotá",
-      "id_domus": "194471674",
-      "fechaPublicacion": "2026-10-28",
-      "lat": 4.600096,
-      "lon": -74.095363,
-      "location_type": "exacta",
-      "zonaConsulta": "VERAGUAS",
-      "zonaSlug": "veraguas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +456,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-15",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 520000000,
+      "area": 73.0,
+      "precioM2": 7123288,
+      "administracion": 477000.0,
+      "barrio": "RICAURTE",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ricaurte-bogota/194535650",
+      "titulo": "Apartamento en Venta en Ricaurte, Bogotá",
+      "id_domus": "194535650",
+      "fechaPublicacion": "2026-11-10",
+      "lat": 4.6044141,
+      "lon": -74.0947545,
+      "location_type": "exacta",
+      "zonaConsulta": "VERAGUAS",
+      "zonaSlug": "veraguas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +552,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 222000000,
+      "area": 35.0,
+      "precioM2": 6342857,
+      "administracion": 221000.0,
+      "barrio": "RICAURTE",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ricaurte-bogota/193958101",
+      "titulo": "Apartamento en Venta en Ricaurte, Bogotá",
+      "id_domus": "193958101",
+      "fechaPublicacion": "2026-07-06",
+      "lat": 4.606265,
+      "lon": -74.0968844,
+      "location_type": "exacta",
+      "zonaConsulta": "VERAGUAS",
+      "zonaSlug": "veraguas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
