@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 8,
   "zona": "REMANSO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.09 01:16",
+  "generado": "2026.NOV.16 23:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,106 +14,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1600000,
-      "area": 65.0,
-      "precioM2": 24615,
-      "administracion": null,
-      "barrio": "REMANSO",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-montes-bogota/194506223",
-      "titulo": "Apartamento en Arriendo en Ciudad Montes, Bogotá",
-      "id_domus": "194506223",
-      "fechaPublicacion": "2026-11-04",
-      "lat": 4.603921,
-      "lon": -74.117201,
-      "location_type": "exacta",
-      "zonaConsulta": "REMANSO",
-      "zonaSlug": "remanso",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 110.0,
-      "precioM2": 16364,
-      "administracion": null,
-      "barrio": "REMANSO",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-remanso-bogota/194440328",
-      "titulo": "Apartamento en Arriendo en Remanso, Bogotá",
-      "id_domus": "194440328",
-      "fechaPublicacion": "2026-10-22",
-      "lat": 4.6033699,
-      "lon": -74.1134058,
-      "location_type": "exacta",
-      "zonaConsulta": "REMANSO",
-      "zonaSlug": "remanso",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 26.0,
-      "precioM2": 69231,
-      "administracion": null,
-      "barrio": "GRAN AMERICA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gran-america-bogota/194418273",
-      "titulo": "Apartamento en Arriendo en Gran america, Bogotá",
-      "id_domus": "194418273",
-      "fechaPublicacion": "2026-10-17",
-      "lat": 4.5994559,
-      "lon": -74.1070042,
-      "location_type": "exacta",
-      "zonaConsulta": "REMANSO",
-      "zonaSlug": "remanso",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2000000,
-      "area": 80.0,
-      "precioM2": 25000,
-      "administracion": null,
+      "precio": 1550000,
+      "area": 50.0,
+      "precioM2": 31000,
+      "administracion": 50000.0,
       "barrio": "REMANSO",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
@@ -124,19 +28,19 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-remanso-bogota/194366132",
-      "titulo": "Apartamento en Arriendo en Remanso, Bogotá",
-      "id_domus": "194366132",
-      "fechaPublicacion": "2026-10-06",
-      "lat": 4.6039293,
-      "lon": -74.1140506,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-montes-bogota/194564881",
+      "titulo": "Apartamento en Arriendo en Ciudad Montes, Bogotá",
+      "id_domus": "194564881",
+      "fechaPublicacion": "2026-11-16",
+      "lat": 4.5994189,
+      "lon": -74.1097785,
       "location_type": "exacta",
       "zonaConsulta": "REMANSO",
       "zonaSlug": "remanso",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -290,6 +194,70 @@
       "fechaPublicacion": "2026-10-21",
       "lat": 4.6012595,
       "lon": -74.1122635,
+      "location_type": "exacta",
+      "zonaConsulta": "REMANSO",
+      "zonaSlug": "remanso",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 26.0,
+      "precioM2": 69231,
+      "administracion": null,
+      "barrio": "GRAN AMERICA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-gran-america-bogota/194418273",
+      "titulo": "Apartamento en Arriendo en Gran america, Bogotá",
+      "id_domus": "194418273",
+      "fechaPublicacion": "2026-10-17",
+      "lat": 4.5994559,
+      "lon": -74.1070042,
+      "location_type": "exacta",
+      "zonaConsulta": "REMANSO",
+      "zonaSlug": "remanso",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 80.0,
+      "precioM2": 25000,
+      "administracion": null,
+      "barrio": "REMANSO",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-remanso-bogota/194366132",
+      "titulo": "Apartamento en Arriendo en Remanso, Bogotá",
+      "id_domus": "194366132",
+      "fechaPublicacion": "2026-10-06",
+      "lat": 4.6039293,
+      "lon": -74.1140506,
       "location_type": "exacta",
       "zonaConsulta": "REMANSO",
       "zonaSlug": "remanso",

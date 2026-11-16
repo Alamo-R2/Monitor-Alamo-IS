@@ -1,46 +1,14 @@
 {
   "ok": true,
-  "total": 16,
+  "total": 15,
   "zona": "SAN FRANCISCO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.12 22:55",
+  "generado": "2026.NOV.16 23:04",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 315155000,
-      "area": 44.0,
-      "precioM2": 7162614,
-      "administracion": null,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/eskala-apartamento-en-venta-en-puente-aranda-bogota/10763005",
-      "titulo": "ESKALA, Apartamento en Venta en Puente aranda, Bogotá",
-      "id_domus": "10763005",
-      "fechaPublicacion": "2024-04-09",
-      "lat": 4.6251553,
-      "lon": -74.1090388,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN FRANCISCO",
-      "zonaSlug": "san-francisco",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-05-22",
       "lat": 4.6233791,
       "lon": -74.1079718,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FRANCISCO",
+      "zonaSlug": "san-francisco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 420000000,
+      "area": 80.0,
+      "precioM2": 5250000,
+      "administracion": null,
+      "barrio": "PUENTE ARANDA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/193663705",
+      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
+      "id_domus": "193663705",
+      "fechaPublicacion": "2026-04-22",
+      "lat": 4.6207179,
+      "lon": -74.1091804,
       "location_type": "exacta",
       "zonaConsulta": "SAN FRANCISCO",
       "zonaSlug": "san-francisco",
@@ -334,38 +334,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 430000000,
-      "area": 74.0,
-      "precioM2": 5810811,
-      "administracion": null,
-      "barrio": "SAN FRANCISCO",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-francisco-bogota/193644830",
-      "titulo": "Apartamento en Venta en San francisco, Bogotá",
-      "id_domus": "193644830",
-      "fechaPublicacion": "2026-04-17",
-      "lat": 4.6207179,
-      "lon": -74.1091804,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN FRANCISCO",
-      "zonaSlug": "san-francisco",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 290000000,
       "area": 53.0,
       "precioM2": 5471698,
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -424,30 +392,30 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 430000000,
-      "area": 80.0,
-      "precioM2": 5375000,
+      "precio": 420000000,
+      "area": 74.0,
+      "precioM2": 5675676,
       "administracion": null,
-      "barrio": "PUENTE ARANDA",
+      "barrio": "SAN FRANCISCO",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 1,
+      "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": null,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/193663705",
-      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
-      "id_domus": "193663705",
-      "fechaPublicacion": "2026-04-22",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-francisco-bogota/194562866",
+      "titulo": "Apartamento en Venta en San francisco, Bogotá",
+      "id_domus": "194562866",
+      "fechaPublicacion": "2026-11-15",
       "lat": 4.6207179,
       "lon": -74.1091804,
       "location_type": "exacta",
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
