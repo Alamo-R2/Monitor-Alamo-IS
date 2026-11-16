@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 10,
+  "total": 9,
   "zona": "BELEN",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.08 16:24",
+  "generado": "2026.NOV.16 01:27",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,70 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3600000,
-      "area": 70.0,
-      "precioM2": 51429,
-      "administracion": null,
-      "barrio": "LA CANDELARIA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-candelaria-bogota/194043408",
-      "titulo": "Apartamento en Arriendo en La candelaria, Bogotá",
-      "id_domus": "194043408",
-      "fechaPublicacion": "2026-07-28",
-      "lat": 4.5926305,
-      "lon": -74.0714208,
-      "location_type": "exacta",
-      "zonaConsulta": "BELEN",
-      "zonaSlug": "belen",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1600000,
-      "area": 34.0,
-      "precioM2": 47059,
-      "administracion": 188700.0,
-      "barrio": "LA CANDELARIA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-candelaria-bogota/194471629",
-      "titulo": "Apartamento en Arriendo en La Candelaria, Bogotá",
-      "id_domus": "194471629",
-      "fechaPublicacion": "2026-10-28",
-      "lat": 4.592051,
-      "lon": -74.0743716,
-      "location_type": "exacta",
-      "zonaConsulta": "BELEN",
-      "zonaSlug": "belen",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1850000,
       "area": 30.0,
       "precioM2": 61667,
@@ -136,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +104,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3600000,
+      "area": 70.0,
+      "precioM2": 51429,
+      "administracion": null,
+      "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-candelaria-bogota/194043408",
+      "titulo": "Apartamento en Arriendo en La candelaria, Bogotá",
+      "id_domus": "194043408",
+      "fechaPublicacion": "2026-07-28",
+      "lat": 4.5926305,
+      "lon": -74.0714208,
+      "location_type": "exacta",
+      "zonaConsulta": "BELEN",
+      "zonaSlug": "belen",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],

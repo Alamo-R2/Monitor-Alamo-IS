@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 6,
   "zona": "CENTRO ADMINISTRATIVO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.08 16:24",
+  "generado": "2026.NOV.16 01:27",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2200000,
+      "area": 40.0,
+      "precioM2": 55000,
+      "administracion": null,
+      "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-candelaria-bogota/194415188",
+      "titulo": "Apartamento en Arriendo en La candelaria, Bogotá",
+      "id_domus": "194415188",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.5954179,
+      "lon": -74.074315,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTRO ADMINISTRATIVO",
+      "zonaSlug": "centro-administrativo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -130,6 +162,38 @@
       "fechaPublicacion": "2026-11-03",
       "lat": 4.5930612,
       "lon": -74.0769746,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTRO ADMINISTRATIVO",
+      "zonaSlug": "centro-administrativo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 5800000,
+      "area": 92.0,
+      "precioM2": 63043,
+      "administracion": null,
+      "barrio": "EL RETIRO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-retiro-bogota/194527772",
+      "titulo": "Apartamento en Arriendo en El retiro, Bogotá",
+      "id_domus": "194527772",
+      "fechaPublicacion": "2026-11-09",
+      "lat": 4.596113,
+      "lon": -74.0777825,
       "location_type": "exacta",
       "zonaConsulta": "CENTRO ADMINISTRATIVO",
       "zonaSlug": "centro-administrativo",

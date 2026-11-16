@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 20,
+  "total": 21,
   "zona": "ESTRELLA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.10 22:36",
+  "generado": "2026.NOV.16 01:27",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,10 +14,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1500000,
-      "area": 23.0,
-      "precioM2": 65217,
-      "administracion": 300000.0,
+      "precio": 2250000,
+      "area": 30.0,
+      "precioM2": 75000,
+      "administracion": 345290.0,
       "barrio": "TEUSAQUILLO",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -28,12 +28,12 @@
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-teusaquillo-bogota/194430333",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-teusaquillo-bogota/194545693",
       "titulo": "Apartamento en Arriendo en Teusaquillo, Bogotá",
-      "id_domus": "194430333",
-      "fechaPublicacion": "2026-10-20",
-      "lat": 4.6220295,
-      "lon": -74.0748868,
+      "id_domus": "194545693",
+      "fechaPublicacion": "2026-11-11",
+      "lat": 4.6219395,
+      "lon": -74.0748762,
       "location_type": "exacta",
       "zonaConsulta": "ESTRELLA",
       "zonaSlug": "estrella",
@@ -78,9 +78,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2300000,
+      "precio": 2200000,
       "area": 32.0,
-      "precioM2": 71875,
+      "precioM2": 68750,
       "administracion": null,
       "barrio": "TEUSAQUILLO",
       "upl": "Centro Histórico",
@@ -238,42 +238,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1600000,
-      "area": 75.0,
-      "precioM2": 21333,
-      "administracion": null,
-      "barrio": "TEUSAQUILLO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-teusaquillo-bogota/194492356",
-      "titulo": "Apartamento en Arriendo en Teusaquillo, Bogotá",
-      "id_domus": "194492356",
-      "fechaPublicacion": "2026-11-02",
-      "lat": 4.6205499,
-      "lon": -74.0750644,
-      "location_type": "exacta",
-      "zonaConsulta": "ESTRELLA",
-      "zonaSlug": "estrella",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1800000,
-      "area": 25.0,
-      "precioM2": 72000,
-      "administracion": null,
+      "precio": 1500000,
+      "area": 23.0,
+      "precioM2": 65217,
+      "administracion": 300000.0,
       "barrio": "TEUSAQUILLO",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
@@ -284,19 +252,19 @@
       "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-teusaquillo-bogota/194211125",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-teusaquillo-bogota/194430333",
       "titulo": "Apartamento en Arriendo en Teusaquillo, Bogotá",
-      "id_domus": "194211125",
-      "fechaPublicacion": "2026-09-04",
-      "lat": 4.6219395,
-      "lon": -74.0748762,
+      "id_domus": "194430333",
+      "fechaPublicacion": "2026-10-20",
+      "lat": 4.6220295,
+      "lon": -74.0748868,
       "location_type": "exacta",
       "zonaConsulta": "ESTRELLA",
       "zonaSlug": "estrella",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -488,15 +456,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2300000,
+      "precio": 2200000,
       "area": 22.0,
-      "precioM2": 104545,
+      "precioM2": 100000,
       "administracion": null,
       "barrio": "TEUSAQUILLO",
       "upl": "Centro Histórico",
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -584,15 +552,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2300000,
+      "precio": 2200000,
       "area": 24.0,
-      "precioM2": 95833,
+      "precioM2": 91667,
       "administracion": null,
       "barrio": "TEUSAQUILLO",
       "upl": "Centro Histórico",
@@ -610,6 +578,38 @@
       "fechaPublicacion": "2026-09-30",
       "lat": 4.6220316,
       "lon": -74.0748598,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTRELLA",
+      "zonaSlug": "estrella",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000,
+      "area": 42.0,
+      "precioM2": 61905,
+      "administracion": null,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-teusaquillo-bogota/194557097",
+      "titulo": "Apartamento en Arriendo en Teusaquillo, Bogotá",
+      "id_domus": "194557097",
+      "fechaPublicacion": "2026-11-13",
+      "lat": 4.6216066,
+      "lon": -74.0749303,
       "location_type": "exacta",
       "zonaConsulta": "ESTRELLA",
       "zonaSlug": "estrella",
@@ -642,6 +642,38 @@
       "fechaPublicacion": "2026-08-31",
       "lat": 4.6220316,
       "lon": -74.0748598,
+      "location_type": "exacta",
+      "zonaConsulta": "ESTRELLA",
+      "zonaSlug": "estrella",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 75.0,
+      "precioM2": 21333,
+      "administracion": null,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-teusaquillo-bogota/194492356",
+      "titulo": "Apartamento en Arriendo en Teusaquillo, Bogotá",
+      "id_domus": "194492356",
+      "fechaPublicacion": "2026-11-02",
+      "lat": 4.6205499,
+      "lon": -74.0750644,
       "location_type": "exacta",
       "zonaConsulta": "ESTRELLA",
       "zonaSlug": "estrella",

@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.15 01:23",
+  "generado": "2026.NOV.16 01:27",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2500000,
+      "area": 62.0,
+      "precioM2": 40323,
+      "administracion": 650000.0,
+      "barrio": "LA MACARENA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-macarena-bogota/194508479",
+      "titulo": "Apartamento en Arriendo en La macarena, Bogotá",
+      "id_domus": "194508479",
+      "fechaPublicacion": "2026-11-05",
+      "lat": 4.6133493370719,
+      "lon": -74.064810722971,
+      "location_type": "exacta",
+      "zonaConsulta": "PARQUE NACIONAL ORIENTAL",
+      "zonaSlug": "parque-nacional-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-10-28",
       "lat": 4.6142652,
       "lon": -74.0652221,
-      "location_type": "exacta",
-      "zonaConsulta": "PARQUE NACIONAL ORIENTAL",
-      "zonaSlug": "parque-nacional-oriental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2500000,
-      "area": 62.0,
-      "precioM2": 40323,
-      "administracion": 650000.0,
-      "barrio": "LA MACARENA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-macarena-bogota/194508479",
-      "titulo": "Apartamento en Arriendo en La macarena, Bogotá",
-      "id_domus": "194508479",
-      "fechaPublicacion": "2026-11-05",
-      "lat": 4.6133493370719,
-      "lon": -74.064810722971,
       "location_type": "exacta",
       "zonaConsulta": "PARQUE NACIONAL ORIENTAL",
       "zonaSlug": "parque-nacional-oriental",
@@ -174,38 +174,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1850000,
-      "area": 74.0,
-      "precioM2": 25000,
-      "administracion": null,
-      "barrio": "LA MACARENA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-macarena-bogota/194459684",
-      "titulo": "Apartamento en Arriendo en La macarena, Bogotá",
-      "id_domus": "194459684",
-      "fechaPublicacion": "2026-10-26",
-      "lat": 4.61210127669,
-      "lon": -74.065641851195,
-      "location_type": "exacta",
-      "zonaConsulta": "PARQUE NACIONAL ORIENTAL",
-      "zonaSlug": "parque-nacional-oriental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1760000,
       "area": 44.0,
       "precioM2": 40000,
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -322,6 +290,38 @@
       "fechaPublicacion": "2026-09-24",
       "lat": 4.612763264479,
       "lon": -74.065541663796,
+      "location_type": "exacta",
+      "zonaConsulta": "PARQUE NACIONAL ORIENTAL",
+      "zonaSlug": "parque-nacional-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1850000,
+      "area": 74.0,
+      "precioM2": 25000,
+      "administracion": null,
+      "barrio": "LA MACARENA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-macarena-bogota/194459684",
+      "titulo": "Apartamento en Arriendo en La macarena, Bogotá",
+      "id_domus": "194459684",
+      "fechaPublicacion": "2026-10-26",
+      "lat": 4.61210127669,
+      "lon": -74.065641851195,
       "location_type": "exacta",
       "zonaConsulta": "PARQUE NACIONAL ORIENTAL",
       "zonaSlug": "parque-nacional-oriental",
