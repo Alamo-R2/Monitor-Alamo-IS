@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.13 07:26",
+  "generado": "2026.NOV.17 08:37",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 330000000,
-      "area": 71.0,
-      "precioM2": 4647887,
-      "administracion": 195000.0,
-      "barrio": "LAS AGUAS",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-aguas-bogota/194403438",
-      "titulo": "Apartamento en Venta en Las aguas, Bogotá",
-      "id_domus": "194403438",
-      "fechaPublicacion": "2026-10-14",
-      "lat": 4.5711044,
-      "lon": -74.0891806,
-      "location_type": "exacta",
-      "zonaConsulta": "GRANADA SUR",
-      "zonaSlug": "granada-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2023-11-23",
       "lat": 4.56889560591348,
       "lon": -74.0873761853638,
+      "location_type": "exacta",
+      "zonaConsulta": "GRANADA SUR",
+      "zonaSlug": "granada-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 330000000,
+      "area": 71.0,
+      "precioM2": 4647887,
+      "administracion": 195000.0,
+      "barrio": "LAS AGUAS",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-aguas-bogota/194403438",
+      "titulo": "Apartamento en Venta en Las aguas, Bogotá",
+      "id_domus": "194403438",
+      "fechaPublicacion": "2026-10-14",
+      "lat": 4.5711044,
+      "lon": -74.0891806,
       "location_type": "exacta",
       "zonaConsulta": "GRANADA SUR",
       "zonaSlug": "granada-sur",

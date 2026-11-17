@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 17,
+  "total": 18,
   "zona": "SANTA ANA SUR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.09 13:30",
+  "generado": "2026.NOV.17 08:37",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -206,9 +206,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 200000000,
+      "precio": 220000000,
       "area": 33.0,
-      "precioM2": 6060606,
+      "precioM2": 6666667,
       "administracion": null,
       "barrio": "SANTA ANA SUR",
       "upl": "San Cristóbal",
@@ -494,6 +494,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 175000000,
+      "area": 44.0,
+      "precioM2": 3977273,
+      "administracion": 130500.0,
+      "barrio": "SANTA ANA SUR",
+      "upl": "San Cristóbal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-ana-sur-bogota/194563726",
+      "titulo": "Apartamento en Venta en Santa ana sur, Bogotá",
+      "id_domus": "194563726",
+      "fechaPublicacion": "2026-11-15",
+      "lat": 4.5766905,
+      "lon": -74.0847347,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA ANA SUR",
+      "zonaSlug": "santa-ana-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 225000000,
       "area": 34.0,
       "precioM2": 6617647,
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],

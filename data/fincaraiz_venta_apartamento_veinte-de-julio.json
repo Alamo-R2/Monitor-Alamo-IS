@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 21,
+  "total": 18,
   "zona": "VEINTE DE JULIO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.09 13:30",
+  "generado": "2026.NOV.17 08:37",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 45.0,
+      "precioM2": 5333333,
+      "administracion": null,
+      "barrio": "VEINTE DE JULIO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-20-de-julio-bogota/194220780",
+      "titulo": "Apartamento en Venta en 20 de julio, Bogotá",
+      "id_domus": "194220780",
+      "fechaPublicacion": "2026-09-07",
+      "lat": 4.571102454593,
+      "lon": -74.092643062627,
+      "location_type": "exacta",
+      "zonaConsulta": "VEINTE DE JULIO",
+      "zonaSlug": "veinte-de-julio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-09-08",
       "lat": 4.5699278719795,
       "lon": -74.098907734475,
-      "location_type": "exacta",
-      "zonaConsulta": "VEINTE DE JULIO",
-      "zonaSlug": "veinte-de-julio",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 240000000,
-      "area": 45.0,
-      "precioM2": 5333333,
-      "administracion": null,
-      "barrio": "VEINTE DE JULIO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-20-de-julio-bogota/194220780",
-      "titulo": "Apartamento en Venta en 20 de julio, Bogotá",
-      "id_domus": "194220780",
-      "fechaPublicacion": "2026-09-07",
-      "lat": 4.571102454593,
-      "lon": -74.092643062627,
       "location_type": "exacta",
       "zonaConsulta": "VEINTE DE JULIO",
       "zonaSlug": "veinte-de-julio",
@@ -174,102 +174,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2398269791,
-      "area": 157.0,
-      "precioM2": 15275604,
-      "administracion": 1890000.0,
-      "barrio": "VEINTE DE JULIO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 6.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-reservado-bogota/193814574",
-      "titulo": "Apartamento en Venta en Chicó Reservado, Bogotá",
-      "id_domus": "193814574",
-      "fechaPublicacion": "2026-05-29",
-      "lat": 4.57484,
-      "lon": -74.09476,
-      "location_type": "exacta",
-      "zonaConsulta": "VEINTE DE JULIO",
-      "zonaSlug": "veinte-de-julio",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 569810185,
-      "area": 36.0,
-      "precioM2": 15828061,
-      "administracion": 500000.0,
-      "barrio": "VEINTE DE JULIO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 6.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-reservado-bogota/193814554",
-      "titulo": "Apartamento en Venta en Chicó Reservado, Bogotá",
-      "id_domus": "193814554",
-      "fechaPublicacion": "2026-05-29",
-      "lat": 4.57484,
-      "lon": -74.09476,
-      "location_type": "exacta",
-      "zonaConsulta": "VEINTE DE JULIO",
-      "zonaSlug": "veinte-de-julio",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 285000000,
-      "area": 45.0,
-      "precioM2": 6333333,
-      "administracion": 153000.0,
-      "barrio": "VEINTE DE JULIO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-20-de-julio-bogota/193580693",
-      "titulo": "Apartamento en Venta en 20 de julio, Bogotá",
-      "id_domus": "193580693",
-      "fechaPublicacion": "2026-03-30",
-      "lat": 4.5705685,
-      "lon": -74.0928593,
-      "location_type": "exacta",
-      "zonaConsulta": "VEINTE DE JULIO",
-      "zonaSlug": "veinte-de-julio",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 320000000,
       "area": 63.0,
       "precioM2": 5079365,
@@ -296,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -424,15 +328,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 400000000,
+      "precio": 410000000,
       "area": 65.0,
-      "precioM2": 6153846,
+      "precioM2": 6307692,
       "administracion": 240000.0,
       "barrio": "VEINTE DE JULIO",
       "upl": "Restrepo",
@@ -456,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -552,39 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 765416667,
-      "area": 55.0,
-      "precioM2": 13916667,
-      "administracion": 680000.0,
-      "barrio": "VEINTE DE JULIO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 6.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chico-reservado-bogota/193814564",
-      "titulo": "Apartamento en Venta en Chicó Reservado, Bogotá",
-      "id_domus": "193814564",
-      "fechaPublicacion": "2026-05-29",
-      "lat": 4.57484,
-      "lon": -74.09476,
-      "location_type": "exacta",
-      "zonaConsulta": "VEINTE DE JULIO",
-      "zonaSlug": "veinte-de-julio",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +546,38 @@
       "fechaPublicacion": "2026-10-07",
       "lat": 4.573640075779,
       "lon": -74.09270517253,
+      "location_type": "exacta",
+      "zonaConsulta": "VEINTE DE JULIO",
+      "zonaSlug": "veinte-de-julio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 200000000,
+      "area": 43.0,
+      "precioM2": 4651163,
+      "administracion": null,
+      "barrio": "VITELMA",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-vitelma-bogota/10780561",
+      "titulo": "Apartamento en venta en Vitelma, Bogotá",
+      "id_domus": "10780561",
+      "fechaPublicacion": "2024-04-15",
+      "lat": 4.5721730761381,
+      "lon": -74.092427271008,
       "location_type": "exacta",
       "zonaConsulta": "VEINTE DE JULIO",
       "zonaSlug": "veinte-de-julio",
