@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.16 02:35",
+  "generado": "2026.NOV.17 10:14",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2123000,
+      "area": 50.0,
+      "precioM2": 42460,
+      "administracion": null,
+      "barrio": "CEDRO SALAZAR",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-cedro-salazar-bogota-3719751",
+      "titulo": "Apartamento en Cedro Salazar",
+      "id_domus": "3719751",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "CEDRO SALAZAR",
+      "zonaSlug": "cedro-salazar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -63,38 +95,6 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-o-venta-en-cedro-salazar-bogota-3930975",
       "titulo": "Apartamento en Cedro Salazar",
       "id_domus": "3930975",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "CEDRO SALAZAR",
-      "zonaSlug": "cedro-salazar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2123000,
-      "area": 50.0,
-      "precioM2": 42460,
-      "administracion": null,
-      "barrio": "CEDRO SALAZAR",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/apartamento-en-arriendo-en-cedro-salazar-bogota-3719751",
-      "titulo": "Apartamento en Cedro Salazar",
-      "id_domus": "3719751",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
