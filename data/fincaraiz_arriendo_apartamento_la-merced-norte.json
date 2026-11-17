@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.09 23:12",
+  "generado": "2026.NOV.17 18:49",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2500000,
+      "area": 44.0,
+      "precioM2": 56818,
+      "administracion": null,
+      "barrio": "LA MERCED NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/194529054",
+      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
+      "id_domus": "194529054",
+      "fechaPublicacion": "2026-11-10",
+      "lat": 4.6635233,
+      "lon": -74.0768591,
+      "location_type": "exacta",
+      "zonaConsulta": "LA MERCED NORTE",
+      "zonaSlug": "la-merced-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-11-05",
       "lat": 4.6644919,
       "lon": -74.0718317,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MERCED NORTE",
-      "zonaSlug": "la-merced-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2010000,
-      "area": 64.0,
-      "precioM2": 31406,
-      "administracion": null,
-      "barrio": "ALCAZARES NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-alcazares-norte-bogota/194465164",
-      "titulo": "Apartamento en Arriendo en Alcazares norte, Bogotá",
-      "id_domus": "194465164",
-      "fechaPublicacion": "2026-10-27",
-      "lat": 4.66642179278,
-      "lon": -74.071244231458,
       "location_type": "exacta",
       "zonaConsulta": "LA MERCED NORTE",
       "zonaSlug": "la-merced-norte",

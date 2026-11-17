@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.09 23:12",
+  "generado": "2026.NOV.17 18:49",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 220000000,
+      "area": 47.0,
+      "precioM2": 4680851,
+      "administracion": 136000.0,
+      "barrio": "FATIMA",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fatima-bogota/194174556",
+      "titulo": "Apartamento en Venta en Fatima, Bogotá",
+      "id_domus": "194174556",
+      "fechaPublicacion": "2026-08-27",
+      "lat": 4.586642,
+      "lon": -74.1427743,
+      "location_type": "exacta",
+      "zonaConsulta": "FATIMA",
+      "zonaSlug": "fatima",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 250000000,
       "area": 54.0,
       "precioM2": 4629630,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2024-09-06",
       "lat": 4.5888245,
       "lon": -74.14112,
-      "location_type": "exacta",
-      "zonaConsulta": "FATIMA",
-      "zonaSlug": "fatima",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 220000000,
-      "area": 47.0,
-      "precioM2": 4680851,
-      "administracion": 136000.0,
-      "barrio": "FATIMA",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-fatima-bogota/194174556",
-      "titulo": "Apartamento en Venta en Fatima, Bogotá",
-      "id_domus": "194174556",
-      "fechaPublicacion": "2026-08-27",
-      "lat": 4.586642,
-      "lon": -74.1427743,
       "location_type": "exacta",
       "zonaConsulta": "FATIMA",
       "zonaSlug": "fatima",

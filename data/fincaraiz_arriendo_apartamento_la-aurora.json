@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.13 07:26",
+  "generado": "2026.NOV.17 18:49",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2000000,
-      "area": 100.0,
-      "precioM2": 20000,
-      "administracion": null,
-      "barrio": "SANTA SOFIA",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-sofia-bogota/194177643",
-      "titulo": "Apartamento en Arriendo en Santa sofia, Bogotá",
-      "id_domus": "194177643",
-      "fechaPublicacion": "2026-08-28",
-      "lat": 4.6680518,
-      "lon": -74.0674049,
-      "location_type": "exacta",
-      "zonaConsulta": "LA AURORA",
-      "zonaSlug": "la-aurora",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2023-04-28",
       "lat": 4.6682627,
       "lon": -74.0686454,
+      "location_type": "exacta",
+      "zonaConsulta": "LA AURORA",
+      "zonaSlug": "la-aurora",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 100.0,
+      "precioM2": 20000,
+      "administracion": null,
+      "barrio": "SANTA SOFIA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-sofia-bogota/194177643",
+      "titulo": "Apartamento en Arriendo en Santa sofia, Bogotá",
+      "id_domus": "194177643",
+      "fechaPublicacion": "2026-08-28",
+      "lat": 4.6680518,
+      "lon": -74.0674049,
       "location_type": "exacta",
       "zonaConsulta": "LA AURORA",
       "zonaSlug": "la-aurora",

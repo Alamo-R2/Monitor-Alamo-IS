@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.15 01:23",
+  "generado": "2026.NOV.17 18:49",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2100000,
-      "area": 41.0,
-      "precioM2": 51220,
-      "administracion": null,
-      "barrio": "CHAPINERO OCCIDENTAL",
+      "precio": 1480000,
+      "area": 21.0,
+      "precioM2": 70476,
+      "administracion": 170000.0,
+      "barrio": "SAN LUIS",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 1,
-      "banos": 2.0,
+      "banos": 1.0,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194447675",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194447675",
-      "fechaPublicacion": "2026-10-23",
-      "lat": 4.6458514,
-      "lon": -74.065017,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-luis-bogota/194434329",
+      "titulo": "Apartamento en Arriendo en San luis, Bogotá",
+      "id_domus": "194434329",
+      "fechaPublicacion": "2026-10-21",
+      "lat": 4.6461578,
+      "lon": -74.0675248,
       "location_type": "exacta",
       "zonaConsulta": "CHAPINERO OCCIDENTAL",
       "zonaSlug": "chapinero-occidental",
@@ -78,70 +78,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1580000,
-      "area": 40.0,
-      "precioM2": 39500,
-      "administracion": null,
-      "barrio": "CHAPINERO OCCIDENTAL",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-sur-occidental-bogota/193982622",
-      "titulo": "Apartamento en Arriendo en Chapinero sur occidental, Bogotá",
-      "id_domus": "193982622",
-      "fechaPublicacion": "2026-07-12",
-      "lat": 4.6433323,
-      "lon": -74.0664891,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO OCCIDENTAL",
-      "zonaSlug": "chapinero-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1480000,
-      "area": 21.0,
-      "precioM2": 70476,
-      "administracion": 170000.0,
-      "barrio": "SAN LUIS",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1.0,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-luis-bogota/194434329",
-      "titulo": "Apartamento en Arriendo en San luis, Bogotá",
-      "id_domus": "194434329",
-      "fechaPublicacion": "2026-10-21",
-      "lat": 4.6461578,
-      "lon": -74.0675248,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO OCCIDENTAL",
-      "zonaSlug": "chapinero-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1874485,
       "area": 46.0,
       "precioM2": 40750,
@@ -162,6 +98,70 @@
       "fechaPublicacion": "2026-11-10",
       "lat": 4.6457755,
       "lon": -74.0651617,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO OCCIDENTAL",
+      "zonaSlug": "chapinero-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2100000,
+      "area": 41.0,
+      "precioM2": 51220,
+      "administracion": null,
+      "barrio": "CHAPINERO OCCIDENTAL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194447675",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194447675",
+      "fechaPublicacion": "2026-10-23",
+      "lat": 4.6458514,
+      "lon": -74.065017,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO OCCIDENTAL",
+      "zonaSlug": "chapinero-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1746957,
+      "area": 30.0,
+      "precioM2": 58232,
+      "administracion": 317042.0,
+      "barrio": "CHAPINERO OCCIDENTAL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1.0,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194527650",
+      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
+      "id_domus": "194527650",
+      "fechaPublicacion": "2026-11-09",
+      "lat": 4.645747,
+      "lon": -74.065171,
       "location_type": "exacta",
       "zonaConsulta": "CHAPINERO OCCIDENTAL",
       "zonaSlug": "chapinero-occidental",
@@ -334,6 +334,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1580000,
+      "area": 40.0,
+      "precioM2": 39500,
+      "administracion": null,
+      "barrio": "CHAPINERO OCCIDENTAL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-sur-occidental-bogota/193982622",
+      "titulo": "Apartamento en Arriendo en Chapinero sur occidental, Bogotá",
+      "id_domus": "193982622",
+      "fechaPublicacion": "2026-07-12",
+      "lat": 4.6433323,
+      "lon": -74.0664891,
+      "location_type": "exacta",
+      "zonaConsulta": "CHAPINERO OCCIDENTAL",
+      "zonaSlug": "chapinero-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1250000,
       "area": 22.0,
       "precioM2": 56818,
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-11-05",
       "lat": 4.6479928,
       "lon": -74.0670135,
-      "location_type": "exacta",
-      "zonaConsulta": "CHAPINERO OCCIDENTAL",
-      "zonaSlug": "chapinero-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1911000,
-      "area": 23.0,
-      "precioM2": 83087,
-      "administracion": 189000.0,
-      "barrio": "CHAPINERO OCCIDENTAL",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chapinero-bogota/194245470",
-      "titulo": "Apartamento en Arriendo en Chapinero, Bogotá",
-      "id_domus": "194245470",
-      "fechaPublicacion": "2026-09-12",
-      "lat": 4.6451205,
-      "lon": -74.0652835,
       "location_type": "exacta",
       "zonaConsulta": "CHAPINERO OCCIDENTAL",
       "zonaSlug": "chapinero-occidental",

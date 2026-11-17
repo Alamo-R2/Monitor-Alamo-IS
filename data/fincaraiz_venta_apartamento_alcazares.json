@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 19,
+  "total": 21,
   "zona": "ALCAZARES",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.09 23:12",
+  "generado": "2026.NOV.17 18:49",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,41 +14,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 280000000,
-      "area": 78.0,
-      "precioM2": 3589744,
-      "administracion": 88000.0,
-      "barrio": "SIETE DE AGOSTO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-siete-de-agosto-bogota/192771677",
-      "titulo": "Apartamento en Venta en Siete de agosto, Bogotá",
-      "id_domus": "192771677",
-      "fechaPublicacion": "2025-08-20",
-      "lat": 4.6610098,
-      "lon": -74.0726171,
-      "location_type": "exacta",
-      "zonaConsulta": "ALCAZARES",
-      "zonaSlug": "alcazares",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 420000000,
+      "precio": 400000000,
       "area": 40.0,
-      "precioM2": 10500000,
+      "precioM2": 10000000,
       "administracion": 550000.0,
       "barrio": "ALCAZARES",
       "upl": "Barrios Unidos",
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -96,6 +64,38 @@
       "titulo": "Apartamento en Venta en Alcazares, Bogotá",
       "id_domus": "193800377",
       "fechaPublicacion": "2026-05-26",
+      "lat": 4.6633616,
+      "lon": -74.0680168,
+      "location_type": "exacta",
+      "zonaConsulta": "ALCAZARES",
+      "zonaSlug": "alcazares",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 640000000,
+      "area": 58.0,
+      "precioM2": 11034483,
+      "administracion": 1031000.0,
+      "barrio": "ALCAZARES",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcazares-bogota/194531296",
+      "titulo": "Apartamento en Venta en Alcazares, Bogotá",
+      "id_domus": "194531296",
+      "fechaPublicacion": "2026-11-10",
       "lat": 4.6633616,
       "lon": -74.0680168,
       "location_type": "exacta",
@@ -206,6 +206,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 479000000,
+      "area": 43.0,
+      "precioM2": 11139535,
+      "administracion": 534000.0,
+      "barrio": "ALCAZARES",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcazares-bogota/194535328",
+      "titulo": "Apartamento en Venta en Alcazares, Bogotá",
+      "id_domus": "194535328",
+      "fechaPublicacion": "2026-11-10",
+      "lat": 4.6629626,
+      "lon": -74.0684026,
+      "location_type": "exacta",
+      "zonaConsulta": "ALCAZARES",
+      "zonaSlug": "alcazares",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 750000000,
+      "area": 80.0,
+      "precioM2": 9375000,
+      "administracion": 1200000.0,
+      "barrio": "ALCAZARES",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcazares-bogota/194556706",
+      "titulo": "Apartamento en Venta en Alcazares, Bogotá",
+      "id_domus": "194556706",
+      "fechaPublicacion": "2026-11-13",
+      "lat": 4.6633616,
+      "lon": -74.0680168,
+      "location_type": "exacta",
+      "zonaConsulta": "ALCAZARES",
+      "zonaSlug": "alcazares",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 490000000,
       "area": 40.0,
       "precioM2": 12250000,
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -264,39 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 357000000,
-      "area": 25.0,
-      "precioM2": 14280000,
-      "administracion": 247791.0,
-      "barrio": "ALCAZARES",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alcazares-bogota/194453241",
-      "titulo": "Apartamento en Venta en Alcazares, Bogotá",
-      "id_domus": "194453241",
-      "fechaPublicacion": "2026-10-24",
-      "lat": 4.6633616,
-      "lon": -74.0680168,
-      "location_type": "exacta",
-      "zonaConsulta": "ALCAZARES",
-      "zonaSlug": "alcazares",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,15 +360,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 410000000,
-      "area": 36.0,
-      "precioM2": 11388889,
+      "precio": 400000000,
+      "area": 39.0,
+      "precioM2": 10256410,
       "administracion": 550000.0,
       "barrio": "ALCAZARES",
       "upl": "Barrios Unidos",
@@ -360,7 +392,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 280000000,
+      "area": 78.0,
+      "precioM2": 3589744,
+      "administracion": 88000.0,
+      "barrio": "SIETE DE AGOSTO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-siete-de-agosto-bogota/192771677",
+      "titulo": "Apartamento en Venta en Siete de agosto, Bogotá",
+      "id_domus": "192771677",
+      "fechaPublicacion": "2025-08-20",
+      "lat": 4.6610098,
+      "lon": -74.0726171,
+      "location_type": "exacta",
+      "zonaConsulta": "ALCAZARES",
+      "zonaSlug": "alcazares",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],

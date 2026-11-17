@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.10 07:51",
+  "generado": "2026.NOV.17 18:49",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 490000000,
-      "area": 88.0,
-      "precioM2": 5568182,
-      "administracion": 460000.0,
-      "barrio": "METROPOLIS",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-metropolis-bogota/194478494",
-      "titulo": "Apartamento en Venta en Metropolis, Bogotá",
-      "id_domus": "194478494",
-      "fechaPublicacion": "2026-10-29",
-      "lat": 4.6785478,
-      "lon": -74.084114,
-      "location_type": "exacta",
-      "zonaConsulta": "METROPOLIS",
-      "zonaSlug": "metropolis",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 490000000,
+      "area": 88.0,
+      "precioM2": 5568182,
+      "administracion": 460000.0,
+      "barrio": "METROPOLIS",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-metropolis-bogota/194478494",
+      "titulo": "Apartamento en Venta en Metropolis, Bogotá",
+      "id_domus": "194478494",
+      "fechaPublicacion": "2026-10-29",
+      "lat": 4.6785478,
+      "lon": -74.084114,
+      "location_type": "exacta",
+      "zonaConsulta": "METROPOLIS",
+      "zonaSlug": "metropolis",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 575000000,
+      "area": 76.0,
+      "precioM2": 7565789,
+      "administracion": 538000.0,
+      "barrio": "LAS FERIAS",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-ferias-bogota/193462892",
+      "titulo": "Apartamento en Venta en Las ferias, Bogotá",
+      "id_domus": "193462892",
+      "fechaPublicacion": "2026-03-04",
+      "lat": 4.683412706798,
+      "lon": -74.082750656681,
+      "location_type": "exacta",
+      "zonaConsulta": "METROPOLIS",
+      "zonaSlug": "metropolis",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -194,38 +226,6 @@
       "fechaPublicacion": "2026-06-24",
       "lat": 4.6835163,
       "lon": -74.082838,
-      "location_type": "exacta",
-      "zonaConsulta": "METROPOLIS",
-      "zonaSlug": "metropolis",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 575000000,
-      "area": 76.0,
-      "precioM2": 7565789,
-      "administracion": 538000.0,
-      "barrio": "LAS FERIAS",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-ferias-bogota/193462892",
-      "titulo": "Apartamento en Venta en Las ferias, Bogotá",
-      "id_domus": "193462892",
-      "fechaPublicacion": "2026-03-04",
-      "lat": 4.683412706798,
-      "lon": -74.082750656681,
       "location_type": "exacta",
       "zonaConsulta": "METROPOLIS",
       "zonaSlug": "metropolis",
