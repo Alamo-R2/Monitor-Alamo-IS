@@ -1,415 +1,5 @@
 [
   {
-    "grupo": "barrios",
-    "generado": "2026.SEP.24 12:39",
-    "iso": "2026-09-24T12:39:39",
-    "total": 2046,
-    "segundos_total": 659.1,
-    "datasets": [
-      {
-        "clave": "venta_oficina_ospina-perez",
-        "total": 55,
-        "segundos": 9.8
-      },
-      {
-        "clave": "arriendo_oficina_ospina-perez",
-        "total": 64,
-        "segundos": 9.0
-      },
-      {
-        "clave": "venta_bodega_ospina-perez",
-        "total": 0,
-        "segundos": 6.5
-      },
-      {
-        "clave": "arriendo_bodega_ospina-perez",
-        "total": 0,
-        "segundos": 6.4
-      },
-      {
-        "clave": "venta_edificio_ospina-perez",
-        "total": 43,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_edificio_ospina-perez",
-        "total": 49,
-        "segundos": 9.0
-      },
-      {
-        "clave": "venta_local_ospina-perez",
-        "total": 53,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_local_ospina-perez",
-        "total": 0,
-        "segundos": 6.4
-      },
-      {
-        "clave": "venta_lote_ospina-perez",
-        "total": 44,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_lote_ospina-perez",
-        "total": 44,
-        "segundos": 9.0
-      },
-      {
-        "clave": "venta_oficina_ospina-perez-sur",
-        "total": 10,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_oficina_ospina-perez-sur",
-        "total": 10,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_bodega_ospina-perez-sur",
-        "total": 49,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_bodega_ospina-perez-sur",
-        "total": 0,
-        "segundos": 6.3
-      },
-      {
-        "clave": "venta_edificio_ospina-perez-sur",
-        "total": 50,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_edificio_ospina-perez-sur",
-        "total": 49,
-        "segundos": 9.0
-      },
-      {
-        "clave": "venta_local_ospina-perez-sur",
-        "total": 30,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_local_ospina-perez-sur",
-        "total": 0,
-        "segundos": 6.4
-      },
-      {
-        "clave": "venta_lote_ospina-perez-sur",
-        "total": 0,
-        "segundos": 6.6
-      },
-      {
-        "clave": "arriendo_lote_ospina-perez-sur",
-        "total": 0,
-        "segundos": 6.3
-      },
-      {
-        "clave": "venta_oficina_primavera-occidental",
-        "total": 9,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_oficina_primavera-occidental",
-        "total": 3,
-        "segundos": 8.8
-      },
-      {
-        "clave": "venta_bodega_primavera-occidental",
-        "total": 50,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_bodega_primavera-occidental",
-        "total": 49,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_edificio_primavera-occidental",
-        "total": 49,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_edificio_primavera-occidental",
-        "total": 50,
-        "segundos": 9.1
-      },
-      {
-        "clave": "venta_local_primavera-occidental",
-        "total": 0,
-        "segundos": 6.3
-      },
-      {
-        "clave": "arriendo_local_primavera-occidental",
-        "total": 5,
-        "segundos": 8.8
-      },
-      {
-        "clave": "venta_lote_primavera-occidental",
-        "total": 0,
-        "segundos": 6.5
-      },
-      {
-        "clave": "arriendo_lote_primavera-occidental",
-        "total": 0,
-        "segundos": 6.5
-      },
-      {
-        "clave": "venta_oficina_puente-aranda",
-        "total": 0,
-        "segundos": 6.3
-      },
-      {
-        "clave": "arriendo_oficina_puente-aranda",
-        "total": 50,
-        "segundos": 9.0
-      },
-      {
-        "clave": "venta_bodega_puente-aranda",
-        "total": 50,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_bodega_puente-aranda",
-        "total": 48,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_edificio_puente-aranda",
-        "total": 50,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_edificio_puente-aranda",
-        "total": 47,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_local_puente-aranda",
-        "total": 20,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_local_puente-aranda",
-        "total": 50,
-        "segundos": 9.0
-      },
-      {
-        "clave": "venta_lote_puente-aranda",
-        "total": 15,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_lote_puente-aranda",
-        "total": 44,
-        "segundos": 9.0
-      },
-      {
-        "clave": "venta_oficina_remanso",
-        "total": 55,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_oficina_remanso",
-        "total": 6,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_bodega_remanso",
-        "total": 3,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_bodega_remanso",
-        "total": 54,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_edificio_remanso",
-        "total": 49,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_edificio_remanso",
-        "total": 49,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_local_remanso",
-        "total": 53,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_local_remanso",
-        "total": 0,
-        "segundos": 6.4
-      },
-      {
-        "clave": "venta_lote_remanso",
-        "total": 44,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_lote_remanso",
-        "total": 44,
-        "segundos": 9.2
-      },
-      {
-        "clave": "venta_oficina_remanso-sur",
-        "total": 10,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_oficina_remanso-sur",
-        "total": 10,
-        "segundos": 8.8
-      },
-      {
-        "clave": "venta_bodega_remanso-sur",
-        "total": 0,
-        "segundos": 6.3
-      },
-      {
-        "clave": "arriendo_bodega_remanso-sur",
-        "total": 49,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_edificio_remanso-sur",
-        "total": 50,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_edificio_remanso-sur",
-        "total": 49,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_local_remanso-sur",
-        "total": 30,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_local_remanso-sur",
-        "total": 0,
-        "segundos": 6.3
-      },
-      {
-        "clave": "venta_lote_remanso-sur",
-        "total": 0,
-        "segundos": 6.3
-      },
-      {
-        "clave": "arriendo_lote_remanso-sur",
-        "total": 0,
-        "segundos": 6.3
-      },
-      {
-        "clave": "venta_oficina_san-francisco",
-        "total": 50,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_oficina_san-francisco",
-        "total": 0,
-        "segundos": 6.4
-      },
-      {
-        "clave": "venta_bodega_san-francisco",
-        "total": 3,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_bodega_san-francisco",
-        "total": 4,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_edificio_san-francisco",
-        "total": 42,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_edificio_san-francisco",
-        "total": 48,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_local_san-francisco",
-        "total": 22,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_local_san-francisco",
-        "total": 49,
-        "segundos": 9.0
-      },
-      {
-        "clave": "venta_lote_san-francisco",
-        "total": 0,
-        "segundos": 6.3
-      },
-      {
-        "clave": "arriendo_lote_san-francisco",
-        "total": 0,
-        "segundos": 6.4
-      },
-      {
-        "clave": "venta_oficina_san-gabriel",
-        "total": 3,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_oficina_san-gabriel",
-        "total": 0,
-        "segundos": 6.4
-      },
-      {
-        "clave": "venta_bodega_san-gabriel",
-        "total": 3,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_bodega_san-gabriel",
-        "total": 0,
-        "segundos": 6.4
-      },
-      {
-        "clave": "venta_edificio_san-gabriel",
-        "total": 50,
-        "segundos": 9.1
-      },
-      {
-        "clave": "arriendo_edificio_san-gabriel",
-        "total": 50,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_local_san-gabriel",
-        "total": 22,
-        "segundos": 8.8
-      },
-      {
-        "clave": "arriendo_local_san-gabriel",
-        "total": 3,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_lote_san-gabriel",
-        "total": 3,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_lote_san-gabriel",
-        "total": 0,
-        "segundos": 6.4
-      }
-    ],
-    "variaciones": {}
-  },
-  {
     "grupo": "diario",
     "generado": "2026.SEP.24 13:54",
     "iso": "2026-09-24T13:54:02",
@@ -326994,6 +326584,416 @@
         "clave": "ciencuadras_arriendo_apartamento_sabana-de-tibabuyes",
         "total": 0,
         "segundos": 4.2
+      }
+    ],
+    "variaciones": {}
+  },
+  {
+    "grupo": "barrios",
+    "generado": "2026.NOV.17 16:48",
+    "iso": "2026-11-17T16:48:06",
+    "total": 781,
+    "segundos_total": 415.9,
+    "datasets": [
+      {
+        "clave": "venta_oficina_san-jose-sur-oriental",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "arriendo_oficina_san-jose-sur-oriental",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_bodega_san-jose-sur-oriental",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_bodega_san-jose-sur-oriental",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_edificio_san-jose-sur-oriental",
+        "total": 49,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_edificio_san-jose-sur-oriental",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_san-jose-sur-oriental",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "arriendo_local_san-jose-sur-oriental",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "venta_lote_san-jose-sur-oriental",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_lote_san-jose-sur-oriental",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_oficina_san-pedro",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "arriendo_oficina_san-pedro",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "venta_bodega_san-pedro",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_bodega_san-pedro",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_edificio_san-pedro",
+        "total": 43,
+        "segundos": 6.9
+      },
+      {
+        "clave": "arriendo_edificio_san-pedro",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_san-pedro",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_local_san-pedro",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_lote_san-pedro",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_lote_san-pedro",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_oficina_san-vicente",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_oficina_san-vicente",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_bodega_san-vicente",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "arriendo_bodega_san-vicente",
+        "total": 0,
+        "segundos": 5.2
+      },
+      {
+        "clave": "venta_edificio_san-vicente",
+        "total": 36,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_edificio_san-vicente",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_san-vicente",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_local_san-vicente",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_lote_san-vicente",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_lote_san-vicente",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_oficina_santa-ana-sur",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "arriendo_oficina_santa-ana-sur",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_bodega_santa-ana-sur",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_bodega_santa-ana-sur",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_edificio_santa-ana-sur",
+        "total": 49,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_edificio_santa-ana-sur",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_santa-ana-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_local_santa-ana-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_lote_santa-ana-sur",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_lote_santa-ana-sur",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_oficina_santa-ines-sur",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_oficina_santa-ines-sur",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_bodega_santa-ines-sur",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "arriendo_bodega_santa-ines-sur",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_edificio_santa-ines-sur",
+        "total": 49,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_edificio_santa-ines-sur",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_santa-ines-sur",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "arriendo_local_santa-ines-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_lote_santa-ines-sur",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_lote_santa-ines-sur",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_oficina_santa-ines-sur-ii",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_oficina_santa-ines-sur-ii",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_bodega_santa-ines-sur-ii",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "arriendo_bodega_santa-ines-sur-ii",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_edificio_santa-ines-sur-ii",
+        "total": 49,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_edificio_santa-ines-sur-ii",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_santa-ines-sur-ii",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_local_santa-ines-sur-ii",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "venta_lote_santa-ines-sur-ii",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_lote_santa-ines-sur-ii",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_oficina_suramerica",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "arriendo_oficina_suramerica",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_bodega_suramerica",
+        "total": 0,
+        "segundos": 5.2
+      },
+      {
+        "clave": "arriendo_bodega_suramerica",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_edificio_suramerica",
+        "total": 48,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_edificio_suramerica",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_suramerica",
+        "total": 4,
+        "segundos": 6.8
+      },
+      {
+        "clave": "arriendo_local_suramerica",
+        "total": 5,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_lote_suramerica",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_lote_suramerica",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_oficina_tibaque",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_oficina_tibaque",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "venta_bodega_tibaque",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "arriendo_bodega_tibaque",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_edificio_tibaque",
+        "total": 50,
+        "segundos": 7.0
+      },
+      {
+        "clave": "arriendo_edificio_tibaque",
+        "total": 49,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_tibaque",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "arriendo_local_tibaque",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "venta_lote_tibaque",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_lote_tibaque",
+        "total": 0,
+        "segundos": 4.8
       }
     ],
     "variaciones": {}
