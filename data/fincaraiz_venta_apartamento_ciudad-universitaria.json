@@ -5,10 +5,74 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.10 22:36",
+  "generado": "2026.NOV.18 13:31",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 660000000,
+      "area": 146.0,
+      "precioM2": 4520548,
+      "administracion": null,
+      "barrio": "BELALCAZAR",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-belalcazar-bogota/194508671",
+      "titulo": "Apartamento en Venta en Belalcazar, Bogotá",
+      "id_domus": "194508671",
+      "fechaPublicacion": "2026-11-05",
+      "lat": 4.6394328,
+      "lon": -74.0785004,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD UNIVERSITARIA",
+      "zonaSlug": "ciudad-universitaria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 450000000,
+      "area": 51.0,
+      "precioM2": 8823529,
+      "administracion": null,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/194485306",
+      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
+      "id_domus": "194485306",
+      "fechaPublicacion": "2026-10-30",
+      "lat": 4.6458919,
+      "lon": -74.0836432,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD UNIVERSITARIA",
+      "zonaSlug": "ciudad-universitaria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -34,70 +98,6 @@
       "fechaPublicacion": "2026-07-30",
       "lat": 4.643288,
       "lon": -74.0782316,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD UNIVERSITARIA",
-      "zonaSlug": "ciudad-universitaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 690000000,
-      "area": 71.0,
-      "precioM2": 9718310,
-      "administracion": null,
-      "barrio": "QUINTA PAREDES",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quinta-paredes-bogota/194320786",
-      "titulo": "Apartamento en Venta en Quinta paredes, Bogotá",
-      "id_domus": "194320786",
-      "fechaPublicacion": "2026-09-26",
-      "lat": 4.6355608,
-      "lon": -74.0924182,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD UNIVERSITARIA",
-      "zonaSlug": "ciudad-universitaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 995000000,
-      "area": 177.0,
-      "precioM2": 5621469,
-      "administracion": 1450000.0,
-      "barrio": "NICOLAS DE FEDERMAN",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 5,
-      "parqueaderos": 2.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/194415196",
-      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
-      "id_domus": "194415196",
-      "fechaPublicacion": "2026-10-16",
-      "lat": 4.6460445,
-      "lon": -74.0835567,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD UNIVERSITARIA",
       "zonaSlug": "ciudad-universitaria",
@@ -142,70 +142,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 454000000,
-      "area": 90.0,
-      "precioM2": 5044444,
-      "administracion": 10000.0,
-      "barrio": "BELALCAZAR",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-belalcazar-bogota/194226321",
-      "titulo": "Apartamento en Venta en Belalcazar, Bogotá",
-      "id_domus": "194226321",
-      "fechaPublicacion": "2026-09-08",
-      "lat": 4.6404105,
-      "lon": -74.078691,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD UNIVERSITARIA",
-      "zonaSlug": "ciudad-universitaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 450000000,
-      "area": 51.0,
-      "precioM2": 8823529,
-      "administracion": null,
-      "barrio": "NICOLAS DE FEDERMAN",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/194485306",
-      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
-      "id_domus": "194485306",
-      "fechaPublicacion": "2026-10-30",
-      "lat": 4.6458919,
-      "lon": -74.0836432,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD UNIVERSITARIA",
-      "zonaSlug": "ciudad-universitaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1200000000,
       "area": 143.0,
       "precioM2": 8391608,
@@ -232,71 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 539000000,
-      "area": 98.0,
-      "precioM2": 5500000,
-      "administracion": 240000.0,
-      "barrio": "NICOLAS DE FEDERMAN",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/193385336",
-      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
-      "id_domus": "193385336",
-      "fechaPublicacion": "2026-02-11",
-      "lat": 4.6433084,
-      "lon": -74.0812825,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD UNIVERSITARIA",
-      "zonaSlug": "ciudad-universitaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 690000000,
-      "area": 104.0,
-      "precioM2": 6634615,
-      "administracion": 400000.0,
-      "barrio": "CIUDAD UNIVERSITARIA",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-universitaria-bogota/194309420",
-      "titulo": "Apartamento en Venta en Ciudad universitaria, Bogotá",
-      "id_domus": "194309420",
-      "fechaPublicacion": "2026-09-24",
-      "lat": 4.6409309714385,
-      "lon": -74.088416771429,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD UNIVERSITARIA",
-      "zonaSlug": "ciudad-universitaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -328,39 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 375000000,
-      "area": 78.0,
-      "precioM2": 4807692,
-      "administracion": 450000.0,
-      "barrio": "EL RECUERDO",
-      "upl": "Teusaquillo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-recuerdo-bogota/194460349",
-      "titulo": "Apartamento en Venta en El recuerdo, Bogotá",
-      "id_domus": "194460349",
-      "fechaPublicacion": "2026-10-26",
-      "lat": 4.6334138,
-      "lon": -74.0882067,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD UNIVERSITARIA",
-      "zonaSlug": "ciudad-universitaria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-12",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +296,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-10",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 950000000,
+      "area": 177.0,
+      "precioM2": 5367232,
+      "administracion": 1450000.0,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/194415196",
+      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
+      "id_domus": "194415196",
+      "fechaPublicacion": "2026-10-16",
+      "lat": 4.6460445,
+      "lon": -74.0835567,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD UNIVERSITARIA",
+      "zonaSlug": "ciudad-universitaria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -488,21 +360,21 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 450000000,
+      "precio": 420000000,
       "area": 78.0,
-      "precioM2": 5769231,
+      "precioM2": 5384615,
       "administracion": 526000.0,
       "barrio": "QUINTA PAREDES",
       "upl": "Teusaquillo",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 4,
@@ -520,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +546,134 @@
       "fechaPublicacion": "2026-09-18",
       "lat": 4.6455773,
       "lon": -74.08358,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD UNIVERSITARIA",
+      "zonaSlug": "ciudad-universitaria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 520000000,
+      "area": 112.0,
+      "precioM2": 4642857,
+      "administracion": 415000.0,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/193868586",
+      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
+      "id_domus": "193868586",
+      "fechaPublicacion": "2026-06-11",
+      "lat": 4.6329473,
+      "lon": -74.0798509,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD UNIVERSITARIA",
+      "zonaSlug": "ciudad-universitaria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 340000000,
+      "area": 29.0,
+      "precioM2": 11724138,
+      "administracion": null,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/193086600",
+      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
+      "id_domus": "193086600",
+      "fechaPublicacion": "2025-11-11",
+      "lat": 4.639210344114,
+      "lon": -74.079437255859,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD UNIVERSITARIA",
+      "zonaSlug": "ciudad-universitaria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 780000000,
+      "area": 75.0,
+      "precioM2": 10400000,
+      "administracion": null,
+      "barrio": "RAFAEL NUÑEZ",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-rafael-nunez-bogota/193706138",
+      "titulo": "Apartamento en Venta en Rafael Nuñez, Bogotá",
+      "id_domus": "193706138",
+      "fechaPublicacion": "2026-05-04",
+      "lat": 4.6430872,
+      "lon": -74.0866938,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD UNIVERSITARIA",
+      "zonaSlug": "ciudad-universitaria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 539000000,
+      "area": 98.0,
+      "precioM2": 5500000,
+      "administracion": 240000.0,
+      "barrio": "NICOLAS DE FEDERMAN",
+      "upl": "Teusaquillo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nicolas-de-federman-bogota/193385336",
+      "titulo": "Apartamento en Venta en Nicolas de federman, Bogotá",
+      "id_domus": "193385336",
+      "fechaPublicacion": "2026-02-11",
+      "lat": 4.6433084,
+      "lon": -74.0812825,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD UNIVERSITARIA",
       "zonaSlug": "ciudad-universitaria",
