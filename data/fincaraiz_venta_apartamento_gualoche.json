@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.11 07:18",
+  "generado": "2026.NOV.18 21:39",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 195000000,
-      "area": 49.0,
-      "precioM2": 3979592,
-      "administracion": 190000.0,
-      "barrio": "GUALOCHE",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-la-amistad-bogota/193324447",
-      "titulo": "Apartamento en Venta en Bosa La Amistad, Bogotá",
-      "id_domus": "193324447",
-      "fechaPublicacion": "2026-01-26",
-      "lat": 4.6001823,
-      "lon": -74.1815738,
-      "location_type": "exacta",
-      "zonaConsulta": "GUALOCHE",
-      "zonaSlug": "gualoche",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -98,6 +66,38 @@
       "fechaPublicacion": "2025-09-13",
       "lat": 4.597239617536,
       "lon": -74.179082361133,
+      "location_type": "exacta",
+      "zonaConsulta": "GUALOCHE",
+      "zonaSlug": "gualoche",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 195000000,
+      "area": 49.0,
+      "precioM2": 3979592,
+      "administracion": 190000.0,
+      "barrio": "GUALOCHE",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bosa-la-amistad-bogota/193324447",
+      "titulo": "Apartamento en Venta en Bosa La Amistad, Bogotá",
+      "id_domus": "193324447",
+      "fechaPublicacion": "2026-01-26",
+      "lat": 4.6001823,
+      "lon": -74.1815738,
       "location_type": "exacta",
       "zonaConsulta": "GUALOCHE",
       "zonaSlug": "gualoche",
