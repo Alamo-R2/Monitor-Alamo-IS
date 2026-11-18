@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.16 23:04",
+  "generado": "2026.NOV.18 03:15",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -558,6 +558,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 55.0,
+      "precioM2": 4363636,
+      "administracion": 86000.0,
+      "barrio": "BOCHICA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bochica-bogota/193168452",
+      "titulo": "Apartamento en Venta en Bochica, Bogotá",
+      "id_domus": "193168452",
+      "fechaPublicacion": "2025-12-04",
+      "lat": 4.7126283,
+      "lon": -74.1052764,
+      "location_type": "exacta",
+      "zonaConsulta": "BOCHICA",
+      "zonaSlug": "bochica",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 473157000,
       "area": 83.01,
       "precioM2": 5700000,
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-05-30",
       "lat": 4.7167229,
       "lon": -74.107413,
-      "location_type": "exacta",
-      "zonaConsulta": "BOCHICA",
-      "zonaSlug": "bochica",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 365000000,
-      "area": 55.0,
-      "precioM2": 6636364,
-      "administracion": 350000.0,
-      "barrio": "BOCHICA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-minuto-de-dios-bogota/194382003",
-      "titulo": "Apartamento en Venta en Minuto de dios, Bogotá",
-      "id_domus": "194382003",
-      "fechaPublicacion": "2026-10-09",
-      "lat": 4.7072598,
-      "lon": -74.1094635,
       "location_type": "exacta",
       "zonaConsulta": "BOCHICA",
       "zonaSlug": "bochica",

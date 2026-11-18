@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 12,
+  "total": 14,
   "zona": "BONANZA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.10 07:51",
+  "generado": "2026.NOV.18 03:15",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 430000000,
-      "area": 64.0,
-      "precioM2": 6718750,
-      "administracion": 365000.0,
+      "precio": 260000000,
+      "area": 58.0,
+      "precioM2": 4482759,
+      "administracion": 700000.0,
       "barrio": "BONANZA",
       "upl": "Tabora",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": null,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-del-lago-bogota/194349995",
-      "titulo": "Apartamento en Venta en Santa Maria del Lago, Bogotá",
-      "id_domus": "194349995",
-      "fechaPublicacion": "2026-10-02",
-      "lat": 4.6882285,
-      "lon": -74.0948737,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bonanza-bogota/194555181",
+      "titulo": "Apartamento en Venta en Bonanza, Bogotá",
+      "id_domus": "194555181",
+      "fechaPublicacion": "2026-11-13",
+      "lat": 4.6944562,
+      "lon": -74.0889378,
       "location_type": "exacta",
       "zonaConsulta": "BONANZA",
       "zonaSlug": "bonanza",
@@ -238,6 +238,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 450000000,
+      "area": 61.0,
+      "precioM2": 7377049,
+      "administracion": 184000.0,
+      "barrio": "BONANZA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194537977",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194537977",
+      "fechaPublicacion": "2026-11-11",
+      "lat": 4.6921945,
+      "lon": -74.0924416,
+      "location_type": "exacta",
+      "zonaConsulta": "BONANZA",
+      "zonaSlug": "bonanza",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 580000000,
       "area": 91.0,
       "precioM2": 6373626,
@@ -264,15 +296,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 330000000,
+      "precio": 345000000,
       "area": 55.0,
-      "precioM2": 6000000,
+      "precioM2": 6272727,
       "administracion": 290000.0,
       "barrio": "BONANZA",
       "upl": "Tabora",
@@ -296,7 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 655000000,
+      "area": 94.0,
+      "precioM2": 6968085,
+      "administracion": 550000.0,
+      "barrio": "BONANZA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194549002",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194549002",
+      "fechaPublicacion": "2026-11-12",
+      "lat": 4.6882352,
+      "lon": -74.0948631,
+      "location_type": "exacta",
+      "zonaConsulta": "BONANZA",
+      "zonaSlug": "bonanza",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],

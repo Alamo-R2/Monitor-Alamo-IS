@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 9,
   "zona": "SANTA MARIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.10 07:51",
+  "generado": "2026.NOV.18 03:15",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -142,6 +142,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 175000000,
+      "area": 44.0,
+      "precioM2": 3977273,
+      "administracion": 130500.0,
+      "barrio": "SANTA ANA SUR",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-ana-sur-bogota/194563726",
+      "titulo": "Apartamento en Venta en Santa ana sur, Bogotá",
+      "id_domus": "194563726",
+      "fechaPublicacion": "2026-11-15",
+      "lat": 4.5766905,
+      "lon": -74.0847347,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA MARIA",
+      "zonaSlug": "santa-maria",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 350000000,
       "area": 60.0,
       "precioM2": 5833333,
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],

@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "EL ENCANTO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.14 07:07",
+  "generado": "2026.NOV.18 03:15",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000,
+      "area": 51.0,
+      "precioM2": 27451,
+      "administracion": null,
+      "barrio": "EL ENCANTO",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194558993",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194558993",
+      "fechaPublicacion": "2026-11-14",
+      "lat": 4.6777865,
+      "lon": -74.1009374,
+      "location_type": "exacta",
+      "zonaConsulta": "EL ENCANTO",
+      "zonaSlug": "el-encanto",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],

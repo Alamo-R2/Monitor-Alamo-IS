@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 5,
   "zona": "TABORA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.10 07:51",
+  "generado": "2026.NOV.18 03:15",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,70 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1900000,
-      "area": 65.0,
-      "precioM2": 29231,
-      "administracion": null,
-      "barrio": "LA GRANJA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-granja-bogota/194264510",
-      "titulo": "Apartamento en Arriendo en La granja, Bogotá",
-      "id_domus": "194264510",
-      "fechaPublicacion": "2026-09-16",
-      "lat": 4.6977167,
-      "lon": -74.0995398,
-      "location_type": "exacta",
-      "zonaConsulta": "TABORA",
-      "zonaSlug": "tabora",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1900000,
-      "area": 85.0,
-      "precioM2": 22353,
-      "administracion": null,
-      "barrio": "TABORA",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-tabora-bogota/194482546",
-      "titulo": "Apartamento en Arriendo en Tabora, Bogotá",
-      "id_domus": "194482546",
-      "fechaPublicacion": "2026-10-30",
-      "lat": 4.6934465,
-      "lon": -74.0990361,
-      "location_type": "exacta",
-      "zonaConsulta": "TABORA",
-      "zonaSlug": "tabora",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1100000,
       "area": 30.0,
       "precioM2": 36667,
@@ -136,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -194,6 +130,38 @@
       "fechaPublicacion": "2026-10-13",
       "lat": 4.69203,
       "lon": -74.09806,
+      "location_type": "exacta",
+      "zonaConsulta": "TABORA",
+      "zonaSlug": "tabora",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1700000,
+      "area": 65.0,
+      "precioM2": 26154,
+      "administracion": null,
+      "barrio": "LA GRANJA",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-granja-bogota/194264510",
+      "titulo": "Apartamento en Arriendo en La granja, Bogotá",
+      "id_domus": "194264510",
+      "fechaPublicacion": "2026-09-16",
+      "lat": 4.6977167,
+      "lon": -74.0995398,
       "location_type": "exacta",
       "zonaConsulta": "TABORA",
       "zonaSlug": "tabora",

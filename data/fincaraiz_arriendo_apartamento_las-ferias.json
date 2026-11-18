@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "LAS FERIAS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.17 18:49",
+  "generado": "2026.NOV.18 03:15",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1680000,
+      "area": 37.0,
+      "precioM2": 45405,
+      "administracion": 220000.0,
+      "barrio": "LAS FERIAS",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-bogota/194572075",
+      "titulo": "Apartamento en Arriendo en Engativá, Bogotá",
+      "id_domus": "194572075",
+      "fechaPublicacion": "2026-11-17",
+      "lat": 4.6864823,
+      "lon": -74.0819881,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS FERIAS",
+      "zonaSlug": "las-ferias",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
