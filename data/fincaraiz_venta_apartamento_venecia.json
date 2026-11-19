@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 7,
   "zona": "VENECIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.17 18:49",
+  "generado": "2026.NOV.19 13:59",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 260000000,
+      "area": 60.0,
+      "precioM2": 4333333,
+      "administracion": 30000.0,
+      "barrio": "VENECIA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-venecia-bogota/194146139",
+      "titulo": "Apartamento en Venta en Venecia, Bogotá",
+      "id_domus": "194146139",
+      "fechaPublicacion": "2026-08-21",
+      "lat": 4.5925743,
+      "lon": -74.1419683,
+      "location_type": "exacta",
+      "zonaConsulta": "VENECIA",
+      "zonaSlug": "venecia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 360000000,
+      "area": 140.0,
+      "precioM2": 2571429,
+      "administracion": null,
+      "barrio": "VENECIA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-venecia-bogota/193535165",
+      "titulo": "Apartamento en Venta en Venecia, Bogotá",
+      "id_domus": "193535165",
+      "fechaPublicacion": "2026-03-18",
+      "lat": 4.5925743,
+      "lon": -74.1419683,
+      "location_type": "exacta",
+      "zonaConsulta": "VENECIA",
+      "zonaSlug": "venecia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 100.0,
+      "precioM2": 3500000,
+      "administracion": null,
+      "barrio": "VENECIA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-venecia-bogota/193561604",
+      "titulo": "Apartamento en Venta en Venecia, Bogotá",
+      "id_domus": "193561604",
+      "fechaPublicacion": "2026-03-25",
+      "lat": 4.5914667,
+      "lon": -74.1432511,
+      "location_type": "exacta",
+      "zonaConsulta": "VENECIA",
+      "zonaSlug": "venecia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
