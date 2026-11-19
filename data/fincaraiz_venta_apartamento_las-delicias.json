@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 10,
   "zona": "LAS DELICIAS",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.17 18:49",
+  "generado": "2026.NOV.19 02:52",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -265,6 +265,38 @@
     },
     {
       "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 259000000,
+      "area": 49.0,
+      "precioM2": 5285714,
+      "administracion": 135000.0,
+      "barrio": "LAS DELICIAS",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-las-delicias-bogota/193888636",
+      "titulo": "Apartamento en Venta en Las delicias, Bogotá",
+      "id_domus": "193888636",
+      "fechaPublicacion": "2026-06-18",
+      "lat": 4.630387,
+      "lon": -74.1376756,
+      "location_type": "exacta",
+      "zonaConsulta": "LAS DELICIAS",
+      "zonaSlug": "las-delicias",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],

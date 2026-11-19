@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 8,
   "zona": "LA LIBERTAD",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.17 18:49",
+  "generado": "2026.NOV.19 02:52",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,38 +110,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1100000,
-      "area": 47.0,
-      "precioM2": 23404,
-      "administracion": null,
-      "barrio": "SAN FERNANDO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-fernando/194108193",
-      "titulo": "Apartamento en Arriendo en San fernando",
-      "id_domus": "194108193",
-      "fechaPublicacion": "2026-08-12",
-      "lat": 4.6778509,
-      "lon": -74.0786952,
-      "location_type": "exacta",
-      "zonaConsulta": "LA LIBERTAD",
-      "zonaSlug": "la-libertad",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 839500,
       "area": 41.0,
       "precioM2": 20476,
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -226,6 +194,70 @@
       "fechaPublicacion": "2026-11-04",
       "lat": 4.6752669,
       "lon": -74.0748732,
+      "location_type": "exacta",
+      "zonaConsulta": "LA LIBERTAD",
+      "zonaSlug": "la-libertad",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1450000,
+      "area": 42.0,
+      "precioM2": 34524,
+      "administracion": null,
+      "barrio": "SIMON BOLIVAR",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-simon-bolivar-bogota/194450141",
+      "titulo": "Apartamento en Arriendo en Simon bolivar, Bogotá",
+      "id_domus": "194450141",
+      "fechaPublicacion": "2026-10-23",
+      "lat": 4.6780316,
+      "lon": -74.0767003,
+      "location_type": "exacta",
+      "zonaConsulta": "LA LIBERTAD",
+      "zonaSlug": "la-libertad",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1100000,
+      "area": 47.0,
+      "precioM2": 23404,
+      "administracion": null,
+      "barrio": "SAN FERNANDO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-fernando/194108193",
+      "titulo": "Apartamento en Arriendo en San fernando",
+      "id_domus": "194108193",
+      "fechaPublicacion": "2026-08-12",
+      "lat": 4.6778509,
+      "lon": -74.0786952,
       "location_type": "exacta",
       "zonaConsulta": "LA LIBERTAD",
       "zonaSlug": "la-libertad",

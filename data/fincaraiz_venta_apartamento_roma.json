@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 7,
   "zona": "ROMA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.11 17:30",
+  "generado": "2026.NOV.19 02:52",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 165000000,
+      "area": 49.0,
+      "precioM2": 3367347,
+      "administracion": 121000.0,
+      "barrio": "ROMA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-roma-bogota/194568487",
+      "titulo": "Apartamento en Venta en Roma, Bogotá",
+      "id_domus": "194568487",
+      "fechaPublicacion": "2026-11-17",
+      "lat": 4.6112642,
+      "lon": -74.1732921,
+      "location_type": "exacta",
+      "zonaConsulta": "ROMA",
+      "zonaSlug": "roma",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 240000000,
+      "area": 46.0,
+      "precioM2": 5217391,
+      "administracion": null,
+      "barrio": "ROMA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-roma-bogota/194569156",
+      "titulo": "Apartamento en Venta en Roma, Bogotá",
+      "id_domus": "194569156",
+      "fechaPublicacion": "2026-11-17",
+      "lat": 4.6156979,
+      "lon": -74.1807891,
+      "location_type": "exacta",
+      "zonaConsulta": "ROMA",
+      "zonaSlug": "roma",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],

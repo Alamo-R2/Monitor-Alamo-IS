@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 11,
+  "total": 12,
   "zona": "JORGE URIBE BOTERO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.11 17:30",
+  "generado": "2026.NOV.19 02:52",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,38 +110,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 210000000,
-      "area": 48.0,
-      "precioM2": 4375000,
-      "administracion": 120000.0,
-      "barrio": "QUIROGA",
-      "upl": "Edén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quiroga-bogota/193929983",
-      "titulo": "Apartamento en Venta en Quiroga, Bogotá",
-      "id_domus": "193929983",
-      "fechaPublicacion": "2026-06-29",
-      "lat": 4.6237941,
-      "lon": -74.1799443,
-      "location_type": "exacta",
-      "zonaConsulta": "JORGE URIBE BOTERO",
-      "zonaSlug": "jorge-uribe-botero",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 195000000,
       "area": 49.0,
       "precioM2": 3979592,
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +232,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 550000000,
+      "area": 82.0,
+      "precioM2": 6707317,
+      "administracion": 480000.0,
+      "barrio": "JORGE URIBE BOTERO",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-jorge-uribe-botero-bogota/194573746",
+      "titulo": "Apartamento en Venta en Jorge uribe botero, Bogotá",
+      "id_domus": "194573746",
+      "fechaPublicacion": "2026-11-18",
+      "lat": 4.755257477404,
+      "lon": -74.037809574063,
+      "location_type": "exacta",
+      "zonaConsulta": "JORGE URIBE BOTERO",
+      "zonaSlug": "jorge-uribe-botero",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-9",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 210000000,
+      "area": 48.0,
+      "precioM2": 4375000,
+      "administracion": 120000.0,
+      "barrio": "QUIROGA",
+      "upl": "Edén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quiroga-bogota/193929983",
+      "titulo": "Apartamento en Venta en Quiroga, Bogotá",
+      "id_domus": "193929983",
+      "fechaPublicacion": "2026-06-29",
+      "lat": 4.6237941,
+      "lon": -74.1799443,
+      "location_type": "exacta",
+      "zonaConsulta": "JORGE URIBE BOTERO",
+      "zonaSlug": "jorge-uribe-botero",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
