@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 16,
+  "total": 17,
   "zona": "SAN ANTONIO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.19 02:52",
+  "generado": "2026.NOV.19 21:58",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -142,9 +142,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1583200,
+      "precio": 1483200,
       "area": 36.0,
-      "precioM2": 43978,
+      "precioM2": 41200,
       "administracion": 216800.0,
       "barrio": "SAN ANTONIO NORTE",
       "upl": "Centro Histórico",
@@ -334,9 +334,41 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1537000,
+      "precio": 1650000,
+      "area": 62.0,
+      "precioM2": 26613,
+      "administracion": 171000.0,
+      "barrio": "SAN ANTONIO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-antonio-narino-bogota/194627189",
+      "titulo": "Apartamento en Arriendo en Antonio nariño, Bogotá",
+      "id_domus": "194627189",
+      "fechaPublicacion": "2026-11-18",
+      "lat": 4.589459,
+      "lon": -74.098845,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN ANTONIO",
+      "zonaSlug": "san-antonio",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1455000,
       "area": 45.0,
-      "precioM2": 34156,
+      "precioM2": 32333,
       "administracion": 195000.0,
       "barrio": "VERBENAL SAN ANTONIO",
       "upl": "Centro Histórico",
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],

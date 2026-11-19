@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 8,
   "zona": "INGEMAR I",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.12 07:49",
+  "generado": "2026.NOV.19 21:58",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,26 +46,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 370000000,
-      "area": 42.0,
-      "precioM2": 8809524,
-      "administracion": 785000,
+      "precio": 2500000000,
+      "area": 287.0,
+      "precioM2": 8710801,
+      "administracion": 1380000,
       "barrio": "INGEMAR I",
       "upl": "Cerros Orientales",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1,
-      "estrato": 4,
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 3,
+      "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-alto-bogota/194442124",
-      "titulo": "Apartamento en Venta en Chapinero Alto, Bogotá",
-      "id_domus": "194442124",
-      "fechaPublicacion": "2026-10-22",
-      "lat": 4.6408772,
-      "lon": -74.0550973,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194333550",
+      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
+      "id_domus": "194333550",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.6416383,
+      "lon": -74.0567733,
       "location_type": "exacta",
       "zonaConsulta": "INGEMAR I",
       "zonaSlug": "ingemar-i",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1900000000,
+      "area": 284.0,
+      "precioM2": 6690141,
+      "administracion": 1100000,
+      "barrio": "INGEMAR I",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": 4,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/193376479",
+      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
+      "id_domus": "193376479",
+      "fechaPublicacion": "2026-02-09",
+      "lat": 4.6413326,
+      "lon": -74.0573362,
+      "location_type": "exacta",
+      "zonaConsulta": "INGEMAR I",
+      "zonaSlug": "ingemar-i",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -226,70 +258,6 @@
       "fechaPublicacion": "2025-02-17",
       "lat": 4.6402512,
       "lon": -74.0546099,
-      "location_type": "exacta",
-      "zonaConsulta": "INGEMAR I",
-      "zonaSlug": "ingemar-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2500000000,
-      "area": 287.0,
-      "precioM2": 8710801,
-      "administracion": 1380000,
-      "barrio": "INGEMAR I",
-      "upl": "Cerros Orientales",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 5,
-      "parqueaderos": 3,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194333550",
-      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "194333550",
-      "fechaPublicacion": "2026-09-29",
-      "lat": 4.6416383,
-      "lon": -74.0567733,
-      "location_type": "exacta",
-      "zonaConsulta": "INGEMAR I",
-      "zonaSlug": "ingemar-i",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1900000000,
-      "area": 284.0,
-      "precioM2": 6690141,
-      "administracion": 1100000,
-      "barrio": "INGEMAR I",
-      "upl": "Cerros Orientales",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": 4,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/193376479",
-      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "193376479",
-      "fechaPublicacion": "2026-02-09",
-      "lat": 4.6413326,
-      "lon": -74.0573362,
       "location_type": "exacta",
       "zonaConsulta": "INGEMAR I",
       "zonaSlug": "ingemar-i",
