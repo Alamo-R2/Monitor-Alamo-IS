@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.19 00:58",
+  "generado": "2026.NOV.19 09:55",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Local",
+      "precio": 1280000,
+      "area": 44.0,
+      "precioM2": 29091,
+      "administracion": null,
+      "barrio": "SOCIEGO",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 0,
+      "banos": 1,
+      "parqueaderos": 0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/local-en-arriendo-en-sociego-sur-bogota-3839947",
+      "titulo": "Local en Sociego",
+      "id_domus": "3839947",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "SOCIEGO",
+      "zonaSlug": "sociego",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -63,38 +95,6 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/local-en-arriendo-en-sociego-bogota-3061693",
       "titulo": "Local en Sociego",
       "id_domus": "3061693",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "SOCIEGO",
-      "zonaSlug": "sociego",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Local",
-      "precio": 1280000,
-      "area": 44.0,
-      "precioM2": 29091,
-      "administracion": null,
-      "barrio": "SOCIEGO",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 0,
-      "banos": 1,
-      "parqueaderos": 0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/local-en-arriendo-en-sociego-sur-bogota-3839947",
-      "titulo": "Local en Sociego",
-      "id_domus": "3839947",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
