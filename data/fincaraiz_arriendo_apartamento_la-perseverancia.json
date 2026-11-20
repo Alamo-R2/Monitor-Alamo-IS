@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 19,
+  "total": 20,
   "zona": "LA PERSEVERANCIA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.16 13:13",
+  "generado": "2026.NOV.20 02:48",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -142,6 +142,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 30.0,
+      "precioM2": 40000,
+      "administracion": null,
+      "barrio": "LA MACARENA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1.0,
+      "parqueaderos": 1.0,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-macarena-bogota/194570959",
+      "titulo": "Apartamento en Arriendo en La macarena, Bogotá",
+      "id_domus": "194570959",
+      "fechaPublicacion": "2026-11-17",
+      "lat": 4.6159578,
+      "lon": -74.0645273,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PERSEVERANCIA",
+      "zonaSlug": "la-perseverancia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2000000,
       "area": 40.0,
       "precioM2": 50000,
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 30.0,
+      "precioM2": 66667,
+      "administracion": null,
+      "barrio": "SAN MARTIN",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-martin-bogota/192117843",
+      "titulo": "Apartamento en  Arriendo en San martin, Bogotá",
+      "id_domus": "192117843",
+      "fechaPublicacion": "2025-03-09",
+      "lat": 4.6180934,
+      "lon": -74.0659703,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PERSEVERANCIA",
+      "zonaSlug": "la-perseverancia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -409,7 +473,7 @@
       "habitaciones": 1.0,
       "banos": 1.0,
       "parqueaderos": null,
-      "estrato": 4.0,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-macarena-bogota/194397852",
@@ -424,39 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1535000,
-      "area": 30.0,
-      "precioM2": 51167,
-      "administracion": 165000.0,
-      "barrio": "SAN MARTIN",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-martin-bogota/194402723",
-      "titulo": "Apartamento en Arriendo en San martin, Bogotá",
-      "id_domus": "194402723",
-      "fechaPublicacion": "2026-10-14",
-      "lat": 4.6176688,
-      "lon": -74.0664849,
-      "location_type": "exacta",
-      "zonaConsulta": "LA PERSEVERANCIA",
-      "zonaSlug": "la-perseverancia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -473,7 +505,7 @@
       "habitaciones": 1.0,
       "banos": 1.0,
       "parqueaderos": null,
-      "estrato": 4.0,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-macarena-bogota/194397642",
@@ -488,15 +520,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1850000,
+      "precio": 2150000,
       "area": 37.0,
-      "precioM2": 50000,
+      "precioM2": 58108,
       "administracion": 115000.0,
       "barrio": "LA MACARENA",
       "upl": "Centro Histórico",
@@ -505,7 +537,7 @@
       "habitaciones": 1.0,
       "banos": 1.0,
       "parqueaderos": null,
-      "estrato": 4.0,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-macarena-bogota/194554662",
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],

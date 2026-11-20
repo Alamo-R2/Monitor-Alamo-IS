@@ -5,74 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.14 21:44",
+  "generado": "2026.NOV.20 02:48",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 290000000,
-      "area": 53.0,
-      "precioM2": 5471698,
-      "administracion": 468000.0,
-      "barrio": "SAN ANTONIO",
-      "upl": "Cerros Orientales",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-antonio-bogota/194524299",
-      "titulo": "Apartamento en Venta en San antonio, Bogotá",
-      "id_domus": "194524299",
-      "fechaPublicacion": "2026-11-09",
-      "lat": 4.7691073,
-      "lon": -74.0301744,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABITA RURAL",
-      "zonaSlug": "tibabita-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 310000000,
-      "area": 55.0,
-      "precioM2": 5636364,
-      "administracion": 412000.0,
-      "barrio": "TIBABITA",
-      "upl": "Cerros Orientales",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tibabita-bogota/193893324",
-      "titulo": "Apartamento en Venta en Tibabita, Bogotá",
-      "id_domus": "193893324",
-      "fechaPublicacion": "2026-06-19",
-      "lat": 4.768737,
-      "lon": -74.0314747,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABITA RURAL",
-      "zonaSlug": "tibabita-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +72,103 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 385000000,
+      "area": 67.0,
+      "precioM2": 5746269,
+      "administracion": 347000.0,
+      "barrio": "TIBABITA",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tibabita-bogota/194105073",
+      "titulo": "Apartamento en Venta en Tibabita, Bogotá",
+      "id_domus": "194105073",
+      "fechaPublicacion": "2026-08-11",
+      "lat": 4.7692999,
+      "lon": -74.0325238,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABITA RURAL",
+      "zonaSlug": "tibabita-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 310000000,
+      "area": 55.0,
+      "precioM2": 5636364,
+      "administracion": 412000.0,
+      "barrio": "TIBABITA",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tibabita-bogota/193893324",
+      "titulo": "Apartamento en Venta en Tibabita, Bogotá",
+      "id_domus": "193893324",
+      "fechaPublicacion": "2026-06-19",
+      "lat": 4.768737,
+      "lon": -74.0314747,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABITA RURAL",
+      "zonaSlug": "tibabita-rural",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 290000000,
+      "area": 53.0,
+      "precioM2": 5471698,
+      "administracion": 468000.0,
+      "barrio": "SAN ANTONIO",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-antonio-bogota/194524299",
+      "titulo": "Apartamento en Venta en San antonio, Bogotá",
+      "id_domus": "194524299",
+      "fechaPublicacion": "2026-11-09",
+      "lat": 4.7691073,
+      "lon": -74.0301744,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABITA RURAL",
+      "zonaSlug": "tibabita-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -162,38 +194,6 @@
       "fechaPublicacion": "2026-11-07",
       "lat": 4.7696026,
       "lon": -74.0287404,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABITA RURAL",
-      "zonaSlug": "tibabita-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 460000000,
-      "area": 98.0,
-      "precioM2": 4693878,
-      "administracion": 421600.0,
-      "barrio": "EL VERVENAL",
-      "upl": "Cerros Orientales",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-vervenal-bogota/192787096",
-      "titulo": "Apartamento en Venta en El vervenal, Bogotá",
-      "id_domus": "192787096",
-      "fechaPublicacion": "2025-08-24",
-      "lat": 4.7696237253927,
-      "lon": -74.033684134483,
       "location_type": "exacta",
       "zonaConsulta": "TIBABITA RURAL",
       "zonaSlug": "tibabita-rural",
@@ -302,6 +302,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 530000000,
+      "area": 61.0,
+      "precioM2": 8688525,
+      "administracion": null,
+      "barrio": "GUAYMARAL",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-guaymaral-bogota/194038884",
+      "titulo": "Apartamento en Venta en Guaymaral, Bogotá",
+      "id_domus": "194038884",
+      "fechaPublicacion": "2026-07-27",
+      "lat": 4.7818091,
+      "lon": -74.0420047,
+      "location_type": "exacta",
+      "zonaConsulta": "TIBABITA RURAL",
+      "zonaSlug": "tibabita-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 347000000,
       "area": 62.0,
       "precioM2": 5596774,
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -450,38 +482,6 @@
       "fechaPublicacion": "2026-11-06",
       "lat": 4.769191,
       "lon": -74.0324785,
-      "location_type": "exacta",
-      "zonaConsulta": "TIBABITA RURAL",
-      "zonaSlug": "tibabita-rural",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 385000000,
-      "area": 67.0,
-      "precioM2": 5746269,
-      "administracion": 347000.0,
-      "barrio": "TIBABITA",
-      "upl": "Cerros Orientales",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tibabita-bogota/194105073",
-      "titulo": "Apartamento en Venta en Tibabita, Bogotá",
-      "id_domus": "194105073",
-      "fechaPublicacion": "2026-08-11",
-      "lat": 4.7692999,
-      "lon": -74.0325238,
       "location_type": "exacta",
       "zonaConsulta": "TIBABITA RURAL",
       "zonaSlug": "tibabita-rural",
