@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.13 07:26",
+  "generado": "2026.NOV.20 21:36",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 900000,
+      "area": 45.0,
+      "precioM2": 20000,
+      "administracion": null,
+      "barrio": "RAFAEL URIBE",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-rafael-uribe-bogota/194630941",
+      "titulo": "Apartamento en Arriendo en Rafael uribe, Bogotá",
+      "id_domus": "194630941",
+      "fechaPublicacion": "2026-11-19",
+      "lat": 4.5594198,
+      "lon": -74.1189226,
+      "location_type": "exacta",
+      "zonaConsulta": "GUIPARMA",
+      "zonaSlug": "guiparma",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,47 +72,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1140000,
-      "area": 45.0,
-      "precioM2": 25333,
-      "administracion": 150000.0,
-      "barrio": "ARBOLEDA SUR",
-      "upl": "Rafael Uribe",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-arboleda-sur-bogota/194419903",
-      "titulo": "Apartamento en Arriendo en Arboleda sur, Bogotá",
-      "id_domus": "194419903",
-      "fechaPublicacion": "2026-10-17",
-      "lat": 4.5612751,
-      "lon": -74.1186739,
-      "location_type": "exacta",
-      "zonaConsulta": "GUIPARMA",
-      "zonaSlug": "guiparma",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1165000,
+      "precio": 1115000,
       "area": 45.0,
-      "precioM2": 25889,
+      "precioM2": 24778,
       "administracion": 135000.0,
       "barrio": "GUIPARMA",
       "upl": "Rafael Uribe",

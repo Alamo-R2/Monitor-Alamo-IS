@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.14 07:07",
+  "generado": "2026.NOV.20 21:36",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2453500,
+      "area": 62.0,
+      "precioM2": 39573,
+      "administracion": 246500.0,
+      "barrio": "LA ESPERANZA SUR",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-salitre-bogota/194571905",
+      "titulo": "Apartamento en Arriendo en Ciudad salitre, Bogotá",
+      "id_domus": "194571905",
+      "fechaPublicacion": "2026-11-17",
+      "lat": 4.6558546,
+      "lon": -74.1181727,
+      "location_type": "exacta",
+      "zonaConsulta": "LA ESPERANZA SUR",
+      "zonaSlug": "la-esperanza-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -194,38 +226,6 @@
       "fechaPublicacion": "2026-10-25",
       "lat": 4.6584761,
       "lon": -74.1134442,
-      "location_type": "exacta",
-      "zonaConsulta": "LA ESPERANZA SUR",
-      "zonaSlug": "la-esperanza-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2100000,
-      "area": 66.0,
-      "precioM2": 31818,
-      "administracion": null,
-      "barrio": "LA ESPERANZA SUR",
-      "upl": "Rafael Uribe",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-carlos-lleras-restrepo-manzana-b-bogota/194527043",
-      "titulo": "Apartamento en Arriendo en Carlos lleras restrepo manzana b, Bogotá",
-      "id_domus": "194527043",
-      "fechaPublicacion": "2026-11-09",
-      "lat": 4.6586739,
-      "lon": -74.1163126,
       "location_type": "exacta",
       "zonaConsulta": "LA ESPERANZA SUR",
       "zonaSlug": "la-esperanza-sur",
@@ -270,6 +270,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2500000,
+      "area": 61.0,
+      "precioM2": 40984,
+      "administracion": null,
+      "barrio": "LA ESPERANZA SUR",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota-dc-bogota/194628798",
+      "titulo": "Apartamento en Arriendo en Bogotá, d.c., Bogotá",
+      "id_domus": "194628798",
+      "fechaPublicacion": "2026-11-19",
+      "lat": 4.6570415,
+      "lon": -74.1161594,
+      "location_type": "exacta",
+      "zonaConsulta": "LA ESPERANZA SUR",
+      "zonaSlug": "la-esperanza-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2600000,
       "area": 80.0,
       "precioM2": 32500,
@@ -296,7 +328,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1500000,
+      "area": 52.0,
+      "precioM2": 28846,
+      "administracion": 221000.0,
+      "barrio": "LA ESPERANZA SUR",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-salitre-bogota/194571000",
+      "titulo": "Apartamento en Arriendo en Ciudad salitre, Bogotá",
+      "id_domus": "194571000",
+      "fechaPublicacion": "2026-11-17",
+      "lat": 4.658896,
+      "lon": -74.115964,
+      "location_type": "exacta",
+      "zonaConsulta": "LA ESPERANZA SUR",
+      "zonaSlug": "la-esperanza-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2550000,
+      "area": 68.0,
+      "precioM2": 37500,
+      "administracion": null,
+      "barrio": "LA ESPERANZA SUR",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-carlos-lleras-restrepo-manzana-a-bogota/194316169",
+      "titulo": "Apartamento en Arriendo en Carlos lleras restrepo manzana a, Bogotá",
+      "id_domus": "194316169",
+      "fechaPublicacion": "2026-09-25",
+      "lat": 4.6598289,
+      "lon": -74.1155541,
+      "location_type": "exacta",
+      "zonaConsulta": "LA ESPERANZA SUR",
+      "zonaSlug": "la-esperanza-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +424,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-14",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2384300,
+      "area": 65.0,
+      "precioM2": 36682,
+      "administracion": 465700.0,
+      "barrio": "LA ESPERANZA SUR",
+      "upl": "Rafael Uribe",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/194624952",
+      "titulo": "Apartamento en Arriendo en Bogotá",
+      "id_domus": "194624952",
+      "fechaPublicacion": "2026-11-18",
+      "lat": 4.6618278,
+      "lon": -74.1167241,
+      "location_type": "exacta",
+      "zonaConsulta": "LA ESPERANZA SUR",
+      "zonaSlug": "la-esperanza-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -456,39 +584,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2500000,
-      "area": 64.0,
-      "precioM2": 39062,
+      "precio": 2900000,
+      "area": 43.0,
+      "precioM2": 67442,
       "administracion": null,
       "barrio": "LA ESPERANZA SUR",
       "upl": "Rafael Uribe",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2,
+      "banos": 1,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-salitre-bogota/194520438",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-salitre-bogota/192841430",
       "titulo": "Apartamento en Arriendo en Ciudad salitre, Bogotá",
-      "id_domus": "194520438",
-      "fechaPublicacion": "2026-11-08",
-      "lat": 4.6552491,
-      "lon": -74.1173197,
+      "id_domus": "192841430",
+      "fechaPublicacion": "2025-09-06",
+      "lat": 4.6541252,
+      "lon": -74.1174654,
       "location_type": "exacta",
       "zonaConsulta": "LA ESPERANZA SUR",
       "zonaSlug": "la-esperanza-sur",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -520,39 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2700000,
-      "area": 41.0,
-      "precioM2": 65854,
-      "administracion": null,
-      "barrio": "LA ESPERANZA SUR",
-      "upl": "Rafael Uribe",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-fontibon-bogota/194062408",
-      "titulo": "Apartamento en Arriendo en Fontibon, Bogotá",
-      "id_domus": "194062408",
-      "fechaPublicacion": "2026-08-01",
-      "lat": 4.6547805,
-      "lon": -74.1182883,
-      "location_type": "exacta",
-      "zonaConsulta": "LA ESPERANZA SUR",
-      "zonaSlug": "la-esperanza-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -578,102 +674,6 @@
       "fechaPublicacion": "2026-10-19",
       "lat": 4.6593692,
       "lon": -74.1179883,
-      "location_type": "exacta",
-      "zonaConsulta": "LA ESPERANZA SUR",
-      "zonaSlug": "la-esperanza-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1500000,
-      "area": 32.0,
-      "precioM2": 46875,
-      "administracion": null,
-      "barrio": "LA ESPERANZA SUR",
-      "upl": "Rafael Uribe",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-salitre-bogota/194423164",
-      "titulo": "Apartamento en Arriendo en Ciudad salitre, Bogotá",
-      "id_domus": "194423164",
-      "fechaPublicacion": "2026-10-19",
-      "lat": 4.654562,
-      "lon": -74.117951,
-      "location_type": "exacta",
-      "zonaConsulta": "LA ESPERANZA SUR",
-      "zonaSlug": "la-esperanza-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2800000,
-      "area": 48.0,
-      "precioM2": 58333,
-      "administracion": null,
-      "barrio": "EL SALITRE",
-      "upl": "Rafael Uribe",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-salitre-bogota/194351871",
-      "titulo": "Apartamento en Arriendo en El salitre, Bogotá",
-      "id_domus": "194351871",
-      "fechaPublicacion": "2026-10-03",
-      "lat": 4.6544506,
-      "lon": -74.1180007,
-      "location_type": "exacta",
-      "zonaConsulta": "LA ESPERANZA SUR",
-      "zonaSlug": "la-esperanza-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4300000,
-      "area": 90.0,
-      "precioM2": 47778,
-      "administracion": null,
-      "barrio": "LA ESPERANZA SUR",
-      "upl": "Rafael Uribe",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-felicidad-bogota/194030862",
-      "titulo": "Apartamento en Arriendo en La felicidad, Bogotá",
-      "id_domus": "194030862",
-      "fechaPublicacion": "2026-07-24",
-      "lat": 4.6585379,
-      "lon": -74.1195392,
       "location_type": "exacta",
       "zonaConsulta": "LA ESPERANZA SUR",
       "zonaSlug": "la-esperanza-sur",
