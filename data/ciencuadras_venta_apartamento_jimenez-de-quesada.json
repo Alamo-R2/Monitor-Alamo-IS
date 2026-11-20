@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.12 23:58",
+  "generado": "2026.NOV.20 22:10",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -45,6 +45,38 @@
         "Venta"
       ],
       "tipo": "apartamento",
+      "tipoPortal": "Edificio",
+      "precio": 1100000000,
+      "area": 320.0,
+      "precioM2": 3437500,
+      "administracion": null,
+      "barrio": "JIMÉNEZ DE QUESADA",
+      "upl": "Bosa",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 0,
+      "banos": 3,
+      "parqueaderos": 0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "ciencuadras",
+      "sourceLink": "https://www.ciencuadras.com/inmueble/edificio-en-venta-en-jimenez-de-quesada-bogota-3819618",
+      "titulo": "Edificio en Jiménez De Quesada",
+      "id_domus": "3819618",
+      "fechaPublicacion": null,
+      "lat": null,
+      "lon": null,
+      "location_type": "aproximada",
+      "zonaConsulta": "JIMENEZ DE QUESADA",
+      "zonaSlug": "jimenez-de-quesada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
       "tipoPortal": "Local",
       "precio": 1650000000,
       "area": 520.0,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -95,38 +127,6 @@
       "sourceLink": "https://www.ciencuadras.com/inmueble/casa-en-venta-en-jimenez-de-quesada-bogota-3787854",
       "titulo": "Casa en Jiménez De Quesada",
       "id_domus": "3787854",
-      "fechaPublicacion": null,
-      "lat": null,
-      "lon": null,
-      "location_type": "aproximada",
-      "zonaConsulta": "JIMENEZ DE QUESADA",
-      "zonaSlug": "jimenez-de-quesada",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Edificio",
-      "precio": 1100000000,
-      "area": 320.0,
-      "precioM2": 3437500,
-      "administracion": null,
-      "barrio": "JIMÉNEZ DE QUESADA",
-      "upl": "Bosa",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 0,
-      "banos": 3,
-      "parqueaderos": 0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "ciencuadras",
-      "sourceLink": "https://www.ciencuadras.com/inmueble/edificio-en-venta-en-jimenez-de-quesada-bogota-3819618",
-      "titulo": "Edificio en Jiménez De Quesada",
-      "id_domus": "3819618",
       "fechaPublicacion": null,
       "lat": null,
       "lon": null,
