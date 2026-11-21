@@ -1,816 +1,6 @@
 [
   {
     "grupo": "barrios_res",
-    "generado": "2026.SEP.27 20:32",
-    "iso": "2026-09-27T20:32:05",
-    "total": 1378,
-    "segundos_total": 1217.0,
-    "datasets": [
-      {
-        "clave": "fincaraiz_venta_apartamento_pastrana",
-        "total": 7,
-        "segundos": 10.3
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_pastrana",
-        "total": 12,
-        "segundos": 7.9
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_roma",
-        "total": 0,
-        "segundos": 5.2
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_roma",
-        "total": 0,
-        "segundos": 6.0
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_timiza-b",
-        "total": 21,
-        "segundos": 9.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_timiza-b",
-        "total": 20,
-        "segundos": 7.8
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_timiza-c",
-        "total": 5,
-        "segundos": 8.1
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_timiza-c",
-        "total": 13,
-        "segundos": 8.1
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_tocarema",
-        "total": 0,
-        "segundos": 5.5
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_tocarema",
-        "total": 0,
-        "segundos": 5.3
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_argelia-ii",
-        "total": 0,
-        "segundos": 5.8
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_argelia-ii",
-        "total": 0,
-        "segundos": 5.1
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_betania",
-        "total": 4,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_betania",
-        "total": 0,
-        "segundos": 5.2
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_bosa",
-        "total": 21,
-        "segundos": 7.7
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_bosa",
-        "total": 21,
-        "segundos": 7.7
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_bosa-nova",
-        "total": 4,
-        "segundos": 8.1
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_bosa-nova",
-        "total": 0,
-        "segundos": 5.3
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_bosa-nova-el-porvenir",
-        "total": 0,
-        "segundos": 5.5
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_bosa-nova-el-porvenir",
-        "total": 0,
-        "segundos": 5.2
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_brasil",
-        "total": 6,
-        "segundos": 8.5
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_brasil",
-        "total": 8,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_brasilia",
-        "total": 6,
-        "segundos": 7.2
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_brasilia",
-        "total": 8,
-        "segundos": 7.0
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_campo-verde",
-        "total": 21,
-        "segundos": 8.3
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_campo-verde",
-        "total": 12,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_chicala",
-        "total": 7,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_chicala",
-        "total": 0,
-        "segundos": 5.3
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_chico-sur",
-        "total": 7,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_chico-sur",
-        "total": 0,
-        "segundos": 5.3
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_ciudadela-el-recreo",
-        "total": 20,
-        "segundos": 8.4
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_ciudadela-el-recreo",
-        "total": 0,
-        "segundos": 5.5
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_ciudadela-el-recreo-ii",
-        "total": 9,
-        "segundos": 8.2
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_ciudadela-el-recreo-ii",
-        "total": 0,
-        "segundos": 5.4
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_class",
-        "total": 6,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_class",
-        "total": 0,
-        "segundos": 5.2
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_el-carmelo",
-        "total": 5,
-        "segundos": 8.6
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_el-carmelo",
-        "total": 0,
-        "segundos": 5.5
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_el-corzo",
-        "total": 21,
-        "segundos": 7.8
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_el-corzo",
-        "total": 10,
-        "segundos": 7.8
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_el-danubio-azul",
-        "total": 18,
-        "segundos": 8.8
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_el-danubio-azul",
-        "total": 0,
-        "segundos": 5.3
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_el-portal-del-brasil",
-        "total": 4,
-        "segundos": 8.9
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_el-portal-del-brasil",
-        "total": 3,
-        "segundos": 8.3
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_el-remanso",
-        "total": 0,
-        "segundos": 5.6
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_el-remanso",
-        "total": 0,
-        "segundos": 5.2
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_el-remanso-i",
-        "total": 0,
-        "segundos": 5.9
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_el-remanso-i",
-        "total": 0,
-        "segundos": 5.3
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_el-rubi",
-        "total": 8,
-        "segundos": 8.4
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_el-rubi",
-        "total": 0,
-        "segundos": 5.3
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_escocia",
-        "total": 12,
-        "segundos": 8.6
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_escocia",
-        "total": 0,
-        "segundos": 5.3
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_gran-britalia",
-        "total": 8,
-        "segundos": 8.4
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_gran-britalia",
-        "total": 0,
-        "segundos": 5.1
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_islandia",
-        "total": 21,
-        "segundos": 8.1
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_islandia",
-        "total": 8,
-        "segundos": 7.8
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_jorge-uribe-botero",
-        "total": 14,
-        "segundos": 8.3
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_jorge-uribe-botero",
-        "total": 0,
-        "segundos": 5.6
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_la-independencia",
-        "total": 4,
-        "segundos": 7.9
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_la-independencia",
-        "total": 0,
-        "segundos": 5.6
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_la-libertad",
-        "total": 19,
-        "segundos": 7.9
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_la-libertad",
-        "total": 0,
-        "segundos": 5.1
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_la-paz-bosa",
-        "total": 15,
-        "segundos": 8.3
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_la-paz-bosa",
-        "total": 0,
-        "segundos": 5.2
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_las-margaritas",
-        "total": 21,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_las-margaritas",
-        "total": 6,
-        "segundos": 8.1
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_los-sauces",
-        "total": 6,
-        "segundos": 8.1
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_los-sauces",
-        "total": 0,
-        "segundos": 5.1
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_osorio-x-urbano",
-        "total": 10,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_osorio-x-urbano",
-        "total": 3,
-        "segundos": 7.9
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_osorio-xii",
-        "total": 0,
-        "segundos": 6.2
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_osorio-xii",
-        "total": 0,
-        "segundos": 5.4
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_parcela-el-porvenir",
-        "total": 21,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_parcela-el-porvenir",
-        "total": 9,
-        "segundos": 8.4
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_remanso-urbano",
-        "total": 0,
-        "segundos": 6.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_remanso-urbano",
-        "total": 0,
-        "segundos": 5.3
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_san-antonio",
-        "total": 21,
-        "segundos": 8.5
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_san-antonio",
-        "total": 12,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_san-bernardino-potreritos",
-        "total": 5,
-        "segundos": 7.4
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_san-bernardino-potreritos",
-        "total": 13,
-        "segundos": 7.4
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_san-bernardino-xix",
-        "total": 5,
-        "segundos": 7.5
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_san-bernardino-xix",
-        "total": 13,
-        "segundos": 7.4
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_san-bernardino-xviii",
-        "total": 5,
-        "segundos": 7.9
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_san-bernardino-xviii",
-        "total": 13,
-        "segundos": 7.4
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_san-martin",
-        "total": 21,
-        "segundos": 8.1
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_san-martin",
-        "total": 21,
-        "segundos": 8.7
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_san-pedro",
-        "total": 0,
-        "segundos": 5.2
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_san-pedro",
-        "total": 0,
-        "segundos": 5.1
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_villa-emma",
-        "total": 0,
-        "segundos": 5.7
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_villa-emma",
-        "total": 0,
-        "segundos": 5.3
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_villas-del-progreso",
-        "total": 20,
-        "segundos": 8.2
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_villas-del-progreso",
-        "total": 0,
-        "segundos": 6.0
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_casa-blanca-sur",
-        "total": 10,
-        "segundos": 7.9
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_casa-blanca-sur",
-        "total": 4,
-        "segundos": 7.6
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_casablanca",
-        "total": 21,
-        "segundos": 8.1
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_casablanca",
-        "total": 21,
-        "segundos": 7.9
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_chucua-de-la-vaca-i",
-        "total": 0,
-        "segundos": 5.7
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_chucua-de-la-vaca-i",
-        "total": 3,
-        "segundos": 7.8
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_gran-britalia-i",
-        "total": 4,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_gran-britalia-i",
-        "total": 0,
-        "segundos": 5.3
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_pastrana",
-        "total": 7,
-        "segundos": 7.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_pastrana",
-        "total": 12,
-        "segundos": 7.0
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_roma",
-        "total": 0,
-        "segundos": 4.5
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_roma",
-        "total": 0,
-        "segundos": 4.5
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_tintalito",
-        "total": 0,
-        "segundos": 5.3
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_tintalito",
-        "total": 0,
-        "segundos": 5.3
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_villa-nelly-iii-sector",
-        "total": 0,
-        "segundos": 5.8
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_villa-nelly-iii-sector",
-        "total": 3,
-        "segundos": 7.7
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_boita",
-        "total": 5,
-        "segundos": 8.1
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_boita",
-        "total": 8,
-        "segundos": 7.8
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_corredor-ferreo-del-sur",
-        "total": 21,
-        "segundos": 8.1
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_corredor-ferreo-del-sur",
-        "total": 21,
-        "segundos": 8.1
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_guadalupe",
-        "total": 18,
-        "segundos": 8.2
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_guadalupe",
-        "total": 9,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_jacqueline",
-        "total": 0,
-        "segundos": 5.3
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_jacqueline",
-        "total": 4,
-        "segundos": 7.6
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_las-delicias",
-        "total": 17,
-        "segundos": 8.1
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_las-delicias",
-        "total": 0,
-        "segundos": 5.2
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_villa-del-rio",
-        "total": 21,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_villa-del-rio",
-        "total": 0,
-        "segundos": 48.0
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_alqueria",
-        "total": 0,
-        "segundos": 5.5
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_alqueria",
-        "total": 5,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_alqueria-la-fragua",
-        "total": 3,
-        "segundos": 8.1
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_alqueria-la-fragua",
-        "total": 0,
-        "segundos": 5.5
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_alqueria-la-fragua-ii",
-        "total": 7,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_alqueria-la-fragua-ii",
-        "total": 0,
-        "segundos": 5.2
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_alqueria-la-fragua-norte",
-        "total": 2,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_alqueria-la-fragua-norte",
-        "total": 0,
-        "segundos": 5.4
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_ciudad-kennedy",
-        "total": 21,
-        "segundos": 8.8
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_ciudad-kennedy",
-        "total": 21,
-        "segundos": 8.1
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_ciudad-kennedy-central",
-        "total": 21,
-        "segundos": 7.2
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_ciudad-kennedy-central",
-        "total": 21,
-        "segundos": 7.1
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_ciudad-kennedy-norte",
-        "total": 21,
-        "segundos": 7.2
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_ciudad-kennedy-norte",
-        "total": 21,
-        "segundos": 7.1
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_ciudad-kennedy-occidental",
-        "total": 21,
-        "segundos": 7.1
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_ciudad-kennedy-occidental",
-        "total": 21,
-        "segundos": 7.2
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_ciudad-kennedy-oriental",
-        "total": 21,
-        "segundos": 7.4
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_ciudad-kennedy-oriental",
-        "total": 21,
-        "segundos": 7.2
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_ciudad-kennedy-sur",
-        "total": 21,
-        "segundos": 7.2
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_ciudad-kennedy-sur",
-        "total": 21,
-        "segundos": 7.1
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_corabastos",
-        "total": 0,
-        "segundos": 48.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_corabastos",
-        "total": 0,
-        "segundos": 5.3
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_hipotecho",
-        "total": 21,
-        "segundos": 8.5
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_hipotecho",
-        "total": 13,
-        "segundos": 7.7
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_hipotecho-occidental",
-        "total": 21,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_hipotecho-occidental",
-        "total": 15,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_hipotecho-sur",
-        "total": 21,
-        "segundos": 8.4
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_hipotecho-sur",
-        "total": 21,
-        "segundos": 8.3
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_isla-del-sol",
-        "total": 13,
-        "segundos": 8.4
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_isla-del-sol",
-        "total": 0,
-        "segundos": 5.1
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_la-campina",
-        "total": 10,
-        "segundos": 7.8
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_la-campina",
-        "total": 10,
-        "segundos": 7.8
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_las-dos-avenidas",
-        "total": 21,
-        "segundos": 8.2
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_las-dos-avenidas",
-        "total": 7,
-        "segundos": 7.8
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_lusitania",
-        "total": 21,
-        "segundos": 8.6
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_lusitania",
-        "total": 17,
-        "segundos": 8.1
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_mandalay",
-        "total": 21,
-        "segundos": 7.2
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_mandalay",
-        "total": 5,
-        "segundos": 8.0
-      },
-      {
-        "clave": "fincaraiz_venta_apartamento_marsella",
-        "total": 21,
-        "segundos": 7.9
-      },
-      {
-        "clave": "fincaraiz_arriendo_apartamento_marsella",
-        "total": 9,
-        "segundos": 8.3
-      }
-    ],
-    "variaciones": {}
-  },
-  {
-    "grupo": "barrios_res",
     "generado": "2026.SEP.27 21:50",
     "iso": "2026-09-27T21:50:50",
     "total": 920,
@@ -325589,5 +324779,815 @@
       "venta_apartamento_cerros-orientales": 1,
       "arriendo_apartamento_cerros-orientales": -1
     }
+  },
+  {
+    "grupo": "barrios_res",
+    "generado": "2026.NOV.21 20:17",
+    "iso": "2026-11-21T20:17:15",
+    "total": 2082,
+    "segundos_total": 1182.2,
+    "datasets": [
+      {
+        "clave": "fincaraiz_venta_apartamento_san-antonio-engativa",
+        "total": 0,
+        "segundos": 7.5
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_san-antonio-engativa",
+        "total": 3,
+        "segundos": 7.9
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_villa-del-mar",
+        "total": 15,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_villa-del-mar",
+        "total": 3,
+        "segundos": 7.5
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_atahualpa",
+        "total": 5,
+        "segundos": 7.9
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_atahualpa",
+        "total": 3,
+        "segundos": 7.5
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_belen-fontibon",
+        "total": 21,
+        "segundos": 8.0
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_belen-fontibon",
+        "total": 11,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_brisas-aldea-fontibon",
+        "total": 21,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_brisas-aldea-fontibon",
+        "total": 21,
+        "segundos": 7.5
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_centro-fontibon",
+        "total": 21,
+        "segundos": 8.1
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_centro-fontibon",
+        "total": 11,
+        "segundos": 7.9
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_charco-rural",
+        "total": 0,
+        "segundos": 5.7
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_charco-rural",
+        "total": 0,
+        "segundos": 5.3
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_charco-urbano",
+        "total": 0,
+        "segundos": 5.7
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_charco-urbano",
+        "total": 0,
+        "segundos": 5.2
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-carmen-fontibon",
+        "total": 21,
+        "segundos": 7.9
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-carmen-fontibon",
+        "total": 12,
+        "segundos": 8.0
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-chanco-i",
+        "total": 21,
+        "segundos": 8.0
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-chanco-i",
+        "total": 21,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-chanco-ii",
+        "total": 0,
+        "segundos": 5.8
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-chanco-ii",
+        "total": 0,
+        "segundos": 5.1
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-chanco-iii",
+        "total": 12,
+        "segundos": 8.1
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-chanco-iii",
+        "total": 7,
+        "segundos": 7.1
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-chanco-rural-ii",
+        "total": 0,
+        "segundos": 5.6
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-chanco-rural-ii",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-chanco-rural-iii",
+        "total": 0,
+        "segundos": 5.9
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-chanco-rural-iii",
+        "total": 3,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-charco",
+        "total": 3,
+        "segundos": 8.1
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-charco",
+        "total": 0,
+        "segundos": 5.2
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-refugio",
+        "total": 21,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-refugio",
+        "total": 21,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-tintal",
+        "total": 21,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-tintal",
+        "total": 20,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-tintal-central",
+        "total": 21,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-tintal-central",
+        "total": 17,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-tintal-ii",
+        "total": 12,
+        "segundos": 7.3
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-tintal-ii",
+        "total": 7,
+        "segundos": 7.1
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_ferrocaja-fontibon",
+        "total": 21,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_ferrocaja-fontibon",
+        "total": 13,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_guadual-fontibon",
+        "total": 21,
+        "segundos": 8.2
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_guadual-fontibon",
+        "total": 8,
+        "segundos": 7.5
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_kasandra",
+        "total": 13,
+        "segundos": 7.6
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_kasandra",
+        "total": 7,
+        "segundos": 7.9
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_la-cabana-fontibon",
+        "total": 5,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_la-cabana-fontibon",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_la-giralda",
+        "total": 15,
+        "segundos": 7.6
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_la-giralda",
+        "total": 0,
+        "segundos": 5.2
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_la-laguna-fontibon",
+        "total": 21,
+        "segundos": 8.0
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_la-laguna-fontibon",
+        "total": 8,
+        "segundos": 7.5
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_la-magdalena-rural",
+        "total": 12,
+        "segundos": 7.2
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_la-magdalena-rural",
+        "total": 7,
+        "segundos": 7.1
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_moravia",
+        "total": 0,
+        "segundos": 5.3
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_moravia",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_puente-grande",
+        "total": 21,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_puente-grande",
+        "total": 21,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_puerta-de-teja",
+        "total": 21,
+        "segundos": 7.9
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_puerta-de-teja",
+        "total": 21,
+        "segundos": 7.6
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_sabana-grande",
+        "total": 21,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_sabana-grande",
+        "total": 9,
+        "segundos": 7.6
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_sabana-grande-rural",
+        "total": 12,
+        "segundos": 7.1
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_sabana-grande-rural",
+        "total": 7,
+        "segundos": 7.1
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_san-jose-de-fontibon",
+        "total": 19,
+        "segundos": 7.6
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_san-jose-de-fontibon",
+        "total": 5,
+        "segundos": 7.4
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_san-pablo-jerico",
+        "total": 21,
+        "segundos": 8.0
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_san-pablo-jerico",
+        "total": 21,
+        "segundos": 7.9
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_san-pedro",
+        "total": 0,
+        "segundos": 5.0
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_san-pedro",
+        "total": 0,
+        "segundos": 5.1
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_san-pedro-de-los-robles",
+        "total": 4,
+        "segundos": 8.2
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_san-pedro-de-los-robles",
+        "total": 0,
+        "segundos": 5.2
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_vereda-el-tintal-rural",
+        "total": 21,
+        "segundos": 7.4
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_vereda-el-tintal-rural",
+        "total": 20,
+        "segundos": 7.3
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_vereda-el-tintal-urbano",
+        "total": 21,
+        "segundos": 6.9
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_vereda-el-tintal-urbano",
+        "total": 20,
+        "segundos": 6.9
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_versalles-fontibon",
+        "total": 8,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_versalles-fontibon",
+        "total": 3,
+        "segundos": 7.6
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_villa-carmenza",
+        "total": 10,
+        "segundos": 7.9
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_villa-carmenza",
+        "total": 7,
+        "segundos": 8.1
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_villemar",
+        "total": 21,
+        "segundos": 7.6
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_villemar",
+        "total": 9,
+        "segundos": 7.4
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_zona-franca",
+        "total": 12,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_zona-franca",
+        "total": 5,
+        "segundos": 7.4
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_bosque-popular",
+        "total": 4,
+        "segundos": 7.5
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_bosque-popular",
+        "total": 10,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_campo-eucaristico",
+        "total": 5,
+        "segundos": 7.9
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_campo-eucaristico",
+        "total": 0,
+        "segundos": 5.1
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_ciudad-salitre-nor-oriental",
+        "total": 12,
+        "segundos": 7.2
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_ciudad-salitre-nor-oriental",
+        "total": 7,
+        "segundos": 7.1
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-encanto",
+        "total": 15,
+        "segundos": 7.4
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-encanto",
+        "total": 6,
+        "segundos": 7.4
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-salitre",
+        "total": 21,
+        "segundos": 8.5
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-salitre",
+        "total": 15,
+        "segundos": 7.5
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_jardin-botanico",
+        "total": 8,
+        "segundos": 7.5
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_jardin-botanico",
+        "total": 3,
+        "segundos": 7.6
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_la-cabana",
+        "total": 21,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_la-cabana",
+        "total": 11,
+        "segundos": 7.5
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_la-esperanza-norte",
+        "total": 21,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_la-esperanza-norte",
+        "total": 21,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_los-alamos",
+        "total": 0,
+        "segundos": 7.6
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_los-alamos",
+        "total": 0,
+        "segundos": 7.6
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_modelia",
+        "total": 21,
+        "segundos": 8.0
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_modelia",
+        "total": 21,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_normandia",
+        "total": 21,
+        "segundos": 8.3
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_normandia",
+        "total": 21,
+        "segundos": 7.6
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_normandia-occidental",
+        "total": 21,
+        "segundos": 8.0
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_normandia-occidental",
+        "total": 21,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_parque-popular-salitre",
+        "total": 17,
+        "segundos": 8.1
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_parque-popular-salitre",
+        "total": 15,
+        "segundos": 7.5
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_salitre-occidental",
+        "total": 21,
+        "segundos": 8.9
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_salitre-occidental",
+        "total": 21,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_san-ignacio",
+        "total": 19,
+        "segundos": 8.3
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_san-ignacio",
+        "total": 8,
+        "segundos": 7.5
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_santa-cecilia",
+        "total": 6,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_santa-cecilia",
+        "total": 9,
+        "segundos": 7.5
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_villa-luz",
+        "total": 11,
+        "segundos": 7.5
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_villa-luz",
+        "total": 5,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_bosque-de-modelia",
+        "total": 13,
+        "segundos": 8.1
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_bosque-de-modelia",
+        "total": 0,
+        "segundos": 5.1
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_capellania",
+        "total": 21,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_capellania",
+        "total": 21,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_centro-industrial",
+        "total": 8,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_centro-industrial",
+        "total": 11,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_ciudad-hayuelos",
+        "total": 20,
+        "segundos": 8.5
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_ciudad-hayuelos",
+        "total": 21,
+        "segundos": 7.9
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_ciudad-salitre-sur-oriental",
+        "total": 21,
+        "segundos": 8.1
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_ciudad-salitre-sur-oriental",
+        "total": 21,
+        "segundos": 8.5
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-tintal-central",
+        "total": 21,
+        "segundos": 6.8
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-tintal-central",
+        "total": 17,
+        "segundos": 6.8
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-tintal-ii",
+        "total": 12,
+        "segundos": 6.8
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-tintal-ii",
+        "total": 7,
+        "segundos": 6.8
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_el-vergel",
+        "total": 17,
+        "segundos": 7.9
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_el-vergel",
+        "total": 14,
+        "segundos": 7.5
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_ferrocaja-fontibon",
+        "total": 21,
+        "segundos": 6.8
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_ferrocaja-fontibon",
+        "total": 13,
+        "segundos": 6.8
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_franco",
+        "total": 21,
+        "segundos": 6.9
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_franco",
+        "total": 17,
+        "segundos": 8.5
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_granjas-de-techo",
+        "total": 21,
+        "segundos": 8.3
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_granjas-de-techo",
+        "total": 21,
+        "segundos": 8.1
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_interindustrial",
+        "total": 21,
+        "segundos": 8.3
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_interindustrial",
+        "total": 11,
+        "segundos": 7.9
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_la-esperanza-sur",
+        "total": 21,
+        "segundos": 8.3
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_la-esperanza-sur",
+        "total": 21,
+        "segundos": 7.8
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_modelia-occidental",
+        "total": 21,
+        "segundos": 8.1
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_modelia-occidental",
+        "total": 16,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_montevideo",
+        "total": 21,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_montevideo",
+        "total": 21,
+        "segundos": 6.9
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_nuevo-techo",
+        "total": 20,
+        "segundos": 8.8
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_nuevo-techo",
+        "total": 9,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_puerta-de-teja",
+        "total": 21,
+        "segundos": 7.2
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_puerta-de-teja",
+        "total": 21,
+        "segundos": 6.8
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_terminal-de-transportes",
+        "total": 21,
+        "segundos": 7.9
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_terminal-de-transportes",
+        "total": 19,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_vereda-el-tintal",
+        "total": 21,
+        "segundos": 7.2
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_vereda-el-tintal",
+        "total": 20,
+        "segundos": 7.0
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_vereda-el-tintal-rural",
+        "total": 21,
+        "segundos": 6.9
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_vereda-el-tintal-rural",
+        "total": 20,
+        "segundos": 6.9
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_villa-alsacia",
+        "total": 21,
+        "segundos": 8.6
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_villa-alsacia",
+        "total": 16,
+        "segundos": 7.6
+      },
+      {
+        "clave": "fincaraiz_venta_apartamento_vision-de-oriente",
+        "total": 9,
+        "segundos": 7.7
+      },
+      {
+        "clave": "fincaraiz_arriendo_apartamento_vision-de-oriente",
+        "total": 7,
+        "segundos": 7.7
+      }
+    ],
+    "variaciones": {}
   }
 ]
