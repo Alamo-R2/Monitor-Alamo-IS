@@ -1,148 +1,5 @@
 [
   {
-    "grupo": "diario",
-    "generado": "2026.SEP.27 14:24",
-    "iso": "2026-09-27T14:24:03",
-    "total": 951,
-    "segundos_total": 197.3,
-    "datasets": [
-      {
-        "clave": "venta_apartamento_centro-historico",
-        "total": 4,
-        "segundos": 9.4
-      },
-      {
-        "clave": "arriendo_apartamento_centro-historico",
-        "total": 6,
-        "segundos": 8.8
-      },
-      {
-        "clave": "venta_apartamento_teusaquillo",
-        "total": 52,
-        "segundos": 9.2
-      },
-      {
-        "clave": "arriendo_apartamento_teusaquillo",
-        "total": 54,
-        "segundos": 9.0
-      },
-      {
-        "clave": "venta_apartamento_puente-aranda",
-        "total": 51,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_apartamento_puente-aranda",
-        "total": 50,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_apartamento_barrios-unidos",
-        "total": 44,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_apartamento_barrios-unidos",
-        "total": 32,
-        "segundos": 9.0
-      },
-      {
-        "clave": "venta_apartamento_chapinero",
-        "total": 54,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_apartamento_chapinero",
-        "total": 59,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_apartamento_britalia",
-        "total": 50,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_apartamento_britalia",
-        "total": 9,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_apartamento_toberin",
-        "total": 50,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_apartamento_toberin",
-        "total": 31,
-        "segundos": 8.8
-      },
-      {
-        "clave": "venta_apartamento_usaquen",
-        "total": 52,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_apartamento_usaquen",
-        "total": 52,
-        "segundos": 9.0
-      },
-      {
-        "clave": "venta_apartamento_niza",
-        "total": 52,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_apartamento_niza",
-        "total": 51,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_apartamento_fontibon",
-        "total": 51,
-        "segundos": 8.9
-      },
-      {
-        "clave": "arriendo_apartamento_fontibon",
-        "total": 53,
-        "segundos": 8.9
-      },
-      {
-        "clave": "venta_apartamento_engativa",
-        "total": 50,
-        "segundos": 9.0
-      },
-      {
-        "clave": "arriendo_apartamento_engativa",
-        "total": 44,
-        "segundos": 9.0
-      }
-    ],
-    "variaciones": {
-      "venta_apartamento_centro-historico": 0,
-      "arriendo_apartamento_centro-historico": 0,
-      "venta_apartamento_teusaquillo": 0,
-      "arriendo_apartamento_teusaquillo": 0,
-      "venta_apartamento_puente-aranda": 0,
-      "arriendo_apartamento_puente-aranda": -1,
-      "venta_apartamento_barrios-unidos": 1,
-      "arriendo_apartamento_barrios-unidos": -1,
-      "venta_apartamento_chapinero": 0,
-      "arriendo_apartamento_chapinero": 0,
-      "venta_apartamento_britalia": 0,
-      "arriendo_apartamento_britalia": 0,
-      "venta_apartamento_toberin": 0,
-      "arriendo_apartamento_toberin": 0,
-      "venta_apartamento_usaquen": 0,
-      "arriendo_apartamento_usaquen": 1,
-      "venta_apartamento_niza": 1,
-      "arriendo_apartamento_niza": 0,
-      "venta_apartamento_fontibon": 0,
-      "arriendo_apartamento_fontibon": 0,
-      "venta_apartamento_engativa": 0,
-      "arriendo_apartamento_engativa": 3
-    }
-  },
-  {
     "grupo": "barrios_res",
     "generado": "2026.SEP.27 14:52",
     "iso": "2026-09-27T14:52:10",
@@ -326593,6 +326450,416 @@
         "clave": "ciencuadras_arriendo_apartamento_el-remanso",
         "total": 0,
         "segundos": 4.1
+      }
+    ],
+    "variaciones": {}
+  },
+  {
+    "grupo": "barrios",
+    "generado": "2026.NOV.21 15:13",
+    "iso": "2026-11-21T15:13:00",
+    "total": 787,
+    "segundos_total": 399.4,
+    "datasets": [
+      {
+        "clave": "venta_oficina_arboleda-sur",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "arriendo_oficina_arboleda-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_bodega_arboleda-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_bodega_arboleda-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_edificio_arboleda-sur",
+        "total": 49,
+        "segundos": 6.8
+      },
+      {
+        "clave": "arriendo_edificio_arboleda-sur",
+        "total": 50,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_local_arboleda-sur",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_local_arboleda-sur",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "venta_lote_arboleda-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_lote_arboleda-sur",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_oficina_area-artilleria",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_oficina_area-artilleria",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_bodega_area-artilleria",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "arriendo_bodega_area-artilleria",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_edificio_area-artilleria",
+        "total": 50,
+        "segundos": 6.8
+      },
+      {
+        "clave": "arriendo_edificio_area-artilleria",
+        "total": 49,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_local_area-artilleria",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "arriendo_local_area-artilleria",
+        "total": 0,
+        "segundos": 4.2
+      },
+      {
+        "clave": "venta_lote_area-artilleria",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_lote_area-artilleria",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "venta_oficina_claret",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_oficina_claret",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_bodega_claret",
+        "total": 0,
+        "segundos": 4.2
+      },
+      {
+        "clave": "arriendo_bodega_claret",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_edificio_claret",
+        "total": 50,
+        "segundos": 7.1
+      },
+      {
+        "clave": "arriendo_edificio_claret",
+        "total": 49,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_claret",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_local_claret",
+        "total": 4,
+        "segundos": 6.9
+      },
+      {
+        "clave": "venta_lote_claret",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_lote_claret",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_oficina_el-playon",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_oficina_el-playon",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_bodega_el-playon",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_bodega_el-playon",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_edificio_el-playon",
+        "total": 47,
+        "segundos": 6.9
+      },
+      {
+        "clave": "arriendo_edificio_el-playon",
+        "total": 49,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_local_el-playon",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "arriendo_local_el-playon",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "venta_lote_el-playon",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_lote_el-playon",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "venta_oficina_la-picota",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_oficina_la-picota",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "venta_bodega_la-picota",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "arriendo_bodega_la-picota",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_edificio_la-picota",
+        "total": 49,
+        "segundos": 6.8
+      },
+      {
+        "clave": "arriendo_edificio_la-picota",
+        "total": 49,
+        "segundos": 7.0
+      },
+      {
+        "clave": "venta_local_la-picota",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_local_la-picota",
+        "total": 0,
+        "segundos": 4.2
+      },
+      {
+        "clave": "venta_lote_la-picota",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "arriendo_lote_la-picota",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "venta_oficina_marco-fidel-suarez",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_oficina_marco-fidel-suarez",
+        "total": 0,
+        "segundos": 4.8
+      },
+      {
+        "clave": "venta_bodega_marco-fidel-suarez",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_bodega_marco-fidel-suarez",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "venta_edificio_marco-fidel-suarez",
+        "total": 47,
+        "segundos": 6.8
+      },
+      {
+        "clave": "arriendo_edificio_marco-fidel-suarez",
+        "total": 50,
+        "segundos": 6.8
+      },
+      {
+        "clave": "venta_local_marco-fidel-suarez",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "arriendo_local_marco-fidel-suarez",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "venta_lote_marco-fidel-suarez",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "arriendo_lote_marco-fidel-suarez",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_oficina_marco-fidel-suarez-i",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_oficina_marco-fidel-suarez-i",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_bodega_marco-fidel-suarez-i",
+        "total": 0,
+        "segundos": 4.5
+      },
+      {
+        "clave": "arriendo_bodega_marco-fidel-suarez-i",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_edificio_marco-fidel-suarez-i",
+        "total": 48,
+        "segundos": 6.9
+      },
+      {
+        "clave": "arriendo_edificio_marco-fidel-suarez-i",
+        "total": 49,
+        "segundos": 6.9
+      },
+      {
+        "clave": "venta_local_marco-fidel-suarez-i",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "arriendo_local_marco-fidel-suarez-i",
+        "total": 0,
+        "segundos": 4.2
+      },
+      {
+        "clave": "venta_lote_marco-fidel-suarez-i",
+        "total": 0,
+        "segundos": 4.2
+      },
+      {
+        "clave": "arriendo_lote_marco-fidel-suarez-i",
+        "total": 0,
+        "segundos": 4.7
+      },
+      {
+        "clave": "venta_oficina_molinos-del-sur",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_oficina_molinos-del-sur",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "venta_bodega_molinos-del-sur",
+        "total": 0,
+        "segundos": 4.9
+      },
+      {
+        "clave": "arriendo_bodega_molinos-del-sur",
+        "total": 0,
+        "segundos": 4.4
+      },
+      {
+        "clave": "venta_edificio_molinos-del-sur",
+        "total": 48,
+        "segundos": 6.8
+      },
+      {
+        "clave": "arriendo_edificio_molinos-del-sur",
+        "total": 50,
+        "segundos": 6.9
+      },
+      {
+        "clave": "venta_local_molinos-del-sur",
+        "total": 0,
+        "segundos": 4.3
+      },
+      {
+        "clave": "arriendo_local_molinos-del-sur",
+        "total": 0,
+        "segundos": 4.2
+      },
+      {
+        "clave": "venta_lote_molinos-del-sur",
+        "total": 0,
+        "segundos": 4.6
+      },
+      {
+        "clave": "arriendo_lote_molinos-del-sur",
+        "total": 0,
+        "segundos": 4.5
       }
     ],
     "variaciones": {}
