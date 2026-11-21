@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 5,
   "zona": "LA FAENA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.13 22:57",
+  "generado": "2026.NOV.21 13:07",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1100000,
+      "area": 50.0,
+      "precioM2": 22000,
+      "administracion": null,
+      "barrio": "LA FAENA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-engativa-centro-bogota/194557766",
+      "titulo": "Apartamento en Arriendo en Engativa centro, Bogotá",
+      "id_domus": "194557766",
+      "fechaPublicacion": "2026-11-13",
+      "lat": 4.71614,
+      "lon": -74.137017,
+      "location_type": "exacta",
+      "zonaConsulta": "LA FAENA",
+      "zonaSlug": "la-faena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 45.0,
+      "precioM2": 26667,
+      "administracion": null,
+      "barrio": "LA FAENA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-faena-bogota/194549227",
+      "titulo": "Apartamento en Arriendo en La faena, Bogotá",
+      "id_domus": "194549227",
+      "fechaPublicacion": "2026-11-12",
+      "lat": 4.7165686,
+      "lon": -74.1370296,
+      "location_type": "exacta",
+      "zonaConsulta": "LA FAENA",
+      "zonaSlug": "la-faena",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],

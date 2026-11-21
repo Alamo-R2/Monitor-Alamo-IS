@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "SABANA DEL DORADO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.13 22:57",
+  "generado": "2026.NOV.21 13:07",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -105,6 +105,38 @@
     },
     {
       "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 200000000,
+      "area": 60.0,
+      "precioM2": 3333333,
+      "administracion": 236000,
+      "barrio": "SABANA DEL DORADO",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194636080",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194636080",
+      "fechaPublicacion": "2026-11-20",
+      "lat": 4.7104944,
+      "lon": -74.1386532,
+      "location_type": "exacta",
+      "zonaConsulta": "SABANA DEL DORADO",
+      "zonaSlug": "sabana-del-dorado",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],

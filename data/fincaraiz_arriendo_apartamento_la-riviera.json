@@ -1,14 +1,110 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 6,
   "zona": "LA RIVIERA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.13 22:57",
+  "generado": "2026.NOV.21 13:07",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1050000,
+      "area": 35.0,
+      "precioM2": 30000,
+      "administracion": null,
+      "barrio": "MARANDU",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-marandu-bogota/194635616",
+      "titulo": "Apartamento en Arriendo en Marandu, Bogotá",
+      "id_domus": "194635616",
+      "fechaPublicacion": "2026-11-20",
+      "lat": 4.710285,
+      "lon": -74.132543,
+      "location_type": "exacta",
+      "zonaConsulta": "LA RIVIERA",
+      "zonaSlug": "la-riviera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1050000,
+      "area": 35.0,
+      "precioM2": 30000,
+      "administracion": null,
+      "barrio": "MARANDU",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-marandu-bogota/194635107",
+      "titulo": "Apartamento en Arriendo en Marandu, Bogotá",
+      "id_domus": "194635107",
+      "fechaPublicacion": "2026-11-20",
+      "lat": 4.710285,
+      "lon": -74.132543,
+      "location_type": "exacta",
+      "zonaConsulta": "LA RIVIERA",
+      "zonaSlug": "la-riviera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 72.0,
+      "precioM2": 22222,
+      "administracion": null,
+      "barrio": "LA RIVIERA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-riviera-bogota/194554301",
+      "titulo": "Apartamento en Arriendo en La riviera, Bogotá",
+      "id_domus": "194554301",
+      "fechaPublicacion": "2026-11-13",
+      "lat": 4.7112259,
+      "lon": -74.1328101,
+      "location_type": "exacta",
+      "zonaConsulta": "LA RIVIERA",
+      "zonaSlug": "la-riviera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -86,7 +182,7 @@
       "upl": "Engativá",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 2,
       "banos": 2,
       "parqueaderos": null,
       "estrato": 2,

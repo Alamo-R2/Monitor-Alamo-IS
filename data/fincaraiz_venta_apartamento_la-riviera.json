@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "LA RIVIERA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.13 22:57",
+  "generado": "2026.NOV.21 13:07",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -118,6 +118,38 @@
       "upl": "Engativá",
       "ciudad": "Bogotá",
       "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 2,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-riviera-bogota/194551493",
+      "titulo": "Apartamento en Venta en La riviera, Bogotá",
+      "id_domus": "194551493",
+      "fechaPublicacion": "2026-11-12",
+      "lat": 4.7112259,
+      "lon": -74.1328101,
+      "location_type": "exacta",
+      "zonaConsulta": "LA RIVIERA",
+      "zonaSlug": "la-riviera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 320000000,
+      "area": 72.0,
+      "precioM2": 4444444,
+      "administracion": null,
+      "barrio": "LA RIVIERA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],

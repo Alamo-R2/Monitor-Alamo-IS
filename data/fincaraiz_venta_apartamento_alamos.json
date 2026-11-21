@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.13 22:57",
+  "generado": "2026.NOV.21 13:07",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,10 +14,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 405000000,
-      "area": 69.0,
-      "precioM2": 5869565,
-      "administracion": null,
+      "precio": 395000000,
+      "area": 61.0,
+      "precioM2": 6475410,
+      "administracion": 309000.0,
       "barrio": "ALAMOS",
       "upl": "Engativá",
       "ciudad": "Bogotá",
@@ -28,12 +28,12 @@
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-isabela-bogota/194046460",
-      "titulo": "Apartamento en Venta en La isabela, Bogotá",
-      "id_domus": "194046460",
-      "fechaPublicacion": "2026-07-28",
-      "lat": 4.685835,
-      "lon": -74.111706,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alamos-bogota/194549694",
+      "titulo": "Apartamento en Venta en Alamos, Bogotá",
+      "id_domus": "194549694",
+      "fechaPublicacion": "2026-11-12",
+      "lat": 4.690352126346,
+      "lon": -74.112312371895,
       "location_type": "exacta",
       "zonaConsulta": "ALAMOS",
       "zonaSlug": "alamos",
@@ -41,102 +41,6 @@
     },
     {
       "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 280000000,
-      "area": 56.0,
-      "precioM2": 5000000,
-      "administracion": 200000.0,
-      "barrio": "ALAMOS",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alamos-bogota/194080537",
-      "titulo": "Apartamento en Venta en Alamos, Bogotá",
-      "id_domus": "194080537",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.697434834529,
-      "lon": -74.112354197592,
-      "location_type": "exacta",
-      "zonaConsulta": "ALAMOS",
-      "zonaSlug": "alamos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 260000000,
-      "area": 56.0,
-      "precioM2": 4642857,
-      "administracion": 100000.0,
-      "barrio": "FLORIDA BLANCA",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-florida-blanca-bogota/194462271",
-      "titulo": "Apartamento en Venta en Florida blanca, Bogotá",
-      "id_domus": "194462271",
-      "fechaPublicacion": "2026-10-27",
-      "lat": 4.6929229,
-      "lon": -74.1114824,
-      "location_type": "exacta",
-      "zonaConsulta": "ALAMOS",
-      "zonaSlug": "alamos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 395000000,
-      "area": 70.0,
-      "precioM2": 5642857,
-      "administracion": null,
-      "barrio": "ALAMOS",
-      "upl": "Engativá",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alamos-bogota/194403405",
-      "titulo": "Apartamento en Venta en Alamos, Bogotá",
-      "id_domus": "194403405",
-      "fechaPublicacion": "2026-10-14",
-      "lat": 4.6886575,
-      "lon": -74.1112639,
-      "location_type": "exacta",
-      "zonaConsulta": "ALAMOS",
-      "zonaSlug": "alamos",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -200,39 +104,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 340900000,
-      "area": 53.0,
-      "precioM2": 6432075,
+      "precio": 266000000,
+      "area": 48.0,
+      "precioM2": 5541667,
       "administracion": 180000.0,
-      "barrio": "ALAMOS",
+      "barrio": "VILLA DEL MAR",
       "upl": "Engativá",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
+      "habitaciones": 3,
+      "banos": 2,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-pinos-bogota/194352309",
-      "titulo": "Apartamento en Venta en Los Pinos, Bogotá",
-      "id_domus": "194352309",
-      "fechaPublicacion": "2026-10-03",
-      "lat": 4.6978815,
-      "lon": -74.1073526,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-del-mar-bogota/194485847",
+      "titulo": "Apartamento en Venta en Villa del mar, Bogotá",
+      "id_domus": "194485847",
+      "fechaPublicacion": "2026-10-30",
+      "lat": 4.7019482,
+      "lon": -74.1193235,
       "location_type": "exacta",
       "zonaConsulta": "ALAMOS",
       "zonaSlug": "alamos",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +200,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 405000000,
+      "area": 69.0,
+      "precioM2": 5869565,
+      "administracion": null,
+      "barrio": "ALAMOS",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-isabela-bogota/194046460",
+      "titulo": "Apartamento en Venta en La isabela, Bogotá",
+      "id_domus": "194046460",
+      "fechaPublicacion": "2026-07-28",
+      "lat": 4.685835,
+      "lon": -74.111706,
+      "location_type": "exacta",
+      "zonaConsulta": "ALAMOS",
+      "zonaSlug": "alamos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +610,70 @@
       "fechaPublicacion": "2026-09-21",
       "lat": 4.6958153,
       "lon": -74.1154247,
+      "location_type": "exacta",
+      "zonaConsulta": "ALAMOS",
+      "zonaSlug": "alamos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 280000000,
+      "area": 49.0,
+      "precioM2": 5714286,
+      "administracion": 210000.0,
+      "barrio": "ALAMOS",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194636545",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194636545",
+      "fechaPublicacion": "2026-11-20",
+      "lat": 4.6896523,
+      "lon": -74.1110028,
+      "location_type": "exacta",
+      "zonaConsulta": "ALAMOS",
+      "zonaSlug": "alamos",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 280000000,
+      "area": 56.0,
+      "precioM2": 5000000,
+      "administracion": 200000.0,
+      "barrio": "ALAMOS",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-alamos-bogota/194080537",
+      "titulo": "Apartamento en Venta en Alamos, Bogotá",
+      "id_domus": "194080537",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.697434834529,
+      "lon": -74.112354197592,
       "location_type": "exacta",
       "zonaConsulta": "ALAMOS",
       "zonaSlug": "alamos",

@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 12,
+  "total": 16,
   "zona": "ENGATIVA ZONA URBANA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.13 22:57",
+  "generado": "2026.NOV.21 13:07",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 243000000,
+      "area": 44.0,
+      "precioM2": 5522727,
+      "administracion": 117658.0,
+      "barrio": "ENGATIVA ZONA URBANA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194326109",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194326109",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.7102418,
+      "lon": -74.1368417,
+      "location_type": "exacta",
+      "zonaConsulta": "ENGATIVA ZONA URBANA",
+      "zonaSlug": "engativa-zona-urbana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 150000000,
       "area": 27.0,
       "precioM2": 5555556,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -157,7 +189,7 @@
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centro-engativa-bogota/10866454",
-      "titulo": "Apartamento en venta en Centro engativa, Bogotá",
+      "titulo": "Apartamento en Venta en Centro engativa, Bogotá",
       "id_domus": "10866454",
       "fechaPublicacion": "2024-05-09",
       "lat": 4.7099098,
@@ -168,7 +200,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 200000000,
+      "area": 60.0,
+      "precioM2": 3333333,
+      "administracion": 236000.0,
+      "barrio": "ENGATIVA ZONA URBANA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194636080",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194636080",
+      "fechaPublicacion": "2026-11-20",
+      "lat": 4.7104944,
+      "lon": -74.1386532,
+      "location_type": "exacta",
+      "zonaConsulta": "ENGATIVA ZONA URBANA",
+      "zonaSlug": "engativa-zona-urbana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 229000000,
+      "area": 44.0,
+      "precioM2": 5204545,
+      "administracion": 110000.0,
+      "barrio": "ENGATIVA ZONA URBANA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194628222",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194628222",
+      "fechaPublicacion": "2026-11-19",
+      "lat": 4.7105372382443,
+      "lon": -74.136585720005,
+      "location_type": "exacta",
+      "zonaConsulta": "ENGATIVA ZONA URBANA",
+      "zonaSlug": "engativa-zona-urbana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +424,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 190000000,
+      "area": 48.0,
+      "precioM2": 3958333,
+      "administracion": 236000.0,
+      "barrio": "ENGATIVA ZONA URBANA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-engativa-bogota/194637088",
+      "titulo": "Apartamento en Venta en Engativá, Bogotá",
+      "id_domus": "194637088",
+      "fechaPublicacion": "2026-11-20",
+      "lat": 4.7103403,
+      "lon": -74.138497,
+      "location_type": "exacta",
+      "zonaConsulta": "ENGATIVA ZONA URBANA",
+      "zonaSlug": "engativa-zona-urbana",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],

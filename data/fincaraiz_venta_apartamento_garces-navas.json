@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 8,
+  "total": 10,
   "zona": "GARCES NAVAS",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.13 22:57",
+  "generado": "2026.NOV.21 13:07",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -17,7 +17,7 @@
       "precio": 280000000,
       "area": 59.0,
       "precioM2": 4745763,
-      "administracion": 336200,
+      "administracion": 336200.0,
       "barrio": "GARCES NAVAS",
       "upl": "Engativá",
       "ciudad": "Bogotá",
@@ -49,7 +49,7 @@
       "precio": 340000000,
       "area": 72.0,
       "precioM2": 4722222,
-      "administracion": 78000,
+      "administracion": 78000.0,
       "barrio": "GARCES NAVAS",
       "upl": "Engativá",
       "ciudad": "Bogotá",
@@ -81,7 +81,7 @@
       "precio": 380000000,
       "area": 73.0,
       "precioM2": 5205479,
-      "administracion": 135000,
+      "administracion": 135000.0,
       "barrio": "GARCES NAVAS",
       "upl": "Engativá",
       "ciudad": "Bogotá",
@@ -110,10 +110,42 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 260000000,
+      "area": 52.0,
+      "precioM2": 5000000,
+      "administracion": 250000.0,
+      "barrio": "VILLAS DE GRANADA",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villas-de-granada-bogota/194550479",
+      "titulo": "Apartamento en Venta en Villas de Granada, Bogotá",
+      "id_domus": "194550479",
+      "fechaPublicacion": "2026-11-12",
+      "lat": 4.7128995,
+      "lon": -74.1237808,
+      "location_type": "exacta",
+      "zonaConsulta": "GARCES NAVAS",
+      "zonaSlug": "garces-navas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 370000000,
       "area": 84.0,
       "precioM2": 4404762,
-      "administracion": 135000,
+      "administracion": 135000.0,
       "barrio": "GARCES NAVAS",
       "upl": "Engativá",
       "ciudad": "Bogotá",
@@ -136,7 +168,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 330000000,
+      "area": 254.0,
+      "precioM2": 1299213,
+      "administracion": null,
+      "barrio": "GARCES NAVAS",
+      "upl": "Engativá",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-garces-navas-bogota/194630895",
+      "titulo": "Apartamento en Venta en Garces navas, Bogotá",
+      "id_domus": "194630895",
+      "fechaPublicacion": "2026-11-19",
+      "lat": 4.7126644,
+      "lon": -74.1211642,
+      "location_type": "exacta",
+      "zonaConsulta": "GARCES NAVAS",
+      "zonaSlug": "garces-navas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -145,7 +209,7 @@
       "precio": 350000000,
       "area": 65.0,
       "precioM2": 5384615,
-      "administracion": 358800,
+      "administracion": 358800.0,
       "barrio": "GARCES NAVAS",
       "upl": "Engativá",
       "ciudad": "Bogotá",
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -177,7 +241,7 @@
       "precio": 300000000,
       "area": 72.0,
       "precioM2": 4166667,
-      "administracion": 135000,
+      "administracion": 135000.0,
       "barrio": "VILLAS DE GRANADA",
       "upl": "Engativá",
       "ciudad": "Bogotá",
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -209,7 +273,7 @@
       "precio": 440000000,
       "area": 78.0,
       "precioM2": 5641026,
-      "administracion": 140000,
+      "administracion": 140000.0,
       "barrio": "GARCES NAVAS",
       "upl": "Engativá",
       "ciudad": "Bogotá",
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -241,7 +305,7 @@
       "precio": 270000000,
       "area": 32.0,
       "precioM2": 8437500,
-      "administracion": 230000,
+      "administracion": 230000.0,
       "barrio": "GARCES NAVAS",
       "upl": "Engativá",
       "ciudad": "Bogotá",
