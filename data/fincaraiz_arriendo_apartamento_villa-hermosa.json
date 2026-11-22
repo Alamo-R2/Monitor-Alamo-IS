@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "VILLA HERMOSA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.15 12:20",
+  "generado": "2026.NOV.22 12:55",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 45.0,
+      "precioM2": 40000,
+      "administracion": null,
+      "barrio": "VILLA HERMOSA",
+      "upl": "Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-pinar-de-suba-bogota/194427126",
+      "titulo": "Apartamento en Arriendo en Pinar de Suba, Bogotá",
+      "id_domus": "194427126",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.7545048,
+      "lon": -74.091763,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA HERMOSA",
+      "zonaSlug": "villa-hermosa",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],

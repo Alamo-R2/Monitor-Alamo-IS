@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.14 21:44",
+  "generado": "2026.NOV.22 12:55",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,9 +14,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 9100000,
+      "precio": 8950000,
       "area": 230.0,
-      "precioM2": 39565,
+      "precioM2": 38913,
       "administracion": 1900000.0,
       "barrio": "LA LOMITA",
       "upl": "Torca",
@@ -28,8 +28,8 @@
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-arrayanes-bogota/194489693",
-      "titulo": "Apartamento en Arriendo en Arrayanes, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/194489693",
+      "titulo": "Apartamento en Arriendo en Bogotá",
       "id_domus": "194489693",
       "fechaPublicacion": "2026-11-01",
       "lat": 4.8004179547295,
@@ -41,38 +41,6 @@
     },
     {
       "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 8500000,
-      "area": 230.0,
-      "precioM2": 36957,
-      "administracion": null,
-      "barrio": "LA LOMITA",
-      "upl": "Torca",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 4,
-      "parqueaderos": 4.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-camino-de-arrayanes-bogota/194406816",
-      "titulo": "Apartamento en Arriendo en Camino de Arrayanes, Bogotá",
-      "id_domus": "194406816",
-      "fechaPublicacion": "2026-10-15",
-      "lat": 4.7991652,
-      "lon": -74.068767,
-      "location_type": "exacta",
-      "zonaConsulta": "LA LOMITA",
-      "zonaSlug": "la-lomita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -242,7 +210,7 @@
       "area": 229.0,
       "precioM2": 39738,
       "administracion": 1900000.0,
-      "barrio": "GUAYMARAL",
+      "barrio": "LA LOMITA",
       "upl": "Torca",
       "ciudad": "Bogotá",
       "direccion": "",
@@ -252,12 +220,44 @@
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-guaymaral-bogota/194324987",
-      "titulo": "Apartamento en Arriendo en Guaymaral, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-arrayanes-bogota/194324987",
+      "titulo": "Apartamento en Arriendo en Arrayanes, Bogotá",
       "id_domus": "194324987",
       "fechaPublicacion": "2026-09-28",
       "lat": 4.7994411192436,
       "lon": -74.07356468395,
+      "location_type": "exacta",
+      "zonaConsulta": "LA LOMITA",
+      "zonaSlug": "la-lomita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 8500000,
+      "area": 230.0,
+      "precioM2": 36957,
+      "administracion": null,
+      "barrio": "LA LOMITA",
+      "upl": "Torca",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 4.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-camino-de-arrayanes-bogota/194406816",
+      "titulo": "Apartamento en Arriendo en Camino de Arrayanes, Bogotá",
+      "id_domus": "194406816",
+      "fechaPublicacion": "2026-10-15",
+      "lat": 4.7991652,
+      "lon": -74.068767,
       "location_type": "exacta",
       "zonaConsulta": "LA LOMITA",
       "zonaSlug": "la-lomita",
