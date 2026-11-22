@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.21 20:17",
+  "generado": "2026.NOV.22 01:43",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,70 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1522000,
-      "area": 70.0,
-      "precioM2": 21743,
-      "administracion": 278000.0,
-      "barrio": "NUEVO TECHO",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/194508477",
-      "titulo": "Apartamento en Arriendo en Bogotá",
-      "id_domus": "194508477",
-      "fechaPublicacion": "2026-11-05",
-      "lat": 4.6386711,
-      "lon": -74.1546467,
-      "location_type": "exacta",
-      "zonaConsulta": "NUEVO TECHO",
-      "zonaSlug": "nuevo-techo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1209800,
-      "area": 40.0,
-      "precioM2": 30245,
-      "administracion": 190200.0,
-      "barrio": "TINTALA",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-tintala-bogota/194446661",
-      "titulo": "Apartamento en Arriendo en Tintala, Bogotá",
-      "id_domus": "194446661",
-      "fechaPublicacion": "2026-10-23",
-      "lat": 4.6401958,
-      "lon": -74.1555437,
-      "location_type": "exacta",
-      "zonaConsulta": "NUEVO TECHO",
-      "zonaSlug": "nuevo-techo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 3500000,
       "area": 50.0,
       "precioM2": 70000,
@@ -136,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -258,6 +194,70 @@
       "fechaPublicacion": "2026-09-10",
       "lat": 4.6368173,
       "lon": -74.1526775,
+      "location_type": "exacta",
+      "zonaConsulta": "NUEVO TECHO",
+      "zonaSlug": "nuevo-techo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1522000,
+      "area": 70.0,
+      "precioM2": 21743,
+      "administracion": 278000.0,
+      "barrio": "NUEVO TECHO",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/194508477",
+      "titulo": "Apartamento en Arriendo en Bogotá",
+      "id_domus": "194508477",
+      "fechaPublicacion": "2026-11-05",
+      "lat": 4.6386711,
+      "lon": -74.1546467,
+      "location_type": "exacta",
+      "zonaConsulta": "NUEVO TECHO",
+      "zonaSlug": "nuevo-techo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1209800,
+      "area": 40.0,
+      "precioM2": 30245,
+      "administracion": 190200.0,
+      "barrio": "TINTALA",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-tintala-bogota/194446661",
+      "titulo": "Apartamento en Arriendo en Tintala, Bogotá",
+      "id_domus": "194446661",
+      "fechaPublicacion": "2026-10-23",
+      "lat": 4.6401958,
+      "lon": -74.1555437,
       "location_type": "exacta",
       "zonaConsulta": "NUEVO TECHO",
       "zonaSlug": "nuevo-techo",

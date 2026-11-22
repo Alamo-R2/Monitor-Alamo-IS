@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.21 20:17",
+  "generado": "2026.NOV.22 01:43",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,70 +78,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 230000000,
-      "area": 54.0,
-      "precioM2": 4259259,
-      "administracion": 126900.0,
-      "barrio": "VISION DE ORIENTE",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-vision-de-colombia-bogota/193587709",
-      "titulo": "Apartamento en Venta en Vision de colombia, Bogotá",
-      "id_domus": "193587709",
-      "fechaPublicacion": "2026-04-01",
-      "lat": 4.6494818,
-      "lon": -74.1349005,
-      "location_type": "exacta",
-      "zonaConsulta": "VISION DE ORIENTE",
-      "zonaSlug": "vision-de-oriente",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 320000000,
-      "area": 78.0,
-      "precioM2": 4102564,
-      "administracion": 300000.0,
-      "barrio": "EL TINTAL",
-      "upl": "Salitre",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tintal-bogota/194324131",
-      "titulo": "Apartamento en Venta en El tintal, Bogotá",
-      "id_domus": "194324131",
-      "fechaPublicacion": "2026-09-28",
-      "lat": 4.650086,
-      "lon": -74.134842,
-      "location_type": "exacta",
-      "zonaConsulta": "VISION DE ORIENTE",
-      "zonaSlug": "vision-de-oriente",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 280000000,
       "area": 53.0,
       "precioM2": 5283019,
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -258,6 +194,70 @@
       "fechaPublicacion": "2026-10-13",
       "lat": 4.6490496,
       "lon": -74.1339761,
+      "location_type": "exacta",
+      "zonaConsulta": "VISION DE ORIENTE",
+      "zonaSlug": "vision-de-oriente",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 230000000,
+      "area": 54.0,
+      "precioM2": 4259259,
+      "administracion": 126900.0,
+      "barrio": "VISION DE ORIENTE",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-vision-de-colombia-bogota/193587709",
+      "titulo": "Apartamento en Venta en Vision de colombia, Bogotá",
+      "id_domus": "193587709",
+      "fechaPublicacion": "2026-04-01",
+      "lat": 4.6494818,
+      "lon": -74.1349005,
+      "location_type": "exacta",
+      "zonaConsulta": "VISION DE ORIENTE",
+      "zonaSlug": "vision-de-oriente",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 320000000,
+      "area": 78.0,
+      "precioM2": 4102564,
+      "administracion": 300000.0,
+      "barrio": "EL TINTAL",
+      "upl": "Salitre",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tintal-bogota/194324131",
+      "titulo": "Apartamento en Venta en El tintal, Bogotá",
+      "id_domus": "194324131",
+      "fechaPublicacion": "2026-09-28",
+      "lat": 4.650086,
+      "lon": -74.134842,
       "location_type": "exacta",
       "zonaConsulta": "VISION DE ORIENTE",
       "zonaSlug": "vision-de-oriente",

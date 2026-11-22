@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 17,
+  "total": 19,
   "zona": "BARRANCAS ORIENTAL RURAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.20 02:48",
+  "generado": "2026.NOV.22 01:43",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -334,6 +334,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1726000,
+      "area": 70.0,
+      "precioM2": 24657,
+      "administracion": 874000.0,
+      "barrio": "BARRANCAS ORIENTAL RURAL",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cedro-golf-bogota/194635335",
+      "titulo": "Apartamento en Arriendo en Cedro Golf, Bogotá",
+      "id_domus": "194635335",
+      "fechaPublicacion": "2026-11-20",
+      "lat": 4.724602,
+      "lon": -74.0257592,
+      "location_type": "exacta",
+      "zonaConsulta": "BARRANCAS ORIENTAL RURAL",
+      "zonaSlug": "barrancas-oriental-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 2136900,
       "area": 70.0,
       "precioM2": 30527,
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3500000,
+      "area": 76.0,
+      "precioM2": 46053,
+      "administracion": null,
+      "barrio": "BARRANCAS ORIENTAL RURAL",
+      "upl": "Cerros Orientales",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-belmira-bogota/194642322",
+      "titulo": "Apartamento en Arriendo en Belmira, Bogotá",
+      "id_domus": "194642322",
+      "fechaPublicacion": "2026-11-21",
+      "lat": 4.7217547,
+      "lon": -74.0264492,
+      "location_type": "exacta",
+      "zonaConsulta": "BARRANCAS ORIENTAL RURAL",
+      "zonaSlug": "barrancas-oriental-rural",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],

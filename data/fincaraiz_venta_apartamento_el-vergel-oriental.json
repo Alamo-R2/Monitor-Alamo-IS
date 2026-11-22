@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.14 16:12",
+  "generado": "2026.NOV.22 01:43",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 340000000,
+      "area": 64.0,
+      "precioM2": 5312500,
+      "administracion": 190000.0,
+      "barrio": "CASTILLA",
+      "upl": "Tintal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194563182",
+      "titulo": "Apartamento en Venta en Castilla, Bogotá",
+      "id_domus": "194563182",
+      "fechaPublicacion": "2026-11-15",
+      "lat": 4.6471537,
+      "lon": -74.1398006,
+      "location_type": "exacta",
+      "zonaConsulta": "EL VERGEL ORIENTAL",
+      "zonaSlug": "el-vergel-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -25,7 +57,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194400880",
@@ -40,71 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 443000000,
-      "area": 71.0,
-      "precioM2": 6239437,
-      "administracion": 295300.0,
-      "barrio": "EL VERGEL ORIENTAL",
-      "upl": "Tintal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nueva-castilla-bogota/194450789",
-      "titulo": "Apartamento en Venta en Nueva Castilla, Bogotá",
-      "id_domus": "194450789",
-      "fechaPublicacion": "2026-10-23",
-      "lat": 4.6490717,
-      "lon": -74.143612,
-      "location_type": "exacta",
-      "zonaConsulta": "EL VERGEL ORIENTAL",
-      "zonaSlug": "el-vergel-oriental",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 230000000,
-      "area": 39.0,
-      "precioM2": 5897436,
-      "administracion": 115000.0,
-      "barrio": "EL VERGEL ORIENTAL",
-      "upl": "Tintal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-vergel-oriental-bogota/193987581",
-      "titulo": "Apartamento en Venta en El vergel oriental, Bogotá",
-      "id_domus": "193987581",
-      "fechaPublicacion": "2026-07-14",
-      "lat": 4.6470168,
-      "lon": -74.1445677,
-      "location_type": "exacta",
-      "zonaConsulta": "EL VERGEL ORIENTAL",
-      "zonaSlug": "el-vergel-oriental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -121,7 +89,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/193726792",
@@ -136,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -153,7 +121,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nueva-castilla-bogota/194150997",
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -185,7 +153,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194370261",
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -217,7 +185,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nueva-castilla-bogota/194539501",
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -249,7 +217,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-valladolid-bogota/194504762",
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -281,7 +249,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-valladolid-bogota/194280484",
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -313,7 +281,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nueva-castilla-bogota/194259517",
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -345,7 +313,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-bogota/194159612",
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -377,7 +345,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194192801",
@@ -392,7 +360,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 225000000,
+      "area": 39.0,
+      "precioM2": 5769231,
+      "administracion": 159000.0,
+      "barrio": "EL VERGEL ORIENTAL",
+      "upl": "Tintal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-vergel-oriental-bogota/194536558",
+      "titulo": "Apartamento en Venta en El vergel oriental, Bogotá",
+      "id_domus": "194536558",
+      "fechaPublicacion": "2026-11-11",
+      "lat": 4.6495401,
+      "lon": -74.1451081,
+      "location_type": "exacta",
+      "zonaConsulta": "EL VERGEL ORIENTAL",
+      "zonaSlug": "el-vergel-oriental",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-13",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 250000000,
+      "area": 39.0,
+      "precioM2": 6410256,
+      "administracion": 140000.0,
+      "barrio": "VALLADOLID",
+      "upl": "Tintal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-valladolid-bogota/194536516",
+      "titulo": "Apartamento en Venta en Valladolid, Bogotá",
+      "id_domus": "194536516",
+      "fechaPublicacion": "2026-11-11",
+      "lat": 4.648078,
+      "lon": -74.1454735,
+      "location_type": "exacta",
+      "zonaConsulta": "EL VERGEL ORIENTAL",
+      "zonaSlug": "el-vergel-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -409,7 +441,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/193484923",
@@ -424,47 +456,47 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 495000000,
-      "area": 86.0,
-      "precioM2": 5755814,
-      "administracion": 382000.0,
-      "barrio": "EL VERGEL ORIENTAL",
-      "upl": "Tintal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-bogota/193861967",
-      "titulo": "Apartamento en Venta en Kennedy, Bogotá",
-      "id_domus": "193861967",
-      "fechaPublicacion": "2026-06-10",
-      "lat": 4.6490661,
-      "lon": -74.1447319,
-      "location_type": "exacta",
-      "zonaConsulta": "EL VERGEL ORIENTAL",
-      "zonaSlug": "el-vergel-oriental",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-15",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 251000000,
+      "precio": 230000000,
       "area": 39.0,
-      "precioM2": 6435897,
+      "precioM2": 5897436,
+      "administracion": 125000.0,
+      "barrio": "EL VERGEL ORIENTAL",
+      "upl": "Tintal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-vergel-oriental-bogota/194641747",
+      "titulo": "Apartamento en Venta en El vergel oriental, Bogotá",
+      "id_domus": "194641747",
+      "fechaPublicacion": "2026-11-21",
+      "lat": 4.6473245060598,
+      "lon": -74.144888632629,
+      "location_type": "exacta",
+      "zonaConsulta": "EL VERGEL ORIENTAL",
+      "zonaSlug": "el-vergel-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 246000000,
+      "area": 39.0,
+      "precioM2": 6307692,
       "administracion": 137000.0,
       "barrio": "EL VERGEL ORIENTAL",
       "upl": "Tintal",
@@ -473,7 +505,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-vergel-oriental-bogota/194485249",
@@ -488,7 +520,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 230000000,
+      "area": 39.0,
+      "precioM2": 5897436,
+      "administracion": 115000.0,
+      "barrio": "EL VERGEL ORIENTAL",
+      "upl": "Tintal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-vergel-oriental-bogota/193987581",
+      "titulo": "Apartamento en Venta en El vergel oriental, Bogotá",
+      "id_domus": "193987581",
+      "fechaPublicacion": "2026-07-14",
+      "lat": 4.6470168,
+      "lon": -74.1445677,
+      "location_type": "exacta",
+      "zonaConsulta": "EL VERGEL ORIENTAL",
+      "zonaSlug": "el-vergel-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -505,7 +569,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-castilla-bogota/194528052",
@@ -520,7 +584,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 443000000,
+      "area": 71.0,
+      "precioM2": 6239437,
+      "administracion": 295300.0,
+      "barrio": "EL VERGEL ORIENTAL",
+      "upl": "Tintal",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-nueva-castilla-bogota/194450789",
+      "titulo": "Apartamento en Venta en Nueva Castilla, Bogotá",
+      "id_domus": "194450789",
+      "fechaPublicacion": "2026-10-23",
+      "lat": 4.6490717,
+      "lon": -74.143612,
+      "location_type": "exacta",
+      "zonaConsulta": "EL VERGEL ORIENTAL",
+      "zonaSlug": "el-vergel-oriental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -537,7 +633,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-bogota/194313491",
@@ -552,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -569,7 +665,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-kennedy-bogota/194159611",
@@ -578,102 +674,6 @@
       "fechaPublicacion": "2026-08-24",
       "lat": 4.6490661,
       "lon": -74.1447319,
-      "location_type": "exacta",
-      "zonaConsulta": "EL VERGEL ORIENTAL",
-      "zonaSlug": "el-vergel-oriental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 229500000,
-      "area": 38.0,
-      "precioM2": 6039474,
-      "administracion": 118000.0,
-      "barrio": "EL VERGEL ORIENTAL",
-      "upl": "Tintal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/193900876",
-      "titulo": "Apartamento en Venta en Bogotá",
-      "id_domus": "193900876",
-      "fechaPublicacion": "2026-06-22",
-      "lat": 4.6470193,
-      "lon": -74.1445601,
-      "location_type": "exacta",
-      "zonaConsulta": "EL VERGEL ORIENTAL",
-      "zonaSlug": "el-vergel-oriental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 400000000,
-      "area": 68.0,
-      "precioM2": 5882353,
-      "administracion": 275000.0,
-      "barrio": "EL VERGEL ORIENTAL",
-      "upl": "Tintal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-vergel-oriental-bogota/194452944",
-      "titulo": "Apartamento en Venta en El vergel oriental, Bogotá",
-      "id_domus": "194452944",
-      "fechaPublicacion": "2026-10-24",
-      "lat": 4.6489020506543,
-      "lon": -74.144711086576,
-      "location_type": "exacta",
-      "zonaConsulta": "EL VERGEL ORIENTAL",
-      "zonaSlug": "el-vergel-oriental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 245000000,
-      "area": 39.0,
-      "precioM2": 6282051,
-      "administracion": 160000.0,
-      "barrio": "EL TINTAL",
-      "upl": "Tintal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-tintal-bogota/194505317",
-      "titulo": "Apartamento en Venta en El tintal, Bogotá",
-      "id_domus": "194505317",
-      "fechaPublicacion": "2026-11-04",
-      "lat": 4.6499119,
-      "lon": -74.1455228,
       "location_type": "exacta",
       "zonaConsulta": "EL VERGEL ORIENTAL",
       "zonaSlug": "el-vergel-oriental",

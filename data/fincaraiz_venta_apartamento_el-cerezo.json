@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.16 01:27",
+  "generado": "2026.NOV.22 01:43",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 450000000,
+      "area": 67.0,
+      "precioM2": 6716418,
+      "administracion": 390000.0,
+      "barrio": "EL CEREZO",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-zona-norte-bogota/194421695",
+      "titulo": "Apartamento en Venta en Zona norte, Bogotá",
+      "id_domus": "194421695",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.7631778,
+      "lon": -74.0401758,
+      "location_type": "exacta",
+      "zonaConsulta": "EL CEREZO",
+      "zonaSlug": "el-cerezo",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-10-13",
       "lat": 4.7673939,
       "lon": -74.0446114,
-      "location_type": "exacta",
-      "zonaConsulta": "EL CEREZO",
-      "zonaSlug": "el-cerezo",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 460000000,
-      "area": 67.0,
-      "precioM2": 6865672,
-      "administracion": 390000.0,
-      "barrio": "EL CEREZO",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-zona-norte-bogota/194421695",
-      "titulo": "Apartamento en Venta en Zona norte, Bogotá",
-      "id_domus": "194421695",
-      "fechaPublicacion": "2026-10-19",
-      "lat": 4.7631778,
-      "lon": -74.0401758,
       "location_type": "exacta",
       "zonaConsulta": "EL CEREZO",
       "zonaSlug": "el-cerezo",
