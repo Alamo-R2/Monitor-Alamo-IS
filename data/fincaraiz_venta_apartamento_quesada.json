@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.18 13:31",
+  "generado": "2026.NOV.22 20:30",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 450000000,
-      "area": 88.0,
-      "precioM2": 5113636,
-      "administracion": 207000.0,
-      "barrio": "QUESADA",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3.0,
-      "banos": 2.0,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194544564",
-      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "194544564",
-      "fechaPublicacion": "2026-11-11",
-      "lat": 4.6354238,
-      "lon": -74.0676433,
-      "location_type": "exacta",
-      "zonaConsulta": "QUESADA",
-      "zonaSlug": "quesada",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-10-06",
       "lat": 4.6411298,
       "lon": -74.0674745,
+      "location_type": "exacta",
+      "zonaConsulta": "QUESADA",
+      "zonaSlug": "quesada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 400000000,
+      "area": 37.0,
+      "precioM2": 10810811,
+      "administracion": null,
+      "barrio": "CHAPINERO NORTE",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1.0,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-norte-bogota/194529588",
+      "titulo": "Apartamento en Venta en Chapinero norte, Bogotá",
+      "id_domus": "194529588",
+      "fechaPublicacion": "2026-11-10",
+      "lat": 4.639580214694,
+      "lon": -74.067121089467,
       "location_type": "exacta",
       "zonaConsulta": "QUESADA",
       "zonaSlug": "quesada",
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 245000000,
+      "area": 39.0,
+      "precioM2": 6282051,
+      "administracion": 380000.0,
+      "barrio": "QUESADA",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194631283",
+      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
+      "id_domus": "194631283",
+      "fechaPublicacion": "2026-11-19",
+      "lat": 4.6369664,
+      "lon": -74.0694722,
+      "location_type": "exacta",
+      "zonaConsulta": "QUESADA",
+      "zonaSlug": "quesada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 300000000,
       "area": 37.0,
       "precioM2": 8108108,
@@ -136,7 +168,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 550000000,
+      "area": 84.0,
+      "precioM2": 6547619,
+      "administracion": 316913.0,
+      "barrio": "QUESADA",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3.0,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quesada-bogota/193610822",
+      "titulo": "Apartamento en Venta en Quesada, Bogotá",
+      "id_domus": "193610822",
+      "fechaPublicacion": "2026-04-09",
+      "lat": 4.622794,
+      "lon": -74.0909602,
+      "location_type": "exacta",
+      "zonaConsulta": "QUESADA",
+      "zonaSlug": "quesada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 280000000,
+      "area": 37.0,
+      "precioM2": 7567568,
+      "administracion": 270000.0,
+      "barrio": "QUESADA",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1.0,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194632349",
+      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
+      "id_domus": "194632349",
+      "fechaPublicacion": "2026-11-19",
+      "lat": 4.6364699,
+      "lon": -74.0707071,
+      "location_type": "exacta",
+      "zonaConsulta": "QUESADA",
+      "zonaSlug": "quesada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-11",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 546000000,
+      "area": 71.0,
+      "precioM2": 7690141,
+      "administracion": null,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Chapinero",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2.0,
+      "banos": 2.0,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-teusaquillo-bogota/194628532",
+      "titulo": "Apartamento en Venta en Teusaquillo, Bogotá",
+      "id_domus": "194628532",
+      "fechaPublicacion": "2026-11-19",
+      "lat": 4.638026,
+      "lon": -74.069302,
+      "location_type": "exacta",
+      "zonaConsulta": "QUESADA",
+      "zonaSlug": "quesada",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -392,39 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 400000000,
-      "area": 37.0,
-      "precioM2": 10810811,
-      "administracion": null,
-      "barrio": "CHAPINERO NORTE",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1.0,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-norte-bogota/194529588",
-      "titulo": "Apartamento en Venta en Chapinero norte, Bogotá",
-      "id_domus": "194529588",
-      "fechaPublicacion": "2026-11-10",
-      "lat": 4.639580214694,
-      "lon": -74.067121089467,
-      "location_type": "exacta",
-      "zonaConsulta": "QUESADA",
-      "zonaSlug": "quesada",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -578,102 +674,6 @@
       "fechaPublicacion": "2026-11-04",
       "lat": 4.6406788,
       "lon": -74.067071,
-      "location_type": "exacta",
-      "zonaConsulta": "QUESADA",
-      "zonaSlug": "quesada",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 487000000,
-      "area": 52.0,
-      "precioM2": 9365385,
-      "administracion": 250000.0,
-      "barrio": "GALERIAS",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-galerias-bogota/193951614",
-      "titulo": "Apartamento en Venta en Galerias, Bogotá",
-      "id_domus": "193951614",
-      "fechaPublicacion": "2026-07-03",
-      "lat": 4.6365493,
-      "lon": -74.067874,
-      "location_type": "exacta",
-      "zonaConsulta": "QUESADA",
-      "zonaSlug": "quesada",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 470000000,
-      "area": 54.0,
-      "precioM2": 8703704,
-      "administracion": 425000.0,
-      "barrio": "QUESADA",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194056021",
-      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "194056021",
-      "fechaPublicacion": "2026-07-30",
-      "lat": 4.6412558760449,
-      "lon": -74.065653913306,
-      "location_type": "exacta",
-      "zonaConsulta": "QUESADA",
-      "zonaSlug": "quesada",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 260000000,
-      "area": 26.0,
-      "precioM2": 10000000,
-      "administracion": 317400.0,
-      "barrio": "GALERIAS",
-      "upl": "Chapinero",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1.0,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-galerias-bogota/194556418",
-      "titulo": "Apartamento en Venta en Galerias, Bogotá",
-      "id_domus": "194556418",
-      "fechaPublicacion": "2026-11-13",
-      "lat": 4.641032,
-      "lon": -74.0674476,
       "location_type": "exacta",
       "zonaConsulta": "QUESADA",
       "zonaSlug": "quesada",

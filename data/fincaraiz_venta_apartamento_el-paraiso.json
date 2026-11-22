@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.21 02:53",
+  "generado": "2026.NOV.22 20:30",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1930000000,
+      "area": 273.0,
+      "precioM2": 7069597,
+      "administracion": 2500000,
+      "barrio": "EL REFUGIO I",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 3,
+      "parqueaderos": 3.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-refugio-i-bogota/194051805",
+      "titulo": "Apartamento en Venta en El refugio i, Bogotá",
+      "id_domus": "194051805",
+      "fechaPublicacion": "2026-07-29",
+      "lat": 4.630164582518,
+      "lon": -74.063117480575,
+      "location_type": "exacta",
+      "zonaConsulta": "EL PARAISO",
+      "zonaSlug": "el-paraiso",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -130,38 +162,6 @@
       "fechaPublicacion": "2024-12-19",
       "lat": 4.6308295,
       "lon": -74.0621982,
-      "location_type": "exacta",
-      "zonaConsulta": "EL PARAISO",
-      "zonaSlug": "el-paraiso",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1930000000,
-      "area": 273.0,
-      "precioM2": 7069597,
-      "administracion": 2500000,
-      "barrio": "EL REFUGIO I",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 3.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-refugio-i-bogota/194051805",
-      "titulo": "Apartamento en Venta en El refugio i, Bogotá",
-      "id_domus": "194051805",
-      "fechaPublicacion": "2026-07-29",
-      "lat": 4.630164582518,
-      "lon": -74.063117480575,
       "location_type": "exacta",
       "zonaConsulta": "EL PARAISO",
       "zonaSlug": "el-paraiso",

@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.22 01:43",
+  "generado": "2026.NOV.22 20:30",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 400000000,
-      "area": 50.0,
-      "precioM2": 8000000,
-      "administracion": 438000.0,
-      "barrio": "CEDRITOS",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/194136494",
-      "titulo": "Apartamento en Venta en Cedritos, Bogotá",
-      "id_domus": "194136494",
-      "fechaPublicacion": "2026-08-19",
-      "lat": 4.7267778,
-      "lon": -74.0398131,
-      "location_type": "exacta",
-      "zonaConsulta": "CAOBOS SALAZAR",
-      "zonaSlug": "caobos-salazar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -66,6 +34,38 @@
       "fechaPublicacion": "2026-11-09",
       "lat": 4.7249268,
       "lon": -74.0357472,
+      "location_type": "exacta",
+      "zonaConsulta": "CAOBOS SALAZAR",
+      "zonaSlug": "caobos-salazar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 400000000,
+      "area": 50.0,
+      "precioM2": 8000000,
+      "administracion": 438000.0,
+      "barrio": "CEDRITOS",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/194136494",
+      "titulo": "Apartamento en Venta en Cedritos, Bogotá",
+      "id_domus": "194136494",
+      "fechaPublicacion": "2026-08-19",
+      "lat": 4.7267778,
+      "lon": -74.0398131,
       "location_type": "exacta",
       "zonaConsulta": "CAOBOS SALAZAR",
       "zonaSlug": "caobos-salazar",
@@ -206,38 +206,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 680000000,
-      "area": 78.0,
-      "precioM2": 8717949,
-      "administracion": 490000.0,
-      "barrio": "CEDRITOS",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/194465704",
-      "titulo": "Apartamento en Venta en Cedritos, Bogotá",
-      "id_domus": "194465704",
-      "fechaPublicacion": "2026-10-27",
-      "lat": 4.7253374,
-      "lon": -74.033247,
-      "location_type": "exacta",
-      "zonaConsulta": "CAOBOS SALAZAR",
-      "zonaSlug": "caobos-salazar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 585000000,
       "area": 64.0,
       "precioM2": 9140625,
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -296,39 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 690000000,
-      "area": 86.0,
-      "precioM2": 8023256,
-      "administracion": null,
-      "barrio": "CEDRITOS",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/194426018",
-      "titulo": "Apartamento en Venta en Cedritos, Bogotá",
-      "id_domus": "194426018",
-      "fechaPublicacion": "2026-10-19",
-      "lat": 4.725979,
-      "lon": -74.0361419,
-      "location_type": "exacta",
-      "zonaConsulta": "CAOBOS SALAZAR",
-      "zonaSlug": "caobos-salazar",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +610,70 @@
       "fechaPublicacion": "2026-11-13",
       "lat": 4.7279502,
       "lon": -74.0372864,
+      "location_type": "exacta",
+      "zonaConsulta": "CAOBOS SALAZAR",
+      "zonaSlug": "caobos-salazar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 455000000,
+      "area": 68.0,
+      "precioM2": 6691176,
+      "administracion": 517000.0,
+      "barrio": "CEDRITOS",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/194220312",
+      "titulo": "Apartamento en Venta en Cedritos, Bogotá",
+      "id_domus": "194220312",
+      "fechaPublicacion": "2026-09-07",
+      "lat": 4.7260711,
+      "lon": -74.0333693,
+      "location_type": "exacta",
+      "zonaConsulta": "CAOBOS SALAZAR",
+      "zonaSlug": "caobos-salazar",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 930000000,
+      "area": 110.0,
+      "precioM2": 8454545,
+      "administracion": 786000.0,
+      "barrio": "CEDRITOS",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/194283073",
+      "titulo": "Apartamento en Venta en Cedritos, Bogotá",
+      "id_domus": "194283073",
+      "fechaPublicacion": "2026-09-19",
+      "lat": 4.7256967,
+      "lon": -74.0358638,
       "location_type": "exacta",
       "zonaConsulta": "CAOBOS SALAZAR",
       "zonaSlug": "caobos-salazar",
