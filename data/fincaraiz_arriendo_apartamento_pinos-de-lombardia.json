@@ -1,14 +1,110 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 7,
   "zona": "PINOS DE LOMBARDIA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.15 12:20",
+  "generado": "2026.NOV.23 02:02",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1800000,
+      "area": 45.0,
+      "precioM2": 40000,
+      "administracion": null,
+      "barrio": "PINOS DE LOMBARDIA",
+      "upl": "Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-pinar-de-suba-bogota/194427126",
+      "titulo": "Apartamento en Arriendo en Pinar de Suba, Bogotá",
+      "id_domus": "194427126",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.7545048,
+      "lon": -74.091763,
+      "location_type": "exacta",
+      "zonaConsulta": "PINOS DE LOMBARDIA",
+      "zonaSlug": "pinos-de-lombardia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000,
+      "area": 68.0,
+      "precioM2": 38235,
+      "administracion": null,
+      "barrio": "PINOS DE LOMBARDIA",
+      "upl": "Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-plaza-imperial-centro-comercial-bogota/194632059",
+      "titulo": "Apartamento en Arriendo en Plaza Imperial Centro Comercial, Bogotá",
+      "id_domus": "194632059",
+      "fechaPublicacion": "2026-11-19",
+      "lat": 4.7498157,
+      "lon": -74.0978484,
+      "location_type": "exacta",
+      "zonaConsulta": "PINOS DE LOMBARDIA",
+      "zonaSlug": "pinos-de-lombardia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2330000,
+      "area": 73.0,
+      "precioM2": 31918,
+      "administracion": 370000.0,
+      "barrio": "PINOS DE LOMBARDIA",
+      "upl": "Suba",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-plaza-imperial-centro-comercial-bogota/194488469",
+      "titulo": "Apartamento en Arriendo en Plaza Imperial Centro Comercial, Bogotá",
+      "id_domus": "194488469",
+      "fechaPublicacion": "2026-10-31",
+      "lat": 4.7509294,
+      "lon": -74.0973857,
+      "location_type": "exacta",
+      "zonaConsulta": "PINOS DE LOMBARDIA",
+      "zonaSlug": "pinos-de-lombardia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -104,39 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1450000,
-      "area": 36.0,
-      "precioM2": 40278,
-      "administracion": null,
-      "barrio": "PINOS DE LOMBARDIA",
-      "upl": "Suba",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-plaza-imperial-centro-comercial-bogota/194424600",
-      "titulo": "Apartamento en Arriendo en Plaza Imperial Centro Comercial, Bogotá",
-      "id_domus": "194424600",
-      "fechaPublicacion": "2026-10-19",
-      "lat": 4.7530994642752,
-      "lon": -74.095550055105,
-      "location_type": "exacta",
-      "zonaConsulta": "PINOS DE LOMBARDIA",
-      "zonaSlug": "pinos-de-lombardia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],

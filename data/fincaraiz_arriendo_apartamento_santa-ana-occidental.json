@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.15 12:20",
+  "generado": "2026.NOV.23 02:02",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,102 +46,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 5500000,
-      "area": 55.0,
-      "precioM2": 100000,
-      "administracion": 1492000.0,
-      "barrio": "SANTA ANA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": 1,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-ana-bogota/194425399",
-      "titulo": "Apartamento en Arriendo en Santa Ana, Bogotá",
-      "id_domus": "194425399",
-      "fechaPublicacion": "2026-10-19",
-      "lat": 4.6886587,
-      "lon": -74.0337026,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA ANA OCCIDENTAL",
-      "zonaSlug": "santa-ana-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 6200000,
-      "area": 160.0,
-      "precioM2": 38750,
-      "administracion": null,
-      "barrio": "BELLA SUIZA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 4,
-      "parqueaderos": 2,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bella-suiza-bogota/194500171",
-      "titulo": "Apartamento en Arriendo en Bella suiza, Bogotá",
-      "id_domus": "194500171",
-      "fechaPublicacion": "2026-11-03",
-      "lat": 4.6888339,
-      "lon": -74.0348068,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA ANA OCCIDENTAL",
-      "zonaSlug": "santa-ana-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3900000,
-      "area": 109.0,
-      "precioM2": 35780,
-      "administracion": 1400000.0,
-      "barrio": "SANTA BARBARA",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-bogota/194335882",
-      "titulo": "Apartamento en Arriendo en Santa Barbara, Bogotá",
-      "id_domus": "194335882",
-      "fechaPublicacion": "2026-09-30",
-      "lat": 4.691137049669,
-      "lon": -74.033643181451,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA ANA OCCIDENTAL",
-      "zonaSlug": "santa-ana-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 12700000,
       "area": 189.0,
       "precioM2": 67196,
@@ -168,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +104,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 5500000,
+      "area": 55.0,
+      "precioM2": 100000,
+      "administracion": 1492000.0,
+      "barrio": "SANTA ANA",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": 1,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-ana-bogota/194425399",
+      "titulo": "Apartamento en Arriendo en Santa Ana, Bogotá",
+      "id_domus": "194425399",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.6886587,
+      "lon": -74.0337026,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA ANA OCCIDENTAL",
+      "zonaSlug": "santa-ana-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -232,39 +168,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 6500000,
-      "area": 120.0,
-      "precioM2": 54167,
+      "precio": 6200000,
+      "area": 160.0,
+      "precioM2": 38750,
       "administracion": null,
-      "barrio": "SANTA ANA OCCIDENTAL",
+      "barrio": "BELLA SUIZA",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
+      "habitaciones": 4,
       "banos": 4,
       "parqueaderos": 2,
-      "estrato": 6,
+      "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-ana-oriental-bogota/194470105",
-      "titulo": "Apartamento en Arriendo en Santa ana oriental, Bogotá",
-      "id_domus": "194470105",
-      "fechaPublicacion": "2026-10-28",
-      "lat": 4.6866508,
-      "lon": -74.0365544,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bella-suiza-bogota/194500171",
+      "titulo": "Apartamento en Arriendo en Bella suiza, Bogotá",
+      "id_domus": "194500171",
+      "fechaPublicacion": "2026-11-03",
+      "lat": 4.6888339,
+      "lon": -74.0348068,
       "location_type": "exacta",
       "zonaConsulta": "SANTA ANA OCCIDENTAL",
       "zonaSlug": "santa-ana-occidental",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 13000000,
+      "area": 220.0,
+      "precioM2": 59091,
+      "administracion": 1955000.0,
+      "barrio": "SANTA ANA",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 3,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-ana-bogota/193665269",
+      "titulo": "Apartamento en Arriendo en Santa Ana, Bogotá",
+      "id_domus": "193665269",
+      "fechaPublicacion": "2026-04-22",
+      "lat": 4.6873943,
+      "lon": -74.0335988,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA ANA OCCIDENTAL",
+      "zonaSlug": "santa-ana-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +360,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-12",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 20000000,
+      "area": 403.0,
+      "precioM2": 49628,
+      "administracion": 3400000.0,
+      "barrio": "SANTA ANA OCCIDENTAL",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 5,
+      "parqueaderos": 4,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-alta-bogota/194340510",
+      "titulo": "Apartamento en Arriendo en Santa barbara alta, Bogotá",
+      "id_domus": "194340510",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.6857156,
+      "lon": -74.0276384,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA ANA OCCIDENTAL",
+      "zonaSlug": "santa-ana-occidental",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-13",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3900000,
+      "area": 109.0,
+      "precioM2": 35780,
+      "administracion": 1400000.0,
+      "barrio": "SANTA BARBARA",
+      "upl": "Usaquén",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-barbara-bogota/194335882",
+      "titulo": "Apartamento en Arriendo en Santa Barbara, Bogotá",
+      "id_domus": "194335882",
+      "fechaPublicacion": "2026-09-30",
+      "lat": 4.691137049669,
+      "lon": -74.033643181451,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA ANA OCCIDENTAL",
+      "zonaSlug": "santa-ana-occidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -514,38 +546,6 @@
       "fechaPublicacion": "2026-03-18",
       "lat": 4.6879825547331,
       "lon": -74.032415921371,
-      "location_type": "exacta",
-      "zonaConsulta": "SANTA ANA OCCIDENTAL",
-      "zonaSlug": "santa-ana-occidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-17",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 12500000,
-      "area": 200.0,
-      "precioM2": 62500,
-      "administracion": null,
-      "barrio": "SANTA ANA OCCIDENTAL",
-      "upl": "Usaquén",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 2,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-ana-oriental-bogota/194270028",
-      "titulo": "Apartamento en Arriendo en Santa ana oriental, Bogotá",
-      "id_domus": "194270028",
-      "fechaPublicacion": "2026-09-16",
-      "lat": 4.6884488,
-      "lon": -74.0276496,
       "location_type": "exacta",
       "zonaConsulta": "SANTA ANA OCCIDENTAL",
       "zonaSlug": "santa-ana-occidental",
@@ -622,26 +622,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 14000000,
-      "area": 420.0,
-      "precioM2": 33333,
-      "administracion": 4000000.0,
+      "precio": 13000000,
+      "area": 220.0,
+      "precioM2": 59091,
+      "administracion": 1900000.0,
       "barrio": "SANTA ANA OCCIDENTAL",
       "upl": "Usaquén",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 4,
-      "banos": 4,
+      "habitaciones": 3,
+      "banos": 3,
       "parqueaderos": 3,
       "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-ana-oriental-bogota/194552134",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-santa-ana-oriental-bogota/193146793",
       "titulo": "Apartamento en Arriendo en Santa ana oriental, Bogotá",
-      "id_domus": "194552134",
-      "fechaPublicacion": "2026-11-12",
-      "lat": 4.686503596458,
-      "lon": -74.026548822423,
+      "id_domus": "193146793",
+      "fechaPublicacion": "2025-11-27",
+      "lat": 4.6878146,
+      "lon": -74.033533,
       "location_type": "exacta",
       "zonaConsulta": "SANTA ANA OCCIDENTAL",
       "zonaSlug": "santa-ana-occidental",
