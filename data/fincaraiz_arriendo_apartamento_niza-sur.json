@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 19,
+  "total": 18,
   "zona": "NIZA SUR",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.15 19:29",
+  "generado": "2026.NOV.23 15:29",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2799000,
+      "area": 60.0,
+      "precioM2": 46650,
+      "administracion": null,
+      "barrio": "TEUSAQUILLO",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-teusaquillo-bogota/194359376",
+      "titulo": "Apartamento en Arriendo en Teusaquillo, Bogotá",
+      "id_domus": "194359376",
+      "fechaPublicacion": "2026-10-05",
+      "lat": 4.7109886,
+      "lon": -74.072092,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA SUR",
+      "zonaSlug": "niza-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -25,7 +57,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-nicolas-bogota/194236444",
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -57,7 +89,7 @@
       "habitaciones": 3,
       "banos": 4,
       "parqueaderos": 2.0,
-      "estrato": 6.0,
+      "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-unicentro-bogota-bogota/194491962",
@@ -72,71 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 10500000,
-      "area": 110.0,
-      "precioM2": 95455,
-      "administracion": null,
-      "barrio": "EL VIRREY",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 6.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-virrey-bogota/194508655",
-      "titulo": "Apartamento en Arriendo en El Virrey, Bogotá",
-      "id_domus": "194508655",
-      "fechaPublicacion": "2026-11-05",
-      "lat": 4.7109886,
-      "lon": -74.072092,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUR",
-      "zonaSlug": "niza-sur",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3980000,
-      "area": 110.0,
-      "precioM2": 36182,
-      "administracion": null,
-      "barrio": "NIZA SUR",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 2.0,
-      "estrato": 5.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-niza-bogota/193947250",
-      "titulo": "Apartamento en Arriendo en Niza, Bogotá",
-      "id_domus": "193947250",
-      "fechaPublicacion": "2026-07-02",
-      "lat": 4.7086137,
-      "lon": -74.081396,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUR",
-      "zonaSlug": "niza-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -153,7 +121,7 @@
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 5.0,
+      "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lagos-de-cordoba-bogota/194504519",
@@ -168,39 +136,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1900000,
-      "area": 30.0,
-      "precioM2": 63333,
-      "administracion": null,
+      "precio": 8100000,
+      "area": 178.0,
+      "precioM2": 45506,
+      "administracion": 1846980.0,
       "barrio": "NIZA SUR",
       "upl": "Niza",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 5.0,
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-niza-bogota/194406286",
-      "titulo": "Apartamento en Arriendo en Niza, Bogotá",
-      "id_domus": "194406286",
-      "fechaPublicacion": "2026-10-15",
-      "lat": 4.711081662546,
-      "lon": -74.075673145277,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cerros-de-niza-bogota/194208898",
+      "titulo": "Apartamento en Arriendo en Cerros de Niza, Bogotá",
+      "id_domus": "194208898",
+      "fechaPublicacion": "2026-09-04",
+      "lat": 4.7099608,
+      "lon": -74.0806895,
       "location_type": "exacta",
       "zonaConsulta": "NIZA SUR",
       "zonaSlug": "niza-sur",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -217,7 +185,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-niza-bogota/193705679",
@@ -232,71 +200,39 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 8100000,
+      "area": 178.0,
+      "precioM2": 45506,
+      "administracion": 1846980.0,
+      "barrio": "NIZA SUR",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cerros-de-niza-bogota/194570305",
+      "titulo": "Apartamento en Arriendo en Cerros de Niza, Bogotá",
+      "id_domus": "194570305",
+      "fechaPublicacion": "2026-11-17",
+      "lat": 4.7099608,
+      "lon": -74.0806895,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA SUR",
+      "zonaSlug": "niza-sur",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2200000,
-      "area": 40.0,
-      "precioM2": 55000,
-      "administracion": null,
-      "barrio": "NIZA SUR",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lagos-de-cordoba-bogota/194380730",
-      "titulo": "Apartamento en Arriendo en Lagos de Cordoba, Bogotá",
-      "id_domus": "194380730",
-      "fechaPublicacion": "2026-10-09",
-      "lat": 4.7097811,
-      "lon": -74.0715679,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUR",
-      "zonaSlug": "niza-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4900000,
-      "area": 160.0,
-      "precioM2": 30625,
-      "administracion": null,
-      "barrio": "NIZA SUR",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 3,
-      "parqueaderos": 3.0,
-      "estrato": null,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-niza-bogota/194526053",
-      "titulo": "Apartamento en Arriendo en Niza, Bogotá",
-      "id_domus": "194526053",
-      "fechaPublicacion": "2026-11-09",
-      "lat": 4.7045098,
-      "lon": -74.0719581,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUR",
-      "zonaSlug": "niza-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -313,7 +249,7 @@
       "habitaciones": 3,
       "banos": 3,
       "parqueaderos": 2.0,
-      "estrato": 5.0,
+      "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-niza-bogota/194500553",
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -345,7 +281,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-felicidad-bogota/194512784",
@@ -360,7 +296,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 8900000,
+      "area": 178.0,
+      "precioM2": 50000,
+      "administracion": 1846697.0,
+      "barrio": "NIZA SUR",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cerros-de-niza-bogota/194208883",
+      "titulo": "Apartamento en Arriendo en Cerros de Niza, Bogotá",
+      "id_domus": "194208883",
+      "fechaPublicacion": "2026-09-04",
+      "lat": 4.7101866,
+      "lon": -74.080895,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA SUR",
+      "zonaSlug": "niza-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -377,7 +345,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 5.0,
+      "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-niza-norte-bogota/194514246",
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -409,7 +377,7 @@
       "habitaciones": 3,
       "banos": 4,
       "parqueaderos": 2.0,
-      "estrato": 5.0,
+      "estrato": 5,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-lagos-de-cordoba-bogota/194288623",
@@ -424,39 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 2900000,
-      "area": 60.0,
-      "precioM2": 48333,
-      "administracion": null,
-      "barrio": "TEUSAQUILLO",
-      "upl": "Niza",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-teusaquillo-bogota/194359376",
-      "titulo": "Apartamento en Arriendo en Teusaquillo, Bogotá",
-      "id_domus": "194359376",
-      "fechaPublicacion": "2026-10-05",
-      "lat": 4.7109886,
-      "lon": -74.072092,
-      "location_type": "exacta",
-      "zonaConsulta": "NIZA SUR",
-      "zonaSlug": "niza-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -473,7 +409,7 @@
       "habitaciones": 1,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cedritos-bogota/194065444",
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -505,7 +441,7 @@
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-niza-bogota/194312607",
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -537,7 +473,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3.0,
+      "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-cedritos-bogota/194234463",
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -569,7 +505,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 4,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-niza-bogota/194201186",
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -601,7 +537,7 @@
       "habitaciones": 4,
       "banos": 3,
       "parqueaderos": 2.0,
-      "estrato": 6.0,
+      "estrato": 6,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-bachue-bogota/194301295",
@@ -610,6 +546,38 @@
       "fechaPublicacion": "2026-09-23",
       "lat": 4.7086615,
       "lon": -74.0816091,
+      "location_type": "exacta",
+      "zonaConsulta": "NIZA SUR",
+      "zonaSlug": "niza-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1900000,
+      "area": 30.0,
+      "precioM2": 63333,
+      "administracion": null,
+      "barrio": "NIZA SUR",
+      "upl": "Niza",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-niza-bogota/194406286",
+      "titulo": "Apartamento en Arriendo en Niza, Bogotá",
+      "id_domus": "194406286",
+      "fechaPublicacion": "2026-10-15",
+      "lat": 4.711081662546,
+      "lon": -74.075673145277,
       "location_type": "exacta",
       "zonaConsulta": "NIZA SUR",
       "zonaSlug": "niza-sur",

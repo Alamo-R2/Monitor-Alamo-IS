@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 14,
+  "total": 18,
   "zona": "ANDES NORTE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.17 18:49",
+  "generado": "2026.NOV.23 15:29",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,70 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2000000,
+      "area": 27.0,
+      "precioM2": 74074,
+      "administracion": null,
+      "barrio": "LOS ANDES",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-los-andes/194571314",
+      "titulo": "Apartamento en Arriendo en Los andes",
+      "id_domus": "194571314",
+      "fechaPublicacion": "2026-11-17",
+      "lat": 4.6905219,
+      "lon": -74.066459,
+      "location_type": "exacta",
+      "zonaConsulta": "ANDES NORTE",
+      "zonaSlug": "andes-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4500000,
+      "area": 106.0,
+      "precioM2": 42453,
+      "administracion": null,
+      "barrio": "ANDES NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-andes-norte-bogota/194633246",
+      "titulo": "Apartamento en Arriendo en Andes norte, Bogotá",
+      "id_domus": "194633246",
+      "fechaPublicacion": "2026-11-19",
+      "lat": 4.6935699,
+      "lon": -74.0678169,
+      "location_type": "exacta",
+      "zonaConsulta": "ANDES NORTE",
+      "zonaSlug": "andes-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 3300000,
       "area": 99.0,
       "precioM2": 33333,
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -232,39 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1770000,
-      "area": 32.0,
-      "precioM2": 55312,
-      "administracion": 330000.0,
-      "barrio": "ANDES NORTE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-floresta-bogota/194232822",
-      "titulo": "Apartamento en Arriendo en La Floresta, Bogotá",
-      "id_domus": "194232822",
-      "fechaPublicacion": "2026-09-09",
-      "lat": 4.6958609,
-      "lon": -74.0688298,
-      "location_type": "exacta",
-      "zonaConsulta": "ANDES NORTE",
-      "zonaSlug": "andes-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +328,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2700000,
+      "area": 76.0,
+      "precioM2": 35526,
+      "administracion": null,
+      "barrio": "ANDES NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-floresta-bogota/194636549",
+      "titulo": "Apartamento en Arriendo en La Floresta, Bogotá",
+      "id_domus": "194636549",
+      "fechaPublicacion": "2026-11-20",
+      "lat": 4.6916366,
+      "lon": -74.0702525,
+      "location_type": "exacta",
+      "zonaConsulta": "ANDES NORTE",
+      "zonaSlug": "andes-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -360,15 +424,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3500000,
+      "precio": 3400000,
       "area": 113.0,
-      "precioM2": 30973,
+      "precioM2": 30088,
       "administracion": 500000.0,
       "barrio": "ANDES NORTE",
       "upl": "Barrios Unidos",
@@ -392,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +488,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
+      "area": 25.0,
+      "precioM2": 64000,
+      "administracion": 200000.0,
+      "barrio": "ANDES NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-floresta-bogota/194623389",
+      "titulo": "Apartamento en Arriendo en La Floresta, Bogotá",
+      "id_domus": "194623389",
+      "fechaPublicacion": "2026-11-18",
+      "lat": 4.6927142,
+      "lon": -74.069876,
+      "location_type": "exacta",
+      "zonaConsulta": "ANDES NORTE",
+      "zonaSlug": "andes-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -450,6 +546,38 @@
       "fechaPublicacion": "2026-09-15",
       "lat": 4.696307,
       "lon": -74.0691708,
+      "location_type": "exacta",
+      "zonaConsulta": "ANDES NORTE",
+      "zonaSlug": "andes-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2708700,
+      "area": 87.0,
+      "precioM2": 31134,
+      "administracion": 491300.0,
+      "barrio": "ANDES NORTE",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-floresta-bogota/194633165",
+      "titulo": "Apartamento en Arriendo en La Floresta, Bogotá",
+      "id_domus": "194633165",
+      "fechaPublicacion": "2026-11-19",
+      "lat": 4.6944134,
+      "lon": -74.0693565,
       "location_type": "exacta",
       "zonaConsulta": "ANDES NORTE",
       "zonaSlug": "andes-norte",
