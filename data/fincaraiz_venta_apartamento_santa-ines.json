@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "SANTA INES",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.16 01:27",
+  "generado": "2026.NOV.24 03:31",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,6 +78,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 980000000,
+      "area": 173.0,
+      "precioM2": 5664740,
+      "administracion": 1345000.0,
+      "barrio": "LA CANDELARIA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-candelaria-bogota/194633942",
+      "titulo": "Apartamento en Venta en La Candelaria, Bogotá",
+      "id_domus": "194633942",
+      "fechaPublicacion": "2026-11-20",
+      "lat": 4.6000076,
+      "lon": -74.0778225,
+      "location_type": "exacta",
+      "zonaConsulta": "SANTA INES",
+      "zonaSlug": "santa-ines",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 210000000,
       "area": 37.0,
       "precioM2": 5675676,
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],

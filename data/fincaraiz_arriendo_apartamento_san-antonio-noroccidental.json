@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 21,
+  "total": 20,
   "zona": "SAN ANTONIO NOROCCIDENTAL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.22 01:43",
+  "generado": "2026.NOV.24 03:31",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 4200000,
+      "area": 81.0,
+      "precioM2": 51852,
+      "administracion": null,
+      "barrio": "SAN ANTONIO NOROCCIDENTAL",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 5,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-alameda-bogota/194280330",
+      "titulo": "Apartamento en Arriendo en Alameda, Bogotá",
+      "id_domus": "194280330",
+      "fechaPublicacion": "2026-09-18",
+      "lat": 4.7547289813717,
+      "lon": -74.03777921687,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
+      "zonaSlug": "san-antonio-noroccidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1450000,
       "area": 50.0,
       "precioM2": 29000,
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-09-26",
       "lat": 4.752638,
       "lon": -74.045744,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
-      "zonaSlug": "san-antonio-noroccidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1980000,
-      "area": 68.0,
-      "precioM2": 29118,
-      "administracion": 300000.0,
-      "barrio": "SAN ANTONIO NOROCCIDENTAL",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-zona-norte-bogota/194559845",
-      "titulo": "Apartamento en Arriendo en Zona norte, Bogotá",
-      "id_domus": "194559845",
-      "fechaPublicacion": "2026-11-14",
-      "lat": 4.7553487,
-      "lon": -74.0434219,
       "location_type": "exacta",
       "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
       "zonaSlug": "san-antonio-noroccidental",
@@ -142,38 +142,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1230000,
-      "area": 30.0,
-      "precioM2": 41000,
-      "administracion": 245000.0,
-      "barrio": "SAN ANTONIO NOROCCIDENTAL",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-antonio-nor-occidental-bogota/194566315",
-      "titulo": "Apartamento en Arriendo en San antonio nor - occidental, Bogotá",
-      "id_domus": "194566315",
-      "fechaPublicacion": "2026-11-16",
-      "lat": 4.7584431,
-      "lon": -74.0392789,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
-      "zonaSlug": "san-antonio-noroccidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1500000,
       "area": 41.0,
       "precioM2": 36585,
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -232,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -264,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -424,39 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4200000,
-      "area": 81.0,
-      "precioM2": 51852,
-      "administracion": null,
-      "barrio": "SAN ANTONIO NOROCCIDENTAL",
-      "upl": "Britalia",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 5,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-alameda-bogota/194280330",
-      "titulo": "Apartamento en Arriendo en Alameda, Bogotá",
-      "id_domus": "194280330",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.7547289813717,
-      "lon": -74.03777921687,
-      "location_type": "exacta",
-      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
-      "zonaSlug": "san-antonio-noroccidental",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -616,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -648,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -672,6 +608,38 @@
       "titulo": "Apartamento en Arriendo en La alameda Centro, Bogotá",
       "id_domus": "194498159",
       "fechaPublicacion": "2026-11-03",
+      "lat": 4.7560879,
+      "lon": -74.0383216,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN ANTONIO NOROCCIDENTAL",
+      "zonaSlug": "san-antonio-noroccidental",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2600000,
+      "area": 78.0,
+      "precioM2": 33333,
+      "administracion": null,
+      "barrio": "SAN ANTONIO NOROCCIDENTAL",
+      "upl": "Britalia",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-alameda-centro-bogota/194556317",
+      "titulo": "Apartamento en Arriendo en La alameda Centro, Bogotá",
+      "id_domus": "194556317",
+      "fechaPublicacion": "2026-11-13",
       "lat": 4.7560879,
       "lon": -74.0383216,
       "location_type": "exacta",

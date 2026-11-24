@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 14,
+  "total": 13,
   "zona": "LA FRAGUITA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.16 23:04",
+  "generado": "2026.NOV.24 03:31",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 305000000,
-      "area": 62.0,
-      "precioM2": 4919355,
-      "administracion": 171000.0,
-      "barrio": "LA FRAGUITA",
+      "precio": 415000000,
+      "area": 70.0,
+      "precioM2": 5928571,
+      "administracion": 605000.0,
+      "barrio": "SANTA ISABEL",
       "upl": "Centro Histórico",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 1,
-      "parqueaderos": null,
+      "banos": 2,
+      "parqueaderos": 1.0,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-antonio-narino-bogota/194122845",
-      "titulo": "Apartamento en Venta en Antonio nariño, Bogotá",
-      "id_domus": "194122845",
-      "fechaPublicacion": "2026-08-15",
-      "lat": 4.589459,
-      "lon": -74.098845,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-isabel-bogota/193820034",
+      "titulo": "Apartamento en Venta en Santa isabel, Bogotá",
+      "id_domus": "193820034",
+      "fechaPublicacion": "2026-05-30",
+      "lat": 4.5952365430358,
+      "lon": -74.098990559578,
       "location_type": "exacta",
       "zonaConsulta": "LA FRAGUITA",
       "zonaSlug": "la-fraguita",
@@ -78,70 +78,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 480000000,
-      "area": 100.0,
-      "precioM2": 4800000,
-      "administracion": null,
-      "barrio": "RESTREPO",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/194526035",
-      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
-      "id_domus": "194526035",
-      "fechaPublicacion": "2026-11-09",
-      "lat": 4.592239,
-      "lon": -74.1002581,
-      "location_type": "exacta",
-      "zonaConsulta": "LA FRAGUITA",
-      "zonaSlug": "la-fraguita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 415000000,
-      "area": 70.0,
-      "precioM2": 5928571,
-      "administracion": 605000.0,
-      "barrio": "SANTA ISABEL",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-isabel-bogota/193820034",
-      "titulo": "Apartamento en Venta en Santa isabel, Bogotá",
-      "id_domus": "193820034",
-      "fechaPublicacion": "2026-05-30",
-      "lat": 4.5952365430358,
-      "lon": -74.098990559578,
-      "location_type": "exacta",
-      "zonaConsulta": "LA FRAGUITA",
-      "zonaSlug": "la-fraguita",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 330000000,
       "area": 52.0,
       "precioM2": 6346154,
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +360,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 480000000,
+      "area": 100.0,
+      "precioM2": 4800000,
+      "administracion": null,
+      "barrio": "RESTREPO",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-restrepo-bogota/194526035",
+      "titulo": "Apartamento en Venta en Restrepo, Bogotá",
+      "id_domus": "194526035",
+      "fechaPublicacion": "2026-11-09",
+      "lat": 4.592239,
+      "lon": -74.1002581,
+      "location_type": "exacta",
+      "zonaConsulta": "LA FRAGUITA",
+      "zonaSlug": "la-fraguita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],

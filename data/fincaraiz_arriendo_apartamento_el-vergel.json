@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 14,
+  "total": 15,
   "zona": "EL VERGEL",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.22 01:43",
+  "generado": "2026.NOV.24 03:31",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -366,6 +366,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 3000000,
+      "area": 88.0,
+      "precioM2": 34091,
+      "administracion": null,
+      "barrio": "EL VERGEL",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-vergel-bogota/194645165",
+      "titulo": "Apartamento en Arriendo en El vergel, Bogotá",
+      "id_domus": "194645165",
+      "fechaPublicacion": "2026-11-23",
+      "lat": 4.6504945,
+      "lon": -74.1319263,
+      "location_type": "exacta",
+      "zonaConsulta": "EL VERGEL",
+      "zonaSlug": "el-vergel",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-13",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1550000,
       "area": 72.0,
       "precioM2": 21528,
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
