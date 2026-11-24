@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.21 20:17",
+  "generado": "2026.NOV.24 15:23",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,9 +14,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2600000,
-      "area": 32.0,
-      "precioM2": 81250,
+      "precio": 2270000,
+      "area": 30.0,
+      "precioM2": 75667,
       "administracion": null,
       "barrio": "CENTRO INDUSTRIAL",
       "upl": "Puente Aranda",
@@ -41,70 +41,6 @@
     },
     {
       "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 3200000,
-      "area": 44.0,
-      "precioM2": 72727,
-      "administracion": null,
-      "barrio": "CENTRO INDUSTRIAL",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-salitre-oriental-bogota/193738091",
-      "titulo": "Apartamento en Arriendo en Ciudad Salitre Oriental, Bogotá",
-      "id_domus": "193738091",
-      "fechaPublicacion": "2026-05-12",
-      "lat": 4.641538,
-      "lon": -74.111938,
-      "location_type": "exacta",
-      "zonaConsulta": "CENTRO INDUSTRIAL",
-      "zonaSlug": "centro-industrial",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 4100000,
-      "area": 40.0,
-      "precioM2": 102500,
-      "administracion": null,
-      "barrio": "CENTRO INDUSTRIAL",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1.0,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-industrial-bogota/193217879",
-      "titulo": "Apartamento en Arriendo en Centro industrial, Bogotá",
-      "id_domus": "193217879",
-      "fechaPublicacion": "2025-12-18",
-      "lat": 4.6388357726052,
-      "lon": -74.112817483554,
-      "location_type": "exacta",
-      "zonaConsulta": "CENTRO INDUSTRIAL",
-      "zonaSlug": "centro-industrial",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -136,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -200,15 +136,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 4400000,
-      "area": 65.0,
-      "precioM2": 67692,
+      "precio": 4200000,
+      "area": 60.0,
+      "precioM2": 70000,
       "administracion": null,
       "barrio": "CENTRO INDUSTRIAL",
       "upl": "Puente Aranda",
@@ -232,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -264,15 +200,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 3500000,
+      "precio": 3200000,
       "area": 45.0,
-      "precioM2": 77778,
+      "precioM2": 71111,
       "administracion": null,
       "barrio": "CENTRO INDUSTRIAL",
       "upl": "Puente Aranda",
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -354,6 +290,70 @@
       "fechaPublicacion": "2026-09-02",
       "lat": 4.6392048,
       "lon": -74.1126514,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTRO INDUSTRIAL",
+      "zonaSlug": "centro-industrial",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-10",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 3200000,
+      "area": 44.0,
+      "precioM2": 72727,
+      "administracion": null,
+      "barrio": "CENTRO INDUSTRIAL",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-salitre-oriental-bogota/193738091",
+      "titulo": "Apartamento en Arriendo en Ciudad Salitre Oriental, Bogotá",
+      "id_domus": "193738091",
+      "fechaPublicacion": "2026-05-12",
+      "lat": 4.641538,
+      "lon": -74.111938,
+      "location_type": "exacta",
+      "zonaConsulta": "CENTRO INDUSTRIAL",
+      "zonaSlug": "centro-industrial",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-11",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 4100000,
+      "area": 40.0,
+      "precioM2": 102500,
+      "administracion": null,
+      "barrio": "CENTRO INDUSTRIAL",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1.0,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centro-industrial-bogota/193217879",
+      "titulo": "Apartamento en Arriendo en Centro industrial, Bogotá",
+      "id_domus": "193217879",
+      "fechaPublicacion": "2025-12-18",
+      "lat": 4.6388357726052,
+      "lon": -74.112817483554,
       "location_type": "exacta",
       "zonaConsulta": "CENTRO INDUSTRIAL",
       "zonaSlug": "centro-industrial",

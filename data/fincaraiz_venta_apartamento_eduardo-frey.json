@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 12,
   "zona": "EDUARDO FREY",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.16 23:04",
+  "generado": "2026.NOV.24 15:23",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -25,7 +25,7 @@
       "habitaciones": 2,
       "banos": 1.0,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-centenario-bogota/194516980",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 485000000,
+      "area": 74.0,
+      "precioM2": 6554054,
+      "administracion": 294000.0,
+      "barrio": "EDUARDO FREY",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2.0,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-jorge-central-bogota/193776051",
+      "titulo": "Apartamento en Venta en San jorge central, Bogotá",
+      "id_domus": "193776051",
+      "fechaPublicacion": "2026-05-21",
+      "lat": 4.5954825133392,
+      "lon": -74.11660194397,
+      "location_type": "exacta",
+      "zonaConsulta": "EDUARDO FREY",
+      "zonaSlug": "eduardo-frey",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 230000000,
       "area": 35.0,
       "precioM2": 6571429,
@@ -57,7 +89,7 @@
       "habitaciones": 2,
       "banos": null,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-libertador-bogota/194463223",
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -89,7 +121,7 @@
       "habitaciones": 2,
       "banos": 1.0,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santander-sur-bogota/194497283",
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -121,7 +153,7 @@
       "habitaciones": 2,
       "banos": 2.0,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quiroga-bogota/193778771",
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -153,7 +185,7 @@
       "habitaciones": 3,
       "banos": 2.0,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-libertador-bogota/191928045",
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -185,7 +217,7 @@
       "habitaciones": 2,
       "banos": 1.0,
       "parqueaderos": null,
-      "estrato": 2,
+      "estrato": 2.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-eduardo-frey-bogota/193331571",
@@ -200,7 +232,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 270000000,
+      "area": 49.0,
+      "precioM2": 5510204,
+      "administracion": 189000.0,
+      "barrio": "LIBERTADOR",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2.0,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-libertador-bogota/194243567",
+      "titulo": "Apartamento en Venta en Libertador, Bogotá",
+      "id_domus": "194243567",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.5877554,
+      "lon": -74.1157278,
+      "location_type": "exacta",
+      "zonaConsulta": "EDUARDO FREY",
+      "zonaSlug": "eduardo-frey",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -217,7 +281,7 @@
       "habitaciones": 2,
       "banos": 1.0,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-eduardo-frey-bogota/194545633",
@@ -232,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -249,7 +313,7 @@
       "habitaciones": 2,
       "banos": 2.0,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-libertador-bogota/194138818",
@@ -264,32 +328,64 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 485000000,
-      "area": 74.0,
-      "precioM2": 6554054,
-      "administracion": 294000.0,
+      "precio": 230000000,
+      "area": 35.0,
+      "precioM2": 6571429,
+      "administracion": 171000.0,
+      "barrio": "LIBERTADOR",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-libertador-bogota/194632968",
+      "titulo": "Apartamento en Venta en Libertador, Bogotá",
+      "id_domus": "194632968",
+      "fechaPublicacion": "2026-11-19",
+      "lat": 4.589353,
+      "lon": -74.11514,
+      "location_type": "exacta",
+      "zonaConsulta": "EDUARDO FREY",
+      "zonaSlug": "eduardo-frey",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-12",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 299990000,
+      "area": 58.0,
+      "precioM2": 5172241,
+      "administracion": 303000.0,
       "barrio": "EDUARDO FREY",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
-      "banos": 2.0,
-      "parqueaderos": 1.0,
-      "estrato": 3,
+      "banos": 1.0,
+      "parqueaderos": null,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-jorge-central-bogota/193776051",
-      "titulo": "Apartamento en Venta en San jorge central, Bogotá",
-      "id_domus": "193776051",
-      "fechaPublicacion": "2026-05-21",
-      "lat": 4.5954825133392,
-      "lon": -74.11660194397,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-eduardo-frei-bogota/194568741",
+      "titulo": "Apartamento en Venta en Eduardo frei, Bogotá",
+      "id_domus": "194568741",
+      "fechaPublicacion": "2026-11-17",
+      "lat": 4.589444112307,
+      "lon": -74.116086491438,
       "location_type": "exacta",
       "zonaConsulta": "EDUARDO FREY",
       "zonaSlug": "eduardo-frey",

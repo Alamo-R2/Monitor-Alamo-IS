@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.16 13:13",
+  "generado": "2026.NOV.24 15:23",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 410000000,
+      "area": 129.0,
+      "precioM2": 3178295,
+      "administracion": 277700.0,
+      "barrio": "EDUARDO SANTOS",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 5,
+      "banos": 3,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-eduardo-santos-bogota/194195744",
+      "titulo": "Apartamento en Venta en Eduardo santos, Bogotá",
+      "id_domus": "194195744",
+      "fechaPublicacion": "2026-09-01",
+      "lat": 4.5969973,
+      "lon": -74.0856749,
+      "location_type": "exacta",
+      "zonaConsulta": "LA ESTANZUELA",
+      "zonaSlug": "la-estanzuela",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 206000000,
+      "area": 29.0,
+      "precioM2": 7103448,
+      "administracion": 123000.0,
+      "barrio": "LA ESTANZUELA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-martires-bogota/194535680",
+      "titulo": "Apartamento en Venta en Los martires, Bogotá",
+      "id_domus": "194535680",
+      "fechaPublicacion": "2026-11-10",
+      "lat": 4.6000099,
+      "lon": -74.0879174,
+      "location_type": "exacta",
+      "zonaConsulta": "LA ESTANZUELA",
+      "zonaSlug": "la-estanzuela",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 229900000,
+      "area": 37.0,
+      "precioM2": 6213514,
+      "administracion": 167900.0,
+      "barrio": "LA ESTANZUELA",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-estanzuela-bogota/194444105",
+      "titulo": "Apartamento en Venta en La Estanzuela, Bogotá",
+      "id_domus": "194444105",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.6000099,
+      "lon": -74.0879174,
+      "location_type": "exacta",
+      "zonaConsulta": "LA ESTANZUELA",
+      "zonaSlug": "la-estanzuela",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -72,39 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 683000000,
-      "area": 97.0,
-      "precioM2": 7041237,
-      "administracion": 932000.0,
-      "barrio": "ANTIGUO COUNTRY",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 5.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-antiguo-country-bogota/193191050",
-      "titulo": "Apartamento en Venta en Antiguo country, Bogotá",
-      "id_domus": "193191050",
-      "fechaPublicacion": "2025-12-11",
-      "lat": 4.6035044,
-      "lon": -74.0890959,
-      "location_type": "exacta",
-      "zonaConsulta": "LA ESTANZUELA",
-      "zonaSlug": "la-estanzuela",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -232,47 +296,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 219990000,
-      "area": 37.0,
-      "precioM2": 5945676,
-      "administracion": 167900.0,
-      "barrio": "LA ESTANZUELA",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-estanzuela-bogota/194516874",
-      "titulo": "Apartamento en Venta en La Estanzuela, Bogotá",
-      "id_domus": "194516874",
-      "fechaPublicacion": "2026-11-06",
-      "lat": 4.6000099,
-      "lon": -74.0879174,
-      "location_type": "exacta",
-      "zonaConsulta": "LA ESTANZUELA",
-      "zonaSlug": "la-estanzuela",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 256480000,
+      "precio": 247000000,
       "area": 32.0,
-      "precioM2": 8015000,
+      "precioM2": 7718750,
       "administracion": 153000.0,
       "barrio": "LA ESTANZUELA",
       "upl": "Centro Histórico",
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -546,38 +578,6 @@
       "fechaPublicacion": "2025-07-18",
       "lat": 4.6000099,
       "lon": -74.0879174,
-      "location_type": "exacta",
-      "zonaConsulta": "LA ESTANZUELA",
-      "zonaSlug": "la-estanzuela",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-18",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 410000000,
-      "area": 129.0,
-      "precioM2": 3178295,
-      "administracion": 277700.0,
-      "barrio": "EDUARDO SANTOS",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 5,
-      "banos": 3,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-eduardo-santos-bogota/194195744",
-      "titulo": "Apartamento en Venta en Eduardo santos, Bogotá",
-      "id_domus": "194195744",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.5969973,
-      "lon": -74.0856749,
       "location_type": "exacta",
       "zonaConsulta": "LA ESTANZUELA",
       "zonaSlug": "la-estanzuela",

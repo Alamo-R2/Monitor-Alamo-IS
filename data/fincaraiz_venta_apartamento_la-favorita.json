@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 5,
+  "total": 6,
   "zona": "LA FAVORITA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.16 13:13",
+  "generado": "2026.NOV.24 15:23",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -137,6 +137,38 @@
     },
     {
       "id": "MI-5",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 270000000,
+      "area": 70.0,
+      "precioM2": 3857143,
+      "administracion": null,
+      "barrio": "EDUARDO SANTOS",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 4.0,
+      "banos": 2.0,
+      "parqueaderos": null,
+      "estrato": 2.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-eduardo-santos-bogota/194626785",
+      "titulo": "Apartamento en Venta en Eduardo santos, Bogotá",
+      "id_domus": "194626785",
+      "fechaPublicacion": "2026-11-18",
+      "lat": 4.6089636,
+      "lon": -74.0774796,
+      "location_type": "exacta",
+      "zonaConsulta": "LA FAVORITA",
+      "zonaSlug": "la-favorita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
