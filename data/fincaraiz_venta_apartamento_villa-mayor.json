@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.16 23:04",
+  "generado": "2026.NOV.25 01:40",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,22 +46,22 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 280000000,
-      "area": 53.0,
-      "precioM2": 5283019,
+      "precio": 430000000,
+      "area": 120.0,
+      "precioM2": 3583333,
       "administracion": 100000.0,
-      "barrio": "LIBERTADOR",
+      "barrio": "BRAVO PAEZ",
       "upl": "Restrepo",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
+      "habitaciones": 3,
+      "banos": 2,
       "parqueaderos": 1.0,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-libertador-bogota/193603843",
-      "titulo": "Apartamento en Venta en Libertador, Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bravo-paez-bogota/193603843",
+      "titulo": "Apartamento en Venta en Bravo paez, Bogotá",
       "id_domus": "193603843",
       "fechaPublicacion": "2026-04-07",
       "lat": 4.590252,
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-3",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 410045000,
+      "area": 57.0,
+      "precioM2": 7193772,
+      "administracion": null,
+      "barrio": "VILLA MAYOR",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-mayor-bogota/192792401",
+      "titulo": "Apartamento en Venta en Villa mayor, Bogotá",
+      "id_domus": "192792401",
+      "fechaPublicacion": "2025-08-26",
+      "lat": 4.5875751,
+      "lon": -74.1262943,
+      "location_type": "exacta",
+      "zonaConsulta": "VILLA MAYOR",
+      "zonaSlug": "villa-mayor",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -258,38 +290,6 @@
       "fechaPublicacion": "2025-08-21",
       "lat": 4.5877727,
       "lon": -74.1259044,
-      "location_type": "exacta",
-      "zonaConsulta": "VILLA MAYOR",
-      "zonaSlug": "villa-mayor",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 410045000,
-      "area": 57.0,
-      "precioM2": 7193772,
-      "administracion": null,
-      "barrio": "VILLA MAYOR",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-villa-mayor-bogota/192792401",
-      "titulo": "Apartamento en Venta en Villa mayor, Bogotá",
-      "id_domus": "192792401",
-      "fechaPublicacion": "2025-08-26",
-      "lat": 4.5875751,
-      "lon": -74.1262943,
       "location_type": "exacta",
       "zonaConsulta": "VILLA MAYOR",
       "zonaSlug": "villa-mayor",

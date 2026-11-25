@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 7,
   "zona": "CIUDAD BERNA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.17 08:37",
+  "generado": "2026.NOV.25 01:40",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2400000,
+      "area": 458.0,
+      "precioM2": 5240,
+      "administracion": null,
+      "barrio": "CIUDAD BERNA",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ciudad-berna-bogota/194652248",
+      "titulo": "Apartamento en Arriendo en Ciudad berna, Bogotá",
+      "id_domus": "194652248",
+      "fechaPublicacion": "2026-11-24",
+      "lat": 4.5835738,
+      "lon": -74.0931473,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD BERNA",
+      "zonaSlug": "ciudad-berna",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1500000,
       "area": 57.0,
       "precioM2": 26316,
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],

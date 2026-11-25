@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 9,
+  "total": 8,
   "zona": "CIUDAD JARDIN SUR",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.17 08:37",
+  "generado": "2026.NOV.25 01:40",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,7 +110,7 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 510000000,
+      "precio": 509999999,
       "area": 65.0,
       "precioM2": 7846154,
       "administracion": 60000.0,
@@ -206,7 +206,7 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 560000000,
+      "precio": 559999999,
       "area": 70.0,
       "precioM2": 8000000,
       "administracion": 60000.0,
@@ -233,38 +233,6 @@
     },
     {
       "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 335000000,
-      "area": 48.0,
-      "precioM2": 6979167,
-      "administracion": null,
-      "barrio": "CIUDAD JARDIN SUR",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-ciudad-jardin-sur-bogota/192832245",
-      "titulo": "Apartamento en Venta en Ciudad jardin sur, Bogotá",
-      "id_domus": "192832245",
-      "fechaPublicacion": "2025-09-03",
-      "lat": 4.5795799,
-      "lon": -74.0988353,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD JARDIN SUR",
-      "zonaSlug": "ciudad-jardin-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
       "operacion": [
         "Venta"
       ],

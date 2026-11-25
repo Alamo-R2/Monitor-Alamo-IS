@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.19 13:59",
+  "generado": "2026.NOV.25 01:40",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -25,7 +25,7 @@
       "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-galan-bogota/194432224",
@@ -57,7 +57,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194430081",
@@ -78,26 +78,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 685000000,
-      "area": 100.0,
-      "precioM2": 6850000,
-      "administracion": 360000.0,
-      "barrio": "GALAN",
+      "precio": 292000000,
+      "area": 68.0,
+      "precioM2": 4294118,
+      "administracion": 218000.0,
+      "barrio": "LA TRINIDAD",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4,
+      "parqueaderos": null,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194193981",
-      "titulo": "Apartamento en Venta en Américas Central, Bogotá",
-      "id_domus": "194193981",
-      "fechaPublicacion": "2026-09-01",
-      "lat": 4.6231309,
-      "lon": -74.125117,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-trinidad-bogota/194032634",
+      "titulo": "Apartamento en Venta en La trinidad, Bogotá",
+      "id_domus": "194032634",
+      "fechaPublicacion": "2026-07-24",
+      "lat": 4.6214420099397,
+      "lon": -74.120961489935,
       "location_type": "exacta",
       "zonaConsulta": "GALAN",
       "zonaSlug": "galan",
@@ -110,10 +110,10 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 370000000,
-      "area": 63.0,
-      "precioM2": 5873016,
-      "administracion": null,
+      "precio": 685000000,
+      "area": 100.0,
+      "precioM2": 6850000,
+      "administracion": 360000.0,
       "barrio": "GALAN",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
@@ -121,15 +121,15 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-galan-bogota/194442206",
-      "titulo": "Apartamento en Venta en Galan, Bogotá",
-      "id_domus": "194442206",
-      "fechaPublicacion": "2026-10-22",
-      "lat": 4.6216258,
-      "lon": -74.1212112,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194193981",
+      "titulo": "Apartamento en Venta en Américas Central, Bogotá",
+      "id_domus": "194193981",
+      "fechaPublicacion": "2026-09-01",
+      "lat": 4.6231309,
+      "lon": -74.125117,
       "location_type": "exacta",
       "zonaConsulta": "GALAN",
       "zonaSlug": "galan",
@@ -153,7 +153,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-pradera-bogota/194493176",
@@ -174,38 +174,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 199800000,
-      "area": 41.0,
-      "precioM2": 4873171,
-      "administracion": 131000.0,
-      "barrio": "PUENTE ARANDA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/194226523",
-      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
-      "id_domus": "194226523",
-      "fechaPublicacion": "2026-09-08",
-      "lat": 4.6215259,
-      "lon": -74.121099,
-      "location_type": "exacta",
-      "zonaConsulta": "GALAN",
-      "zonaSlug": "galan",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 380000000,
       "area": 51.0,
       "precioM2": 7450980,
@@ -217,7 +185,7 @@
       "habitaciones": 2,
       "banos": 1,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-hipotecho-occidental-bogota/194468482",
@@ -232,39 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 295000000,
-      "area": 46.0,
-      "precioM2": 6413043,
-      "administracion": 170000.0,
-      "barrio": "CASABLANCA SUBA URBANO",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-casablanca-suba-urbano-bogota/194296216",
-      "titulo": "Apartamento en Venta en Casablanca suba urbano, Bogotá",
-      "id_domus": "194296216",
-      "fechaPublicacion": "2026-09-22",
-      "lat": 4.6165706,
-      "lon": -74.1217152,
-      "location_type": "exacta",
-      "zonaConsulta": "GALAN",
-      "zonaSlug": "galan",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -281,7 +217,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-hipotecho-sur-bogota/193236995",
@@ -296,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -313,7 +249,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-galan-bogota/194099991",
@@ -328,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -345,7 +281,7 @@
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-galan-bogota/194136030",
@@ -360,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -377,7 +313,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-galan-bogota/194488478",
@@ -392,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -409,7 +345,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-igualdad-bogota/194119467",
@@ -424,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -441,7 +377,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194228074",
@@ -456,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -473,7 +409,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194239044",
@@ -488,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -505,7 +441,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/194272958",
@@ -520,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -537,7 +473,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4,
+      "estrato": 4.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/193575332",
@@ -552,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -569,7 +505,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-rafael-bogota/193831435",
@@ -584,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -601,7 +537,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-rafael-bogota/194446068",
@@ -616,7 +552,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-18",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 370000000,
+      "area": 63.0,
+      "precioM2": 5873016,
+      "administracion": null,
+      "barrio": "GALAN",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-galan-bogota/194442206",
+      "titulo": "Apartamento en Venta en Galan, Bogotá",
+      "id_domus": "194442206",
+      "fechaPublicacion": "2026-10-22",
+      "lat": 4.6216258,
+      "lon": -74.1212112,
+      "location_type": "exacta",
+      "zonaConsulta": "GALAN",
+      "zonaSlug": "galan",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -633,7 +601,7 @@
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
       "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194200286",
@@ -648,32 +616,64 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 292000000,
+      "precio": 291650000,
       "area": 68.0,
-      "precioM2": 4294118,
+      "precioM2": 4288971,
       "administracion": 218000.0,
-      "barrio": "LA TRINIDAD",
+      "barrio": "PUENTE ARANDA",
       "upl": "Puente Aranda",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 3,
       "banos": 2,
       "parqueaderos": null,
-      "estrato": 3,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-la-trinidad-bogota/194032634",
-      "titulo": "Apartamento en Venta en La trinidad, Bogotá",
-      "id_domus": "194032634",
-      "fechaPublicacion": "2026-07-24",
-      "lat": 4.6214420099397,
-      "lon": -74.120961489935,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-puente-aranda-bogota/194254272",
+      "titulo": "Apartamento en Venta en Puente aranda, Bogotá",
+      "id_domus": "194254272",
+      "fechaPublicacion": "2026-09-14",
+      "lat": 4.6214039,
+      "lon": -74.1208647,
+      "location_type": "exacta",
+      "zonaConsulta": "GALAN",
+      "zonaSlug": "galan",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 460000000,
+      "area": 68.0,
+      "precioM2": 6764706,
+      "administracion": 300000.0,
+      "barrio": "GALAN",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": null,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/193294433",
+      "titulo": "Apartamento en Venta en Américas Central, Bogotá",
+      "id_domus": "193294433",
+      "fechaPublicacion": "2026-01-20",
+      "lat": 4.6224446340892,
+      "lon": -74.125262138436,
       "location_type": "exacta",
       "zonaConsulta": "GALAN",
       "zonaSlug": "galan",

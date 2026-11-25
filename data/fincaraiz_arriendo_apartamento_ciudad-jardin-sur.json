@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 5,
   "zona": "CIUDAD JARDIN SUR",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.17 08:37",
+  "generado": "2026.NOV.25 01:40",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 13700000,
+      "area": 168.0,
+      "precioM2": 81548,
+      "administracion": null,
+      "barrio": "CHICO NORTE",
+      "upl": "Restrepo",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 2.0,
+      "estrato": 6,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/194559793",
+      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
+      "id_domus": "194559793",
+      "fechaPublicacion": "2026-11-14",
+      "lat": 4.5806266,
+      "lon": -74.0913381,
+      "location_type": "exacta",
+      "zonaConsulta": "CIUDAD JARDIN SUR",
+      "zonaSlug": "ciudad-jardin-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
@@ -98,38 +130,6 @@
       "fechaPublicacion": "2026-06-11",
       "lat": 4.581838,
       "lon": -74.100989,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD JARDIN SUR",
-      "zonaSlug": "ciudad-jardin-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-4",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 13700000,
-      "area": 168.0,
-      "precioM2": 81548,
-      "administracion": null,
-      "barrio": "CHICO NORTE",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
-      "parqueaderos": 2.0,
-      "estrato": 6,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-chico-norte-bogota/194559793",
-      "titulo": "Apartamento en Arriendo en Chico norte, Bogotá",
-      "id_domus": "194559793",
-      "fechaPublicacion": "2026-11-14",
-      "lat": 4.5806266,
-      "lon": -74.0913381,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD JARDIN SUR",
       "zonaSlug": "ciudad-jardin-sur",
@@ -162,38 +162,6 @@
       "fechaPublicacion": "2026-11-09",
       "lat": 4.5785142,
       "lon": -74.0971929,
-      "location_type": "exacta",
-      "zonaConsulta": "CIUDAD JARDIN SUR",
-      "zonaSlug": "ciudad-jardin-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1500000,
-      "area": 65.0,
-      "precioM2": 23077,
-      "administracion": null,
-      "barrio": "CIUDAD JARDIN SUR",
-      "upl": "Restrepo",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-sociego-sur-bogota/193222198",
-      "titulo": "Apartamento en Arriendo en Sociego sur, Bogotá",
-      "id_domus": "193222198",
-      "fechaPublicacion": "2025-12-20",
-      "lat": 4.5773622252624,
-      "lon": -74.092301795873,
       "location_type": "exacta",
       "zonaConsulta": "CIUDAD JARDIN SUR",
       "zonaSlug": "ciudad-jardin-sur",
