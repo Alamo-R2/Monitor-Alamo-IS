@@ -1,7 +1,7 @@
 {
-  "generado": "2026-11-25T18:54:20",
-  "generado_humano": "2026.NOV.25 18:54",
-  "grupo_actual": "diario",
+  "generado": "2026-11-25T19:44:49",
+  "generado_humano": "2026.NOV.25 19:44",
+  "grupo_actual": "cada5",
   "ciudad": "bogota",
   "datasets": [
     {
@@ -914,13 +914,13 @@
       "clave": "venta_apartamento_restrepo",
       "etiqueta": "Venta - Apartamento - Restrepo",
       "archivo": "venta_apartamento_restrepo.json",
-      "total": 38,
+      "total": 44,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Restrepo",
       "slug": "restrepo",
       "origen": "upl",
-      "segundos": 7.3
+      "segundos": 8.7
     },
     {
       "clave": "arriendo_apartamento_restrepo",
@@ -932,7 +932,7 @@
       "zona": "Restrepo",
       "slug": "restrepo",
       "origen": "upl",
-      "segundos": 6.9
+      "segundos": 7.0
     },
     {
       "clave": "venta_apartamento_salitre",
@@ -944,7 +944,7 @@
       "zona": "Salitre",
       "slug": "salitre",
       "origen": "upl",
-      "segundos": 7.0
+      "segundos": 7.8
     },
     {
       "clave": "arriendo_apartamento_salitre",
@@ -956,25 +956,25 @@
       "zona": "Salitre",
       "slug": "salitre",
       "origen": "upl",
-      "segundos": 7.2
+      "segundos": 7.4
     },
     {
       "clave": "venta_apartamento_torca",
       "etiqueta": "Venta - Apartamento - Torca",
       "archivo": "venta_apartamento_torca.json",
-      "total": 32,
+      "total": 34,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Torca",
       "slug": "torca",
       "origen": "upl",
-      "segundos": 7.0
+      "segundos": 7.1
     },
     {
       "clave": "arriendo_apartamento_torca",
       "etiqueta": "Arriendo - Apartamento - Torca",
       "archivo": "arriendo_apartamento_torca.json",
-      "total": 26,
+      "total": 27,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Torca",
@@ -986,25 +986,25 @@
       "clave": "venta_apartamento_suba",
       "etiqueta": "Venta - Apartamento - Suba",
       "archivo": "venta_apartamento_suba.json",
-      "total": 64,
+      "total": 59,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Suba",
       "slug": "suba",
       "origen": "upl",
-      "segundos": 7.1
+      "segundos": 7.4
     },
     {
       "clave": "arriendo_apartamento_suba",
       "etiqueta": "Arriendo - Apartamento - Suba",
       "archivo": "arriendo_apartamento_suba.json",
-      "total": 63,
+      "total": 60,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Suba",
       "slug": "suba",
       "origen": "upl",
-      "segundos": 7.0
+      "segundos": 7.1
     },
     {
       "clave": "venta_apartamento_rincon-de-suba",
@@ -1016,7 +1016,7 @@
       "zona": "Rincon de Suba",
       "slug": "rincon-de-suba",
       "origen": "upl",
-      "segundos": 4.5
+      "segundos": 5.2
     },
     {
       "clave": "arriendo_apartamento_rincon-de-suba",
@@ -1028,31 +1028,31 @@
       "zona": "Rincon de Suba",
       "slug": "rincon-de-suba",
       "origen": "upl",
-      "segundos": 4.8
+      "segundos": 4.9
     },
     {
       "clave": "venta_apartamento_tibabuyes",
       "etiqueta": "Venta - Apartamento - Tibabuyes",
       "archivo": "venta_apartamento_tibabuyes.json",
-      "total": 40,
+      "total": 50,
       "operacion": "venta",
       "tipo": "apartamento",
       "zona": "Tibabuyes",
       "slug": "tibabuyes",
       "origen": "upl",
-      "segundos": 6.9
+      "segundos": 7.0
     },
     {
       "clave": "arriendo_apartamento_tibabuyes",
       "etiqueta": "Arriendo - Apartamento - Tibabuyes",
       "archivo": "arriendo_apartamento_tibabuyes.json",
-      "total": 6,
+      "total": 8,
       "operacion": "arriendo",
       "tipo": "apartamento",
       "zona": "Tibabuyes",
       "slug": "tibabuyes",
       "origen": "upl",
-      "segundos": 6.9
+      "segundos": 7.0
     },
     {
       "clave": "venta_apartamento_chapinero-norte",
@@ -135919,8 +135919,5 @@
   },
   "tipos": "tipos.json",
   "historial": "historial.json",
-  "noticias": {
-    "archivo": "noticias.json",
-    "total": 17
-  }
+  "noticias": null
 }
