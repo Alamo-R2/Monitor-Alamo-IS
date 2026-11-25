@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 7,
+  "total": 6,
   "zona": "NUEVA GLORIA",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.21 02:53",
+  "generado": "2026.NOV.25 15:04",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,38 +110,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 165000000,
-      "area": 60.0,
-      "precioM2": 2750000,
-      "administracion": null,
-      "barrio": "LOS LIBERTADORES",
-      "upl": "San Cristóbal",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 4,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-los-libertadores-bogota/194288001",
-      "titulo": "Apartamento en Venta en Los libertadores, Bogotá",
-      "id_domus": "194288001",
-      "fechaPublicacion": "2026-09-21",
-      "lat": 4.539004,
-      "lon": -74.0891247,
-      "location_type": "exacta",
-      "zonaConsulta": "NUEVA GLORIA",
-      "zonaSlug": "nueva-gloria",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 181440000,
       "area": 50.0,
       "precioM2": 3628800,
@@ -168,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],

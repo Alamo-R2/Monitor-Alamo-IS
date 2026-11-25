@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.24 15:23",
+  "generado": "2026.NOV.25 15:04",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 230000000,
-      "area": 28.0,
-      "precioM2": 8214286,
-      "administracion": null,
-      "barrio": "MARLY",
-      "upl": "Centro Histórico",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-marly-bogota/194043824",
-      "titulo": "Apartamento en Venta en Marly, Bogotá",
-      "id_domus": "194043824",
-      "fechaPublicacion": "2026-07-28",
-      "lat": 4.5876732590352,
-      "lon": -74.082612991333,
-      "location_type": "exacta",
-      "zonaConsulta": "MODELO SUR",
-      "zonaSlug": "modelo-sur",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -130,6 +98,38 @@
       "fechaPublicacion": "2026-11-12",
       "lat": 4.5867342,
       "lon": -74.0859249,
+      "location_type": "exacta",
+      "zonaConsulta": "MODELO SUR",
+      "zonaSlug": "modelo-sur",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 230000000,
+      "area": 28.0,
+      "precioM2": 8214286,
+      "administracion": null,
+      "barrio": "MARLY",
+      "upl": "Centro Histórico",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-marly-bogota/194043824",
+      "titulo": "Apartamento en Venta en Marly, Bogotá",
+      "id_domus": "194043824",
+      "fechaPublicacion": "2026-07-28",
+      "lat": 4.5876732590352,
+      "lon": -74.082612991333,
       "location_type": "exacta",
       "zonaConsulta": "MODELO SUR",
       "zonaSlug": "modelo-sur",
