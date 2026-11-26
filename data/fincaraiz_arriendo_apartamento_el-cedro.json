@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 5,
   "zona": "EL CEDRO",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.21 13:07",
+  "generado": "2026.NOV.26 14:33",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -22,7 +22,7 @@
       "upl": "Tabora",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
+      "habitaciones": 1,
       "banos": 1,
       "parqueaderos": null,
       "estrato": 3,
@@ -105,6 +105,38 @@
     },
     {
       "id": "MI-4",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2900000,
+      "area": 69.0,
+      "precioM2": 42029,
+      "administracion": null,
+      "barrio": "EL CEDRO",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-el-cedro-bogota/194651741",
+      "titulo": "Apartamento en Arriendo en El cedro, Bogotá",
+      "id_domus": "194651741",
+      "fechaPublicacion": "2026-11-24",
+      "lat": 4.7318534,
+      "lon": -74.0365464,
+      "location_type": "exacta",
+      "zonaConsulta": "EL CEDRO",
+      "zonaSlug": "el-cedro",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Arriendo"
       ],

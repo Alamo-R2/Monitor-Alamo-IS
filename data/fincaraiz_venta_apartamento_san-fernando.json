@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 17,
+  "total": 20,
   "zona": "SAN FERNANDO",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.18 03:15",
+  "generado": "2026.NOV.26 14:33",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -47,25 +47,25 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 330000000,
-      "area": 46.0,
-      "precioM2": 7173913,
-      "administracion": 200000.0,
-      "barrio": "SAN FERNANDO",
+      "area": 54.0,
+      "precioM2": 6111111,
+      "administracion": 350000.0,
+      "barrio": "DOCE DE OCTUBRE",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
+      "habitaciones": 3,
+      "banos": 1,
       "parqueaderos": 1.0,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-fernando/194051266",
-      "titulo": "Apartamento en Venta en San fernando",
-      "id_domus": "194051266",
-      "fechaPublicacion": "2026-07-29",
-      "lat": 4.6685521,
-      "lon": -74.0782689,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-doce-de-octubre-bogota/194624521",
+      "titulo": "Apartamento en Venta en Doce de octubre, Bogotá",
+      "id_domus": "194624521",
+      "fechaPublicacion": "2026-11-18",
+      "lat": 4.66918,
+      "lon": -74.075845,
       "location_type": "exacta",
       "zonaConsulta": "SAN FERNANDO",
       "zonaSlug": "san-fernando",
@@ -78,26 +78,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 400000000,
-      "area": 44.0,
-      "precioM2": 9090909,
-      "administracion": 277000.0,
+      "precio": 360000000,
+      "area": 83.0,
+      "precioM2": 4337349,
+      "administracion": null,
       "barrio": "SAN FERNANDO",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
-      "parqueaderos": 1.0,
+      "parqueaderos": null,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-fernando-bogota/194227512",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-fernando-bogota/193875268",
       "titulo": "Apartamento en Venta en San fernando, Bogotá",
-      "id_domus": "194227512",
-      "fechaPublicacion": "2026-09-08",
-      "lat": 4.6736055,
-      "lon": -74.0799699,
+      "id_domus": "193875268",
+      "fechaPublicacion": "2026-06-13",
+      "lat": 4.6705776,
+      "lon": -74.0768074,
       "location_type": "exacta",
       "zonaConsulta": "SAN FERNANDO",
       "zonaSlug": "san-fernando",
@@ -105,6 +105,38 @@
     },
     {
       "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 269000000,
+      "area": 36.0,
+      "precioM2": 7472222,
+      "administracion": null,
+      "barrio": "SAN FERNANDO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-fernando-bogota/194662785",
+      "titulo": "Apartamento en Venta en San fernando, Bogotá",
+      "id_domus": "194662785",
+      "fechaPublicacion": "2026-11-25",
+      "lat": 4.6750658,
+      "lon": -74.0767918,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FERNANDO",
+      "zonaSlug": "san-fernando",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,39 +296,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 525000000,
-      "area": 70.0,
-      "precioM2": 7500000,
-      "administracion": 480000.0,
-      "barrio": "SAN MIGUEL",
+      "precio": 330000000,
+      "area": 46.0,
+      "precioM2": 7173913,
+      "administracion": 200000.0,
+      "barrio": "SAN FERNANDO",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 2,
       "parqueaderos": 1.0,
-      "estrato": 4.0,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-miguel-bogota/193783793",
-      "titulo": "Apartamento en Venta en San miguel, Bogotá",
-      "id_domus": "193783793",
-      "fechaPublicacion": "2026-05-22",
-      "lat": 4.664145016421,
-      "lon": -74.077495873942,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-fernando/194051266",
+      "titulo": "Apartamento en Venta en San fernando",
+      "id_domus": "194051266",
+      "fechaPublicacion": "2026-07-29",
+      "lat": 4.6685521,
+      "lon": -74.0782689,
       "location_type": "exacta",
       "zonaConsulta": "SAN FERNANDO",
       "zonaSlug": "san-fernando",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Venta"
       ],
@@ -328,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Venta"
       ],
@@ -360,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -392,7 +424,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 350000000,
+      "area": 48.0,
+      "precioM2": 7291667,
+      "administracion": 210000.0,
+      "barrio": "SAN FERNANDO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-barrios-unidos-bogota/194633192",
+      "titulo": "Apartamento en Venta en Barrios Unidos, Bogotá",
+      "id_domus": "194633192",
+      "fechaPublicacion": "2026-11-19",
+      "lat": 4.6734294,
+      "lon": -74.0788698,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FERNANDO",
+      "zonaSlug": "san-fernando",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -424,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -456,39 +520,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 337000000,
-      "area": 83.0,
-      "precioM2": 4060241,
-      "administracion": null,
+      "precio": 400000000,
+      "area": 44.0,
+      "precioM2": 9090909,
+      "administracion": 277000.0,
       "barrio": "SAN FERNANDO",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
       "habitaciones": 2,
       "banos": 1,
-      "parqueaderos": null,
+      "parqueaderos": 1.0,
       "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-fernando-bogota/193875268",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-fernando-bogota/194227512",
       "titulo": "Apartamento en Venta en San fernando, Bogotá",
-      "id_domus": "193875268",
-      "fechaPublicacion": "2026-06-13",
-      "lat": 4.6705776,
-      "lon": -74.0768074,
+      "id_domus": "194227512",
+      "fechaPublicacion": "2026-09-08",
+      "lat": 4.6736055,
+      "lon": -74.0799699,
       "location_type": "exacta",
       "zonaConsulta": "SAN FERNANDO",
       "zonaSlug": "san-fernando",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -546,6 +610,38 @@
       "fechaPublicacion": "2026-10-22",
       "lat": 4.6635233,
       "lon": -74.0768591,
+      "location_type": "exacta",
+      "zonaConsulta": "SAN FERNANDO",
+      "zonaSlug": "san-fernando",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-20",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 680000000,
+      "area": 83.0,
+      "precioM2": 8192771,
+      "administracion": 720000.0,
+      "barrio": "SAN FERNANDO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 2.0,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-san-fernando-bogota/194576990",
+      "titulo": "Apartamento en Venta en San fernando, Bogotá",
+      "id_domus": "194576990",
+      "fechaPublicacion": "2026-11-18",
+      "lat": 4.675835,
+      "lon": -74.082935,
       "location_type": "exacta",
       "zonaConsulta": "SAN FERNANDO",
       "zonaSlug": "san-fernando",

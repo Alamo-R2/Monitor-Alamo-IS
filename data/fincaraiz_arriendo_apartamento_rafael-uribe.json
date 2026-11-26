@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.18 03:15",
+  "generado": "2026.NOV.26 14:33",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1250000,
-      "area": 49.0,
-      "precioM2": 25510,
+      "precio": 1650000,
+      "area": 60.0,
+      "precioM2": 27500,
       "administracion": null,
-      "barrio": "MOLINOS DEL SUR",
+      "barrio": "SAN JORGE SUR",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-molinos-del-sur-bogota/194425770",
-      "titulo": "Apartamento en Arriendo en Molinos del sur, Bogotá",
-      "id_domus": "194425770",
-      "fechaPublicacion": "2026-10-19",
-      "lat": 4.56119843971,
-      "lon": -74.118172747138,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-jorge-sur-bogota/194645494",
+      "titulo": "Apartamento en Arriendo en San jorge sur, Bogotá",
+      "id_domus": "194645494",
+      "fechaPublicacion": "2026-11-23",
+      "lat": 4.572060338488,
+      "lon": -74.121121249218,
       "location_type": "exacta",
       "zonaConsulta": "RAFAEL URIBE",
       "zonaSlug": "rafael-uribe",
@@ -60,12 +60,12 @@
       "estrato": 2,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/194348277",
-      "titulo": "Apartamento en Arriendo en Bogotá",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-providencia-alta-bogota/194348277",
+      "titulo": "Apartamento en Arriendo en Providencia alta, Bogotá",
       "id_domus": "194348277",
       "fechaPublicacion": "2026-10-02",
-      "lat": 4.5637824,
-      "lon": -74.1129354,
+      "lat": 4.5638482,
+      "lon": -74.1131233,
       "location_type": "exacta",
       "zonaConsulta": "RAFAEL URIBE",
       "zonaSlug": "rafael-uribe",
@@ -143,6 +143,70 @@
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
       "precio": 1600000,
+      "area": 60.0,
+      "precioM2": 26667,
+      "administracion": 60000.0,
+      "barrio": "CENTENARIO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-centenario-bogota/194333365",
+      "titulo": "Apartamento en Arriendo en Centenario, Bogotá",
+      "id_domus": "194333365",
+      "fechaPublicacion": "2026-09-29",
+      "lat": 4.5859202,
+      "lon": -74.1073066,
+      "location_type": "exacta",
+      "zonaConsulta": "RAFAEL URIBE",
+      "zonaSlug": "rafael-uribe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-6",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1150000,
+      "area": 45.0,
+      "precioM2": 25556,
+      "administracion": null,
+      "barrio": "SAN JORGE SUR",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-san-jorge-sur-bogota/194645529",
+      "titulo": "Apartamento en Arriendo en San jorge sur, Bogotá",
+      "id_domus": "194645529",
+      "fechaPublicacion": "2026-11-23",
+      "lat": 4.572060338488,
+      "lon": -74.121121249218,
+      "location_type": "exacta",
+      "zonaConsulta": "RAFAEL URIBE",
+      "zonaSlug": "rafael-uribe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-7",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1600000,
       "area": 70.0,
       "precioM2": 22857,
       "administracion": null,
@@ -168,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-8",
       "operacion": [
         "Arriendo"
       ],
@@ -200,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-9",
       "operacion": [
         "Arriendo"
       ],
@@ -232,39 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 900000,
-      "area": 40.0,
-      "precioM2": 22500,
-      "administracion": null,
-      "barrio": "CLARET",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": 1.0,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-claret-bogota/194454557",
-      "titulo": "Apartamento en Arriendo en Claret, Bogotá",
-      "id_domus": "194454557",
-      "fechaPublicacion": "2026-10-25",
-      "lat": 4.5876173114266,
-      "lon": -74.127047938623,
-      "location_type": "exacta",
-      "zonaConsulta": "RAFAEL URIBE",
-      "zonaSlug": "rafael-uribe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Arriendo"
       ],
@@ -296,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-10",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -328,39 +360,39 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-11",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2600000,
-      "area": 160.0,
-      "precioM2": 16250,
+      "precio": 1100000,
+      "area": 52.0,
+      "precioM2": 21154,
       "administracion": null,
-      "barrio": "RAFAEL URIBE",
+      "barrio": "QUIROGA SUR",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 3,
+      "habitaciones": 2,
+      "banos": 1,
       "parqueaderos": null,
       "estrato": 3,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota/193959085",
-      "titulo": "Apartamento en Arriendo en Bogotá",
-      "id_domus": "193959085",
-      "fechaPublicacion": "2026-07-06",
-      "lat": 4.5754466,
-      "lon": -74.123681,
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quiroga-sur-bogota/194169833",
+      "titulo": "Apartamento en Arriendo en Quiroga sur, Bogotá",
+      "id_domus": "194169833",
+      "fechaPublicacion": "2026-08-26",
+      "lat": 4.5786106,
+      "lon": -74.1203256,
       "location_type": "exacta",
       "zonaConsulta": "RAFAEL URIBE",
       "zonaSlug": "rafael-uribe",
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +456,71 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-15",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000,
+      "area": 47.0,
+      "precioM2": 29787,
+      "administracion": null,
+      "barrio": "QUIROGA CENTRAL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-quiroga-central-bogota/194081693",
+      "titulo": "Apartamento en Arriendo en Quiroga central, Bogotá",
+      "id_domus": "194081693",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.578983,
+      "lon": -74.109325,
+      "location_type": "exacta",
+      "zonaConsulta": "RAFAEL URIBE",
+      "zonaSlug": "rafael-uribe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-16",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 1400000,
+      "area": 41.0,
+      "precioM2": 34146,
+      "administracion": null,
+      "barrio": "MARCO FIDEL SUAREZ",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-marco-fidel-suarez-bogota/194652734",
+      "titulo": "Apartamento en Arriendo en Marco fidel suarez, Bogotá",
+      "id_domus": "194652734",
+      "fechaPublicacion": "2026-11-24",
+      "lat": 4.5669951,
+      "lon": -74.1210243,
+      "location_type": "exacta",
+      "zonaConsulta": "RAFAEL URIBE",
+      "zonaSlug": "rafael-uribe",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-18",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-19",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-20",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-21",
       "operacion": [
         "Arriendo"
       ],
@@ -578,102 +674,6 @@
       "fechaPublicacion": "2026-07-01",
       "lat": 4.5793752,
       "lon": -74.1057661,
-      "location_type": "exacta",
-      "zonaConsulta": "RAFAEL URIBE",
-      "zonaSlug": "rafael-uribe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-19",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1350000,
-      "area": 62.0,
-      "precioM2": 21774,
-      "administracion": null,
-      "barrio": "INGLES",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ingles-bogota/194303957",
-      "titulo": "Apartamento en Arriendo en Ingles, Bogotá",
-      "id_domus": "194303957",
-      "fechaPublicacion": "2026-09-23",
-      "lat": 4.5874849,
-      "lon": -74.1248489,
-      "location_type": "exacta",
-      "zonaConsulta": "RAFAEL URIBE",
-      "zonaSlug": "rafael-uribe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-20",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1110000,
-      "area": 45.0,
-      "precioM2": 24667,
-      "administracion": null,
-      "barrio": "RAFAEL URIBE",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 2,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-danubio-azul-bogota/194279749",
-      "titulo": "Apartamento en Arriendo en Danubio azul, Bogotá",
-      "id_domus": "194279749",
-      "fechaPublicacion": "2026-09-18",
-      "lat": 4.544905,
-      "lon": -74.113437,
-      "location_type": "exacta",
-      "zonaConsulta": "RAFAEL URIBE",
-      "zonaSlug": "rafael-uribe",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 57.0,
-      "precioM2": 21053,
-      "administracion": null,
-      "barrio": "INGLES",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-ingles-bogota/194252809",
-      "titulo": "Apartamento en Arriendo en Ingles, Bogotá",
-      "id_domus": "194252809",
-      "fechaPublicacion": "2026-09-14",
-      "lat": 4.585586,
-      "lon": -74.120591,
       "location_type": "exacta",
       "zonaConsulta": "RAFAEL URIBE",
       "zonaSlug": "rafael-uribe",

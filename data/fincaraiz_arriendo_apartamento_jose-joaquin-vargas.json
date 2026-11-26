@@ -1,14 +1,46 @@
 {
   "ok": true,
-  "total": 18,
+  "total": 17,
   "zona": "JOSE JOAQUIN VARGAS",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.26 01:14",
+  "generado": "2026.NOV.26 14:33",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2200000,
+      "area": 30.0,
+      "precioM2": 73333,
+      "administracion": 150000.0,
+      "barrio": "JOSE JOAQUIN VARGAS",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 4,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-bogota-dc-bogota/194664451",
+      "titulo": "Apartamento en Arriendo en Bogotá, d.c., Bogotá",
+      "id_domus": "194664451",
+      "fechaPublicacion": "2026-11-26",
+      "lat": 4.6689959,
+      "lon": -74.0847151,
+      "location_type": "exacta",
+      "zonaConsulta": "JOSE JOAQUIN VARGAS",
+      "zonaSlug": "jose-joaquin-vargas",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Arriendo"
       ],
@@ -34,38 +66,6 @@
       "fechaPublicacion": "2025-11-15",
       "lat": 4.668857693698,
       "lon": -74.084747620529,
-      "location_type": "exacta",
-      "zonaConsulta": "JOSE JOAQUIN VARGAS",
-      "zonaSlug": "jose-joaquin-vargas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1850000,
-      "area": 30.0,
-      "precioM2": 61667,
-      "administracion": null,
-      "barrio": "JOSE JOAQUIN VARGAS",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-barrios-unidos-bogota/193644280",
-      "titulo": "Apartamento en Arriendo en Barrios Unidos, Bogotá",
-      "id_domus": "193644280",
-      "fechaPublicacion": "2026-04-17",
-      "lat": 4.6687415,
-      "lon": -74.0848872,
       "location_type": "exacta",
       "zonaConsulta": "JOSE JOAQUIN VARGAS",
       "zonaSlug": "jose-joaquin-vargas",
@@ -302,38 +302,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2000000,
-      "area": 30.0,
-      "precioM2": 66667,
-      "administracion": null,
-      "barrio": "JOSE JOAQUIN VARGAS",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 4,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-jose-joaquin-vargas-bogota/194655636",
-      "titulo": "Apartamento en Arriendo en Jose joaquin vargas, Bogotá",
-      "id_domus": "194655636",
-      "fechaPublicacion": "2026-11-24",
-      "lat": 4.668994,
-      "lon": -74.084711,
-      "location_type": "exacta",
-      "zonaConsulta": "JOSE JOAQUIN VARGAS",
-      "zonaSlug": "jose-joaquin-vargas",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-11",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 1980000,
       "area": 32.0,
       "precioM2": 61875,
@@ -360,7 +328,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-12",
+      "id": "MI-11",
       "operacion": [
         "Arriendo"
       ],
@@ -392,7 +360,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-13",
+      "id": "MI-12",
       "operacion": [
         "Arriendo"
       ],
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Arriendo"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Arriendo"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Arriendo"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Arriendo"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Arriendo"
       ],

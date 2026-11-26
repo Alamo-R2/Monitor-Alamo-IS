@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 6,
+  "total": 5,
   "zona": "LOS ANGELES",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.21 13:07",
+  "generado": "2026.NOV.26 14:33",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -78,9 +78,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 1600000,
+      "precio": 1580000,
       "area": 50.0,
-      "precioM2": 32000,
+      "precioM2": 31600,
       "administracion": null,
       "barrio": "ALAMOS",
       "upl": "Tabora",
@@ -137,38 +137,6 @@
     },
     {
       "id": "MI-5",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1582000,
-      "area": 53.0,
-      "precioM2": 29849,
-      "administracion": 218000.0,
-      "barrio": "ALAMOS",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-alamos-bogota/194337236",
-      "titulo": "Apartamento en Arriendo en Alamos, Bogotá",
-      "id_domus": "194337236",
-      "fechaPublicacion": "2026-09-30",
-      "lat": 4.7018842,
-      "lon": -74.1191617,
-      "location_type": "exacta",
-      "zonaConsulta": "LOS ANGELES",
-      "zonaSlug": "los-angeles",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],

@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.22 20:30",
+  "generado": "2026.NOV.26 14:33",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,26 +14,26 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2650000000,
-      "area": 173.0,
-      "precioM2": 15317919,
-      "administracion": 2200000.0,
+      "precio": 260000000,
+      "area": 27.0,
+      "precioM2": 9629630,
+      "administracion": 210000.0,
       "barrio": "QUINTA CAMACHO",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 3,
-      "banos": 5,
-      "parqueaderos": 2.0,
-      "estrato": 6.0,
+      "habitaciones": 1,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194524615",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194242730",
       "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "194524615",
-      "fechaPublicacion": "2026-11-09",
-      "lat": 4.6548153,
-      "lon": -74.0552684,
+      "id_domus": "194242730",
+      "fechaPublicacion": "2026-09-11",
+      "lat": 4.6527343,
+      "lon": -74.0628522,
       "location_type": "exacta",
       "zonaConsulta": "QUINTA CAMACHO",
       "zonaSlug": "quinta-camacho",
@@ -41,38 +41,6 @@
     },
     {
       "id": "MI-2",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1289886900,
-      "area": 123.0,
-      "precioM2": 10486885,
-      "administracion": 1000000.0,
-      "barrio": "QUINTA CAMACHO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quinta-camacho-bogota/194014268",
-      "titulo": "Apartamento en Venta en Quinta camacho, Bogotá",
-      "id_domus": "194014268",
-      "fechaPublicacion": "2026-07-21",
-      "lat": 4.655095016163,
-      "lon": -74.061949978304,
-      "location_type": "exacta",
-      "zonaConsulta": "QUINTA CAMACHO",
-      "zonaSlug": "quinta-camacho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -130,6 +98,38 @@
       "fechaPublicacion": "2026-05-06",
       "lat": 4.653767256371,
       "lon": -74.057989005958,
+      "location_type": "exacta",
+      "zonaConsulta": "QUINTA CAMACHO",
+      "zonaSlug": "quinta-camacho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 2900000000,
+      "area": 325.0,
+      "precioM2": 8923077,
+      "administracion": 2453000.0,
+      "barrio": "EL NOGAL",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 4,
+      "parqueaderos": 4.0,
+      "estrato": 6.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-nogal-bogota/193306940",
+      "titulo": "Apartamento en Venta en El nogal, Bogotá",
+      "id_domus": "193306940",
+      "fechaPublicacion": "2026-01-22",
+      "lat": 4.6548153,
+      "lon": -74.0552684,
       "location_type": "exacta",
       "zonaConsulta": "QUINTA CAMACHO",
       "zonaSlug": "quinta-camacho",
@@ -206,9 +206,41 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 320000000,
+      "precio": 1289886900,
+      "area": 123.0,
+      "precioM2": 10486885,
+      "administracion": 1000000.0,
+      "barrio": "QUINTA CAMACHO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quinta-camacho-bogota/194014268",
+      "titulo": "Apartamento en Venta en Quinta camacho, Bogotá",
+      "id_domus": "194014268",
+      "fechaPublicacion": "2026-07-21",
+      "lat": 4.655095016163,
+      "lon": -74.061949978304,
+      "location_type": "exacta",
+      "zonaConsulta": "QUINTA CAMACHO",
+      "zonaSlug": "quinta-camacho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-8",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 300000000,
       "area": 48.0,
-      "precioM2": 6666667,
+      "precioM2": 6250000,
       "administracion": 383000.0,
       "barrio": "QUINTA CAMACHO",
       "upl": "Barrios Unidos",
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,64 +296,32 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 262000000,
-      "area": 28.0,
-      "precioM2": 9357143,
-      "administracion": 212000.0,
-      "barrio": "QUINTA CAMACHO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194369013",
-      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "194369013",
-      "fechaPublicacion": "2026-10-07",
-      "lat": 4.6527948,
-      "lon": -74.0629014,
-      "location_type": "exacta",
-      "zonaConsulta": "QUINTA CAMACHO",
-      "zonaSlug": "quinta-camacho",
-      "origenZona": "barrio"
-    },
-    {
       "id": "MI-10",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 270000000,
-      "area": 27.0,
-      "precioM2": 10000000,
-      "administracion": 210000.0,
+      "precio": 2650000000,
+      "area": 173.0,
+      "precioM2": 15317919,
+      "administracion": 2200000.0,
       "barrio": "QUINTA CAMACHO",
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
+      "habitaciones": 3,
+      "banos": 5,
+      "parqueaderos": 2.0,
+      "estrato": 6.0,
       "antiguedad": null,
       "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194242730",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194524615",
       "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "194242730",
-      "fechaPublicacion": "2026-09-11",
-      "lat": 4.6527343,
-      "lon": -74.0628522,
+      "id_domus": "194524615",
+      "fechaPublicacion": "2026-11-09",
+      "lat": 4.6548153,
+      "lon": -74.0552684,
       "location_type": "exacta",
       "zonaConsulta": "QUINTA CAMACHO",
       "zonaSlug": "quinta-camacho",
@@ -366,38 +366,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 678550000,
-      "area": 67.0,
-      "precioM2": 10127612,
-      "administracion": null,
-      "barrio": "QUINTA CAMACHO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-chapinero-bogota/194445014",
-      "titulo": "Apartamento en Venta en Chapinero, Bogotá",
-      "id_domus": "194445014",
-      "fechaPublicacion": "2026-10-22",
-      "lat": 4.6548153,
-      "lon": -74.0552684,
-      "location_type": "exacta",
-      "zonaConsulta": "QUINTA CAMACHO",
-      "zonaSlug": "quinta-camacho",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-13",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 2200000000,
       "area": 191.0,
       "precioM2": 11518325,
@@ -424,7 +392,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-14",
+      "id": "MI-13",
       "operacion": [
         "Venta"
       ],
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +488,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-17",
+      "id": "MI-16",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +520,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-17",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +552,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -648,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-21",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -674,6 +642,38 @@
       "fechaPublicacion": "2026-09-19",
       "lat": 4.6550029,
       "lon": -74.0612801,
+      "location_type": "exacta",
+      "zonaConsulta": "QUINTA CAMACHO",
+      "zonaSlug": "quinta-camacho",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-21",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 570000000,
+      "area": 117.0,
+      "precioM2": 4871795,
+      "administracion": null,
+      "barrio": "QUINTA CAMACHO",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-quinta-camacho-bogota/192656143",
+      "titulo": "Apartamento en Venta en Quinta camacho, Bogotá",
+      "id_domus": "192656143",
+      "fechaPublicacion": "2025-07-18",
+      "lat": 4.654044152542,
+      "lon": -74.061866809643,
       "location_type": "exacta",
       "zonaConsulta": "QUINTA CAMACHO",
       "zonaSlug": "quinta-camacho",

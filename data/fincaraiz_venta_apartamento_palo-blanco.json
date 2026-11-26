@@ -5,42 +5,10 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.18 03:15",
+  "generado": "2026.NOV.26 14:33",
   "inmuebles": [
     {
       "id": "MI-1",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 470000000,
-      "area": 60.0,
-      "precioM2": 7833333,
-      "administracion": 300000.0,
-      "barrio": "PALO BLANCO",
-      "upl": "Tabora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": 1,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-del-lago-bogota/194342881",
-      "titulo": "Apartamento en Venta en Santa Maria del Lago, Bogotá",
-      "id_domus": "194342881",
-      "fechaPublicacion": "2026-10-01",
-      "lat": 4.6876669,
-      "lon": -74.0950304,
-      "location_type": "exacta",
-      "zonaConsulta": "PALO BLANCO",
-      "zonaSlug": "palo-blanco",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +40,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -130,6 +98,38 @@
       "fechaPublicacion": "2025-07-23",
       "lat": 4.6880861426135,
       "lon": -74.095069169998,
+      "location_type": "exacta",
+      "zonaConsulta": "PALO BLANCO",
+      "zonaSlug": "palo-blanco",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 470000000,
+      "area": 60.0,
+      "precioM2": 7833333,
+      "administracion": 300000.0,
+      "barrio": "PALO BLANCO",
+      "upl": "Tabora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": 1,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-santa-maria-del-lago-bogota/194342881",
+      "titulo": "Apartamento en Venta en Santa Maria del Lago, Bogotá",
+      "id_domus": "194342881",
+      "fechaPublicacion": "2026-10-01",
+      "lat": 4.6876669,
+      "lon": -74.0950304,
       "location_type": "exacta",
       "zonaConsulta": "PALO BLANCO",
       "zonaSlug": "palo-blanco",
