@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 4,
+  "total": 3,
   "zona": "LA MERCED NORTE",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.17 18:49",
+  "generado": "2026.NOV.26 01:14",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -14,9 +14,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 2500000,
+      "precio": 2600000,
       "area": 44.0,
-      "precioM2": 56818,
+      "precioM2": 59091,
       "administracion": null,
       "barrio": "LA MERCED NORTE",
       "upl": "Barrios Unidos",
@@ -41,38 +41,6 @@
     },
     {
       "id": "MI-2",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1350000,
-      "area": 56.0,
-      "precioM2": 24107,
-      "administracion": null,
-      "barrio": "SIETE DE AGOSTO",
-      "upl": "Barrios Unidos",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-siete-de-agosto-bogota/194514096",
-      "titulo": "Apartamento en Arriendo en Siete de agosto, Bogotá",
-      "id_domus": "194514096",
-      "fechaPublicacion": "2026-11-06",
-      "lat": 4.6621941,
-      "lon": -74.0755183,
-      "location_type": "exacta",
-      "zonaConsulta": "LA MERCED NORTE",
-      "zonaSlug": "la-merced-norte",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -104,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
+      "id": "MI-3",
       "operacion": [
         "Arriendo"
       ],
@@ -118,7 +86,7 @@
       "upl": "Barrios Unidos",
       "ciudad": "Bogotá",
       "direccion": "",
-      "habitaciones": 1,
+      "habitaciones": 2,
       "banos": 1,
       "parqueaderos": 1.0,
       "estrato": 3,

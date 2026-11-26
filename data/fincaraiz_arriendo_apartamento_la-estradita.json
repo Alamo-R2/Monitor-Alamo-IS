@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "LA ESTRADITA",
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.18 03:15",
+  "generado": "2026.NOV.26 01:14",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,6 +46,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 2200000,
+      "area": 80.0,
+      "precioM2": 27500,
+      "administracion": null,
+      "barrio": "LA ESTRADITA",
+      "upl": "Barrios Unidos",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-la-estradita-bogota/194646017",
+      "titulo": "Apartamento en Arriendo en La Estradita, Bogotá",
+      "id_domus": "194646017",
+      "fechaPublicacion": "2026-11-23",
+      "lat": 4.674447674618,
+      "lon": -74.095285289965,
+      "location_type": "exacta",
+      "zonaConsulta": "LA ESTRADITA",
+      "zonaSlug": "la-estradita",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1000000,
       "area": 20.0,
       "precioM2": 50000,
@@ -72,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-4",
       "operacion": [
         "Arriendo"
       ],
