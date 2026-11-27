@@ -5,10 +5,74 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.25 01:40",
+  "generado": "2026.NOV.27 14:28",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 590000000,
+      "area": 87.0,
+      "precioM2": 6781609,
+      "administracion": null,
+      "barrio": "LA PRADERA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/191961541",
+      "titulo": "Apartamento en  Venta en Américas Central, Bogotá",
+      "id_domus": "191961541",
+      "fechaPublicacion": "2025-02-03",
+      "lat": 4.6262215,
+      "lon": -74.1239395,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PRADERA",
+      "zonaSlug": "la-pradera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 590000000,
+      "area": 90.0,
+      "precioM2": 6555556,
+      "administracion": 507000.0,
+      "barrio": "LA PRADERA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 3,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194423021",
+      "titulo": "Apartamento en Venta en Américas Central, Bogotá",
+      "id_domus": "194423021",
+      "fechaPublicacion": "2026-10-19",
+      "lat": 4.6258569,
+      "lon": -74.124242,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PRADERA",
+      "zonaSlug": "la-pradera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +104,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-4",
       "operacion": [
         "Venta"
       ],
@@ -72,7 +136,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-3",
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
@@ -104,39 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-4",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 300000000,
-      "area": 34.0,
-      "precioM2": 8823529,
-      "administracion": 167000.0,
-      "barrio": "SALAZAR GOMEZ",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salazar-gomez-bogota/193572531",
-      "titulo": "Apartamento en Venta en Salazar gomez, Bogotá",
-      "id_domus": "193572531",
-      "fechaPublicacion": "2026-03-27",
-      "lat": 4.629437986123,
-      "lon": -74.121949632709,
-      "location_type": "exacta",
-      "zonaConsulta": "LA PRADERA",
-      "zonaSlug": "la-pradera",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Venta"
       ],
@@ -168,15 +200,15 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Venta"
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 235000000,
+      "precio": 245000000,
       "area": 38.0,
-      "precioM2": 6184211,
+      "precioM2": 6447368,
       "administracion": 230200.0,
       "barrio": "PUENTE ARANDA",
       "upl": "Puente Aranda",
@@ -200,7 +232,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-7",
+      "id": "MI-8",
       "operacion": [
         "Venta"
       ],
@@ -232,7 +264,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-8",
+      "id": "MI-9",
       "operacion": [
         "Venta"
       ],
@@ -264,7 +296,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-9",
+      "id": "MI-10",
       "operacion": [
         "Venta"
       ],
@@ -290,38 +322,6 @@
       "fechaPublicacion": "2025-12-11",
       "lat": 4.6294675734568,
       "lon": -74.121814871269,
-      "location_type": "exacta",
-      "zonaConsulta": "LA PRADERA",
-      "zonaSlug": "la-pradera",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-10",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 480000000,
-      "area": 67.0,
-      "precioM2": 7164179,
-      "administracion": null,
-      "barrio": "LA PRADERA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194219835",
-      "titulo": "Apartamento en Venta en Américas Central, Bogotá",
-      "id_domus": "194219835",
-      "fechaPublicacion": "2026-09-07",
-      "lat": 4.6258569,
-      "lon": -74.124242,
       "location_type": "exacta",
       "zonaConsulta": "LA PRADERA",
       "zonaSlug": "la-pradera",
@@ -398,38 +398,6 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 265000000,
-      "area": 40.0,
-      "precioM2": 6625000,
-      "administracion": 275000.0,
-      "barrio": "SALAZAR GOMEZ",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 1,
-      "parqueaderos": null,
-      "estrato": 3.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salazar-gomez-bogota/194321579",
-      "titulo": "Apartamento en Venta en Salazar gomez, Bogotá",
-      "id_domus": "194321579",
-      "fechaPublicacion": "2026-09-26",
-      "lat": 4.62946,
-      "lon": -74.1218993,
-      "location_type": "exacta",
-      "zonaConsulta": "LA PRADERA",
-      "zonaSlug": "la-pradera",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-14",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
       "precio": 380000000,
       "area": 51.0,
       "precioM2": 7450980,
@@ -456,7 +424,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-15",
+      "id": "MI-14",
       "operacion": [
         "Venta"
       ],
@@ -488,7 +456,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-16",
+      "id": "MI-15",
       "operacion": [
         "Venta"
       ],
@@ -520,7 +488,71 @@
       "origenZona": "barrio"
     },
     {
+      "id": "MI-16",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 300000000,
+      "area": 34.0,
+      "precioM2": 8823529,
+      "administracion": 167000.0,
+      "barrio": "SALAZAR GOMEZ",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 1,
+      "parqueaderos": null,
+      "estrato": 3.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-salazar-gomez-bogota/193572531",
+      "titulo": "Apartamento en Venta en Salazar gomez, Bogotá",
+      "id_domus": "193572531",
+      "fechaPublicacion": "2026-03-27",
+      "lat": 4.629437986123,
+      "lon": -74.121949632709,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PRADERA",
+      "zonaSlug": "la-pradera",
+      "origenZona": "barrio"
+    },
+    {
       "id": "MI-17",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 600000000,
+      "area": 67.0,
+      "precioM2": 8955224,
+      "administracion": 390000.0,
+      "barrio": "LA PRADERA",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 2,
+      "parqueaderos": 1.0,
+      "estrato": 4.0,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/194668700",
+      "titulo": "Apartamento en Venta en Américas Central, Bogotá",
+      "id_domus": "194668700",
+      "fechaPublicacion": "2026-11-26",
+      "lat": 4.626974,
+      "lon": -74.1235482,
+      "location_type": "exacta",
+      "zonaConsulta": "LA PRADERA",
+      "zonaSlug": "la-pradera",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-18",
       "operacion": [
         "Venta"
       ],
@@ -552,7 +584,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-18",
+      "id": "MI-19",
       "operacion": [
         "Venta"
       ],
@@ -584,7 +616,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-19",
+      "id": "MI-20",
       "operacion": [
         "Venta"
       ],
@@ -616,7 +648,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-20",
+      "id": "MI-21",
       "operacion": [
         "Venta"
       ],
@@ -642,38 +674,6 @@
       "fechaPublicacion": "2026-08-05",
       "lat": 4.62946,
       "lon": -74.1218993,
-      "location_type": "exacta",
-      "zonaConsulta": "LA PRADERA",
-      "zonaSlug": "la-pradera",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-21",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 760000000,
-      "area": 92.0,
-      "precioM2": 8260870,
-      "administracion": 300000.0,
-      "barrio": "LA PRADERA",
-      "upl": "Puente Aranda",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 3,
-      "banos": 2,
-      "parqueaderos": 1.0,
-      "estrato": 4.0,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-americas-central-bogota/193916349",
-      "titulo": "Apartamento en Venta en Américas Central, Bogotá",
-      "id_domus": "193916349",
-      "fechaPublicacion": "2026-06-25",
-      "lat": 4.6283178,
-      "lon": -74.12341,
       "location_type": "exacta",
       "zonaConsulta": "LA PRADERA",
       "zonaSlug": "la-pradera",

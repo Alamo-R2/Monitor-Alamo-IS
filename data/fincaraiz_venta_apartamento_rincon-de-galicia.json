@@ -5,10 +5,42 @@
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.18 21:39",
+  "generado": "2026.NOV.27 14:28",
   "inmuebles": [
     {
       "id": "MI-1",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 247000000,
+      "area": 50.0,
+      "precioM2": 4940000,
+      "administracion": 112000.0,
+      "barrio": "EL ENSUENO",
+      "upl": "Arborizadora",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-ensueno-bogota/194082223",
+      "titulo": "Apartamento en Venta en El ensueno, Bogotá",
+      "id_domus": "194082223",
+      "fechaPublicacion": "2026-08-05",
+      "lat": 4.5866702,
+      "lon": -74.1738291,
+      "location_type": "exacta",
+      "zonaConsulta": "RINCON DE GALICIA",
+      "zonaSlug": "rincon-de-galicia",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-2",
       "operacion": [
         "Venta"
       ],
@@ -40,7 +72,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-2",
+      "id": "MI-3",
       "operacion": [
         "Venta"
       ],
@@ -66,38 +98,6 @@
       "fechaPublicacion": "2026-05-27",
       "lat": 4.5871087917373,
       "lon": -74.171222448349,
-      "location_type": "exacta",
-      "zonaConsulta": "RINCON DE GALICIA",
-      "zonaSlug": "rincon-de-galicia",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-3",
-      "operacion": [
-        "Venta"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 247000000,
-      "area": 50.0,
-      "precioM2": 4940000,
-      "administracion": 112000.0,
-      "barrio": "EL ENSUENO",
-      "upl": "Arborizadora",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-el-ensueno-bogota/194082223",
-      "titulo": "Apartamento en Venta en El ensueno, Bogotá",
-      "id_domus": "194082223",
-      "fechaPublicacion": "2026-08-05",
-      "lat": 4.5866702,
-      "lon": -74.1738291,
       "location_type": "exacta",
       "zonaConsulta": "RINCON DE GALICIA",
       "zonaSlug": "rincon-de-galicia",
