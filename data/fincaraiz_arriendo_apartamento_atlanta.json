@@ -5,7 +5,7 @@
   "origen": "barrio",
   "operacion": "arriendo",
   "tipo": "apartamento",
-  "generado": "2026.NOV.26 01:14",
+  "generado": "2026.NOV.27 01:12",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -110,6 +110,38 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
+      "precio": 1200000,
+      "area": 48.0,
+      "precioM2": 25000,
+      "administracion": null,
+      "barrio": "MADELENA",
+      "upl": "Tunjuelito",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 2,
+      "banos": 2,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-madelena-bogota/194449472",
+      "titulo": "Apartamento en Arriendo en Madelena, Bogotá",
+      "id_domus": "194449472",
+      "fechaPublicacion": "2026-10-23",
+      "lat": 4.5879274,
+      "lon": -74.1572766,
+      "location_type": "exacta",
+      "zonaConsulta": "ATLANTA",
+      "zonaSlug": "atlanta",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
+      "operacion": [
+        "Arriendo"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
       "precio": 1034200,
       "area": 43.0,
       "precioM2": 24051,
@@ -136,7 +168,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-5",
+      "id": "MI-6",
       "operacion": [
         "Arriendo"
       ],
@@ -168,7 +200,7 @@
       "origenZona": "barrio"
     },
     {
-      "id": "MI-6",
+      "id": "MI-7",
       "operacion": [
         "Arriendo"
       ],
@@ -194,38 +226,6 @@
       "fechaPublicacion": "2026-10-21",
       "lat": 4.5883622,
       "lon": -74.1536952,
-      "location_type": "exacta",
-      "zonaConsulta": "ATLANTA",
-      "zonaSlug": "atlanta",
-      "origenZona": "barrio"
-    },
-    {
-      "id": "MI-7",
-      "operacion": [
-        "Arriendo"
-      ],
-      "tipo": "apartamento",
-      "tipoPortal": "Apartamento",
-      "precio": 1200000,
-      "area": 48.0,
-      "precioM2": 25000,
-      "administracion": null,
-      "barrio": "MADELENA",
-      "upl": "Tunjuelito",
-      "ciudad": "Bogotá",
-      "direccion": "",
-      "habitaciones": 2,
-      "banos": 2,
-      "parqueaderos": null,
-      "estrato": 3,
-      "antiguedad": null,
-      "portalNombre": "fincaraiz",
-      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-arriendo-en-madelena-bogota/194449472",
-      "titulo": "Apartamento en Arriendo en Madelena, Bogotá",
-      "id_domus": "194449472",
-      "fechaPublicacion": "2026-10-23",
-      "lat": 4.5879274,
-      "lon": -74.1572766,
       "location_type": "exacta",
       "zonaConsulta": "ATLANTA",
       "zonaSlug": "atlanta",
