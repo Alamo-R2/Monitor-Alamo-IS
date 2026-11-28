@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "total": 3,
+  "total": 4,
   "zona": "ALQUERIA LA FRAGUA NORTE",
   "origen": "barrio",
   "operacion": "venta",
   "tipo": "apartamento",
-  "generado": "2026.NOV.24 15:23",
+  "generado": "2026.NOV.28 00:45",
   "inmuebles": [
     {
       "id": "MI-1",
@@ -46,9 +46,9 @@
       ],
       "tipo": "apartamento",
       "tipoPortal": "Apartamento",
-      "precio": 260000000,
+      "precio": 285000000,
       "area": 56.0,
-      "precioM2": 4642857,
+      "precioM2": 5089286,
       "administracion": 197000.0,
       "barrio": "ALQUERIA LA FRAGUA NORTE",
       "upl": "Puente Aranda",
@@ -73,6 +73,38 @@
     },
     {
       "id": "MI-4",
+      "operacion": [
+        "Venta"
+      ],
+      "tipo": "apartamento",
+      "tipoPortal": "Apartamento",
+      "precio": 410000000,
+      "area": 79.0,
+      "precioM2": 5189873,
+      "administracion": null,
+      "barrio": "TEJAR",
+      "upl": "Puente Aranda",
+      "ciudad": "Bogotá",
+      "direccion": "",
+      "habitaciones": 3,
+      "banos": 10,
+      "parqueaderos": null,
+      "estrato": 3,
+      "antiguedad": null,
+      "portalNombre": "fincaraiz",
+      "sourceLink": "https://www.fincaraiz.com.co/apartamento-en-venta-en-tejar-bogota/194675937",
+      "titulo": "Apartamento en Venta en Tejar, Bogotá",
+      "id_domus": "194675937",
+      "fechaPublicacion": "2026-11-27",
+      "lat": 4.606339996497,
+      "lon": -74.129775019423,
+      "location_type": "exacta",
+      "zonaConsulta": "ALQUERIA LA FRAGUA NORTE",
+      "zonaSlug": "alqueria-la-fragua-norte",
+      "origenZona": "barrio"
+    },
+    {
+      "id": "MI-5",
       "operacion": [
         "Venta"
       ],
